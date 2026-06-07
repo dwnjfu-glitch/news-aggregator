@@ -1,0 +1,962 @@
+[
+  {
+    "title": "BBC News app",
+    "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+    "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+    "pubDate": "Wed, 30 Apr 2025 14:04:28 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Explore a place where science, politics and culture collide",
+    "link": "https://www.bbc.co.uk/iplayer/episode/m002x8ll?at_mid=wTY3BRMFBF&at_campaign=The_Hadron_Collider_In_Search_of_the_Peace_Particle&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002x8ll&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Hadron_Collider_In_Search_of_the_Peace_Particle&at_bbc_team=BBC",
+    "summary": "Film exploring the human stories behind mankind’s biggest experiment in particle physics.",
+    "pubDate": "Wed, 03 Jun 2026 21:00:52 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Venus will disappear behind the Moon in a rare June sky event",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260603023107.htm",
+    "summary": "June's night sky delivers several must-see events, starting with a close encounter between Venus and Jupiter after sunset. Mercury joins the pair to form a rare three-planet lineup, while the Moon puts on a special show by passing in front of Venus for viewers in parts of the Americas. The month ...",
+    "pubDate": "Wed, 03 Jun 2026 11:54:24 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Scientists simulated a nuclear fireball and found a surprise in the fallout",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260603023104.htm",
+    "summary": "Scientists at Lawrence Livermore National Laboratory recreated part of the intense chaos inside a nuclear fireball to better understand how radioactive fallout forms. Their experiments revealed that the way vaporized materials cool can dramatically change the particles that eventually form, espec...",
+    "pubDate": "Wed, 03 Jun 2026 10:25:48 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Popular GLP-1 weight-loss drugs linked to lower risks of addiction and overdose",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260603023919.htm",
+    "summary": "A massive study of more than 600,000 U.S. veterans suggests that popular GLP-1 drugs such as semaglutide may do far more than help with diabetes and weight loss—they could also fight addiction itself. Researchers found that people taking these medications were less likely to develop substance use...",
+    "pubDate": "Wed, 03 Jun 2026 10:04:58 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "This new diabetes pill burns fat without the downsides of Ozempic",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260603015541.htm",
+    "summary": "Scientists have developed an experimental diabetes and obesity pill that works in a completely different way from drugs like Ozempic. Rather than reducing hunger, it activates metabolism in skeletal muscle, helping lower blood sugar and increase fat burning while preserving muscle mass. Early cli...",
+    "pubDate": "Wed, 03 Jun 2026 09:27:40 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Scientists reverse anxiety by fixing a tiny brain circuit",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260603015356.htm",
+    "summary": "A newly identified group of amygdala neurons appears to play a central role in anxiety and social behavior. Restoring normal activity in this tiny brain circuit reversed anxiety and social deficits in mice, revealing a promising new target for future treatments.",
+    "pubDate": "Wed, 03 Jun 2026 08:16:56 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "New discovery upends an 80-year-old theory of turbulence",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260602021655.htm",
+    "summary": "Researchers discovered a way to reverse the direction of energy flow in turbulence, challenging a theory that has stood for more than 80 years. The finding could open new possibilities for controlling ocean currents, improving medical technologies, and enhancing climate forecasting.",
+    "pubDate": "Wed, 03 Jun 2026 07:40:45 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Typhoon Jangmi’s giant eye lights up the night as it approaches Japan",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260603023110.htm",
+    "summary": "Typhoon Jangmi powered toward southern Japan with heavy rain, strong winds, and a striking appearance from space. Nighttime satellite images revealed a large eye and intricate swirling structures within the storm. As Jangmi intensified, its outer bands spread over land, raising concerns about flo...",
+    "pubDate": "Wed, 03 Jun 2026 07:07:57 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Super Typhoon Sinlaku triggered atmospheric gravity waves visible from space",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260603023113.htm",
+    "summary": "One of the most powerful typhoons ever recorded this early in the Pacific season did more than unleash flooding and extreme winds—it sent enormous ripples all the way into the upper atmosphere. As Super Typhoon Sinlaku rapidly exploded into a category 5-equivalent storm, satellites captured rare ...",
+    "pubDate": "Wed, 03 Jun 2026 06:53:45 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "A child's tooth and strange green stones uncover a 5,500-year-old mystery",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260603023914.htm",
+    "summary": "An ancient mountain cave in the Pyrenees may have served as one of the earliest high-altitude mining camps ever discovered, with evidence of repeated visits spanning thousands of years. The find becomes even more intriguing with the discovery of a child’s remains and clues that deeper excavations...",
+    "pubDate": "Wed, 03 Jun 2026 05:10:16 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Scientists discovered something surprising about french fries and diabetes",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260603015218.htm",
+    "summary": "French fries may be the real potato problem. A large study tracking more than 205,000 people for nearly 40 years found that eating three servings of fries per week was linked to a 20% higher risk of developing type 2 diabetes, while baked, boiled, or mashed potatoes showed no significant increase...",
+    "pubDate": "Wed, 03 Jun 2026 02:14:01 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Scientists confirm a deep earthquake that shouldn't exist",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260602021636.htm",
+    "summary": "Scientists have confirmed that a mysterious Utah earthquake first detected in 1979 really did occur nearly 90 kilometers underground—far deeper than anyone thought earthquakes could happen beneath a continent. By reanalyzing decades of seismic data, researchers identified a rare class of \"contine...",
+    "pubDate": "Wed, 03 Jun 2026 01:32:43 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Brain scans reveal two distinct types of autism",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260602021634.htm",
+    "summary": "Scientists have uncovered evidence that autism may include at least two biologically distinct subtypes, each marked by a different pattern of brain communication. By combining brain scans from nearly 1,000 people with autism with insights from 20 genetically engineered mouse models, researchers i...",
+    "pubDate": "Wed, 03 Jun 2026 00:46:00 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "A single protein may be holding back CAR T cancer therapy",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260602021641.htm",
+    "summary": "A newly identified protein may be one of the biggest obstacles holding CAR T-cell therapy back. Researchers found that NFIL3 causes these engineered immune cells to become exhausted and lose their cancer-fighting power over time. When NFIL3 was disabled, the cells remained stronger for longer and...",
+    "pubDate": "Tue, 02 Jun 2026 10:54:02 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Scientists discover gut bacteria that may help protect against autism and ADHD",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260602021645.htm",
+    "summary": "A major study suggests that some of the groundwork for brain development may be shaped before birth through a surprising partnership between a baby’s genes and gut microbes. Researchers found that epigenetic changes present at birth can influence how the gut microbiome develops during the first y...",
+    "pubDate": "Tue, 02 Jun 2026 10:18:47 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "A hidden pollutant is changing how the world's forests breathe",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260602021659.htm",
+    "summary": "A massive global analysis found that nitrogen pollution can either speed up or dramatically slow the natural \"breathing\" of forest soils, depending on the ecosystem's condition. The results reveal hidden tipping points that could affect how forests store carbon and cope with climate change.",
+    "pubDate": "Tue, 02 Jun 2026 10:11:57 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "The secret underground system keeping the Grand Canyon alive",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260602021648.htm",
+    "summary": "Scientists are venturing into the Grand Canyon’s hidden cave networks to solve a mystery: how snowmelt travels underground to supply the park’s vital springs. Their discoveries could help protect the canyon’s water from drought, contamination, and other growing threats.",
+    "pubDate": "Tue, 02 Jun 2026 09:21:40 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "This blood-feeding fly sacrifices its sight after finding a host",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260602021633.htm",
+    "summary": "Deer keds rely on flight and vision to find a host, but everything changes once they land. After shedding their wings forever, these parasites reduce the activity of key vision-related genes by about half. Scientists believe they are effectively trading sharp eyesight for extra energy that can be...",
+    "pubDate": "Tue, 02 Jun 2026 08:26:08 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "A stellar “Rosetta stone” reveals the source of mysterious cosmic signals",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260602021631.htm",
+    "summary": "Astronomers have finally cracked the mystery behind a strange class of repeating cosmic signals that has baffled scientists for years. Using Australia’s ASKAP radio telescope, researchers traced the bursts to a rare stellar duo in which a dense white dwarf is relentlessly siphoning material from ...",
+    "pubDate": "Tue, 02 Jun 2026 07:08:18 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Your brain starts making social decisions before you do",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260602021629.htm",
+    "summary": "Researchers found that social behavior begins in the brain before it becomes visible as movement. In zebrafish, a coordinated pattern of activity spread across the brain several seconds before the animals approached another fish. A higher brain region called the pallium played a key role, and fis...",
+    "pubDate": "Tue, 02 Jun 2026 04:54:02 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "One fat helped pancreatic cancer grow while another cut disease in half",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260601025349.htm",
+    "summary": "A surprising new study suggests that when it comes to pancreatic cancer, the kind of fat you eat may matter more than how much. Researchers found that oleic acid—the main fat in olive oil and several other common foods—sped up tumor growth in mice predisposed to pancreatic cancer, while omega-3-r...",
+    "pubDate": "Tue, 02 Jun 2026 01:55:31 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "New hydrogen breakthrough turns waste heat into clean fuel",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260601025345.htm",
+    "summary": "A breakthrough hydrogen-production method could make clean fuel far cheaper and easier to generate. Researchers at the University of Birmingham developed a perovskite-based catalyst that splits water into hydrogen at much lower temperatures than existing technologies, potentially allowing factori...",
+    "pubDate": "Tue, 02 Jun 2026 00:47:07 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "New light-powered chip could accelerate AI and quantum computing",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260601025343.htm",
+    "summary": "Scientists have created a tiny chip that can generate, steer, and read light-based information all in one device, marking a major leap toward ultra-fast, energy-efficient computing. The breakthrough uses atomically thin materials and nanoscale structures to control a unique quantum property of li...",
+    "pubDate": "Tue, 02 Jun 2026 00:30:26 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "The skeptic’s guide to humanoid robots going viral on the Internet",
+    "link": "https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/",
+    "summary": "Robot demonstrations can distort public perceptions of robotic capabilities.",
+    "pubDate": "Thu, 04 Jun 2026 22:23:36 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Not to Alarm Anyone, but Flesh-Eating Screwworms Have Entered the US",
+    "link": "https://www.wired.com/story/flesh-eating-screwworms-have-entered-the-us/",
+    "summary": "The USDA this week confirmed the first known infection of the carnivorous fly larva, which feast on the flesh of living mammals, after the United States eradicated the nightmare bugs in the 1960s.",
+    "pubDate": "Thu, 04 Jun 2026 21:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "AT&T and Verizon lose Supreme Court case over fines for selling location data",
+    "link": "https://arstechnica.com/tech-policy/2026/06/att-and-verizon-lose-supreme-court-case-over-fines-for-selling-location-data/",
+    "summary": "FCC did not violate carriers' right to jury trial, court says in 8-1 ruling.",
+    "pubDate": "Thu, 04 Jun 2026 21:25:19 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "These LLMs are the best at resisting Russian propaganda",
+    "link": "https://arstechnica.com/ai/2026/06/these-llms-are-the-best-at-resisting-russian-propaganda/",
+    "summary": "Estonian government benchmark shows how dozens of models combat Russia's \"strategic narratives.\"",
+    "pubDate": "Thu, 04 Jun 2026 20:44:31 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Dashlane explains how attackers managed to download encrypted password vaults",
+    "link": "https://arstechnica.com/security/2026/06/dashlane-explains-how-attackers-managed-to-download-encrypted-password-vaults/",
+    "summary": "By targeting large numbers of users, attackers increased their chances of success.",
+    "pubDate": "Thu, 04 Jun 2026 20:02:04 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "新玩意 243｜少数派的编辑们最近买了啥？",
+    "link": "https://sspai.com/post/110736",
+    "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ... 查看全文",
+    "pubDate": "Thu, 04 Jun 2026 19:15:27 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "The AI IPO Race Heats Up, DOGE Whistleblower Sues Elon Musk, and Instagram Gets Hacked",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-ai-ipo-race-elon-musk-doge-whistleblower-instagram-hacking-incident/",
+    "summary": "On Uncanny Valley, we dive into the IPO bonanza that the top AI companies are embarking on to the point where some real estate listings are looking for not just regular old cash, but Anthropic stock.",
+    "pubDate": "Thu, 04 Jun 2026 18:44:49 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Phoebe Bridgers Ditched the Internet to Hype Up Her New Music. It’s Working",
+    "link": "https://www.wired.com/story/phoebe-bridgers-ditched-the-internet-to-hype-up-her-new-music-its-working/",
+    "summary": "The indie artist has played a string of surprise, small-venue shows with no phones allowed, prompting fans to piece together clues about a potential upcoming album.",
+    "pubDate": "Thu, 04 Jun 2026 18:27:48 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Meta Silently Added Face-Recognition Code for Its Smart Glasses to Millions of Phones",
+    "link": "https://www.wired.com/story/meta-smart-glasses-face-recognition-nametag-connections/",
+    "summary": "Code reviewed by WIRED uncovered an unreleased face-recognition system embedded in Meta’s smart glasses platform. It’s designed to identify people via biometric data stored on users’ phones.",
+    "pubDate": "Thu, 04 Jun 2026 17:28:11 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "The TikTok Ban Was Never About TikTok",
+    "link": "https://www.wired.com/story/made-in-china-tiktok-never-dies/",
+    "summary": "A new documentary chronicles how the app became a stand-in for American anxieties about social media, China, and political power.",
+    "pubDate": "Thu, 04 Jun 2026 17:06:21 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "它不会是下一场新冠：简单了解汉坦病毒",
+    "link": "https://sspai.com/post/110717",
+    "summary": "人类研究了这么久流行病，虽说事故总难免，但还是有点本事在的，至少这回肯定控制得住。 查看全文",
+    "pubDate": "Thu, 04 Jun 2026 15:00:00 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "Scientists discover vast hidden structure beneath Antarctica’s ice",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260604044244.htm",
+    "summary": "A giant fan-shaped network of hidden basins has been discovered beneath East Antarctica, revealing that several well-known subglacial features are actually part of one massive geological structure. The finding sheds new light on Antarctica’s ancient tectonic history and could help scientists bett...",
+    "pubDate": "Thu, 04 Jun 2026 11:23:27 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "比 ZeroTier 更好的选择：EasyTier 去中心化异地组网全平台部署",
+    "link": "https://sspai.com/post/110126",
+    "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
+    "pubDate": "Thu, 04 Jun 2026 11:02:55 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "After 20 years, scientists finally shrink a powerful laser onto a chip",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260604044240.htm",
+    "summary": "Researchers at EPFL have developed a chip-scale ultrafast laser that performs on par with traditional tabletop femtosecond lasers. The innovation could make advanced laser technologies far smaller, cheaper, and more accessible for applications ranging from medical diagnostics to atomic clocks.",
+    "pubDate": "Thu, 04 Jun 2026 10:54:57 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "A study of 8,300 older adults revealed a surprising salt habit",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260604044304.htm",
+    "summary": "A large study of older adults in Brazil found that adding extra salt at the table is still a common habit, especially among men. While too much salt is linked to serious health problems and faster cognitive decline, researchers discovered that women’s salt-shaking habits were tied more closely to...",
+    "pubDate": "Thu, 04 Jun 2026 10:05:04 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Scientists finally crack an “undruggable” pancreatic cancer target and nearly double survival",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260604044247.htm",
+    "summary": "For decades, pancreatic cancer has been one of the most lethal cancers, with few effective treatment options. A new drug, daraxonrasib, targets the KRAS mutation that fuels most pancreatic tumors—something many scientists once thought couldn't be done. In a major clinical trial, the treatment nea...",
+    "pubDate": "Thu, 04 Jun 2026 09:18:44 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Goethe never knew this 40-million-year-old ant was hidden in his collection",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260604044252.htm",
+    "summary": "Scientists examining amber from Goethe’s personal collection discovered three hidden fossil insects, including an extinct ant preserved in extraordinary detail. Advanced 3D imaging allowed researchers to see not only the ant’s outer features but also structures inside its body. The findings offer...",
+    "pubDate": "Thu, 04 Jun 2026 08:30:55 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Pupils' upcycling scheme helps lower cost of prom",
+    "link": "https://www.bbc.com/news/articles/cqjp24g8nj0o?at_medium=RSS&at_campaign=rss",
+    "summary": "A free 'prom library' has been set up in a bid to tackle the cost of clothing for the event",
+    "pubDate": "Thu, 04 Jun 2026 06:21:44 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Scientists discover the master clock that controls biological growth and development",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260604044236.htm",
+    "summary": "A newly discovered genetic clock acts as the master timekeeper for development, orchestrating crucial bursts of gene activity throughout a worm’s growth. When the clock is disrupted, development stops, offering fresh clues about how growth-related disorders may arise.",
+    "pubDate": "Thu, 04 Jun 2026 05:36:05 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Mum 'speechless' as strangers transform her home",
+    "link": "https://www.bbc.com/news/articles/cdxp1kjepywo?at_medium=RSS&at_campaign=rss",
+    "summary": "A Trafford mum of three boys with complex needs has her home renovated by a group of kind volunteers.",
+    "pubDate": "Thu, 04 Jun 2026 05:07:43 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Beluga whales keep switching mates and it may be saving their species",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260603023921.htm",
+    "summary": "Hidden beneath Arctic waters, beluga whales have long kept their family lives a mystery. By analyzing DNA from more than 600 belugas in Alaska’s Bristol Bay over 13 years, researchers uncovered a surprisingly flexible mating system: both males and females regularly have offspring with different p...",
+    "pubDate": "Thu, 04 Jun 2026 03:51:13 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Scientists discover a quantum effect that could eliminate batteries",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260603023917.htm",
+    "summary": "Researchers have discovered how microscopic imperfections and atomic vibrations can be used to control a powerful quantum effect in an advanced material. The effect can turn alternating electrical signals from the environment directly into the kind of current electronic devices need, without trad...",
+    "pubDate": "Thu, 04 Jun 2026 03:14:13 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Cancer’s favorite escape trick may actually make it easier to kill",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260603023911.htm",
+    "summary": "Scientists have uncovered a surprising new way the immune system fights cancer, overturning a core belief that has guided immunology for decades. The research found that when cancer cells shut down a key immune-recognition molecule called MHC I—a common trick used to hide from “killer” T cells—th...",
+    "pubDate": "Thu, 04 Jun 2026 01:30:22 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "NASA's Webb detects methane and strange chemistry on interstellar comet 3I/ATLAS",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260603023116.htm",
+    "summary": "NASA's James Webb Space Telescope has uncovered unusual chemistry in interstellar comet 3I/ATLAS, including the first direct detection of methane on a visitor from another star system. The comet also contains exceptionally high levels of carbon dioxide, making it unlike most comets born in our so...",
+    "pubDate": "Thu, 04 Jun 2026 01:17:24 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Scientists found the hidden switch fueling alzheimer’s brain inflammation",
+    "link": "https://www.sciencedaily.com/releases/2026/05/260530053424.htm",
+    "summary": "Scientists at Scripps Research have uncovered a molecular “switch” that appears to fuel the damaging brain inflammation seen in Alzheimer’s disease. They found that a protein called STING becomes chemically altered in a way that keeps the brain’s immune system stuck in overdrive, harming the conn...",
+    "pubDate": "Sun, 31 May 2026 11:30:38 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Chimpanzees and bonobos have human-like friend circles, study finds",
+    "link": "https://www.sciencedaily.com/releases/2026/05/260530053432.htm",
+    "summary": "Great apes appear to build friendships much like humans do. By studying grooming behavior, researchers discovered that chimpanzees and bonobos form close inner circles along with wider networks of weaker social connections. Chimpanzees focus on a few trusted partners and become more selective wit...",
+    "pubDate": "Sun, 31 May 2026 11:03:38 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg",
+    "link": "https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&at_campaign=rss",
+    "summary": "The BBC's Russia editor saw Putin's flagship economic event overshadowed by Ukrainian drones attacks.",
+    "pubDate": "Sun, 07 Jun 2026 07:11:18 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Delays to defence plan undermine UK credibility, MPs say",
+    "link": "https://www.bbc.com/news/articles/c0ky47v6d1no?at_medium=RSS&at_campaign=rss",
+    "summary": "The Defence Investment Plan is now due to be released ahead of a Nato summit early next month.",
+    "pubDate": "Sun, 07 Jun 2026 07:04:20 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "'My great-grandad saved your life' - Aberfan survivor left stunned on school visit",
+    "link": "https://www.bbc.com/news/articles/clyp3kmjy3no?at_medium=RSS&at_campaign=rss",
+    "summary": "An Aberfan disaster survivor met the great-grandson of the caretaker who pulled him from the rubble.",
+    "pubDate": "Sun, 07 Jun 2026 06:21:51 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
+    "link": "https://www.ioccc.org/2025/",
+    "summary": "Article URL: https://www.ioccc.org/2025/ Comments URL: https://news.ycombinator.com/item?id=48432199 Points: 73 # Comments: 9",
+    "pubDate": "Sun, 07 Jun 2026 05:47:54 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
+    "link": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
+    "summary": "The US defence secretary was speaking in Normandy, 82 years after allied forces launched their operation to liberate Nazi-occupied north-western Europe.",
+    "pubDate": "Sun, 07 Jun 2026 05:47:28 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "I design with Claude more than Figma now",
+    "link": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+    "summary": "Article URL: https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/ Comments URL: https://news.ycombinator.com/item?id=48431981 Points: 88 # Comments: 54",
+    "pubDate": "Sun, 07 Jun 2026 05:04:24 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The circus freaks of open source",
+    "link": "https://drewdevault.com/blog/Circus-freaks-of-FOSS/",
+    "summary": "Article URL: https://drewdevault.com/blog/Circus-freaks-of-FOSS/ Comments URL: https://news.ycombinator.com/item?id=48431952 Points: 54 # Comments: 14",
+    "pubDate": "Sun, 07 Jun 2026 04:57:02 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The Papers:  'Cuts to fund defence spark chaos' and 'Kate the cream of hearts'",
+    "link": "https://www.bbc.com/news/articles/c5yzl0271kqo?at_medium=RSS&at_campaign=rss",
+    "summary": "The government's defence spending plans feature on many of Sunday's front pages - along with a royal wedding.",
+    "pubDate": "Sun, 07 Jun 2026 04:35:59 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Manhunt for suspects after 12 people shot near festival in Ohio",
+    "link": "https://www.bbc.com/news/articles/c4gyqzkgwn2o?at_medium=RSS&at_campaign=rss",
+    "summary": "Police in the Toledo city say it appears that two people fired weapons and they were \"probably shooting at each other\".",
+    "pubDate": "Sun, 07 Jun 2026 04:10:20 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Valve P2P networking broken for more than 2 months",
+    "link": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
+    "summary": "Article URL: https://github.com/ValveSoftware/GameNetworkingSockets/issues/398 Comments URL: https://news.ycombinator.com/item?id=48431461 Points: 115 # Comments: 53",
+    "pubDate": "Sun, 07 Jun 2026 03:21:52 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Field of clones: How horse replicas came to dominate polo",
+    "link": "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses",
+    "summary": "Article URL: https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses Comments URL: https://news.ycombinator.com/item?id=48431286 Points: 71 # Comments: 36",
+    "pubDate": "Sun, 07 Jun 2026 02:46:37 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Show HN: TakoVM – Isolated model and tool execution used by enterprises",
+    "link": "https://github.com/las7/TakoVM",
+    "summary": "Article URL: https://github.com/las7/TakoVM Comments URL: https://news.ycombinator.com/item?id=48431257 Points: 19 # Comments: 6",
+    "pubDate": "Sun, 07 Jun 2026 02:42:24 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "How Liminalism Became the Defining Aesthetic of Our Time",
+    "link": "https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/",
+    "summary": "Article URL: https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/ Comments URL: https://news.ycombinator.com/item?id=48431085 Points: 48 # Comments: 31",
+    "pubDate": "Sun, 07 Jun 2026 02:12:19 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Show HN: Oproxy – inspect and modify network traffic from the browser",
+    "link": "https://github.com/sauravrao637/oproxy",
+    "summary": "Article URL: https://github.com/sauravrao637/oproxy Comments URL: https://news.ycombinator.com/item?id=48431079 Points: 35 # Comments: 6",
+    "pubDate": "Sun, 07 Jun 2026 02:11:29 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+    "link": "https://arxiv.org/abs/2601.14470",
+    "summary": "Article URL: https://arxiv.org/abs/2601.14470 Comments URL: https://news.ycombinator.com/item?id=48430923 Points: 86 # Comments: 26",
+    "pubDate": "Sun, 07 Jun 2026 01:37:11 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Starmer tells supporters he will fight any leadership contest",
+    "link": "https://www.bbc.com/news/articles/c3vyxzl625po?at_medium=RSS&at_campaign=rss",
+    "summary": "The prime minister's position has hardened since Andy Burnham said he would seek to enter any potential Labour contest.",
+    "pubDate": "Sun, 07 Jun 2026 01:03:55 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Public Domain Image Archive",
+    "link": "https://pdimagearchive.org/",
+    "summary": "Article URL: https://pdimagearchive.org/ Comments URL: https://news.ycombinator.com/item?id=48430539 Points: 97 # Comments: 16",
+    "pubDate": "Sun, 07 Jun 2026 00:22:51 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Final scoop for ice cream shop after 103 years in business",
+    "link": "https://www.bbc.com/news/articles/c62xeld6ql9o?at_medium=RSS&at_campaign=rss",
+    "summary": "McGroggan's on William street was famous in Ballymena for its homemade ice cream.",
+    "pubDate": "Sat, 30 May 2026 14:10:20 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Why pupils are getting custom school leavers' shirts made for their last day",
+    "link": "https://www.bbc.com/news/articles/cvgzv6yv3z1o?at_medium=RSS&at_campaign=rss",
+    "summary": "In between studying for GCSE exams, many students spend hours designing personalised leavers' shirts.",
+    "pubDate": "Sat, 06 Jun 2026 23:58:22 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Human-Like Neural Nets by Catapulting",
+    "link": "https://gwern.net/llm-catapult",
+    "summary": "Article URL: https://gwern.net/llm-catapult Comments URL: https://news.ycombinator.com/item?id=48430282 Points: 25 # Comments: 3",
+    "pubDate": "Sat, 06 Jun 2026 23:45:36 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Cake sheds are making bakers £1,000 a week - but the dream might be over",
+    "link": "https://www.bbc.com/news/articles/crlpwd2prd0o?at_medium=RSS&at_campaign=rss",
+    "summary": "They may have captured the public's imagination, but are councils coming for the cute cake cupboards?",
+    "pubDate": "Sat, 06 Jun 2026 23:41:06 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "I was applying for hundreds of jobs - this tip helped me get one",
+    "link": "https://www.bbc.com/news/articles/cd7pqwr5lqxo?at_medium=RSS&at_campaign=rss",
+    "summary": "Four people who weren't hearing back from job applications shared what they did differently to secure their first role.",
+    "pubDate": "Sat, 06 Jun 2026 23:39:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "This was a training game - England & Tuchel now need to get serious",
+    "link": "https://www.bbc.com/sport/football/articles/c3ryd490rz7o?at_medium=RSS&at_campaign=rss",
+    "summary": "England have one more game to prepare for their World Cup campaign - and they must use it wisely, writes Phil McNulty.",
+    "pubDate": "Sat, 06 Jun 2026 23:35:51 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Patient, precise, clinical - are Scotland ready to make World Cup mark?",
+    "link": "https://www.bbc.com/sport/football/articles/clyrw74l269o?at_medium=RSS&at_campaign=rss",
+    "summary": "Scotland thrash Bolivia and are in decent fettle one week out from the biggest game of their international lives.",
+    "pubDate": "Sat, 06 Jun 2026 23:31:18 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The gamers taking on the industry to stop it switching off games",
+    "link": "https://www.bbc.com/news/articles/c8e8e7g0r82o?at_medium=RSS&at_campaign=rss",
+    "summary": "Stop Killing Games is challenging the idea publishers can shut down a game without making sure it's still playable.",
+    "pubDate": "Sat, 06 Jun 2026 23:25:51 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Police officer on Love Island US faces hometown backlash",
+    "link": "https://www.bbc.com/news/articles/cpqprxlqe0po?at_medium=RSS&at_campaign=rss",
+    "summary": "Sean Reifel's joined the cast of the popular reality series less than a year after he joined his hometown's police force.",
+    "pubDate": "Sat, 06 Jun 2026 23:25:36 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Not a football fan? Here's how to sound like a World Cup expert",
+    "link": "https://www.bbc.com/news/articles/czr251x5j3zo?at_medium=RSS&at_campaign=rss",
+    "summary": "Not a football superfan? Try these easy conversation-starters to sound like an expert.",
+    "pubDate": "Sat, 06 Jun 2026 23:24:30 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Insecurity and instability drive voters in Peru's tight presidential race",
+    "link": "https://www.bbc.com/news/articles/c9d21184e7yo?at_medium=RSS&at_campaign=rss",
+    "summary": "After eight presidents in 10 years, many voters are looking for stability so the next president can focus on tackling crime and inequality.",
+    "pubDate": "Sat, 06 Jun 2026 23:17:43 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Cosmeticorexia: How girls are falling down a skincare rabbit hole",
+    "link": "https://www.bbc.com/news/articles/cx212x41evwo?at_medium=RSS&at_campaign=rss",
+    "summary": "Fuelled by social media, the market for children's skincare is booming. Experts fear for the long-term impact on girls",
+    "pubDate": "Sat, 06 Jun 2026 23:06:33 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Scotland score four in first half to beat Bolivia",
+    "link": "https://www.bbc.com/sport/football/videos/c3ryd40w04xo?at_medium=RSS&at_campaign=rss",
+    "summary": "Watch the goals as Scotland score four in the first half to beat Bolivia in their final World Cup warm-up.",
+    "pubDate": "Sat, 06 Jun 2026 22:58:52 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Iran says staff blocked from entering US after players given World Cup visas",
+    "link": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&at_campaign=rss",
+    "summary": "Iranian officials say technical staff have been denied visas, hours after the US said players could enter the country.",
+    "pubDate": "Sat, 06 Jun 2026 22:38:36 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Lebanese general among three soldiers killed in Israeli attack on car",
+    "link": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
+    "summary": "The Israeli military is investigating the incident in south Lebanon, where it is fighting Hezbollah.",
+    "pubDate": "Sat, 06 Jun 2026 21:23:03 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Scientists ejected from diabetes conference for distributing journal reprints",
+    "link": "https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/",
+    "summary": "Those ousted included ADA journal editor-in-chief Steven Kahn and former ADA president Desmond Schatz",
+    "pubDate": "Sat, 06 Jun 2026 20:53:07 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "SoFi Stadium workers vote to authorize strike ahead of World Cup",
+    "link": "https://www.npr.org/2026/06/06/nx-s1-5848682/sofi-stadium-strike-world-cup",
+    "summary": "Negotiations between the union representing the workers, the hospitality group at the Los Angeles stadium and FIFA are set to continue Monday.",
+    "pubDate": "Sat, 06 Jun 2026 20:39:16 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Sem: New primitive for code understanding – not LSPs, but entities on top of Git",
+    "link": "https://ataraxy-labs.github.io/sem/",
+    "summary": "Article URL: https://ataraxy-labs.github.io/sem/ Comments URL: https://news.ycombinator.com/item?id=48428475 Points: 111 # Comments: 38",
+    "pubDate": "Sat, 06 Jun 2026 20:03:55 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "'I want to thank myself' - Andreeva's journey to Grand Slam glory",
+    "link": "https://www.bbc.com/sport/tennis/articles/cgmd7yv4wjdo?at_medium=RSS&at_campaign=rss",
+    "summary": "Mirra Andreeva thanks her coach, her team and most importantly herself as she claims her first Grand Slam trophy at the French Open.",
+    "pubDate": "Sat, 06 Jun 2026 19:52:42 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
+    "link": "https://ntsc.rs/",
+    "summary": "Article URL: https://ntsc.rs/ Comments URL: https://news.ycombinator.com/item?id=48428025 Points: 327 # Comments: 85",
+    "pubDate": "Sat, 06 Jun 2026 19:17:46 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Friendship to be forgotten with French Open on the line",
+    "link": "https://www.bbc.com/sport/tennis/articles/cgmd791pjkno?at_medium=RSS&at_campaign=rss",
+    "summary": "Alexander Zverev and Flavio Cobolli are good friends - but they will put that to one side when they meet in the French Open final on Sunday.",
+    "pubDate": "Sat, 06 Jun 2026 18:41:21 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+    "link": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+    "summary": "Article URL: https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/ Comments URL: https://news.ycombinator.com/item?id=48427643 Points: 557 # Comments: 199",
+    "pubDate": "Sat, 06 Jun 2026 18:35:27 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Russell perplexed by struggles having arrived in Monaco playing mind games",
+    "link": "https://www.bbc.com/sport/formula1/articles/cm2dn5gr253o?at_medium=RSS&at_campaign=rss",
+    "summary": "George Russell tried playing a few mind games with Mercedes team-mate Kimi Antonelli but is now the one \"scratching my head\".",
+    "pubDate": "Sat, 06 Jun 2026 18:27:45 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Watch: A veil, gowns and umbrellas at a rainy royal wedding",
+    "link": "https://www.bbc.com/news/videos/cn8q7v27pw0o?at_medium=RSS&at_campaign=rss",
+    "summary": "Princess Anne's son Peter Phillips married NHS nurse Harriet Sperling in a private ceremony.",
+    "pubDate": "Sat, 06 Jun 2026 18:08:26 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Why one historian uses social media to remember D-Day in real time",
+    "link": "https://www.npr.org/2026/06/06/nx-s1-5847932/why-one-historian-uses-social-media-to-remember-d-day-in-real-time",
+    "summary": "At the National World War II Memorial, historian Alex Kershaw has found an unlikely way to keep D-Day alive: live social media posts timed to the events of June 6, 1944.",
+    "pubDate": "Sat, 06 Jun 2026 17:05:39 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Who will face Karen Bass? LA voters still waiting to find out",
+    "link": "https://www.npr.org/2026/06/06/nx-s1-5845371/who-will-face-karen-bass-la-voters-still-waiting-to-find-out",
+    "summary": "Results are still coming in from the mayoral primary in Los Angeles. LAist reporter Frank Stoltze discusses who may emerge to face Karen Bass in November.",
+    "pubDate": "Sat, 06 Jun 2026 17:05:36 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "England move closer to win on wet day at Lord's",
+    "link": "https://www.bbc.com/sport/cricket/articles/cdxd6zkp2z6o?at_medium=RSS&at_campaign=rss",
+    "summary": "England make use of the limited time available on a rain-affected day three to move towards a much-needed victory over New Zealand in the first Test at Lord's.",
+    "pubDate": "Sat, 06 Jun 2026 16:31:30 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Will Henry Nowak’s Murder Change Policing?",
+    "link": "https://www.bbc.co.uk/sounds/play/p0nq8lf5?at_medium=RSS&at_campaign=rss",
+    "summary": "And US Vice-President JD Vance blames his death on migration.",
+    "pubDate": "Sat, 06 Jun 2026 15:17:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Zeroserve: A zero-config web server you can script with eBPF",
+    "link": "https://su3.io/posts/introducing-zeroserve",
+    "summary": "Article URL: https://su3.io/posts/introducing-zeroserve Comments URL: https://news.ycombinator.com/item?id=48425723 Points: 222 # Comments: 54",
+    "pubDate": "Sat, 06 Jun 2026 14:59:43 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Israel has reportedly used white phosphorus near Lebanese cities and towns. What is it?",
+    "link": "https://www.npr.org/2026/06/06/nx-s1-5848668/israel-lebanon-white-phosphorus",
+    "summary": "White phosphorus is not banned under international law, but can \"create cruel injuries\" and indiscriminate harm in civilian areas.",
+    "pubDate": "Sat, 06 Jun 2026 14:48:35 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Motorola effectively bricked its entire line of WiFi routers without explanation",
+    "link": "https://mashable.com/tech/motorola-wifi-routers-stop-working-motosync-plus-app-down",
+    "summary": "Article URL: https://mashable.com/tech/motorola-wifi-routers-stop-working-motosync-plus-app-down Comments URL: https://news.ycombinator.com/item?id=48425611 Points: 125 # Comments: 54",
+    "pubDate": "Sat, 06 Jun 2026 14:43:53 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Moving beyond fork() + exec()",
+    "link": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
+    "summary": "Article URL: https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/ Comments URL: https://news.ycombinator.com/item?id=48425528 Points: 287 # Comments: 286",
+    "pubDate": "Sat, 06 Jun 2026 14:34:20 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The Best 3-in-1 Apple Charging Stations After Testing Top Models",
+    "link": "https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/",
+    "summary": "I tried all the top models to find the best 3-in-1 Apple charging stations, pads, and more. Keep your iPhone, Apple Watch, and AirPods topped up with these WIRED-tested docking systems.",
+    "pubDate": "Sat, 06 Jun 2026 14:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Pope Leo says war with Iran is not a 'just war'",
+    "link": "https://www.npr.org/2026/06/06/g-s1-126768/pope-leo-says-war-with-iran-is-not-a-just-war",
+    "summary": "Pope Leo XIV said the war in Iran does not qualify as a \"just war\" according to Catholic teaching, while answering questions by journalists aboard the papal plane for his six-day visit to Spain.",
+    "pubDate": "Sat, 06 Jun 2026 13:22:29 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
+    "link": "https://twitter.com/lemire/status/2062880075117113739",
+    "summary": "Article URL: https://twitter.com/lemire/status/2062880075117113739 Comments URL: https://news.ycombinator.com/item?id=48424605 Points: 269 # Comments: 458",
+    "pubDate": "Sat, 06 Jun 2026 12:52:18 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)",
+    "link": "https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer",
+    "summary": "Article URL: https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer Comments URL: https://news.ycombinator.com/item?id=48424103 Points: 0 # Comments: 0",
+    "pubDate": "Sat, 06 Jun 2026 12:00:56 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Some ancient microbes frozen with Ötzi the Iceman are still growing",
+    "link": "https://arstechnica.com/science/2026/06/otzis-mummified-body-is-home-to-ancient-strains-of-yeast-and-bacteria/",
+    "summary": "What’s the difference between a person, an artifact, and an ecosystem?",
+    "pubDate": "Sat, 06 Jun 2026 11:15:51 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
+    "link": "https://pokeemerald.com/",
+    "summary": "Article URL: https://pokeemerald.com/ Comments URL: https://news.ycombinator.com/item?id=48423762 Points: 308 # Comments: 87",
+    "pubDate": "Sat, 06 Jun 2026 11:12:58 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The Nowak murder has lit a match under British politics. This is how we got here",
+    "link": "https://www.bbc.com/news/articles/c39297vxmw2o?at_medium=RSS&at_campaign=rss",
+    "summary": "The police response to the murder of Henry Nowak has triggered a heated transatlantic debate.",
+    "pubDate": "Sat, 06 Jun 2026 11:08:22 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Anti-Vax Dating Apps Are Going IRL. People Are Mad as Hell About It",
+    "link": "https://www.wired.com/story/anti-vax-dating-apps-are-going-irl-people-are-mad-as-hell-about-it/",
+    "summary": "Unjected and PureBlood.Dating are hosting in-person meetups—and have transformed the dating landscape into a political battleground over bodily autonomy.",
+    "pubDate": "Sat, 06 Jun 2026 11:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "2 Best Bluetooth Trackers of 2026, Plus Honorable Mentions",
+    "link": "https://www.wired.com/story/the-best-bluetooth-trackers/",
+    "summary": "These are the best Bluetooth, Wi-Fi, GPS, and cellular gadgets to ensure you never lose anything ever again.",
+    "pubDate": "Sat, 06 Jun 2026 10:38:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Crypto-Funded Chinese Peptide Labs Are Booming",
+    "link": "https://www.wired.com/story/security-news-this-week-crypto-funded-chinese-peptide-labs-are-booming/",
+    "summary": "Plus: Hackers use Meta’s AI bots to hack Instagram accounts, Anthropic helps NSA hackers, a decades-long GPS satellite mystery may have been solved, and more.",
+    "pubDate": "Sat, 06 Jun 2026 10:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "2026 Apple 设计奖正式揭晓，细数 12 款 App 的特别之处",
+    "link": "https://sspai.com/post/110763",
+    "summary": "Apple 设计大奖结果公布，而这 12 款 app 又有什么特别之处呢？ 查看全文",
+    "pubDate": "Sat, 06 Jun 2026 10:20:44 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "Velotric Nomad 2 Fat Tire Ebike, Tested and Reviewed (2026)",
+    "link": "https://www.wired.com/review/velotric-nomad-2-fat-tire-ebike/",
+    "summary": "This wide-tired bike rolls comfortably over dirt, gravel, and whatever curbs you happen to bounce down.",
+    "pubDate": "Sat, 06 Jun 2026 10:02:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "How to Share a Link to a Particular Phrase",
+    "link": "https://www.wired.com/story/how-to-share-a-link-to-a-particular-phrase/",
+    "summary": "Modern browsers let you share a link that jumps straight to whatever text you wish to highlight. Here’s how the feature works.",
+    "pubDate": "Sat, 06 Jun 2026 10:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "30 Best Father’s Day Gifts for Dads (2026)",
+    "link": "https://www.wired.com/story/the-best-gifts-for-dads-2026/",
+    "summary": "Dads are traditionally tough to shop for—let me help with these handpicked gift ideas for fathers with great taste.",
+    "pubDate": "Sat, 06 Jun 2026 09:31:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "The Moons of Uranus May Hold the Key to Finding Missing Planets",
+    "link": "https://www.wired.com/story/the-moons-of-uranus-may-hold-the-key-to-finding-missing-planets/",
+    "summary": "New simulations reveal that the moons of Uranus may retain traces of giant planets.",
+    "pubDate": "Sat, 06 Jun 2026 09:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Ozempic and similar weight-loss drugs linked to 30% lower breast cancer risk",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260605023400.htm",
+    "summary": "A large study found that women taking GLP-1 drugs, the medication class behind Ozempic, Wegovy, Mounjaro, and Zepbound, were about 30% less likely to develop breast cancer. Researchers say the findings are promising but not yet proof, and clinical trials are now being planned to test whether thes...",
+    "pubDate": "Sat, 06 Jun 2026 09:28:24 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Tiny X-ray telescope could unlock the Moon's hidden chemistry",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260606075508.htm",
+    "summary": "A lightweight new X-ray telescope could finally give scientists something they’ve never had before: a complete chemical map of the Moon. Researchers used detailed mission simulations to show that a compact telescope orbiting the Moon could identify key elements across the entire lunar surface, he...",
+    "pubDate": "Sat, 06 Jun 2026 09:24:27 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Scientists found a surprisingly simple way to create powerful quantum states",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260606075510.htm",
+    "summary": "A team at the University of Chicago has discovered a surprisingly simple way to create powerful quantum states that are normally difficult to produce. By making small adjustments to the energy levels of atoms inside an optical cavity, researchers can generate a wide variety of highly entangled st...",
+    "pubDate": "Sat, 06 Jun 2026 09:02:19 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "‘It’s Not a Joke’: A ‘Simpsons’ Writer Holds His First Presidential Campaign Rally",
+    "link": "https://www.wired.com/story/simpsons-writer-dan-greaney-holds-his-first-presidential-campaign-rally/",
+    "summary": "At a small kickoff event in Los Angeles, Dan Greaney explained why he could no longer stand by and watch the demolition of American democracy.",
+    "pubDate": "Sat, 06 Jun 2026 09:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "The supplements older adults actually need and the ones they don't",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260605023408.htm",
+    "summary": "Supplements are often marketed as shortcuts to better health, but for many older adults, the real issue is whether they have a specific deficiency. Vitamins like B12 and D can play an important role when levels are low, while protein may be one of the most overlooked nutrients for maintaining str...",
+    "pubDate": "Sat, 06 Jun 2026 08:40:28 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Despite a competitive market, finding a summer job is highly beneficial for teens",
+    "link": "https://www.npr.org/2026/06/06/nx-s1-5824413/despite-a-competitive-market-finding-a-summer-job-is-highly-beneficial-for-teens",
+    "summary": "Teenagers looking for summer jobs face a tough labor market. But the personal benefits are huge.",
+    "pubDate": "Sat, 06 Jun 2026 07:48:31 -0400",
+    "source": "NPR",
+    "category": "general"
+  }
+]

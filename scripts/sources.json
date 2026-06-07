@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Hacker News",
+    "url": "https://hnrss.org/frontpage?count=20",
+    "type": "rss",
+    "category": "tech"
+  },
+  {
+    "name": "Lobsters",
+    "url": "https://lobste.rs/rss",
+    "type": "rss",
+    "category": "tech"
+  },
+  {
+    "name": "Ars Technica",
+    "url": "https://feeds.arstechnica.com/arstechnica/index",
+    "type": "rss",
+    "category": "tech"
+  },
+  {
+    "name": "The Verge",
+    "url": "https://www.theverge.com/rss/index.xml",
+    "type": "rss",
+    "category": "tech"
+  },
+  {
+    "name": "BBC News",
+    "url": "https://feeds.bbci.co.uk/news/rss.xml",
+    "type": "rss",
+    "category": "general"
+  },
+  {
+    "name": "NPR",
+    "url": "https://feeds.npr.org/1001/rss.xml",
+    "type": "rss",
+    "category": "general"
+  },
+  {
+    "name": "TechCrunch",
+    "url": "https://techcrunch.com/feed/",
+    "type": "rss",
+    "category": "tech"
+  },
+  {
+    "name": "Wired",
+    "url": "https://www.wired.com/feed/rss",
+    "type": "rss",
+    "category": "tech"
+  },
+  {
+    "name": "36Kr",
+    "url": "https://36kr.com/feed",
+    "type": "rss",
+    "category": "tech-cn"
+  },
+  {
+    "name": "少数派",
+    "url": "https://sspai.com/feed",
+    "type": "rss",
+    "category": "tech-cn"
+  },
+  {
+    "name": "Science Daily",
+    "url": "https://www.sciencedaily.com/rss/all.xml",
+    "type": "rss",
+    "category": "science"
+  },
+  {
+    "name": "Nature",
+    "url": "https://www.nature.com/nature.rss",
+    "type": "rss",
+    "category": "science"
+  }
+]

@@ -1,0 +1,60 @@
+name: Fetch News
+
+on:
+  schedule:
+    - cron: '37 */6 * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - 'scripts/**'
+      - '.github/workflows/fetch.yml'
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install feedparser requests
+
+      - name: Run fetcher
+        run: python scripts/fetch.py
+
+      - name: Commit data
+        run: |
+          git config user.name "news-bot"
+          git config user.email "bot@news.local"
+          git add data/
+          git diff --staged --quiet || git commit -m "News: $(date +%Y-%m-%d) fetch"
+          git push
+
+  deploy:
+    needs: fetch
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Prepare dist
+        run: |
+          mkdir dist
+          cp -r web/* dist/
+          cp -r data dist/
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+      - uses: actions/deploy-pages@v4

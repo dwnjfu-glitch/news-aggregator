@@ -568,6 +568,14 @@
     "category": "general"
   },
   {
+    "title": "The 12 Commandments of Synchronization",
+    "link": "https://www.cs.cornell.edu/courses/cs4410/2012fa/papers/commandments.pdf",
+    "summary": "Comments",
+    "pubDate": "Sun, 07 Jun 2026 00:30:14 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Public Domain Image Archive",
     "link": "https://pdimagearchive.org/",
     "summary": "Article URL: https://pdimagearchive.org/ Comments URL: https://news.ycombinator.com/item?id=48430539 Points: 97 # Comments: 16",

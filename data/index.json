@@ -400,6 +400,14 @@
     "category": "science"
   },
   {
+    "title": "Kebab firm fined £500k for selling lamb that was mostly skin and fat",
+    "link": "https://www.bbc.com/news/articles/cy736xme2vvo?at_medium=RSS&at_campaign=rss",
+    "summary": "Kismet Kebabs are found to have engaged in \"considerable dishonesty\", Swansea Crown Court finds.",
+    "pubDate": "Sun, 07 Jun 2026 07:11:52 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg",
     "link": "https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&at_campaign=rss",
     "summary": "The BBC's Russia editor saw Putin's flagship economic event overshadowed by Ukrainian drones attacks.",
@@ -480,6 +488,14 @@
     "category": "tech"
   },
   {
+    "title": "Exploring automatic Buffer Management with io_uring",
+    "link": "https://noteflakes.com/articles/2026-06-07-automatic-buffer-management",
+    "summary": "Comments",
+    "pubDate": "Sun, 07 Jun 2026 02:47:40 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Field of clones: How horse replicas came to dominate polo",
     "link": "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses",
     "summary": "Article URL: https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses Comments URL: https://news.ycombinator.com/item?id=48431286 Points: 71 # Comments: 36",
@@ -493,6 +509,14 @@
     "summary": "Article URL: https://github.com/las7/TakoVM Comments URL: https://news.ycombinator.com/item?id=48431257 Points: 19 # Comments: 6",
     "pubDate": "Sun, 07 Jun 2026 02:42:24 +0000",
     "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "To my students",
+    "link": "http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml",
+    "summary": "Comments",
+    "pubDate": "Sun, 07 Jun 2026 02:27:26 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -557,6 +581,14 @@
     "summary": "Article URL: https://gwern.net/llm-catapult Comments URL: https://news.ycombinator.com/item?id=48430282 Points: 25 # Comments: 3",
     "pubDate": "Sat, 06 Jun 2026 23:45:36 +0000",
     "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The Guix Nix Abomination: Leveraging Guix derivations in Nix",
+    "link": "https://fzakaria.com/2026/06/05/the-guix-nix-abomination-leveraging-guix-derivations-in-nix",
+    "summary": "Comments",
+    "pubDate": "Sat, 06 Jun 2026 23:41:51 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -648,12 +680,28 @@
     "category": "general"
   },
   {
+    "title": "Thoughts on starting new projects with LLM agents",
+    "link": "https://eli.thegreenplace.net/2026/thoughts-on-starting-new-projects-with-llm-agents/",
+    "summary": "Comments",
+    "pubDate": "Sat, 06 Jun 2026 22:16:34 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Lebanese general among three soldiers killed in Israeli attack on car",
     "link": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
     "summary": "The Israeli military is investigating the incident in south Lebanon, where it is fighting Hezbollah.",
     "pubDate": "Sat, 06 Jun 2026 21:23:03 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "DIY Kobo annotation backup",
+    "link": "https://kghose.github.io/2026/06/06/kobo-annotations.html",
+    "summary": "Comments",
+    "pubDate": "Sat, 06 Jun 2026 21:03:52 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Scientists ejected from diabetes conference for distributing journal reprints",
@@ -672,11 +720,27 @@
     "category": "general"
   },
   {
+    "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+    "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+    "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
+    "pubDate": "Sat, 06 Jun 2026 20:32:24 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
     "title": "Sem: New primitive for code understanding – not LSPs, but entities on top of Git",
     "link": "https://ataraxy-labs.github.io/sem/",
     "summary": "Article URL: https://ataraxy-labs.github.io/sem/ Comments URL: https://news.ycombinator.com/item?id=48428475 Points: 111 # Comments: 38",
     "pubDate": "Sat, 06 Jun 2026 20:03:55 +0000",
     "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "How LLMs Actually Work",
+    "link": "https://0xkato.xyz/how-llms-actually-work/",
+    "summary": "Comments",
+    "pubDate": "Sat, 06 Jun 2026 19:53:58 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -720,12 +784,28 @@
     "category": "general"
   },
   {
+    "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+    "link": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+    "summary": "Apple's WWDC nears: Here's what you can look forward to.",
+    "pubDate": "Sat, 06 Jun 2026 18:13:36 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
     "title": "Watch: A veil, gowns and umbrellas at a rainy royal wedding",
     "link": "https://www.bbc.com/news/videos/cn8q7v27pw0o?at_medium=RSS&at_campaign=rss",
     "summary": "Princess Anne's son Peter Phillips married NHS nurse Harriet Sperling in a private ceremony.",
     "pubDate": "Sat, 06 Jun 2026 18:08:26 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+    "link": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+    "summary": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.",
+    "pubDate": "Sat, 06 Jun 2026 17:42:15 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
   },
   {
     "title": "Why one historian uses social media to remember D-Day in real time",
@@ -752,12 +832,44 @@
     "category": "general"
   },
   {
+    "title": "The Trump administration might take an equity stake in OpenAI",
+    "link": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+    "summary": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
+    "pubDate": "Sat, 06 Jun 2026 16:17:21 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Treehouse – isolate multple dev environments on different Git worktrees",
+    "link": "https://github.com/stemps/treehouse",
+    "summary": "It assigns a stable number for each worktree, so you can use this number to derive per-worktree local configuration like ports, database names, etc... or anything you want isolated per worktree. Comments",
+    "pubDate": "Sat, 06 Jun 2026 16:08:43 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "It doesn’t always have to be Linux",
+    "link": "https://media.ccc.de/v/gpn24-611-it-doesn-t-always-have-to-be-linux-an-intro-to-freebsd",
+    "summary": "Comments",
+    "pubDate": "Sat, 06 Jun 2026 15:19:23 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Will Henry Nowak’s Murder Change Policing?",
     "link": "https://www.bbc.co.uk/sounds/play/p0nq8lf5?at_medium=RSS&at_campaign=rss",
     "summary": "And US Vice-President JD Vance blames his death on migration.",
     "pubDate": "Sat, 06 Jun 2026 15:17:00 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Beyond Instagram: Introducing the next generation of social apps",
+    "link": "https://techcrunch.com/2026/06/06/beyond-instagram-introducing-the-next-generation-of-social-apps/",
+    "summary": "These newer social apps offer alternatives to Big Tech’s feeds, focusing on interests, creativity, and community.",
+    "pubDate": "Sat, 06 Jun 2026 15:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
   },
   {
     "title": "Zeroserve: A zero-config web server you can script with eBPF",
@@ -792,11 +904,35 @@
     "category": "tech"
   },
   {
+    "title": "z2d: Pure Zig 2D graphics library",
+    "link": "https://github.com/vancluever/z2d",
+    "summary": "Comments",
+    "pubDate": "Sat, 06 Jun 2026 14:06:11 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "The Best 3-in-1 Apple Charging Stations After Testing Top Models",
     "link": "https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/",
     "summary": "I tried all the top models to find the best 3-in-1 Apple charging stations, pads, and more. Keep your iPhone, Apple Watch, and AirPods topped up with these WIRED-tested docking systems.",
     "pubDate": "Sat, 06 Jun 2026 14:00:00 +0000",
     "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Getting silly with C, part &((int*)-8)[3]",
+    "link": "https://lcamtuf.substack.com/p/getting-silly-with-c-part-and-int1",
+    "summary": "Comments",
+    "pubDate": "Sat, 06 Jun 2026 13:56:59 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "A Little Explanation of Little's Law",
+    "link": "https://rugu.dev/en/blog/littles-law/",
+    "summary": "Comments",
+    "pubDate": "Sat, 06 Jun 2026 13:38:04 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -822,141 +958,5 @@
     "pubDate": "Sat, 06 Jun 2026 12:00:56 +0000",
     "source": "Hacker News",
     "category": "tech"
-  },
-  {
-    "title": "Some ancient microbes frozen with Ötzi the Iceman are still growing",
-    "link": "https://arstechnica.com/science/2026/06/otzis-mummified-body-is-home-to-ancient-strains-of-yeast-and-bacteria/",
-    "summary": "What’s the difference between a person, an artifact, and an ecosystem?",
-    "pubDate": "Sat, 06 Jun 2026 11:15:51 +0000",
-    "source": "Ars Technica",
-    "category": "tech"
-  },
-  {
-    "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
-    "link": "https://pokeemerald.com/",
-    "summary": "Article URL: https://pokeemerald.com/ Comments URL: https://news.ycombinator.com/item?id=48423762 Points: 308 # Comments: 87",
-    "pubDate": "Sat, 06 Jun 2026 11:12:58 +0000",
-    "source": "Hacker News",
-    "category": "tech"
-  },
-  {
-    "title": "The Nowak murder has lit a match under British politics. This is how we got here",
-    "link": "https://www.bbc.com/news/articles/c39297vxmw2o?at_medium=RSS&at_campaign=rss",
-    "summary": "The police response to the murder of Henry Nowak has triggered a heated transatlantic debate.",
-    "pubDate": "Sat, 06 Jun 2026 11:08:22 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "Anti-Vax Dating Apps Are Going IRL. People Are Mad as Hell About It",
-    "link": "https://www.wired.com/story/anti-vax-dating-apps-are-going-irl-people-are-mad-as-hell-about-it/",
-    "summary": "Unjected and PureBlood.Dating are hosting in-person meetups—and have transformed the dating landscape into a political battleground over bodily autonomy.",
-    "pubDate": "Sat, 06 Jun 2026 11:00:00 +0000",
-    "source": "Wired",
-    "category": "tech"
-  },
-  {
-    "title": "2 Best Bluetooth Trackers of 2026, Plus Honorable Mentions",
-    "link": "https://www.wired.com/story/the-best-bluetooth-trackers/",
-    "summary": "These are the best Bluetooth, Wi-Fi, GPS, and cellular gadgets to ensure you never lose anything ever again.",
-    "pubDate": "Sat, 06 Jun 2026 10:38:00 +0000",
-    "source": "Wired",
-    "category": "tech"
-  },
-  {
-    "title": "Crypto-Funded Chinese Peptide Labs Are Booming",
-    "link": "https://www.wired.com/story/security-news-this-week-crypto-funded-chinese-peptide-labs-are-booming/",
-    "summary": "Plus: Hackers use Meta’s AI bots to hack Instagram accounts, Anthropic helps NSA hackers, a decades-long GPS satellite mystery may have been solved, and more.",
-    "pubDate": "Sat, 06 Jun 2026 10:30:00 +0000",
-    "source": "Wired",
-    "category": "tech"
-  },
-  {
-    "title": "2026 Apple 设计奖正式揭晓，细数 12 款 App 的特别之处",
-    "link": "https://sspai.com/post/110763",
-    "summary": "Apple 设计大奖结果公布，而这 12 款 app 又有什么特别之处呢？ 查看全文",
-    "pubDate": "Sat, 06 Jun 2026 10:20:44 +0800",
-    "source": "少数派",
-    "category": "tech-cn"
-  },
-  {
-    "title": "Velotric Nomad 2 Fat Tire Ebike, Tested and Reviewed (2026)",
-    "link": "https://www.wired.com/review/velotric-nomad-2-fat-tire-ebike/",
-    "summary": "This wide-tired bike rolls comfortably over dirt, gravel, and whatever curbs you happen to bounce down.",
-    "pubDate": "Sat, 06 Jun 2026 10:02:00 +0000",
-    "source": "Wired",
-    "category": "tech"
-  },
-  {
-    "title": "How to Share a Link to a Particular Phrase",
-    "link": "https://www.wired.com/story/how-to-share-a-link-to-a-particular-phrase/",
-    "summary": "Modern browsers let you share a link that jumps straight to whatever text you wish to highlight. Here’s how the feature works.",
-    "pubDate": "Sat, 06 Jun 2026 10:00:00 +0000",
-    "source": "Wired",
-    "category": "tech"
-  },
-  {
-    "title": "30 Best Father’s Day Gifts for Dads (2026)",
-    "link": "https://www.wired.com/story/the-best-gifts-for-dads-2026/",
-    "summary": "Dads are traditionally tough to shop for—let me help with these handpicked gift ideas for fathers with great taste.",
-    "pubDate": "Sat, 06 Jun 2026 09:31:00 +0000",
-    "source": "Wired",
-    "category": "tech"
-  },
-  {
-    "title": "The Moons of Uranus May Hold the Key to Finding Missing Planets",
-    "link": "https://www.wired.com/story/the-moons-of-uranus-may-hold-the-key-to-finding-missing-planets/",
-    "summary": "New simulations reveal that the moons of Uranus may retain traces of giant planets.",
-    "pubDate": "Sat, 06 Jun 2026 09:30:00 +0000",
-    "source": "Wired",
-    "category": "tech"
-  },
-  {
-    "title": "Ozempic and similar weight-loss drugs linked to 30% lower breast cancer risk",
-    "link": "https://www.sciencedaily.com/releases/2026/06/260605023400.htm",
-    "summary": "A large study found that women taking GLP-1 drugs, the medication class behind Ozempic, Wegovy, Mounjaro, and Zepbound, were about 30% less likely to develop breast cancer. Researchers say the findings are promising but not yet proof, and clinical trials are now being planned to test whether thes...",
-    "pubDate": "Sat, 06 Jun 2026 09:28:24 EDT",
-    "source": "Science Daily",
-    "category": "science"
-  },
-  {
-    "title": "Tiny X-ray telescope could unlock the Moon's hidden chemistry",
-    "link": "https://www.sciencedaily.com/releases/2026/06/260606075508.htm",
-    "summary": "A lightweight new X-ray telescope could finally give scientists something they’ve never had before: a complete chemical map of the Moon. Researchers used detailed mission simulations to show that a compact telescope orbiting the Moon could identify key elements across the entire lunar surface, he...",
-    "pubDate": "Sat, 06 Jun 2026 09:24:27 EDT",
-    "source": "Science Daily",
-    "category": "science"
-  },
-  {
-    "title": "Scientists found a surprisingly simple way to create powerful quantum states",
-    "link": "https://www.sciencedaily.com/releases/2026/06/260606075510.htm",
-    "summary": "A team at the University of Chicago has discovered a surprisingly simple way to create powerful quantum states that are normally difficult to produce. By making small adjustments to the energy levels of atoms inside an optical cavity, researchers can generate a wide variety of highly entangled st...",
-    "pubDate": "Sat, 06 Jun 2026 09:02:19 EDT",
-    "source": "Science Daily",
-    "category": "science"
-  },
-  {
-    "title": "‘It’s Not a Joke’: A ‘Simpsons’ Writer Holds His First Presidential Campaign Rally",
-    "link": "https://www.wired.com/story/simpsons-writer-dan-greaney-holds-his-first-presidential-campaign-rally/",
-    "summary": "At a small kickoff event in Los Angeles, Dan Greaney explained why he could no longer stand by and watch the demolition of American democracy.",
-    "pubDate": "Sat, 06 Jun 2026 09:00:00 +0000",
-    "source": "Wired",
-    "category": "tech"
-  },
-  {
-    "title": "The supplements older adults actually need and the ones they don't",
-    "link": "https://www.sciencedaily.com/releases/2026/06/260605023408.htm",
-    "summary": "Supplements are often marketed as shortcuts to better health, but for many older adults, the real issue is whether they have a specific deficiency. Vitamins like B12 and D can play an important role when levels are low, while protein may be one of the most overlooked nutrients for maintaining str...",
-    "pubDate": "Sat, 06 Jun 2026 08:40:28 EDT",
-    "source": "Science Daily",
-    "category": "science"
-  },
-  {
-    "title": "Despite a competitive market, finding a summer job is highly beneficial for teens",
-    "link": "https://www.npr.org/2026/06/06/nx-s1-5824413/despite-a-competitive-market-finding-a-summer-job-is-highly-beneficial-for-teens",
-    "summary": "Teenagers looking for summer jobs face a tough labor market. But the personal benefits are huge.",
-    "pubDate": "Sat, 06 Jun 2026 07:48:31 -0400",
-    "source": "NPR",
-    "category": "general"
   }
 ]

@@ -400,6 +400,14 @@
     "category": "science"
   },
   {
+    "title": "Kebab firm fined £500k for selling lamb that was mostly skin and fat",
+    "link": "https://www.bbc.com/news/articles/cy736xme2vvo?at_medium=RSS&at_campaign=rss",
+    "summary": "Kismet Kebabs are found to have engaged in \"considerable dishonesty\", Swansea Crown Court finds.",
+    "pubDate": "Sun, 07 Jun 2026 07:11:52 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg",
     "link": "https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&at_campaign=rss",
     "summary": "The BBC's Russia editor saw Putin's flagship economic event overshadowed by Ukrainian drones attacks.",
@@ -480,6 +488,14 @@
     "category": "tech"
   },
   {
+    "title": "Exploring automatic Buffer Management with io_uring",
+    "link": "https://noteflakes.com/articles/2026-06-07-automatic-buffer-management",
+    "summary": "Comments",
+    "pubDate": "Sun, 07 Jun 2026 02:47:40 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Field of clones: How horse replicas came to dominate polo",
     "link": "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses",
     "summary": "Article URL: https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses Comments URL: https://news.ycombinator.com/item?id=48431286 Points: 71 # Comments: 36",
@@ -493,6 +509,14 @@
     "summary": "Article URL: https://github.com/las7/TakoVM Comments URL: https://news.ycombinator.com/item?id=48431257 Points: 19 # Comments: 6",
     "pubDate": "Sun, 07 Jun 2026 02:42:24 +0000",
     "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "To my students",
+    "link": "http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml",
+    "summary": "Comments",
+    "pubDate": "Sun, 07 Jun 2026 02:27:26 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -557,6 +581,14 @@
     "summary": "Article URL: https://gwern.net/llm-catapult Comments URL: https://news.ycombinator.com/item?id=48430282 Points: 25 # Comments: 3",
     "pubDate": "Sat, 06 Jun 2026 23:45:36 +0000",
     "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The Guix Nix Abomination: Leveraging Guix derivations in Nix",
+    "link": "https://fzakaria.com/2026/06/05/the-guix-nix-abomination-leveraging-guix-derivations-in-nix",
+    "summary": "Comments",
+    "pubDate": "Sat, 06 Jun 2026 23:41:51 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -648,12 +680,28 @@
     "category": "general"
   },
   {
+    "title": "Thoughts on starting new projects with LLM agents",
+    "link": "https://eli.thegreenplace.net/2026/thoughts-on-starting-new-projects-with-llm-agents/",
+    "summary": "Comments",
+    "pubDate": "Sat, 06 Jun 2026 22:16:34 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Lebanese general among three soldiers killed in Israeli attack on car",
     "link": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
     "summary": "The Israeli military is investigating the incident in south Lebanon, where it is fighting Hezbollah.",
     "pubDate": "Sat, 06 Jun 2026 21:23:03 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "DIY Kobo annotation backup",
+    "link": "https://kghose.github.io/2026/06/06/kobo-annotations.html",
+    "summary": "Comments",
+    "pubDate": "Sat, 06 Jun 2026 21:03:52 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Scientists ejected from diabetes conference for distributing journal reprints",
@@ -672,11 +720,27 @@
     "category": "general"
   },
   {
+    "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+    "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+    "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
+    "pubDate": "Sat, 06 Jun 2026 20:32:24 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
     "title": "Sem: New primitive for code understanding – not LSPs, but entities on top of Git",
     "link": "https://ataraxy-labs.github.io/sem/",
     "summary": "Article URL: https://ataraxy-labs.github.io/sem/ Comments URL: https://news.ycombinator.com/item?id=48428475 Points: 111 # Comments: 38",
     "pubDate": "Sat, 06 Jun 2026 20:03:55 +0000",
     "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "How LLMs Actually Work",
+    "link": "https://0xkato.xyz/how-llms-actually-work/",
+    "summary": "Comments",
+    "pubDate": "Sat, 06 Jun 2026 19:53:58 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -720,12 +784,28 @@
     "category": "general"
   },
   {
+    "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+    "link": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+    "summary": "Apple's WWDC nears: Here's what you can look forward to.",
+    "pubDate": "Sat, 06 Jun 2026 18:13:36 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
     "title": "Watch: A veil, gowns and umbrellas at a rainy royal wedding",
     "link": "https://www.bbc.com/news/videos/cn8q7v27pw0o?at_medium=RSS&at_campaign=rss",
     "summary": "Princess Anne's son Peter Phillips married NHS nurse Harriet Sperling in a private ceremony.",
     "pubDate": "Sat, 06 Jun 2026 18:08:26 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+    "link": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+    "summary": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.",
+    "pubDate": "Sat, 06 Jun 2026 17:42:15 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
   },
   {
     "title": "Why one historian uses social media to remember D-Day in real time",
@@ -752,12 +832,44 @@
     "category": "general"
   },
   {
+    "title": "The Trump administration might take an equity stake in OpenAI",
+    "link": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+    "summary": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
+    "pubDate": "Sat, 06 Jun 2026 16:17:21 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Treehouse – isolate multple dev environments on different Git worktrees",
+    "link": "https://github.com/stemps/treehouse",
+    "summary": "It assigns a stable number for each worktree, so you can use this number to derive per-worktree local configuration like ports, database names, etc... or anything you want isolated per worktree. Comments",
+    "pubDate": "Sat, 06 Jun 2026 16:08:43 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "It doesn’t always have to be Linux",
+    "link": "https://media.ccc.de/v/gpn24-611-it-doesn-t-always-have-to-be-linux-an-intro-to-freebsd",
+    "summary": "Comments",
+    "pubDate": "Sat, 06 Jun 2026 15:19:23 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Will Henry Nowak’s Murder Change Policing?",
     "link": "https://www.bbc.co.uk/sounds/play/p0nq8lf5?at_medium=RSS&at_campaign=rss",
     "summary": "And US Vice-President JD Vance blames his death on migration.",
     "pubDate": "Sat, 06 Jun 2026 15:17:00 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Beyond Instagram: Introducing the next generation of social apps",
+    "link": "https://techcrunch.com/2026/06/06/beyond-instagram-introducing-the-next-generation-of-social-apps/",
+    "summary": "These newer social apps offer alternatives to Big Tech’s feeds, focusing on interests, creativity, and community.",
+    "pubDate": "Sat, 06 Jun 2026 15:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
   },
   {
     "title": "Zeroserve: A zero-config web server you can script with eBPF",
@@ -792,11 +904,35 @@
     "category": "tech"
   },
   {
+    "title": "z2d: Pure Zig 2D graphics library",
+    "link": "https://github.com/vancluever/z2d",
+    "summary": "Comments",
+    "pubDate": "Sat, 06 Jun 2026 14:06:11 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "The Best 3-in-1 Apple Charging Stations After Testing Top Models",
     "link": "https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/",
     "summary": "I tried all the top models to find the best 3-in-1 Apple charging stations, pads, and more. Keep your iPhone, Apple Watch, and AirPods topped up with these WIRED-tested docking systems.",
     "pubDate": "Sat, 06 Jun 2026 14:00:00 +0000",
     "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Getting silly with C, part &((int*)-8)[3]",
+    "link": "https://lcamtuf.substack.com/p/getting-silly-with-c-part-and-int1",
+    "summary": "Comments",
+    "pubDate": "Sat, 06 Jun 2026 13:56:59 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "A Little Explanation of Little's Law",
+    "link": "https://rugu.dev/en/blog/littles-law/",
+    "summary": "Comments",
+    "pubDate": "Sat, 06 Jun 2026 13:38:04 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -896,6 +1032,14 @@
     "category": "tech"
   },
   {
+    "title": "Ergonomic overrides for Nixpkgs",
+    "link": "https://haskellforall.com/2026/06/ergonomic-overrides-for-nixpkgs",
+    "summary": "Comments",
+    "pubDate": "Sat, 06 Jun 2026 09:51:03 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "30 Best Father’s Day Gifts for Dads (2026)",
     "link": "https://www.wired.com/story/the-best-gifts-for-dads-2026/",
     "summary": "Dads are traditionally tough to shop for—let me help with these handpicked gift ideas for fathers with great taste.",
@@ -944,6 +1088,14 @@
     "category": "tech"
   },
   {
+    "title": "URL Parser Tester",
+    "link": "https://timothygu.me/urltester/",
+    "summary": "Comments",
+    "pubDate": "Sat, 06 Jun 2026 08:49:05 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "The supplements older adults actually need and the ones they don't",
     "link": "https://www.sciencedaily.com/releases/2026/06/260605023408.htm",
     "summary": "Supplements are often marketed as shortcuts to better health, but for many older adults, the real issue is whether they have a specific deficiency. Vitamins like B12 and D can play an important role when levels are low, while protein may be one of the most overlooked nutrients for maintaining str...",
@@ -968,12 +1120,28 @@
     "category": "general"
   },
   {
+    "title": "Life is too short for a slow terminal",
+    "link": "https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal/",
+    "summary": "Comments",
+    "pubDate": "Sat, 06 Jun 2026 07:40:37 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Scientists sound the alarm as dangerous amoebas spread globally",
     "link": "https://www.sciencedaily.com/releases/2026/06/260606015137.htm",
     "summary": "Scientists warn that free-living amoebae may be an underappreciated public health threat, capable of causing deadly infections and shielding other dangerous microbes from water treatment. Climate change and aging infrastructure could help these resilient organisms spread more widely in the years ...",
     "pubDate": "Sat, 06 Jun 2026 07:35:28 EDT",
     "source": "Science Daily",
     "category": "science"
+  },
+  {
+    "title": "If LLMs Have Human-Like Attributes, Then So Does Age of Empires II",
+    "link": "https://arxiv.org/pdf/2605.31514",
+    "summary": "Comments",
+    "pubDate": "Sat, 06 Jun 2026 07:31:19 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "A park famed for rare gorillas gears up to fight Ebola and protect its primates",
@@ -992,12 +1160,36 @@
     "category": "general"
   },
   {
+    "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy",
+    "link": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
+    "summary": "Comments",
+    "pubDate": "Sat, 06 Jun 2026 06:46:28 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Deported Filipino sailors say they were falsely linked to child sexual abuse material",
     "link": "https://www.npr.org/2026/06/06/nx-s1-5835231/filipino-sailors-say-they-were-falsely-accused-of-possessing-child-porn-and-deported",
     "summary": "NPR has tracked deported Filipino sailors who say they were accused without evidence of possessing child sexual exploitation material. Almost none have been charged or prosecuted.",
     "pubDate": "Sat, 06 Jun 2026 06:05:00 -0400",
     "source": "NPR",
     "category": "general"
+  },
+  {
+    "title": "AI Worm",
+    "link": "https://arxiv.org/abs/2606.03811",
+    "summary": "replaced url Comments",
+    "pubDate": "Sat, 06 Jun 2026 05:29:43 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "The perils of UUID primary keys in SQLite",
+    "link": "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html",
+    "summary": "Comments",
+    "pubDate": "Sat, 06 Jun 2026 03:08:45 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "A tiny atomic shift gives scientists powerful control over metals",
@@ -1112,11 +1304,67 @@
     "category": "tech"
   },
   {
+    "title": "Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with  startup Manus",
+    "link": "https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/",
+    "summary": "After a very profitable decade on Microsoft's board, Reid Hoffman is stepping down to focus on his AI drug discovery startup Manus.",
+    "pubDate": "Fri, 05 Jun 2026 22:35:01 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Total Reciprocity Public License",
+    "link": "https://trplfoundation.org/",
+    "summary": "Comments",
+    "pubDate": "Fri, 05 Jun 2026 22:25:28 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "An announcement from the Steering Council regarding the JIT project",
+    "link": "https://discuss.python.org/t/an-announcement-from-the-steering-council-regarding-the-jit-project/107638",
+    "summary": "Comments",
+    "pubDate": "Fri, 05 Jun 2026 22:13:13 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Founders share VC horror stories, and some are naming names",
+    "link": "https://techcrunch.com/2026/06/05/founders-share-vc-horror-stories-and-some-are-naming-names/",
+    "summary": "A massive viral conversation sharing VC horror stories has taken place this week on X. Some are weird. Some are infuriating.",
+    "pubDate": "Fri, 05 Jun 2026 21:47:56 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "The smallest C++ binary",
+    "link": "https://blog.weineng.me/posts/smallest_c/",
+    "summary": "Comments",
+    "pubDate": "Fri, 05 Jun 2026 21:37:28 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "How a USB-connected speaker can infect a PC without ever being touched",
     "link": "https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/",
     "summary": "Seller of the Sound Blaster Katana V2X doesn't consider the behavior a vulnerability.",
     "pubDate": "Fri, 05 Jun 2026 21:00:29 +0000",
     "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Former cyber executive turned whistleblower accuses IBM of covering up several data breaches",
+    "link": "https://techcrunch.com/2026/06/05/former-cyber-executive-turned-whistleblower-accuses-ibm-of-covering-up-several-data-breaches/",
+    "summary": "IBM and two of its subsidiary companies were allegedly breached during the mid-2010s — a lawsuit filed by a former cybersecurity executive accuses IBM of not disclosing and actively covering it up.",
+    "pubDate": "Fri, 05 Jun 2026 20:31:04 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Startup Battlefield 200 applications officially close in 3 days",
+    "link": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
+    "summary": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Moscone West.",
+    "pubDate": "Fri, 05 Jun 2026 20:00:00 +0000",
+    "source": "TechCrunch",
     "category": "tech"
   },
   {
@@ -1133,6 +1381,14 @@
     "summary": "\"We look forward to working with Roscosmos on a collaborative approach to address the leaks.\"",
     "pubDate": "Fri, 05 Jun 2026 19:03:16 +0000",
     "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Google will pay SpaceX $920M per month for compute",
+    "link": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+    "summary": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products.",
+    "pubDate": "Fri, 05 Jun 2026 18:57:20 +0000",
+    "source": "TechCrunch",
     "category": "tech"
   },
   {
@@ -1184,6 +1440,30 @@
     "category": "tech-cn"
   },
   {
+    "title": "GM’s electric future depends on a new battery — and this facility",
+    "link": "https://techcrunch.com/2026/06/05/gms-electric-future-depends-on-a-new-battery-and-this-building/",
+    "summary": "GM wants to slash EV prices by deploying new battery tech up to a year earlier than planned. This building is key to making that happen.",
+    "pubDate": "Fri, 05 Jun 2026 17:44:18 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "As VC-backed e-bike startups went bankrupt, bootstrapped Lectric grew",
+    "link": "https://techcrunch.com/2026/06/05/as-vc-backed-e-bike-startups-went-bankrupt-bootstrapped-lectric-grew/",
+    "summary": "Lectric, which says the U.S. market is ripe for competition and choice, has launched three new brands in the past six months.",
+    "pubDate": "Fri, 05 Jun 2026 17:38:06 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "The most interesting startups right now want to get you off your phone",
+    "link": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
+    "summary": "While the AI fundraising machine&#160;keeps breaking its own records, some founders are building in the other direction.&#160; Mirror founder Brynn Putnam just raised money for&#160;Board, a startup focused on bringing people together through in-person games and social experiences.&#160;Cyberdeck...",
+    "pubDate": "Fri, 05 Jun 2026 17:17:06 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
     "title": "Review: Spider-Noir recaptures the magic of a bygone era",
     "link": "https://arstechnica.com/culture/2026/06/review-spider-noir-recaptures-the-magic-of-a-bygone-era/",
     "summary": "Nicolas Cage was born to play 1930s PI Ben Reilly/The Spider: part Bogart, part Bugs Bunny, 100% Cage-y.",
@@ -1200,11 +1480,27 @@
     "category": "tech-cn"
   },
   {
+    "title": "Supabase doubles valuation to $10B in 8 months",
+    "link": "https://techcrunch.com/2026/06/05/supabase-doubles-valuation-to-10b-in-8-months/",
+    "summary": "Supabase, an example of an open source project becoming a fast-growing company, has greatly benefited from AI tools like Claude, Codex, and other vibe-coding platforms.",
+    "pubDate": "Fri, 05 Jun 2026 16:32:27 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
     "title": "Logitech G512 X 98 Review: A Hybrid Mish-Mash",
     "link": "https://www.wired.com/review/logitech-g512-x-98/",
     "summary": "The Logitech G512 X 98 lets you swap between mechanical and analog switches in an attempt to achieve the best of both worlds. Unfortunately, its solution isn't as well thought out as I’d hoped.",
     "pubDate": "Fri, 05 Jun 2026 16:10:56 +0000",
     "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Google and FBI warn of ransomware group that sends fake IT workers to hack victims in person",
+    "link": "https://techcrunch.com/2026/06/05/google-and-fbi-warn-of-ransomware-group-that-sends-fake-it-workers-to-hack-victims-in-person/",
+    "summary": "Cybercriminals, part of a gang known as Silent Ransom Group, have sent people pretending to be IT support employees to law firms' offices, where the criminals have stolen data using USB drives or remote access tools.",
+    "pubDate": "Fri, 05 Jun 2026 16:07:46 +0000",
+    "source": "TechCrunch",
     "category": "tech"
   },
   {
@@ -1296,11 +1592,35 @@
     "category": "tech"
   },
   {
+    "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
+    "link": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+    "summary": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"",
+    "pubDate": "Fri, 05 Jun 2026 14:49:12 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
     "title": "Not the next R8? Audi reveals mid-engined plug-in hybrid V8 Nuvolari.",
     "link": "https://arstechnica.com/cars/2026/06/not-the-next-r8-audi-reveals-mid-engined-plug-in-hybrid-v8-nuvolari/",
     "summary": "The Huracan gave us the R8s, now the Temerario lends itself to a new Audi.",
     "pubDate": "Fri, 05 Jun 2026 14:44:04 +0000",
     "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "NASA briefly sheltered space station astronauts in SpaceX’s Dragon due to leaks",
+    "link": "https://techcrunch.com/2026/06/05/nasa-briefly-sheltered-space-station-astronauts-in-spacexs-dragon-due-to-leaks/",
+    "summary": "The space agency said Roscosmos discovered new leaks in the Russian service module.",
+    "pubDate": "Fri, 05 Jun 2026 14:42:52 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "NSA said to be readying Anthropic’s Mythos for use in cyber operations",
+    "link": "https://techcrunch.com/2026/06/05/nsa-said-to-be-readying-anthropics-mythos-for-use-in-cyber-operations/",
+    "summary": "The U.S. eavesdropping agency is reportedly preparing Anthropic's Mythos for use in cyberattacks, despite a federal ban on using the AI model maker.",
+    "pubDate": "Fri, 05 Jun 2026 14:32:57 +0000",
+    "source": "TechCrunch",
     "category": "tech"
   },
   {
@@ -1325,6 +1645,30 @@
     "summary": "Overpressure from the Blue Origin blast shattered windows at a hangar about a mile away from the pad.",
     "pubDate": "Fri, 05 Jun 2026 13:55:05 +0000",
     "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Stop Using Conventional Commits",
+    "link": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
+    "summary": "Comments",
+    "pubDate": "Fri, 05 Jun 2026 13:40:29 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Did Claude Increase Bugs in rsync?",
+    "link": "https://alexispurslane.github.io/rsync-analysis/",
+    "summary": "Comments",
+    "pubDate": "Fri, 05 Jun 2026 13:14:42 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
+    "link": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
+    "summary": "The Australian data center operator plans to set up 5GW of capacity in India.",
+    "pubDate": "Fri, 05 Jun 2026 13:03:10 +0000",
+    "source": "TechCrunch",
     "category": "tech"
   },
   {
@@ -1454,6 +1798,14 @@
     "pubDate": "Fri, 05 Jun 2026 05:07:05 EDT",
     "source": "Science Daily",
     "category": "science"
+  },
+  {
+    "title": "Mira Murati steps back into the spotlight, carefully",
+    "link": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
+    "summary": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist.",
+    "pubDate": "Fri, 05 Jun 2026 05:06:37 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
   },
   {
     "title": "30% Off Canon Promo Codes | June 2026",
@@ -1638,6 +1990,22 @@
     "pubDate": "2026-06-07T03:00:00-04:00",
     "source": "The Verge",
     "category": "tech"
+  },
+  {
+    "title": "沪市公司将密集分红 未来一周A股分红近千亿元",
+    "link": "https://36kr.com/newsflashes/3842799319435784?f=rss",
+    "summary": "记者从上交所了解到，统计显示，未来一周（6月8日至6月12日），共有近200家公司将实施2025年度期末分红，合计对应年度分红金额919亿元，其中，中国平安、中信银行A股派现额近187亿元、79亿元，均将于6月10日“到账”。近期，沪市上市公司2025年年报现金分红进入密集实施期，沪市公司以真金白银回馈投资者。截至6月5日，已有438家沪市公司派发2025年年报现金红利，实际派现金额合计约2810亿元，分红实施进度已达四分之一，整体推进节奏平稳有序，同时，意味着还有超8000亿“年度红包”尚在途，将在未来密集落地。（证券时报）",
+    "pubDate": "2026-06-07 15:58:28  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "百度成立数字人创新业务部",
+    "link": "https://36kr.com/newsflashes/3842798722812164?f=rss",
+    "summary": "6月7日消息，百度MEG（移动生态事业群组）进行了新的一轮组织调整：合并商业部与电商事业部，成立大商业事业部，数字人创新业务部也升级为独立部门。（北京商报）",
+    "pubDate": "2026-06-07 15:44:59  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
   },
   {
     "title": "黄仁勋会见韩国两大游戏商代表共商游戏AI合作方案",
@@ -1950,5 +2318,597 @@
     "pubDate": "2026-06-05 08:30:00  +0800",
     "source": "36Kr",
     "category": "tech-cn"
+  },
+  {
+    "title": "Briefing chat: Spinosaurs with salt glands could have lived in marine environments",
+    "link": "https://www.nature.com/articles/d41586-026-01831-y",
+    "summary": "Nature, Published online: 05 June 2026; doi:10.1038/d41586-026-01831-y Nature staff discuss some of the week’s top science news.",
+    "pubDate": "2026-06-05",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "First precise genome editing of human embryos triggers praise and alarm",
+    "link": "https://www.nature.com/articles/d41586-026-01827-8",
+    "summary": "Nature, Published online: 05 June 2026; doi:10.1038/d41586-026-01827-8 The ‘base editing’ technique that researchers used is far from ready for the clinic, but critics worry it will spur a rush to commercialization.",
+    "pubDate": "2026-06-05",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Europe is ditching US tech — what does this mean for researchers?",
+    "link": "https://www.nature.com/articles/d41586-026-01610-9",
+    "summary": "Nature, Published online: 05 June 2026; doi:10.1038/d41586-026-01610-9 European governments are choosing European digital tools — and some universities and researchers are doing the same.",
+    "pubDate": "2026-06-05",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "See a helicopter destined for Mars and a spectacular flowery frame for the Milky Way — May’s best science images",
+    "link": "https://www.nature.com/articles/d41586-026-01609-2",
+    "summary": "Nature, Published online: 05 June 2026; doi:10.1038/d41586-026-01609-2 The month’s sharpest science shots, selected by Nature’s photo team.",
+    "pubDate": "2026-06-05",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Electric vehicles cut pollution in China – and prevent 260,000 premature deaths",
+    "link": "https://www.nature.com/articles/d41586-026-01781-5",
+    "summary": "Nature, Published online: 05 June 2026; doi:10.1038/d41586-026-01781-5 Having fewer fossil-fuel powered cars on the road is reducing some pollutants, but not others.",
+    "pubDate": "2026-06-05",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Author Correction: Physiology and immunology of a pig-to-human decedent kidney xenotransplant",
+    "link": "https://www.nature.com/articles/s41586-026-10694-2",
+    "summary": "Nature, Published online: 04 June 2026; doi:10.1038/s41586-026-10694-2 Author Correction: Physiology and immunology of a pig-to-human decedent kidney xenotransplant",
+    "pubDate": "2026-06-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Device could sniff out fusion reactors secretly making material for a nuclear bomb",
+    "link": "https://www.nature.com/articles/d41586-026-01764-6",
+    "summary": "Nature, Published online: 04 June 2026; doi:10.1038/d41586-026-01764-6 Antineutrinos made alongside the production of weapons-grade plutonium could be spotted with existing technology.",
+    "pubDate": "2026-06-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Babies’ birth weight improves with help of payments to parents",
+    "link": "https://www.nature.com/articles/d41586-026-01765-5",
+    "summary": "Nature, Published online: 04 June 2026; doi:10.1038/d41586-026-01765-5 Interventions that included home visits and cash transfers led to more strapping infants in an Indian state.",
+    "pubDate": "2026-06-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "This mysterious lung disease affects millions of people — but a drug tested in mice shows promise",
+    "link": "https://www.nature.com/articles/d41586-026-01789-x",
+    "summary": "Nature, Published online: 04 June 2026; doi:10.1038/d41586-026-01789-x The therapy activates a protein that could stop pulmonary fibrosis from progressing.",
+    "pubDate": "2026-06-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Science with military applications is cited more than civilian-only research",
+    "link": "https://www.nature.com/articles/d41586-026-01770-8",
+    "summary": "Nature, Published online: 04 June 2026; doi:10.1038/d41586-026-01770-8 Researchers analysed the scientific impact of dual-use research in US patent records and bibliometric databases.",
+    "pubDate": "2026-06-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "What’s behind China’s historically high counts of corresponding authors?",
+    "link": "https://www.nature.com/articles/d41586-026-01623-4",
+    "summary": "Nature, Published online: 04 June 2026; doi:10.1038/d41586-026-01623-4 From 2016 to 2020, almost one-third of papers by authors in China had multiple corresponding authors — but policy reforms are expected to have dampened the trend.",
+    "pubDate": "2026-06-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Editorial Expression of Concern: Functional proteomic identification of DNA replication proteins by induced proteolysis <i>in vivo</i>",
+    "link": "https://www.nature.com/articles/s41586-026-10727-w",
+    "summary": "Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10727-w Editorial Expression of Concern: Functional proteomic identification of DNA replication proteins by induced proteolysis in vivo",
+    "pubDate": "2026-06-03",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "AI in science recruitment: friend or foe? Join our free webinar",
+    "link": "https://www.nature.com/articles/d41586-026-01774-4",
+    "summary": "Nature, Published online: 03 June 2026; doi:10.1038/d41586-026-01774-4 Discover the strengths, limitations and risks associated with using artificial intelligence in your science job applications.",
+    "pubDate": "2026-06-03",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Your phone can use tiny skin-colour changes to measure your heart rate",
+    "link": "https://www.nature.com/articles/d41586-026-01793-1",
+    "summary": "Nature, Published online: 03 June 2026; doi:10.1038/d41586-026-01793-1 Passive heart-rate monitoring during regular phone use could provide early warning of health issues — plus, testing Richard Feynman’s solution to the ‘restaurant dilemma’ problem.",
+    "pubDate": "2026-06-03",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Reply to: The size of tropical vegetation gross primary production",
+    "link": "https://www.nature.com/articles/s41586-026-10561-0",
+    "summary": "Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10561-0 Reply to: The size of tropical vegetation gross primary production",
+    "pubDate": "2026-06-03",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "A natural depsipeptide antibiotic binds the E-site of the bacterial ribosome",
+    "link": "https://www.nature.com/articles/s41586-026-10589-2",
+    "summary": "Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10589-2 Improved fractionation strategies can identify antibiotics with previously unseen scaffolds and mechanisms, exemplified by manikomycin from Streptomyces rimosus, which acts by targeting the E-site of the bacterial large riboso...",
+    "pubDate": "2026-06-03",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Earth’s east–west albedo symmetry",
+    "link": "https://www.nature.com/articles/s41586-026-10624-2",
+    "summary": "Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10624-2 Analysis of a 25-year satellite record shows that Earth has a persistent east–west albedo symmetry split at 27° E, with clear-sky albedo, cloud radiative effect and open-ocean fraction exhibiting a triple symmetry around this ...",
+    "pubDate": "2026-06-03",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Relativistic electron acceleration at the bow shock of Jupiter and beyond",
+    "link": "https://www.nature.com/articles/s41586-026-10473-z",
+    "summary": "Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10473-z NASA’s Juno observations show relativistic electron acceleration at the bow shock of Jupiter and establish a universal scaling law linking shock size to maximum cosmic ray energy.",
+    "pubDate": "2026-06-03",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Acquired genetic and cell-state changes in IDH-mutant glioma progression",
+    "link": "https://www.nature.com/articles/s41586-026-10612-6",
+    "summary": "Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10612-6 Longitudinal transcriptomic, chromatin and genomic analyses of the two types of IDH-mutant glioma reveal in detail how disease progression is influenced by interdependent genetic, epigenetic and microenvironmental factors.",
+    "pubDate": "2026-06-03",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Mining triggers extensive additional deforestation in sub-Saharan Africa",
+    "link": "https://www.nature.com/articles/s41586-026-10551-2",
+    "summary": "Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10551-2 Extensive mining activity leads to large-scale deforestation of dense tropical forests across sub-Saharan Africa, driven particularly by key energy transition minerals such as cobalt.",
+    "pubDate": "2026-06-03",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Cold-induced peptide signalling secures pollen resilience and crop yield",
+    "link": "https://www.nature.com/articles/s41586-026-10603-7",
+    "summary": "Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10603-7 A small-peptide signalling axis involving RGF family members controls resilience to cold stress in tomatoes and rice; modulating this pathway prevents cold-induced yield losses.",
+    "pubDate": "2026-06-03",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Teosinte alleles enhance nitrogen assimilation and seed protein in maize",
+    "link": "https://www.nature.com/articles/s41586-026-10575-8",
+    "summary": "Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10575-8 Teosinte alleles enhance nitrogen assimilation and seed protein without lowering crop yield when expressed in modern maize, providing a powerful strategy for crop improvement to meet future population demands.",
+    "pubDate": "2026-06-03",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Cell-type-resolved genetic variation shapes inflammatory bowel disease risk",
+    "link": "https://www.nature.com/articles/s41586-026-10627-z",
+    "summary": "Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10627-z Single-cell mapping of cis-expression quantitative trait loci in inflammatory bowel disease revealed distal, enhancer-enriched variants detected at the cell-type level more frequently co-localize with genome-wide association s...",
+    "pubDate": "2026-06-03",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Plastoglobules compartmentalize nitrogen assimilation in maize",
+    "link": "https://www.nature.com/articles/s41586-026-10610-8",
+    "summary": "Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10610-8 Chloroplast plastoglobules act as nitrogen-assimilation hubs in maize, with key enzymes enhancing nitrogen-use efficiency and offering new strategies for developing high-yield, sustainable crops.",
+    "pubDate": "2026-06-03",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Analysis of trade-offs of post-sorting plastic packaging",
+    "link": "https://www.nature.com/articles/s41586-026-10606-4",
+    "summary": "Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10606-4 An analysis of post-sorting plastic packaging shows that target polymer purity is similar across source-separation and post-sorting pathways, but post-sorted plastics contain more contaminants that need to be removed before re...",
+    "pubDate": "2026-06-03",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Spermine is an endogenous iron chelator that inhibits ferroptosis",
+    "link": "https://www.nature.com/articles/s41586-026-10597-2",
+    "summary": "Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10597-2 A non-canonical metabolic route for spermine synthesis mediated by ALDH18A1 limits iron availability and lipid peroxidation in hepatocellular carcinoma.",
+    "pubDate": "2026-06-03",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Chiral superfluorescence from perovskite superlattices at room temperature",
+    "link": "https://www.nature.com/articles/s41586-026-10637-x",
+    "summary": "Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10637-x Chiral perovskite superlattices exhibit room-temperature circularly polarized superfluorescence, with emission intensity and polarization controllable by weak magnetic fields.",
+    "pubDate": "2026-06-03",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Mechanophore cross-linking enhances ballistic energy dissipation of polymers",
+    "link": "https://www.nature.com/articles/s41586-026-10557-w",
+    "summary": "Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10557-w Embedding a small fraction of force-sensitive mechanophores as cross-links into common polymers enhances ballistic energy dissipation.",
+    "pubDate": "2026-06-03",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Commensal-derived acetylcholine enhances mucosal immune education",
+    "link": "https://www.nature.com/articles/s41586-026-10592-7",
+    "summary": "Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10592-7 A diet–microbiome–host axis strengthens mucosal immune defences and reinforces host–microbiota mutualism.",
+    "pubDate": "2026-06-03",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Nuclear shell structure governs short-range nucleon pairing",
+    "link": "https://www.nature.com/articles/s41586-026-10616-2",
+    "summary": "Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10616-2 The scattering of high-energy electrons from three different nuclei demonstrated that short-range-correlated pairing depends far more on the specific quantum orbitals occupied by nucleons than predicted by theoretical models.",
+    "pubDate": "2026-06-03",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "High-pulse-energy integrated mode-locked laser using a Mamyshev oscillator",
+    "link": "https://www.nature.com/articles/s41586-026-10517-4",
+    "summary": "Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10517-4 A Mamyshev oscillator mode-locked laser compactly integrated on a photonic-chip delivers nanojoule, femtosecond pulses.",
+    "pubDate": "2026-06-03",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "LASER couples damage sensing to ESCRT assembly for lysosome repair",
+    "link": "https://www.nature.com/articles/s41586-026-10604-6",
+    "summary": "Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10604-6 ATG8 conjugation on damaged lysosomes triggers rapid assembly of a protein complex containing TFG, which directs lysosomal membrane repair by recruiting ESCRT proteins to sites of damage.",
+    "pubDate": "2026-06-03",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Cooperation conflicts with equality when allocating public goods",
+    "link": "https://www.nature.com/articles/s41586-026-10550-3",
+    "summary": "Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10550-3 Uniform sharing of public goods can boost cooperation in social networks, but often concentrates benefits among well-connected individuals, creating inequality despite greater collective success.",
+    "pubDate": "2026-06-03",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Enamel nanocrystal misorientation increased with meat-eating and agriculture",
+    "link": "https://www.nature.com/articles/s41586-026-10583-8",
+    "summary": "Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10583-8 An analysis of enamel nanocrystal misorientation in primate and human teeth across three major dietary shifts in human evolution shows that misorientation increased with harder diets, suggesting that misorientation contributes...",
+    "pubDate": "2026-06-03",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "High-fidelity modular skeletons authenticate a Cambrian origin for Bryozoa",
+    "link": "https://www.nature.com/articles/s41586-026-10590-9",
+    "summary": "Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10590-9 Exquisite early Cambrian fossils of Protomelission gatehousei and Dayingomelission hexaclitia preserve soft-tissue anatomy and skeletal microstructure, confirming that these taxa are definitively bryozoans and indicating a dee...",
+    "pubDate": "2026-06-03",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Centromeric footprints preserve telomere integrity in ALT cancers",
+    "link": "https://www.nature.com/articles/s41586-026-10598-1",
+    "summary": "Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10598-1 Centromeric DNA repeat insertions and CENP-A chromatin assembly are identified as genomic signatures that preserve telomere integrity in ALT cancer cells.",
+    "pubDate": "2026-06-03",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Queen cell architecture shapes honey bee queen development",
+    "link": "https://www.nature.com/articles/s41586-026-10534-3",
+    "summary": "Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10534-3 Worker bee construction behaviour actively engineers a physicochemical niche that is crucial for queen development in honey bees.",
+    "pubDate": "2026-06-03",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Why a synthetic human genome is still worth building",
+    "link": "https://www.nature.com/articles/d41586-026-01725-z",
+    "summary": "Nature, Published online: 03 June 2026; doi:10.1038/d41586-026-01725-z A decade on from the launch of an ambitious project, it’s time to revisit the reasons for constructing a human genome from scratch.",
+    "pubDate": "2026-06-03",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Book of Cron Job",
+    "link": "https://www.nature.com/articles/d41586-026-01716-0",
+    "summary": "Nature, Published online: 03 June 2026; doi:10.1038/d41586-026-01716-0 Code of conduct.",
+    "pubDate": "2026-06-03",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Recovery of plastic from mixed waste boosts recycling rates but affects quality",
+    "link": "https://www.nature.com/articles/d41586-026-01759-3",
+    "summary": "Nature, Published online: 03 June 2026; doi:10.1038/d41586-026-01759-3 Recovering plastic packaging from mixed domestic waste, as well as collecting plastic waste already sorted by households, increases recycling volumes but raises contamination and safety risks. Policies that support the sorting...",
+    "pubDate": "2026-06-03",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Jupiter observations reveal a simple scaling law for particle acceleration",
+    "link": "https://www.nature.com/articles/d41586-026-01412-z",
+    "summary": "Nature, Published online: 03 June 2026; doi:10.1038/d41586-026-01412-z Supersonic shocks in the vicinity of Jupiter suggest that transient plasma structures could govern the acceleration of particles travelling through space.",
+    "pubDate": "2026-06-03",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "How a rush for minerals is causing deforestation in tropical regions",
+    "link": "https://www.nature.com/articles/d41586-026-01582-w",
+    "summary": "Nature, Published online: 03 June 2026; doi:10.1038/d41586-026-01582-w An analysis of the extent to which mining caused deforestation between 2001 and 2020 in areas near mines in sub-Saharan Africa could help conservation efforts.",
+    "pubDate": "2026-06-03",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Daily briefing: These immune cells go out with a bang",
+    "link": "https://www.nature.com/articles/d41586-026-01799-9",
+    "summary": "Nature, Published online: 03 June 2026; doi:10.1038/d41586-026-01799-9 Newly-discovered ‘ruptoblasts’ explode to shower nearby cells with toxic chemicals. Plus, how psychology is tackling its reproducibility crisis and when to settle, according to maths.",
+    "pubDate": "2026-06-03",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "‘Transformative’ CAR-T therapy allows three people to receive kidney transplants",
+    "link": "https://www.nature.com/articles/d41586-026-01761-9",
+    "summary": "Nature, Published online: 03 June 2026; doi:10.1038/d41586-026-01761-9 They had ‘highly sensitized’ immune systems that usually reject donated organs, leaving them with few options for survival.",
+    "pubDate": "2026-06-03",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "A maize gene that coordinates flowering aids drought resistance",
+    "link": "https://www.nature.com/articles/d41586-026-01745-9",
+    "summary": "Nature, Published online: 03 June 2026; doi:10.1038/d41586-026-01745-9 The synchronous flowering of male and female flower clusters in maize is crucial, but drought disrupts this synchrony, leading to considerable yield losses. A gene called SAUR72 is shown to preserve flowering synchrony in drou...",
+    "pubDate": "2026-06-03",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "What a royal bedchamber provides the queen bee",
+    "link": "https://www.nature.com/articles/d41586-026-01580-y",
+    "summary": "Nature, Published online: 03 June 2026; doi:10.1038/d41586-026-01580-y When considering what shapes animal development, factors such as genetics come to mind. For a queen bee, however, her special wax home also has a role.",
+    "pubDate": "2026-06-03",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Microsoft upgrades controversial quantum chip — researchers are still sceptical",
+    "link": "https://www.nature.com/articles/d41586-026-01788-y",
+    "summary": "Nature, Published online: 03 June 2026; doi:10.1038/d41586-026-01788-y The tech giant says it will make ‘topological’ quantum computers that can be scaled up faster than competing technologies.",
+    "pubDate": "2026-06-03",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "How good are ‘AI doctors’ — and will they take over medicine?",
+    "link": "https://www.nature.com/articles/d41586-026-01691-6",
+    "summary": "Nature, Published online: 03 June 2026; doi:10.1038/d41586-026-01691-6 Nature talks to specialists about whether people might soon be diagnosed by artificial-intelligence systems.",
+    "pubDate": "2026-06-03",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Can an army of babies and dogs rescue psychology from its reproducibility crisis?",
+    "link": "https://www.nature.com/articles/d41586-026-01727-x",
+    "summary": "Nature, Published online: 03 June 2026; doi:10.1038/d41586-026-01727-x Labs are teaming up to run a host of huge projects that aim to bring rigour to cognitive science.",
+    "pubDate": "2026-06-03",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "White House proposes vast overhaul of US science funding: what you need to know",
+    "link": "https://www.nature.com/articles/d41586-026-01779-z",
+    "summary": "Nature, Published online: 03 June 2026; doi:10.1038/d41586-026-01779-z The Trump administration’s proposal aims to improve transparency in federal funding, but critics fear the proposed rules would politicize research",
+    "pubDate": "2026-06-03",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Tiny hubs of metabolic activity optimize nitrogen use in maize",
+    "link": "https://www.nature.com/articles/d41586-026-01583-9",
+    "summary": "Nature, Published online: 03 June 2026; doi:10.1038/d41586-026-01583-9 Structures called plastoglobules organize the enzymes that turn nitrogen into compounds needed for plant growth, offering lessons for sustainable agriculture.",
+    "pubDate": "2026-06-03",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Nanostructure of tooth enamel casts light on dietary shifts as humans evolved",
+    "link": "https://www.nature.com/articles/d41586-026-01579-5",
+    "summary": "Nature, Published online: 03 June 2026; doi:10.1038/d41586-026-01579-5 The arrangement of mineral nanocrystals in the tooth enamel of primates, hominins and modern humans altered as the diet of these species changed.",
+    "pubDate": "2026-06-03",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Ubiquitin tags detected on non-protein biomolecules using new method",
+    "link": "https://www.nature.com/articles/d41586-026-01741-z",
+    "summary": "Nature, Published online: 03 June 2026; doi:10.1038/d41586-026-01741-z An innovative method of mass spectrometry has detected the small protein ubiquitin on biomolecules other than proteins. In mouse liver, the energy-storing molecule glycogen has a large increase in ubiquitination — involving 1%...",
+    "pubDate": "2026-06-03",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Troubled waters: a plant protein senses when cells are running dry",
+    "link": "https://www.nature.com/articles/d41586-026-01633-2",
+    "summary": "Nature, Published online: 03 June 2026; doi:10.1038/d41586-026-01633-2 How cells sense fluctuations in the availability of water has long been unclear. The protein SAM8 is now shown to undergo a process called phase separation in a way that depends on its hydration, thereby sensing cellular water...",
+    "pubDate": "2026-06-03",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Author Correction: CHIT1-positive microglia drive motor neuron ageing in the primate spinal cord",
+    "link": "https://www.nature.com/articles/s41586-026-10728-9",
+    "summary": "Nature, Published online: 02 June 2026; doi:10.1038/s41586-026-10728-9 Author Correction: CHIT1-positive microglia drive motor neuron ageing in the primate spinal cord",
+    "pubDate": "2026-06-02",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Publisher Correction: White matter micro- and macrostructure brain charts for the human lifespan",
+    "link": "https://www.nature.com/articles/s41586-026-10693-3",
+    "summary": "Nature, Published online: 02 June 2026; doi:10.1038/s41586-026-10693-3 Publisher Correction: White matter micro- and macrostructure brain charts for the human lifespan",
+    "pubDate": "2026-06-02",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Global plastics treaty must be built on a foundation of monitoring",
+    "link": "https://www.nature.com/articles/d41586-026-01775-3",
+    "summary": "Nature, Published online: 02 June 2026; doi:10.1038/d41586-026-01775-3 Global plastics treaty must be built on a foundation of monitoring",
+    "pubDate": "2026-06-02",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Chemicals meant to be eco-friendly accumulate aloft",
+    "link": "https://www.nature.com/articles/d41586-026-01763-7",
+    "summary": "Nature, Published online: 02 June 2026; doi:10.1038/d41586-026-01763-7 Large-scale measurements of atmospheric hydrofluoroolefins show that their levels are rising, but the implications are unclear.",
+    "pubDate": "2026-06-02",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Natural capital accounting needs a way to assess uncertainty",
+    "link": "https://www.nature.com/articles/d41586-026-01778-0",
+    "summary": "Nature, Published online: 02 June 2026; doi:10.1038/d41586-026-01778-0 Natural capital accounting needs a way to assess uncertainty",
+    "pubDate": "2026-06-02",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Remembering inventor and activist Hertha Ayrton",
+    "link": "https://www.nature.com/articles/d41586-026-01337-7",
+    "summary": "Nature, Published online: 02 June 2026; doi:10.1038/d41586-026-01337-7 The biography of a pioneering scientist and suffragist, and a call for researchers to write about themselves, in our weekly dip into Nature’s archive.",
+    "pubDate": "2026-06-02",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Power imbalances in adviser–student relationships need safeguarding",
+    "link": "https://www.nature.com/articles/d41586-026-01776-2",
+    "summary": "Nature, Published online: 02 June 2026; doi:10.1038/d41586-026-01776-2 Power imbalances in adviser–student relationships need safeguarding",
+    "pubDate": "2026-06-02",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Is it time to ‘cap and trade’ credits for research-funding proposals?",
+    "link": "https://www.nature.com/articles/d41586-026-01777-1",
+    "summary": "Nature, Published online: 02 June 2026; doi:10.1038/d41586-026-01777-1 Is it time to ‘cap and trade’ credits for research-funding proposals?",
+    "pubDate": "2026-06-02",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Daily briefing: Bad supervisors bump early-career researchers out of academia",
+    "link": "https://www.nature.com/articles/d41586-026-01791-3",
+    "summary": "Nature, Published online: 02 June 2026; doi:10.1038/d41586-026-01791-3 Almost 40% of respondents to a survey said that their supervisor was disorganized and a poor communicator. Plus, promising results against a hard-to-treat cancer and whether AI will help or hinder social sciences.",
+    "pubDate": "2026-06-02",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "The future of science communication is not an article like this",
+    "link": "https://www.nature.com/articles/d41586-026-01723-1",
+    "summary": "Nature, Published online: 02 June 2026; doi:10.1038/d41586-026-01723-1 Researchers and science publishers need to seize the opportunity offered by the drastic shifts in the way news is produced — one reason Nature has joined TikTok.",
+    "pubDate": "2026-06-02",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Bang! Exploding immune cells splatter potent toxins everywhere",
+    "link": "https://www.nature.com/articles/d41586-026-01766-4",
+    "summary": "Nature, Published online: 02 June 2026; doi:10.1038/d41586-026-01766-4 Detonation of newly discovered ‘ruptoblasts’, found in flatworms, releases compounds that kill nearby cells in minutes.",
+    "pubDate": "2026-06-02",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Will AI ruin the social sciences — or revolutionize them?",
+    "link": "https://www.nature.com/articles/d41586-026-01726-y",
+    "summary": "Nature, Published online: 02 June 2026; doi:10.1038/d41586-026-01726-y The technology can whip up spurious findings and pollute survey responses, but it could also make research more rigorous.",
+    "pubDate": "2026-06-02",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "First and last authors more likely to be men in leading science journals",
+    "link": "https://www.nature.com/articles/d41586-026-01495-8",
+    "summary": "Nature, Published online: 02 June 2026; doi:10.1038/d41586-026-01495-8 Women’s participation in science has risen sharply, but a Nature Index analysis finds that gender gaps in first and last authorship — markers of key scientific achievements — have barely shifted over the past decade.",
+    "pubDate": "2026-06-02",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Better diagnostics could have limited this Ebola outbreak",
+    "link": "https://www.nature.com/articles/d41586-026-01724-0",
+    "summary": "Nature, Published online: 02 June 2026; doi:10.1038/d41586-026-01724-0 Quick identification of viruses holds the key to minimizing their spread.",
+    "pubDate": "2026-06-02",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "‘Virtual cells’ aim to turn raw data into predictive models of biology",
+    "link": "https://www.nature.com/articles/d41586-026-01731-1",
+    "summary": "Nature, Published online: 02 June 2026; doi:10.1038/d41586-026-01731-1 Simulations of biological systems could transform biomedical research, but researchers are still learning how to reproduce life’s complexity without drowning in data.",
+    "pubDate": "2026-06-02",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Enantioselective hydrogen atom relay via non-covalent catalyst assembly",
+    "link": "https://www.nature.com/articles/s41586-026-10692-4",
+    "summary": "Nature, Published online: 01 June 2026; doi:10.1038/s41586-026-10692-4 Enantioselective hydrogen atom relay via non-covalent catalyst assembly",
+    "pubDate": "2026-06-01",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Earliest signs of vision recorded in ancient sea-floor tracks",
+    "link": "https://www.nature.com/articles/d41586-026-01762-8",
+    "summary": "Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01762-8 Traces from some of the earliest animals reveal when they began to sense light.",
+    "pubDate": "2026-06-01",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Passive heart-rate monitoring during smartphone use in everyday life",
+    "link": "https://www.nature.com/articles/s41586-026-10507-6",
+    "summary": "Nature, Published online: 01 June 2026; doi:10.1038/s41586-026-10507-6 A machine-learning model that uses smartphone cameras to measure heart rate in the background during normal daily phone use and subsequently estimate resting heart rate could make it easier for people to monitor heart health.",
+    "pubDate": "2026-06-01",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Polymarket vs science: why researchers are sceptical of the prediction-market hype",
+    "link": "https://www.nature.com/articles/d41586-026-01688-1",
+    "summary": "Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01688-1 Online prediction markets are taking bets on everything from climate change to quantum computing. But researchers question their accuracy.",
+    "pubDate": "2026-06-01",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "How long can humans live? We simply don’t know",
+    "link": "https://www.nature.com/articles/d41586-026-01728-w",
+    "summary": "Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01728-w Claims about the upper limits to human lifespan are characterized by hype, deficient data and shoddy science, says longevity researcher Saul Newman.",
+    "pubDate": "2026-06-01",
+    "source": "Nature",
+    "category": "science"
   }
 ]

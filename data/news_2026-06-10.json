@@ -1,11 +1,363 @@
 [
   {
+    "title": "CISA Tells US Agencies to Fix Security Bugs in as Little as 3 Days Thanks to AI Threats",
+    "link": "https://www.wired.com/story/cisa-ai-vulnerability-directive/",
+    "summary": "“Defenders cannot afford to take weeks to patch,” one Cybersecurity and Infrastructure Security Agency official warned on Wednesday.",
+    "pubDate": "Wed, 10 Jun 2026 20:55:40 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Changing visa rules for care workers is wrong, says Rayner",
+    "link": "https://www.bbc.com/news/articles/cddl0nz4v5vo?at_medium=RSS&at_campaign=rss",
+    "summary": "The former deputy prime minister says changing visa rules for migrants already living in the UK would be \"un-British\".",
+    "pubDate": "Wed, 10 Jun 2026 20:47:55 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "What Is It Like to Be a Bat? [pdf]",
+    "link": "https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf",
+    "summary": "Article URL: https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf Comments URL: https://news.ycombinator.com/item?id=48482293 Points: 8 # Comments: 0",
+    "pubDate": "Wed, 10 Jun 2026 20:35:07 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Trump Risks Key Surveillance Authority Over ‘Unqualified’ Spy-Chief Pick",
+    "link": "https://www.wired.com/story/trump-risks-key-surveillance-authority-over-unqualified-spy-chief-pick/",
+    "summary": "US lawmakers are alarmed that Bill Pulte, a housing official with no intelligence experience, is poised to take charge of one of the government's most powerful surveillance tools.",
+    "pubDate": "Wed, 10 Jun 2026 20:28:58 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Everyone wants a piece of Tesla’s battery business",
+    "link": "https://techcrunch.com/2026/06/10/everyone-wants-a-piece-of-teslas-battery-business/",
+    "summary": "Electricity demand from AI data centers is pushing everyone — including automakers like GM and Ford — into the energy storage business.",
+    "pubDate": "Wed, 10 Jun 2026 20:21:25 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+    "link": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+    "summary": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing.",
+    "pubDate": "Wed, 10 Jun 2026 20:19:31 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Raspberry Pi 5 – 16 GB, $350",
+    "link": "https://www.adafruit.com/product/6125?src=raspberrypi",
+    "summary": "Article URL: https://www.adafruit.com/product/6125?src=raspberrypi Comments URL: https://news.ycombinator.com/item?id=48481857 Points: 61 # Comments: 61",
+    "pubDate": "Wed, 10 Jun 2026 20:05:21 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Logitech’s foldable mouse is for people who refuse to carry a mouse with them",
+    "link": "https://arstechnica.com/gadgets/2026/06/logitechs-mobi-fold-folds-for-travel-but-i-prefer-a-different-portable-mouse/",
+    "summary": "The Mobi Fold is an $80 Bluetooth mouse with a silicone-wrapped hinge.",
+    "pubDate": "Wed, 10 Jun 2026 19:57:56 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "North Koreans behind nearly half of US tech industry hacks, says CrowdStrike",
+    "link": "https://techcrunch.com/2026/06/10/north-koreans-behind-nearly-half-of-us-tech-industry-hacks-says-crowdstrike/",
+    "summary": "North Korean hackers posing as remote IT workers and recruiters remain a major threat to U.S., European, and Asian companies, accounting for about half of all attacks over the past 12 months.",
+    "pubDate": "Wed, 10 Jun 2026 19:57:04 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Wing drone delivery might not be a novelty anymore",
+    "link": "https://techcrunch.com/2026/06/10/wing-drone-delivery-might-not-be-a-novelty-anymore/",
+    "summary": "Wing is expanding into seven more U.S. cities through its partnership with Walmart.",
+    "pubDate": "Wed, 10 Jun 2026 19:52:09 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "A Meta Employee Who Just Lost Their Job Was Detained by Immigration Agents",
+    "link": "https://www.wired.com/story/meta-layoffs-immigration-customs-enforcement/",
+    "summary": "Colleagues discussed the incident on internal message boards, according to documents seen by WIRED.",
+    "pubDate": "Wed, 10 Jun 2026 19:49:26 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "The Abundance Illusion",
+    "link": "https://www.carlyle.com/carlyle-compass/the-abundance-illusion",
+    "summary": "Article URL: https://www.carlyle.com/carlyle-compass/the-abundance-illusion Comments URL: https://news.ycombinator.com/item?id=48481524 Points: 41 # Comments: 11",
+    "pubDate": "Wed, 10 Jun 2026 19:38:51 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Bill Gates says Epstein wanted personal relationship, but he 'never reciprocated'",
+    "link": "https://www.bbc.com/news/articles/c0jy8v0ge66o?at_medium=RSS&at_campaign=rss",
+    "summary": "The Microsoft co-founder spent hours talking to lawmakers behind closed doors, where he also said Epstein used his marital infidelities to pressure him.",
+    "pubDate": "Wed, 10 Jun 2026 19:31:24 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster",
+    "link": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
+    "summary": "Diffusion AI is most common in image generation, but it can make text outputs much faster.",
+    "pubDate": "Wed, 10 Jun 2026 19:29:21 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Essex Police given new information on West Ham co-owner David Sullivan",
+    "link": "https://www.bbc.com/news/articles/c802l191rd3o?at_medium=RSS&at_campaign=rss",
+    "summary": "Police have been contacted with new information about the West Ham co-owner following a BBC Panorama and Times investigation.",
+    "pubDate": "Wed, 10 Jun 2026 19:19:54 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Farmer donates land for a park, city sells it for $10M as data center land",
+    "link": "https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade",
+    "summary": "Article URL: https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade Comments URL: https://news.ycombinator.com/item?id=48481126 Points: 98 # Comments...",
+    "pubDate": "Wed, 10 Jun 2026 19:06:50 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "ΠFS",
+    "link": "https://github.com/philipl/pifs",
+    "summary": "Article URL: https://github.com/philipl/pifs Comments URL: https://news.ycombinator.com/item?id=48480978 Points: 134 # Comments: 40",
+    "pubDate": "Wed, 10 Jun 2026 18:54:54 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Anthropic's Model Naming, Extrapolated",
+    "link": "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated",
+    "summary": "Article URL: https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated Comments URL: https://news.ycombinator.com/item?id=48480852 Points: 185 # Comments: 40",
+    "pubDate": "Wed, 10 Jun 2026 18:45:20 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The Best USB-C Cables (2026): for Smartphones, Tablets, and Laptops",
+    "link": "https://www.wired.com/gallery/best-usb-c-cables/",
+    "summary": "Unravel the tangled world of cords and find the ones you need to charge your gadgets and transfer data.",
+    "pubDate": "Wed, 10 Jun 2026 18:29:45 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Whale graveyard dating back five million years discovered",
+    "link": "https://www.bbc.com/news/articles/c75ylx4xn10o?at_medium=RSS&at_campaign=rss",
+    "summary": "The Indian Ocean site is \"far beyond anything we had imagined\", one researcher says.",
+    "pubDate": "Wed, 10 Jun 2026 18:24:09 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Trump says he 'loves the inflation' as US prices rise at fastest rate in three years",
+    "link": "https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&at_campaign=rss",
+    "summary": "Consumers are increasingly feeling the strain of the US Israel war in Iran.",
+    "pubDate": "Wed, 10 Jun 2026 17:50:06 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The Dynamo and the Computer: The Modern Productivity Paradox (1989) [pdf]",
+    "link": "https://www.almendron.com/tribuna/wp-content/uploads/2018/03/the-dynamo-and-the-computer-an-historical-perspective-on-the-modern-productivity-paradox.pdf",
+    "summary": "https://gwern.net/doc/economics/automation/1989-david.pdf Comments URL: https://news.ycombinator.com/item?id=48479996 Points: 22 # Comments: 3",
+    "pubDate": "Wed, 10 Jun 2026 17:47:46 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Why SpaceX 2040 Revenue FCST $4.3T in highly unlikely",
+    "link": "https://www.matteast.io/spacex-escape-velocity.html",
+    "summary": "Article URL: https://www.matteast.io/spacex-escape-velocity.html Comments URL: https://news.ycombinator.com/item?id=48479947 Points: 147 # Comments: 138",
+    "pubDate": "Wed, 10 Jun 2026 17:44:59 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "GeoLibre 1.0",
+    "link": "https://geolibre.app/",
+    "summary": "Article URL: https://geolibre.app/ Comments URL: https://news.ycombinator.com/item?id=48479852 Points: 56 # Comments: 5",
+    "pubDate": "Wed, 10 Jun 2026 17:39:47 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "We managed to glean some interesting details about the Artemis III mission",
+    "link": "https://arstechnica.com/space/2026/06/we-managed-to-glean-some-interesting-details-about-the-artemis-iii-mission/",
+    "summary": "\"I was on the phone with Blue Origin leadership that night, all the next day, all through the weekend.\"",
+    "pubDate": "Wed, 10 Jun 2026 17:31:13 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "How a knife attack sparked a night of violence",
+    "link": "https://www.bbc.com/news/videos/c9w2rnj0kjpo?at_medium=RSS&at_campaign=rss",
+    "summary": "BBC Verify mapped some of the violent disorder that took place in Belfast and elsewhere in Northern Ireland.",
+    "pubDate": "Wed, 10 Jun 2026 17:31:05 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "How JPL keeps the 13-year-old Curiosity rover doing science",
+    "link": "https://spectrum.ieee.org/curiosity-rover-jpl-mars-science",
+    "summary": "Article URL: https://spectrum.ieee.org/curiosity-rover-jpl-mars-science Comments URL: https://news.ycombinator.com/item?id=48479705 Points: 105 # Comments: 15",
+    "pubDate": "Wed, 10 Jun 2026 17:30:48 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "线下活动｜周日到广州来，给你一张过去的 CD",
     "link": "https://sspai.com/post/110911",
     "summary": "故事的开端今年因为和飞傲合作多功能便携CD音箱一体机BeatBox，我们对CD以及CD文化的了解也加深了不少，也因此认识不少真正的CD、唱片收藏大佬，谢江川川哥就是其中一位。川哥是一家唱片店的老板，从 ... 查看全文",
     "pubDate": "Wed, 10 Jun 2026 17:30:00 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "Sara Sharif's siblings to stay in Pakistan",
+    "link": "https://www.bbc.com/news/articles/ckg5zxng4lyo?at_medium=RSS&at_campaign=rss",
+    "summary": "Surrey County Council has withdrawn from the case to bring the five children back to the UK.",
+    "pubDate": "Wed, 10 Jun 2026 17:26:50 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "'In emergency, break glass' - England seek stability in Root",
+    "link": "https://www.bbc.com/sport/cricket/articles/c6219nxw6llo?at_medium=RSS&at_campaign=rss",
+    "summary": "BBC cricket correspondent Stephan Shemilt explains why England turned to Joe Root to replace Ben Stokes as interim Test captain.",
+    "pubDate": "Wed, 10 Jun 2026 17:20:08 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Nobody needs AI to search the Internet, court says in ruling against Google",
+    "link": "https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/",
+    "summary": "Google AI Overview court loss in Germany could spell doom for AI search industry.",
+    "pubDate": "Wed, 10 Jun 2026 17:19:31 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Meta steals a tactic from Tesla and builds data centers in tents",
+    "link": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
+    "summary": "Article URL: https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/ Comments URL: https://news.ycombinator.com/item?id=48479537 Points: 69 # Comments: 71",
+    "pubDate": "Wed, 10 Jun 2026 17:18:39 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Manager McKenna leaves promoted Ipswich",
+    "link": "https://www.bbc.com/sport/football/articles/cd7wn0erlvwo?at_medium=RSS&at_campaign=rss",
+    "summary": "Ipswich Town announce that Kieran McKenna has decided to resign, before the club's Premier League campaign.",
+    "pubDate": "Wed, 10 Jun 2026 17:13:51 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Netflix expands revamped mobile app across Asia and doubles down on kids’ gaming",
+    "link": "https://techcrunch.com/2026/06/10/netflix-expands-revamped-mobile-app-across-asia-and-doubles-down-on-kids-gaming/",
+    "summary": "The media giant is pushing to expand its mobile and gaming business.",
+    "pubDate": "Wed, 10 Jun 2026 17:13:02 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Claude Desktop spins up a VM without no way of stopping it",
+    "link": "https://github.com/anthropics/claude-code/issues/29045",
+    "summary": "Article URL: https://github.com/anthropics/claude-code/issues/29045 Comments URL: https://news.ycombinator.com/item?id=48479452 Points: 256 # Comments: 165",
+    "pubDate": "Wed, 10 Jun 2026 17:11:56 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
+    "link": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
+    "summary": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet.",
+    "pubDate": "Wed, 10 Jun 2026 17:07:35 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Vets advise ban on over the counter flea treatment for pets",
+    "link": "https://www.bbc.com/news/articles/cp9pd4d3m5ko?at_medium=RSS&at_campaign=rss",
+    "summary": "Pet owners have historically been advised they should treat cats and dogs as a preventative measure every month.",
+    "pubDate": "Wed, 10 Jun 2026 17:06:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Cheap Iranian drone downed $25 million US Army helicopter—maybe by chance",
+    "link": "https://arstechnica.com/gadgets/2026/06/cheap-iranian-drone-downed-25-million-us-army-helicopter-maybe-by-chance/",
+    "summary": "The US military struck Iran again after an Iranian drone’s lucky midair strike.",
+    "pubDate": "Wed, 10 Jun 2026 17:04:47 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Donald Trump Is Ready for Fight Night. So Are Donors",
+    "link": "https://www.wired.com/story/donald-trump-ufc-white-house-south-lawn/",
+    "summary": "The UFC event on the White House’s South Lawn is the president’s birthday gift to himself. Sources expect it to be a lobbying extravaganza.",
+    "pubDate": "Wed, 10 Jun 2026 17:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Williams' Queen's campaign in doubt after Mboko injury",
+    "link": "https://www.bbc.com/sport/tennis/articles/c3ey8pkgjzlo?at_medium=RSS&at_campaign=rss",
+    "summary": "Serena Williams' doubles campaign at Queen's is in doubt after Victoria Mboko suffers a knee injury in her singles match against Karolina Pliskova.",
+    "pubDate": "Wed, 10 Jun 2026 16:59:19 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "OB-GYNs release their own vaccine schedule, rejecting RFK Jr.'s meddling",
+    "link": "https://arstechnica.com/health/2026/06/bucking-rfk-jr-ob-gyns-release-vaccine-guidance-that-conflicts-with-cdc/",
+    "summary": "Thirteen other medical groups have already endorsed the independent schedule.",
+    "pubDate": "Wed, 10 Jun 2026 16:52:36 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Destruction shows torched homes and vehicles",
+    "link": "https://www.bbc.com/news/videos/cj9gnrr2k0ro?at_medium=RSS&at_campaign=rss",
+    "summary": "Houses, vehicles and a bus were set on fire during violent protests on Tuesday night after a knife attack in Belfast.",
+    "pubDate": "Wed, 10 Jun 2026 16:52:27 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The Indian government got cold feet on Starlink just before SpaceX’s IPO",
+    "link": "https://techcrunch.com/2026/06/10/the-indian-government-got-cold-feet-on-starlink-just-before-spacexs-ipo/",
+    "summary": "Problems with Starlink's India expansion could challenge SpaceX's IPO growth story.",
+    "pubDate": "Wed, 10 Jun 2026 16:43:11 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Valve kills its retail gift card program due to scammers",
+    "link": "https://arstechnica.com/gaming/2026/06/valve-kills-its-retail-gift-card-program-due-to-scammers/",
+    "summary": "Move also cuts off a massive market of legit users who buy cards with physical cash.",
+    "pubDate": "Wed, 10 Jun 2026 16:39:43 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Veterans and relatives see no place for Trump's arch near Arlington National Cemetery",
+    "link": "https://www.npr.org/2026/06/10/nx-s1-5851587/trump-arch-veterans-arlington-national-cemetery",
+    "summary": "Three Vietnam War veterans are suing to stop President Trump from building an arch just steps from Arlington National Cemetery, where 400,000 service members, veterans and their relatives are buried.",
+    "pubDate": "Wed, 10 Jun 2026 16:26:00 -0400",
+    "source": "NPR",
+    "category": "general"
   },
   {
     "title": "Stokes out of England squad, Root named captain",
@@ -32,6 +384,14 @@
     "category": "tech"
   },
   {
+    "title": "The 2026 Honda Prelude review: Didn't expect such a head-turner",
+    "link": "https://arstechnica.com/cars/2026/06/2026-honda-prelude-review-we-need-more-affordable-coupes-like-this/",
+    "summary": "Honda's $42,000 hybrid coupe looks great, handles well, and gets 44 mpg.",
+    "pubDate": "Wed, 10 Jun 2026 16:10:20 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
     "title": "Belfast knife attack disorder 'destabilising', says terror adviser",
     "link": "https://www.bbc.com/news/articles/cm2r0783x4go?at_medium=RSS&at_campaign=rss",
     "summary": "Jonathan Hall KC tells the BBC it was \"absolutely legitimate\" to talk about immigration in relation to national security.",
@@ -40,11 +400,59 @@
     "category": "general"
   },
   {
+    "title": "Report: ICE wasted millions, endangered detainees in largest immigration facility",
+    "link": "https://www.npr.org/2026/06/10/nx-s1-5853534/report-ice-wasted-millions-endangered-detainees-in-largest-immigration-facility",
+    "summary": "Since the opening of Camp East Montana in Texas last year, immigration lawyers and rights advocates have expressed concerns about conditions inside the facility.",
+    "pubDate": "Wed, 10 Jun 2026 16:10:03 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "DiffusionGemma: 4x Faster Text Generation",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/",
+    "summary": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/ Comments URL: https://news.ycombinator.com/item?id=48478471 Points: 223 # Comments: 48",
+    "pubDate": "Wed, 10 Jun 2026 16:09:37 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Show HN: Extend UI – open-source UI kit for modern document apps",
+    "link": "https://www.extend.ai/ui",
+    "summary": "We're open-sourcing 14 components & examples today for PDF, DOCX, and XLSX viewers, plus bounding box citations, file upload, e-signature, and more. It's MIT licensed and fully customizable. Demo video here: https://share.extend.ai/kRmSGKRF When we started, we tried every file viewer and document...",
+    "pubDate": "Wed, 10 Jun 2026 16:09:26 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "Trump and Iran trade new threats after strikes exchanged",
     "link": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&at_campaign=rss",
     "summary": "The US president warns Iran \"will have to pay the price\" for taking too long to agree a deal, after Tehran vows retaliation to any attacks.",
     "pubDate": "Wed, 10 Jun 2026 16:09:21 GMT",
     "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Five jailed for violence at Henry Nowak police protest",
+    "link": "https://www.bbc.com/news/articles/cwye9v0dy3yo?at_medium=RSS&at_campaign=rss",
+    "summary": "Disorder broke out in Southampton close to where the 18-year-old student was murdered.",
+    "pubDate": "Wed, 10 Jun 2026 16:06:53 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Rebuilding my blog with machines, for machines ·",
+    "link": "https://blog.lvmbdv.dev/posts/rebuilding-my-blog-with-machines-for-machines/",
+    "summary": "Comments",
+    "pubDate": "Wed, 10 Jun 2026 16:06:06 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "The theory taking the rich by storm: China funds data center haters",
+    "link": "https://www.npr.org/2026/06/10/nx-s1-5844328/us-china-data-centers-foreign-influence",
+    "summary": "Tech millionaires claim China is behind a wave of local opposition to U.S. data centers, while providing little direct evidence.",
+    "pubDate": "Wed, 10 Jun 2026 16:01:52 -0400",
+    "source": "NPR",
     "category": "general"
   },
   {
@@ -61,6 +469,14 @@
     "summary": "Backed by Alexis Ohanian’s 776 and Kindred Ventures, Zest uses transaction data and AI to generate restaurant recommendations based on users’ real dining habits and the places they frequent.",
     "pubDate": "Wed, 10 Jun 2026 15:53:07 +0000",
     "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Show HN: HelixDB – A graph database built on object storage",
+    "link": "https://github.com/HelixDB/helix-db/tree/main",
+    "summary": "Hey HN, it’s been just over a year since we launched HelixDB ( https://news.ycombinator.com/item?id=43975423 ), a project a friend and I started in college. It’s an OLTP graph database built on object-storage, with native vector search and full-text search (FTS). Why graph, vector and FTS? Graph ...",
+    "pubDate": "Wed, 10 Jun 2026 15:47:31 +0000",
+    "source": "Hacker News",
     "category": "tech"
   },
   {
@@ -280,6 +696,14 @@
     "category": "tech"
   },
   {
+    "title": "A €0.01 bank transfer could compromise a banking AI agent",
+    "link": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/",
+    "summary": "Article URL: https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/ Comments URL: https://news.ycombinator.com/item?id=48476136 Points: 141 # Comments: 118",
+    "pubDate": "Wed, 10 Jun 2026 13:39:11 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
     "link": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
     "summary": "The funding round was led by Norwest, with participation S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
@@ -304,11 +728,35 @@
     "category": "tech"
   },
   {
+    "title": "VAR, timewasting and subs - World Cup law changes explained",
+    "link": "https://www.bbc.com/sport/football/articles/ce8jv326d7vo?at_medium=RSS&at_campaign=rss",
+    "summary": "The 2026 World Cup is going to be unprecedented for a variety of reasons - and that includes the sheer number of law changes.",
+    "pubDate": "Wed, 10 Jun 2026 13:18:27 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Static types and shovels (2026)",
+    "link": "https://carefully.understood.systems/blog-2026-06-10-static-type-shovel.html",
+    "summary": "Comments",
+    "pubDate": "Wed, 10 Jun 2026 13:13:56 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "GM Energy introduces V2G support and new energy storage battery chemistry",
     "link": "https://arstechnica.com/cars/2026/06/gm-energy-introduces-v2g-support-and-new-energy-storage-battery-chemistry/",
     "summary": "There are more than a quarter of a million V2G-capable GM EVs on the roads already.",
     "pubDate": "Wed, 10 Jun 2026 13:13:33 +0000",
     "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "AI agent runs amok in Fedora and elsewhere",
+    "link": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+    "summary": "Comments",
+    "pubDate": "Wed, 10 Jun 2026 13:11:33 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -408,6 +856,14 @@
     "category": "general"
   },
   {
+    "title": "Nontrailing separators do not spark joy",
+    "link": "https://buttondown.com/hillelwayne/archive/nontrailing-separators-do-not-spark-joy/",
+    "summary": "Comments",
+    "pubDate": "Wed, 10 Jun 2026 11:49:45 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Ukraine says missiles hit military plant deep inside Russia",
     "link": "https://www.bbc.com/news/articles/c5yzm2nzgr2o?at_medium=RSS&at_campaign=rss",
     "summary": "Ukraine's military also says it has struck a Russian oil refinery and a \"shadow fleet\" oil tanker in the Black Sea.",
@@ -422,6 +878,22 @@
     "pubDate": "Wed, 10 Jun 2026 11:43:14 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "The Tao of Datastar",
+    "link": "https://data-star.dev/guide/the_tao_of_datastar",
+    "summary": "Comments",
+    "pubDate": "Wed, 10 Jun 2026 11:41:42 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "The Jqwik Anti-AI Affair",
+    "link": "https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/",
+    "summary": "Comments",
+    "pubDate": "Wed, 10 Jun 2026 11:40:36 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Taiwan drills with U.S. rocket system, firing in China's direction",
@@ -448,6 +920,14 @@
     "category": "tech"
   },
   {
+    "title": "A human in control",
+    "link": "https://daniel.haxx.se/blog/2026/06/10/a-human-in-control/",
+    "summary": "Comments",
+    "pubDate": "Wed, 10 Jun 2026 11:18:11 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "这些人用实测，给麦金獭钢化膜交了份真实答卷",
     "link": "https://sspai.com/post/110868",
     "summary": "编注：挑选钢化膜向来讲究贴合自身机型与使用习惯，优劣好坏仅凭介绍难以定论。麦金獭钢化膜上线已有一段时日，少数派编辑部汇总大量真实买家反馈，内容拆分为「用户体验」、「进阶体验」两部分，帮大家选购前摸清产 ... 查看全文",
@@ -461,6 +941,14 @@
     "summary": "Laptops for college should be portable, offer long battery life, and remain reasonably affordable. Based on testing hundreds of laptops, these are my top picks.",
     "pubDate": "Wed, 10 Jun 2026 11:00:00 +0000",
     "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Bootstrapping Rust Considered Harmful",
+    "link": "https://www.ntecs.de/blog/2026-02-01-bootstrapping-rust-considered-harmful",
+    "summary": "Comments",
+    "pubDate": "Wed, 10 Jun 2026 10:54:37 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -574,6 +1062,14 @@
     "pubDate": "Wed, 10 Jun 2026 09:19:55 +0000",
     "source": "Hacker News",
     "category": "tech"
+  },
+  {
+    "title": "England World Cup squad barber talks trims and trust",
+    "link": "https://www.bbc.com/news/articles/c1ly4m03vlyo?at_medium=RSS&at_campaign=rss",
+    "summary": "Ahmed Alsanawi, better known as A-Star, is behind some of football's most famous cuts.",
+    "pubDate": "Wed, 10 Jun 2026 09:11:19 GMT",
+    "source": "BBC News",
+    "category": "general"
   },
   {
     "title": "Inflation tops 4% for the first time in 3 years on spike in gasoline prices",
@@ -1534,6 +2030,86 @@
     "pubDate": "Tue, 09 Jun 2026 02:44:51 EDT",
     "source": "Science Daily",
     "category": "science"
+  },
+  {
+    "title": "Apple, Google add support for Thread 1.4",
+    "link": "https://www.theverge.com/tech/947888/apple-google-add-support-for-thread-1-4",
+    "summary": "Apple and Google are updating their smart home streaming devices to Thread 1.4. As first spotted by Matter Alpha and 9to5 Google, the latest spec has arrived on compatible Apple TVs in the tvOS 27 developer beta and the Google TV Streamer through a software update. This lays the groundwork for th...",
+    "pubDate": "2026-06-10T16:25:46-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Kalshi adds required employment verification for some prediction market bets",
+    "link": "https://www.theverge.com/business/948083/kalshi-prediction-markets-insider-trading",
+    "summary": "The CFTC is considering its first regulation for prediction markets, as arrests over \"insider trading\" on everything from military operations to Google Search data continue to stack up. As CoinDesk reports, a notice of proposed rulemaking says \"the proposal would establish a structured framework ...",
+    "pubDate": "2026-06-10T16:18:16-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Claude Fable won’t answer basic biology questions",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
+    "summary": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biology questions - the kind you'd expect a high schooler to handle. Instead, it hands off the query t...",
+    "pubDate": "2026-06-10T14:43:34-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Microsoft, like, totally gets why students are booing AI-pilled graduation speakers",
+    "link": "https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft",
+    "summary": "New college graduates around the country have been booing and heckling commencement speakers who hype up AI. Microsoft would like everyone to talk it out. In a blog post running more than 3,100 words, Microsoft vice chair and president Brad Smith addressed the recent spate of viral clips from gra...",
+    "pubDate": "2026-06-10T13:45:11-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
+    "link": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
+    "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.) We're back after a two-week hiatus, during most of which I was gallivanting in the Netherlands f...",
+    "pubDate": "2026-06-10T13:38:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Google won’t just admit it’s feeding YouTube creators to its music AI",
+    "link": "https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube",
+    "summary": "If you've uploaded a song to YouTube, Google almost certainly considers your video fair game for training its Lyria music AI, it just won't admit it right now. A group of independent musicians is suing Google, claiming that it illegally used songs they uploaded to YouTube to train its Lyria 3 mod...",
+    "pubDate": "2026-06-10T13:20:36-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "You can just tell the Instagram algorithm what you want now",
+    "link": "https://www.theverge.com/tech/947898/meta-instagram-your-algorithm-main-feed-tell",
+    "summary": "Instagram is going to let you tweak what its algorithm shows you on your main feed. With the Your Algorithm feature, \"you can now see the topics we think you're interested in, and change them, across all the major parts of Instagram,\" according to Instagram boss Adam Mosseri. Right now, the featu...",
+    "pubDate": "2026-06-10T13:06:10-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Amazon’s Echo speakers can now help kids wind down and fall asleep",
+    "link": "https://www.theverge.com/tech/947871/amazon-sleep-studio-echo-kids-smart-speakers-calm-moshi-headspace",
+    "summary": "Amazon has launched a new feature for its Echo and Echo Kids smart speakers called Sleep Studio that's designed to make the daily transition to bedtime more enticing for kids and less stressful for parents and caregivers. The feature uses a combination of bedtime stories, relaxing sounds, and gui...",
+    "pubDate": "2026-06-10T12:54:17-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Microsoft restricts Claude Fable for employees over data retention concerns",
+    "link": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
+    "summary": "Anthropic released Claude Fable, its first Mythos-class AI model, yesterday and it's already causing concerns inside Microsoft. Sources tell me that Microsoft is limiting the use of Claude Fable 5 for employees because of Anthropic's new data retention requirements. While Microsoft quickly rolled...",
+    "pubDate": "2026-06-10T12:50:23-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Google will save your Lens photos, Search Live recordings, and Translate audio for AI training",
+    "link": "https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio",
+    "summary": "Google is making some changes to how it saves your interactions with Search. In an email sent to users, Google says it will save the images, files, audio, and video you use to search under a new \"Search Services History\" setting. That includes the images you search for with Google Lens, recording...",
+    "pubDate": "2026-06-10T12:18:45-04:00",
+    "source": "The Verge",
+    "category": "tech"
   },
   {
     "title": "Boox’s quirky page-turning remote won me over",

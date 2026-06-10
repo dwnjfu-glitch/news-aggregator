@@ -8,12 +8,364 @@
     "category": "general"
   },
   {
+    "title": "CISA Tells US Agencies to Fix Security Bugs in as Little as 3 Days Thanks to AI Threats",
+    "link": "https://www.wired.com/story/cisa-ai-vulnerability-directive/",
+    "summary": "“Defenders cannot afford to take weeks to patch,” one Cybersecurity and Infrastructure Security Agency official warned on Wednesday.",
+    "pubDate": "Wed, 10 Jun 2026 20:55:40 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Changing visa rules for care workers is wrong, says Rayner",
+    "link": "https://www.bbc.com/news/articles/cddl0nz4v5vo?at_medium=RSS&at_campaign=rss",
+    "summary": "The former deputy prime minister says changing visa rules for migrants already living in the UK would be \"un-British\".",
+    "pubDate": "Wed, 10 Jun 2026 20:47:55 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "What Is It Like to Be a Bat? [pdf]",
+    "link": "https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf",
+    "summary": "Article URL: https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf Comments URL: https://news.ycombinator.com/item?id=48482293 Points: 8 # Comments: 0",
+    "pubDate": "Wed, 10 Jun 2026 20:35:07 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Trump Risks Key Surveillance Authority Over ‘Unqualified’ Spy-Chief Pick",
+    "link": "https://www.wired.com/story/trump-risks-key-surveillance-authority-over-unqualified-spy-chief-pick/",
+    "summary": "US lawmakers are alarmed that Bill Pulte, a housing official with no intelligence experience, is poised to take charge of one of the government's most powerful surveillance tools.",
+    "pubDate": "Wed, 10 Jun 2026 20:28:58 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Everyone wants a piece of Tesla’s battery business",
+    "link": "https://techcrunch.com/2026/06/10/everyone-wants-a-piece-of-teslas-battery-business/",
+    "summary": "Electricity demand from AI data centers is pushing everyone — including automakers like GM and Ford — into the energy storage business.",
+    "pubDate": "Wed, 10 Jun 2026 20:21:25 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+    "link": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+    "summary": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing.",
+    "pubDate": "Wed, 10 Jun 2026 20:19:31 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Raspberry Pi 5 – 16 GB, $350",
+    "link": "https://www.adafruit.com/product/6125?src=raspberrypi",
+    "summary": "Article URL: https://www.adafruit.com/product/6125?src=raspberrypi Comments URL: https://news.ycombinator.com/item?id=48481857 Points: 61 # Comments: 61",
+    "pubDate": "Wed, 10 Jun 2026 20:05:21 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Logitech’s foldable mouse is for people who refuse to carry a mouse with them",
+    "link": "https://arstechnica.com/gadgets/2026/06/logitechs-mobi-fold-folds-for-travel-but-i-prefer-a-different-portable-mouse/",
+    "summary": "The Mobi Fold is an $80 Bluetooth mouse with a silicone-wrapped hinge.",
+    "pubDate": "Wed, 10 Jun 2026 19:57:56 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "North Koreans behind nearly half of US tech industry hacks, says CrowdStrike",
+    "link": "https://techcrunch.com/2026/06/10/north-koreans-behind-nearly-half-of-us-tech-industry-hacks-says-crowdstrike/",
+    "summary": "North Korean hackers posing as remote IT workers and recruiters remain a major threat to U.S., European, and Asian companies, accounting for about half of all attacks over the past 12 months.",
+    "pubDate": "Wed, 10 Jun 2026 19:57:04 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Wing drone delivery might not be a novelty anymore",
+    "link": "https://techcrunch.com/2026/06/10/wing-drone-delivery-might-not-be-a-novelty-anymore/",
+    "summary": "Wing is expanding into seven more U.S. cities through its partnership with Walmart.",
+    "pubDate": "Wed, 10 Jun 2026 19:52:09 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "A Meta Employee Who Just Lost Their Job Was Detained by Immigration Agents",
+    "link": "https://www.wired.com/story/meta-layoffs-immigration-customs-enforcement/",
+    "summary": "Colleagues discussed the incident on internal message boards, according to documents seen by WIRED.",
+    "pubDate": "Wed, 10 Jun 2026 19:49:26 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "The Abundance Illusion",
+    "link": "https://www.carlyle.com/carlyle-compass/the-abundance-illusion",
+    "summary": "Article URL: https://www.carlyle.com/carlyle-compass/the-abundance-illusion Comments URL: https://news.ycombinator.com/item?id=48481524 Points: 41 # Comments: 11",
+    "pubDate": "Wed, 10 Jun 2026 19:38:51 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Bill Gates says Epstein wanted personal relationship, but he 'never reciprocated'",
+    "link": "https://www.bbc.com/news/articles/c0jy8v0ge66o?at_medium=RSS&at_campaign=rss",
+    "summary": "The Microsoft co-founder spent hours talking to lawmakers behind closed doors, where he also said Epstein used his marital infidelities to pressure him.",
+    "pubDate": "Wed, 10 Jun 2026 19:31:24 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster",
+    "link": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
+    "summary": "Diffusion AI is most common in image generation, but it can make text outputs much faster.",
+    "pubDate": "Wed, 10 Jun 2026 19:29:21 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Essex Police given new information on West Ham co-owner David Sullivan",
+    "link": "https://www.bbc.com/news/articles/c802l191rd3o?at_medium=RSS&at_campaign=rss",
+    "summary": "Police have been contacted with new information about the West Ham co-owner following a BBC Panorama and Times investigation.",
+    "pubDate": "Wed, 10 Jun 2026 19:19:54 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Farmer donates land for a park, city sells it for $10M as data center land",
+    "link": "https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade",
+    "summary": "Article URL: https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade Comments URL: https://news.ycombinator.com/item?id=48481126 Points: 98 # Comments...",
+    "pubDate": "Wed, 10 Jun 2026 19:06:50 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "ΠFS",
+    "link": "https://github.com/philipl/pifs",
+    "summary": "Article URL: https://github.com/philipl/pifs Comments URL: https://news.ycombinator.com/item?id=48480978 Points: 134 # Comments: 40",
+    "pubDate": "Wed, 10 Jun 2026 18:54:54 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Anthropic's Model Naming, Extrapolated",
+    "link": "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated",
+    "summary": "Article URL: https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated Comments URL: https://news.ycombinator.com/item?id=48480852 Points: 185 # Comments: 40",
+    "pubDate": "Wed, 10 Jun 2026 18:45:20 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The Best USB-C Cables (2026): for Smartphones, Tablets, and Laptops",
+    "link": "https://www.wired.com/gallery/best-usb-c-cables/",
+    "summary": "Unravel the tangled world of cords and find the ones you need to charge your gadgets and transfer data.",
+    "pubDate": "Wed, 10 Jun 2026 18:29:45 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Whale graveyard dating back five million years discovered",
+    "link": "https://www.bbc.com/news/articles/c75ylx4xn10o?at_medium=RSS&at_campaign=rss",
+    "summary": "The Indian Ocean site is \"far beyond anything we had imagined\", one researcher says.",
+    "pubDate": "Wed, 10 Jun 2026 18:24:09 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Trump says he 'loves the inflation' as US prices rise at fastest rate in three years",
+    "link": "https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&at_campaign=rss",
+    "summary": "Consumers are increasingly feeling the strain of the US Israel war in Iran.",
+    "pubDate": "Wed, 10 Jun 2026 17:50:06 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The Dynamo and the Computer: The Modern Productivity Paradox (1989) [pdf]",
+    "link": "https://www.almendron.com/tribuna/wp-content/uploads/2018/03/the-dynamo-and-the-computer-an-historical-perspective-on-the-modern-productivity-paradox.pdf",
+    "summary": "https://gwern.net/doc/economics/automation/1989-david.pdf Comments URL: https://news.ycombinator.com/item?id=48479996 Points: 22 # Comments: 3",
+    "pubDate": "Wed, 10 Jun 2026 17:47:46 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Why SpaceX 2040 Revenue FCST $4.3T in highly unlikely",
+    "link": "https://www.matteast.io/spacex-escape-velocity.html",
+    "summary": "Article URL: https://www.matteast.io/spacex-escape-velocity.html Comments URL: https://news.ycombinator.com/item?id=48479947 Points: 147 # Comments: 138",
+    "pubDate": "Wed, 10 Jun 2026 17:44:59 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "GeoLibre 1.0",
+    "link": "https://geolibre.app/",
+    "summary": "Article URL: https://geolibre.app/ Comments URL: https://news.ycombinator.com/item?id=48479852 Points: 56 # Comments: 5",
+    "pubDate": "Wed, 10 Jun 2026 17:39:47 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "We managed to glean some interesting details about the Artemis III mission",
+    "link": "https://arstechnica.com/space/2026/06/we-managed-to-glean-some-interesting-details-about-the-artemis-iii-mission/",
+    "summary": "\"I was on the phone with Blue Origin leadership that night, all the next day, all through the weekend.\"",
+    "pubDate": "Wed, 10 Jun 2026 17:31:13 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "How a knife attack sparked a night of violence",
+    "link": "https://www.bbc.com/news/videos/c9w2rnj0kjpo?at_medium=RSS&at_campaign=rss",
+    "summary": "BBC Verify mapped some of the violent disorder that took place in Belfast and elsewhere in Northern Ireland.",
+    "pubDate": "Wed, 10 Jun 2026 17:31:05 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "How JPL keeps the 13-year-old Curiosity rover doing science",
+    "link": "https://spectrum.ieee.org/curiosity-rover-jpl-mars-science",
+    "summary": "Article URL: https://spectrum.ieee.org/curiosity-rover-jpl-mars-science Comments URL: https://news.ycombinator.com/item?id=48479705 Points: 105 # Comments: 15",
+    "pubDate": "Wed, 10 Jun 2026 17:30:48 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "线下活动｜周日到广州来，给你一张过去的 CD",
     "link": "https://sspai.com/post/110911",
     "summary": "故事的开端今年因为和飞傲合作多功能便携CD音箱一体机BeatBox，我们对CD以及CD文化的了解也加深了不少，也因此认识不少真正的CD、唱片收藏大佬，谢江川川哥就是其中一位。川哥是一家唱片店的老板，从 ... 查看全文",
     "pubDate": "Wed, 10 Jun 2026 17:30:00 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "Sara Sharif's siblings to stay in Pakistan",
+    "link": "https://www.bbc.com/news/articles/ckg5zxng4lyo?at_medium=RSS&at_campaign=rss",
+    "summary": "Surrey County Council has withdrawn from the case to bring the five children back to the UK.",
+    "pubDate": "Wed, 10 Jun 2026 17:26:50 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "'In emergency, break glass' - England seek stability in Root",
+    "link": "https://www.bbc.com/sport/cricket/articles/c6219nxw6llo?at_medium=RSS&at_campaign=rss",
+    "summary": "BBC cricket correspondent Stephan Shemilt explains why England turned to Joe Root to replace Ben Stokes as interim Test captain.",
+    "pubDate": "Wed, 10 Jun 2026 17:20:08 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Nobody needs AI to search the Internet, court says in ruling against Google",
+    "link": "https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/",
+    "summary": "Google AI Overview court loss in Germany could spell doom for AI search industry.",
+    "pubDate": "Wed, 10 Jun 2026 17:19:31 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Meta steals a tactic from Tesla and builds data centers in tents",
+    "link": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
+    "summary": "Article URL: https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/ Comments URL: https://news.ycombinator.com/item?id=48479537 Points: 69 # Comments: 71",
+    "pubDate": "Wed, 10 Jun 2026 17:18:39 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Manager McKenna leaves promoted Ipswich",
+    "link": "https://www.bbc.com/sport/football/articles/cd7wn0erlvwo?at_medium=RSS&at_campaign=rss",
+    "summary": "Ipswich Town announce that Kieran McKenna has decided to resign, before the club's Premier League campaign.",
+    "pubDate": "Wed, 10 Jun 2026 17:13:51 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Netflix expands revamped mobile app across Asia and doubles down on kids’ gaming",
+    "link": "https://techcrunch.com/2026/06/10/netflix-expands-revamped-mobile-app-across-asia-and-doubles-down-on-kids-gaming/",
+    "summary": "The media giant is pushing to expand its mobile and gaming business.",
+    "pubDate": "Wed, 10 Jun 2026 17:13:02 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Claude Desktop spins up a VM without no way of stopping it",
+    "link": "https://github.com/anthropics/claude-code/issues/29045",
+    "summary": "Article URL: https://github.com/anthropics/claude-code/issues/29045 Comments URL: https://news.ycombinator.com/item?id=48479452 Points: 256 # Comments: 165",
+    "pubDate": "Wed, 10 Jun 2026 17:11:56 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
+    "link": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
+    "summary": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet.",
+    "pubDate": "Wed, 10 Jun 2026 17:07:35 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Vets advise ban on over the counter flea treatment for pets",
+    "link": "https://www.bbc.com/news/articles/cp9pd4d3m5ko?at_medium=RSS&at_campaign=rss",
+    "summary": "Pet owners have historically been advised they should treat cats and dogs as a preventative measure every month.",
+    "pubDate": "Wed, 10 Jun 2026 17:06:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Cheap Iranian drone downed $25 million US Army helicopter—maybe by chance",
+    "link": "https://arstechnica.com/gadgets/2026/06/cheap-iranian-drone-downed-25-million-us-army-helicopter-maybe-by-chance/",
+    "summary": "The US military struck Iran again after an Iranian drone’s lucky midair strike.",
+    "pubDate": "Wed, 10 Jun 2026 17:04:47 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Donald Trump Is Ready for Fight Night. So Are Donors",
+    "link": "https://www.wired.com/story/donald-trump-ufc-white-house-south-lawn/",
+    "summary": "The UFC event on the White House’s South Lawn is the president’s birthday gift to himself. Sources expect it to be a lobbying extravaganza.",
+    "pubDate": "Wed, 10 Jun 2026 17:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Williams' Queen's campaign in doubt after Mboko injury",
+    "link": "https://www.bbc.com/sport/tennis/articles/c3ey8pkgjzlo?at_medium=RSS&at_campaign=rss",
+    "summary": "Serena Williams' doubles campaign at Queen's is in doubt after Victoria Mboko suffers a knee injury in her singles match against Karolina Pliskova.",
+    "pubDate": "Wed, 10 Jun 2026 16:59:19 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "OB-GYNs release their own vaccine schedule, rejecting RFK Jr.'s meddling",
+    "link": "https://arstechnica.com/health/2026/06/bucking-rfk-jr-ob-gyns-release-vaccine-guidance-that-conflicts-with-cdc/",
+    "summary": "Thirteen other medical groups have already endorsed the independent schedule.",
+    "pubDate": "Wed, 10 Jun 2026 16:52:36 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Destruction shows torched homes and vehicles",
+    "link": "https://www.bbc.com/news/videos/cj9gnrr2k0ro?at_medium=RSS&at_campaign=rss",
+    "summary": "Houses, vehicles and a bus were set on fire during violent protests on Tuesday night after a knife attack in Belfast.",
+    "pubDate": "Wed, 10 Jun 2026 16:52:27 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The Indian government got cold feet on Starlink just before SpaceX’s IPO",
+    "link": "https://techcrunch.com/2026/06/10/the-indian-government-got-cold-feet-on-starlink-just-before-spacexs-ipo/",
+    "summary": "Problems with Starlink's India expansion could challenge SpaceX's IPO growth story.",
+    "pubDate": "Wed, 10 Jun 2026 16:43:11 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Valve kills its retail gift card program due to scammers",
+    "link": "https://arstechnica.com/gaming/2026/06/valve-kills-its-retail-gift-card-program-due-to-scammers/",
+    "summary": "Move also cuts off a massive market of legit users who buy cards with physical cash.",
+    "pubDate": "Wed, 10 Jun 2026 16:39:43 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Veterans and relatives see no place for Trump's arch near Arlington National Cemetery",
+    "link": "https://www.npr.org/2026/06/10/nx-s1-5851587/trump-arch-veterans-arlington-national-cemetery",
+    "summary": "Three Vietnam War veterans are suing to stop President Trump from building an arch just steps from Arlington National Cemetery, where 400,000 service members, veterans and their relatives are buried.",
+    "pubDate": "Wed, 10 Jun 2026 16:26:00 -0400",
+    "source": "NPR",
+    "category": "general"
   },
   {
     "title": "Stokes out of England squad, Root named captain",
@@ -40,6 +392,14 @@
     "category": "tech"
   },
   {
+    "title": "The 2026 Honda Prelude review: Didn't expect such a head-turner",
+    "link": "https://arstechnica.com/cars/2026/06/2026-honda-prelude-review-we-need-more-affordable-coupes-like-this/",
+    "summary": "Honda's $42,000 hybrid coupe looks great, handles well, and gets 44 mpg.",
+    "pubDate": "Wed, 10 Jun 2026 16:10:20 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
     "title": "Belfast knife attack disorder 'destabilising', says terror adviser",
     "link": "https://www.bbc.com/news/articles/cm2r0783x4go?at_medium=RSS&at_campaign=rss",
     "summary": "Jonathan Hall KC tells the BBC it was \"absolutely legitimate\" to talk about immigration in relation to national security.",
@@ -48,11 +408,59 @@
     "category": "general"
   },
   {
+    "title": "Report: ICE wasted millions, endangered detainees in largest immigration facility",
+    "link": "https://www.npr.org/2026/06/10/nx-s1-5853534/report-ice-wasted-millions-endangered-detainees-in-largest-immigration-facility",
+    "summary": "Since the opening of Camp East Montana in Texas last year, immigration lawyers and rights advocates have expressed concerns about conditions inside the facility.",
+    "pubDate": "Wed, 10 Jun 2026 16:10:03 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "DiffusionGemma: 4x Faster Text Generation",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/",
+    "summary": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/ Comments URL: https://news.ycombinator.com/item?id=48478471 Points: 223 # Comments: 48",
+    "pubDate": "Wed, 10 Jun 2026 16:09:37 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Show HN: Extend UI – open-source UI kit for modern document apps",
+    "link": "https://www.extend.ai/ui",
+    "summary": "We're open-sourcing 14 components & examples today for PDF, DOCX, and XLSX viewers, plus bounding box citations, file upload, e-signature, and more. It's MIT licensed and fully customizable. Demo video here: https://share.extend.ai/kRmSGKRF When we started, we tried every file viewer and document...",
+    "pubDate": "Wed, 10 Jun 2026 16:09:26 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "Trump and Iran trade new threats after strikes exchanged",
     "link": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&at_campaign=rss",
     "summary": "The US president warns Iran \"will have to pay the price\" for taking too long to agree a deal, after Tehran vows retaliation to any attacks.",
     "pubDate": "Wed, 10 Jun 2026 16:09:21 GMT",
     "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Five jailed for violence at Henry Nowak police protest",
+    "link": "https://www.bbc.com/news/articles/cwye9v0dy3yo?at_medium=RSS&at_campaign=rss",
+    "summary": "Disorder broke out in Southampton close to where the 18-year-old student was murdered.",
+    "pubDate": "Wed, 10 Jun 2026 16:06:53 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Rebuilding my blog with machines, for machines ·",
+    "link": "https://blog.lvmbdv.dev/posts/rebuilding-my-blog-with-machines-for-machines/",
+    "summary": "Comments",
+    "pubDate": "Wed, 10 Jun 2026 16:06:06 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "The theory taking the rich by storm: China funds data center haters",
+    "link": "https://www.npr.org/2026/06/10/nx-s1-5844328/us-china-data-centers-foreign-influence",
+    "summary": "Tech millionaires claim China is behind a wave of local opposition to U.S. data centers, while providing little direct evidence.",
+    "pubDate": "Wed, 10 Jun 2026 16:01:52 -0400",
+    "source": "NPR",
     "category": "general"
   },
   {
@@ -69,6 +477,14 @@
     "summary": "Backed by Alexis Ohanian’s 776 and Kindred Ventures, Zest uses transaction data and AI to generate restaurant recommendations based on users’ real dining habits and the places they frequent.",
     "pubDate": "Wed, 10 Jun 2026 15:53:07 +0000",
     "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Show HN: HelixDB – A graph database built on object storage",
+    "link": "https://github.com/HelixDB/helix-db/tree/main",
+    "summary": "Hey HN, it’s been just over a year since we launched HelixDB ( https://news.ycombinator.com/item?id=43975423 ), a project a friend and I started in college. It’s an OLTP graph database built on object-storage, with native vector search and full-text search (FTS). Why graph, vector and FTS? Graph ...",
+    "pubDate": "Wed, 10 Jun 2026 15:47:31 +0000",
+    "source": "Hacker News",
     "category": "tech"
   },
   {
@@ -288,6 +704,14 @@
     "category": "tech"
   },
   {
+    "title": "A €0.01 bank transfer could compromise a banking AI agent",
+    "link": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/",
+    "summary": "Article URL: https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/ Comments URL: https://news.ycombinator.com/item?id=48476136 Points: 141 # Comments: 118",
+    "pubDate": "Wed, 10 Jun 2026 13:39:11 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
     "link": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
     "summary": "The funding round was led by Norwest, with participation S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
@@ -312,11 +736,35 @@
     "category": "tech"
   },
   {
+    "title": "VAR, timewasting and subs - World Cup law changes explained",
+    "link": "https://www.bbc.com/sport/football/articles/ce8jv326d7vo?at_medium=RSS&at_campaign=rss",
+    "summary": "The 2026 World Cup is going to be unprecedented for a variety of reasons - and that includes the sheer number of law changes.",
+    "pubDate": "Wed, 10 Jun 2026 13:18:27 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Static types and shovels (2026)",
+    "link": "https://carefully.understood.systems/blog-2026-06-10-static-type-shovel.html",
+    "summary": "Comments",
+    "pubDate": "Wed, 10 Jun 2026 13:13:56 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "GM Energy introduces V2G support and new energy storage battery chemistry",
     "link": "https://arstechnica.com/cars/2026/06/gm-energy-introduces-v2g-support-and-new-energy-storage-battery-chemistry/",
     "summary": "There are more than a quarter of a million V2G-capable GM EVs on the roads already.",
     "pubDate": "Wed, 10 Jun 2026 13:13:33 +0000",
     "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "AI agent runs amok in Fedora and elsewhere",
+    "link": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+    "summary": "Comments",
+    "pubDate": "Wed, 10 Jun 2026 13:11:33 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -416,6 +864,14 @@
     "category": "general"
   },
   {
+    "title": "Nontrailing separators do not spark joy",
+    "link": "https://buttondown.com/hillelwayne/archive/nontrailing-separators-do-not-spark-joy/",
+    "summary": "Comments",
+    "pubDate": "Wed, 10 Jun 2026 11:49:45 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Ukraine says missiles hit military plant deep inside Russia",
     "link": "https://www.bbc.com/news/articles/c5yzm2nzgr2o?at_medium=RSS&at_campaign=rss",
     "summary": "Ukraine's military also says it has struck a Russian oil refinery and a \"shadow fleet\" oil tanker in the Black Sea.",
@@ -430,6 +886,22 @@
     "pubDate": "Wed, 10 Jun 2026 11:43:14 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "The Tao of Datastar",
+    "link": "https://data-star.dev/guide/the_tao_of_datastar",
+    "summary": "Comments",
+    "pubDate": "Wed, 10 Jun 2026 11:41:42 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "The Jqwik Anti-AI Affair",
+    "link": "https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/",
+    "summary": "Comments",
+    "pubDate": "Wed, 10 Jun 2026 11:40:36 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Taiwan drills with U.S. rocket system, firing in China's direction",
@@ -456,6 +928,14 @@
     "category": "tech"
   },
   {
+    "title": "A human in control",
+    "link": "https://daniel.haxx.se/blog/2026/06/10/a-human-in-control/",
+    "summary": "Comments",
+    "pubDate": "Wed, 10 Jun 2026 11:18:11 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "这些人用实测，给麦金獭钢化膜交了份真实答卷",
     "link": "https://sspai.com/post/110868",
     "summary": "编注：挑选钢化膜向来讲究贴合自身机型与使用习惯，优劣好坏仅凭介绍难以定论。麦金獭钢化膜上线已有一段时日，少数派编辑部汇总大量真实买家反馈，内容拆分为「用户体验」、「进阶体验」两部分，帮大家选购前摸清产 ... 查看全文",
@@ -472,491 +952,11 @@
     "category": "tech"
   },
   {
-    "title": "Manhunt under way in South Africa after 12 killed in mass shooting in Johannesburg",
-    "link": "https://www.bbc.com/news/articles/c79yzqw0z0wo?at_medium=RSS&at_campaign=rss",
-    "summary": "Another nine people were injured at an informal settlement in Cleveland late on Tuesday.",
-    "pubDate": "Wed, 10 Jun 2026 10:26:54 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "Boy, 8, phones his nan from capsized kayak to save his grandad",
-    "link": "https://www.bbc.com/news/articles/clyxr66kgx4o?at_medium=RSS&at_campaign=rss",
-    "summary": "An eight-year-old boy and his grandad drifted more than two miles off the Vale of Glamorgan coast.",
-    "pubDate": "Wed, 10 Jun 2026 10:24:20 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "The World Cup’s Trionda Ball Challenges Traditional Aerodynamics",
-    "link": "https://www.wired.com/story/the-world-cups-trionda-ball-challenges-traditional-aerodynamics/",
-    "summary": "According to new research, Trionda would show less unpredictable movements in actions such as corner kicks or free kicks. However, in powerful and long-distance clearances it would lose range.",
-    "pubDate": "Wed, 10 Jun 2026 10:00:00 +0000",
-    "source": "Wired",
-    "category": "tech"
-  },
-  {
-    "title": "Artificial Intelligence Sneaks Into the World Cup Thanks to Google Gemini",
-    "link": "https://www.wired.com/story/artificial-intelligence-sneaks-into-the-world-cup-thanks-to-google-gemini/",
-    "summary": "The Argentine national team will be Google’s test bench and technological showcase during the World Cup.",
-    "pubDate": "Wed, 10 Jun 2026 10:00:00 +0000",
-    "source": "Wired",
-    "category": "tech"
-  },
-  {
-    "title": "Soccer Fans, You’re Being Watched",
-    "link": "https://www.wired.com/story/soccer-world-cup-biometric-surveillance/",
-    "summary": "From anti-drone tech to face recognition, 2026 World Cup stadiums in the US, Canada, and Mexico are subjecting fans to an array of surveillance tech. Here’s what you need to know.",
-    "pubDate": "Wed, 10 Jun 2026 10:00:00 +0000",
-    "source": "Wired",
-    "category": "tech"
-  },
-  {
-    "title": "Mapping Every Flock License Plate Reader Near US World Cup Stadiums",
-    "link": "https://www.wired.com/story/us-world-cup-2026-alpr-camera-stadiums/",
-    "summary": "Most US World Cup stadiums are surrounded by surveillance cameras. Want to know if you’re being watched on your way to a match? These maps will help you.",
-    "pubDate": "Wed, 10 Jun 2026 10:00:00 +0000",
-    "source": "Wired",
-    "category": "tech"
-  },
-  {
-    "title": "This World Cup, You Can Watch the Game From a Ref’s Point of View",
-    "link": "https://www.wired.com/story/world-cup-referee-body-cameras-live/",
-    "summary": "Referees for the 2026 World Cup will be wearing cameras positioned at their temples, allowing TV audiences to see a live view of the pitch from a vantage point they never have before.",
-    "pubDate": "Wed, 10 Jun 2026 10:00:00 +0000",
-    "source": "Wired",
-    "category": "tech"
-  },
-  {
-    "title": "The Other Major Soccer Event of 2026? The Shake-Up in the World of Video Games",
-    "link": "https://www.wired.com/story/2026-world-cup-soccer-video-games/",
-    "summary": "The 48-team World Cup is not the only historic soccer event this year. Four titans are vying for control of video game soccer in the fiercest battle the industry has ever seen.",
-    "pubDate": "Wed, 10 Jun 2026 10:00:00 +0000",
-    "source": "Wired",
-    "category": "tech"
-  },
-  {
-    "title": "How to Watch the 2026 World Cup",
-    "link": "https://www.wired.com/story/how-to-watch-the-2026-world-cup/",
-    "summary": "The games start June 11 and end with a grand finale in New Jersey on July 19. There are 104 of them. Here’s how to watch ’em all.",
-    "pubDate": "Wed, 10 Jun 2026 10:00:00 +0000",
-    "source": "Wired",
-    "category": "tech"
-  },
-  {
-    "title": "Amnesty International Warns That World Cup Fans Face Potential Human Rights Violations",
-    "link": "https://www.wired.com/story/amnesty-international-world-cup-human-rights/",
-    "summary": "The organization claims that the FIFA tournament could have impacts on the rights of local people and visiting soccer fans in all three host countries.",
-    "pubDate": "Wed, 10 Jun 2026 10:00:00 +0000",
-    "source": "Wired",
-    "category": "tech"
-  },
-  {
-    "title": "World Cup referee denied US entry arrives home to hero's welcome in Somalia",
-    "link": "https://www.bbc.com/sport/football/articles/c2dylj8kj82o?at_medium=RSS&at_campaign=rss",
-    "summary": "Omar Artan vows to officiate at the 2030 World Cup instead after arriving home in Somalia in the wake of being banned from entering the United States.",
-    "pubDate": "Wed, 10 Jun 2026 09:50:32 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "Show HN: macOS menu bar gauges for your Claude Code quota",
-    "link": "https://github.com/grzegorz-raczek-unit8/claude-quota",
-    "summary": "Article URL: https://github.com/grzegorz-raczek-unit8/claude-quota Comments URL: https://news.ycombinator.com/item?id=48473845 Points: 50 # Comments: 32",
-    "pubDate": "Wed, 10 Jun 2026 09:43:16 +0000",
-    "source": "Hacker News",
-    "category": "tech"
-  },
-  {
-    "title": "AI ate my role! What's next? - Ajey Gore",
-    "link": "https://ajeygore.in/content/ai-ate-my-role-whats-next",
+    "title": "Bootstrapping Rust Considered Harmful",
+    "link": "https://www.ntecs.de/blog/2026-02-01-bootstrapping-rust-considered-harmful",
     "summary": "Comments",
-    "pubDate": "Wed, 10 Jun 2026 09:26:33 -0500",
+    "pubDate": "Wed, 10 Jun 2026 10:54:37 -0500",
     "source": "Lobsters",
     "category": "tech"
-  },
-  {
-    "title": "Port React Compiler to Rust",
-    "link": "https://github.com/react/react/pull/36173",
-    "summary": "Article URL: https://github.com/react/react/pull/36173 Comments URL: https://news.ycombinator.com/item?id=48473662 Points: 31 # Comments: 14",
-    "pubDate": "Wed, 10 Jun 2026 09:19:55 +0000",
-    "source": "Hacker News",
-    "category": "tech"
-  },
-  {
-    "title": "Inflation tops 4% for the first time in 3 years on spike in gasoline prices",
-    "link": "https://www.npr.org/2026/06/10/nx-s1-5853077/inflation-over-4-cpi-gasoline-prices",
-    "summary": "Inflation has surged to its highest level in more than three years since the U.S. and Israel launched their war on Iran, triggering a surge in gasoline prices.",
-    "pubDate": "Wed, 10 Jun 2026 09:08:58 -0400",
-    "source": "NPR",
-    "category": "general"
-  },
-  {
-    "title": "Waymo says it built a better benchmark for comparing robotaxis to humans",
-    "link": "https://techcrunch.com/2026/06/10/waymo-says-it-built-a-better-benchmark-for-comparing-robotaxis-to-humans/",
-    "summary": "Waymo created a new computer model to help it better understand how humans behave in crash scenarios that its robotaxis encounter.",
-    "pubDate": "Wed, 10 Jun 2026 09:00:00 +0000",
-    "source": "TechCrunch",
-    "category": "tech"
-  },
-  {
-    "title": "Keane and Fernandes clear air after row over 'lie'",
-    "link": "https://www.bbc.com/sport/football/articles/c1mylp97p53o?at_medium=RSS&at_campaign=rss",
-    "summary": "Roy Keane clears the air with Manchester United captain Bruno Fernandes after he misquoted the Portuguese - which led to Fernandes accusing him of lying.",
-    "pubDate": "Wed, 10 Jun 2026 08:57:42 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "Cymru connections: Who can Wales fans back?",
-    "link": "https://www.bbc.com/sport/football/articles/cdx7rqpevzdo?at_medium=RSS&at_campaign=rss",
-    "summary": "It's the return of a conundrum that Welsh football fans had to deal with for 64 years before 2022: Who to support at the World Cup?",
-    "pubDate": "Wed, 10 Jun 2026 08:56:54 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "Protests across Scotland follow Belfast knife attack",
-    "link": "https://www.bbc.com/news/articles/crkv44yx7e5o?at_medium=RSS&at_campaign=rss",
-    "summary": "Hundreds of demonstrators gathered at locations across the central belt with their faces covered and many holding Union flags and banners.",
-    "pubDate": "Wed, 10 Jun 2026 08:54:25 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "European sentiments towards the US hit an all-time low",
-    "link": "https://ecfr.eu/publication/home-alone-europeans-are-ready-to-defend-themselves/",
-    "summary": "Article URL: https://ecfr.eu/publication/home-alone-europeans-are-ready-to-defend-themselves/ Comments URL: https://news.ycombinator.com/item?id=48473204 Points: 42 # Comments: 23",
-    "pubDate": "Wed, 10 Jun 2026 08:27:46 +0000",
-    "source": "Hacker News",
-    "category": "tech"
-  },
-  {
-    "title": "派早报：Apple 更新 App Store 审核与订阅规则、Anthropic 发布 Claude Fable 5 等",
-    "link": "https://sspai.com/post/110925",
-    "summary": "小米发布 MiMo V2.5-Pro-UltraSpeed，Marshall Stockwell III 发布等。 查看全文",
-    "pubDate": "Wed, 10 Jun 2026 08:14:32 +0800",
-    "source": "少数派",
-    "category": "tech-cn"
-  },
-  {
-    "title": "Mercedes‑Benz starts large‑scale production of electric axial flux motor",
-    "link": "https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf",
-    "summary": "Article URL: https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf Comments URL: https://news.ycombinator.com/item?id=48472877 Points: 96 # Comments: 40",
-    "pubDate": "Wed, 10 Jun 2026 07:44:49 +0000",
-    "source": "Hacker News",
-    "category": "tech"
-  },
-  {
-    "title": "July 1 brings big student loan changes. Here's what you need to know",
-    "link": "https://www.npr.org/2026/06/10/nx-s1-5835633/student-loans-guide-education-changes-repayment-plan",
-    "summary": "A popular (and generous) repayment plan ends, two new plans begin and many borrowers will see new loan limits.",
-    "pubDate": "Wed, 10 Jun 2026 07:30:00 -0400",
-    "source": "NPR",
-    "category": "general"
-  },
-  {
-    "title": "U.S. and Iran exchange strikes. And, House passes ICE and Border Patrol funding",
-    "link": "https://www.npr.org/2026/06/10/g-s1-127216/up-first-newsletter-iran-us-war-primary-results-ice-funding-bill-gates",
-    "summary": "The U.S. and Iran have exchanged strikes after a helicopter was downed Monday near the Strait of Hormuz. And, House Republicans have passed a bill to fund ICE and Border Patrol through Trump's term.",
-    "pubDate": "Wed, 10 Jun 2026 07:26:08 -0400",
-    "source": "NPR",
-    "category": "general"
-  },
-  {
-    "title": "MIT’s new spacecraft engine could send tiny satellites to Mars",
-    "link": "https://www.sciencedaily.com/releases/2026/06/260610003051.htm",
-    "summary": "MIT researchers have shown that one fuel can power both chemical and electric spacecraft thrusters, potentially transforming what small satellites can do. The approach combines quick bursts of speed with highly efficient long-range propulsion in a single compact system. A NASA-supported CubeSat m...",
-    "pubDate": "Wed, 10 Jun 2026 07:24:15 EDT",
-    "source": "Science Daily",
-    "category": "science"
-  },
-  {
-    "title": "Trojaned OpenSSH (in 2002)",
-    "link": "http://miod.online.fr/software/openbsd/stories/trojan.html",
-    "summary": "Comments",
-    "pubDate": "Wed, 10 Jun 2026 07:12:43 -0500",
-    "source": "Lobsters",
-    "category": "tech"
-  },
-  {
-    "title": "Meta signs first AI data center deal in India with Reliance",
-    "link": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
-    "summary": "The 168-megawatt facility will support Meta's global AI computing needs and can be expanded over time.",
-    "pubDate": "Wed, 10 Jun 2026 07:05:26 +0000",
-    "source": "TechCrunch",
-    "category": "tech"
-  },
-  {
-    "title": "A classic brain test exposed AI's biggest weakness",
-    "link": "https://www.sciencedaily.com/releases/2026/06/260610003049.htm",
-    "summary": "Researchers gave top AI models a classic attention test used in psychology and found a major flaw. While the models could correctly name colors in short lists, their performance deteriorated sharply as the task became longer and more complex. Some leading systems fell from over 90% accuracy to ne...",
-    "pubDate": "Wed, 10 Jun 2026 06:52:17 EDT",
-    "source": "Science Daily",
-    "category": "science"
-  },
-  {
-    "title": "macOS container tool v1.0.0 released",
-    "link": "https://github.com/apple/container",
-    "summary": "Version 1.0.0 released. Release notes Comments",
-    "pubDate": "Wed, 10 Jun 2026 06:51:24 -0500",
-    "source": "Lobsters",
-    "category": "tech"
-  },
-  {
-    "title": "China re‑centers North Korea ties as nuclear silence reshapes balance",
-    "link": "https://www.npr.org/2026/06/10/g-s1-127013/xi-jinping-visits-pyongyang-china-north-korea-ties",
-    "summary": "Xi's silence on North Korea's nuclear program came as Kim tried to convince the world of the irreversibility of his country's status as a nuclear power.",
-    "pubDate": "Wed, 10 Jun 2026 06:30:00 -0400",
-    "source": "NPR",
-    "category": "general"
-  },
-  {
-    "title": "Scientists mapped every neural connection in a fruit fly and found a surprise",
-    "link": "https://www.sciencedaily.com/releases/2026/06/260610003047.htm",
-    "summary": "A groundbreaking new connectome maps every neural connection in an adult fruit fly’s central nervous system, creating an unprecedented view of how the brain and body work together. The findings suggest that complex behaviors emerge from distributed local circuits rather than a single central cont...",
-    "pubDate": "Wed, 10 Jun 2026 06:10:54 EDT",
-    "source": "Science Daily",
-    "category": "science"
-  },
-  {
-    "title": "The UK could hit 28C this weekend - is another heatwave on the way?",
-    "link": "https://www.bbc.com/weather/articles/c74y8p34nvno?at_medium=RSS&at_campaign=rss",
-    "summary": "Temperatures are expected to rise by the end of the week where we could see another heatwave developing, Simon King explains",
-    "pubDate": "Wed, 10 Jun 2026 06:02:59 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "ICE denies having a protester database. But a letter to Congress sheds more light",
-    "link": "https://www.npr.org/2026/06/10/nx-s1-5843159/ice-protester-database-dhs",
-    "summary": "In a previously unpublicized letter to Congress, the newly-departed head of ICE said the agency collects data on people suspected of potentially unlawful activity, which could include protesters.",
-    "pubDate": "Wed, 10 Jun 2026 06:00:00 -0400",
-    "source": "NPR",
-    "category": "general"
-  },
-  {
-    "title": "17 bugs in 10 weeks from AI security scanning",
-    "link": "https://lalitm.com/post/perfetto-security-bugs-ai/",
-    "summary": "Comments",
-    "pubDate": "Wed, 10 Jun 2026 05:59:41 -0500",
-    "source": "Lobsters",
-    "category": "tech"
-  },
-  {
-    "title": "Chrome is looking to permanently drop MV2 extension",
-    "link": "https://www.neowin.net/news/google-chrome-is-killing-all-ublock-origin-bypasses-microsoft-edge-opera-to-follow/",
-    "summary": "Article URL: https://www.neowin.net/news/google-chrome-is-killing-all-ublock-origin-bypasses-microsoft-edge-opera-to-follow/ Comments URL: https://news.ycombinator.com/item?id=48471970 Points: 323 # Comments: 282",
-    "pubDate": "Wed, 10 Jun 2026 05:50:07 +0000",
-    "source": "Hacker News",
-    "category": "tech"
-  },
-  {
-    "title": "The wild hip-hop parties that started Tuchel's journey to England boss",
-    "link": "https://www.bbc.com/sport/football/articles/cvgqevklyx1o?at_medium=RSS&at_campaign=rss",
-    "summary": "Thomas Tuchel is bidding to become the first foreign manager to win the World Cup. BBC Sport charts the start of his journey to becoming England boss.",
-    "pubDate": "Wed, 10 Jun 2026 05:45:28 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "'Uni marking boycott could render my hard work worthless'",
-    "link": "https://www.bbc.com/news/articles/cddl48l4pnno?at_medium=RSS&at_campaign=rss",
-    "summary": "Abigail Maguire says she is unhappy earlier marks could be used to determine her final grade.",
-    "pubDate": "Wed, 10 Jun 2026 05:25:05 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "Who will win the World Cup? BBC pundits make their predictions",
-    "link": "https://www.bbc.com/sport/football/articles/cg7485gyxz9o?at_medium=RSS&at_campaign=rss",
-    "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup.",
-    "pubDate": "Wed, 10 Jun 2026 05:24:53 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "'My son and daughter play for England, I still pinch myself'",
-    "link": "https://www.bbc.com/news/articles/cx2x5l2yyqpo?at_medium=RSS&at_campaign=rss",
-    "summary": "Nigel James says \"I still pinch myself\" that two of his children represent England's football teams.",
-    "pubDate": "Wed, 10 Jun 2026 05:14:42 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "Hundreds of twitchers flock to see African bird in UK for first time",
-    "link": "https://www.bbc.com/news/articles/cd0mz82lvrjo?at_medium=RSS&at_campaign=rss",
-    "summary": "It is the first time the African bird has been recorded in the UK.",
-    "pubDate": "Wed, 10 Jun 2026 05:12:24 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "'Not just offshore jobs': The issues facing voters in Aberdeen South by-election",
-    "link": "https://www.bbc.com/news/articles/c3020v06q2no?at_medium=RSS&at_campaign=rss",
-    "summary": "Voters head to the polls on 18 June as seven candidates stand in Aberdeen South.",
-    "pubDate": "Wed, 10 Jun 2026 05:08:30 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "Dinosaur highway 'longest of its kind in the world'",
-    "link": "https://www.bbc.com/news/articles/c5yz3e4w9v2o?at_medium=RSS&at_campaign=rss",
-    "summary": "The tracks were first spotted by a worker at Dewars Farm Quarry in Oxfordshire four years ago.",
-    "pubDate": "Wed, 10 Jun 2026 05:03:32 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "Model who alleges Kanye West choked her tells BBC she felt 'suffocated and scared'",
-    "link": "https://www.bbc.com/news/articles/c0q2jgkwk0no?at_medium=RSS&at_campaign=rss",
-    "summary": "West claims the encounter on a music video set was part of a \"provocative theatrical performance\".",
-    "pubDate": "Wed, 10 Jun 2026 05:02:46 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "San Francisco immigration court shuts down, striking at heart of historic advocacy",
-    "link": "https://www.npr.org/2026/06/10/g-s1-126345/san-franciso-court-immigration-closure-asylum-layoffs",
-    "summary": "The main San Francisco court was one of the busiest in the country, hearing thousands of cases a year. It was also one of the courts most likely to grant an immigrants' asylum application.",
-    "pubDate": "Wed, 10 Jun 2026 05:00:00 -0400",
-    "source": "NPR",
-    "category": "general"
-  },
-  {
-    "title": "The World Cup is starting. Here's what to know and how to watch",
-    "link": "https://www.npr.org/2026/06/10/nx-s1-5851660/world-cup-2026-soccer-where-to-watch-preview-facts",
-    "summary": "This summer, 48 men's national teams will compete in the World Cup's biggest tournament ever. Here are a few of the basics to get you started.",
-    "pubDate": "Wed, 10 Jun 2026 05:00:00 -0400",
-    "source": "NPR",
-    "category": "general"
-  },
-  {
-    "title": "Bill Gates to appear before Congress over Epstein involvement",
-    "link": "https://www.npr.org/2026/06/10/nx-s1-5851609/bill-gates-jeffrey-epstein-files-congress-pam-bondi",
-    "summary": "Gates will sit for a closed-door interview before the House Oversight Committee about his relationship with convicted sex offender Jeffrey Epstein.",
-    "pubDate": "Wed, 10 Jun 2026 05:00:00 -0400",
-    "source": "NPR",
-    "category": "general"
-  },
-  {
-    "title": "Naturepedic Promo Codes: Get 20% Off Plus Free Pillows",
-    "link": "https://www.wired.com/story/naturepedic-promo-code/",
-    "summary": "Shop the Naturepedic sale this June 2026.",
-    "pubDate": "Wed, 10 Jun 2026 05:00:00 +0000",
-    "source": "Wired",
-    "category": "tech"
-  },
-  {
-    "title": "Corsair Discount Code: Up to 50% Off for June 2026",
-    "link": "https://www.wired.com/story/corsair-coupon/",
-    "summary": "Upgrade your gaming setup or PC build for less with these verified Corsair coupon codes, student discounts, and refurbished deals.",
-    "pubDate": "Wed, 10 Jun 2026 05:00:00 +0000",
-    "source": "Wired",
-    "category": "tech"
-  },
-  {
-    "title": "Best Buy Discount Codes: Up to 60% Off",
-    "link": "https://www.wired.com/story/best-buy-discount-code/",
-    "summary": "Find the latest Best Buy promo codes and offers, including 10% back in rewards for new cardmembers and free 2-day shipping with My Best Buy Plus, here at WIRED.",
-    "pubDate": "Wed, 10 Jun 2026 05:00:00 +0000",
-    "source": "Wired",
-    "category": "tech"
-  },
-  {
-    "title": "Lenovo Coupon Codes and Deals in June 2026",
-    "link": "https://www.wired.com/story/lenovo-coupon-code/",
-    "summary": "Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade.",
-    "pubDate": "Wed, 10 Jun 2026 05:00:00 +0000",
-    "source": "Wired",
-    "category": "tech"
-  },
-  {
-    "title": "Ulta Promo Codes: Up to 50% Off in June 2026",
-    "link": "https://www.wired.com/story/ulta-coupon/",
-    "summary": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
-    "pubDate": "Wed, 10 Jun 2026 05:00:00 +0000",
-    "source": "Wired",
-    "category": "tech"
-  },
-  {
-    "title": "Surfshark Promo Codes: 87% Off | June 2026",
-    "link": "https://www.wired.com/story/surfshark-coupon/",
-    "summary": "Save up to 87% with a Surfshark coupon code, 3 months of VPN free today, and more from WIRED.",
-    "pubDate": "Wed, 10 Jun 2026 05:00:00 +0000",
-    "source": "Wired",
-    "category": "tech"
-  },
-  {
-    "title": "Lowe’s Promo Codes and Deals: Up to $300 Off Appliances",
-    "link": "https://www.wired.com/story/lowes-promo-code/",
-    "summary": "Find the latest Lowe’s promo codes and offers, including up to $300 off select major appliances and $5 off $50 with sign-up, here at WIRED.",
-    "pubDate": "Wed, 10 Jun 2026 05:00:00 +0000",
-    "source": "Wired",
-    "category": "tech"
-  },
-  {
-    "title": "Priceline Promo Codes: $20 Off June",
-    "link": "https://www.wired.com/story/priceline-promo-code/",
-    "summary": "Unlock massive discounts on Priceline hotels, flights, and rental cars. Find verified Priceline coupon codes and deals for Express Deals, student discounts, and more.",
-    "pubDate": "Wed, 10 Jun 2026 05:00:00 +0000",
-    "source": "Wired",
-    "category": "tech"
-  },
-  {
-    "title": "KitchenAid Promo Codes: Save Up to 20%",
-    "link": "https://www.wired.com/story/exclusive-kitchenaid-promo-code/",
-    "summary": "Save on every purchase with top KitchenAid coupons from WIRED, including up to 20% off countertop appliances.",
-    "pubDate": "Wed, 10 Jun 2026 05:00:00 +0000",
-    "source": "Wired",
-    "category": "tech"
-  },
-  {
-    "title": "15% Off Adidas Promo Code | June 2026",
-    "link": "https://www.wired.com/story/adidas-promo-code/",
-    "summary": "Save 15% or 30% with Adidas promo codes, plus explore Adidas deals for 40% off trendy sneakers.",
-    "pubDate": "Wed, 10 Jun 2026 05:00:00 +0000",
-    "source": "Wired",
-    "category": "tech"
-  },
-  {
-    "title": "Hostinger Promo Code: 79% Off for June 2026",
-    "link": "https://www.wired.com/story/hostinger-coupon-code/",
-    "summary": "Discover exclusive Hostinger promo codes, discounts, and deals on web hosting, cloud plans, and domain registration. Save big on your next Hostinger purchase today.",
-    "pubDate": "Wed, 10 Jun 2026 05:00:00 +0000",
-    "source": "Wired",
-    "category": "tech"
-  },
-  {
-    "title": "LegalZoom Promo Code: Exclusive 10% Off LLC Formations",
-    "link": "https://www.wired.com/story/legalzoom-promo-code/",
-    "summary": "Save on top services at LegalZoom, like LLC registration, incorporation, estate plans, and more with coupons and deals from WIRED.",
-    "pubDate": "Wed, 10 Jun 2026 05:00:00 +0000",
-    "source": "Wired",
-    "category": "tech"
-  },
-  {
-    "title": "Litter-Robot Promo Codes: Up to $150 Off",
-    "link": "https://www.wired.com/story/litter-robot-promo-code/",
-    "summary": "Get the latest Litter-Robot Discounts on Litter-Robot self-cleaning litter boxes, accessories, and more.",
-    "pubDate": "Wed, 10 Jun 2026 05:00:00 +0000",
-    "source": "Wired",
-    "category": "tech"
-  },
-  {
-    "title": "Morning news brief",
-    "link": "https://www.npr.org/2026/06/10/nx-s1-5846828/morning-news-brief",
-    "summary": "U.S. and Iran exchange strikes after Apache helicopter is downed, takeaways from Tuesday's primaries in four states, House Republicans approve a bill to fund ICE for the remainder of Trump's term.",
-    "pubDate": "Wed, 10 Jun 2026 04:42:55 -0400",
-    "source": "NPR",
-    "category": "general"
-  },
-  {
-    "title": "Israeli leader who pulled out of Lebanon warns against getting stuck again",
-    "link": "https://www.npr.org/2026/06/10/g-s1-126791/israeli-leader-who-pulled-out-of-lebanon-warns-against-getting-stuck-again",
-    "summary": "Ehud Barak withdrew Israeli forces from Lebanon in 2000, ending an occupation that lasted nearly two decades. He says that was a quagmire Israel shouldn't repeat.",
-    "pubDate": "Wed, 10 Jun 2026 04:40:59 -0400",
-    "source": "NPR",
-    "category": "general"
   }
 ]

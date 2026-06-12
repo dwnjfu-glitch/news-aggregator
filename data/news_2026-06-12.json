@@ -1,5 +1,13 @@
 [
   {
+    "title": "McTominay travels separately in Boston as precaution",
+    "link": "https://www.bbc.com/sport/football/articles/c78y50pmd2go?at_medium=RSS&at_campaign=rss",
+    "summary": "Key midfielder Scott McTominay travelled with a doctor as a precaution prior to Scotland's World Cup opener.",
+    "pubDate": "Thu, 11 Jun 2026 23:39:32 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "Why You Might Already Own SpaceX Shares, Siri’s AI Makeover, and Knicks Owner’s Surveillance Machine",
     "link": "https://www.wired.com/story/uncanny-valley-podcast-why-you-might-already-own-spacex-shares-siri-ai-makeover-knicks-owner-surveillance-machine/",
     "summary": "Today on Uncanny Valley, we take an early look at the SpaceX IPO and why you might find yourself among the investors without even realizing it.",
@@ -69,6 +77,14 @@
     "summary": "Article URL: https://tombedor.dev/human-attention-and-human-effort/ Comments URL: https://news.ycombinator.com/item?id=48497609 Points: 411 # Comments: 123",
     "pubDate": "Thu, 11 Jun 2026 23:01:55 +0000",
     "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Faking keyword arguments to functions in C++",
+    "link": "https://nibblestew.blogspot.com/2026/06/faking-keyword-arguments-to-functions.html",
+    "summary": "Comments",
+    "pubDate": "Thu, 11 Jun 2026 23:00:38 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -144,10 +160,26 @@
     "category": "tech"
   },
   {
+    "title": "Trying to fix complicated problems",
+    "link": "https://blog.griffens.net/blog/trying-to-fix-complicated-problems/",
+    "summary": "Article URL: https://blog.griffens.net/blog/trying-to-fix-complicated-problems/ Comments URL: https://news.ycombinator.com/item?id=48496278 Points: 16 # Comments: 0",
+    "pubDate": "Thu, 11 Jun 2026 20:55:18 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "Show HN: Boo – Screen-style terminal multiplexer built on libghostty",
     "link": "https://github.com/coder/boo",
     "summary": "Article URL: https://github.com/coder/boo Comments URL: https://news.ycombinator.com/item?id=48496250 Points: 64 # Comments: 21",
     "pubDate": "Thu, 11 Jun 2026 20:52:26 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Finding Optimal Tokenizers",
+    "link": "https://blog.aqnichol.com/2026/06/10/optimal-tokenizers/",
+    "summary": "Article URL: https://blog.aqnichol.com/2026/06/10/optimal-tokenizers/ Comments URL: https://news.ycombinator.com/item?id=48494716 Points: 25 # Comments: 1",
+    "pubDate": "Thu, 11 Jun 2026 18:46:22 +0000",
     "source": "Hacker News",
     "category": "tech"
   },
@@ -158,6 +190,22 @@
     "pubDate": "Thu, 11 Jun 2026 17:14:42 +0000",
     "source": "Hacker News",
     "category": "tech"
+  },
+  {
+    "title": "Formal methods and the future of programming",
+    "link": "https://blog.janestreet.com/formal-methods-at-jane-street-index",
+    "summary": "Comments",
+    "pubDate": "Thu, 11 Jun 2026 17:08:28 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Weekly quiz: Which Sesame Street character got in trouble with New Yorkers?",
+    "link": "https://www.bbc.com/news/articles/cwyexxd3378o?at_medium=RSS&at_campaign=rss",
+    "summary": "How much attention did you pay to what happened in the world over the past seven days?",
+    "pubDate": "Thu, 11 Jun 2026 16:46:56 GMT",
+    "source": "BBC News",
+    "category": "general"
   },
   {
     "title": "MTG Bench: Testing how well LLMs can play Magic",
@@ -192,12 +240,140 @@
     "category": "tech"
   },
   {
+    "title": "本周看什么 | 最近值得一看的 10 部作品",
+    "link": "https://sspai.com/post/110992",
+    "summary": "📅本周新预告《攻壳机动队THEGHOSTINTHESHELL》新预告6月11日，TV动画《攻壳机动队THEGHOSTINTHESHELL》发布了新预告，将于7月7日开始播出。木村翔马执导，圆城塔编剧， ... 查看全文",
+    "pubDate": "Fri, 12 Jun 2026 17:39:21 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "Level Read：让英语学习从「读得懂」开始，每天都进步一点点",
+    "link": "https://sspai.com/post/110329",
+    "summary": "你不需要一开始就读最难的内容，不需要把英语变成一件很痛苦的任务。每天读一篇适合自己难度的英文新闻，听一听、查几个词、慢慢积累。 查看全文",
+    "pubDate": "Fri, 12 Jun 2026 15:00:00 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "把 AI 装进口袋，然后把它忘掉：\nYoooClaw C·ONE 智能硬件一个月使用体验",
+    "link": "https://sspai.com/post/110914",
+    "summary": "拿到YoooClawC·ONE，还没拆箱的第一印象是：这也太小了吧，包装盒都比我想象中小了好几倍。打开后，发现C·ONE是一张信用卡大小的紫色超薄哑光卡片，没有屏幕、只有一个长条LED呼吸灯和一个按键 ... 查看全文",
+    "pubDate": "Fri, 12 Jun 2026 14:42:07 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
     "title": "WWDC 26 发布会上，Apple 没告诉你的那些事",
     "link": "https://sspai.com/post/110967",
     "summary": "除了大谈特谈的 AI，今年的 WWDC 开幕式上还有这些有趣的细节值得注意。 查看全文",
     "pubDate": "Fri, 12 Jun 2026 11:40:54 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "Williamson ends New Zealand career in middle of series with England",
+    "link": "https://www.bbc.com/sport/cricket/articles/c5yzg5gnpevo?at_medium=RSS&at_campaign=rss",
+    "summary": "Former New Zealand captain Kane Williamson retires from all international cricket with immediate effect.",
+    "pubDate": "Fri, 12 Jun 2026 10:44:11 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Gasly's Monaco third place reinstated after appeal",
+    "link": "https://www.bbc.com/sport/formula1/articles/cevlg742y3do?at_medium=RSS&at_campaign=rss",
+    "summary": "Pierre Gasly is reinstated into third place for last weekend's Monaco Grand Prix, after the stewards rescind the two penalties he received for pit-lane speeding.",
+    "pubDate": "Fri, 12 Jun 2026 10:40:04 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Sheeran Loopers Looper X Review: Create Your One-Person Tour",
+    "link": "https://www.wired.com/review/ed-sheeran-looper-x/",
+    "summary": "The musician created his own line of loopers that record and layer riffs in a loop. The pricey Looper X does what it claims, but it isn’t without quirks.",
+    "pubDate": "Fri, 12 Jun 2026 10:31:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Matchmakers Are Being Paid $25K to Find Trad Wives for Rich Men",
+    "link": "https://www.wired.com/story/matchmakers-are-being-paid-dollar25k-to-find-trad-wives-for-rich-men/",
+    "summary": "Even in blue states, nonreligious tech entrepreneurs and CEOs are increasingly asking for “traditional” and “conservative” women, matchmakers tell WIRED.",
+    "pubDate": "Fri, 12 Jun 2026 10:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Nineteen now arrested over Northern Ireland disorder with house targeted in arson",
+    "link": "https://www.bbc.com/news/articles/cwy03rneqxzo?at_medium=RSS&at_campaign=rss",
+    "summary": "Incidents included an arson attack on a house in the Shore Road area of north Belfast on Thursday night",
+    "pubDate": "Fri, 12 Jun 2026 10:03:27 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "UK economy contracts as Iran war impact felt",
+    "link": "https://www.bbc.com/news/articles/c77y47248k4o?at_medium=RSS&at_campaign=rss",
+    "summary": "The economy shrank slightly in April as the Iran war began to have an impact on businesses, official data shows.",
+    "pubDate": "Fri, 12 Jun 2026 10:01:11 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Watford great Jackett dies aged 64",
+    "link": "https://www.bbc.com/sport/football/articles/cqj1z2wqkw2o?at_medium=RSS&at_campaign=rss",
+    "summary": "Former Watford and Swansea City manager and Wales international Kenny Jackett has died at the age of 64.",
+    "pubDate": "Fri, 12 Jun 2026 10:00:05 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The US Is Requiring Foreign Influencers to Get Work Visas for the 2026 World Cup",
+    "link": "https://www.wired.com/story/2026-world-cup-us-influencers-visa/",
+    "summary": "FIFA announced agreements with platforms such as TikTok and YouTube that include the participation of dozens of international influencers to generate content in the three host countries.",
+    "pubDate": "Fri, 12 Jun 2026 10:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "David Hockney: Bradford's artistic genius who painted the things he loved",
+    "link": "https://www.bbc.com/news/articles/ck77rg88gd9o?at_medium=RSS&at_campaign=rss",
+    "summary": "The proud Yorkshireman who also painted iconic pictures of America, was routinely described as Britain's greatest artist.",
+    "pubDate": "Fri, 12 Jun 2026 09:52:22 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "You Probably Won’t Get Rich Off the SpaceX IPO",
+    "link": "https://www.wired.com/story/you-probably-wont-get-rich-off-the-spacex-ipo/",
+    "summary": "The company has set aside an unusually high number of shares for retail investors. Still, experts say, you’re just getting the crumbs.",
+    "pubDate": "Fri, 12 Jun 2026 09:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "A new way to experience the World Cup - only on BBC Sport",
+    "link": "https://www.bbc.com/sport/football/articles/ce372ep1xlgo?at_medium=RSS&at_campaign=rss",
+    "summary": "Ever wanted to see a World Cup match from every angle? How about a full-pitch tactical view? Now you can on the BBC.",
+    "pubDate": "Fri, 12 Jun 2026 09:24:26 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "SpaceX IPO Puts Elon Musk’s ‘Extreme’ Ownership to the Test",
+    "link": "https://www.wired.com/story/spacex-is-now-a-public-company/",
+    "summary": "The rocket maker debuts on Nasdaq today under a wave of criticism about Musk’s near-absolute control. It’s how the company has worked from the start.",
+    "pubDate": "Fri, 12 Jun 2026 09:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Watch: Three things to know about SpaceX's stock market debut",
+    "link": "https://www.bbc.com/news/videos/c4gyx0x1d5ro?at_medium=RSS&at_campaign=rss",
+    "summary": "The BBC's Samira Hussain explains everything you need to know about SpaceX's historic IPO.",
+    "pubDate": "Fri, 12 Jun 2026 08:39:37 GMT",
+    "source": "BBC News",
+    "category": "general"
   },
   {
     "title": "派早报：五电商平台因「百亿补贴」问题被约谈、Xbox 启动业务重置计划等",
@@ -208,6 +384,70 @@
     "category": "tech-cn"
   },
   {
+    "title": "Tartan Army feels the heat in Boston as World Cup kicks off",
+    "link": "https://www.bbc.com/news/articles/cj9g02g399mo?at_medium=RSS&at_campaign=rss",
+    "summary": "Visitors are facing 31C temperatures in the city, with the soaring heat expected to continue into Saturday when Scotland's men face Haiti.",
+    "pubDate": "Fri, 12 Jun 2026 07:57:42 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Report on an Unidentified Space Station",
+    "link": "https://sseh.uchicago.edu/doc/roauss.htm",
+    "summary": "Article URL: https://sseh.uchicago.edu/doc/roauss.htm Comments URL: https://news.ycombinator.com/item?id=48501012 Points: 30 # Comments: 6",
+    "pubDate": "Fri, 12 Jun 2026 07:35:46 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Trump cancels further Iran strikes. And, U.S. men's soccer takes on Paraguay",
+    "link": "https://www.npr.org/2026/06/12/g-s1-127711/up-first-newsletter-iran-peace-national-intelligence-director-world-cup",
+    "summary": "Trump canceled new Iran strikes and signaled that a peace deal could come soon, but Iran says it hasn't been finalized. And, the U.S. men's soccer team plays its first 2026 World Cup match today.",
+    "pubDate": "Fri, 12 Jun 2026 06:42:59 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Summer warmth to return for weekend but heatwave chances fade",
+    "link": "https://www.bbc.com/weather/articles/cjdgn5rgjvlo?at_medium=RSS&at_campaign=rss",
+    "summary": "After a wet start to June it will be drier and warmer for the weekend, as Ben Rich explains.",
+    "pubDate": "Fri, 12 Jun 2026 06:12:27 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "AUR Packages Compromised with Infostealer and Rootkit",
+    "link": "https://discourse.ifin.network/t/400-aur-packages-compromised-with-infostealer-and-rootkit/577",
+    "summary": "Article URL: https://discourse.ifin.network/t/400-aur-packages-compromised-with-infostealer-and-rootkit/577 Comments URL: https://news.ycombinator.com/item?id=48500447 Points: 15 # Comments: 1",
+    "pubDate": "Fri, 12 Jun 2026 05:59:39 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails",
+    "link": "https://www.korte.co/2026/06/11/digital-sovereignty-becomes-an-imparative-as-the-us-reads-dutch-emails/",
+    "summary": "Article URL: https://www.korte.co/2026/06/11/digital-sovereignty-becomes-an-imparative-as-the-us-reads-dutch-emails/ Comments URL: https://news.ycombinator.com/item?id=48500404 Points: 143 # Comments: 120",
+    "pubDate": "Fri, 12 Jun 2026 05:53:19 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "We need to feel love playing for England - Bellingham",
+    "link": "https://www.bbc.com/sport/football/articles/cvg5mkemp1go?at_medium=RSS&at_campaign=rss",
+    "summary": "England midfielder Jude Bellingham stresses the importance of needing to 'feel loved' as he looks to help the Three Lions enjoy World Cup success this summer.",
+    "pubDate": "Fri, 12 Jun 2026 05:24:53 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Our sons are playing for two different countries at the World Cup",
+    "link": "https://www.bbc.com/news/articles/c0lygw3zpy8o?at_medium=RSS&at_campaign=rss",
+    "summary": "Jack and Heather Souttar are heading to the US to support their sons, who play for Scotland and Australia.",
+    "pubDate": "Fri, 12 Jun 2026 05:07:11 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "Grooming survivors prosecuted as children still being failed, Baroness Casey tells BBC",
     "link": "https://www.bbc.com/news/articles/cly7jjq8nr1o?at_medium=RSS&at_campaign=rss",
     "summary": "Victims who were abused and prosecuted as children are still being failed, says grooming report author.",
@@ -216,11 +456,91 @@
     "category": "general"
   },
   {
+    "title": "Ex-UK political aide Steve Hilton would overhaul California as governor, he tells BBC",
+    "link": "https://www.bbc.com/news/articles/cd95x25e2nqo?at_medium=RSS&at_campaign=rss",
+    "summary": "The Trump-backed candidate is running as a Republican in the deeply liberal state on a platform that he says isn't beholden to party ideology.",
+    "pubDate": "Fri, 12 Jun 2026 05:02:15 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Which billionaire said they learned a 'significant lesson' this week? The quiz knows",
+    "link": "https://www.npr.org/2026/06/12/g-s1-127424/trump-knicks-musk-world-cup-apple-news-quiz",
+    "summary": "This week, Knicks fans had a big win after a big loss; fans of inflation were delighted and World Cup fans went broke. How will quiz fans fare?",
+    "pubDate": "Fri, 12 Jun 2026 05:02:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "She waited decades for Scotland to make the World Cup. At 93, she'll be cheering in person",
+    "link": "https://www.npr.org/2026/06/12/nx-s1-5842854/scotland-world-cup-tartan-army-fans",
+    "summary": "Moira Brown, perhaps the oldest of Scotland's Tartan Army of soccer fans, will be in Boston when Scotland's team plays against Haiti on June 13. \"I'm the luckiest person in this world,\" she says.",
+    "pubDate": "Fri, 12 Jun 2026 05:02:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "'They destroyed the future': Palestinian anger at rise in Israeli demolitions in East Jerusalem",
     "link": "https://www.bbc.com/news/articles/cewpwjr9rj4o?at_medium=RSS&at_campaign=rss",
     "summary": "Palestinian homes are being pulled down in occupied East Jerusalem to make way for a park.",
     "pubDate": "Fri, 12 Jun 2026 05:01:48 GMT",
     "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "How small-business loans got caught in Trump's immigration crackdown",
+    "link": "https://www.npr.org/2026/06/12/nx-s1-5853375/changes-loans-trump-small-business-immigrants-entrepreneurs-green-card",
+    "summary": "For decades, immigrants who are legal permanent residents in the U.S. could get loans through the Small Business Administration, a core pillar of small-business lending. Not anymore.",
+    "pubDate": "Fri, 12 Jun 2026 05:01:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Referees at the World Cup have new rules to whistle during games",
+    "link": "https://www.npr.org/2026/06/12/nx-s1-5855234/2026-world-cup-fifa-soccer-referees-officials-laws-ifab",
+    "summary": "FIFA has introduced several changes to the laws of soccer for the World Cup. These include efforts to eliminate time-wasting and to ensure potentially game-changing officiating mistakes are corrected.",
+    "pubDate": "Fri, 12 Jun 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Your cheat sheet to the 26 players on the U.S. World Cup team",
+    "link": "https://www.npr.org/2026/06/12/nx-s1-5855763/2026-world-cup-usmnt-players-roster",
+    "summary": "The U.S. is opening its 2026 World Cup on Friday evening against Paraguay. For the 26 Americans on the team, this match is the culmination of years of hard work and training.",
+    "pubDate": "Fri, 12 Jun 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Can smartphones help explain the drop in birth rates?",
+    "link": "https://www.npr.org/2026/06/12/nx-s1-5851795/iphone-birth-rate-drop",
+    "summary": "Are smartphones causing people to have fewer children? A provocative new working paper explores the persistent drop in birth rates since the iPhone was introduced nearly two decades ago.",
+    "pubDate": "Fri, 12 Jun 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Trump's DOJ can't get names and medical files of trans youth in California, for now",
+    "link": "https://www.npr.org/2026/06/12/nx-s1-5855728/transgender-youth-healthcare-trump-subpoena",
+    "summary": "Trump's Department of Justice is seeking patient files that include the names of young people who have been treated in transgender clinics, as well as hospital staff who have provided care.",
+    "pubDate": "Fri, 12 Jun 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Want a better skin care routine? Sign up for our one-week guide",
+    "link": "https://www.npr.org/2026/06/12/nx-s1-5846860/smart-skin-care-routine-products-newsletter",
+    "summary": "Spending too much time and money on skin care? Find out what really works to improve skin health and appearance with our one-week newsletter guide. Sign up here.",
+    "pubDate": "Fri, 12 Jun 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "The U.S. men's team is set to take on Paraguay in its World Cup opener",
+    "link": "https://www.npr.org/2026/06/12/nx-s1-5850736/2026-world-cup-usmnt-paraguay",
+    "summary": "Friday's game, the first of three group stage matches for the U.S., has been eight years in the making as a generation of players has reached their prime just in time for a World Cup on home soil.",
+    "pubDate": "Fri, 12 Jun 2026 05:00:00 -0400",
+    "source": "NPR",
     "category": "general"
   },
   {
@@ -293,6 +613,22 @@
     "summary": "Score big savings on Altra Running shoes with up to 50% off sale styles, 20% off select models, 10% off your first order when you sign up, plus free standard delivery on every purchase.",
     "pubDate": "Fri, 12 Jun 2026 05:00:00 +0000",
     "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "AI agent bankrupted their operator while trying to scan DN42",
+    "link": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+    "summary": "Article URL: https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/ Comments URL: https://news.ycombinator.com/item?id=48500012 Points: 628 # Comments: 236",
+    "pubDate": "Fri, 12 Jun 2026 04:42:53 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
+    "link": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+    "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation",
+    "pubDate": "Fri, 12 Jun 2026 04:30:00 +0000",
+    "source": "TechCrunch",
     "category": "tech"
   },
   {
@@ -416,6 +752,14 @@
     "category": "tech"
   },
   {
+    "title": "How I made a 60fps Eink monitor, the Modos Flow",
+    "link": "https://youtu.be/nHbA2-_qzH4",
+    "summary": "Comments",
+    "pubDate": "Fri, 12 Jun 2026 00:39:08 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
     "link": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
     "summary": "Article URL: https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf Comments URL: https://news.ycombinator.com/item?id=48498385 Points: 244 # Comments: 84",
@@ -438,6 +782,182 @@
     "pubDate": "Fri, 12 Jun 2026 00:01:00 -0400",
     "source": "NPR",
     "category": "general"
+  },
+  {
+    "title": "Siri won’t be your AI girlfriend",
+    "link": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
+    "summary": "Our early testing has already shown that Siri AI knows when to shut up, and that's very much by design. In an interview with Mostly Human spotted by MacRumors, Craig Federighi said Apple's new Siri won't act all sycophantic like chatbots made by OpenAI, Google, and others. \"As you may know, if yo...",
+    "pubDate": "2026-06-12T03:00:31-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "证监会：批复同意长鑫科技集团股份有限公司首次公开发行股票注册",
+    "link": "https://36kr.com/newsflashes/3850061768709377?f=rss",
+    "summary": "36氪获悉，证监会同意长鑫科技集团股份有限公司首次公开发行股票并在科创板上市的注册申请。",
+    "pubDate": "2026-06-12 18:45:21  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "证监会：同意中电科思仪科技股份有限公司首次公开发行股票并在创业板上市的注册申请",
+    "link": "https://36kr.com/newsflashes/3850061434426629?f=rss",
+    "summary": "36氪获悉，证监会同意中电科思仪科技股份有限公司首次公开发行股票并在创业板上市的注册申请。",
+    "pubDate": "2026-06-12 18:45:01  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "*ST立航：撤销退市风险警示，6月16日起股票简称变更为立航科技",
+    "link": "https://36kr.com/newsflashes/3850057162740739?f=rss",
+    "summary": "36氪获悉，*ST立航公告，公司股票将于2026年6月15日停牌一天，自2026年6月16日起复牌并撤销退市风险警示。撤销后，公司A股简称变更为立航科技，股票日涨跌幅限制由5%变为10%。",
+    "pubDate": "2026-06-12 18:40:40  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "富淼科技：拟现金收购沃特泰科51%股权，标的公司为工业水处理综合服务提供商",
+    "link": "https://36kr.com/newsflashes/3850051575174407?f=rss",
+    "summary": "36氪获悉，富淼科技公告，公司拟以现金方式购买嘉兴沃特泰科环保科技股份有限公司6名股东持有的51%股权，交易完成后沃特泰科将成为公司控股子公司。沃特泰科为工业水处理综合服务提供商，为显示面板、电子半导体、垃圾发电再生能源、化工、石油石化、光伏、汽车、造纸等行业提供综合解决方案。本次交易事项不构成关联交易，预计不构成重大资产重组。",
+    "pubDate": "2026-06-12 18:34:59  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "马斯克将持有SpaceX公司82.4%的投票权",
+    "link": "https://36kr.com/newsflashes/3850049875236100?f=rss",
+    "summary": "根据SpaceX的IPO申报文件，公司上市后，创始人兼首席执行官埃隆・马斯克将持有公司82.4%的投票权。但马斯克所持全部SpaceX股份需锁定满一年方可流通。（新浪财经）",
+    "pubDate": "2026-06-12 18:33:15  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "英国4月国内生产总值环比下降0.1%",
+    "link": "https://36kr.com/newsflashes/3850041637917698?f=rss",
+    "summary": "英国国家统计局6月12日公布的数据显示，4月英国国内生产总值环比下降0.1%。其中，服务业环比下降0.2%，成为拖累经济增长的主要因素。（界面）",
+    "pubDate": "2026-06-12 18:24:52  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "倍轻松：收到《行政处罚事先告知书》",
+    "link": "https://36kr.com/newsflashes/3850040462529542?f=rss",
+    "summary": "36氪获悉，倍轻松公告，公司收到证监会深圳监管局下发的《行政处罚事先告知书》，因未及时披露关联交易及重大担保事项，2024年年报存在重大遗漏，公司及实际控制人马学军等被警告并罚款。其中，公司被罚250万元，马学军被罚630万元，赵红云被罚80万元，尹威被罚50万元。",
+    "pubDate": "2026-06-12 18:23:41  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "福光股份：应用于航天领域的产品销售收入占营业收入的比例约为3.48%，对公司业绩影响较小",
+    "link": "https://36kr.com/newsflashes/3850037961348102?f=rss",
+    "summary": "36氪获悉，福光股份公告，经公司自查，截至本公告披露日，公司未发现对公司股票交易价格可能产生重大影响的媒体报道及市场传闻，未发现其他可能对公司股价产生较大影响的重大事件，未发现公司及有关人员泄露未公开重大信息的情况。公司提示：应用于航天领域的产品销售收入占营业收入的比例约为3.48%，对公司业绩影响较小，敬请投资者注意投资风险。",
+    "pubDate": "2026-06-12 18:21:08  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "SpaceX今日纳斯达克上市，总裁肖特韦尔称IPO仅是“未来征程”一小步",
+    "link": "https://36kr.com/newsflashes/3850037062374403?f=rss",
+    "summary": "SpaceX周五正式在纳斯达克挂牌交易，此前完成750亿美元创纪录IPO融资，公司估值约达1.77万亿美元，若以此计算将成为美国市值第七高的上市公司，超过Meta及马斯克旗下另一家上市公司特斯拉。SpaceX总裁兼首席运营官格温·肖特韦尔在接受采访时表示：“我曾不确定我们会上市，但现在感觉时机正合适。”她说，公司此前选择保持私有化以专注长期目标而非季度财报，如今“上市公司的各项基础已经具备”。展望未来，她强调公司的视野“非常具有未来感”，此次IPO只是这段征程中的一小步。（界面）",
+    "pubDate": "2026-06-12 18:20:13  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "太极实业：选举秦晨飞担任董事长",
+    "link": "https://36kr.com/newsflashes/3850036375328008?f=rss",
+    "summary": "36氪获悉，太极实业公告，公司召开会议审议通过了《关于选举公司董事长的议案》《关于补选公司第十一届董事会战略与投资委员会委员的议案》，全体董事一致同意选举秦晨飞担任公司第十一届董事会董事长、第十一届董事会战略与投资委员会主任委员，任期为本次董事会审议通过之日起至第十一届董事会任期届满之日止。",
+    "pubDate": "2026-06-12 18:19:31  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "*ST原尚：撤销退市风险警示，6月16日起股票简称变更为原尚股份",
+    "link": "https://36kr.com/newsflashes/3850026041594883?f=rss",
+    "summary": "36氪获悉，*ST原尚公告，公司股票将于2026年6月15日停牌一天，自2026年6月16日起复牌并撤销退市风险警示，证券简称由“*ST原尚”变更为“原尚股份”，证券代码不变，日涨跌幅限制由5%变为10%。",
+    "pubDate": "2026-06-12 18:09:01  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "南亚新材：拟减持不超过235.18万股已回购股份",
+    "link": "https://36kr.com/newsflashes/3850019477492740?f=rss",
+    "summary": "36氪获悉，南亚新材公告，公司计划自公告之日起15个交易日后的三个月内，通过集中竞价交易方式减持不超过235.18万股已回购股份，占公司总股本比例不超过1%。",
+    "pubDate": "2026-06-12 18:02:20  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "海光芯正港股IPO获中国证监会备案",
+    "link": "https://36kr.com/newsflashes/3850017050629377?f=rss",
+    "summary": "36氪获悉，中国证监会国际合作司发布关于北京海光芯正科技股份有限公司境外发行上市及境内未上市股份“全流通”备案通知书，公司拟发行不超过15,446,200股境外上市普通股并在香港联合交易所上市。公司33名股东拟将所持合计76,110,545股境内未上市股份转为境外上市股份，并在香港联合交易所上市流通。",
+    "pubDate": "2026-06-12 17:59:52  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "金山云：AI算力相关产品服务上调约15%-50%",
+    "link": "https://36kr.com/newsflashes/3850013147256064?f=rss",
+    "summary": "36氪获悉，据金山云官网，因全球AI算力需求攀升，硬件成本上涨，将对部分产品价格进行调整。AI算力相关产品服务价格上调约15%-50%，文件存储相关产品服务价格上调约30%-50%。调整将于北京时间2026年7月12日00:00:00起生效。存量订单在当前计费周期内不受影响，新价格在下一个计费周期开始时适用。",
+    "pubDate": "2026-06-12 17:55:54  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "三环集团港股上市获中国证监会备案",
+    "link": "https://36kr.com/newsflashes/3850011482952705?f=rss",
+    "summary": "36氪获悉，中国证监会国际合作司发布关于潮州三环（集团）股份有限公司境外发行上市备案通知书，公司拟发行不超过149,190,500股境外上市普通股并在香港联合交易所上市。",
+    "pubDate": "2026-06-12 17:54:12  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "安克创新港股上市获中国证监会备案",
+    "link": "https://36kr.com/newsflashes/3850008283878660?f=rss",
+    "summary": "36氪获悉，中国证监会国际合作司发布关于安克创新科技股份有限公司境外发行上市备案通知书，公司拟发行不超过68,508,900股境外上市普通股并在香港联合交易所上市。",
+    "pubDate": "2026-06-12 17:50:57  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "药明康德：回购A+H股合计约332万股",
+    "link": "https://36kr.com/newsflashes/3850005639566337?f=rss",
+    "summary": "36氪获悉，药明康德公告，当日H股回购约230万股，均价125.39港元，耗资约2.89亿港元；A股回购约102万股，均价98.18元，耗资约1亿元。均持作库存股份，分别用于一般储备与员工持股计划。",
+    "pubDate": "2026-06-12 17:48:15  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "中国人民银行：将个人投资人认，购大额存单起点金额降至不低于20万元人民币",
+    "link": "https://36kr.com/newsflashes/3850000214906113?f=rss",
+    "summary": "36氪获悉，中国人民银行就《大额存单管理办法》公开征求意见。一是根据中国人民银行公告〔2016〕第13号，将个人投资人认购大额存单起点金额降至不低于20万元人民币。二是根据大额存单的提前支取、赎回和转让实际需要，明确第三方平台和银行自有渠道均可开展大额存单的转让、提前支取和赎回。三是明确重大事件发生后，发行人应及时在本机构官方网站和信息披露平台进行信息披露。",
+    "pubDate": "2026-06-12 17:42:44  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "*ST威领：控股股东签署的《股份转让协议》解除，控制权变更事项终止",
+    "link": "https://36kr.com/newsflashes/3849995100099848?f=rss",
+    "summary": "36氪获悉，*ST威领公告，公司控股股东上海领亿新材料有限公司收到西藏山南锑金资源有限公司出具的《关于解除的函》，因公司2025年度财务报表被出具保留意见审计报告及被深交所实施退市风险警示，标的股份交割条件未满足，山南锑金决定解除《股份转让协议》，控制权变更事项终止。本次终止不会导致公司控股股东、实际控制人变更，不会对生产经营产生重大不利影响。",
+    "pubDate": "2026-06-12 17:37:32  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "世茂集团：2026年前5个月合约销售69.51亿元",
+    "link": "https://36kr.com/newsflashes/3849993983333634?f=rss",
+    "summary": "36氪获悉，世茂集团公告，公司2026年1–5月累计合约销售额69.51亿元。5月单月销售12.20亿元，均价12,597元/㎡。",
+    "pubDate": "2026-06-12 17:36:24  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "神秘失窃案背后，比亚迪如何“驯服”泰国工厂？｜深氪lite",
+    "link": "https://36kr.com/p/3846882883963139?f=rss",
+    "summary": "比亚迪泰国罗勇工厂，曾接连陷入神秘“失窃案”。然而盘点下来，钢材螺栓数目齐全，劳保用品甚至都没有异常消耗。 实际上，被盗的并非值钱物件，而是车间水房里，桶装水塑料标签上的“BYD”Logo（品牌符号）。 那些本应随意摆放的桶装水，总会被转成同一个角度。桶身上原本完整的BYD字样齐齐消失，只留下一道被小刀精心裁剪过的轮廓痕迹。 李有才是首批加入比亚迪罗勇项目的员工之一，他告诉36氪，直到一次受邀参加当地泰籍员工间的聚会，他才找到这些被“偷走”的BYD Logo。 “ 有一个当地人穿了一件T恤，那不是我们的工服，但胸前却有一个BYD的Logo，我凑近了看才发现，那就是桶装水上的Logo塑料片...",
+    "pubDate": "2026-06-12 14:26:00  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
   },
   {
     "title": "粤港澳大湾区内地9市外贸快速增长，同比增长18.8%",
@@ -630,6 +1150,14 @@
     "pubDate": "2026-06-12 08:04:29  +0800",
     "source": "36Kr",
     "category": "tech-cn"
+  },
+  {
+    "title": "I advise the Vatican and the UN on AI — don’t dismiss the Pope’s message as theology",
+    "link": "https://www.nature.com/articles/d41586-026-01876-z",
+    "summary": "Nature, Published online: 12 June 2026; doi:10.1038/d41586-026-01876-z The papal letter goes beyond a religious document and diagnoses a failure in AI governance that the scientific community should heed.",
+    "pubDate": "2026-06-12",
+    "source": "Nature",
+    "category": "science"
   },
   {
     "title": "Amazon&#8217;s Echo Hub gets a customizable new look and Ring&#8217;s AI features",

@@ -56,6 +56,14 @@
     "category": "general"
   },
   {
+    "title": "Is the convertible heading into the sunset?",
+    "link": "https://www.bbc.com/news/articles/cx212yy4er0o?at_medium=RSS&at_campaign=rss",
+    "summary": "UK drivers have taken a shine to the SUV but could the fate of the convertible be reversed?",
+    "pubDate": "Sun, 14 Jun 2026 23:25:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "Why you might not be buying the right pain relief for period cramps",
     "link": "https://www.bbc.com/news/articles/c932pex1vpwo?at_medium=RSS&at_campaign=rss",
     "summary": "Many women are buying less effective pain medication for period cramps, supermarket data suggests.",
@@ -288,12 +296,308 @@
     "category": "tech"
   },
   {
+    "title": "派评 | 近期值得关注的 App",
+    "link": "https://sspai.com/post/111068",
+    "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀 查看全文",
+    "pubDate": "Mon, 15 Jun 2026 17:45:36 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "具透 | 思考、打磨、加速：iPadOS 27 首个开发者测试版中值得关注的新内容",
+    "link": "https://sspai.com/post/111003",
+    "summary": "除了可以自定义的 Liquid Glass 透明度，iPadOS 27 还有这 12 项细节变化。 查看全文",
+    "pubDate": "Mon, 15 Jun 2026 16:04:25 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "从 BANG!CASE 到 AI Display：我为什么想给 AI 在桌面留一个位置",
+    "link": "https://sspai.com/post/110984",
+    "summary": "过去几年，我一直在深圳做硬件产品，也在少数派参与过几次消费电子产品的共创。如果你关注过少数派之前的一些硬件项目，可能见过BANG!CASE。它最早来自我的一个产品创意，后来在少数派团队的推进下变成了真 ... 查看全文",
+    "pubDate": "Mon, 15 Jun 2026 16:00:00 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "Snapseed 4.0：Google 终于想起了这款「免费修图神器」",
+    "link": "https://sspai.com/post/110525",
+    "summary": "Snapseed可谓是手机摄影App届元老级的存在了，最早由软件公司NikSoftware于2011年开发推出，当年即被评为AppStore年度应用。次年NikSoftware即被Google收购，S ... 查看全文",
+    "pubDate": "Mon, 15 Jun 2026 14:39:30 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "Palestine Action ban is lawful, Court of Appeal rules",
+    "link": "https://www.bbc.com/news/articles/c4gy927jx88o?at_medium=RSS&at_campaign=rss",
+    "summary": "The Home Office had challenged a High Court ruling that the group's proscription should be quashed.",
+    "pubDate": "Mon, 15 Jun 2026 12:44:04 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Boy, 2, seriously hurt as car crashes into playground",
+    "link": "https://www.bbc.com/news/articles/cy4eldkpxgwo?at_medium=RSS&at_campaign=rss",
+    "summary": "A 63-year-old woman is arrested on suspicion of causing serious injury by dangerous driving.",
+    "pubDate": "Mon, 15 Jun 2026 12:37:18 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The US and Iran have agreed a deal. How soon could the economy go back to normal?",
+    "link": "https://www.bbc.com/news/articles/cd0p8me2m5do?at_medium=RSS&at_campaign=rss",
+    "summary": "Experts warn the impact of the war will continue to affect the global economy for months to come.",
+    "pubDate": "Mon, 15 Jun 2026 12:33:56 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Two men found guilty over Starmer-linked arson attacks",
+    "link": "https://www.bbc.com/news/articles/c9v2yd8vk04o?at_medium=RSS&at_campaign=rss",
+    "summary": "Property and a car linked to the prime minister were targeted in arson attacks last year.",
+    "pubDate": "Mon, 15 Jun 2026 12:23:34 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Stones goes from brink of retirement to World Cup 'pure joy'",
+    "link": "https://www.bbc.com/sport/football/articles/c24y192myrvo?at_medium=RSS&at_campaign=rss",
+    "summary": "John Stones' selection for England's World Cup squad may have raised a few eyebrows but the player says he had to \"dig deep\" to secure his place in the 26-man travelling party.",
+    "pubDate": "Mon, 15 Jun 2026 12:21:54 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "France star Mbappe vows to increase defensive work after criticism",
+    "link": "https://www.bbc.com/sport/football/articles/cjegv7j5349o?at_medium=RSS&at_campaign=rss",
+    "summary": "The French captain has faced scrutiny over both his performances and leadership, but supporters say the criticism has gone \"too far\".",
+    "pubDate": "Mon, 15 Jun 2026 12:17:01 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "A satellite just learned to find things on its own — here’s what that means",
+    "link": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
+    "summary": "In April, for the first time ever, an Earth observation satellite found what it was looking for, all on its own.",
+    "pubDate": "Mon, 15 Jun 2026 12:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Man arrested for allegedly pushing woman in front of bus in 2017",
+    "link": "https://www.bbc.com/news/articles/cp9ly0gy10yo?at_medium=RSS&at_campaign=rss",
+    "summary": "A 44-year-old man is in custody over the incident where a woman appeared to be shoved into the path of a bus.",
+    "pubDate": "Mon, 15 Jun 2026 11:52:08 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "How will social media ban work and when does it start?",
+    "link": "https://www.bbc.com/news/articles/ceqdny4l3jdo?at_medium=RSS&at_campaign=rss",
+    "summary": "The measures will see apps including TikTok and Snapchat banned for UK teens early in 2027.",
+    "pubDate": "Mon, 15 Jun 2026 11:09:42 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Norwegian crown princess's son found guilty of two counts of rape",
+    "link": "https://www.bbc.com/news/articles/cly9d10l5p4o?at_medium=RSS&at_campaign=rss",
+    "summary": "Marius Borg Høiby, the 29-year-old son of Norway's Crown Princess Mette Marit, has been found guilty of two counts of rape and given four years in jail.",
+    "pubDate": "Mon, 15 Jun 2026 11:09:03 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "线下活动｜CiGA Game Jam 2026 广州荔湾少数派站召集令",
     "link": "https://sspai.com/post/110989",
     "summary": "虽迟但到！CGJ2026广州荔湾站来啦！本次活动定位为小型GameJam，意在复刻最经典的古早GJ味道，比较放松，没有评比环节，只有公园、音乐、猫咪、饮品、讨论交流和分享！做人呐，最重要是开心～什么是 ... 查看全文",
     "pubDate": "Mon, 15 Jun 2026 11:00:00 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "The Kratom Civil War Is Heating Up, and MAHA Has Picked a Side",
+    "link": "https://www.wired.com/story/the-kratom-civil-war-is-heating-up-and-maha-has-picked-a-side/",
+    "summary": "Both kratom and one of its active components, 7-OH, have opioid-like effects and are widely available across the US. As health secretary RFK Jr. aims to get 7-OH banned, proponents of both are fighting.",
+    "pubDate": "Mon, 15 Jun 2026 11:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "How Apple Is Making Your Older iPhone Run Faster and Stay Alive Longer",
+    "link": "https://www.wired.com/story/how-apple-is-making-your-older-iphone-run-faster-and-stay-alive-longer/",
+    "summary": "Even the aging iPhone 11 will feel a little more responsive soon, thanks to improvements in an unsung iOS feature.",
+    "pubDate": "Mon, 15 Jun 2026 10:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Brazilian woman dies after rope-jumping instructors fail to attach cord",
+    "link": "https://www.bbc.com/news/articles/c5yz4xelnveo?at_medium=RSS&at_campaign=rss",
+    "summary": "Three men have been arrested after instructors failed to attach a rope to her before helping her jump from a bridge.",
+    "pubDate": "Mon, 15 Jun 2026 10:24:09 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Award-winning investigative journalist Roger Cook dies aged 83",
+    "link": "https://www.bbc.com/news/articles/ckg48qqwkd2o?at_medium=RSS&at_campaign=rss",
+    "summary": "The New Zealand-born reporter was credited with having invented the doorstep interview technique.",
+    "pubDate": "Mon, 15 Jun 2026 10:23:10 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Anthropic's Safety Superpower",
+    "link": "https://stratechery.com/2026/anthropics-safety-superpower/",
+    "summary": "Article URL: https://stratechery.com/2026/anthropics-safety-superpower/ Comments URL: https://news.ycombinator.com/item?id=48539078 Points: 94 # Comments: 62",
+    "pubDate": "Mon, 15 Jun 2026 10:06:35 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "1 in 4 World Cup Matches Could Be Played in Dangerous Temperatures",
+    "link": "https://www.wired.com/story/2026-fifa-world-cup-dangerous-temperatures-heat/",
+    "summary": "A new report warns that Miami, Kansas City, Philadelphia, Dallas, and Houston could be particularly hot places to play during the 2026 World Cup.",
+    "pubDate": "Mon, 15 Jun 2026 10:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "A Crypto Scam Targeted a Gay OnlyFans Star. Then His X Feed Was Flooded With ‘MAGA Propaganda’",
+    "link": "https://www.wired.com/story/a-gay-onlyfans-star-got-hacked-then-his-x-account-started-spewing-maga-propaganda/",
+    "summary": "In recent months hackers have attempted to extort money from porn stars with big followings, in some cases filling their feeds with pro-MAGA and crypto content.",
+    "pubDate": "Mon, 15 Jun 2026 10:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Australia demands answers after girl taken hostage is shot dead by Pakistan police",
+    "link": "https://www.bbc.com/news/articles/cgqj9v7nw3vo?at_medium=RSS&at_campaign=rss",
+    "summary": "Pakistani police said the nine-year-old was mistakenly shot as they pursued a group of armed robbers.",
+    "pubDate": "Mon, 15 Jun 2026 09:42:20 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "World Cup hydration breaks - who are the winners and losers?",
+    "link": "https://www.bbc.com/sport/football/articles/c621620wr77o?at_medium=RSS&at_campaign=rss",
+    "summary": "They have become a regular feature at World Cup games - but who are the winners and who are losers of the mandatory hydration breaks?",
+    "pubDate": "Mon, 15 Jun 2026 09:34:25 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
+    "link": "https://github.com/themartiano/luz",
+    "summary": "Article URL: https://github.com/themartiano/luz Comments URL: https://news.ycombinator.com/item?id=48538833 Points: 28 # Comments: 9",
+    "pubDate": "Mon, 15 Jun 2026 09:34:10 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The US Government Is Letting a Key Data Center Regulation Expire",
+    "link": "https://www.wired.com/story/the-us-government-is-letting-a-key-data-center-regulation-expire/",
+    "summary": "The federal government is planning to let a rule regulating federal data center operations sunset in September with no replacement.",
+    "pubDate": "Mon, 15 Jun 2026 09:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Canadian lynx one of big cat sightings in Welsh countryside",
+    "link": "https://www.bbc.com/news/articles/cx2kjz2drkpo?at_medium=RSS&at_campaign=rss",
+    "summary": "Fifteen \"big cats\" were reported to authorities in Wales between January 2020 and July 2025.",
+    "pubDate": "Mon, 15 Jun 2026 09:01:56 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The UK Places a Sweeping Ban on Social Media for Kids Under 16",
+    "link": "https://www.wired.com/story/uk-social-media-under-16-ban/",
+    "summary": "The UK government is introducing a ban on social media for children and a minimum age for some chatbots in an attempt to shield young people from dangerous corners of the web.",
+    "pubDate": "Mon, 15 Jun 2026 09:01:53 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Meta Tapped a Pentagon Supplier to Prototype Face Recognition for Its Glasses",
+    "link": "https://www.wired.com/story/meta-rank-one-computing-face-recognition-smart-glasses/",
+    "summary": "Rank One, whose board includes a former CIA deputy director and a former FBI science chief, supplied face recognition to Meta for internal development of its smart glasses app.",
+    "pubDate": "Mon, 15 Jun 2026 09:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Millions take calcium and vitamin D for stronger bones. A major review finds little benefit",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260614011852.htm",
+    "summary": "For years, calcium and vitamin D supplements have been promoted as a simple way for older adults to protect their bones and prevent falls. But a massive review of nearly 154,000 people found that calcium, vitamin D, or a combination of both provided little to no meaningful protection against frac...",
+    "pubDate": "Mon, 15 Jun 2026 08:44:53 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "This popular brain supplement was linked to shorter lifespans in men",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260615025119.htm",
+    "summary": "A large-scale study suggests that men with higher levels of the amino acid tyrosine may have shorter lifespans, potentially losing close to a year of life expectancy. The finding is especially intriguing because tyrosine is commonly associated with brain health and is often used in supplements ai...",
+    "pubDate": "Mon, 15 Jun 2026 08:27:30 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "What the Fuck Happened to Nerds",
+    "link": "https://mrmarket.lol/what-the-fuck-happened-to-nerds/",
+    "summary": "Article URL: https://mrmarket.lol/what-the-fuck-happened-to-nerds/ Comments URL: https://news.ycombinator.com/item?id=48538229 Points: 340 # Comments: 229",
+    "pubDate": "Mon, 15 Jun 2026 08:23:52 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "NASA spots giant ocean swell that could signal El Niño’s return",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260614012002.htm",
+    "summary": "NASA satellites have detected a vast pulse of warm water reaching the coast of South America, signaling that El Niño is likely developing. The warm water is being carried eastward by massive ocean waves known as Kelvin waves, which also cause sea levels to rise. El Niño can reshape weather patter...",
+    "pubDate": "Mon, 15 Jun 2026 08:09:38 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "This strange material can become strong or fall apart in seconds",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260615033849.htm",
+    "summary": "Scientists have found that staple-shaped particles can tangle together to create a material that is both strong and flexible. Unlike conventional materials, these particles can be locked into a sturdy structure or rapidly unraveled using vibrations. The unusual behavior could open the door to rec...",
+    "pubDate": "Mon, 15 Jun 2026 07:54:43 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "As Luigi Mangione's lawyers head to court, support grows for the accused 'vigilante'",
+    "link": "https://www.npr.org/2026/06/15/nx-s1-5853110/luigi-mangione-court-hearings-growing-support",
+    "summary": "Luigi Mangione's legal team is back in court in New York City this week for a key pretrial hearing. He's accused of stalking and killing an insurance CEO. Donors have given $1.5 million to support his defense.",
+    "pubDate": "Mon, 15 Jun 2026 07:48:33 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Xavier Leroy's new book on Control Sturctures in Programming",
+    "link": "https://xavierleroy.org/control-structures/book/index.html",
+    "summary": "Comments",
+    "pubDate": "Mon, 15 Jun 2026 07:36:37 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "The AI layoff wave is becoming a powder keg",
+    "link": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
+    "summary": "What makes this combustible: at the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend.",
+    "pubDate": "Mon, 15 Jun 2026 07:25:41 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Openrouter Fusion API",
+    "link": "https://openrouter.ai/openrouter/fusion",
+    "summary": "Article URL: https://openrouter.ai/openrouter/fusion Comments URL: https://news.ycombinator.com/item?id=48537641 Points: 74 # Comments: 25",
+    "pubDate": "Mon, 15 Jun 2026 07:10:57 +0000",
+    "source": "Hacker News",
+    "category": "tech"
   },
   {
     "title": "派早报：Fable 5 和 Mythos 5 模型因美国商务部禁令下线",
@@ -304,12 +608,116 @@
     "category": "tech-cn"
   },
   {
+    "title": "Dalus (YC W25) Is Hiring a Senior Software Engineer in Germany",
+    "link": "https://www.ycombinator.com/companies/dalus/jobs/5IDmKJt-senior-software-frontend-engineer-germany-office",
+    "summary": "Article URL: https://www.ycombinator.com/companies/dalus/jobs/5IDmKJt-senior-software-frontend-engineer-germany-office Comments URL: https://news.ycombinator.com/item?id=48537556 Points: 0 # Comments: 0",
+    "pubDate": "Mon, 15 Jun 2026 07:00:22 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Trump announces deal to end war in Iran. And, how to stay safe in deadly heat",
+    "link": "https://www.npr.org/2026/06/15/g-s1-128145/up-first-newsletter-iran-war-g7-summit-ufc-fight",
+    "summary": "Trump says a deal has been reached to end the war between the U.S. and Iran. Plus, this is what extreme temperatures do to the human body — and how you can keep yourself safe.",
+    "pubDate": "Mon, 15 Jun 2026 06:59:23 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Successful Psilocybin Treatment of Alzheimer",
+    "link": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1813281/full",
+    "summary": "Article URL: https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1813281/full Comments URL: https://news.ycombinator.com/item?id=48537512 Points: 9 # Comments: 1",
+    "pubDate": "Mon, 15 Jun 2026 06:52:21 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "US musician Oliver Tree dies as two helicopters crash mid-air",
+    "link": "https://www.bbc.com/news/articles/cqj1dd5rgnzo?at_medium=RSS&at_campaign=rss",
+    "summary": "The singer-songwriter is among six people presumed dead in air crash over Rio de Janeiro on Sunday.",
+    "pubDate": "Mon, 15 Jun 2026 06:47:23 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Nordstjernen Web Browser",
+    "link": "https://nordstjernen.org/",
+    "summary": "Comments",
+    "pubDate": "Mon, 15 Jun 2026 06:45:15 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Inside iOS 27's Reworked Stub Islands",
+    "link": "https://codecolor.ist/posts/2026-06-15-ios27-reworked-stub-islands/",
+    "summary": "Comments",
+    "pubDate": "Mon, 15 Jun 2026 06:39:41 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Britain will ban under-16s from social media apps, including TikTok and YouTube",
+    "link": "https://www.npr.org/2026/06/15/nx-s1-5858644/britain-social-media-ban",
+    "summary": "The ban will apply to platforms including Snapchat, TikTok, YouTube, Instagram, Facebook and X. The move makes the U.K. part of a growing global movement to tighten online safety for children.",
+    "pubDate": "Mon, 15 Jun 2026 06:32:39 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Graham Potter's journey from last-chance saloon to World Cup redemption",
+    "link": "https://www.bbc.com/sport/football/articles/c77y88076n1o?at_medium=RSS&at_campaign=rss",
+    "summary": "For a manager who was dismissed by West Ham in September after failing at Chelsea before that, few would have expected Graham Potter to be steering a nation to a winning start in the World Cup this summer.",
+    "pubDate": "Mon, 15 Jun 2026 06:31:28 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "pyinfra — agentless infrastructure automation, in plain Python",
+    "link": "https://pyinfra.com",
+    "summary": "Comments",
+    "pubDate": "Mon, 15 Jun 2026 06:05:07 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Curl will not accept vulnerability reports during July 2026",
+    "link": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
+    "summary": "Article URL: https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/ Comments URL: https://news.ycombinator.com/item?id=48537165 Points: 508 # Comments: 200",
+    "pubDate": "Mon, 15 Jun 2026 06:02:57 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "U.S. and Iran announce a deal to end the war, reopen Strait of Hormuz",
+    "link": "https://www.npr.org/2026/06/15/nx-s1-5858590/us-iran-deal-updates",
+    "summary": "The deal is a major breakthrough in the conflict that set the Middle East aflame and shook the global economy. However, it did not resolve critical issues set aside for further negotiations.",
+    "pubDate": "Mon, 15 Jun 2026 05:55:23 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "New GLP-1 diabetes pill delivers major weight loss and blood sugar control",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260614011850.htm",
+    "summary": "A new oral GLP-1 medication helped people with type 2 diabetes dramatically improve blood sugar control and lose weight in a major clinical trial. The results suggest that highly effective diabetes treatments may soon become available in a much more convenient pill form.",
+    "pubDate": "Mon, 15 Jun 2026 05:45:59 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "Gyokeres & Isak score as Sweden put five past Tunisia",
     "link": "https://www.bbc.com/sport/football/videos/c20ymjjl8yko?at_medium=RSS&at_campaign=rss",
     "summary": "Watch highlights as Sweden get their World Cup campaign off to an emphatic start, scoring five goals in a win over Group F opponents Tunisia.",
     "pubDate": "Mon, 15 Jun 2026 05:27:28 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Removing my nix flakes vs guix post",
+    "link": "https://coopi.neocities.org/posts/taking-down-nix-flakes-vs-guix",
+    "summary": "I have known the author personally for quite a while, I am sad they had to go through this. Comments",
+    "pubDate": "Mon, 15 Jun 2026 05:23:34 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Our newborn baby died four years ago and we still don't know why",
@@ -328,11 +736,83 @@
     "category": "general"
   },
   {
+    "title": "Campaigns are embracing influencers, but internet stardom doesn't always win votes",
+    "link": "https://www.npr.org/2026/06/15/nx-s1-5818654/primary-election-michigan-influencers-political-strategy-voters-hasan-piker",
+    "summary": "It's becoming common for campaigns to seek out viral moments and the support of internet stars to reach new voters. But the strategy, albeit flashy, has yielded mixed results in key races this year.",
+    "pubDate": "Mon, 15 Jun 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Inside Ebola country: NPR reports from eastern DR Congo's outbreak zone",
+    "link": "https://www.npr.org/2026/06/15/nx-s1-5856414/ebola-congo-bunia-health-crisis",
+    "summary": "In eastern Democratic Republic of Congo, an Ebola outbreak is reshaping life, with fear spreading faster than information and hospitals turning into places of urgent containment rather than care.",
+    "pubDate": "Mon, 15 Jun 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Most parents track their 18- to 25-year-old kids on their smartphones. Is it healthy?",
+    "link": "https://www.npr.org/2026/06/15/nx-s1-5854613/tracking-smartphone-kids-parents-adults",
+    "summary": "A new survey from the University of Michigan asks parents about their use of technology to track their adult children, ages 18-25, including using \"always on\" location tracking on their smartphones.",
+    "pubDate": "Mon, 15 Jun 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "It's been a thrilling start to the World Cup. Here are the highlights and what's next",
+    "link": "https://www.npr.org/2026/06/15/nx-s1-5857699/2026-fifa-world-cup-week-1-highlights",
+    "summary": "Now that the FIFA World Cup is underway in Mexico, Canada and the U.S., the drama has shifted to the fields where there have been several surprising results heading into the first full week.",
+    "pubDate": "Mon, 15 Jun 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Scientists turned red lettuce green and something surprising happened",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260614011854.htm",
+    "summary": "Researchers used genome editing to block the production of red pigments in lettuce, causing other beneficial plant compounds to build up instead. The lettuce continued to grow normally, pointing toward a new way to create crops with customized nutritional profiles.",
+    "pubDate": "Mon, 15 Jun 2026 04:57:07 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Apple Foundation Models",
+    "link": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
+    "summary": "Article URL: https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models Comments URL: https://news.ycombinator.com/item?id=48536776 Points: 233 # Comments: 94",
+    "pubDate": "Mon, 15 Jun 2026 04:55:34 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "Wirtz, Isak & Diomande shine at World Cup as Iraola plots Liverpool revival",
     "link": "https://www.bbc.com/sport/football/articles/c1lypn1zl1mo?at_medium=RSS&at_campaign=rss",
     "summary": "Florian Wirtz, Alexander Isak and Yan Diomande all shine as the World Cup provides a perfect scouting opportunity for new Liverpool boss Andoni Iraola, says Phil McNulty.",
     "pubDate": "Mon, 15 Jun 2026 04:48:30 GMT",
     "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Trump celebrates 80th birthday with Iran deal and UFC fights at the White House",
+    "link": "https://www.npr.org/2026/06/15/nx-s1-5858610/trump-birthday-ufc-white-house",
+    "summary": "President Donald Trump marked his 80th birthday on Sunday by hailing an initial agreement to end the war in Iran and staging a cage-fighting show on the White House's storied South Lawn.",
+    "pubDate": "Mon, 15 Jun 2026 04:46:10 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "What are you doing this week?",
+    "link": "https://lobste.rs/s/fwohh5/what_are_you_doing_this_week",
+    "summary": "What are you doing this week? Feel free to share! Keep in mind it’s OK to do nothing at all, too.",
+    "pubDate": "Mon, 15 Jun 2026 04:46:08 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Morning news brief",
+    "link": "https://www.npr.org/2026/06/15/nx-s1-5854445/morning-news-brief",
+    "summary": "President Trump says a deal has been reached to end the Iran war, Trump celebrates birthday with UFC event, G7 summit kicks off Monday amid tensions between Europe and U.S.",
+    "pubDate": "Mon, 15 Jun 2026 04:44:46 -0400",
+    "source": "NPR",
     "category": "general"
   },
   {
@@ -368,6 +848,14 @@
     "category": "tech"
   },
   {
+    "title": "Oxford physicists just made Schrödinger’s cat even stranger",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260614011848.htm",
+    "summary": "Oxford physicists have created an entirely new type of Schrödinger’s cat-like quantum state using components that are themselves highly quantum in nature. The advance could open new possibilities for more resilient quantum computers and deeper insights into the strange rules that govern the quant...",
+    "pubDate": "Mon, 15 Jun 2026 03:29:46 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "'Hard to read' Bellingham criticism - Henderson",
     "link": "https://www.bbc.com/sport/football/articles/cly08nzl773o?at_medium=RSS&at_campaign=rss",
     "summary": "England's Jordan Henderson says he finds it \"hard to read\" what is written about Jude Bellingham but believes the midfielder can be the team's \"X-factor\" at the World Cup.",
@@ -398,6 +886,14 @@
     "pubDate": "Mon, 15 Jun 2026 02:41:25 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "I Am Not a Reverse Centaur",
+    "link": "https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur",
+    "summary": "Comments",
+    "pubDate": "Mon, 15 Jun 2026 02:19:50 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Delhi's temperature showed 43.5C. Why did it feel hotter?",
@@ -440,12 +936,36 @@
     "category": "tech"
   },
   {
+    "title": "Parsing JSON at compile time with C++26 static reflection",
+    "link": "https://lemire.me/blog/2026/06/14/parsing-json-at-compile-time-with-c26-static-reflection/",
+    "summary": "Comments",
+    "pubDate": "Mon, 15 Jun 2026 01:07:24 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Beneath our feet lies a fungal superhighway stretching 68 quadrillion miles",
     "link": "https://www.sciencedaily.com/releases/2026/06/260614011845.htm",
     "summary": "Beneath our feet lies a vast hidden fungal superhighway that helps sustain much of life on Earth—and scientists have now mapped it for the first time. Researchers estimate that these underground networks stretch an astonishing 110 quadrillion kilometers, move about 4 billion tons of carbon dioxid...",
     "pubDate": "Mon, 15 Jun 2026 01:00:10 EDT",
     "source": "Science Daily",
     "category": "science"
+  },
+  {
+    "title": "The only scalable delete in Postgres is DROP TABLE",
+    "link": "https://planetscale.com/blog/the-only-scalable-delete",
+    "summary": "Comments",
+    "pubDate": "Mon, 15 Jun 2026 00:55:24 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Diplomat: Multi-language FFI for Rust Libraries",
+    "link": "http://manishearth.github.io/blog/2026/06/14/diplomat-multi-language-ffi-for-rust-libraries/",
+    "summary": "Comments",
+    "pubDate": "Mon, 15 Jun 2026 00:53:54 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "21 years and counting of 'eight fallacies of distributed computing' (2025)",
@@ -456,12 +976,220 @@
     "category": "tech"
   },
   {
+    "title": "Inside Ella Toone’s life on and off the pitch",
+    "link": "https://www.bbc.co.uk/iplayer/episode/m002x6jy?at_mid=i9BmYGpjPQ&at_campaign=24_Hours_with_Ella_Toone&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002x6jy&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=24_Hours_with_Ella_Toone&at_bbc_team=BBC",
+    "summary": "Behind the scenes with Manchester United and England star Ella Toone.",
+    "pubDate": "Fri, 29 May 2026 17:00:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "Write for One Person",
     "link": "https://wizardzines.com/comics/write-for-one-person/",
     "summary": "Article URL: https://wizardzines.com/comics/write-for-one-person/ Comments URL: https://news.ycombinator.com/item?id=48507039 Points: 169 # Comments: 55",
     "pubDate": "Fri, 12 Jun 2026 17:36:10 +0000",
     "source": "Hacker News",
     "category": "tech"
+  },
+  {
+    "title": "Fox is buying Roku",
+    "link": "https://www.theverge.com/business/949727/fox-roku-acquisition-22-billion",
+    "summary": "Fox has announced that it's acquiring Roku outright, in a deal that values the streaming company at $22 billion. The deal will see Fox's TV networks and Tubi streamer combine with Roku's network of streaming devices, smart TV software, and The Roku Channel. The companies say in a press release th...",
+    "pubDate": "2026-06-15T07:44:08-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "All the gear a 20-year gadget blogging veteran packs when traveling",
+    "link": "https://www.theverge.com/gadgets/947310/gadget-veteran-travel-gear",
+    "summary": "Through more than two decades of travel for both work and leisure, my packing list has evolved from a random assortment of gadgets and accessories thrown together at the last minute into a refined checklist of gear honed by trial and error. The right packing list, I've found, can be the differenc...",
+    "pubDate": "2026-06-15T07:30:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Honor’s Magic V6 sets three foldable firsts",
+    "link": "https://www.theverge.com/tech/948919/honor-magic-v6-foldable-review",
+    "summary": "On paper, the Honor Magic V6 sounds like a tremendous leap forward for foldable phones: It's the thinnest one yet, with the biggest battery, and the best water-resistance ever. In practice, only the bigger battery feels like a meaningful improvement. The other upgrades are only fractionally super...",
+    "pubDate": "2026-06-15T07:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Under-16 social media ban announced by UK government",
+    "link": "https://www.theverge.com/policy/949679/uk-under-16-social-media-ban-announcement",
+    "summary": "The UK is the latest country to follow Australia in implementing a total social media ban for children under 16, Prime Minister Keir Starmer has announced. The ban, which could take effect from early next year, will be joined by wider measures that will also prevent children from talking to stran...",
+    "pubDate": "2026-06-15T04:19:09-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "东百集团：全资子公司拟转让东百红星100%股权",
+    "link": "https://36kr.com/newsflashes/3854428377060359?f=rss",
+    "summary": "36氪获悉，东百集团公告，为持续推进公司商业零售业务轻资产转型，进一步优化公司资源配置和整体资产结构，降低经营风险，公司全资子公司福建东方百货管理有限公司拟转让其持有的福建东百红星商业广场有限公司（简称“东百红星”）100%股权，暂定股权转让价格为182.78万元。经初步测算，此次股权转让交易预计将增加公司投资收益约6000万元。",
+    "pubDate": "2026-06-15 20:47:18  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "热门中概股美股盘前涨多跌少，理想汽车涨超1%",
+    "link": "https://36kr.com/newsflashes/3854426273273095?f=rss",
+    "summary": "36氪获悉，热门中概股美股盘前涨多跌少，截至发稿，百度、网易、B站、理想汽车涨超1%，蔚来、京东涨近1%，腾讯音乐涨0.64%；爱奇艺跌近1%，小鹏集团跌0.28%。",
+    "pubDate": "2026-06-15 20:45:09  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "美股大型科技股盘前普涨，SpaceX涨超6%",
+    "link": "https://36kr.com/newsflashes/3854424886547720?f=rss",
+    "summary": "36氪获悉，美股大型科技股盘前普涨，截至发稿，SpaceX涨超6%，亚马逊涨超2%，特斯拉、微软、谷歌、Meta、Arm、英伟达涨超1%，苹果涨0.58%，奈飞涨0.14%。",
+    "pubDate": "2026-06-15 20:43:45  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "儒意电影：拟8000万元至1.5亿元回购公司股份",
+    "link": "https://36kr.com/newsflashes/3854416540783872?f=rss",
+    "summary": "36氪获悉，儒意电影公告，公司拟以不低于8000万元（含）且不超过1.5亿元（含），通过集中竞价交易方式回购公司股份，并在未来适宜时机将回购股份用于实施公司股权激励计划或员工持股计划，回购价格不超过13.8元/股。",
+    "pubDate": "2026-06-15 20:35:15  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "蓝筹控股收购新加坡DCF未来数据中心",
+    "link": "https://36kr.com/newsflashes/3854411116057856?f=rss",
+    "summary": "36氪获悉，蓝筹控股正式公布，公司与新加坡数字基础设施服务商Datacenter Future Pte. Ltd.（简称DCF未来数据中心）签署合并协议。本次跨境收购采用换股方式完成对价结算，协议自签署当日正式生效。",
+    "pubDate": "2026-06-15 20:29:44  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "爱迪特：持股5%以上股东拟减持不超3%股份",
+    "link": "https://36kr.com/newsflashes/3854405392307462?f=rss",
+    "summary": "36氪获悉，爱迪特公告，公司股东君联欣康及HAL计划自公告日起15个交易日后的3个月内，通过集中竞价或大宗交易方式减持公司股份合计不超过447.57万股（占公司总股本的3%）。其中，集中竞价减持不超过149.19万股（占1%），大宗交易减持不超过298.38万股（占2%）。减持原因为股东自身资金需求。",
+    "pubDate": "2026-06-15 20:23:55  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "英伟达计划通过发行高等级债券筹资至少200亿美元",
+    "link": "https://36kr.com/newsflashes/3854398462759941?f=rss",
+    "summary": "英伟达计划通过发行高等级债券筹资至少200亿美元。（财联社）",
+    "pubDate": "2026-06-15 20:16:52  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "欧洲央行扩大私募信贷关联调查范围，所覆盖银行数量翻番",
+    "link": "https://36kr.com/newsflashes/3854391903048713?f=rss",
+    "summary": "据报道，在私募信贷行业面临投资者信心下滑之际，欧洲央行已将一项针对银行与私募信贷关联的调查所覆盖的银行数量扩大一倍。知情人士透露，欧洲央行今年要求20多家银行提供更多有关其敞口的细节，高于先前评估的十几家。据了解，与私募信贷有实质性关联的银行将必须每年报告相关细节。（界面）",
+    "pubDate": "2026-06-15 20:10:12  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "崔东树：近期新能源经销商的厂家和渠道库存面临市场零售低于预期",
+    "link": "https://36kr.com/newsflashes/3854384311932164?f=rss",
+    "summary": "36氪获悉，乘联分会秘书长崔东树发文表示，2026年5月月末全国乘用车行业库存348万辆，较上月下降6万辆，较2025年5月增3万辆，形成库存持续走平的趋势。其中厂家库存占比30.3%，相对偏高。2026年5月乐观度27%，6月初的5月月后满意度为26%，预期低但满意度更差，主要是高油价的冲击太大。团队对6月市场的乐观度降到31%，这是近期市场乐观度判断的历史偏低预测指数。",
+    "pubDate": "2026-06-15 20:02:28  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "福克斯公司将以每股160美元的现金和股票收购Roku",
+    "link": "https://36kr.com/newsflashes/3854379226731779?f=rss",
+    "summary": "据报道，福克斯公司将以每股160美元的现金和股票收购Roku，对Roku的企业估值约为220亿美元。（界面）",
+    "pubDate": "2026-06-15 19:57:18  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "东阳光：拟发行股份收购东数一号等公司股权，交易总价80.5亿元",
+    "link": "https://36kr.com/newsflashes/3854373478749190?f=rss",
+    "summary": "36氪获悉，6月15日，东阳光正式发布收购秦淮数据交易草案，拟通过发行股份的方式直接及间接取得东数一号70.00%股权，资产交易金额合计为80.5亿元，并向不超过35名特定投资者发行股份募集配套资金不超过80亿元。交易完成后将间接持有秦淮数据的100%股权。",
+    "pubDate": "2026-06-15 19:51:27  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "云南锗业：公司股价存在非理性炒作风险",
+    "link": "https://36kr.com/newsflashes/3854370547291392?f=rss",
+    "summary": "36氪获悉，云南锗业公告，公司的市盈率和市净率显著高于同行业平均水平，存在市场情绪过热、非理性炒作风险。截至目前，公司主要业务为锗系列产品的精深加工及研究开发。2025年度公司营业收入10.66亿元，其中化合物半导体材料产品（包括砷化镓晶片、磷化铟晶片）营业收入约1.38亿元，占营业收入的比重为12.93%，占比较低，化合物半导体材料产品毛利仅占公司合并报表口径毛利的14.29%。请投资者充分关注磷化铟晶片价格涨跌趋势及未来供需关系变化均存在较大不确定性。",
+    "pubDate": "2026-06-15 19:48:28  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "常山北明：张玮扬辞任董事长、董事",
+    "link": "https://36kr.com/newsflashes/3854355498275844?f=rss",
+    "summary": "36氪获悉，常山北明公告，公司董事会于近日收到公司董事长张玮扬递交的辞职报告，张玮扬因组织安排、工作调动原因，申请辞去公司第九届董事会董事长、董事等职务，辞职报告自送达公司董事会时生效，辞职生效后，张玮扬将不再担任公司及子公司任何职务。在新任董事长选举产生前，由公司董事、副董事长李锋代为履行董事长职责。",
+    "pubDate": "2026-06-15 19:33:10  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "盛达资源：实际控制人赵满堂被证监会立案调查",
+    "link": "https://36kr.com/newsflashes/3854349810668546?f=rss",
+    "summary": "36氪获悉，盛达资源公告，公司实际控制人赵满堂于2026年6月15日收到证监会下发的《立案告知书》，因涉嫌信息披露违法违规，证监会决定对其立案。赵满堂将积极配合调查并履行信息披露义务。",
+    "pubDate": "2026-06-15 19:27:22  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "中荣股份：拟4000万元至8000万元回购公司股份",
+    "link": "https://36kr.com/newsflashes/3854343231870209?f=rss",
+    "summary": "36氪获悉，中荣股份公告，公司拟使用自有资金以集中竞价方式回购公司发行的部分股份，并在未来适宜时机将回购股份用于股权激励计划或员工持股计划。回购股份的资金总额不低于4000万元（含），不超过8000万元（含）；回购股份的价格不超过26.83元/股（含）。",
+    "pubDate": "2026-06-15 19:20:41  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "支付宝：政务AI助手“晓政”服务突破1亿次",
+    "link": "https://36kr.com/newsflashes/3854323746018311?f=rss",
+    "summary": "36氪获悉，支付宝宣布，旗下政务AI助手“晓政”累计服务次数突破1亿次。截至目前，“晓政”服务已覆盖16000项服务事项，成功落地助力70余家部委及省级政务机构，业务场景全面覆盖公积金、人社、公安、不动产等民生领域。",
+    "pubDate": "2026-06-15 19:00:52  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "锡业股份：以1.77亿元竞得赤峰大井子锡业100%股权",
+    "link": "https://36kr.com/newsflashes/3854322277405952?f=rss",
+    "summary": "36氪获悉，锡业股份公告，公司于2026年6月15日与转让方赤峰大井子矿业有限公司签订《产权交易合同》，以标的转让底价1.77亿元受让赤峰大井子锡业有限公司100%股权。本次交易旨在整合国内锡冶炼产能，推动产业协同发展，巩固公司在全球锡行业的领先地位。交易完成后，大井子锡业将纳入公司合并报表范围。",
+    "pubDate": "2026-06-15 18:59:22  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "巴基斯坦央行维持基准利率在11.5%不变",
+    "link": "https://36kr.com/newsflashes/3854312346391814?f=rss",
+    "summary": "巴基斯坦央行维持基准利率在11.5%不变，符合预期。（界面）",
+    "pubDate": "2026-06-15 18:49:16  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "常铝股份：控股股东拟协议转让22.38%股份，股票复牌",
+    "link": "https://36kr.com/newsflashes/3854309559489799?f=rss",
+    "summary": "36氪获悉，常铝股份公告，公司控股股东齐鲁财金与济新产发签订《股份转让协议》，拟以5.79元/股转让其持有的公司22.38%股份，总价款约13.38亿元。若交易完成，公司控股股东将变更为济新产发，实际控制人将变更为济南新旧动能转换起步区管理委员会。公司股票自2026年6月16日起复牌。本次交易尚需取得合规性确认及办理过户手续，存在不确定性。",
+    "pubDate": "2026-06-15 18:46:26  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "小雨智造与地瓜机器人正式宣布达成战略合作",
+    "link": "https://36kr.com/newsflashes/3854300006913289?f=rss",
+    "summary": "36氪获悉，6月12日，小雨智造与地瓜机器人正式宣布达成战略合作，双方将围绕“工业具身大脑+端侧大算力”展开深度协同，推动具身智能技术从实验室走向工业产线，共同打造面向工业制造的高性能软硬一体化解决方案，助力智能制造迈向新阶段。",
+    "pubDate": "2026-06-15 18:36:43  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "从一个想法到一个产品，年轻开发者把生活观察写进代码",
+    "link": "https://36kr.com/p/3854243718550528?f=rss",
+    "summary": "6月14日，HarmonyOS创新赛·极客赛道决赛在HDC华为开发者大会（HDC 2026）落下帷幕。&nbsp; 此前，20支入围队伍从众多参赛作品中脱颖而出，在36小时极限编码中抢先使用HarmonyOS 7，围绕AI、3D空间化、用户体验等方向展开比拼。随着最终获奖名单揭晓，比赛的结果已经落定，但比奖项本身更值得被看见的，是 这些作品背后一批年轻开发者正在关注什么，又试图用代码回答什么。 翻开参赛作品的名单，我们意外地发现，这其中很多的开发者都还是在校学生，没有成熟公司的资源，没有完整的商业团队，甚至可能没有充足的开发经验。但在这场比赛里， 他们把自己的生活观察、专业背景和兴趣经验...",
+    "pubDate": "2026-06-15 17:46:34  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
   },
   {
     "title": "“极佳视界”再获10亿元B2轮融资",
@@ -654,6 +1382,30 @@
     "pubDate": "2026-06-15 07:57:48  +0800",
     "source": "36Kr",
     "category": "tech-cn"
+  },
+  {
+    "title": "Why people should work together to shape the economy",
+    "link": "https://www.nature.com/articles/d41586-026-01889-8",
+    "summary": "Nature, Published online: 15 June 2026; doi:10.1038/d41586-026-01889-8 An economist sets out how communities can direct economic decisions and not just endure their consequences.",
+    "pubDate": "2026-06-15",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "How AI is revealing the secret lives of animals from hummingbirds to pumas",
+    "link": "https://www.nature.com/articles/d41586-026-01887-w",
+    "summary": "Nature, Published online: 15 June 2026; doi:10.1038/d41586-026-01887-w Advances in machine learning and other technologies are helping researchers to trace the movements, landmarks and social practices of wildlife.",
+    "pubDate": "2026-06-15",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "In the field — and sometimes in the lab — the simplest tool is best",
+    "link": "https://www.nature.com/articles/d41586-026-01885-y",
+    "summary": "Nature, Published online: 15 June 2026; doi:10.1038/d41586-026-01885-y Technology has led to unprecedented innovation, but common household items can help make research more reproducible — and accessible.",
+    "pubDate": "2026-06-15",
+    "source": "Nature",
+    "category": "science"
   },
   {
     "title": "Bones of Iron Age skeleton were whittled into tools",

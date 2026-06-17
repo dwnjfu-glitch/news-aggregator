@@ -16,12 +16,364 @@
     "category": "tech-cn"
   },
   {
+    "title": "BBC announces 550 job cuts as first part of £500m savings plan",
+    "link": "https://www.bbc.com/news/articles/cvgmqrrlej5o?at_medium=RSS&at_campaign=rss",
+    "summary": "In an email to staff, the corporation laid out proposals for the initial 200 job losses in the news division.",
+    "pubDate": "Wed, 17 Jun 2026 16:19:56 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Serial killer who murdered eight women in US imprisoned for life",
+    "link": "https://www.bbc.com/news/articles/clyw29kvlydo?at_medium=RSS&at_campaign=rss",
+    "summary": "In fiery exchange, judge sentenced him to three life sentences plus 25 years to life on four other charges, all running consecutively.",
+    "pubDate": "Wed, 17 Jun 2026 16:14:59 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "PayPal Ventures shutters as company restructuring continues",
+    "link": "https://techcrunch.com/2026/06/17/paypal-ventures-shutters-as-company-restructuring-continues/",
+    "summary": "The corporate venture arm ends after 10 years and 80 investments.",
+    "pubDate": "Wed, 17 Jun 2026 16:10:13 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Driving test wait time target will not be met until autumn next year",
+    "link": "https://www.bbc.com/news/articles/cd7wv0xqvryo?at_medium=RSS&at_campaign=rss",
+    "summary": "The Transport Secretary was aiming to reduce the backlog to seven weeks by the autumn.",
+    "pubDate": "Wed, 17 Jun 2026 15:37:05 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Agentic coding deserves more than a chat box bolted onto VS Code",
+    "link": "https://github.com/evanklem/polypore",
+    "summary": "Article URL: https://github.com/evanklem/polypore Comments URL: https://news.ycombinator.com/item?id=48571811 Points: 5 # Comments: 0",
+    "pubDate": "Wed, 17 Jun 2026 15:26:29 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The slowtech revolution is here to kill your phone addiction and rescue your attention span",
+    "link": "https://techcrunch.com/2026/06/17/the-slowtech-revolution-is-here-to-kill-your-phone-addiction-and-rescue-your-attention-span/",
+    "summary": "“People just really want to take back control of their time, their lives, their attention... They’re down for whatever helps them do that.”",
+    "pubDate": "Wed, 17 Jun 2026 15:24:41 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "French physicist and media star loses doctorate after plagiarism investigation",
+    "link": "https://www.science.org/content/article/french-physicist-and-media-star-loses-doctorate-after-plagiarism-investigation",
+    "summary": "Article URL: https://www.science.org/content/article/french-physicist-and-media-star-loses-doctorate-after-plagiarism-investigation Comments URL: https://news.ycombinator.com/item?id=48571767 Points: 28 # Comments: 10",
+    "pubDate": "Wed, 17 Jun 2026 15:23:49 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "'Travesty' if Stokes doesn't captain England again - Vaughan",
+    "link": "https://www.bbc.com/sport/cricket/articles/czx5472ekxwo?at_medium=RSS&at_campaign=rss",
+    "summary": "Former skipper Michael Vaughan says Ben Stokes being stripped of the England Test captaincy over him breaking the midnight curfew would be a \"travesty\"'.",
+    "pubDate": "Wed, 17 Jun 2026 15:13:29 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Volkswagen started blocking GrapheneOS users",
+    "link": "https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3",
+    "summary": "Article URL: https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3 Comments URL: https://news.ycombinator.com/item?id=48571526 Points: 71 # Comments: 45",
+    "pubDate": "Wed, 17 Jun 2026 15:04:47 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "具透 | 动态应用网格、Liquid Glass 微调，watchOS 27 首个开发者测试版一览",
     "link": "https://sspai.com/post/110958",
     "summary": "AI 之外，watchOS 27 中还有这些新功能。 查看全文",
     "pubDate": "Wed, 17 Jun 2026 15:00:00 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
+    "link": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
+    "summary": "If physical AI is going to match the accomplishments of LLMs, there's a data problem that needs to be solved.",
+    "pubDate": "Wed, 17 Jun 2026 15:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Olympic medallist Simpson collapses at mile event",
+    "link": "https://www.bbc.com/sport/athletics/articles/c932gj9454eo?at_medium=RSS&at_campaign=rss",
+    "summary": "Olympic medalist Jenny Simpson receiving treatment in hospital following a \"medical incident\" at an event in Raleigh, North Carolina.",
+    "pubDate": "Wed, 17 Jun 2026 14:53:33 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Why stdx is not on crates.io",
+    "link": "https://kerkour.com/stdx-cratesio",
+    "summary": "Article URL: https://kerkour.com/stdx-cratesio Comments URL: https://news.ycombinator.com/item?id=48571266 Points: 34 # Comments: 27",
+    "pubDate": "Wed, 17 Jun 2026 14:45:09 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Toy Story 5 splits critics, but most praise its 'cautionary' message about tech",
+    "link": "https://www.bbc.com/news/articles/c3wyxz7pw0vo?at_medium=RSS&at_campaign=rss",
+    "summary": "The fifth instalment of the animated franchise sees Tom Hanks, Tim Allen and Joan Cusack return.",
+    "pubDate": "Wed, 17 Jun 2026 14:43:04 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Prince and Princess of Wales join Royal Ascot racegoers",
+    "link": "https://www.bbc.com/news/articles/cwyd6xl5565o?at_medium=RSS&at_campaign=rss",
+    "summary": "About 290,000 people are expected to attend this week.",
+    "pubDate": "Wed, 17 Jun 2026 14:38:29 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Ex-health worker tried to sell Catherine's medical records",
+    "link": "https://www.bbc.com/news/articles/c8r2gmn48v8o?at_medium=RSS&at_campaign=rss",
+    "summary": "The individual tried to access the princess' records while she was having abdominal surgery.",
+    "pubDate": "Wed, 17 Jun 2026 14:31:31 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Epic Games announces Lore version control system",
+    "link": "https://lore.org/",
+    "summary": "Article URL: https://lore.org/ Comments URL: https://news.ycombinator.com/item?id=48571081 Points: 265 # Comments: 136",
+    "pubDate": "Wed, 17 Jun 2026 14:30:27 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Abuse hurled at judge as first group of rioters sentenced for Ely disorder",
+    "link": "https://www.bbc.com/news/articles/clye850yjvdo?at_medium=RSS&at_campaign=rss",
+    "summary": "The deaths of teenagers Kyrees Sullivan and Harvey Evans in 2023 sparked hours of violence and vandalism.",
+    "pubDate": "Wed, 17 Jun 2026 14:30:11 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "AI demands more engineering discipline. Not less",
+    "link": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
+    "summary": "Article URL: https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline Comments URL: https://news.ycombinator.com/item?id=48570948 Points: 101 # Comments: 32",
+    "pubDate": "Wed, 17 Jun 2026 14:20:44 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Final push for votes in high stakes Makerfield by-election",
+    "link": "https://www.bbc.com/news/articles/ckg42yxg1j3o?at_medium=RSS&at_campaign=rss",
+    "summary": "Candidates are making their final pitch for votes in the Makerfield by-election in a contest that could determine who becomes the next prime minister.",
+    "pubDate": "Wed, 17 Jun 2026 14:19:41 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
+    "link": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
+    "summary": "Pramaana will focus on highly sensitive verticals like law, drug discovery, and tax preparation — where errors can be costly and reliability is at a premium.",
+    "pubDate": "Wed, 17 Jun 2026 14:15:22 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "ICE Appears to Be Buying Immigrants' Tax Identifiers from a Data Broker",
+    "link": "https://www.404media.co/ice-appears-to-be-buying-immigrants-tax-identifiers-from-a-data-broker/",
+    "summary": "Article URL: https://www.404media.co/ice-appears-to-be-buying-immigrants-tax-identifiers-from-a-data-broker/ Comments URL: https://news.ycombinator.com/item?id=48570763 Points: 93 # Comments: 37",
+    "pubDate": "Wed, 17 Jun 2026 14:06:09 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "SpaceX alum nabs $22M to turn rocket engines into geothermal power plants",
+    "link": "https://techcrunch.com/2026/06/17/spacex-alum-nabs-22m-to-turn-rocket-engines-into-geothermal-power-plants/",
+    "summary": "Critical Energy is turning rocket engines into geothermal power plants, and it wants to build 300 GW per year by 2045.",
+    "pubDate": "Wed, 17 Jun 2026 13:30:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Iran sends tankers loaded with oil past US military blockade",
+    "link": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss",
+    "summary": "Three Iranian tankers loaded with crude oil have passed the US blockade line in the Gulf of Oman, ship-tracking data shows.",
+    "pubDate": "Wed, 17 Jun 2026 13:27:47 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The Croatia players England should look out for",
+    "link": "https://www.bbc.com/sport/football/articles/cy04g9ldneeo?at_medium=RSS&at_campaign=rss",
+    "summary": "England face Croatia in their World Cup opener. BBC Sport takes a look at the Croatian players to look out for.",
+    "pubDate": "Wed, 17 Jun 2026 13:05:54 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Want your images back? Sure... That'll be $5!",
+    "link": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
+    "summary": "Article URL: https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars Comments URL: https://news.ycombinator.com/item?id=48569954 Points: 418 # Comments: 166",
+    "pubDate": "Wed, 17 Jun 2026 13:05:03 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Why thinking out loud with someone beats thinking alone",
+    "link": "https://www.thesignalist.io/s/the-dialogue-dividend/",
+    "summary": "Article URL: https://www.thesignalist.io/s/the-dialogue-dividend/ Comments URL: https://news.ycombinator.com/item?id=48569894 Points: 12 # Comments: 1",
+    "pubDate": "Wed, 17 Jun 2026 13:00:38 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The Gemini-Powered Google Home Speaker Is Finally Here",
+    "link": "https://www.wired.com/story/the-gemini-powered-google-home-speaker-is-finally-here/",
+    "summary": "Arriving six years after Google’s last smart speaker, the new HomePod-style device was redesigned to play host to Gemini’s chatbot.",
+    "pubDate": "Wed, 17 Jun 2026 13:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Donaldson sex abuse accusers 'not sufficiently reliable' for a guilty verdict, jury told",
+    "link": "https://www.bbc.com/news/articles/cm2rxv4m1zdo?at_medium=RSS&at_campaign=rss",
+    "summary": "Sir Jeffrey Donaldson, the former Democratic Unionist Party leader, is on trial for 18 sex abuse charges, including one count of rape, all of which he denies.",
+    "pubDate": "Wed, 17 Jun 2026 12:56:15 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Government to apologise to victims of  forced adoptions in England",
+    "link": "https://www.bbc.com/news/articles/cx24857pprko?at_medium=RSS&at_campaign=rss",
+    "summary": "An apology will be issued on behalf of the state over the historic practice, the education secretary says.",
+    "pubDate": "Wed, 17 Jun 2026 12:41:22 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Canadian pension giant joins race to fund India’s AI-fueled data center boom",
+    "link": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
+    "summary": "The Canadian pension giant will acquire an 8.2% stake in CtrlS, a tech giant that operates more than 15 data centers across India.",
+    "pubDate": "Wed, 17 Jun 2026 12:38:09 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Harry and Meghan to bring children to UK next month",
+    "link": "https://www.bbc.com/news/articles/ce3eqkzy2z4o?at_medium=RSS&at_campaign=rss",
+    "summary": "It will be the first time the Duke of Sussex has brought his children to the UK in four years.",
+    "pubDate": "Wed, 17 Jun 2026 12:32:48 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "I Found 22 Early Prime Day Deals That Are Worth Shopping Now",
+    "link": "https://www.wired.com/story/early-prime-day-deals-june-2026/",
+    "summary": "We’ve trawled the depths of Amazon to find the best deals on gear we’ve tested.",
+    "pubDate": "Wed, 17 Jun 2026 12:22:45 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "DeepL acquires Mixhalo for live-event audio streaming and translation",
+    "link": "https://techcrunch.com/2026/06/17/deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation/",
+    "summary": "With this acquisition, DeepL is opening an office in San Francisco to expand its U.S. business.",
+    "pubDate": "Wed, 17 Jun 2026 12:14:44 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
+    "link": "https://wpvip.com/future-of-the-web-2026/",
+    "summary": "Article URL: https://wpvip.com/future-of-the-web-2026/ Comments URL: https://news.ycombinator.com/item?id=48569278 Points: 622 # Comments: 331",
+    "pubDate": "Wed, 17 Jun 2026 12:11:27 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "MicroUI – A tiny, portable, immediate-mode UI library written in ANSI C",
+    "link": "https://github.com/rxi/microui",
+    "summary": "Article URL: https://github.com/rxi/microui Comments URL: https://news.ycombinator.com/item?id=48569205 Points: 85 # Comments: 27",
+    "pubDate": "Wed, 17 Jun 2026 12:04:28 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The Best Robot Lawn Mowers (2026): TerraMow, Mammotion",
+    "link": "https://www.wired.com/gallery/best-robot-lawn-mowers/",
+    "summary": "Smart mowers are an expensive alternative to old-fashioned yard work, but they’re finally good enough to consider if you’d rather sip an iced tea and watch a robot tame your lawn.",
+    "pubDate": "Wed, 17 Jun 2026 12:03:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Hull could face points deduction in Premier League",
+    "link": "https://www.bbc.com/sport/football/articles/czde31803e9o?at_medium=RSS&at_campaign=rss",
+    "summary": "Winning the play-off final means Hull must sell players before the end of the month to avoid a potential points deduction in the Premier League.",
+    "pubDate": "Wed, 17 Jun 2026 12:01:36 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Native NACS ports, infotainment upgrade for MY27 Porsche Taycan",
+    "link": "https://arstechnica.com/cars/2026/06/native-nacs-ports-infotainment-upgrade-for-my27-porsche-taycan/",
+    "summary": "The bigger battery is standard and there are now simulated \"E-Shifts.\"",
+    "pubDate": "Wed, 17 Jun 2026 12:00:45 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "CVS Is Switching to Aluminum Pill Bottles",
+    "link": "https://www.wired.com/story/cvs-is-switching-to-aluminum-pill-bottles/",
+    "summary": "They’re much more recyclable than the current plastic ones, and they will still probably be locked away behind that anti-theft plexiglass.",
+    "pubDate": "Wed, 17 Jun 2026 12:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "TV personality Ashley Cain accused of using sexist and misogynistic language",
+    "link": "https://www.bbc.com/news/articles/cvg59v3ypx9o?at_medium=RSS&at_campaign=rss",
+    "summary": "The former footballer is known for presenting BBC Three's Ashley Cain: Into the Danger Zone.",
+    "pubDate": "Wed, 17 Jun 2026 11:55:14 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Best Laptops (2026): My Top Recommendations",
+    "link": "https://www.wired.com/story/best-laptops/",
+    "summary": "I’ve been reviewing laptops for over a decade, and this is my advice on how to find the right laptop for you.",
+    "pubDate": "Wed, 17 Jun 2026 11:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Search for six-year-old Ebola patient after armed men storm DR Congo hospital",
+    "link": "https://www.bbc.com/news/articles/cvgep4l397eo?at_medium=RSS&at_campaign=rss",
+    "summary": "Health facilities have come under attack during the current outbreak as a result of misinformation and fear.",
+    "pubDate": "Wed, 17 Jun 2026 11:26:39 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "How sweltering Scotland can handle World Cup heat",
+    "link": "https://www.bbc.com/sport/football/articles/cx26geg0elgo?at_medium=RSS&at_campaign=rss",
+    "summary": "With Scotland's World Cup games expected to take place in temperatures of around 30C, Steve Clarke and his team will have to battle the conditions as well as Morocco and Brazil.",
+    "pubDate": "Wed, 17 Jun 2026 11:16:20 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Windows and Linux users: The deadline to update Secure Boot keys is near",
+    "link": "https://arstechnica.com/security/2026/06/windows-and-linux-users-the-deadline-to-update-secure-boot-keys-is-near/",
+    "summary": "What you need to know about the expiration of keys securing your machine's boot sequence.",
+    "pubDate": "Wed, 17 Jun 2026 11:15:17 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
   },
   {
     "title": "在香港骑共享单车：访客视角的经验分享",
@@ -72,6 +424,14 @@
     "category": "general"
   },
   {
+    "title": "Humans may have hidden regenerative powers",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260617032207.htm",
+    "summary": "Scientists have taken a surprising step toward unlocking regeneration in mammals, showing that the ability to rebuild complex body parts may not be lost after all—it may simply be switched off. Using a two-stage treatment, researchers redirected the body’s normal healing response away from scar f...",
+    "pubDate": "Wed, 17 Jun 2026 10:25:31 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "Norway's crown princess undergoes successful lung transplant, palace says",
     "link": "https://www.bbc.com/news/articles/c1eyg37qyqjo?at_medium=RSS&at_campaign=rss",
     "summary": "Crown Princess Mette-Marit, who suffered from pulmonary fibrosis, will now spend several weeks recovering in hospital.",
@@ -120,11 +480,27 @@
     "category": "general"
   },
   {
+    "title": "Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload",
+    "link": "https://brevio.pro",
+    "summary": "Article URL: https://brevio.pro Comments URL: https://news.ycombinator.com/item?id=48568023 Points: 59 # Comments: 14",
+    "pubDate": "Wed, 17 Jun 2026 09:48:59 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "Real Madrid sign Silva on free transfer",
     "link": "https://www.bbc.com/sport/football/articles/c2lyzp49q0xo?at_medium=RSS&at_campaign=rss",
     "summary": "Bernado Silva, who left Manchester City at the end of the season, links up with new Real Madrid manager Jose Mourinho.",
     "pubDate": "Wed, 17 Jun 2026 09:47:45 GMT",
     "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Pakistan ends 'luxury tax' on menstrual products, contraceptives. Will prices drop?",
+    "link": "https://www.npr.org/2026/06/17/g-s1-128442/menstrual-products-contraceptives-pakistan-luxury-tax",
+    "summary": "In Pakistan, taxes on menstrual products can add up. Activists have long worked to change this. Now a new budget wipes out the 18% sales tax. But questions remain about the impact on prices.",
+    "pubDate": "Wed, 17 Jun 2026 09:46:18 -0400",
+    "source": "NPR",
     "category": "general"
   },
   {
@@ -134,6 +510,14 @@
     "pubDate": "Wed, 17 Jun 2026 09:37:58 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Show HN: High-Res Neural Cellular Automata",
+    "link": "https://cells2pixels.github.io/",
+    "summary": "Neural CAs model self-organizing pattern formation. Now they can generate patterns at HD resolution in real-time, enabled by turning each CA cell into a Neural Field. Try 3 demos: grow a pattern from a seed (and damage it, it heals), synthesize PBR textures that can regenerate, or create 3D textu...",
+    "pubDate": "Wed, 17 Jun 2026 09:28:36 +0000",
+    "source": "Hacker News",
+    "category": "tech"
   },
   {
     "title": "PM warns Burnham against immediate leadership challenge if he wins by-election",
@@ -149,6 +533,30 @@
     "summary": "Israeli nationalists are increasingly flouting a convention on how faiths share the al-Aqsa mosque compound.",
     "pubDate": "Wed, 17 Jun 2026 09:13:34 GMT",
     "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+    "link": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+    "summary": "Article URL: https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index Comments URL: https://news.ycombinator.com/item?id=48567759 Points: 520 # Comments: 276",
+    "pubDate": "Wed, 17 Jun 2026 09:12:00 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Making budget models punch above their weight with a smart Rust harness",
+    "link": "https://yogthos.net/posts/2026-06-08-dirge-code.html",
+    "summary": "Comments",
+    "pubDate": "Wed, 17 Jun 2026 09:10:19 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Taiwan says Chinese pressure over the island is the \"new normal\"",
+    "link": "https://www.npr.org/2026/06/17/g-s1-128550/taiwan-says-chinese-pressure-over-the-island-is-the-new-normal",
+    "summary": "Taiwan's Foreign Ministry on Tuesday said the scholars' passports and mobile phones were confiscated, and they were detained in Mombasa for more than 20 hours before being allowed to leave the country.",
+    "pubDate": "Wed, 17 Jun 2026 09:08:37 -0400",
+    "source": "NPR",
     "category": "general"
   },
   {
@@ -168,12 +576,36 @@
     "category": "general"
   },
   {
+    "title": "Most of the CVE-2026-4020 attackers are the same client",
+    "link": "https://honeylabs.net/blog/the-cloud-fleet-behind-cve-2026-4020",
+    "summary": "Article URL: https://honeylabs.net/blog/the-cloud-fleet-behind-cve-2026-4020 Comments URL: https://news.ycombinator.com/item?id=48567574 Points: 4 # Comments: 0",
+    "pubDate": "Wed, 17 Jun 2026 08:47:14 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Ozempic and Wegovy linked to surprising drop in violent behavior",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260617032152.htm",
+    "summary": "A Rutgers study suggests GLP-1 drugs such as Ozempic and Wegovy may weaken the link between impulsive tendencies and violent behavior. The surprising finding hints that these medications could affect how people act on impulses, though researchers stress that cause and effect have not been proven.",
+    "pubDate": "Wed, 17 Jun 2026 08:38:50 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "派早报：SpaceX 宣布收购 Cursor、字节跳动推出 Seedance 2.0 Mini 等",
     "link": "https://sspai.com/post/111124",
     "summary": "夏普推出 AQUOS R11 手机、理光宣布 GR 系列调整建议零售价等。 查看全文",
     "pubDate": "Wed, 17 Jun 2026 08:20:55 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "Scientists discover spider that disguises itself as a parasitic fungus",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260617032201.htm",
+    "summary": "Scientists have discovered a new Amazonian spider with an astonishing disguise: it looks like a parasitic fungus. The species, Taczanowskia waska, mimics both the appearance and behavior of the fungus, helping it stay hidden from predators and potentially catch prey more easily.",
+    "pubDate": "Wed, 17 Jun 2026 08:19:43 EDT",
+    "source": "Science Daily",
+    "category": "science"
   },
   {
     "title": "'It's easy to romanticise toxicity' says star of film about step-siblings' relationship",
@@ -184,6 +616,22 @@
     "category": "general"
   },
   {
+    "title": "On the brink of extinction, the vaquita gets a digital lifeline",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260616102223.htm",
+    "summary": "Scientists have digitally preserved the world’s most endangered marine mammal by creating highly detailed 3D models of a vaquita skeleton using advanced imaging technology. The virtual archive provides an unprecedented look at the species and could help inspire conservation efforts before the tin...",
+    "pubDate": "Wed, 17 Jun 2026 08:01:37 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Hacker News but for Independent Blogs",
+    "link": "https://bubbles.town/",
+    "summary": "Article URL: https://bubbles.town/ Comments URL: https://news.ycombinator.com/item?id=48567155 Points: 337 # Comments: 110",
+    "pubDate": "Wed, 17 Jun 2026 07:49:44 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "Jeremy Clarkson reveals prostate cancer diagnosis on farming show",
     "link": "https://www.bbc.com/news/articles/cqj14q700rko?at_medium=RSS&at_campaign=rss",
     "summary": "The former Top Gear presenter did not clarify what type of cancer he had been diagnosed with.",
@@ -192,11 +640,51 @@
     "category": "general"
   },
   {
+    "title": "Common plastic chemical linked to lifelong anxiety in new study",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260616102221.htm",
+    "summary": "Exposure to a common plastic chemical before and shortly after birth may have lasting effects on behavior. Researchers found that male rats exposed early in life to DEHP—a plasticizer used in products ranging from medical devices to toys—showed significantly higher anxiety as adults, even long af...",
+    "pubDate": "Wed, 17 Jun 2026 07:35:01 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "Japan raids ice cream giants over price-fixing allegations",
     "link": "https://www.bbc.com/news/articles/c0ly0k88e61o?at_medium=RSS&at_campaign=rss",
     "summary": "The investigation on alleged cartel pricing of ice cream comes as Japan faces record summer temperatures.",
     "pubDate": "Wed, 17 Jun 2026 07:33:39 GMT",
     "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "GLM 5.2 Performance Benchmarks",
+    "link": "https://artificialanalysis.ai/models/glm-5-2",
+    "summary": "Article URL: https://artificialanalysis.ai/models/glm-5-2 Comments URL: https://news.ycombinator.com/item?id=48567004 Points: 103 # Comments: 37",
+    "pubDate": "Wed, 17 Jun 2026 07:30:51 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "R Core team wins Rousseeuw Prize for Statistics 2026",
+    "link": "https://rousseeuwprize.org/2026",
+    "summary": "Comments",
+    "pubDate": "Wed, 17 Jun 2026 07:20:21 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Senate to proceed with intel chief confirmation hearing despite Trump's call to delay",
+    "link": "https://www.npr.org/2026/06/17/nx-s1-5859298/jay-clayton-confirmation-hearing-director-of-national-intelligence",
+    "summary": "The Senate Intelligence Committee said it will move ahead with the confirmation process for Jay Clayton as Director of National Intelligence Today. But President Trump is calling for a delay.",
+    "pubDate": "Wed, 17 Jun 2026 07:18:03 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Trump to face questions at G7 press conference. And, Tuesday's primary results",
+    "link": "https://www.npr.org/2026/06/17/g-s1-128547/up-first-newsletter-tentative-iran-ceasefire-agreement-g7-trump-kevin-warsh-georgia-primaries",
+    "summary": "Trump has touted his tentative agreement with Iran at the G7 summit. Today, he is expected to field questions at a press conference as the summit wraps up. And, a look at Tuesday's primary election results.",
+    "pubDate": "Wed, 17 Jun 2026 07:14:16 -0400",
+    "source": "NPR",
     "category": "general"
   },
   {
@@ -228,6 +716,14 @@
     "link": "https://hugodaniel.com/posts/color-picking-oklch/",
     "summary": "Comments",
     "pubDate": "Wed, 17 Jun 2026 05:45:54 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "2026-06-16 Robinhood Layoff Translation",
+    "link": "https://layoff-translator.pages.dev/layoffs/2026-06-16-robinhood",
+    "summary": "Comments",
+    "pubDate": "Wed, 17 Jun 2026 05:22:27 -0500",
     "source": "Lobsters",
     "category": "tech"
   },
@@ -461,6 +957,14 @@
     "summary": "Article URL: https://runtimewire.com/article/openai-leaked-financials-altman-compute-burn Comments URL: https://news.ycombinator.com/item?id=48565130 Points: 150 # Comments: 125",
     "pubDate": "Wed, 17 Jun 2026 02:47:29 +0000",
     "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The Impact of Google's Manifest Version 3 Update on Ad Blocker Effectiveness",
+    "link": "https://arxiv.org/abs/2503.01000",
+    "summary": "Comments",
+    "pubDate": "Wed, 17 Jun 2026 02:30:42 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -808,12 +1312,252 @@
     "category": "general"
   },
   {
+    "title": "Can anyone look cool wearing Snap’s $2,000 glasses?",
+    "link": "https://www.theverge.com/report/951481/snap-specs-wearables-smart-glasses-fashion",
+    "summary": "Yesterday, Snap debuted its new $2,195 Specs glasses. In an interview with CNBC, Snap CEO Evan Spiegel described the Specs as something the company had been working on for more than 12 years, an attempt to \"bring computing into the world\" and \"make it more human.\" He positioned them as a device t...",
+    "pubDate": "2026-06-17T12:13:34-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "We got free GTA V upgrades before GTA VI",
+    "link": "https://www.theverge.com/games/951533/gta-v-ps5-xbox-series-x-upgrade",
+    "summary": "Rockstar Games will allow players to upgrade older versions of Grand Theft Auto V for PlayStation 5 and Xbox Series X / S for free just months before the launch of GTA VI. Starting June 18th, players with any version of GTA V on PS4 or the digital version on Xbox One can get the [&#8230;]",
+    "pubDate": "2026-06-17T11:45:36-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "SanDisk’s new PlayStation 5 SSD will cost you more than three PS5 Pros",
+    "link": "https://www.theverge.com/tech/951527/sandisk-optimus-gx-pro-850p-nvme-ssd-8tb-ps5-playstation-sony",
+    "summary": "SanDisk has announced an expensive way to boost the PlayStation 5's storage capacity. The company's new Optimus GX PRO 850P NVMe SSD is an officially licensed PS5 accessory in capacities ranging from 1TB to 8TB. The largest option can store up to 200 PS5 games (based on average installation sizes...",
+    "pubDate": "2026-06-17T11:34:29-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Paramount Plus is two dollars for two months of ad-free viewing",
+    "link": "https://www.theverge.com/gadgets/950929/paramount-plus-two-month-deal-sale",
+    "summary": "Paramount Plus is offering new and former subscribers a discounted rate until June 25th, 2026. You’ll pay 99 cents per month for the first two months, with the Premium plan automatically renewing for $13.99 per month after that, and the more limited Essential plan renewing for $8.99.&#160; Both p...",
+    "pubDate": "2026-06-17T10:30:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "In a big year for horror, Widow’s Bay still stands apart",
+    "link": "https://www.theverge.com/entertainment/951391/widows-bay-season-1-finale-apple-tv-horror",
+    "summary": "Horror is having a moment. In 2026, the genre is especially well-represented: new blood is dominating the box office through films like Backrooms and Obsession, established names like Sam Raimi and Damian McCarthy are at the top of their game, and long-running franchises like 28 Years Later and R...",
+    "pubDate": "2026-06-17T10:30:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "How to find the best deals during Amazon’s Prime Day sale",
+    "link": "https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find",
+    "summary": "Amazon’s Prime Day is one of the biggest shopping events of the year, and the four-day sale for 2026 begins June 23rd at 3:01AM ET and ends at the same time on June 27th. It will grant Prime members access to some of the best prices of the year on Amazon devices, as well as [&#8230;]",
+    "pubDate": "2026-06-17T10:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "In Toy Story 5, the problem really is these damn phones (and tablets)",
+    "link": "https://www.theverge.com/entertainment/950739/toy-story-5-review",
+    "summary": "The Toy Story franchise began with a story about a vintage doll feeling threatened by the arrival of an electronic action figure. Woody and Buzz's rivalry embodied a shift that was happening in the '90s as children's toys were becoming more technologically sophisticated, and while toys have gotte...",
+    "pubDate": "2026-06-17T10:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "AI search grounded in Facebook posts? What could go wrong?",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/951099/meta-ai-mode-search-hands-on",
+    "summary": "AI is pretty reliable at putting things on your calendar these days, but it hasn't quite cracked answering the related and all-important question of \"What should I do this weekend?\" Meta's new AI Mode in search could be a useful tool - if it ever learns to stop getting stuff wrong. AI Mode is a [...",
+    "pubDate": "2026-06-17T09:30:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "The best Apple deals you can already get ahead of Prime Day",
+    "link": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
+    "summary": "Amazon&#8217;s Prime Day sale kicks off on June 23rd, but already we’re seeing some notable Apple deals trickle in. Whether you&#8217;re looking for a new pair of wireless earbuds or a smartwatch, many retailers are offering notable discounts ahead of the shopping event. Walmart and Amazon recent...",
+    "pubDate": "2026-06-17T09:21:15-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
     "title": "The next humanoid robot might not look human at all",
     "link": "https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno",
     "summary": "The next humanoid robot might not have a head. It might not have legs. It might even sit on a wheeled base and fold down like a deck chair. But, as Genesis AI puts it, \"humanoid robots don't need to look human.\" That explains the look of Eno, the new robot from the French startup [&#8230;]",
     "pubDate": "2026-06-17T05:46:56-04:00",
     "source": "The Verge",
     "category": "tech"
+  },
+  {
+    "title": "网传8家车企整车资质永久失效为不实消息",
+    "link": "https://36kr.com/newsflashes/3857271074100484?f=rss",
+    "summary": "近日，网络上出现一则关于“工信部第408批公告将一汽夏利、华晨自主、众泰等8家汽车企业移出车企名录，整车生产资质被冻结并永久失效”的消息。记者从工信部了解到，该消息为不实信息。网传被撤销生产资质的8家企业，仅原一汽夏利多年前已注销准入许可；其余7家企业中，仅部分企业已注销或拟注销个别生产地址，并非整车生产资质被注销。（证券时报）",
+    "pubDate": "2026-06-17 20:59:02  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "热门中概股美股盘前涨跌不一，网易涨超1%",
+    "link": "https://36kr.com/newsflashes/3857267344512009?f=rss",
+    "summary": "36氪获悉，热门中概股美股盘前涨跌不一，截至发稿，网易、叮咚买菜涨超1%，百度涨0.97%；理想汽车跌超2%，小鹏集团、阿里巴巴跌超1%。",
+    "pubDate": "2026-06-17 20:55:15  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "美股大型科技股盘前多数下跌，英特尔涨超3%",
+    "link": "https://36kr.com/newsflashes/3857265487795462?f=rss",
+    "summary": "36氪获悉，美股大型科技股盘前多数下跌，截至发稿，Meta跌0.77%，特斯拉跌0.71%，微软跌0.63%，谷歌跌0.55%，奈飞跌0.36%，苹果跌0.23%；英特尔涨超3%，SpaceX涨超2%，英伟达涨0.57%，亚马逊涨0.26%。",
+    "pubDate": "2026-06-17 20:53:21  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "铝电容大厂尼吉康全线涨价",
+    "link": "https://36kr.com/newsflashes/3857262519620868?f=rss",
+    "summary": "据台湾电子时报，日本铝电容大厂尼吉康（Nichicon）宣布，全线调涨铝电解电容价格，主要原因在于部分产品订单量已超出公司现有生产能力；且受到中东局势持续动荡影响，铝电解电容的核心原材料采购难度加大，公司无法完全消化成本涨幅。（财联社）",
+    "pubDate": "2026-06-17 20:50:20  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "*ST赛隆：收到股票终止上市决定",
+    "link": "https://36kr.com/newsflashes/3857261852202249?f=rss",
+    "summary": "36氪获悉，*ST赛隆公告，公司收到深交所《关于赛隆药业集团股份有限公司股票终止上市的决定》，深交所决定公司股票终止上市。公司股票于2026年6月26日复牌并进入退市整理期，退市整理期为15个交易日，预计最后交易日期为2026年7月16日。公司股票于退市整理期届满的次一交易日摘牌并终止上市。",
+    "pubDate": "2026-06-17 20:49:39  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "乖宝宠物：拟不超2.25亿元受让NPFG品牌知识产权等资产",
+    "link": "https://36kr.com/newsflashes/3857259803202823?f=rss",
+    "summary": "36氪获悉，乖宝宠物公告，公司拟以不超过2.25亿元，受让关联方K9 Natural持有的专用于在中国内地运营“NPFG品牌”（指K9 Natural拥有的、用于K9 Natural & Feline Natural宠物食品及相关产品的所有商标、商号、标识、Logo、包装设计、视觉形象系统、域名及其他品牌相关元素，包括但不限于K9 Natural已注册或正在注册的商标）的知识产权等标的资产，且双方拟就“NPFG品牌”的供应链资源进行战略合作。",
+    "pubDate": "2026-06-17 20:47:34  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "韵达股份：5月快递服务业务收入47.17亿元，同比增长6.84%",
+    "link": "https://36kr.com/newsflashes/3857258117829894?f=rss",
+    "summary": "36氪获悉，韵达股份公告，5月快递服务业务收入为47.17亿元，同比增长6.84%；完成业务量为22.91亿票，同比下降0.52%；快递服务单票收入为2.06元，同比增长7.29%。",
+    "pubDate": "2026-06-17 20:45:51  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "美国5月零售销售环比增长0.9%",
+    "link": "https://36kr.com/newsflashes/3857256314131458?f=rss",
+    "summary": "美国普查局6月17日公布的数据显示，美国5月零售销售环比增长0.9%。（界面）",
+    "pubDate": "2026-06-17 20:44:01  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "芝商所CEO特里·达菲即将卸任",
+    "link": "https://36kr.com/newsflashes/3857252177237255?f=rss",
+    "summary": "据报道，芝加哥商品交易所集团首席执行官特里·达菲即将卸任。（第一财经）",
+    "pubDate": "2026-06-17 20:39:49  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "*ST天山：6月22日起撤销退市风险警示及其他风险警示",
+    "link": "https://36kr.com/newsflashes/3857248724210946?f=rss",
+    "summary": "36氪获悉，*ST天山公告，公司股票将于6月18日停牌一天，6月22日开市起复牌并撤销退市风险警示及其他风险警示，股票简称由“*ST天山”变更为“天山生物”，股票交易的日涨跌幅限制仍为20%。",
+    "pubDate": "2026-06-17 20:36:18  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "联想拟择机回购股份",
+    "link": "https://36kr.com/newsflashes/3857245598733315?f=rss",
+    "summary": "36氪获悉，联想集团公告，在计划发行新可换股债券的同时，公司拟同步回购部分或全部于2029年到期的6.75亿美元2.50%可换股债券，并有意在相关交易完成后，于市场上择机进行股份回购。联想表示，为确保对现有股东权益不造成稀释影响，公司拟在建议债券发行及同步回购完成后，不时于市场上进行股份回购，回购规模将以不触发收购守则下全面要约责任为限。公司也将在未来股东周年大会上寻求一般股份回购授权，以便在新可转债到期日前保留持续回购空间。",
+    "pubDate": "2026-06-17 20:33:07  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "千方科技：拟1亿元至2亿元回购公司股份",
+    "link": "https://36kr.com/newsflashes/3857243368117507?f=rss",
+    "summary": "36氪获悉，千方科技公告，公司拟以自有资金或自筹资金回购公司股份，拟回购股票的资金总额不低于1亿元（含），且不超过2亿元（含），回购股票将用于员工持股计划或股权激励以及维护公司价值及股东权益，回购价格不超过12.42元/股。",
+    "pubDate": "2026-06-17 20:30:51  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "斯泰兰蒂斯CEO：计划在五年内向意大利的研发与创新领域投资50亿欧元",
+    "link": "https://36kr.com/newsflashes/3857238248854788?f=rss",
+    "summary": "斯泰兰蒂斯CEO称，计划在五年内向意大利的研发与创新领域投资50亿欧元。（财联社）",
+    "pubDate": "2026-06-17 20:25:39  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "埃夫特：购买盛普股份100%股份申请获上交所受理",
+    "link": "https://36kr.com/newsflashes/3857236225217796?f=rss",
+    "summary": "36氪获悉，埃夫特公告，公司拟通过发行股份及支付现金的方式购买上海盛普流体设备股份有限公司100%股份。当日，公司收到上交所出具的通知，上交所决定对公司上述事项相关申请文件予以受理并依法进行审核。",
+    "pubDate": "2026-06-17 20:23:35  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "字节跳动加量采购国产芯片，互联网大厂竞速搭建算力护城河",
+    "link": "https://36kr.com/newsflashes/3857227626910726?f=rss",
+    "summary": "字节跳动数据中心建设进展再添新消息，行业人士称字节跳动正与天数智芯讨论采购至少5万颗AI芯片，主要用于推理工作。据记者多方了解，本次洽谈供货芯片主要用于大模型推理负载，对应天数智芯智铠系列云端推理GPU，训练场景使用天垓系列。若交易达成，天数智芯将成为华为和寒武纪之后，字节跳动的第三家GPU供应商。截至发稿，字节跳动与天数智芯方面暂未发表回应。（第一财经）",
+    "pubDate": "2026-06-17 20:14:50  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "氪星晚报｜菜鸟将在荷兰建设欧洲供应链履约中心；有道词典笔获2026 EdTech Breakthrough Award年度K-12教育科技应用大奖；国务院：深入实施“人工智能+”行动，探索人机协同的新型工作形态",
+    "link": "https://36kr.com/p/3857175761081348?f=rss",
+    "summary": "大公司： 监管约谈山姆后，沃尔玛中国多位高管变动 36氪了解到，山姆会员商店中国 CMO（首席采购官）张青已于近日提交辞呈。此外，据36氪独家了解，沃尔玛中国本次人事变动还包括：Tony Paladinetti，现任沃尔玛国际部战略副总裁，将加入沃尔玛中国，担任沃尔玛中国战略副总裁，直接向朱晓静汇报。内部邮件称，Tony将在完成工作签证流程后于2026年8月正式加入中国团队，并与妻子Meg及孩子一起搬迁至深圳。现任沃尔玛中国战略副总裁杨智安将直接向Tony汇报。过渡期间，Neil Maffey，前任山姆会员商店首席采购官及现任全职顾问，将担任代理山姆会员商店首席采购官，直接向刘鹏，山姆会...",
+    "pubDate": "2026-06-17 20:08:32  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "三峡水利：拟终止投建万州燃机发电项目",
+    "link": "https://36kr.com/newsflashes/3857219756020997?f=rss",
+    "summary": "36氪获悉，三峡水利公告，天然气指标和价格无法锁定，导致项目投资边界发生较大变化，预期经济效益较差，该项目已不具备建设条件。公司拟终止万州燃机发电项目投资并注销项目公司重庆万州燃机热电有限公司。受国内外宏观环境和相关政策影响。",
+    "pubDate": "2026-06-17 20:06:50  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "金融监管总局：注册在浦东新区的商业银行或者注册在浦东新区的商业银行分支机构可承销自贸离岸债",
+    "link": "https://36kr.com/newsflashes/3857217736020994?f=rss",
+    "summary": "36氪获悉，国家金融监督管理总局办公厅发布关于商业银行开展浦东新区自贸离岸债业务有关事项的通知。通知提到，注册在浦东新区的商业银行或者注册在浦东新区的商业银行分支机构可承销自贸离岸债。商业银行应当严格遵守债券承销业务风险管理的相关规定。由分支机构开展业务的，应当事先获得总行书面授权，确定内设部门和分支机构的责任和决策机制，明确承销业务范围、权限边界、风险限额、责任追究等内容。未经授权分支机构不得开展承销业务。商业银行可与境外合格承销商合作，共同为发行人提供承销服务。",
+    "pubDate": "2026-06-17 20:04:47  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "*ST新研：6月22日起撤销退市风险警示",
+    "link": "https://36kr.com/newsflashes/3857212517995522?f=rss",
+    "summary": "36氪获悉，*ST新研公告，公司股票交易将于6月18日停牌一天，6月22日复牌并撤销退市风险警示，股票简称由“*ST新研”变更为“新研股份”，证券代码不变。",
+    "pubDate": "2026-06-17 19:59:28  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "微软正考虑接入深度求索模型赋能Copilot协同办公工具",
+    "link": "https://36kr.com/newsflashes/3857211421791239?f=rss",
+    "summary": "据阿克西奥斯新闻网报道，微软正考虑引入中国人工智能企业深度求索推出的 V4 大模型，作为旗下Copilot协同办公智能助手的低成本备选技术方案。报道称，这家美国科技巨头正在测试由微软云本地部署运行的深度求索V4版本以及其他开源大模型，用来替代目前为Copilot协同办公提供技术支持的Anthropic、OpenAI大模型，以此压缩服务成本。微软计划在未来几周内面向市场推出这款低成本大模型服务。（新浪财经）",
+    "pubDate": "2026-06-17 19:58:21  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "陈茂波：未来沪港可加快推动“产业在上海，境外财资在香港”的协同组合",
+    "link": "https://36kr.com/newsflashes/3857209048012039?f=rss",
+    "summary": "2026陆家嘴论坛全体大会四“沪港金融协同发展赋能高水平金融开放”6月17日晚间举行。香港特别行政区政府财政司司长陈茂波表示，全球投资者对人民币的配置需求持续上升，沪港可以协同丰富投资产品与风险管理工具。在黄金与大宗商品领域，配合上海期货与现货市场，推动更多以人民币计价交割的“中国价格”产品落地，实质提升人民币的国际投资与储备功能。中国对外直接投资急需扩大，企业出海既要走得稳，更要走得远、走得好，这背后需要统筹境内外的资源，提供专业的财资服务国际平台。未来沪港可以加快推动“产业在上海，境外财资在香港”的协同组合，为企业提供一条龙的境内外资金与资产配置方案。（证券时报）",
+    "pubDate": "2026-06-17 19:55:56  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
   },
   {
     "title": "Snap发布AR智能眼镜SPECS",
@@ -1208,6 +1952,270 @@
     "category": "tech-cn"
   },
   {
+    "title": "Towards Conversational AI for Disease Management",
+    "link": "https://www.nature.com/articles/s41586-026-10764-5",
+    "summary": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10764-5 Towards Conversational AI for Disease Management",
+    "pubDate": "2026-06-17",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Emergent decadal predictability in Antarctic contribution to sea-level rise",
+    "link": "https://www.nature.com/articles/s41586-026-10614-4",
+    "summary": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10614-4 Although Antarctic ice loss projections diverge widely by 2100, this Perspective shows that present-day rates robustly predict mid-century sea level rise, providing a firm basis for near-term planning, while highlighting prior...",
+    "pubDate": "2026-06-17",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "A distant brown dwarf coplanar to a warm Jupiter and a hot super-Earth",
+    "link": "https://www.nature.com/articles/s41586-026-10586-5",
+    "summary": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10586-5 Analysis of long-term radial velocity data and transit time variations, induced by a super-Earth, a warm Jupiter and a brown dwarf in a coplanar orbit around the relatively young star TOI201.",
+    "pubDate": "2026-06-17",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Probing picometre-scale interlayer deformations via hyperbolic polaritons",
+    "link": "https://www.nature.com/articles/s41586-026-10638-w",
+    "summary": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10638-w A new polaritonic optical method that uses the mid-infrared out-of-plane hyperbolic polaritons mode is described and experimentally validated to allow the examination of picometre-scale interlayer deformations, providing a bri...",
+    "pubDate": "2026-06-17",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Optical fibre gripper for high-performance 3D micromanipulation",
+    "link": "https://www.nature.com/articles/s41586-026-10673-7",
+    "summary": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10673-7 A miniature three-dimensional optical fibre gripper enables powerful, precise micromanipulation of particles and single cells in confined spaces, bridging the gap between optical and mechanical tweezers.",
+    "pubDate": "2026-06-17",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "A prototype differential atom interferometer for fundamental physics",
+    "link": "https://www.nature.com/articles/s41586-026-10617-1",
+    "summary": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10617-1 A prototype differential atom interferometer operates at the standard quantum limit with no excess noise beyond atom shot noise, achieving performance in line with the specifications for future long-baseline atom interferometers.",
+    "pubDate": "2026-06-17",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Structure of the pre-initiation complex explains CMGE biogenesis",
+    "link": "https://www.nature.com/articles/s41586-026-10657-7",
+    "summary": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10657-7 Cryo-electron microscopy and biochemical reconstitution experiments in yeast provide insight into the assembly of the CMGE complex, a helicase that establishes bidirectional DNA replication in eukaryotic cells, and elucidate t...",
+    "pubDate": "2026-06-17",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "A 98-qubit trapped-ion quantum computer with all-to-all connectivity",
+    "link": "https://www.nature.com/articles/s41586-026-10676-4",
+    "summary": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10676-4 A new quantum computer, Quantinuum Helios, which is a 98-qubit trapped-ion quantum processor built on the QCCD architecture, demonstrates performance well beyond classical capabilities and provides a path for scaling up quantu...",
+    "pubDate": "2026-06-17",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Fast formation to reinforce lithium-rich cathodes",
+    "link": "https://www.nature.com/articles/s41586-025-09553-3",
+    "summary": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-025-09553-3 Fast formation in lithium-ion batteries outperforms conventional slow formation, lowering costs and improving battery capacity, stability and cycle life, offering broader application to electrode systems.",
+    "pubDate": "2026-06-17",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Revealing competitive interfacial reactions in high-energy Li–S batteries",
+    "link": "https://www.nature.com/articles/s41586-025-09473-2",
+    "summary": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-025-09473-2 Visualization of concentration-driven phase segregation within high-concentration interfacial layers in the context of high-energy lithium–sulfur batteries using liquid-cell electrochemical transmission electron microscopy rev...",
+    "pubDate": "2026-06-17",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Molecular basis of polyadenylated RNA fate determination in the nucleus",
+    "link": "https://www.nature.com/articles/s41586-026-10650-0",
+    "summary": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10650-0 Biochemical, structural and cell biological analyses reveal that UAP56 (DDX39B) assembles with a TREX-2–like module that redirects non-functional polyadenylated RNAs from export to degradation.",
+    "pubDate": "2026-06-17",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Rock weathering can counteract river CO<sub>2</sub> emissions induced by permafrost thaw",
+    "link": "https://www.nature.com/articles/s41586-026-10664-8",
+    "summary": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10664-8 Permafrost thaw on the Qinghai–Tibet Plateau increases rock-weathering rates while reducing river CO2 emissions, suggesting geological carbon fluxes may eventually outpace thaw-driven emissions.",
+    "pubDate": "2026-06-17",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Cortical development dynamics across autism spectrum disorder mouse models",
+    "link": "https://www.nature.com/articles/s41586-026-10679-1",
+    "summary": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10679-1 Using single-nucleus multi-omic sequencing, diverse autism spectrum disorder-linked gene mutations converge on transient, stage-specific disruptions in early brain development, and highlight sex-specific gene expression altera...",
+    "pubDate": "2026-06-17",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "A blastoporal organizer in a ctenophore",
+    "link": "https://www.nature.com/articles/s41586-026-10643-z",
+    "summary": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10643-z Experiments using the comb jelly Mnemiopsis leidyi and the sea anemone Nematostella vectensis reveal that the emergence of a core signalling pathway may have been a key innovation enabling the transition to multicellularity in...",
+    "pubDate": "2026-06-17",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Confined migration induces non-lethal DNA damage in developing neurons",
+    "link": "https://www.nature.com/articles/s41586-026-10648-8",
+    "summary": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10648-8 The migration of neurons in developing cerebral and cerebellar cortices is accompanied by massive DNA double-strand breaks due to mechanostress during passage through narrow interstitial spaces.",
+    "pubDate": "2026-06-17",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Analysis of 173,303 exomes and genomes in the Pakistan Genome Resource",
+    "link": "https://www.nature.com/articles/s41586-026-10667-5",
+    "summary": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10667-5 The Pakistan Genome Resource compiles biobank data from 173,303 individuals with high familial relatedness, broadening the catalogue of human genetic variation and establishing a population-specific genomic reference for Pakis...",
+    "pubDate": "2026-06-17",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "A mosaic of whole-body representations on the human precentral gyrus",
+    "link": "https://www.nature.com/articles/s41586-026-10653-x",
+    "summary": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10653-x A comprehensive map of the human motor cortex at single-neuron resolution is described.",
+    "pubDate": "2026-06-17",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Spatial distribution of the proteome in the human body and in cancers",
+    "link": "https://www.nature.com/articles/s41586-026-10660-y",
+    "summary": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10660-y A spatially resolved map of the human proteome across a variety of healthy tissues and cancers provides wide-ranging insights in developmental biology and oncology, and could aid the identification of therapeutic targets and d...",
+    "pubDate": "2026-06-17",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Lethal plague outbreaks in Lake Baikal hunter-gatherers 5,500 years ago",
+    "link": "https://www.nature.com/articles/s41586-026-10540-5",
+    "summary": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10540-5 Analyses of ancient DNA from hunter-gatherers near Lake Baikal in southeast Siberia around 5,500 years ago indicate that highly virulent Yersinia pestis emerged earlier than previously estimated, far from the next known cases ...",
+    "pubDate": "2026-06-17",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Mapping the neuronal building blocks of human language with language models",
+    "link": "https://www.nature.com/articles/s41586-026-10691-5",
+    "summary": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10691-5 Wide-scale recordings reveal neurons in the human brain that encode fundamental components of language such as the grammatical relationships between words, their parts of speech and the higher-order syntactic structure of phra...",
+    "pubDate": "2026-06-17",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Towards autonomous medical artificial intelligence agents",
+    "link": "https://www.nature.com/articles/s41586-026-10675-5",
+    "summary": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10675-5 A large language model artificial intelligence agent operating in a sandboxed electronic health record system can autonomously take patient histories, order tests, interpret findings, diagnose conditions and propose treatments...",
+    "pubDate": "2026-06-17",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "<i>CHPO</i> coordinates chilling recovery and nitrogen use in rice",
+    "link": "https://www.nature.com/articles/s41586-026-10682-6",
+    "summary": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10682-6 A rice gene, CHPO, links chilling resilience with nitrogen-use efficiency, revealing a domestication-shaped regulatory mechanism that could guide breeding of climate-resilient, sustainable rice varieties.",
+    "pubDate": "2026-06-17",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Optical metasurfaces for general vision processing on the edge",
+    "link": "https://www.nature.com/articles/s41586-026-10635-z",
+    "summary": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10635-z By embedding core computer vision principles into a large-scale optical metasurface, an efficient vision processing system using far fewer parameters is demonstrated to outperform many digital models and enables deployment on ...",
+    "pubDate": "2026-06-17",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Visualizing the impact of quenched disorder on 2D electron Wigner solids",
+    "link": "https://www.nature.com/articles/s41586-026-10654-w",
+    "summary": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10654-w A technique combining atomically resolved scanning tunnelling microscopy with neural-quantum-state quantum Monte Carlo simulation of disordered 2D electron Wigner solids establishes a powerful framework to enable the clear ide...",
+    "pubDate": "2026-06-17",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Cucurbituril-based anion-conducting membranes with supramolecular nanopores",
+    "link": "https://www.nature.com/articles/s41586-026-10666-6",
+    "summary": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10666-6 A supramolecular strategy, in which uniform, dynamic nanopores are constructed, overcomes the limitations of limited structural control, mechanical fragility or demanding synthesis in nanoporous anion-conducting membranes, pro...",
+    "pubDate": "2026-06-17",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "How the zebrafish brain weaves recent experiences into future decisions",
+    "link": "https://www.nature.com/articles/d41586-026-01756-6",
+    "summary": "Nature, Published online: 17 June 2026; doi:10.1038/d41586-026-01756-6 Animals often use recent experience to guide future choices. Whole-brain imaging in larval zebrafish (Danio rerio) reveals a dedicated neural circuit that governs history-biased decisions: the thalamus maintains the most recen...",
+    "pubDate": "2026-06-17",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Oceans in Asia smash heat records — what it means for extreme weather",
+    "link": "https://www.nature.com/articles/d41586-026-01938-2",
+    "summary": "Nature, Published online: 17 June 2026; doi:10.1038/d41586-026-01938-2 Report shows region is particularly vulnerable to the effects of climate change.",
+    "pubDate": "2026-06-17",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Wah-ult in the vault",
+    "link": "https://www.nature.com/articles/d41586-026-01719-x",
+    "summary": "Nature, Published online: 17 June 2026; doi:10.1038/d41586-026-01719-x Relics of wonder.",
+    "pubDate": "2026-06-17",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Reconfigurable quantum computer juggles 98 qubits",
+    "link": "https://www.nature.com/articles/d41586-026-01702-6",
+    "summary": "Nature, Published online: 17 June 2026; doi:10.1038/d41586-026-01702-6 A quantum computer based on trapped ions can connect any two quantum bits, reaching performance levels that conventional computers cannot match.",
+    "pubDate": "2026-06-17",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Reimagining machine vision with optical computing",
+    "link": "https://www.nature.com/articles/d41586-026-01891-0",
+    "summary": "Nature, Published online: 17 June 2026; doi:10.1038/d41586-026-01891-0 A general-purpose artificial-intelligence vision system for use in image-sensing devices has been developed by embedding fundamentals of core computer-vision operations into a light-manipulating planar material called an optic...",
+    "pubDate": "2026-06-17",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Navigating a crowded developing brain leaves neurons with broken DNA",
+    "link": "https://www.nature.com/articles/d41586-026-01705-3",
+    "summary": "Nature, Published online: 17 June 2026; doi:10.1038/d41586-026-01705-3 As neurons migrate to their final destinations in the forming brain, their DNA gets damaged. The brain has evolved a fix, but there can be lasting consequences if repair fails.",
+    "pubDate": "2026-06-17",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Light-controlled microgripper punches above its weight",
+    "link": "https://www.nature.com/articles/d41586-026-01703-5",
+    "summary": "Nature, Published online: 17 June 2026; doi:10.1038/d41586-026-01703-5 A microscale gripper that can be opened and closed using light can fit into tight spaces and perform tasks linked to clinical applications.",
+    "pubDate": "2026-06-17",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "The ancestors of eukaryotic cells contained a mix of genes from various microbes",
+    "link": "https://www.nature.com/articles/d41586-026-01739-7",
+    "summary": "Nature, Published online: 17 June 2026; doi:10.1038/d41586-026-01739-7 Reconstruction of the ancestral gene repertoire of eukaryotic cells reveals traces of a series of close, long-term interactions with diverse microorganisms, and a role of viruses in gene exchange. The findings challenge the vi...",
+    "pubDate": "2026-06-17",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
     "title": "The EU needs to back its ambition to end animal testing with cash",
     "link": "https://www.nature.com/articles/d41586-026-01882-1",
     "summary": "Nature, Published online: 17 June 2026; doi:10.1038/d41586-026-01882-1 The European Union has declared that it wants to stop using animals in chemical safety testing. Its goal will need a timeline and a serious funding commitment.",
@@ -1228,6 +2236,22 @@
     "link": "https://www.nature.com/articles/d41586-026-01903-z",
     "summary": "Nature, Published online: 17 June 2026; doi:10.1038/d41586-026-01903-z Existing global efforts to reduce harms caused by smoking have targeted tobacco smoking, but vapes containing nicotine are also harmful.",
     "pubDate": "2026-06-17",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Mathematicians are developing rules for AI use — other fields should follow",
+    "link": "https://www.nature.com/articles/d41586-026-01881-2",
+    "summary": "Nature, Published online: 16 June 2026; doi:10.1038/d41586-026-01881-2 The mathematics community is right to call for transparency, integrity and fairness to be protected when AI tools are used. Researchers in other disciplines could learn from this approach.",
+    "pubDate": "2026-06-16",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Daily briefing: How many elementary particles are there?",
+    "link": "https://www.nature.com/articles/d41586-026-01939-1",
+    "summary": "Nature, Published online: 16 June 2026; doi:10.1038/d41586-026-01939-1 Estimates range from 17 to 995.5. Plus, one man with paralysis is using a brain– computer interface at home and GLP-1 obesity drugs appear to boost testosterone and sperm quality.",
+    "pubDate": "2026-06-16",
     "source": "Nature",
     "category": "science"
   }

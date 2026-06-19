@@ -1,5 +1,29 @@
 [
   {
+    "title": "How Japan's railways stayed one while splitting apart",
+    "link": "https://arun.is/blog/jr-logo/",
+    "summary": "Article URL: https://arun.is/blog/jr-logo/ Comments URL: https://news.ycombinator.com/item?id=48570730 Points: 134 # Comments: 111",
+    "pubDate": "Wed, 17 Jun 2026 14:03:58 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Reinventing the Renaissance",
+    "link": "https://drb.ie/article/reinventing-the-renaissance/",
+    "summary": "Article URL: https://drb.ie/article/reinventing-the-renaissance/ Comments URL: https://news.ycombinator.com/item?id=48563083 Points: 5 # Comments: 1",
+    "pubDate": "Tue, 16 Jun 2026 22:26:12 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
+    "link": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
+    "summary": "Article URL: https://www.greybeam.ai/blog/duckdb-internals-part-1 Comments URL: https://news.ycombinator.com/item?id=48553388 Points: 317 # Comments: 90",
+    "pubDate": "Tue, 16 Jun 2026 11:07:08 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "SpaceX wants to build AI data centers in space. Will it work?",
     "link": "https://www.sciencedaily.com/releases/2026/06/260618041501.htm",
     "summary": "The race to build data centers in space is gaining momentum as AI drives unprecedented demand for computing power. Orbital facilities could tap into abundant solar energy and avoid many of the environmental challenges faced on Earth. Yet space remains a harsh and expensive place to operate, with ...",
@@ -288,6 +312,198 @@
     "category": "tech-cn"
   },
   {
+    "title": "Thirty rioters sentenced for disorder which saw police officer set on fire",
+    "link": "https://www.bbc.com/news/articles/cvgl9z8l271o?at_medium=RSS&at_campaign=rss",
+    "summary": "The deaths of teenagers Kyrees Sullivan and Harvey Evans sparked a night of violence in Cardiff in 2023.",
+    "pubDate": "Fri, 19 Jun 2026 15:32:10 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Billionaire Ambani wants AI in every call, app, and home",
+    "link": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+    "summary": "Reliance is weaving AI into telecom services used by more than 500 million people.",
+    "pubDate": "Fri, 19 Jun 2026 15:23:28 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Thousands of HGV drivers given bogus medical tests in the back of vans",
+    "link": "https://www.bbc.com/news/articles/cy8wqy83q46o?at_medium=RSS&at_campaign=rss",
+    "summary": "Trading Standards said Doctors on Wheels promised tests for \"just under £60\" undercutting competitors.",
+    "pubDate": "Fri, 19 Jun 2026 15:17:18 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Rapist who 'catfished' Muslim men on Snapchat and Grindr jailed",
+    "link": "https://www.bbc.com/news/articles/cwyenemwnd9o?at_medium=RSS&at_campaign=rss",
+    "summary": "Police now believe Waleed Saeed had dozens more victims, who they are now appealing to come forward.",
+    "pubDate": "Fri, 19 Jun 2026 15:15:42 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Scottish guidance on trans prisoners ruled unlawful",
+    "link": "https://www.bbc.com/news/articles/cz7502eq5lro?at_medium=RSS&at_campaign=rss",
+    "summary": "Judge Lady Ross said sex segregation in prisons must be based on biological sex, based on a Supreme Court ruling last year.",
+    "pubDate": "Fri, 19 Jun 2026 15:05:48 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Real, raw and unfiltered? Authenticity helps female singers rule the charts",
+    "link": "https://www.bbc.com/news/articles/c86dznvp11wo?at_medium=RSS&at_campaign=rss",
+    "summary": "Is the relatable style of Olivia Rodrigo, Olivia Dean and Lola Young changing pop music?",
+    "pubDate": "Fri, 19 Jun 2026 15:01:12 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Six-year-old Ebola patient taken from DR Congo hospital found and 'doing well'",
+    "link": "https://www.bbc.com/news/articles/c0qyg29wpk2o?at_medium=RSS&at_campaign=rss",
+    "summary": "Health facilities have come under attack during the current outbreak as a result of misinformation and fear.",
+    "pubDate": "Fri, 19 Jun 2026 14:45:57 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Moutet loses almost all prize money for swearing on BBC TV",
+    "link": "https://www.bbc.com/sport/tennis/articles/cvgdq9gjlv1o?at_medium=RSS&at_campaign=rss",
+    "summary": "France's Corentin Moutet loses almost his entire Queen's prize money after being fined $40,000 for swearing seven times in a live BBC television interview.",
+    "pubDate": "Fri, 19 Jun 2026 14:40:20 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Henry Zeffman: What does Keir Starmer do next after Andy Burnham's Makerfield win?",
+    "link": "https://www.bbc.com/news/articles/c3ryp0nejdro?at_medium=RSS&at_campaign=rss",
+    "summary": "Discussion about the prime minister's future ramps up after Makerfield by-election.",
+    "pubDate": "Fri, 19 Jun 2026 14:34:47 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The Most Promising Ebola Vaccine Has Been Sitting on the Shelf for 15 Years",
+    "link": "https://www.wired.com/story/ebola-vaccine-sitting-on-shelf-for-15-years/",
+    "summary": "Years after initial tests, researchers are now racing to see if a vaccine developed in 2011 can help fight the current Bundibugyo outbreak in Congo.",
+    "pubDate": "Fri, 19 Jun 2026 14:23:43 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "The key figures in Andy Burnham's inner circle",
+    "link": "https://www.bbc.com/news/articles/c8621d1egw1o?at_medium=RSS&at_campaign=rss",
+    "summary": "The MPs and advisers likely to be influential if Burnham succeeds in gaining the keys to Number 10.",
+    "pubDate": "Fri, 19 Jun 2026 14:06:15 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Energy bills, business rates and HS2: What are Burnham's potential policies?",
+    "link": "https://www.bbc.com/news/articles/clywzj2vk3zo?at_medium=RSS&at_campaign=rss",
+    "summary": "After winning the Makerfield by-election, we look at what policies Andy Burnham has advocated - including transport, education and energy.",
+    "pubDate": "Fri, 19 Jun 2026 14:00:16 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "'Neither I nor Italy ever beg': Meloni says Trump made up story about photo",
+    "link": "https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&at_campaign=rss",
+    "summary": "The highly public exchange is an indication that their earlier close ties have frayed since Trump's decision to go to war with Iran.",
+    "pubDate": "Fri, 19 Jun 2026 13:42:47 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Rocket Report: Rebuild begins at Blue Origin launch pad; Relativity targets Mars",
+    "link": "https://arstechnica.com/space/2026/06/rocket-report-rebuild-begins-at-blue-origin-launch-pad-relativity-targets-mars/",
+    "summary": "A French launch startup is scrapping the name of its rocket, apparently due to a trademark issue.",
+    "pubDate": "Fri, 19 Jun 2026 13:36:53 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Historic by-election win sends message to Labour and SNP, says Badenoch",
+    "link": "https://www.bbc.com/news/articles/cn8q4p34qg4o?at_medium=RSS&at_campaign=rss",
+    "summary": "Kemi Badenoch hailed the Scottish Conservatives' first by-election win since 1973, after the party took Aberdeen South from the SNP.",
+    "pubDate": "Fri, 19 Jun 2026 13:20:44 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Two men jailed over Starmer-linked arson attacks",
+    "link": "https://www.bbc.com/news/articles/cgmdjpmmng7o?at_medium=RSS&at_campaign=rss",
+    "summary": "Roman Lavrynovych 22, was jailed for seven years and Stanislav Carpiuc, 27, for two.",
+    "pubDate": "Fri, 19 Jun 2026 13:19:03 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "MP arrested on suspicion of assault and coercion",
+    "link": "https://www.bbc.com/news/articles/c20y12kpj4mo?at_medium=RSS&at_campaign=rss",
+    "summary": "The Lib Dem MP for Tewkesbury Cameron Thomas has had the whip suspended pending a police investigation.",
+    "pubDate": "Fri, 19 Jun 2026 13:14:34 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The CEO of Allbirds’ new AI biz has a plan, but no employees",
+    "link": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
+    "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
+    "pubDate": "Fri, 19 Jun 2026 13:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Farage blames Makerfield defeat on anti-Starmer votes",
+    "link": "https://www.bbc.com/news/articles/cvgqvj8dkz7o?at_medium=RSS&at_campaign=rss",
+    "summary": "The Reform UK leader says he is \"disappointed\" with his party's performance in the key by-election.",
+    "pubDate": "Fri, 19 Jun 2026 12:48:13 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The Best iPad to Buy (and Some to Avoid) in 2026: Compare the Air, Pro, Mini",
+    "link": "https://www.wired.com/gallery/the-best-ipad/",
+    "summary": "We break down the current iPad lineup to help you figure out which of Apple’s tablets is best for you.",
+    "pubDate": "Fri, 19 Jun 2026 12:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "How and why algae clouded Trump's vision for an 'American flag blue' Reflecting Pool",
+    "link": "https://www.npr.org/2026/06/19/nx-s1-5863044/dc-reflecting-pool-algae-green-trump",
+    "summary": "The shallow, sunny waters of the reflecting pool are an ideal incubator for algae growth in the summertime. Experts say the recent renovation may have helped accelerate it.",
+    "pubDate": "Fri, 19 Jun 2026 11:43:05 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Best Mesh Wi-Fi Systems (2026): Netgear, Asus, Amazon, and More",
+    "link": "https://www.wired.com/story/best-mesh-wifi-routers/",
+    "summary": "Forget about patchy internet connections and dead spots in the house. These WIRED-tested multiroom mesh systems will get you online in no time.",
+    "pubDate": "Fri, 19 Jun 2026 11:31:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "GTA 6 - all you need to know about Rockstar's blockbuster game",
+    "link": "https://www.bbc.com/news/articles/c9q20djz4wno?at_medium=RSS&at_campaign=rss",
+    "summary": "Rockstar's sixth game in the franchise is set to be the biggest game release of the year.",
+    "pubDate": "Fri, 19 Jun 2026 11:21:09 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "As global warming threatens corals, scientists search for reefs that can take the heat",
+    "link": "https://arstechnica.com/science/2026/06/as-global-warming-threatens-corals-scientists-search-for-reefs-that-can-take-the-heat/",
+    "summary": "Researchers say these coral strongholds may help repopulate more degraded reefs.",
+    "pubDate": "Fri, 19 Jun 2026 11:15:11 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
     "title": "Boy, 3, was attacked by crocodile at zoo as man bailed",
     "link": "https://www.bbc.com/news/articles/cp9l2278m8no?at_medium=RSS&at_campaign=rss",
     "summary": "Police say the boy remains in a \"critical but stable\" condition in hospital.",
@@ -384,6 +600,14 @@
     "category": "general"
   },
   {
+    "title": "Akse3D – open-source 3D modelling anyone can master",
+    "link": "https://akse3d-en.skaperiet.no/",
+    "summary": "Comments",
+    "pubDate": "Fri, 19 Jun 2026 10:05:17 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "The Best Fitness Trackers of 2026: Garmin, Google Fitbit, and More",
     "link": "https://www.wired.com/story/best-fitness-trackers/",
     "summary": "Find the right wearable for your lifestyle, workouts, and goals.",
@@ -400,10 +624,26 @@
     "category": "tech"
   },
   {
+    "title": "Think you're eating healthy? You may be missing this heart-protecting nutrient",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260619020512.htm",
+    "summary": "Eating five servings of fruits and vegetables may not be enough if you're missing foods rich in flavanols, a group of compounds linked to better heart health. Researchers found that choices like blackberries, plums, apples, broad beans, cherries, and green tea can dramatically increase flavanol i...",
+    "pubDate": "Fri, 19 Jun 2026 09:56:05 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "UK's top data and AI regulator quits after 'inappropriate' humour",
     "link": "https://www.bbc.com/news/articles/c0eyq7rnn22o?at_medium=RSS&at_campaign=rss",
     "summary": "Edwards has been the boss of the data watchdog since January 2022, and said he had made inappropriate attempts at humour.",
     "pubDate": "Fri, 19 Jun 2026 09:55:45 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Harry Kane says singing Wonderwall with fans one of his favourite moments",
+    "link": "https://www.bbc.com/sport/football/articles/ckg74e6dz5lo?at_medium=RSS&at_campaign=rss",
+    "summary": "Harry Kane says singing 'Wonderwall' with fans after England's win over Croatia on Wednesday was one of his \"favourite ever moments\" in a Three Lions shirt.",
+    "pubDate": "Fri, 19 Jun 2026 09:55:06 GMT",
     "source": "BBC News",
     "category": "general"
   },
@@ -424,6 +664,14 @@
     "category": "general"
   },
   {
+    "title": "WikiSpy",
+    "link": "https://neal.fun/wiki-spy/",
+    "summary": "Comments",
+    "pubDate": "Fri, 19 Jun 2026 09:32:07 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Prediction Market Philosophers Got What They Wanted. They’re Not Happy About It",
     "link": "https://www.wired.com/story/prediction-market-philosophers-got-what-they-wanted/",
     "summary": "Getting the future right is now big business. But at a festival in Berkeley, forecasters worry that sports markets could take the whole industry down.",
@@ -437,6 +685,22 @@
     "summary": "Even if peace holds up between the US and Iran, oil prices aren’t going back down to where they were any time soon.",
     "pubDate": "Fri, 19 Jun 2026 09:30:00 +0000",
     "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Scientists expected a black hole but found a neutrino factory powered by stars",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260619020510.htm",
+    "summary": "A distant galaxy nicknamed Shadow Blaster may have revealed a surprising source of cosmic neutrinos: extreme star formation instead of a supermassive black hole. The discovery suggests that hidden, dust-filled starburst galaxies could account for a significant fraction of the Universe’s high-ener...",
+    "pubDate": "Fri, 19 Jun 2026 09:21:45 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Changes/UseKmsconVTConsole",
+    "link": "https://fedoraproject.org/wiki/Changes/UseKmsconVTConsole",
+    "summary": "Comments",
+    "pubDate": "Fri, 19 Jun 2026 09:19:07 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -456,6 +720,14 @@
     "category": "tech"
   },
   {
+    "title": "Researchers found a Wordle strategy that wins 99% of the time",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260619020508.htm",
+    "summary": "Researchers developed a Wordle-solving strategy that succeeds 99% of the time by focusing on information gain rather than likely answers. The method uses Shannon entropy to identify guesses that reveal the most about the hidden word. Each guess is designed to slash uncertainty and narrow the poss...",
+    "pubDate": "Fri, 19 Jun 2026 08:50:45 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "What is Burnham's path to becoming Labour leader and PM?",
     "link": "https://www.bbc.com/news/articles/c3631k30xjlo?at_medium=RSS&at_campaign=rss",
     "summary": "How could MPs who want Sir Keir Starmer to be replaced force a leadership contest and who could stand?",
@@ -472,12 +744,36 @@
     "category": "general"
   },
   {
+    "title": "Aspirational Clownmaxxing and Joey's cadillac todo list",
+    "link": "https://charlesleifer.com/blog/aspirational-clownmaxxing-and-joey-s-cadillac-todo-list/",
+    "summary": "Comments",
+    "pubDate": "Fri, 19 Jun 2026 08:27:13 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t",
     "link": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
     "summary": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
     "pubDate": "Fri, 19 Jun 2026 07:59:12 +0000",
     "source": "TechCrunch",
     "category": "tech"
+  },
+  {
+    "title": "Scientists reprogram brain immune cells to fight Alzheimer’s",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260619020506.htm",
+    "summary": "A newly identified molecule called OLE helped restore the brain’s immune cells to a more protective state in Alzheimer’s models. The treatment reduced toxic plaque buildup and improved memory, raising hopes for a new therapeutic approach.",
+    "pubDate": "Fri, 19 Jun 2026 07:47:55 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "US-Iran talks in Switzerland canceled. And, DHS to give police facial recognition app",
+    "link": "https://www.npr.org/2026/06/19/g-s1-129076/up-first-newsletter-vice-president-vance-iran-agreement-obama-presidential-center-judicial-system-dhs-facial-recognition",
+    "summary": "The U.S.-Iran talks that were set to happen in Switzerland have been canceled. And, the Department of Homeland Security has plans to give some local police access to ICE facial recognition technology.",
+    "pubDate": "Fri, 19 Jun 2026 07:27:49 -0400",
+    "source": "NPR",
+    "category": "general"
   },
   {
     "title": "Burnham Wins in Makerfield - So What Happens Now?",
@@ -512,12 +808,28 @@
     "category": "general"
   },
   {
+    "title": "Shutting Down Fornjot",
+    "link": "https://fornjot.app/blog/shutting-down-fornjot/",
+    "summary": "Comments",
+    "pubDate": "Fri, 19 Jun 2026 06:28:45 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "So You Want to Define a Well-Known URI",
     "link": "https://mnot.net/blog/2026/well_known_uris",
     "summary": "Article URL: https://mnot.net/blog/2026/well_known_uris Comments URL: https://news.ycombinator.com/item?id=48595331 Points: 72 # Comments: 37",
     "pubDate": "Fri, 19 Jun 2026 06:05:01 +0000",
     "source": "Hacker News",
     "category": "tech"
+  },
+  {
+    "title": "Einstein’s “biggest blunder” may finally have an explanation",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260619020516.htm",
+    "summary": "Scientists have uncovered a surprising connection between quantum gravity and an exotic quantum state of matter that could explain why the universe isn’t expanding wildly fast. The study suggests that the very shape of space-time may protect the cosmological constant from disruptive quantum effects.",
+    "pubDate": "Fri, 19 Jun 2026 05:43:07 EDT",
+    "source": "Science Daily",
+    "category": "science"
   },
   {
     "title": "Meet Merlin the Duck: Mexico's World Cup 'ambassador'",
@@ -589,6 +901,14 @@
     "summary": "The London Marathon will be held across two days in a special one-off edition of the event in 2027, organisers have confirmed.",
     "pubDate": "Fri, 19 Jun 2026 05:00:24 GMT",
     "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "These Wisconsin swing voters say Trump's war in Iran wasn't worth it",
+    "link": "https://www.npr.org/2026/06/19/nx-s1-5861751/wisconsin-focus-groups-iran-trump",
+    "summary": "The war in Iran was a costly blunder, according to Wisconsin swing voters who participated in two online focus groups that NPR observed.",
+    "pubDate": "Fri, 19 Jun 2026 05:00:00 -0400",
+    "source": "NPR",
     "category": "general"
   },
   {
@@ -816,6 +1136,22 @@
     "category": "tech"
   },
   {
+    "title": "This giant tropical fruit could help reverse gum disease damage",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260618041508.htm",
+    "summary": "A new biomaterial made from jackfruit latex, pomegranate peel, and simvastatin could transform the treatment of severe gum disease. Early tests suggest it not only combats infection and inflammation but may also help rebuild lost bone and tissue around teeth.",
+    "pubDate": "Fri, 19 Jun 2026 01:59:41 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "DNA time stamps reveal the strawberry’s surprising origins",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260618041515.htm",
+    "summary": "Researchers have created a new way to reconstruct the evolutionary history of complex plant genomes by analyzing genetic traces left by transposable elements. The technique revealed that modern strawberries were assembled through multiple ancient genome-merging events, shedding new light on how m...",
+    "pubDate": "Fri, 19 Jun 2026 01:27:46 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "'Even the Coke is big' - Foreign World Cup fans take in American culture",
     "link": "https://www.bbc.com/news/articles/cvgj731r38xo?at_medium=RSS&at_campaign=rss",
     "summary": "Large portion sizes, tasty food, and a basketball championship welcome international World Cup fans to the US.",
@@ -902,6 +1238,54 @@
     "pubDate": "Fri, 19 Jun 2026 00:01:27 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "The NTS Radio Player brings the best of internet radio to your hi-fi",
+    "link": "https://www.theverge.com/entertainment/952910/nts-radio-player-atonemo-music-streaming",
+    "summary": "NTS Radio and Swedish audio company Atonemo have teamed up on a dedicated player that brings NTS's genre-defying mixes and streaming stations to almost any stereo or speaker setup. And, like Atonemo's existing Streamplayer, you can also listen to your favorite streaming services with it, using Ai...",
+    "pubDate": "2026-06-19T10:53:53-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "The film about Sam Altman has been dropped by Amazon MGM",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
+    "summary": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman's termination and reinstatement as CEO, had been in the works for about a year. The cast ...",
+    "pubDate": "2026-06-19T10:15:29-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Our long national sunscreen nightmare is almost over",
+    "link": "https://www.theverge.com/column/952744/optimizer-sunscreen-bemotrizinol-fda-health",
+    "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. On TikTok, the tanned youths are explaining why they no longer wear sunscreen. In...",
+    "pubDate": "2026-06-19T10:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "T1 Phone PR firm is &#8216;not assisting Trump Mobile any further&#8217;",
+    "link": "https://www.theverge.com/gadgets/952274/t1-phone-pr-firm-not-assisting-trump-mobile-any-further",
+    "summary": "Where's the Trump phone? We're going to keep talking about it every week. We don't have the phones we preordered yet, but this week we received unexpected news from Trump Mobile's media relations manager. If you've been following my reporting on the Trump phone, you'll know that Trump Mobile does...",
+    "pubDate": "2026-06-19T09:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "In season 2 of Sugar, Colin Farrell’s quirky detective becomes much more human",
+    "link": "https://www.theverge.com/entertainment/951638/sugar-season-2-colin-farrell-interview-apple-tv",
+    "summary": "When Colin Farrell was doing press for the first season of the detective series Sugar, he had to be very careful with how he spoke. Sugar is a story about a quirky private detective, but it's also secretly a work of science fiction, something that doesn't become clear until halfway through the se...",
+    "pubDate": "2026-06-19T08:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Kaleidescape’s movie player blows streaming, and your wallet, away",
+    "link": "https://www.theverge.com/tech/951718/kaleidescape-strato-e-review",
+    "summary": "We've lost something in the past 15 years. Netflix, Amazon, Disney, Apple; they've all convinced us that streaming is the best way to watch movies and shows at home. With everything at our fingertips, there's no need to run to Blockbuster for the weekend's entertainment, or wait for a DVD rental ...",
+    "pubDate": "2026-06-19T08:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
   },
   {
     "title": "Barret Zoph is out at OpenAI again after just five months",
@@ -1160,10 +1544,34 @@
     "category": "tech-cn"
   },
   {
+    "title": "Author Correction: Autophagic cell death restricts chromosomal instability during replicative crisis",
+    "link": "https://www.nature.com/articles/s41586-026-10812-0",
+    "summary": "Nature, Published online: 19 June 2026; doi:10.1038/s41586-026-10812-0 Author Correction: Autophagic cell death restricts chromosomal instability during replicative crisis",
+    "pubDate": "2026-06-19",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Briefing Chat: Testosterone and sperm might get a boost from obesity drugs",
+    "link": "https://www.nature.com/articles/d41586-026-01963-1",
+    "summary": "Nature, Published online: 19 June 2026; doi:10.1038/d41586-026-01963-1 Nature staff discuss preliminary data on the effects of GLP-1 drugs on male fertility, plus a two-year trial of a brain–computer interface.",
+    "pubDate": "2026-06-19",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
     "title": "Stem cells banish severe autoimmune disease for 15 years",
     "link": "https://www.nature.com/articles/d41586-026-01925-7",
     "summary": "Nature, Published online: 19 June 2026; doi:10.1038/d41586-026-01925-7 Two people were the first to receive the therapy for a condition that damages the spinal cord and optic nerve.",
     "pubDate": "2026-06-19",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Daily briefing: The brain builds a sentence neuron by neuron",
+    "link": "https://www.nature.com/articles/d41586-026-01967-x",
+    "summary": "Nature, Published online: 18 June 2026; doi:10.1038/d41586-026-01967-x Researchers have tracked the electrical activity of individual brain cells during conversation in real time. Plus, the history of GPS and a cross-species transplant that could reveal clues about the origin of animals.",
+    "pubDate": "2026-06-18",
     "source": "Nature",
     "category": "science"
   }

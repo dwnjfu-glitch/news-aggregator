@@ -16,6 +16,14 @@
     "category": "tech"
   },
   {
+    "title": "Show HN: Metiq: a real time 3D globe for 100 public datasets",
+    "link": "https://metiq.space",
+    "summary": "The concept for metiq.space came after playing Global Magnates with friends and realizing how fragmented live global data is. ships, aircraft, satellites, ports, weather, hazards, infrastructure, cyber, and public datasets all exist, but they usually live in separate tools and maps. The goal was ...",
+    "pubDate": "Tue, 16 Jun 2026 14:43:38 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
     "link": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
     "summary": "Article URL: https://www.greybeam.ai/blog/duckdb-internals-part-1 Comments URL: https://news.ycombinator.com/item?id=48553388 Points: 317 # Comments: 90",
@@ -240,6 +248,14 @@
     "category": "tech"
   },
   {
+    "title": "Show HN: Pagecast – Publish Markdown/HTML Reports to Cloudflare Pages",
+    "link": "https://github.com/Amal-David/pagecast",
+    "summary": "I built this because I kept generating HTML/Markdown reports from Claude Code/Codex and needed a permanent share link instead of a localhost tunnel. Pagecast is a local CLI that publishes those files to your own Cloudflare Pages account. It supports Markdown and HTML, stable URLs, renaming, repub...",
+    "pubDate": "Thu, 18 Jun 2026 19:42:54 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "Apple patches high-severity eavesdropping vulnerability in Beats Studio Buds",
     "link": "https://arstechnica.com/apple/2026/06/apple-patches-high-severity-eavesdropping-vulnerability-in-beats-studio-buds/",
     "summary": "The vulnerability, disclosed 12 months ago, affects multiple manufacturers.",
@@ -304,12 +320,164 @@
     "category": "general"
   },
   {
+    "title": "England winger Saka unlikely to start against Ghana",
+    "link": "https://www.bbc.com/sport/football/articles/crm0kg22m9jo?at_medium=RSS&at_campaign=rss",
+    "summary": "England head coach Thomas Tuchel hints that Bukayo Saka is unlikely to be in contention to start against Ghana on Tuesday.",
+    "pubDate": "Fri, 19 Jun 2026 20:09:51 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "What we know so far about Bedford train crash",
+    "link": "https://www.bbc.com/news/articles/cn75z3nl048o?at_medium=RSS&at_campaign=rss",
+    "summary": "Two East Midland Railway trains crashed into each other, with emergency services now on the scene",
+    "pubDate": "Fri, 19 Jun 2026 19:48:19 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
+    "link": "https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss",
+    "summary": "The agreement followed concerns that continued clashes would undermine the deal to end the war between the US and Iran.",
+    "pubDate": "Fri, 19 Jun 2026 19:27:12 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "PM under pressure from Labour MPs and ministers to set timetable for exit",
+    "link": "https://www.bbc.com/news/articles/cqx1ev0wn87o?at_medium=RSS&at_campaign=rss",
+    "summary": "The BBC has been told that the transport secretary is among those advising Starmer to set out a timetable.",
+    "pubDate": "Fri, 19 Jun 2026 19:22:40 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Video shows scene of Bedford train crash as passenger describes aftermath",
+    "link": "https://www.bbc.com/news/videos/c8d21z2q77do?at_medium=RSS&at_campaign=rss",
+    "summary": "Passenger Pete Knapp said the crash \"felt like [he'd] been in a bomb explosion\".",
+    "pubDate": "Fri, 19 Jun 2026 19:21:10 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Fifa alters how World Cup tables work - it changes everything",
+    "link": "https://www.bbc.com/sport/football/articles/cn94jrj8d5go?at_medium=RSS&at_campaign=rss",
+    "summary": "Fifa is using head-to-head records instead of group goal difference as the first tiebreaker for teams who are level on points at the World Cup.",
+    "pubDate": "Fri, 19 Jun 2026 18:52:19 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Would you choose to take a 22-hour non-stop flight?",
+    "link": "https://www.bbc.com/news/videos/cn4dqg0dz5go?at_medium=RSS&at_campaign=rss",
+    "summary": "The BBC asked Sydney locals if they would take the newly announced, longest ever commercial flight from Sydney to London.",
+    "pubDate": "Fri, 19 Jun 2026 18:47:31 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Giant Banana Pulled over in Montana Driver Says Cops Have Stopped Him 100s Times",
+    "link": "https://cowboystatedaily.com/2026/06/18/giant-banana-pulled-over-in-montana-driver-says-cops-have-stopped-him-100s-of-times/",
+    "summary": "Article URL: https://cowboystatedaily.com/2026/06/18/giant-banana-pulled-over-in-montana-driver-says-cops-have-stopped-him-100s-of-times/ Comments URL: https://news.ycombinator.com/item?id=48601420 Points: 47 # Comments: 25",
+    "pubDate": "Fri, 19 Jun 2026 18:14:11 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "John Jumper leaves Google to join Anthropic",
+    "link": "https://twitter.com/JohnJumperSci/status/2068001285173834106",
+    "summary": "Article URL: https://twitter.com/JohnJumperSci/status/2068001285173834106 Comments URL: https://news.ycombinator.com/item?id=48601162 Points: 22 # Comments: 12",
+    "pubDate": "Fri, 19 Jun 2026 17:53:00 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "England hit by Rew drops and Nicholls century",
+    "link": "https://www.bbc.com/sport/cricket/articles/cn94jnpv3wno?at_medium=RSS&at_campaign=rss",
+    "summary": "England’s parlous position in the second Test against New Zealand is compounded by drops from debutant wicketkeeper James Rew and a superb century by Henry Nicholls.",
+    "pubDate": "Fri, 19 Jun 2026 17:42:41 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "A new bill takes aim at government pressure to silence lawful online speech",
+    "link": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
+    "summary": "Article URL: https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech Comments URL: https://news.ycombinator.com/item?id=48600950 Points: 130 # Comments: 60",
+    "pubDate": "Fri, 19 Jun 2026 17:34:28 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Court Records Should Be Free",
+    "link": "https://www.eff.org/deeplinks/2026/06/court-records-should-be-free",
+    "summary": "Article URL: https://www.eff.org/deeplinks/2026/06/court-records-should-be-free Comments URL: https://news.ycombinator.com/item?id=48600946 Points: 34 # Comments: 3",
+    "pubDate": "Fri, 19 Jun 2026 17:34:18 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "本周看什么 | 最近值得一看的 8 部作品",
     "link": "https://sspai.com/post/111216",
     "summary": "📅本周新预告《攻壳机动队THEGHOSTINTHESHELL》正式预告6月16日，TV动画《攻壳机动队THEGHOSTINTHESHELL》发布了正式预告，宣布坂本真绫、山路和弘、安元洋贵、中村悠一配 ... 查看全文",
     "pubDate": "Fri, 19 Jun 2026 17:30:00 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "US to end funding of South Africa's HIV programmes over claims of Afrikaner persecution",
+    "link": "https://www.bbc.com/news/articles/cdr457lxr71o?at_medium=RSS&at_campaign=rss",
+    "summary": "The US says South Africa is not doing enough to protect the white-minority Afrikaner community.",
+    "pubDate": "Fri, 19 Jun 2026 17:02:02 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Every fusion startup that has raised over $100M",
+    "link": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/",
+    "summary": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
+    "pubDate": "Fri, 19 Jun 2026 16:50:58 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Hyundai buys Boston Dynamics",
+    "link": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+    "summary": "Article URL: https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/ Comments URL: https://news.ycombinator.com/item?id=48600312 Points: 383 # Comments: 189",
+    "pubDate": "Fri, 19 Jun 2026 16:28:20 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "'Prioritise love': Kate writes essay reflecting on Italy tour as new pictures released",
+    "link": "https://www.bbc.com/news/articles/c78y0gvmjy0o?at_medium=RSS&at_campaign=rss",
+    "summary": "The Princess of Wales reflects on an \"increasingly digitalised world\" in a new essay, written after her return to overseas visits following her treatment for cancer.",
+    "pubDate": "Fri, 19 Jun 2026 16:28:05 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Minimum age of 11 set for UK puberty blocker trial",
+    "link": "https://www.bbc.com/news/articles/c892p2qdjjxo?at_medium=RSS&at_campaign=rss",
+    "summary": "Gender-questioning children will have to be at least 11 years old to take part in a clinical trial of puberty-blocking drugs.",
+    "pubDate": "Fri, 19 Jun 2026 16:18:49 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
+    "link": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+    "summary": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5&#8217;s guardrails.&#160; Cybersecurity researchers have&#160;sin...",
+    "pubDate": "Fri, 19 Jun 2026 16:08:17 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Amateur may have cracked Linear A, a 120-year-old puzzle",
+    "link": "https://aiclambake.com/clamtakes/linear-a/",
+    "summary": "Article URL: https://aiclambake.com/clamtakes/linear-a/ Comments URL: https://news.ycombinator.com/item?id=48600107 Points: 264 # Comments: 113",
+    "pubDate": "Fri, 19 Jun 2026 16:04:42 +0000",
+    "source": "Hacker News",
+    "category": "tech"
   },
   {
     "title": "Thirty rioters sentenced for disorder which saw police officer set on fire",
@@ -342,6 +510,14 @@
     "pubDate": "Fri, 19 Jun 2026 15:15:42 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "There Are No Instances in ATProto",
+    "link": "https://overreacted.io/there-are-no-instances-in-atproto/",
+    "summary": "Article URL: https://overreacted.io/there-are-no-instances-in-atproto/ Comments URL: https://news.ycombinator.com/item?id=48599515 Points: 211 # Comments: 134",
+    "pubDate": "Fri, 19 Jun 2026 15:10:02 +0000",
+    "source": "Hacker News",
+    "category": "tech"
   },
   {
     "title": "Scottish guidance on trans prisoners ruled unlawful",
@@ -448,6 +624,22 @@
     "category": "general"
   },
   {
+    "title": "Dear researchers: help me deal with incidents",
+    "link": "https://surfingcomplexity.blog/wp-content/uploads/2026/06/dear-researchers.pdf",
+    "summary": "Comments",
+    "pubDate": "Fri, 19 Jun 2026 13:13:47 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Nike v Adidas - the World Cup brand battle",
+    "link": "https://www.bbc.com/sport/football/articles/c75y7py2lxdo?at_medium=RSS&at_campaign=rss",
+    "summary": "Eye-watering budgets are nothing new, but this year both Nike and Adidas have gone bigger and bolder than ever before in the fight for World Cup attention.",
+    "pubDate": "Fri, 19 Jun 2026 13:01:38 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "The CEO of Allbirds’ new AI biz has a plan, but no employees",
     "link": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
     "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
@@ -462,6 +654,14 @@
     "pubDate": "Fri, 19 Jun 2026 12:48:13 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Making Ticker-tape for the Knicks Parade",
+    "link": "https://joe.lothan.net/blog/ticker-tape/",
+    "summary": "Comments",
+    "pubDate": "Fri, 19 Jun 2026 12:08:08 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "The Best iPad to Buy (and Some to Avoid) in 2026: Compare the Air, Pro, Mini",
@@ -488,12 +688,28 @@
     "category": "tech"
   },
   {
+    "title": "The US star who couldn't be an American under Trump's plan",
+    "link": "https://www.bbc.com/sport/football/articles/c2ly0kx05jdo?at_medium=RSS&at_campaign=rss",
+    "summary": "Folarin Balogun scored two goals on his World Cup debut, but he is the type of person President Trump is trying to ban under birthright citizenship.",
+    "pubDate": "Fri, 19 Jun 2026 11:21:09 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "GTA 6 - all you need to know about Rockstar's blockbuster game",
     "link": "https://www.bbc.com/news/articles/c9q20djz4wno?at_medium=RSS&at_campaign=rss",
     "summary": "Rockstar's sixth game in the franchise is set to be the biggest game release of the year.",
     "pubDate": "Fri, 19 Jun 2026 11:21:09 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "I can haz smoller NixOS ISOs?",
+    "link": "https://natkr.com/2026-06-19-nixos-but-smol/",
+    "summary": "Comments",
+    "pubDate": "Fri, 19 Jun 2026 11:20:51 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "As global warming threatens corals, scientists search for reefs that can take the heat",
@@ -582,6 +798,14 @@
     "pubDate": "Fri, 19 Jun 2026 10:25:30 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Stop Naming Your Variables \"Flag\": The Art of Boolean Prefixes",
+    "link": "https://thatamazingprogrammer.com/posts/stop-naming-your-variables-flag-the-art-of-boolean-prefixes/",
+    "summary": "Comments",
+    "pubDate": "Fri, 19 Jun 2026 10:22:00 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Norway greenlights first full-scale ship tunnel",
@@ -766,6 +990,14 @@
     "pubDate": "Fri, 19 Jun 2026 07:47:55 EDT",
     "source": "Science Daily",
     "category": "science"
+  },
+  {
+    "title": "What are you doing this weekend?",
+    "link": "https://lobste.rs/s/wemk3j/what_are_you_doing_this_weekend",
+    "summary": "Feel free to tell what you plan on doing this weekend and even ask for help or feedback. Please keep in mind it’s more than OK to do nothing at all too!",
+    "pubDate": "Fri, 19 Jun 2026 07:30:13 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "US-Iran talks in Switzerland canceled. And, DHS to give police facial recognition app",
@@ -1238,6 +1470,22 @@
     "pubDate": "Fri, 19 Jun 2026 00:01:27 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "NASA selects Eric Schmidt&#8217;s rocket company for a 2028 mission to Mars",
+    "link": "https://www.theverge.com/science/952988/nasa-relativity-space-eric-schmidt-mars",
+    "summary": "Relativity Space, the rocket company led by former Google executive Eric Schmidt, was picked to launch NASA's Aeolus payload to Mars in 2028, as reported earlier by TechCrunch. Under a new public-private partnership, Relativity Space will provide the \"spacecraft, rocket, and cruise operations\" to...",
+    "pubDate": "2026-06-19T14:41:48-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Hue’s wired wall modules bring non-smart lights into its ecosystem",
+    "link": "https://www.theverge.com/tech/952953/phillips-hue-wired-wall-module-play-lamp-candle-bulb",
+    "summary": "Smart lighting company Philips Hue has launched its first wired wall modules. Installed behind existing wall switches, the new devices bring non-smart lights into the Hue ecosystem for the first time. Hue also announced new Play table and floor lamps that are more affordable versions of its Signe...",
+    "pubDate": "2026-06-19T13:24:45-04:00",
+    "source": "The Verge",
+    "category": "tech"
   },
   {
     "title": "The NTS Radio Player brings the best of internet radio to your hi-fi",

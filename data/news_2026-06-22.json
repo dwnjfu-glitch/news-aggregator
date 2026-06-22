@@ -216,12 +216,300 @@
     "category": "tech"
   },
   {
+    "title": "Analysis: Everything points to Burnham becoming PM within weeks",
+    "link": "https://www.bbc.com/news/articles/c20y1zvg50lo?at_medium=RSS&at_campaign=rss",
+    "summary": "If no leadership contest presents itself, Andy Burnham may not have to wait until September to enter Number 10.",
+    "pubDate": "Mon, 22 Jun 2026 21:11:38 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
+    "link": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/",
+    "summary": "The move comes after the company left potentially sensitive data from the initiative exposed internally.",
+    "pubDate": "Mon, 22 Jun 2026 21:08:09 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Kyber (YC W23) Is Hiring a Head of Engineering",
+    "link": "https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering",
+    "summary": "Article URL: https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering Comments URL: https://news.ycombinator.com/item?id=48636125 Points: 0 # Comments: 0",
+    "pubDate": "Mon, 22 Jun 2026 21:00:51 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The AI world is getting ‘loopy’",
+    "link": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+    "summary": "The loop takes agentic AI a step further, by authorizing a swarm of agents to work continuously in the background, endlessly.",
+    "pubDate": "Mon, 22 Jun 2026 20:53:11 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Microsoft and Chevron plan one of the largest gas-powered data center projects in US",
+    "link": "https://techcrunch.com/2026/06/22/microsoft-and-chevron-plan-one-of-the-largest-gas-powered-data-center-projects-in-us/",
+    "summary": "Microsoft inked a 20-year power purchase agreement with Chevron, locking in decades of carbon emissions from a new natural gas power plant.",
+    "pubDate": "Mon, 22 Jun 2026 20:37:19 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Puberty blocker trial will help reduce harm, says Cass report author",
+    "link": "https://www.bbc.com/news/articles/cvg5njnn8k8o?at_medium=RSS&at_campaign=rss",
+    "summary": "Dr Hilary Cass says she is \"absolutely convinced that more children will be harmed if we don't do the trial than if we do.\"",
+    "pubDate": "Mon, 22 Jun 2026 20:30:41 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Messi makes World Cup history as Argentina reach last 32",
+    "link": "https://www.bbc.com/sport/football/videos/c0ey1l0z2r8o?at_medium=RSS&at_campaign=rss",
+    "summary": "Lionel Messi becomes the World Cup's all-time leading goalscorer as his double against Austria sends holders Argentina into the last 32.",
+    "pubDate": "Mon, 22 Jun 2026 20:29:31 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Meta Exposed Data Internally From Its Controversial Employee-Tracking Program",
+    "link": "https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/",
+    "summary": "Employees had previously raised concerns about the initiative, which involves collecting workers’ keystroke data to train AI models.",
+    "pubDate": "Mon, 22 Jun 2026 20:28:53 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
+    "link": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+    "summary": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.",
+    "pubDate": "Mon, 22 Jun 2026 20:13:58 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Polymarket's viral videos showed people winning big, but the bets were fake",
+    "link": "https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/",
+    "summary": "\"Winning\" bets were made on cloned website and would have lost money, WSJ finds.",
+    "pubDate": "Mon, 22 Jun 2026 20:10:34 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Walt Disney Company is the most successful at monetizing human nostalgia [audio]",
+    "link": "https://www.acquired.fm/episodes/the-walt-disney-company",
+    "summary": "Article URL: https://www.acquired.fm/episodes/the-walt-disney-company Comments URL: https://news.ycombinator.com/item?id=48635409 Points: 28 # Comments: 17",
+    "pubDate": "Mon, 22 Jun 2026 20:09:40 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
+    "link": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
+    "summary": "Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel power plants.",
+    "pubDate": "Mon, 22 Jun 2026 20:08:15 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Jobs and Software Is Fucked",
+    "link": "https://urflow.bearblog.dev/jobs-and-software-is-fucked/",
+    "summary": "Article URL: https://urflow.bearblog.dev/jobs-and-software-is-fucked/ Comments URL: https://news.ycombinator.com/item?id=48635112 Points: 183 # Comments: 147",
+    "pubDate": "Mon, 22 Jun 2026 19:47:52 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Tata Electronics, a major tech supplier to Apple and Tesla, confirms data breach",
+    "link": "https://techcrunch.com/2026/06/22/tata-electronics-a-major-tech-supplier-to-apple-and-tesla-confirms-data-breach/",
+    "summary": "The incident comes as Tata Electronics expands its role in global technology supply chains.",
+    "pubDate": "Mon, 22 Jun 2026 19:25:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Japanese symbols that speak without words",
+    "link": "https://arun.is/blog/japan-symbols/",
+    "summary": "Article URL: https://arun.is/blog/japan-symbols/ Comments URL: https://news.ycombinator.com/item?id=48634803 Points: 22 # Comments: 3",
+    "pubDate": "Mon, 22 Jun 2026 19:22:37 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
+    "link": "https://github.com/dorukkumkumoglu/optocamzero",
+    "summary": "Article URL: https://github.com/dorukkumkumoglu/optocamzero Comments URL: https://news.ycombinator.com/item?id=48634778 Points: 33 # Comments: 2",
+    "pubDate": "Mon, 22 Jun 2026 19:19:55 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Following user outcry, AMD reinstates memory encryption in consumer CPUs",
+    "link": "https://arstechnica.com/security/2026/06/following-user-outcry-amd-reinstates-memory-encryption-in-consumer-cpus/",
+    "summary": "Critics saw the move as an underhanded way to steer them toward more costly chips.",
+    "pubDate": "Mon, 22 Jun 2026 19:16:52 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
+    "link": "https://ipvm.com/reports/police-chiefs-track",
+    "summary": "Article URL: https://ipvm.com/reports/police-chiefs-track Comments URL: https://news.ycombinator.com/item?id=48634694 Points: 85 # Comments: 3",
+    "pubDate": "Mon, 22 Jun 2026 19:13:46 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Messi becomes World Cup all-time leading scorer - how has he stayed at the top?",
+    "link": "https://www.bbc.com/sport/football/articles/cvg7nx477pvo?at_medium=RSS&at_campaign=rss",
+    "summary": "As he becomes the top goalscorer in World Cup history, BBC Sport explores how Lionel Messi is still delivering on the biggest stage in his late 30s.",
+    "pubDate": "Mon, 22 Jun 2026 19:08:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Canada is looking to build up to 10 new nuclear reactors over the next 15 years",
+    "link": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
+    "summary": "Article URL: https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509 Comments URL: https://news.ycombinator.com/item?id=48634585 Points: 81 # Comments: 22",
+    "pubDate": "Mon, 22 Jun 2026 19:06:48 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Memory crisis is getting so bad that even retro RAM prices are going to the Moon",
+    "link": "https://www.theregister.com/personal-tech/2026/06/22/the-memory-crisis-is-getting-so-bad-that-even-retro-ram-prices-are-going-to-the-moon/5259627",
+    "summary": "Article URL: https://www.theregister.com/personal-tech/2026/06/22/the-memory-crisis-is-getting-so-bad-that-even-retro-ram-prices-are-going-to-the-moon/5259627 Comments URL: https://news.ycombinator.com/item?id=48634559 Points: 39 # Comments: 5",
+    "pubDate": "Mon, 22 Jun 2026 19:04:49 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Valve's Steam Machine ships June 29 for $1,049, but you probably won't be able to buy one yet",
+    "link": "https://arstechnica.com/gaming/2026/06/valves-steam-machine-ships-june-29-for-1049-but-you-probably-wont-be-able-to-buy-one-yet/",
+    "summary": "Valve says it's using a randomized purchase queue to make the experience \"less frustrating and more fair.\"",
+    "pubDate": "Mon, 22 Jun 2026 19:02:45 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "A new unpatchable flaw in Apple chips opens the door to an iPhone jailbreak",
+    "link": "https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/",
+    "summary": "European offensive cybersecurity company Paradigm Shift released details of a flaw and a technique to exploit it that opens the door for hackers to unlock and break into older iPhones.",
+    "pubDate": "Mon, 22 Jun 2026 18:50:24 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
+    "link": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+    "summary": "Google DeepMind and A24 are teaming up to build AI filmmaking tools.",
+    "pubDate": "Mon, 22 Jun 2026 18:49:44 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Man City close in on appointing Maresca as manager",
+    "link": "https://www.bbc.com/sport/football/articles/cn59kxz44wgo?at_medium=RSS&at_campaign=rss",
+    "summary": "Manchester City are closing in on the appointment of Enzo Maresca to succeed Pep Guardiola as manager.",
+    "pubDate": "Mon, 22 Jun 2026 18:43:13 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Ex DUP leader Donaldson guilty of child sex abuse charges including one of rape",
+    "link": "https://www.bbc.com/news/articles/c04yrvzkdqqo?at_medium=RSS&at_campaign=rss",
+    "summary": "The former MP is remanded in custody while he awaits sentencing for 18 offences.",
+    "pubDate": "Mon, 22 Jun 2026 18:31:56 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Man charged with terrorism-linked attempted murders after alleged anti-Muslim attacks in Edinburgh",
+    "link": "https://www.bbc.com/news/articles/cx2x9j1en29o?at_medium=RSS&at_campaign=rss",
+    "summary": "Lewis Hawkes appeared at Edinburgh Sheriff Court following alleged anti-Muslim attacks in the city on Friday evening.",
+    "pubDate": "Mon, 22 Jun 2026 18:28:43 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Watch: A day of big changes and mixed emotions for Labour",
+    "link": "https://www.bbc.com/news/videos/cze9rj6d7rgo?at_medium=RSS&at_campaign=rss",
+    "summary": "Andy Burnham is sworn in as MP for Makerfield hours after Keir Starmer announces his resignation as Labour Party leader.",
+    "pubDate": "Mon, 22 Jun 2026 18:26:07 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Keir Starmer Resigns as Prime Minister",
+    "link": "https://www.bbc.co.uk/sounds/play/p0ntfddg?at_medium=RSS&at_campaign=rss",
+    "summary": "Keir Starmer resigns as PM, and Andy Burnham confirms he will run to replace him.",
+    "pubDate": "Mon, 22 Jun 2026 18:19:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Eight in critical condition after train crash",
+    "link": "https://www.bbc.com/news/articles/c4gy60gg6k5o?at_medium=RSS&at_campaign=rss",
+    "summary": "Over 100 needed hospital treatment as the transport secretary urges people not to speculate on the cause.",
+    "pubDate": "Mon, 22 Jun 2026 18:18:29 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "We Tried the Most Popular Mushroom Coffees. These Are the Best (2026)",
+    "link": "https://www.wired.com/gallery/best-mushroom-coffee/",
+    "summary": "“Coffee” made with functional mushrooms like lion’s mane and chaga is all the rage. We tried the most popular brands to find which were the most palatable.",
+    "pubDate": "Mon, 22 Jun 2026 18:10:09 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Anthropic says Claude may want to see your ID",
+    "link": "https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/",
+    "summary": "Claude's chatbot may ask to verify your age and identity \"in certain circumstances,\" such as with a passport or driver's license, according to a privacy policy change.",
+    "pubDate": "Mon, 22 Jun 2026 18:05:13 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
     "title": "派评 | 近期值得关注的 App",
     "link": "https://sspai.com/post/111360",
     "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀 查看全文",
     "pubDate": "Mon, 22 Jun 2026 18:04:48 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "Finding the Best Dog Treat with Statistics",
+    "link": "https://www.wespiser.com/posts/2026-06-19-best-dog-treat.html",
+    "summary": "Article URL: https://www.wespiser.com/posts/2026-06-19-best-dog-treat.html Comments URL: https://news.ycombinator.com/item?id=48633410 Points: 53 # Comments: 10",
+    "pubDate": "Mon, 22 Jun 2026 17:46:48 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Amazon is testing Alexa+ in India with Hindi support",
+    "link": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
+    "summary": "Amazon is planning to increase the footprint of its new conversational AI assistant Alexa+ to India and is inviting users in the country to test out a Hindi-language version.",
+    "pubDate": "Mon, 22 Jun 2026 17:31:29 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "NHTSA investigating alleged Tesla Autopilot crash that killed woman in her home",
+    "link": "https://arstechnica.com/tech-policy/2026/06/woman-killed-when-tesla-driver-using-autopilot-crashed-into-her-home/",
+    "summary": "Tesla touts Autopilot as lifesaving a day after grandmother died in crash.",
+    "pubDate": "Mon, 22 Jun 2026 17:10:52 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Steam Machine launches today",
+    "link": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
+    "summary": "https://store.steampowered.com/sale/steammachine https://www.lttlabs.com/articles/2026/06/22/the-newell-nucle... https://www.youtube.com/watch?v=66QzlDewigE Comments URL: https://news.ycombinator.com/item?id=48632884 Points: 802 # Comments: 688",
+    "pubDate": "Mon, 22 Jun 2026 17:09:51 +0000",
+    "source": "Hacker News",
+    "category": "tech"
   },
   {
     "title": "Clive Davis, music mogul behind Whitney Houston and Bruce Springsteen, dies aged 94",
@@ -304,6 +592,14 @@
     "category": "tech"
   },
   {
+    "title": "Mexican government unveils a prototype for a new homegrown, ultra-affordable EV",
+    "link": "https://gizmodo.com/mexico-just-showed-off-a-new-extremely-cheap-government-backed-ev-2000769080",
+    "summary": "Article URL: https://gizmodo.com/mexico-just-showed-off-a-new-extremely-cheap-government-backed-ev-2000769080 Comments URL: https://news.ycombinator.com/item?id=48632652 Points: 148 # Comments: 119",
+    "pubDate": "Mon, 22 Jun 2026 16:48:45 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "Two men plead guilty over £39m TfL cyber attack that caused months of disruption",
     "link": "https://www.bbc.com/news/articles/czx5yp9qy0do?at_medium=RSS&at_campaign=rss",
     "summary": "The data breach affected 10m customers and disrupted some services for three months in summer 2024.",
@@ -352,6 +648,14 @@
     "category": "tech-cn"
   },
   {
+    "title": "Supreme Court declines to hear Texas man's intellectual disability case in capital case",
+    "link": "https://www.npr.org/2026/06/22/nx-s1-5866741/supreme-court-texas-death-penalty",
+    "summary": "The court's action means Victor Saldaño is likely to be executed even though both defense and state experts determined he was not eligible for execution under the law.",
+    "pubDate": "Mon, 22 Jun 2026 16:13:51 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "Uncapped Coles picked for England T20 squad",
     "link": "https://www.bbc.com/sport/cricket/articles/czx5y111rj8o?at_medium=RSS&at_campaign=rss",
     "summary": "Sussex all-rounder James Coles is called up by England for their T20 series against India.",
@@ -384,6 +688,14 @@
     "category": "tech"
   },
   {
+    "title": "Show HN: Oak – Git alternative designed for agents",
+    "link": "https://oak.space/oak/oak",
+    "summary": "Oak is a version control system I've been working on designed for agents ( https://oak.space ). It improves the speed and context your agents need when working on serious projects. With virtual mounts, agents locally and in the cloud no longer need a full copy of a repo to get working. You can wo...",
+    "pubDate": "Mon, 22 Jun 2026 15:37:48 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "Myanmar army killed over 700 civilians in six months, UN says",
     "link": "https://www.bbc.com/news/articles/cnv97e42r7yo?at_medium=RSS&at_campaign=rss",
     "summary": "The new UN report says the 702 civilian deaths over six months last year included 153 children.",
@@ -400,12 +712,28 @@
     "category": "general"
   },
   {
+    "title": "In memory of the man who put red and green squiggles under words",
+    "link": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
+    "summary": "Comments",
+    "pubDate": "Mon, 22 Jun 2026 15:23:42 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Lucid lays off 1,500 workers in second big cut of the year",
     "link": "https://arstechnica.com/cars/2026/06/lucid-lays-off-1500-workers-in-second-big-cut-of-the-year/",
     "summary": "The cuts and redundancies are part of a plan to \"simplify the company,\" the CEO says.",
     "pubDate": "Mon, 22 Jun 2026 15:22:46 +0000",
     "source": "Ars Technica",
     "category": "tech"
+  },
+  {
+    "title": "Magnificent Messi makes history, breaks all-time World Cup scoring record",
+    "link": "https://www.npr.org/2026/06/22/nx-s1-5866649/2026-world-cup-fifa-lionel-messi-argentina-scoring-record",
+    "summary": "Messi scored a record-setting 17th World Cup goal in Argentina's game against Austria. And, then, he netted another goal, making him the all-time leader in World Cup tournaments (men and women).",
+    "pubDate": "Mon, 22 Jun 2026 15:22:45 -0400",
+    "source": "NPR",
+    "category": "general"
   },
   {
     "title": "WhatsApp gets new chief as Meta taps India’s CRED founder Kunal Shah, and invests $900M in startup",
@@ -616,6 +944,22 @@
     "category": "general"
   },
   {
+    "title": "Rhombus v1.0: A Racket flavored language with syntax",
+    "link": "https://blog.racket-lang.org/2026/06/rhombus-v1.0.html",
+    "summary": "Comments",
+    "pubDate": "Mon, 22 Jun 2026 12:54:04 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Network shares: still talking about them in 2026",
+    "link": "https://pointieststick.com/2026/06/22/network-shares-still-talking-about-them-in-2026/",
+    "summary": "Comments",
+    "pubDate": "Mon, 22 Jun 2026 12:51:21 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Show HN: I rebuilt the only parts of my IDE I use, in Rust, over a weekend",
     "link": "https://github.com/kyle-ssg/kyde",
     "summary": "I don't know Rust. Friday after work I realised that 90% of my IDE time now is just the commit/diff view — and even good IDEs feel heavy for that. So over the weekend I built a dedicated native tool for just that. Kyde is a macOS git commit + diff editor with one goal: be fast, do Git well. I'm c...",
@@ -684,6 +1028,14 @@
     "link": "https://www.bbc.com/news/articles/cz6gxe61p70o?at_medium=RSS&at_campaign=rss",
     "summary": "Six simple things you can do to help keep your house cool when temperatures rise.",
     "pubDate": "Mon, 22 Jun 2026 11:13:44 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "How to get a good night's sleep during hot weather",
+    "link": "https://www.bbc.com/news/articles/cpw7gp2ky70o?at_medium=RSS&at_campaign=rss",
+    "summary": "Simple tips to help you get a good night's sleep when temperatures rise.",
+    "pubDate": "Mon, 22 Jun 2026 11:12:23 GMT",
     "source": "BBC News",
     "category": "general"
   },
@@ -1328,6 +1680,46 @@
     "category": "general"
   },
   {
+    "title": "Valve describes just how brutal RAM negotiations are in 2026",
+    "link": "https://www.theverge.com/games/953945/valve-steam-machine-memory-component-crisis",
+    "summary": "Valve's Steam Machine finally has a price: a whopping $1,049 for the 512GB configuration or $1,349 for the 2TB version. And those are without bundled controllers, which drive up the cost more. The prices are so high in part because Valve isn't subsidizing the hardware, and the company has already...",
+    "pubDate": "2026-06-22T17:07:14-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "AI is cursing renters with the promise of impossible homes",
+    "link": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
+    "summary": "Joyce, a native New Yorker, didn't think finding her first solo apartment in the city would be easy. But she also didn't think it'd be \"hell.\" After looking at a lot of tiny, overpriced places she described as \"shitholes,\" Joyce found her dream apartment: a reasonably priced studio in Manhattan. ...",
+    "pubDate": "2026-06-22T16:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "The Apple Watch SE 3 is just $199 for Prime Day",
+    "link": "https://www.theverge.com/gadgets/953458/apple-watch-se-3-prime-day-deal-sale",
+    "summary": "The Apple Watch SE 3 is at an all-time low of $199, making the sleeper hit of last year’s Apple Watches an even better value. While the Series 11 and Ultra 3 were iterative updates, the SE 3 was a wide-ranging glow-up that added an always-on display, gestures like double tap and wrist flick, a [&...",
+    "pubDate": "2026-06-22T14:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "The Steam Machine is the start of an even more expensive future for game consoles",
+    "link": "https://www.theverge.com/entertainment/953615/steam-machine-price-game-consoles-future-ps6-project-helix",
+    "summary": "It's no secret that just about every aspect of video games is getting more expensive. Game consoles are getting regular price hikes, PC components are spiking in cost, and the golden age of affordable handhelds is over, all largely due to the global RAM shortage, which has had a similarly costly ...",
+    "pubDate": "2026-06-22T14:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Google invests in A24 to build AI movie tools",
+    "link": "https://www.theverge.com/entertainment/953596/google-deepmind-a24-studio-ai-partnership",
+    "summary": "Google's DeepMind AI lab is teaming up with A24 to develop new movie production technologies that aim to help future filmmakers \"expand their storytelling possibilities.\" As part of this new research and development collaboration, The Wall Street Journal reports that Google is investing \"around $...",
+    "pubDate": "2026-06-22T13:18:13-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
     "title": "Valve is working with AMD to bring FSR 4 to the Steam Machine",
     "link": "https://www.theverge.com/games/952210/valve-steam-machine-fsr4-amd-upscaler",
     "summary": "The Steam Machine is a cool little console that's about as powerful as a PlayStation 5, according to my colleague Sean Hollister's in-depth review. But one area where it lags behind is with its earlier version of AMD FSR upscaler: It's just not as good as it should be. Yes, it can sharpen low-res...",
@@ -1934,6 +2326,30 @@
     "pubDate": "2026-06-22 08:05:51  +0800",
     "source": "36Kr",
     "category": "tech-cn"
+  },
+  {
+    "title": "A spacecraft is falling to its doom — can NASA save it?",
+    "link": "https://www.nature.com/articles/d41586-026-01949-z",
+    "summary": "Nature, Published online: 22 June 2026; doi:10.1038/d41586-026-01949-z A successful rescue of the Swift space observatory could be a good omen for the Hubble Space Telescope.",
+    "pubDate": "2026-06-22",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Forty years of high-temperature superconductivity",
+    "link": "https://www.nature.com/articles/d41586-026-01801-4",
+    "summary": "Nature, Published online: 22 June 2026; doi:10.1038/d41586-026-01801-4 The first demonstration of superconductivity at 35 kelvin drove decades of materials research and introduced a puzzle about this strange state of matter.",
+    "pubDate": "2026-06-22",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Cancer cells adopt unprecedented strategies to produce a molecule that protects them from iron-dependent death",
+    "link": "https://www.nature.com/articles/d41586-026-01802-3",
+    "summary": "Nature, Published online: 22 June 2026; doi:10.1038/d41586-026-01802-3 The finding that spermine molecules in cells bind to iron to prevent it unleashing ferroptosis, a type of cell death, opens up strategies for treating tissue damage and cancer.",
+    "pubDate": "2026-06-22",
+    "source": "Nature",
+    "category": "science"
   },
   {
     "title": "C-glycoside synthesis via radical cross-coupling of glycohydrazides",

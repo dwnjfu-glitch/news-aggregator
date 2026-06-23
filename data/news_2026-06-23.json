@@ -1,0 +1,626 @@
+[
+  {
+    "title": "把面试变成一场「开卷推理」：我的全流程备战与复盘 SOP",
+    "link": "https://sspai.com/post/110947",
+    "summary": "当样本量积累到足够多时，面试其实是一场有迹可循的推理小游戏。 查看全文",
+    "pubDate": "Tue, 23 Jun 2026 11:00:18 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "派早报：荣耀发布 X80 Pro Max 等新品等",
+    "link": "https://sspai.com/post/111385",
+    "summary": "少数派的近期动态少数派×AKKO联合共创带屏键盘功能共创计划开启。参与众测招募尝鲜27系列新系统的朋友，你的满意度如何？来一派投票少数派正版软件、付费教程618促销活动限时开启。点击省钱可爱又好玩的经 ... 查看全文",
+    "pubDate": "Tue, 23 Jun 2026 08:49:30 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "The Papers: 'Keir's tears... Andy's crown' and 'Messiah without a mandate'",
+    "link": "https://www.bbc.com/news/articles/cvgj3z76z78o?at_medium=RSS&at_campaign=rss",
+    "summary": "Sir Keir Starmer's resignation and Andy Burnham's \"coronation\" lead Tuesday's papers.",
+    "pubDate": "Tue, 23 Jun 2026 04:39:56 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Is watching England in the World Cup bad for your health?",
+    "link": "https://www.bbc.com/news/articles/cgjxy199d9do?at_medium=RSS&at_campaign=rss",
+    "summary": "Watching football is an emotional rollercoaster - but is it good or bad for your health?",
+    "pubDate": "Tue, 23 Jun 2026 04:30:14 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Will It Mythos?",
+    "link": "https://swelljoe.com/post/will-it-mythos/",
+    "summary": "Article URL: https://swelljoe.com/post/will-it-mythos/ Comments URL: https://news.ycombinator.com/item?id=48640196 Points: 12 # Comments: 1",
+    "pubDate": "Tue, 23 Jun 2026 04:15:04 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "A Golden Boot race for the ages - but who will come out on top?",
+    "link": "https://www.bbc.com/sport/football/articles/c5yz2enre06o?at_medium=RSS&at_campaign=rss",
+    "summary": "It is fast turning into a Golden Boot race for the ages as the world's best strikers star at the World Cup. But who will come out on top?",
+    "pubDate": "Tue, 23 Jun 2026 03:56:28 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Can you refuse to work or send your kids to school during a heatwave?",
+    "link": "https://www.bbc.com/news/articles/c6217nv34rro?at_medium=RSS&at_campaign=rss",
+    "summary": "As temperatures increase significantly over the next few days, these are your rights.",
+    "pubDate": "Tue, 23 Jun 2026 03:38:21 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Stalker who rang BTS star's doorbell 133 times faces deportation",
+    "link": "https://www.bbc.com/news/articles/c9v2d9edx9wo?at_medium=RSS&at_campaign=rss",
+    "summary": "The Brazilian woman visited BTS member Jungkook's home 20 times in less than two months.",
+    "pubDate": "Tue, 23 Jun 2026 03:23:36 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "What France & Iraq did during 'mentally draining' two-hour weather delay",
+    "link": "https://www.bbc.com/sport/football/articles/cy73y401ppjo?at_medium=RSS&at_campaign=rss",
+    "summary": "France's World Cup match against Iraq was delayed for two hours because of the weather. BBC Sport look at how the sides dealt with it.",
+    "pubDate": "Tue, 23 Jun 2026 03:21:49 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Reflecting Pool to be drained as Trump again blames 'vandals' for recent troubles",
+    "link": "https://www.bbc.com/news/articles/c5yzpjd1njpo?at_medium=RSS&at_campaign=rss",
+    "summary": "Trump said vandals cut a long slit in it and possibly dumped fertiliser in the water, and later threatened to sue over reporting on the pool.",
+    "pubDate": "Tue, 23 Jun 2026 03:19:52 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Labour MPs mull leadership challenge to prevent Burnham 'coronation'",
+    "link": "https://www.bbc.com/news/articles/cx2kqd9ver1o?at_medium=RSS&at_campaign=rss",
+    "summary": "Two senior party figures are considering bids in order to ensure the next leader's policy ideas are tested in a race.",
+    "pubDate": "Tue, 23 Jun 2026 02:57:05 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Norway win five-goal thriller against Senegal to make last 32",
+    "link": "https://www.bbc.com/sport/football/videos/cze9g17p6rlo?at_medium=RSS&at_campaign=rss",
+    "summary": "Erling Haaland scores twice as Norway book their place in the last 32 of the World Cup with a 3-2 victory over Senegal in New Jersey.",
+    "pubDate": "Tue, 23 Jun 2026 02:41:44 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models",
+    "link": "https://arxiv.org/abs/2606.03748",
+    "summary": "Article URL: https://arxiv.org/abs/2606.03748 Comments URL: https://news.ycombinator.com/item?id=48639434 Points: 10 # Comments: 0",
+    "pubDate": "Tue, 23 Jun 2026 02:28:00 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Tech giant Oracle cuts 21,000 jobs as it embraces AI",
+    "link": "https://www.bbc.com/news/articles/c4gy0x0j5deo?at_medium=RSS&at_campaign=rss",
+    "summary": "The cuts are part of a wider trend among tech firms as they spend hundreds of billions of dollars on AI.",
+    "pubDate": "Tue, 23 Jun 2026 02:21:14 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
+    "link": "https://arxiv.org/abs/2606.16140",
+    "summary": "Article URL: https://arxiv.org/abs/2606.16140 Comments URL: https://news.ycombinator.com/item?id=48639240 Points: 54 # Comments: 20",
+    "pubDate": "Tue, 23 Jun 2026 02:01:25 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Ransom note claims Nancy Guthrie died after abduction",
+    "link": "https://www.bbc.com/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss",
+    "summary": "The note from the possible kidnappers reportedly stated that they did not mean for her to die and included an apology to the family.",
+    "pubDate": "Tue, 23 Jun 2026 01:59:39 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "1,700 free online courses from top universities",
+    "link": "https://www.openculture.com/freeonlinecourses",
+    "summary": "Article URL: https://www.openculture.com/freeonlinecourses Comments URL: https://news.ycombinator.com/item?id=48639184 Points: 102 # Comments: 23",
+    "pubDate": "Tue, 23 Jun 2026 01:54:38 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "An Introduction to YOLO26",
+    "link": "https://blog.roboflow.com/yolo26/",
+    "summary": "Article URL: https://blog.roboflow.com/yolo26/ Comments URL: https://news.ycombinator.com/item?id=48639165 Points: 22 # Comments: 1",
+    "pubDate": "Tue, 23 Jun 2026 01:52:20 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "England boss Tuchel not a fan of hydration breaks",
+    "link": "https://www.bbc.com/sport/football/articles/c4gyzknng1jo?at_medium=RSS&at_campaign=rss",
+    "summary": "England head coach Thomas Tuchel admits he is not a fan of the controversial hydration breaks being used at the World Cup.",
+    "pubDate": "Tue, 23 Jun 2026 01:39:34 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+    "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+    "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+    "pubDate": "Tue, 23 Jun 2026 01:27:55 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "In praise of memcached",
+    "link": "https://jchri.st/blog/in-praise-of-memcached/",
+    "summary": "Article URL: https://jchri.st/blog/in-praise-of-memcached/ Comments URL: https://news.ycombinator.com/item?id=48638886 Points: 83 # Comments: 29",
+    "pubDate": "Tue, 23 Jun 2026 01:15:05 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "OpenAI launches new initiative to help find and patch open-source bugs",
+    "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+    "summary": "OpenAI is attempting to tackle the security issues of the open source software community.",
+    "pubDate": "Tue, 23 Jun 2026 00:11:31 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Fears 1,000 LGBT veterans could miss gay ban compensation deadline",
+    "link": "https://www.bbc.com/news/articles/cvg74x2jv98o?at_medium=RSS&at_campaign=rss",
+    "summary": "Charities are urging any veterans who haven't yet registered for the scheme to come forward.",
+    "pubDate": "Mon, 22 Jun 2026 23:48:36 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "First drug to delay onset of type 1 diabetes made available on NHS",
+    "link": "https://www.bbc.com/news/articles/ce8mzd94r76o?at_medium=RSS&at_campaign=rss",
+    "summary": "The immunotherpay can give children and adults three extra years before they need to use insulin.",
+    "pubDate": "Mon, 22 Jun 2026 23:44:41 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "How 100 Romanian hospitals switched to pen and paper to defeat a national cyber-attack",
+    "link": "https://www.bbc.com/news/articles/c4gyk756mzlo?at_medium=RSS&at_campaign=rss",
+    "summary": "For four days, dozens of Romanian hospitals went offline, as cyber-experts sought to defeat the hackers.",
+    "pubDate": "Mon, 22 Jun 2026 23:31:21 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "This emerging treatment is helping people avoid knee replacement surgery",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260622091502.htm",
+    "summary": "A minimally invasive treatment called GAE is helping people with chronic knee pain get back to gardening, cycling, and other activities without undergoing knee replacement surgery. Early studies suggest the procedure can provide years of relief by reducing inflammation inside the joint.",
+    "pubDate": "Mon, 22 Jun 2026 23:04:58 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "UK set for hottest June day on record as searing heat continues",
+    "link": "https://www.bbc.com/weather/articles/c0myl4d3l0no?at_medium=RSS&at_campaign=rss",
+    "summary": "Heatwave conditions intensify across parts of England and Wales as the Met Office issues a rare red warning for extreme heat.",
+    "pubDate": "Mon, 22 Jun 2026 23:03:59 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Millions of iCloud users could claim share of £3bn after Apple case given UK green light",
+    "link": "https://www.bbc.com/news/articles/c932d1r0p96o?at_medium=RSS&at_campaign=rss",
+    "summary": "Apple rejected the suggestion its practices are anti-competitive, saying many customers rely on third-party alternatives.",
+    "pubDate": "Mon, 22 Jun 2026 23:02:33 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Donaldson's first night in prison as downfall shakes NI politics",
+    "link": "https://www.bbc.com/news/articles/c0ry792ep5vo?at_medium=RSS&at_campaign=rss",
+    "summary": "Donaldson has been told to expect a \"lengthy sentence\" for a string of child sex crimes, including rape.",
+    "pubDate": "Mon, 22 Jun 2026 23:02:02 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Tesla pushes back on Autopilot narrative after fatal Texas crash",
+    "link": "https://techcrunch.com/2026/06/22/tesla-pushes-back-on-autopilot-narrative-after-fatal-texas-crash/",
+    "summary": "Whether the Autopilot system was truly active, overridden, or malfunctioning likely won't be resolved until investigators finish combing through the vehicle's data logs.",
+    "pubDate": "Mon, 22 Jun 2026 22:59:57 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Chris Mason: Questions multiply for the man tipped to replace Starmer",
+    "link": "https://www.bbc.com/news/articles/cn8k4kyrdn5o?at_medium=RSS&at_campaign=rss",
+    "summary": "Andy Burnham will have to set out his stall to show how he will deliver on his promises, the BBC's political editor writes.",
+    "pubDate": "Mon, 22 Jun 2026 22:43:29 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Shareholders sue Uber’s board over sexual assaults, other incidents",
+    "link": "https://techcrunch.com/2026/06/22/shareholders-sue-ubers-board-over-sexual-assaults-other-incidents/",
+    "summary": "The lawsuit, led by a Detroit pension fund, alleges Uber's board and management has cut too many compliance corners, resulting in thousands of lawsuits.",
+    "pubDate": "Mon, 22 Jun 2026 22:43:12 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "A Source of Mysterious Repeating Radio Signals From Space Has Been Identified",
+    "link": "https://www.wired.com/story/a-source-of-mysterious-repeating-radio-signals-from-space-has-been-identified/",
+    "summary": "Researchers say the discovery could be a “Rosetta stone” for cosmic signals.",
+    "pubDate": "Mon, 22 Jun 2026 22:15:10 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Peter Murrell to be sentenced for embezzling SNP funds",
+    "link": "https://www.bbc.com/news/articles/c5yzlqv4dyeo?at_medium=RSS&at_campaign=rss",
+    "summary": "The former party chief executive has admitted embezzling more than £400,000 over a 12-year period.",
+    "pubDate": "Mon, 22 Jun 2026 22:00:06 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "GM installs robots at flagship EV factory after laying off 1,300 workers",
+    "link": "https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers/",
+    "summary": "US autoworkers union warns of robot automation as dark factory future looms.",
+    "pubDate": "Mon, 22 Jun 2026 21:52:39 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "What does Trump want from a new UK prime minister?",
+    "link": "https://www.bbc.com/news/videos/c2kyz2eqxwvo?at_medium=RSS&at_campaign=rss",
+    "summary": "The US president was once considered to have a close friendship with Keir Starmer, but that quickly fell apart with the war in Iran.",
+    "pubDate": "Mon, 22 Jun 2026 21:51:37 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Scientists say most people need more protein than current guidelines suggest",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260622091429.htm",
+    "summary": "A new review suggests that doing more exercise and eating more protein than current minimum recommendations may help people stay stronger, sharper, and more independent as they age. The goal isn't building a beach body—it's extending healthspan and maintaining the ability to fully enjoy life for ...",
+    "pubDate": "Mon, 22 Jun 2026 21:44:42 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "From retirement to records - another immortal Messi moment",
+    "link": "https://www.bbc.com/sport/football/articles/c74y1vypn2wo?at_medium=RSS&at_campaign=rss",
+    "summary": "Ten years after announcing he was quitting international football, Lionel Messi is still breaking records for reigning World Cup champions Argentina.",
+    "pubDate": "Mon, 22 Jun 2026 21:43:58 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Report: Kennedy Space Center not ready for era of super heavy rockets",
+    "link": "https://arstechnica.com/space/2026/06/report-kennedy-space-center-not-ready-for-era-of-super-heavy-rockets/",
+    "summary": "SpaceX has told NASA it plans to launch Starship every eight days from Kennedy.",
+    "pubDate": "Mon, 22 Jun 2026 21:28:19 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "ytr: YouTube Radio for Emacs",
+    "link": "https://xenodium.com/ytr-youtube-radio-for-emacs",
+    "summary": "Article URL: https://xenodium.com/ytr-youtube-radio-for-emacs Comments URL: https://news.ycombinator.com/item?id=48636380 Points: 79 # Comments: 8",
+    "pubDate": "Mon, 22 Jun 2026 21:21:08 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "GLM-5.2 – How to Run Locally",
+    "link": "https://unsloth.ai/docs/models/glm-5.2",
+    "summary": "Article URL: https://unsloth.ai/docs/models/glm-5.2 Comments URL: https://news.ycombinator.com/item?id=48636377 Points: 258 # Comments: 123",
+    "pubDate": "Mon, 22 Jun 2026 21:21:01 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "National Portrait Gallery display withdrawn after Churchill row",
+    "link": "https://www.bbc.com/news/articles/cqj1y8d27p4o?at_medium=RSS&at_campaign=rss",
+    "summary": "The video installation prompted a row over its claims about Churchill's role in the Bengal famine.",
+    "pubDate": "Mon, 22 Jun 2026 21:18:25 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "A tale of two path separators (2021)",
+    "link": "https://alexwlchan.net/2021/slashes/",
+    "summary": "Comments",
+    "pubDate": "Mon, 22 Jun 2026 21:03:34 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Man used massage gun on his tired eyeballs. It went as well as you'd expect.",
+    "link": "https://arstechnica.com/health/2026/06/man-used-massage-gun-on-his-tired-eyeballs-it-went-as-well-as-youd-expect/",
+    "summary": "He had retinal tears and bruises from squishing his eyeballs with the gun.",
+    "pubDate": "Mon, 22 Jun 2026 21:02:08 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Job application asked for my SAT scores",
+    "link": "https://mrmarket.lol/job-application-asked-for-my-sat-scores/",
+    "summary": "Article URL: https://mrmarket.lol/job-application-asked-for-my-sat-scores/ Comments URL: https://news.ycombinator.com/item?id=48636062 Points: 110 # Comments: 275",
+    "pubDate": "Mon, 22 Jun 2026 20:55:17 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "A federal judge finds a Trump data system to verify voters is unlawful",
+    "link": "https://www.npr.org/2026/06/22/nx-s1-5866719/save-voter-data-trump-judge-unlawful",
+    "summary": "Tens of millions of voters have had their data run through the Trump administration's revamped SAVE tool. A judge just found it unlawful.",
+    "pubDate": "Mon, 22 Jun 2026 18:25:21 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "A fully local voice assistant setup",
+    "link": "https://blog.platypush.tech/article/Local-voice-assistant",
+    "summary": "Comments",
+    "pubDate": "Mon, 22 Jun 2026 17:25:06 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "The curious history the invention of the CMD+K quick switcher",
+    "link": "https://ux.stackexchange.com/questions/153299/how-did-cmd-k-come-to-be-the-standard-shortcut-for-both-adding-a-hyperlink-and-o",
+    "summary": "Comments",
+    "pubDate": "Mon, 22 Jun 2026 16:02:54 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Reclassifying DMARC ARC as historic",
+    "link": "https://datatracker.ietf.org/doc/draft-ietf-dmarc-arc-to-historic/",
+    "summary": "Comments",
+    "pubDate": "Mon, 22 Jun 2026 15:07:06 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "索尼集团计划近三十年来首次发行美元债券",
+    "link": "https://36kr.com/newsflashes/3865273752737025?f=rss",
+    "summary": "上次进入投资级美元债券市场时，索尼集团正忙于推广初代PlayStation。近三十年后，它准备卷土重来。据一位不愿透露姓名的知情人士透露，这家日本企业集团将发行两期高级固定利率债券。5年期债券的承销商给出的收益率约为比同期限美国国债收益率高出70个基点，10年期债券利差约为90个基点。债券可能今日晚些时候定价。（新浪财经）",
+    "pubDate": "2026-06-23 12:39:47  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "豆包发布2.1 Pro模型",
+    "link": "https://36kr.com/newsflashes/3865258380006404?f=rss",
+    "summary": "36氪获悉，6月23日，火山引擎在北京举办2026夏季FORCE原动力大会，集中发布豆包大模型2.1，以及视频、图像、音频等多款新模型，并升级面向Agent的云服务体系。据了解，豆包2.1 Pro在 Coding（编程）、Agent（智能体）、VLM（视觉语言模型）三大核心方向实现能力跃升。",
+    "pubDate": "2026-06-23 12:32:01  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "巨人网络产业投资“光轮智能”",
+    "link": "https://36kr.com/newsflashes/3865256688932100?f=rss",
+    "summary": "36氪获悉，巨人网络确认参与“光轮智能”新一轮10亿元战略融资。本轮融资将主要用于持续加大物理AI数据与评测基础设施核心技术研发投入，进一步完善面向机器人学习、能力评测与真实场景落地的产品体系，扩大高质量人类行为数据、仿真合成数据与工业级评测能力建设，并与产业伙伴共同推进开放生态建设。本轮投资方包括中关村科学城基金、四川发展科创基金、山东发展科创投等政府基金，以及巨人网络、宇信股份、宝通科技、中科产投、量图智策等产业资本及财务投资机构；老股东建投投资、三七互娱、森马投资等继续跟投。",
+    "pubDate": "2026-06-23 12:22:25  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "扬杰科技：全系列产品价格上调10%—15%，7月1日执行",
+    "link": "https://36kr.com/newsflashes/3865244472349953?f=rss",
+    "summary": "近日扬杰科技发布价格调整通知函，称近年来上游芯片晶圆、大宗金属、封装原材料全线持续涨价；步入下半年，原材料将再度迎来新一轮大幅涨价周期，成本增幅超出预期，企业生产经营承压加剧。为保障产品品质稳定、确保供应链可持续交付，公司决定对全系列产品价格进行调整，调整幅度为10%—15%，新价格自2026年7月1日起出货正式执行。（证券时报）",
+    "pubDate": "2026-06-23 12:21:55  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "桃李面包旗下广西公司增资至2.8亿",
+    "link": "https://36kr.com/newsflashes/3865237996131585?f=rss",
+    "summary": "36氪获悉，天眼查App显示，近日，广西桃李面包有限公司发生工商变更，注册资本由2亿人民币增至2.8亿人民币，增幅40%。该公司成立于2016年2月，法定代表人为肖占伟，经营范围包括食品生产、食品销售、食品互联网销售等，由桃李面包全资持股。",
+    "pubDate": "2026-06-23 12:16:21  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "半日主力资金加仓非银金融板块，抛售有色金属板块",
+    "link": "https://36kr.com/newsflashes/3865237426296069?f=rss",
+    "summary": "主力资金早间净流入非银金融、医药生物、银行等板块，净流出有色金属、电力设备等板块。具体到个股来看，大族激光、长飞光纤、东方财富获净流入26.89亿元、25.09亿元、21.22亿元。净流出方面，工业富联、胜宏科技、兆易创新遭抛售21.14亿元、20.55亿元、19.66亿元。（第一财经）",
+    "pubDate": "2026-06-23 12:11:46  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "英伟达、vivo、红杉中国等公司联合加码B站AI创造公开赛",
+    "link": "https://36kr.com/newsflashes/3865244034176002?f=rss",
+    "summary": "36氪获悉，英伟达、智谱、vivo、红杉中国、及真格基金联合加码“build in bilibili · AI创造公开赛”。 智谱与英伟达将分别注入100亿Tokens及NVIDIA RTX AI技术专家与新产品支持，降低创新应用开发门槛，助力灵感走向商业现实；vivo携旗下新折叠旗舰设备及原子工作台进场，提供千万级流量、现金及实物扶持，助推移动端AI终端生态落地。资本端，红杉中国与真格基金也将全面跟进项目落地。",
+    "pubDate": "2026-06-23 12:09:33  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "恒指午间休盘跌1.13%，恒生科技指数跌2.21%",
+    "link": "https://36kr.com/newsflashes/3865236553618689?f=rss",
+    "summary": "36氪获悉，恒指午间休盘跌1.13%，恒生科技指数跌2.21%；有色金属、软件服务、传媒板块领跌，智谱跌超11%，高鹏矿业跌超6%，腾讯音乐跌超5%，B站、京东集团跌超4%；银行、医药生物、食品板块走强，现代中药集团涨超9%，九江银行涨超2%，德康农牧涨超1%；南向资金净买入74.2亿港元。",
+    "pubDate": "2026-06-23 12:01:56  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "首个高考志愿AI测评发布：千问在稳定性、精确性、结构化表达上表现突出",
+    "link": "https://36kr.com/newsflashes/3865234019505161?f=rss",
+    "summary": "6月23日，国内首个针对高考志愿填报场景的AI能力测评报告《高考志愿AI测评基准》发布。该报告由友松实验室独立完成，以千问高考志愿填报Agent作为测评对象。结果显示，千问多项表现已达到人类志愿咨询师水平，在稳定性、精确性、结构化表达与效率层面更具优势。",
+    "pubDate": "2026-06-23 11:59:22  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "WAVES 2026：今年盛夏，在创投浪潮里，做迎风而立的少数人！",
+    "link": "https://36kr.com/p/3865226824389892?f=rss",
+    "summary": "盛夏赴约WAVES 2026！一群迎风的少数人，掀起中国新一代创新力量的风口。 2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道”变成“主流共识”，年轻的创业者们正在重新定义中国创新的未来坐标。 每一年，由36氪主办的WAVES大会，都是中国创投圈的年度风向标。 今年的WAVES2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，通过深度圆桌、独立演讲、名册发布等诸多精彩环节，充分拆解AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人”的坚持，如何汇聚成改变行业的浪潮。 大...",
+    "pubDate": "2026-06-23 11:57:43  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "晓程科技：加纳炸药厂目前仍在建，暂未投产、未实现销售收入",
+    "link": "https://36kr.com/newsflashes/3865221516645640?f=rss",
+    "summary": "36氪获悉，晓程科技在互动平台表示，加纳炸药厂目前仍在建，暂未投产、未实现销售收入；雷管芯片现阶段以内部自用为主。",
+    "pubDate": "2026-06-23 11:46:39  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "小米旗下瀚星创投等入股破壳时刻",
+    "link": "https://36kr.com/newsflashes/3865214724134145?f=rss",
+    "summary": "36氪获悉，天眼查App显示，近日，破壳时刻（上海）智能科技有限责任公司发生工商变更，新增小米旗下瀚星创业投资有限公司、星海图（北京）人工智能科技股份有限公司等为股东，同时，注册资本由100万人民币增至约118.7万人民币。",
+    "pubDate": "2026-06-23 11:39:44  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "瓷瓷乐玩 ：当传统文化遇上新消费浪潮 | 36氪WAVES2026新浪潮",
+    "link": "https://36kr.com/p/3865208157738247?f=rss",
+    "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。 今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。” 曹光洋 | 瓷瓷乐玩创始人 以下为对话内容，经36氪整理编辑：...",
+    "pubDate": "2026-06-23 11:35:03  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "A股三大指数午间休盘集体下跌，航天军工板块领跌",
+    "link": "https://36kr.com/newsflashes/3865206982906884?f=rss",
+    "summary": "36氪获悉，A股三大指数午间休盘集体下跌，沪指跌0.37%，深成指跌1.83%，创业板指跌2.27%。贵金属、工程机械、航天军工板块领跌，盛龙股份跌停，徐工机械、航天环宇跌超4%；制药、水务、银行板块走强，共同药业涨超11%，祥龙电业涨超5%，中信银行涨超3%。",
+    "pubDate": "2026-06-23 11:31:52  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "刚注册就成独角兽，具身创企昆仑行90天融资数十亿元｜36氪独家",
+    "link": "https://36kr.com/p/3865188719121668?f=rss",
+    "summary": "离开阿里云一年多以后，前阿里集团副总裁、阿里云中国区总裁任庚，以昆仑行创始人的身份，再次切入AI的战场。这次他锚定的领域，是AI的落地终端——机器人。 36氪获悉，昆仑行机器人注册不到90天，已接连完成了3轮融资，累计融资规模为数十亿元。3轮融资后，公司估值已超十亿美元，成为具身行业独角兽。 这样的节奏显然刷新了具身智能行业的独角兽速度。 公司此前发布的信息显示，昆仑行机器人“对标特斯拉人形机器人这一行业标杆”，“坚持‘本体+大脑’双轮驱动战略”。前理想辅助驾驶一号位郎咸朋，是昆仑行的联合创始人。 一家接触过昆仑行的头部资本判断，任庚的重心，会更多地落在战略方向，组织体系搭建，商业运作、...",
+    "pubDate": "2026-06-23 11:18:18  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "京东家装集团完成更名",
+    "link": "https://36kr.com/newsflashes/3865191815697670?f=rss",
+    "summary": "36氪获悉，天眼查App显示，近日，四川生活家家居集团有限公司发生工商变更，企业名称变更为京东家装集团有限公司。该公司成立于2011年7月，法定代表人为石永刚，注册资本约1791万人民币，经营范围包括住宅室内装饰装修、建设工程施工、第一类增值电信业务等，由北京京东世纪贸易有限公司、生活家家居集团控股（海南）有限公司、海南悦家畅想投资合伙企业（有限合伙）、海南岛畅想生活投资合伙企业（有限合伙）共同持股。",
+    "pubDate": "2026-06-23 11:16:26  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "港股阿里巴巴跌破100港元，现跌超3%",
+    "link": "https://36kr.com/newsflashes/3865187078329348?f=rss",
+    "summary": "36氪获悉，港股阿里巴巴跌破100港元，创2025年4月以来新低，现跌超3%。",
+    "pubDate": "2026-06-23 11:11:37  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "叮咚方便菜将扩充至80-100款，销售额同比涨超70%",
+    "link": "https://36kr.com/newsflashes/3865183680288007?f=rss",
+    "summary": "36氪获悉，目前，叮咚新鲜方便菜已上线50余款产品，预计6月底将扩充至80-100款。今年1-5月，叮咚买菜新鲜方便菜的销售额同比增长超70%，预计2026年全年同比增长超85%。",
+    "pubDate": "2026-06-23 11:08:09  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "从用户决策到Agent参与，值得买科技分享AI时代品牌经营新课题",
+    "link": "https://36kr.com/p/3865177262101513?f=rss",
+    "summary": "6月16日-17日，36氪WAVES 2026新浪潮大会在广州举行。17日，值得买科技营销FDE（Forward Deployed Engineer，即前沿部署工程师）朱越受邀出席并发表主题演讲，结合公司在AI消费服务与品牌营销场景中的一线实践，分享了Agent时代消费决策链路的变化，以及品牌在此环境下如何更精准地被AI看见、理解和选择。 作为36氪旗下年度重要科技创新活动，WAVES新浪潮大会汇聚创业者、投资机构及产业代表，围绕AI、机器人、新消费、出海等前沿议题展开交流。作为值得买科技营销FDE，朱越长期参与AI产品在品牌营销、消费决策及Agent生态场景中的落地实践，持续推动消费服...",
+    "pubDate": "2026-06-23 11:02:40  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "沪深两市成交额突破2万亿元",
+    "link": "https://36kr.com/newsflashes/3865170344465415?f=rss",
+    "summary": "36氪获悉，沪深两市成交额突破2万亿元。",
+    "pubDate": "2026-06-23 10:54:35  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "亚马逊海外购“海折节”快闪店首次落地成都",
+    "link": "https://36kr.com/newsflashes/3865162553381888?f=rss",
+    "summary": "36氪获悉，亚马逊海外购今日宣布，其年度级夏日大促“海折节”将于6月23日至27日回归。亚马逊海外购“海折节”快闪店将于6月10日至11日亮相成都宽窄巷子，集中展示涵盖户外、电子、美妆、健康及家居等品类产品。",
+    "pubDate": "2026-06-23 10:46:40  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "腾讯旗下上海启善投资公司增资至8亿",
+    "link": "https://36kr.com/newsflashes/3865154123896073?f=rss",
+    "summary": "36氪获悉，天眼查App显示，近日，上海启善投资有限公司发生工商变更，注册资本由1000万人民币增至8亿人民币，增幅7900%。该公司成立于2025年8月，法定代表人为陈菊红，经营范围包括投资管理、企业管理、以自有资金从事投资活动等，由广州腾讯科技有限公司全资持股。",
+    "pubDate": "2026-06-23 10:38:05  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "豆包大模型的日均tokens调用量达到180万亿",
+    "link": "https://36kr.com/newsflashes/3865137028928774?f=rss",
+    "summary": "在2026火山引擎force原动力大会上，火山引擎总裁谭待表示，截至2026年6月，豆包大模型日均tokens调用量达180万亿，较发布时增长超1500倍，过去一年增长超10倍。（财联社）",
+    "pubDate": "2026-06-23 10:20:42  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "硬氪首发 | 快手系AI芯片公司再融资数亿，销量近十万颗，视频压缩性能超英伟达",
+    "link": "https://36kr.com/p/3865136165344516?f=rss",
+    "summary": "作者&nbsp;|&nbsp;林晴晴 编辑&nbsp;|&nbsp;袁斯来 硬氪获悉，人工智能芯片公司「凌川科技」近日完成数亿元A+轮融资，本轮由啟赋资本领投，产业投资方新国都、知名投资机构金浦投资、朝晖资本、BV百度风投、水木投资集团、亦庄科创二期基金（北京科创亦庄直投基金），以及全球知名家办等参与投资，老股东顺禧基金、九智资本持续追加投资。项目落地北京亦庄��获亦庄国投重点支持，本轮融资将主要用于下一代芯片研发、现有产品SL200的量产扩产及海外市场拓展。 「凌川科技」成立于2024年3月，由北京市人工智能基金与快手集团共同发起设立，前身为快手集团的异构计算与芯片事业部，是一家以硬件...",
+    "pubDate": "2026-06-23 10:20:22  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "“正行创新”完成近亿美元天使轮融资",
+    "link": "https://36kr.com/newsflashes/3865134271599874?f=rss",
+    "summary": "36氪获悉，6月23日，“正行创新”（Striding AI）已完成近亿美元天使轮系列融资。投资方包括正大集团、华勤技术、九安医疗等多家上市企业，多位国内外知名企业家，以及多家一线投资机构。本轮募集的资金将主要投入三大方向：一是持续引进全球顶尖算法、工程与商业化人才，完善全链条人才梯队布局；二是加大世界动作模型、强化学习等核心技术的迭代与应用，夯实具身智能基础设施能力；三是加速零售、工业等场景的落地验证与产品化落地。",
+    "pubDate": "2026-06-23 10:17:54  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "36氪首发 | 龚虹嘉、陆奇、海外资本下注，北大团队用肌电腕带做新一代数采终端",
+    "link": "https://36kr.com/p/3865125383443463?f=rss",
+    "summary": "作者&nbsp;|&nbsp;乔钰杰 编辑&nbsp;|&nbsp;袁斯来 硬氪获悉，雪梦未来（SnowOrigin）团队获得龚虹嘉、陆奇及海外机构投资。这支北大背景团队以sEMG（表面肌电）运动神经信号解码技术为切入点，通过神经腕带、第一视角采集设备以及自研NMH（Neural Math Hybrid）AI解码模型，构建新一代面向具身智能的人类操控数据采集方案。 目前，随着具身智能和Physical AI快速发展，行业对于高质量人类操控数据的需求日益增长。然而主流的数据采集方式，无论是第一视角视频、动作捕捉还是遥操作系统，大多只能记录动作结果或空间轨迹，对于发力过程、操控意图以及细微调...",
+    "pubDate": "2026-06-23 10:13:15  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "秋声 | 四川生物科技公司上市首日大跌31%，中信证券保荐",
+    "link": "https://36kr.com/p/3865070004212994?f=rss",
+    "summary": "本文约3000字，建议阅读6分钟 作者&nbsp;|&nbsp;彭孝秋 编者按： AI 大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。 鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，观产业冷暖，辨公司成色，记录企业冲刺 IPO 途中那些被写下与被隐藏的真实。这是我们第一期，华健未来。 今日9点30分，四川生物科技公司华健未来（06132.HK）正式在港交所敲钟上市，但开盘即大跌。截至发稿时，华健未来已大跌31%，报56港元，市值41亿港元。 值得一提的是，6月22日下午，距离正式挂牌还有不到一天，华健未来...",
+    "pubDate": "2026-06-23 09:13:39  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "8点1氪丨SpaceX跌破IPO首日收盘价，市值蒸发4000亿美元；英国首相斯塔默宣布辞职；SK海力士市值首超三星电子",
+    "link": "https://36kr.com/p/3865001641006081?f=rss",
+    "summary": "今日热点导览 三星电子向韩国所有员工开放ChatGPT和Codex 港股智谱暴涨，总市值突破1万亿港元 何小鹏、曾顺福、白重恩出任蚂蚁集团独立董事 杨子卸任巨力集团职务 供应链公司：已向苹果首款折叠屏iPhone小批量供货 TOP3大新闻 纳指收跌1.3%，SpaceX下挫16%并跌破IPO首日收盘价 美股三大指数收盘涨跌不一，道指涨0.29%，纳指跌1.32%，标普500指数跌0.37%。SpaceX股价大跌16%，市值蒸发4000亿美元并跌破首日收盘价。 谷歌收跌5%，此前AI负责人Jumper离职。亚马逊下跌4.8%，为2月初以来的最大单日跌幅。芯片股涨跌不一，美光科技涨超6%，英...",
+    "pubDate": "2026-06-23 08:06:15  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
+    "link": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
+    "summary": "Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled data center has \"eliminated massive amounts of power usage and pretty much all water usage.\" Still,...",
+    "pubDate": "2026-06-22T19:24:32-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  }
+]

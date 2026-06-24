@@ -1,0 +1,738 @@
+[
+  {
+    "title": "DV/HDV 磁带拯救计划：用 AI 驱动十八年前的老设备",
+    "link": "https://sspai.com/post/111223",
+    "summary": "2026 年是 AI agent 的第一年，2026 年也是 FireWire 的最后一年。 查看全文",
+    "pubDate": "Wed, 24 Jun 2026 10:11:37 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "派早报：新款理想 L8 换代上市、Meta 发布 Meta Glasses 智能眼镜等",
+    "link": "https://sspai.com/post/111438",
+    "summary": "Cloudflare 联合主流浏览器厂商推进 PACT 协议，腾讯推出 TenPayGo 等。 查看全文",
+    "pubDate": "Wed, 24 Jun 2026 07:49:32 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "'They were very passive' - England fans lament Ghana draw",
+    "link": "https://www.bbc.co.uk/news/videos/cyv0665djvjo?at_medium=RSS&at_campaign=rss",
+    "summary": "England remain top of Group L, but will now have to wait until their game against Panama to ensure qualification for the World Cup knockout phase.",
+    "pubDate": "Wed, 24 Jun 2026 04:14:03 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Congress passes war powers measure for first time, rebuking Trump's war with Iran",
+    "link": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss",
+    "summary": "The resolution is largely symbolic, but it adds to pressure on the White House to end the conflict once and for all.",
+    "pubDate": "Wed, 24 Jun 2026 03:57:59 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Burnham likely to replace Reeves if he becomes PM",
+    "link": "https://www.bbc.co.uk/news/articles/cwyl91qlyr1o?at_medium=RSS&at_campaign=rss",
+    "summary": "Rachel Reeves would be offered a more junior cabinet role, the BBC understands.",
+    "pubDate": "Wed, 24 Jun 2026 03:35:28 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Sakana Fugu: a multi-agent system delivered as one model",
+    "link": "https://github.com/SakanaAI/fugu",
+    "summary": "Article URL: https://github.com/SakanaAI/fugu Comments URL: https://news.ycombinator.com/item?id=48654765 Points: 6 # Comments: 1",
+    "pubDate": "Wed, 24 Jun 2026 03:31:58 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Raspberry Pi Pico W as USB Wi-Fi Adapter",
+    "link": "https://gitlab.com/baiyibai/pico-usb-wifi",
+    "summary": "Article URL: https://gitlab.com/baiyibai/pico-usb-wifi Comments URL: https://news.ycombinator.com/item?id=48654676 Points: 10 # Comments: 2",
+    "pubDate": "Wed, 24 Jun 2026 03:17:47 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The Teensy Executable Revisited",
+    "link": "https://www.muppetlabs.com/~breadbox/software/tiny/revisit.html",
+    "summary": "Article URL: https://www.muppetlabs.com/~breadbox/software/tiny/revisit.html Comments URL: https://news.ycombinator.com/item?id=48654411 Points: 7 # Comments: 0",
+    "pubDate": "Wed, 24 Jun 2026 02:30:13 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The war on terror primed America for autocracy",
+    "link": "https://www.economist.com/by-invitation/2026/06/02/how-the-war-on-terror-primed-america-for-autocracy",
+    "summary": "https://archive.is/CBCZM Comments URL: https://news.ycombinator.com/item?id=48654367 Points: 108 # Comments: 74",
+    "pubDate": "Wed, 24 Jun 2026 02:23:39 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Qwen-AgentWorld: Language World Models for General Agents",
+    "link": "https://arxiv.org/abs/2606.24597",
+    "summary": "Article URL: https://arxiv.org/abs/2606.24597 Comments URL: https://news.ycombinator.com/item?id=48654351 Points: 15 # Comments: 1",
+    "pubDate": "Wed, 24 Jun 2026 02:21:47 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
+    "link": "https://github.com/End2End-Diffusion/diffusion-bench",
+    "summary": "Article URL: https://github.com/End2End-Diffusion/diffusion-bench Comments URL: https://news.ycombinator.com/item?id=48654274 Points: 14 # Comments: 0",
+    "pubDate": "Wed, 24 Jun 2026 02:12:31 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Watch: Football fans celebrate in Ghana after England denied victory",
+    "link": "https://www.bbc.co.uk/news/videos/cg74djdk510o?at_medium=RSS&at_campaign=rss",
+    "summary": "Ghana correspondent Thomas Naadi reports from Black Star Square in Accra.",
+    "pubDate": "Wed, 24 Jun 2026 01:52:08 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Sydney woman wakes from induced coma more than a week after shark attack",
+    "link": "https://www.bbc.co.uk/news/articles/cy8drk2dk3no?at_medium=RSS&at_campaign=rss",
+    "summary": "Leah Stewart, 34, had one of her arms amputated after she was bitten while swimming at Coogee Beach.",
+    "pubDate": "Wed, 24 Jun 2026 01:42:43 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Silly tackle, bad reaction - Tuchel defends Bellingham after Queiroz row",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ce8k4zr6l2no?at_medium=RSS&at_campaign=rss",
+    "summary": "England manager Thomas Tuchel defends Jude Bellingham after the midfielder is involved in a heated row with Ghana boss Carlos Queiroz.",
+    "pubDate": "Wed, 24 Jun 2026 01:15:29 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Best Dyson Deals for Prime Day: Vacuums, Hair Tools, and More",
+    "link": "https://www.wired.com/story/prime-day-dyson-deals-2026/",
+    "summary": "It's one of the best times to snag yourself a Dyson device, whether it's a vacuum or a beauty tool.",
+    "pubDate": "Wed, 24 Jun 2026 00:53:44 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "England handed reality check by Ghana but remain in strong position after 0-0 draw",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c5yzv7wl00xo?at_medium=RSS&at_campaign=rss",
+    "summary": "England's drab performance against Ghana is no cause to panic – but it will not have struck fear into their rivals, writes Phil McNulty.",
+    "pubDate": "Wed, 24 Jun 2026 00:53:27 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Walmart-backed Flipkart expands quick-commerce push as Amazon ramps up in India",
+    "link": "https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/",
+    "summary": "Walmart-backed Flipkart has crossed 1,000 micro-fulfillment centers as Amazon accelerates its own quick-commerce push in India.",
+    "pubDate": "Wed, 24 Jun 2026 00:30:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Microsoft Comes Through With the Best Laptop Deal of Prime Day So Far",
+    "link": "https://www.wired.com/story/surface-laptop-prime-day-deal/",
+    "summary": "The Surface Laptop is down to $835 for Prime Day—a killer discount on one of my favorite laptops.",
+    "pubDate": "Wed, 24 Jun 2026 00:25:47 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "The Papers:  'Heat engulfs UK' and 'Ghana be alright'",
+    "link": "https://www.bbc.co.uk/news/articles/cj3gyxgmzmlo?at_medium=RSS&at_campaign=rss",
+    "summary": "UK braces for record June heatwave and England's 0-0 draw against Ghana leads Wednesday's papers.",
+    "pubDate": "Wed, 24 Jun 2026 00:21:52 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Eight sentenced to 450 years in prison over anti-ICE riot where officer was shot",
+    "link": "https://www.bbc.co.uk/news/articles/clyedgnyn4mo?at_medium=RSS&at_campaign=rss",
+    "summary": "An officer was shot in the neck during the Texas disorder by \"Antifa Cell operatives\", prosecutors said.",
+    "pubDate": "Wed, 24 Jun 2026 00:00:06 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Heat pump growth stalls as government support cut, warns climate watchdog",
+    "link": "https://www.bbc.co.uk/news/articles/cn8k4pek3gzo?at_medium=RSS&at_campaign=rss",
+    "summary": "The growth in sales has slowed significantly after a critical government grant programme was cut.",
+    "pubDate": "Tue, 23 Jun 2026 23:54:17 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Want to feel happier at work? Take a five-minute walk",
+    "link": "https://www.bbc.co.uk/news/articles/c78yzz936evo?at_medium=RSS&at_campaign=rss",
+    "summary": "Sitting for prolonged periods is associated with health complications – but you can counteract the risks of a sedentary life.",
+    "pubDate": "Tue, 23 Jun 2026 23:50:12 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "'VAR went for a coffee' - should Ghana have had penalty against England?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cd6e3gvnnzwo?at_medium=RSS&at_campaign=rss",
+    "summary": "England fans have been left frustrated by the goalless draw against Ghana, but were Thomas Tuchel's side fortunate not to have given away a penalty?",
+    "pubDate": "Tue, 23 Jun 2026 23:46:07 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The UK's summers are getting hotter - but how prepared are we?",
+    "link": "https://www.bbc.co.uk/news/articles/c9d2xl3555xo?at_medium=RSS&at_campaign=rss",
+    "summary": "Based on current trends parts of the UK are set to see 40C summers regularly within a couple of decades.",
+    "pubDate": "Tue, 23 Jun 2026 23:46:03 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Germany rail network briefly halted nationwide due to IT malfunction",
+    "link": "https://www.bbc.co.uk/news/articles/crm0ek4z7ggo?at_medium=RSS&at_campaign=rss",
+    "summary": "Rail company Deutsche Bahn had to pause train services across the country for more than two-and-a-half hours.",
+    "pubDate": "Tue, 23 Jun 2026 23:46:01 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
+    "link": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+    "summary": "The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers.",
+    "pubDate": "Tue, 23 Jun 2026 23:30:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Amazon Prime Day Deal 2026: A Tushy Bidet for Under $100",
+    "link": "https://www.wired.com/story/tushy-classic-wave-amazon-prime-day-deal-2026/",
+    "summary": "A lot of American bathrooms don't have outlets near the toilet. Tushy Classic 3.0 and Wave bidets, on sale for Prime Day, solve the problem.",
+    "pubDate": "Tue, 23 Jun 2026 23:29:13 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Extreme Heat conference cancelled due to extreme heat warning",
+    "link": "https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/",
+    "summary": "Article URL: https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/ Comments URL: https://news.ycombinator.com/item?id=48653060 Points: 255 # Comments: 194",
+    "pubDate": "Tue, 23 Jun 2026 23:26:43 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Stanford was their golden ticket - could AI help or hinder that?",
+    "link": "https://www.bbc.co.uk/news/articles/c872j82j2qyo?at_medium=RSS&at_campaign=rss",
+    "summary": "The BBC spoke with Stanford University graduates about what they really think about artificial intelligence.",
+    "pubDate": "Tue, 23 Jun 2026 23:16:37 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Ten years on, Brexit's economic impact is becoming clearer",
+    "link": "https://www.bbc.co.uk/news/articles/cyv0m164m84o?at_medium=RSS&at_campaign=rss",
+    "summary": "A decade ago, many economists argued the UK would sustain longer-term economic damage by leaving the EU. So what did happen?",
+    "pubDate": "Tue, 23 Jun 2026 23:07:34 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Largest maternity review in NHS history to be published",
+    "link": "https://www.bbc.co.uk/news/articles/c8e2xrke8l5o?at_medium=RSS&at_campaign=rss",
+    "summary": "The review of Nottingham University Hospitals (NUH) NHS Trust is expected to detail how failings led to deaths and avoidable harm.",
+    "pubDate": "Tue, 23 Jun 2026 23:03:07 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The economic challenges facing the next prime minister",
+    "link": "https://www.bbc.co.uk/news/articles/crkvj0ngzexo?at_medium=RSS&at_campaign=rss",
+    "summary": "Though the person in charge of the country will change, the fiscal issues remain the same.",
+    "pubDate": "Tue, 23 Jun 2026 23:01:55 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "My Favorite Art TV Is Half-off for Amazon Prime Day",
+    "link": "https://www.wired.com/story/i-love-this-hisense-art-tv-and-its-half-off-apd/",
+    "summary": "HiSense's new CanvasTV line is a better buy than the Samsung Frame, even at full price. And it's not full price right now.",
+    "pubDate": "Tue, 23 Jun 2026 23:00:10 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "England held to goalless draw by Ghana",
+    "link": "https://www.bbc.co.uk/sport/football/videos/c04yqexwpn0o?at_medium=RSS&at_campaign=rss",
+    "summary": "England fail to repeat their performance that overpowered Croatia in their first World Cup game as they are held to a draw by a resolute Ghana at Boston Stadium.",
+    "pubDate": "Tue, 23 Jun 2026 22:41:55 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Mamdani's political gamble pays off as his endorsed candidates sweep their primaries",
+    "link": "https://www.npr.org/2026/06/23/nx-s1-5868676/mamdani-nyc-primaries-progressive-dsa",
+    "summary": "All three progressive candidates backed by New York Mayor Zohran Mamdani — including two who took on Democratic incumbents — won their primaries in safe seats almost guaranteeing their election in November.",
+    "pubDate": "Tue, 23 Jun 2026 22:41:32 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "White House drastically shortens deadline for dropping quantum-vulnerable crypto",
+    "link": "https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/",
+    "summary": "Order warns of national security risks if post-quantum cryptography isn't adopted in time.",
+    "pubDate": "Tue, 23 Jun 2026 22:30:57 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "US's climate.gov site, taken down by Trump, relaunched by nonprofit",
+    "link": "https://arstechnica.com/science/2026/06/uss-climate-gov-site-taken-down-by-trump-relaunched-by-nonprofit/",
+    "summary": "Climate.us has now restored everything taken down by the government.",
+    "pubDate": "Tue, 23 Jun 2026 22:07:56 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "World's oldest football in Miami for Scotland's game against Brazil",
+    "link": "https://www.bbc.co.uk/news/articles/c1eydpx6020o?at_medium=RSS&at_campaign=rss",
+    "summary": "The ball, which is believed to date from between 1540 and 1570, was discovered in Stirling in the 1970s.",
+    "pubDate": "Tue, 23 Jun 2026 22:00:53 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Superhuman acquires AI detection startup GPTZero",
+    "link": "https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/",
+    "summary": "Superhuman, which also has an AI detection tool as part of Grammarly, has snapped up GPTZero.",
+    "pubDate": "Tue, 23 Jun 2026 21:48:23 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Spence appears not to shake hands with Partey",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cg4w21g45zyo?at_medium=RSS&at_campaign=rss",
+    "summary": "Footage circulating on social media appears to show England's Djed Spence not shaking hands with Ghana's Thomas Partey before their World Cup group match in Boston.",
+    "pubDate": "Tue, 23 Jun 2026 21:46:47 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Temperatures hit record levels in western Europe",
+    "link": "https://www.bbc.co.uk/news/videos/c30y6qe2qqno?at_medium=RSS&at_campaign=rss",
+    "summary": "France, Spain and Italy, have been hardest hit by the heatwave so far.",
+    "pubDate": "Tue, 23 Jun 2026 21:46:34 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "'I'm back' - record-breaking Ronaldo answers critics",
+    "link": "https://www.bbc.co.uk/sport/football/articles/clyx746enj9o?at_medium=RSS&at_campaign=rss",
+    "summary": "Portugal forward Cristiano Ronaldo provides the perfect response to those that doubted him as he becomes the first player to score at six World Cups.",
+    "pubDate": "Tue, 23 Jun 2026 21:33:55 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Legibility of Effort",
+    "link": "https://eieio.games/blog/legibility-of-effort/",
+    "summary": "Comments",
+    "pubDate": "Tue, 23 Jun 2026 21:18:36 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Stone circle murder inquiry as man's body found",
+    "link": "https://www.bbc.co.uk/news/articles/cjegdxw2ddxo?at_medium=RSS&at_campaign=rss",
+    "summary": "The Nine Ladies, near Darley Dale, is 4,000 years old and a focal point at the summer solstice.",
+    "pubDate": "Tue, 23 Jun 2026 20:53:09 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Best Prime Day Deals on Yoto Players and Accessories",
+    "link": "https://www.wired.com/story/yoto-player-prime-day-deal-2026/",
+    "summary": "Between Prime Day deal and the screen-free technology, the Yoto Player is a great gift you can get the kids in your life without any guilt.",
+    "pubDate": "Tue, 23 Jun 2026 20:46:56 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Odd police video shows drone removing knife from motionless suspect",
+    "link": "https://arstechnica.com/gadgets/2026/06/police-tout-using-drone-to-disarm-incapacitated-person-in-nationwide-first/",
+    "summary": "Promo video comes as more US police departments fly drones as first responders.",
+    "pubDate": "Tue, 23 Jun 2026 20:43:42 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Adversarial Communication",
+    "link": "https://blog.glyph.im/2026/06/adversarial-communication.html",
+    "summary": "Comments",
+    "pubDate": "Tue, 23 Jun 2026 20:36:05 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
+    "link": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+    "summary": "Oracle is spending billions on data center infrastructure to support AI.",
+    "pubDate": "Tue, 23 Jun 2026 20:17:38 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "How we found a bug in the hyper HTTP library",
+    "link": "https://blog.cloudflare.com/hyper-bug/",
+    "summary": "Comments",
+    "pubDate": "Tue, 23 Jun 2026 19:18:29 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "maestro: Lightweight, Linux-compatible kernel, written in Rust",
+    "link": "https://github.com/maestro-os/maestro",
+    "summary": "Comments",
+    "pubDate": "Tue, 23 Jun 2026 19:13:28 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Supreme Court rules that prison guards can't be sued for shaving Rastafarian's head",
+    "link": "https://www.npr.org/2026/06/23/nx-s1-5867684/supreme-court-prison-guards-rastafarian-dreadlocks",
+    "summary": "The Supreme Court ruled that a Louisiana prisoner whose dreadlocks were forcibly shaved off by prison guards cannot sue the guards under a federal law to protect the religious rights of prisoners.",
+    "pubDate": "Tue, 23 Jun 2026 18:33:08 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Show HN: RLM-based local debugger for AI agent traces",
+    "link": "https://github.com/context-labs/halo",
+    "summary": "We built HALO (Hierarchal Agent Loop Optimizer), an open-source tool for debugging and optimizing AI agents using their execution traces. It’s a loop. Run your agent, feed the traces to HALO, get the report, apply the fixes, then re-run your agent. HALO takes in OTEL compliant traces from AI agen...",
+    "pubDate": "Tue, 23 Jun 2026 18:21:52 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Fired by Google for creating the Google workspace CLI",
+    "link": "https://twitter.com/JPoehnelt/status/2069482265953087602",
+    "summary": "https://xcancel.com/JPoehnelt/status/2069482265953087602 Comments URL: https://news.ycombinator.com/item?id=48649011 Points: 367 # Comments: 238",
+    "pubDate": "Tue, 23 Jun 2026 18:13:40 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "In symbolic vote, Congress directs Trump to remove forces from Iran war",
+    "link": "https://www.npr.org/2026/06/23/nx-s1-5868599/senate-iran-war-powers-resolution",
+    "summary": "The measure to remove U.S. armed forces from hostilities with Iran does not require the president's signature, nor does it carry the force of law. But it reflects bipartisan frustration with the war.",
+    "pubDate": "Tue, 23 Jun 2026 16:50:44 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Congress passes the largest housing affordability bill in decades",
+    "link": "https://www.npr.org/2026/06/23/nx-s1-5867575/congress-passes-housing-affordability-bill",
+    "summary": "An expansive bipartisan bill intended to bring down the cost of housing by boosting the supply of homes has passed both houses of Congress, and is headed to the president's desk for a signature.",
+    "pubDate": "Tue, 23 Jun 2026 16:46:10 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Ultra: A from-scratch kernel that aims for full ABI compatibility with the Linux userland",
+    "link": "https://github.com/UltraOS/Ultra",
+    "summary": "Comments",
+    "pubDate": "Tue, 23 Jun 2026 14:46:37 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Datastar – It’s Pretty Good",
+    "link": "https://data-star.dev/essays/datastar_its_pretty_good",
+    "summary": "Comments",
+    "pubDate": "Tue, 23 Jun 2026 06:25:31 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Weather for the week ahead",
+    "link": "https://www.bbc.co.uk/weather/videos/clyvynjvj7yo?at_medium=RSS&at_campaign=rss",
+    "summary": "Will the extreme heat forecast for some parts of the UK last into next week? Chris Fawkes has the details.",
+    "pubDate": "Mon, 22 Jun 2026 16:24:22 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "What are the signs of heatstroke in dogs?",
+    "link": "https://www.bbc.co.uk/news/articles/ce839egxynwo?at_medium=RSS&at_campaign=rss",
+    "summary": "How to make sure your pets are cool and comfortable during periods of hot weather.",
+    "pubDate": "Mon, 22 Jun 2026 13:49:22 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "辉瑞制药无锡公司变更负责人",
+    "link": "https://36kr.com/newsflashes/3866692477293830?f=rss",
+    "summary": "36氪获悉，天眼查App显示，近日，辉瑞制药（无锡）有限公司发生工商变更，Jean-Christophe，Michel Pointeau 卸任法定代表人、执行董事、经理，由蔡芳接任法定代表人、经理，并担任董事。该公司成立于1995年9月，注册资本3600万美元，经营范围包括生产冻干粉针剂、小容量注射剂、药品生产等，由辉瑞投资有限公司全资持股。",
+    "pubDate": "2026-06-24 12:42:59  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "字节跳动寻求200亿美元境外贷款，规模为该公司历来最大",
+    "link": "https://36kr.com/newsflashes/3866688211948808?f=rss",
+    "summary": "媒体援引知情人士透露，字节跳动有限公司正与多家银行开展初步洽谈，计划筹措约200亿美元贷款。此番融资或将成为该公司有史以来规模最大的离岸贷款，当前字节正持续加大人工智能领域的投入。不愿具名的知情人士表示，这家社交媒体巨头已向多家银行接洽这笔新增贷款，贷款期限初定为三年，同时可选择延长至五年。知情人士称，目前尚不清楚字节跳动将如何使用这笔资金，相关磋商仍处于初期阶段，具体条款存在变动可能。（新浪财经）",
+    "pubDate": "2026-06-24 12:38:39  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "智谱据悉考虑在香港发售数十亿美元的股票",
+    "link": "https://36kr.com/newsflashes/3866677099828224?f=rss",
+    "summary": "媒体援引知情人士透露，中国人工智能模型公司智谱考虑在香港发售股份，融资规模可能达数十亿美元。该公司自1月上市以来，股价已飙升2000%。因涉及非公开信息，要求匿名的知情人士称，智谱在与顾问商讨潜在股份配售事宜，最早可能下个月进行。智谱IPO后为期六个月的锁定期将于7月8日到期。知情人士称，智谱股份发售事宜仍在商讨中，也可能无法达成交易。（新浪财经）",
+    "pubDate": "2026-06-24 12:27:20  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "SpaceX发射“星落”返回舱，演示再入返回技术",
+    "link": "https://36kr.com/newsflashes/3866669454382345?f=rss",
+    "summary": "美国太空探索技术公司23日利用“猎鹰9”号火箭首次发射“星落”返回舱，旨在对这种新型无人再入返回飞行器进行演示与验证。太空探索技术公司表示，完成受控飞行演示后，飞行器将在太平洋海域溅落。（新华社）",
+    "pubDate": "2026-06-24 12:19:34  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "仙工智能的过山车：暗盘破发7%、首日冲高38%",
+    "link": "https://36kr.com/p/3866666733835522?f=rss",
+    "summary": "本文约1100字，建议阅读3分钟 作者&nbsp;|&nbsp;彭孝秋 6月24日，仙工智能（06106.HK）正式在港交所敲钟上市，开盘平开，报101.6港元，随后一路拉升， 最高冲到140.50（+38.3%）。 之后回落，截至发稿报115.70港元， 仍涨13.88% 。振幅38.29%，成交5.33亿，市值127.8亿港元。 按这个市值算，其去年4.42亿元收入，静态市销率已升到约25倍，成为港股估值最贵的机器人新股。全球AMR第一的极智嘉约9倍，工业机器人中国第一的埃斯顿只有4~5倍。101.60港元的发行价，已经把\"高增长+高毛利能持续\"的乐观预期price in了。 关于仙...",
+    "pubDate": "2026-06-24 12:17:53  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "阿里QoderWork推“峰谷Token”",
+    "link": "https://36kr.com/newsflashes/3866661531800835?f=rss",
+    "summary": "36氪获悉，6月23日晚，阿里QoderWork推出“峰谷Token”，Agent在每晚 22:00到次日08:00运行可自动享受优惠，其中Qwen3.7-Max模型低至2折。这是国内首个上线“峰谷Token”的Agent产品。据介绍，夜间折扣产品涵盖QoderWork、Qoder Desktop等产品。",
+    "pubDate": "2026-06-24 12:11:30  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "顺丰控股旗下丰翼科技等成立无人机公司，注册资本1000万",
+    "link": "https://36kr.com/newsflashes/3866659032306949?f=rss",
+    "summary": "36氪获悉，天眼查App显示，近日，云翼无人机（云南）有限责任公司成立，法定代表人为赵之光，注册资本1000万人民币，经营范围包括智能无人飞行器制造、智能无人飞行器销售、智能输配电及控制设备销售、软件开发等。股东信息显示，该公司由云南精诚健康管理有限公司、顺丰控股旗下丰翼科技（深圳）有限公司共同持股。",
+    "pubDate": "2026-06-24 12:08:58  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "“清研精准”完成数亿元B3轮融资",
+    "link": "https://36kr.com/newsflashes/3866658398278660?f=rss",
+    "summary": "36氪获悉，清华系物理AI企业“清研精准”近日完成数亿元B3轮融资，本轮融资由北京市绿色能源基金、北汽产投领投，裕隆集团跟投。该轮资金将会用于核心人才招募、数采中心建设、多模态数采设备的研发与规模化部署，以及算力采购与模型训练基础设施建设等方向。",
+    "pubDate": "2026-06-24 12:08:19  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "恒指午间休盘涨0.04%，仙工智能涨超13%",
+    "link": "https://36kr.com/newsflashes/3866652371964930?f=rss",
+    "summary": "36氪获悉，恒指午间休盘涨0.04%，恒生科技指数涨1.34%；半导体、医药生物、软件服务板块领涨，凯莱英涨超16%，华虹宏力涨16%，仙工智能涨超13%；机械、化工、有色金属板块跌幅居前，星源材质跌超12%，中国石墨跌超11%，重庆机电跌超6%；南向资金净买入33.07亿港元",
+    "pubDate": "2026-06-24 12:02:11  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "AI × OPC的新可能：一个人，就是一支队伍｜2026WAVES",
+    "link": "https://36kr.com/p/3866649515938825?f=rss",
+    "summary": "2026年6月16日，36氪2026 WAVES 新浪潮大会在广州番禺良仓新造创意园开幕。以下这场圆桌论坛是大会首日下午的收官议题，探讨 AI 时代 OPC（One Person Company）的真实生态。 八九十年代，一辆三轮车、一个摊位，就能撑起一门生意。今天的 OPC 看起来形似，但底层逻辑已经彻底不同。 过去个体户的杠杆是体力、经验和地理位置，本质上是基于本地的 LBS 服务，脱不开那个具体的摊位。今天 OPC 的杠杆是代码和媒体——边际成本几乎为零的杠杆，加上 AI 带来的生产力平权，让一个人第一次拥有了接近公司的交付能力。 这场圆桌汇集了 OPC 生态的上中下游：已经跑出商...",
+    "pubDate": "2026-06-24 12:00:08  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "半日主力资金加仓电子板块，抛售银行板块",
+    "link": "https://36kr.com/newsflashes/3866641168291073?f=rss",
+    "summary": "主力资金早间净流入电子、医药生物、建筑材料等板块，净流出银行、非银金融、食品饮料等板块。具体到个股来看，长电科技、药明康德、中国巨石获净流入80.60亿元、29.97亿元、28.80亿元。净流出方面，东方财富、洛阳钼业、北方稀土遭抛售8.97亿元、6.62亿元、6.46亿元。（第一财经）",
+    "pubDate": "2026-06-24 11:50:47  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "多家私募收到通知，暂停跨境TRS新增",
+    "link": "https://36kr.com/newsflashes/3866636156556289?f=rss",
+    "summary": "6月24日，多位私募业人士向记者透露，昨晚陆续收到合作券商的通知，监管要求暂停管理人跨境TRS（总收益互换）规模新增。据公开资料，TRS为Total Return Swap（总收益互换)是一种金融衍生品，私募可以通过这一工具在不直接持有境外资产（本金不出境）的前提下，通过与对手券商签订收益互换协议，获得该资产的收益（或亏损）。今年以来，由于全球科技板块的亮眼表现，不少私募通过跨境TRS配置海外资产。5月以来，证监会等八部门联合印发《综合整治非法跨境证券期货基金经营活动实施方案》，对老虎证券、富途控股、长桥证券等头部跨境互联网券商亮出重拳，内地居民违规跨境炒股空间收缩后，使用跨境TRS配置...",
+    "pubDate": "2026-06-24 11:45:41  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "汇丰人寿保险公司增资至32.32亿，增幅约21%",
+    "link": "https://36kr.com/newsflashes/3866632944342273?f=rss",
+    "summary": "36氪获悉，天眼查App显示，近日，汇丰人寿保险有限公司发生工商变更，注册资本由 26.76亿人民币增至32.32亿人民币，增幅约21%。该公司成立于2009年6月，法定代表人为胡敏，经营范围为人寿保险、健康保险和意外伤害保险等保险业务，上述业务的再保险业务，由汇丰保险（亚洲）有限公司全资持股。",
+    "pubDate": "2026-06-24 11:42:25  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "主题圆桌: 迎风而立的人，那些漂洋过海寻找的答案｜36氪WAVES2026新浪潮",
+    "link": "https://36kr.com/p/3866622738060553?f=rss",
+    "summary": "&nbsp;“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从‘小众赛道’ 变成‘主流共识’，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。 今年的 WAVES 2026以‘今年盛夏’为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些‘少数人’ 的坚持，如何汇聚成改变行业的浪潮。” 以下为演讲内容，经36氪整理编辑： 彭孝秋 | 3...",
+    "pubDate": "2026-06-24 11:38:08  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "瑞浦兰钧在温州成立新贸易公司，注册资本2000万",
+    "link": "https://36kr.com/newsflashes/3866622798812417?f=rss",
+    "summary": "36氪获悉，天眼查App显示，近日，浙江瑞浦兰钧星途贸易有限公司成立，法定代表人为项锦强，注册资本2000万人民币，经营范围包括货物进出口、技术进出口、电池销售等，由瑞浦兰钧全资持股。",
+    "pubDate": "2026-06-24 11:38:03  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "A股三大指数午间休盘涨跌不一，药明康德涨停",
+    "link": "https://36kr.com/newsflashes/3866622319826180?f=rss",
+    "summary": "36氪获悉，A股三大指数午间休盘涨跌不一，沪指跌0.25%，深成指涨0.33%，创业板指涨0.42%；石油化工、海运、生物科技板块领涨，泰和新材、招商轮船、药明康德涨停；教育、餐饮旅游、多元金融板块跌幅居前，新力金融跌超6%，中公教育、曲江文旅跌超5%。",
+    "pubDate": "2026-06-24 11:31:37  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "孙正义：将“建造世界上最大的数据中心”",
+    "link": "https://36kr.com/newsflashes/3866615641920769?f=rss",
+    "summary": "6月24日，软银集团董事长孙正义在股东大会上被问及数据中心投资，孙正义透露，他正在与一位客户就美国俄亥俄州的一个开发计划签署谅解备忘录，并解释说，如果该计划最终敲定，“仅此一项业务就将带来巨额利润”。谈及数据中心的电力消耗，孙正义称，旗下SB能源正推进美国俄亥俄州数据中心项目，“单一设施将提供相当于10座核电站的电力”，将“建造世界上最大的数据中心”。（界面）",
+    "pubDate": "2026-06-24 11:24:49  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "沪深京三市成交额超2万亿元",
+    "link": "https://36kr.com/newsflashes/3866609793111040?f=rss",
+    "summary": "36氪获悉，沪深京三市成交额超2万亿元。",
+    "pubDate": "2026-06-24 11:18:52  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "孙正义：2026年计划完成收购瑞士工业巨头ABB旗下机器人业务",
+    "link": "https://36kr.com/newsflashes/3866608861139969?f=rss",
+    "summary": "6月24日，软银集团董事长孙正义在股东大会上透露，软银将通过汇聚各垂直领域顶级机器人企业，成为“压倒性世界第一的机器人公司”，并提及2026年计划完成收购瑞士工业巨头ABB旗下机器人业务。（界面）",
+    "pubDate": "2026-06-24 11:17:55  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "主题演讲：全密态计算，破解AI时代的数据安全难题 | 36氪WAVES2026新浪潮",
+    "link": "https://36kr.com/p/3866604451845377?f=rss",
+    "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。 今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。” 以下为对话内容，经36氪整理编辑： 于功山丨辰宜科技 联合创始...",
+    "pubDate": "2026-06-24 11:14:46  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "立讯精密据悉评估投资者对其30亿美元香港IPO的兴趣",
+    "link": "https://36kr.com/newsflashes/3866602488206592?f=rss",
+    "summary": "据知情人士透露，立讯精密开始就其香港上市进行投资者意向摸底，此次IPO预计募集约30亿美元。该交易若成行，可能成为今年香港市场规模最大的IPO之一。（新浪财经）",
+    "pubDate": "2026-06-24 11:11:27  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "孙正义：软银旗下Arm将进军芯片制造，“还有10倍以上成长空间”",
+    "link": "https://36kr.com/newsflashes/3866599242257416?f=rss",
+    "summary": "6月24日，软银集团董事长孙正义在股东大会上表示，旗下英国芯片设计公司Arm将从芯片设计者进化为芯片提供者，并亲自参与制造。他预判“今后AI时代将以CPU为中心”，并强调Arm“还有10倍以上的成长空间”。他同时提及软银对英特尔约3000亿日元的投资，称“当初遭到非议”，但目前“按市值计算的利润已达数万亿日元”。（界面）",
+    "pubDate": "2026-06-24 11:08:08  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "中国国新声明：未参与国富新联、弘懿创投或其关联方开展的任何活动",
+    "link": "https://36kr.com/newsflashes/3866595667809281?f=rss",
+    "summary": "36氪获悉，中国国新控股有限责任公司发布关于相关主体冒用本公司名义的严正声明称，近期，公司发现天津国富新联管理咨询合伙企业（有限合伙）（以下简称国富新联）以公司名义与相关主体开展基金业务合作，成立弘懿创业投资（天津）有限责任公司（以下简称弘懿创投）。为了维护公司及下属企业声誉，避免公众遭受人身或财产损失，公司谨在此提示：公司及公司关联方与国富新联、弘懿创投或其关联方不存在任何股权隶属或业务合作等关系，也没有与国富新联、弘懿创投或其关联方签订任何协议，从未通过任何渠道、以任何形式对国富新联、弘懿创投或其关联方进行任何授权。公司及公司关联方并不知悉且未参与国富新联、弘懿创投或其关联方开展的任...",
+    "pubDate": "2026-06-24 11:04:30  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "养生堂等在杭州成立新公司，注册资本1亿",
+    "link": "https://36kr.com/newsflashes/3866590587393284?f=rss",
+    "summary": "36氪获悉，天眼查App显示，近日，杭州晋阳交子生物有限公司成立，法定代表人为胡柳，注册资本1亿人民币，经营范围包括生物基材料制造、生物基材料技术研发、生物基材料销售、食品销售、保健食品销售等。股东信息显示，该公司由养生堂有限公司、杨静波共同持股。",
+    "pubDate": "2026-06-24 10:59:20  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "微信AI助手小微，还有许多做不到的事情｜产品观察",
+    "link": "https://36kr.com/p/3865425714795525?f=rss",
+    "summary": "文｜王毓婵 编辑｜张雨忻 微信AI助手“小微”正在灰度内测，36氪智能涌现拿到了首批测试资格。 先说结论：一些简单操作，小微做得没那么好；一些复杂操作，小微反而做得比较好。 小微入口 小微的服务主要基于微信自研模型WeLM，部分回答可能会调用DeepSeek来处理。主入口在微信首页左上角，默认交互方式是语音转文字，亦可直接手动打字输入。 小微会默认开启记忆能力、个性化服务和授权帮助模型改进效果。用户也可以在“记忆与隐私”界面手动选择关闭。 这款尚为测试版的AI助手打通了小程序、微信聊天、朋友圈、公众号、视频号、微信小店等微信的基础功能，但同时又有很多做不到的事情——比如，它可以读取你的朋...",
+    "pubDate": "2026-06-24 10:00:00  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "36氪首发 | 同济博士从建筑机器人转战煤矿，押注辅助作业的“结构性蓝海”",
+    "link": "https://36kr.com/p/3866531692844034?f=rss",
+    "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，矿山机器人公司随擎机器人（下称“随擎”）近期已完成千万元级天使轮融资，投资方为连云港金桥基金。本轮资金将主要用于煤矿井下核心机器人产品的工程化迭代、供应链构建及团队扩充。 随擎2025年初正式成立，此前已通过子公司完成近两年的技术积累与井下验证。随擎核心团队深耕智能机器人及特种装备行业多年，平均从业年限超过10年，形成从80后到98后的年龄梯队，核心骨干均有从产品定义到现场交付的全链条实战经历。创始人王龙是同济大学机器人方向博士，国内建筑机器人早期开拓者，曾任香港科技大学高级研究员。 在矿山机器人这个正在从“单点自动化”向“全场景无人化”跨越的赛道上，...",
+    "pubDate": "2026-06-24 09:59:38  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "专访火山引擎谭待：模型好对MaaS是最重要的事，豆包2.1算「上牌桌」了",
+    "link": "https://36kr.com/p/3865912900588548?f=rss",
+    "summary": "文 | 邓咏仪 编辑 | 张雨忻 火山引擎总裁谭待 来源：火山引擎 过去三年，火山引擎总裁谭待给团队定 MaaS（模型即服务） 营收目标的过程，也重复了三次：年初，定一个很高的目标，团队都觉得太难了，完不成；到了年中，“居然完成的差不多了”，随后目标再度上调。 2026 年初，字节的视频模型 Seedance 2.0 让火山引擎迎来了一场漂亮的开门红。作为云市场的后来者，火山引擎乘着 AI 的风，实现了让行业意想不到的增长。 “两年前我就和大家说 MaaS 是个大生意，当时你们都不信。”谭待对36氪说。 从 2025 年下半年开始，Coding 和视频模型陆续解锁了商业化生产的场景，这让...",
+    "pubDate": "2026-06-24 09:00:59  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "8点1氪丨追觅辟谣汽车CEO离职：职务与网传不符；微信小范围内测原生AI助手；苹果、特斯拉核心供应商数据泄露",
+    "link": "https://36kr.com/p/3866428592657411?f=rss",
+    "summary": "今日热点导览 创业板指创年内最大跌幅，失守4200点整数关口 影石回应Luna Ultra新品骗国补质疑：发布会标价有误 上交所向沪市公司发出“提质增效重回报”2.0专项行动公开倡议 韩国将要求所有上市公司披露库存股详情 贾跃亭推出工业级轮臂机器人 TOP3大新闻 追觅辟谣汽车CEO离职：陈龙冬职务与网络传言不符，今年5月已离职 6月23日，针对追觅汽车CEO离职传闻，追觅旗下星辰未来汽车发布声明称：“陈龙冬先生于2025年6月加入追觅科技原星辰未来BU，担任BU负责人，其职务与网络传言‘追觅汽车CEO’不符；2026年5月，陈龙冬先生已从星辰未来离职，该离职属正常人事变动。” 此前公司...",
+    "pubDate": "2026-06-24 08:15:39  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "The Nex Playground is down to its pre-RAMageddon price during Prime Day",
+    "link": "https://www.theverge.com/gadgets/950871/nex-playground-prime-day-deal-sale",
+    "summary": "The Nex Playground is the family-centric, Kinect-like game console that made one Verge editor’s kids laugh, cry, and ask for more playtime, even when they were sick. The motion-based game play isn’t perfect, but it has won over plenty of parents — and it’s on sale for $239 at Amazon, down from it...",
+    "pubDate": "2026-06-23T19:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Google Home will soon get better at recognizing you",
+    "link": "https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing",
+    "summary": "A new update for Google Home could make it less likely your smart home cameras mistake you for someone else, just because you're facing away from the camera. Starting June 23rd, Google's expanding its facial recognition feature so that people you've tagged in your Familiar Faces library can conti...",
+    "pubDate": "2026-06-23T18:28:19-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Hollywood is bending the knee to OpenAI",
+    "link": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
+    "summary": "Netflix, A24, Focus Features, and Warner Bros.' Clockwork have all reportedly decided to pass on picking up Artificial - director Luca Guadagnino's new biographical drama about OpenAI cofounder / CEO Sam Altman - for distribution deals. And while Neon and Mubi are still said to be interested in t...",
+    "pubDate": "2026-06-23T18:03:18-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Prime Day takes $240 off Roborock’s Saros 20, one of our favorite robovacs",
+    "link": "https://www.theverge.com/gadgets/953936/roborock-saros-20-amazon-deal-sale",
+    "summary": "The best robot vacuums are the ones you barely have to think about, and the Roborock Saros 20 fits that description well. It&#8217;s why it&#8217;s one of our favorite robovac / mop hybrids, and thanks to Prime Day, you can get it on sale at Amazon and Roborock for $1,359.99 ($240 off), a new low...",
+    "pubDate": "2026-06-23T17:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "The Meta Quest 3S is on sale for $297 — which is basically its old price",
+    "link": "https://www.theverge.com/gadgets/954049/meta-quest-3s-vr-headset-prime-day-deal-sale",
+    "summary": "The Meta Quest 3S VR headset with 128GB of storage is $296.79 (about $53 off) at Amazon. This is Meta&#8217;s entry-level VR headset, which launched back in 2024 for $299.99 before getting a price increase this year to $349.99. So it&#8217;s not exactly the most exciting deal, but it&#8217;s abou...",
+    "pubDate": "2026-06-23T17:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  }
+]

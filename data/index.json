@@ -280,6 +280,14 @@
     "category": "tech"
   },
   {
+    "title": "52-hertz whale",
+    "link": "https://en.wikipedia.org/wiki/52-hertz_whale",
+    "summary": "Article URL: https://en.wikipedia.org/wiki/52-hertz_whale Comments URL: https://news.ycombinator.com/item?id=48665093 Points: 77 # Comments: 12",
+    "pubDate": "Wed, 24 Jun 2026 20:17:33 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "Free-threaded Python: past, present, and future",
     "link": "https://lwn.net/SubscriberLink/1078367/eaa511915870fdb2/",
     "summary": "Comments",
@@ -414,6 +422,14 @@
     "pubDate": "Wed, 24 Jun 2026 18:42:01 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "How to get your first customers [video]",
+    "link": "https://www.ycombinator.com/library/SF-how-to-get-your-first-10-customers",
+    "summary": "Article URL: https://www.ycombinator.com/library/SF-how-to-get-your-first-10-customers Comments URL: https://news.ycombinator.com/item?id=48663819 Points: 60 # Comments: 21",
+    "pubDate": "Wed, 24 Jun 2026 18:24:44 +0000",
+    "source": "Hacker News",
+    "category": "tech"
   },
   {
     "title": "I rewrote PostHog's SQL parser, 70x faster, while barely looking at the code",
@@ -941,22 +957,6 @@
     "summary": "“It’s shooting pure unadulterated propaganda into our veins,” says one worker.",
     "pubDate": "Wed, 24 Jun 2026 13:35:19 +0000",
     "source": "Ars Technica",
-    "category": "tech"
-  },
-  {
-    "title": "I Fed the People Building the Metaverse",
-    "link": "https://yeastconfections.substack.com/p/i-fed-the-people-building-the-metaverse",
-    "summary": "Comments",
-    "pubDate": "Wed, 24 Jun 2026 13:31:10 -0500",
-    "source": "Lobsters",
-    "category": "tech"
-  },
-  {
-    "title": "Show HN: LookAway, a Mac break reminder that knows when not to interrupt",
-    "link": "https://lookaway.com",
-    "summary": "Hello, I'm Kushagra and I am the indie developer behind LookAway (I've posted about it earlier but it has received quite a lot of updates since the last time so I am posting it again). LookAway is a native break reminder for macOS that doesn't interrupt. I built it because I work from home and I ...",
-    "pubDate": "Wed, 24 Jun 2026 13:29:18 +0000",
-    "source": "Hacker News",
     "category": "tech"
   }
 ]

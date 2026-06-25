@@ -272,6 +272,14 @@
     "category": "tech"
   },
   {
+    "title": "52-hertz whale",
+    "link": "https://en.wikipedia.org/wiki/52-hertz_whale",
+    "summary": "Article URL: https://en.wikipedia.org/wiki/52-hertz_whale Comments URL: https://news.ycombinator.com/item?id=48665093 Points: 77 # Comments: 12",
+    "pubDate": "Wed, 24 Jun 2026 20:17:33 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "Free-threaded Python: past, present, and future",
     "link": "https://lwn.net/SubscriberLink/1078367/eaa511915870fdb2/",
     "summary": "Comments",
@@ -317,6 +325,14 @@
     "summary": "Comments",
     "pubDate": "Wed, 24 Jun 2026 18:57:44 -0500",
     "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "How to get your first customers [video]",
+    "link": "https://www.ycombinator.com/library/SF-how-to-get-your-first-10-customers",
+    "summary": "Article URL: https://www.ycombinator.com/library/SF-how-to-get-your-first-10-customers Comments URL: https://news.ycombinator.com/item?id=48663819 Points: 60 # Comments: 21",
+    "pubDate": "Wed, 24 Jun 2026 18:24:44 +0000",
+    "source": "Hacker News",
     "category": "tech"
   },
   {
@@ -392,6 +408,110 @@
     "category": "tech"
   },
   {
+    "title": "You can't unit test for taste",
+    "link": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/",
+    "summary": "Article URL: https://dev.karltryggvason.com/you-cant-unit-test-for-taste/ Comments URL: https://news.ycombinator.com/item?id=48657049 Points: 212 # Comments: 89",
+    "pubDate": "Wed, 24 Jun 2026 08:54:12 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Watch tonight's two World Cup games with our 3D Experience",
+    "link": "https://www.3d-bbc.co.uk/?at_medium=RSS&at_campaign=rss",
+    "summary": "Ever wanted to see a World Cup match from every angle? How about a full-pitch tactical view? You can now watch every match back in full with BBC Sport's 3D Experience.",
+    "pubDate": "Tue, 23 Jun 2026 10:08:27 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Patronus AI lands $50M  to build ‘digital worlds’ that stress-test AI agents",
+    "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+    "summary": "Agent testing startup Patronus AI, founded by former Meta AI researchers, is experienced nearly insatiable demand, its investor says.",
+    "pubDate": "Thu, 25 Jun 2026 20:19:25 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Saracens' Auvaa not punished for Stokes incident",
+    "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c0myx4n2zz4o?at_medium=RSS&at_campaign=rss",
+    "summary": "Saracens forward Totoa Auvaa is not sanctioned after he was involved in a nightclub incident with England cricket captain Ben Stokes.",
+    "pubDate": "Thu, 25 Jun 2026 20:18:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Forget Peloton. Race to This 25% Off Deal on Hydrow’s Rowing Machine (2026)",
+    "link": "https://www.wired.com/story/hydrow-rowing-machine-deal-amazon-prime-day-2026/",
+    "summary": "This Peloton-adjacent rowing machine gamifies your workout to a satisfying effect, and is up to 25 percent off right now for Prime Day.",
+    "pubDate": "Thu, 25 Jun 2026 19:58:52 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Polymarket says hackers stole users’ funds",
+    "link": "https://techcrunch.com/2026/06/25/polymarket-says-hackers-stole-users-funds/",
+    "summary": "The prediction market giant Polymarket said it's refunding users who had funds stolen due to a third-party breach.",
+    "pubDate": "Thu, 25 Jun 2026 19:58:46 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Starmer and home secretary in row over minister's future",
+    "link": "https://www.bbc.co.uk/news/articles/cj9g7w0xnnjo?at_medium=RSS&at_campaign=rss",
+    "summary": "Shabana Mahmood believes Mike Tapp should be sacked for writing an article but No 10 say he remains in post.",
+    "pubDate": "Thu, 25 Jun 2026 19:49:52 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Xbox follows Apple with price increases",
+    "link": "https://techcrunch.com/2026/06/25/xbox-follows-apple-with-price-increases/",
+    "summary": "The company says the increases are being driven by rising memory and console storage prices, with costs more than 2.5x higher than previous levels.",
+    "pubDate": "Thu, 25 Jun 2026 19:39:55 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
+    "link": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
+    "summary": "The ship was reportedly struck by an \"unknown projectile\" near Oman but no casualties were reported.",
+    "pubDate": "Thu, 25 Jun 2026 19:19:12 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Notion Mail shuts down amid agent takeover",
+    "link": "https://techcrunch.com/2026/06/25/notion-mail-shuts-down-amid-agent-takeover/",
+    "summary": "The company said it is discontinuing its email inbox in favor of its AI agent offering as users are increasingly handing over the reins of their email to the agents.",
+    "pubDate": "Thu, 25 Jun 2026 19:14:46 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
+    "link": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
+    "summary": "Notion is \"going all in on using agents to run your inbox.\"",
+    "pubDate": "Thu, 25 Jun 2026 19:04:57 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "England can play on NZ memories of 2022 - Southee",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/c932d9n7xvno?at_medium=RSS&at_campaign=rss",
+    "summary": "England can play on New Zealand memories of a remarkable Test at Trent Bridge in 2022 to turn around their series decider in Nottingham, according to assistant coach Tim Southee.",
+    "pubDate": "Thu, 25 Jun 2026 19:02:24 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Women alleging rape and sexual assault in France call to abolish statute of limitations",
+    "link": "https://www.bbc.co.uk/news/articles/ckg7z5dvxnzo?at_medium=RSS&at_campaign=rss",
+    "summary": "More than 50 women are calling for the abolition of the statute of limitations which they say has prevented them seeking justice.",
+    "pubDate": "Thu, 25 Jun 2026 18:50:12 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "新玩意 245｜少数派的编辑们最近买了啥？",
     "link": "https://sspai.com/post/111518",
     "summary": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@克莱德：GoogleSta ... 查看全文",
@@ -400,12 +520,236 @@
     "category": "tech-cn"
   },
   {
+    "title": "Google finally releases a Finance Android app, promises iOS version later in 2026",
+    "link": "https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/",
+    "summary": "It took 20 years, but the Finance app arrives just in time to be packed full of AI.",
+    "pubDate": "Thu, 25 Jun 2026 18:38:51 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
+    "link": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
+    "summary": "Alibaba allegedly used 25,000 accounts to mine Claude over 28.8 million exchanges.",
+    "pubDate": "Thu, 25 Jun 2026 18:01:48 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Planet orbits so close to its star that their magnetic fields connect",
+    "link": "https://arstechnica.com/science/2026/06/planet-orbits-so-close-to-its-star-that-their-magnetic-fields-connect/",
+    "summary": "At the right point of the orbit and stellar cycle, the star's chromosphere brightens.",
+    "pubDate": "Thu, 25 Jun 2026 18:00:39 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Double Ballon d'Or winner Putellas to join London City Lionesses",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c93273z471xo?at_medium=RSS&at_campaign=rss",
+    "summary": "Two-time Ballon d'Or winner Alexia Putellas decides to move to London City Lionesses after leaving Barcelona.",
+    "pubDate": "Thu, 25 Jun 2026 17:59:54 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "A Fatal Tesla Crash in Texas Sets Up a Legal Showdown",
+    "link": "https://www.wired.com/story/a-fatal-tesla-crash-in-texas-sets-up-a-legal-showdown/",
+    "summary": "Did Full Self-Driving (Supervised), Tesla’s driver assistance feature, play a role in a woman’s death?",
+    "pubDate": "Thu, 25 Jun 2026 17:52:51 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "a16z-backed Base Power is offering cheaper electricity to the power grid that needs it most",
+    "link": "https://techcrunch.com/2026/06/25/a16z-backed-base-power-is-offering-cheaper-electricity-to-the-power-grid-that-needs-it-most/",
+    "summary": "Base Power is skipping the PJM's troubled interconnection queue by placing its batteries at people's homes, offering backup services in exchange.",
+    "pubDate": "Thu, 25 Jun 2026 17:52:05 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+    "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+    "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
+    "pubDate": "Thu, 25 Jun 2026 17:38:27 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Burnham could be leader in weeks under Labour timetable",
+    "link": "https://www.bbc.co.uk/news/articles/cnv9e18r2qyo?at_medium=RSS&at_campaign=rss",
+    "summary": "Andy Burnham could take over from Keir Starmer by 17 July, if he continues to be the only Labour MP in the race.",
+    "pubDate": "Thu, 25 Jun 2026 17:19:26 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Tennis legend Evert says 'relentless' cancer has returned",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/c0myx8lr1mpo?at_medium=RSS&at_campaign=rss",
+    "summary": "Former Wimbledon champion Chris Evert says her \"relentless\" cancer has returned for a third time.",
+    "pubDate": "Thu, 25 Jun 2026 17:12:48 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "British actor praised for 'rugby tackling' handbag robber before film premiere",
+    "link": "https://www.bbc.co.uk/news/articles/crm0xny3r80o?at_medium=RSS&at_campaign=rss",
+    "summary": "Aneurin Barnard was said to have stepped in to stop the robber while promoting new film Rogue Trooper.",
+    "pubDate": "Thu, 25 Jun 2026 17:03:11 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Could a Madison Square Garden wedding be the love story of Taylor Swift's wildest dreams?",
+    "link": "https://www.bbc.co.uk/news/articles/cy73e5xek8xo?at_medium=RSS&at_campaign=rss",
+    "summary": "Officials confirmed someone applied for a permit to close the streets near Madison Square Garden on 4 July.",
+    "pubDate": "Thu, 25 Jun 2026 17:00:51 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Besimple AI (YC P25) Is Hiring",
+    "link": "https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data",
+    "summary": "Article URL: https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data Comments URL: https://news.ycombinator.com/item?id=48676256 Points: 0 # Comments: 0",
+    "pubDate": "Thu, 25 Jun 2026 17:00:00 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
+    "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+    "summary": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
+    "pubDate": "Thu, 25 Jun 2026 16:55:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "The Aerogarden I Recommend to Everyone Is Just $83 Right Now, a 63 Percent Discount",
+    "link": "https://www.wired.com/story/amazon-prime-day-aerogarden-deal-2026/",
+    "summary": "This flash deal is a rare chance to buy one of our favorite hydroponic gardens for less than $100.",
+    "pubDate": "Thu, 25 Jun 2026 16:54:55 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Why it's time for Saka and Rashford - Shearer",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cwyl7dpnx1no?at_medium=RSS&at_campaign=rss",
+    "summary": "Former England captain Alan Shearer explains why Thomas Tuchel needs to change some personnel as well as his team's mindset when they face Panama.",
+    "pubDate": "Thu, 25 Jun 2026 16:53:18 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
+    "link": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+    "summary": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
+    "pubDate": "Thu, 25 Jun 2026 16:48:11 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Hacked Klue says criminals are deleting stolen customer data, but now other hackers are making threats",
+    "link": "https://techcrunch.com/2026/06/25/hacked-klue-says-criminals-are-deleting-stolen-customer-data-but-now-other-hackers-are-making-threats/",
+    "summary": "Market research company Klue told customers that it believes the hacking group that stole their data is now deleting it. The company, however, warned about a second group of hackers wanting ransom.",
+    "pubDate": "Thu, 25 Jun 2026 16:40:15 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "UK braced for hottest June night after 36.7C high on warmest day of year",
+    "link": "https://www.bbc.co.uk/news/articles/crlw2xgrp3xo?at_medium=RSS&at_campaign=rss",
+    "summary": "Temperatures reach 36.7C in Merryfield, Somerset, the highest temperature so far this year and the hottest June day on record.",
+    "pubDate": "Thu, 25 Jun 2026 16:38:26 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Prosecutors drop outstanding rape case against Harvey Weinstein",
+    "link": "https://www.bbc.co.uk/news/articles/cgmdxjlmryzo?at_medium=RSS&at_campaign=rss",
+    "summary": "The case had already been tried three times, and accuser Jessica Mann said she does not wish to go through with a fourth trial.",
+    "pubDate": "Thu, 25 Jun 2026 16:25:15 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "17 Best Prime Day Fitness Tech Deals (2026) Up to $250 Off",
+    "link": "https://www.wired.com/story/amazon-prime-day-fitness-deals-06-25-2026/",
+    "summary": "I've compiled a list of the best fitness tech deals this Amazon Prime Day, including smartwatches, walking pads, and recovery gear. You can thank me later.",
+    "pubDate": "Thu, 25 Jun 2026 16:05:30 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+    "link": "https://github.com/inkeep/open-knowledge",
+    "summary": "Hi HN, Nick here. We’re launching OpenKnowledge ( https://openknowledge.ai/ ), a “what you see is what you get” markdown editor that has direct integrations with Claude, Codex, and Cursor. Available as MacOS app or CLI. Fully free/local and OSS ( https://github.com/inkeep/open-knowledge ). We bui...",
+    "pubDate": "Thu, 25 Jun 2026 16:04:46 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Rippling now wants to be your entire data stack",
+    "link": "https://techcrunch.com/2026/06/25/parker-conrad-knows-which-employees-are-worth-their-ai-spend-and-says-rippling-can-help-you-too/",
+    "summary": "\"There were employees doing things like, 'Claude is so helpful for me — it analyzes my calendar and my email and puts together a plan for me,'\" he says. \"That person was spending at a run rate of $30,000 a year for this.\"",
+    "pubDate": "Thu, 25 Jun 2026 16:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Google Finance gets a dedicated app for Android",
+    "link": "https://techcrunch.com/2026/06/25/google-finance-gets-a-dedicated-app-for-android/",
+    "summary": "Users will be able to access their watchlists, real-time market data, live financial news, and Google's AI-powered \"Key Moments\" feature, which explains why stocks moved.",
+    "pubDate": "Thu, 25 Jun 2026 16:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Windows 10 quietly gets one more year of support and updates",
+    "link": "https://www.neowin.net/news/windows-10-quietly-gets-one-more-year-of-support-and-updates/",
+    "summary": "Article URL: https://www.neowin.net/news/windows-10-quietly-gets-one-more-year-of-support-and-updates/ Comments URL: https://news.ycombinator.com/item?id=48675369 Points: 177 # Comments: 136",
+    "pubDate": "Thu, 25 Jun 2026 15:59:54 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "An entire Herculaneum scroll has been read for the first time",
+    "link": "https://scrollprize.org/firstscroll",
+    "summary": "Preprint: https://scrollprize.org/pdf/main.pdf https://github.com/ScrollPrize/villa Comments URL: https://news.ycombinator.com/item?id=48675179 Points: 524 # Comments: 126",
+    "pubDate": "Thu, 25 Jun 2026 15:48:07 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "给记忆一个归处：我为什么开始使用 Apple 手记",
     "link": "https://sspai.com/post/111421",
     "summary": "《手记》是Apple在iOS17.2中推出的原生日记应用，它可以帮助用户更轻松地记录生活、保存回忆、培养反思与感恩等习惯。今年以来，我频繁地使用手记这款应用。不过，我开始使用它的契机并不是为了写日记， ... 查看全文",
     "pubDate": "Thu, 25 Jun 2026 15:40:12 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "IBM debuts sub-1 nanometer chip technology",
+    "link": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
+    "summary": "Article URL: https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology Comments URL: https://news.ycombinator.com/item?id=48674967 Points: 169 # Comments: 94",
+    "pubDate": "Thu, 25 Jun 2026 15:33:37 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Echoes of the AI Winter | netzhansa",
+    "link": "https://netzhansa.com/echoes-of-the-ai-winter/",
+    "summary": "Comments",
+    "pubDate": "Thu, 25 Jun 2026 15:27:23 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Stop Mowing Your Grass Forever With One of These Highly Rated Robot Mowers On Sale",
+    "link": "https://www.wired.com/story/amazon-prime-day-robot-mower-deals-june-2026/",
+    "summary": "You don’t need to cut your own grass anymore. Most of the best robot mowers I’ve tested are on sale for Prime Day.",
+    "pubDate": "Thu, 25 Jun 2026 15:22:36 +0000",
+    "source": "Wired",
+    "category": "tech"
   },
   {
     "title": "Education secretary says she'll turn Tory leader's insult into a T-shirt",
@@ -422,6 +766,14 @@
     "pubDate": "Thu, 25 Jun 2026 15:15:45 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "How physicists track and trap the elusive neutrino",
+    "link": "https://www.quantamagazine.org/how-physicists-track-and-trap-the-elusive-neutrino-20260624/",
+    "summary": "Article URL: https://www.quantamagazine.org/how-physicists-track-and-trap-the-elusive-neutrino-20260624/ Comments URL: https://news.ycombinator.com/item?id=48674619 Points: 40 # Comments: 12",
+    "pubDate": "Thu, 25 Jun 2026 15:11:48 +0000",
+    "source": "Hacker News",
+    "category": "tech"
   },
   {
     "title": "Supreme Court allows Trump to restrict asylum seekers at border",
@@ -496,6 +848,22 @@
     "category": "general"
   },
   {
+    "title": "Photos: See Venezuela destruction after earthquakes",
+    "link": "https://www.npr.org/sections/the-picture-show/2026/06/25/nx-s1-5870661/photos-see-venezuela-destruction-after-earthquakes",
+    "summary": "The earthquakes were Venezuela's largest in over a century.",
+    "pubDate": "Thu, 25 Jun 2026 14:44:52 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Feds deny Polestar authorization to sell cars in US from model year 2027",
+    "link": "https://arstechnica.com/cars/2026/06/feds-deny-polestar-authorization-to-sell-cars-in-us-from-model-year-2027/",
+    "summary": "Unlike with Volvo, there will be no authorization for Polestar to sell its cars here.",
+    "pubDate": "Thu, 25 Jun 2026 14:40:23 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
     "title": "Kobo Libra Colour Sale (2026): The E-Reader Deal Worth Jumping on This Prime Day",
     "link": "https://www.wired.com/story/amazon-prime-day-kobo-deal-2026/",
     "summary": "The color e-reader that’s most worth your money this Prime Day isn't from Amazon.",
@@ -512,11 +880,35 @@
     "category": "general"
   },
   {
+    "title": "Zig's new bitCast semantics and LLVM back end improvements",
+    "link": "https://ziglang.org/devlog/2026/#2026-06-25",
+    "summary": "Article URL: https://ziglang.org/devlog/2026/#2026-06-25 Comments URL: https://news.ycombinator.com/item?id=48673825 Points: 171 # Comments: 64",
+    "pubDate": "Thu, 25 Jun 2026 14:19:28 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "Federal agents track down woman, demand she remove Instagram post about ICE",
     "link": "https://www.syracuse.com/news/2026/06/federal-agents-track-down-syracuse-woman-demand-she-remove-instagram-post-about-ice.html",
     "summary": "Article URL: https://www.syracuse.com/news/2026/06/federal-agents-track-down-syracuse-woman-demand-she-remove-instagram-post-about-ice.html Comments URL: https://news.ycombinator.com/item?id=48673787 Points: 80 # Comments: 36",
     "pubDate": "Thu, 25 Jun 2026 14:16:17 +0000",
     "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Apple ratchets up prices, blames the cost of memory",
+    "link": "https://arstechnica.com/apple/2026/06/apple-ratchets-up-prices-blames-the-cost-of-memory/",
+    "summary": "Some Macs are hundreds of dollars more expensive today than yesterday.",
+    "pubDate": "Thu, 25 Jun 2026 14:14:37 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Oxide Rack 3D Explorer",
+    "link": "https://explorer.oxide.computer/",
+    "summary": "Comments",
+    "pubDate": "Thu, 25 Jun 2026 14:12:44 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -640,6 +1032,22 @@
     "category": "general"
   },
   {
+    "title": "Political bias in AI: Where the AI models stand",
+    "link": "https://trakkr.ai/bias",
+    "summary": "Article URL: https://trakkr.ai/bias Comments URL: https://news.ycombinator.com/item?id=48672779 Points: 66 # Comments: 134",
+    "pubDate": "Thu, 25 Jun 2026 13:08:31 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Apple raises prices of MacBooks, iPads",
+    "link": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
+    "summary": "https://9to5mac.com/2026/06/25/apple-price-increases-mac-ipa... Comments URL: https://news.ycombinator.com/item?id=48672732 Points: 456 # Comments: 673",
+    "pubDate": "Thu, 25 Jun 2026 13:02:56 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "Apple and Audi Alumni Have Made a Luxe EV Based on the Moon Buggy",
     "link": "https://www.wired.com/story/amble-one-luxe-ev-buggy/",
     "summary": "The Amble One is a street-legal $25,000 electric buggy designed for luxury resorts—but a car is also coming.",
@@ -680,6 +1088,14 @@
     "category": "tech"
   },
   {
+    "title": "Structured Primary Keys",
+    "link": "https://modern-sql.com/blog/2026-06/structured-primary-keys",
+    "summary": "Comments",
+    "pubDate": "Thu, 25 Jun 2026 12:09:46 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Ryanair says it will reluctantly not charge parents to sit next to children",
     "link": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o?at_medium=RSS&at_campaign=rss",
     "summary": "The airline had typically charged adults a fee of £8 each way to sit with their young children.",
@@ -694,6 +1110,14 @@
     "pubDate": "Thu, 25 Jun 2026 12:08:30 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Flatpak.org Rewrite",
+    "link": "https://blog.jimmac.eu/posts/flatpak-org-zola/",
+    "summary": "Comments",
+    "pubDate": "Thu, 25 Jun 2026 12:04:58 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
@@ -784,6 +1208,14 @@
     "category": "tech"
   },
   {
+    "title": "Pierre Zemb from Clever Cloud on FoundationDB",
+    "link": "https://theconsensus.dev/p/2026/06/18/pierre-zemb-from-clever-cloud.html",
+    "summary": "Comments",
+    "pubDate": "Thu, 25 Jun 2026 11:17:24 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "The 23 Best Amazon Prime Day Deals Under $30 We've Found (2026)",
     "link": "https://www.wired.com/story/best-amazon-prime-day-deals-under-30-06-25-2026/",
     "summary": "Everything is expensive. Treat yourself to one of these WIRED-tested and -approved Prime Day picks under $30.",
@@ -798,6 +1230,14 @@
     "pubDate": "Thu, 25 Jun 2026 11:02:42 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "Judge blocks Postal Service proposal to restrict mail-in voting under Trump's order",
+    "link": "https://www.npr.org/2026/06/25/nx-s1-5869755/judge-blocks-postal-service-proposal-to-restrict-mail-in-voting-under-trumps-order",
+    "summary": "A judge has blocked the U.S. Postal Service's proposals responding to President Trump's order, including not delivering ballots in states that don't turn over voter lists to the federal government.",
+    "pubDate": "Thu, 25 Jun 2026 11:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
   },
   {
     "title": "World Cup Teams Are in a Race for AI Dominance",
@@ -1544,6 +1984,62 @@
     "category": "general"
   },
   {
+    "title": "Score a discounted Xbox console before the prices jump",
+    "link": "https://www.theverge.com/gadgets/957170/xbox-series-s-x-prime-day-deal-sale",
+    "summary": "Microsoft announced today that the price of all Xbox models will rise in August, the second time in less than a year as memory prices continue to wreak havoc on every industry from cars to computing. Thankfully, we&#8217;re already out looking for Prime Day deals, and we were able to find some di...",
+    "pubDate": "2026-06-25T16:18:47-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Instagram wants to monopolize your attention",
+    "link": "https://www.theverge.com/tech/956456/instagram-for-tv-youtube-microdramas-longform-video",
+    "summary": "This week, Instagram launched a series of new features for its smart TV app that are all designed to get people to spend more time on the platform through the biggest screens in their homes. In addition to vertical Reels, Instagram for TV - which is currently available for Amazon Fire TV, Google ...",
+    "pubDate": "2026-06-25T16:10:24-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "RAMageddon just got extremely real",
+    "link": "https://www.theverge.com/tech/956950/ram-crisis-apple-price-increase",
+    "summary": "As far as prices go, Apple is kind of a reverse canary in the coal mine. With its famously generous margins and immense purchasing volume, it can afford to ride out price fluctuations in its supply chain in a way no other consumer tech company can. So when Apple raises prices across nearly all of...",
+    "pubDate": "2026-06-25T16:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "It&#8217;s a bad time to want a new computer",
+    "link": "https://www.theverge.com/tech/957151/ram-crisis-component-shortage-prices-computer-apple-microsoft-valve",
+    "summary": "It's not exactly surprising that RAMaggeddon is making new tech hardware really expensive. But if you've been in the market for things like a new computer or tablet, this week has been filled with sticker shock. Given how many companies announced price hikes related to component shortages, it see...",
+    "pubDate": "2026-06-25T14:20:17-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "You won&#8217;t have long to get these iPad deals before Apple&#8217;s price hike",
+    "link": "https://www.theverge.com/gadgets/957106/prime-day-ipad-deals-apple-price-hikes",
+    "summary": "Apple just raised prices across its iPad and MacBook lineup. The good news is that many retailers are still selling their inventory at the old prices or far less, which means you can still score some of the best iPad deals we may see in awhile — if ever again. So if you&#8217;ve been thinking [&#...",
+    "pubDate": "2026-06-25T14:04:13-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Polestar has been muscled out of the US market",
+    "link": "https://www.theverge.com/transportation/957033/polestar-banned-us-sales-china-software",
+    "summary": "Polestar won't be allowed to sell its electric vehicles model year 2027 and beyond in the US after the federal government denied the company's request for authorization under a new rule banning vehicles with software from China. In a press release, the company says the decision to retreat from th...",
+    "pubDate": "2026-06-25T13:58:37-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Here’s a bunch of Prime Day deals on keyboards, mice, and other peripherals we like",
+    "link": "https://www.theverge.com/gadgets/956938/prime-day-deals-keyboards-mice-monitors-peripherals",
+    "summary": "RAMageddon has come for computers. The price of memory chips, hard drives, and solid state storage has skyrocketed. That’s led to price increases on desktop and laptop RAM, SSDs, spinning hard drives, and pretty much everything that uses any of those things. Consoles are more expensive. Desktops ...",
+    "pubDate": "2026-06-25T13:47:20-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
     "title": "Get Macbooks at a Prime Day discount before Apple&#8217;s new price hikes kick in",
     "link": "https://www.theverge.com/gadgets/956830/prime-day-macbook-deals-apple-price-hikes",
     "summary": "Apple just raised the prices on Macs and iPads in response to the rising costs of memory chips, right in the middle of Amazon Prime Day. That means existing discounts (even small ones) on Apple laptops like the MacBook Neo, MacBook Air, and MacBook Pro just became significantly better deals. As a...",
@@ -2214,6 +2710,70 @@
     "pubDate": "2026-06-25 08:00:14  +0800",
     "source": "36Kr",
     "category": "tech-cn"
+  },
+  {
+    "title": "Publisher Correction: In situ nanocrystal confinement for efficient blue perovskite LEDs",
+    "link": "https://www.nature.com/articles/s41586-026-10829-5",
+    "summary": "Nature, Published online: 25 June 2026; doi:10.1038/s41586-026-10829-5 Publisher Correction: In situ nanocrystal confinement for efficient blue perovskite LEDs",
+    "pubDate": "2026-06-25",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Ligand-enabled distal desaturative lactonization of aliphatic acids",
+    "link": "https://www.nature.com/articles/s41586-026-10826-8",
+    "summary": "Nature, Published online: 25 June 2026; doi:10.1038/s41586-026-10826-8 Ligand-enabled distal desaturative lactonization of aliphatic acids",
+    "pubDate": "2026-06-25",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Base editing reveals an essential role for NANOG in human embryogenesis",
+    "link": "https://www.nature.com/articles/s41586-026-10792-1",
+    "summary": "Nature, Published online: 25 June 2026; doi:10.1038/s41586-026-10792-1 Base editing reveals an essential role for NANOG in human embryogenesis",
+    "pubDate": "2026-06-25",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Oo oo, ha ha: why humans and great apes giggle alike when tickled",
+    "link": "https://www.nature.com/articles/d41586-026-01994-8",
+    "summary": "Nature, Published online: 25 June 2026; doi:10.1038/d41586-026-01994-8 The rhythmic patterns of laughter found in apes and humans reveal that complex primate vocal control might have started evolving 15 million years ago.",
+    "pubDate": "2026-06-25",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "US funding uncertainties threaten to sink key global oceanography projects",
+    "link": "https://www.nature.com/articles/d41586-026-02028-z",
+    "summary": "Nature, Published online: 25 June 2026; doi:10.1038/d41586-026-02028-z The United States has led the world in observing the oceans – but cuts and threats of cuts have researchers worried it is no longer a reliable partner.",
+    "pubDate": "2026-06-25",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "China’s LineShine just topped the global supercomputer ranking: what you need to know",
+    "link": "https://www.nature.com/articles/d41586-026-02047-w",
+    "summary": "Nature, Published online: 25 June 2026; doi:10.1038/d41586-026-02047-w The supercomputer has an innovative chip design that allows it to carry out more than 2 quintillion calculations per second.",
+    "pubDate": "2026-06-25",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Electric fields probe the symmetry of the ‘heavy hydrogen’ nucleus",
+    "link": "https://www.nature.com/articles/d41586-026-02036-z",
+    "summary": "Nature, Published online: 25 June 2026; doi:10.1038/d41586-026-02036-z The response of the nucleus of a deuterium atom to electric fields shows no evidence of asymmetry, which is consistent with conventional theories of particle physics.",
+    "pubDate": "2026-06-25",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "‘Edited’ human embryos reveal secrets of our development — and fuel ethical debate",
+    "link": "https://www.nature.com/articles/d41586-026-02027-0",
+    "summary": "Nature, Published online: 25 June 2026; doi:10.1038/d41586-026-02027-0 Ethical discussions are urgently needed as genome-editing science advances, some researchers say.",
+    "pubDate": "2026-06-25",
+    "source": "Nature",
+    "category": "science"
   },
   {
     "title": "Can you terraform Mars? Try <i>Nature</i>’s game",

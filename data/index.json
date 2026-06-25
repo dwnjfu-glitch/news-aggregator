@@ -152,6 +152,14 @@
     "category": "general"
   },
   {
+    "title": "Philippines bans video game played by alleged high school shooter",
+    "link": "https://www.bbc.co.uk/news/articles/c14y7738nm8o?at_medium=RSS&at_campaign=rss",
+    "summary": "The rare school shooting that left three students killed and 20 others injured has shocked the country.",
+    "pubDate": "Wed, 24 Jun 2026 22:14:12 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "Elastic lays off 7% of employees",
     "link": "https://www.elastic.co/blog/ceo-ash-kulkarni-announcement-to-elastic-employees",
     "summary": "Article URL: https://www.elastic.co/blog/ceo-ash-kulkarni-announcement-to-elastic-employees Comments URL: https://news.ycombinator.com/item?id=48666100 Points: 166 # Comments: 146",
@@ -269,6 +277,14 @@
     "summary": "Save big during Prime Day on the best fake Christmas trees you can buy if you’re willing to stash them for six months.",
     "pubDate": "Wed, 24 Jun 2026 20:19:51 +0000",
     "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Free-threaded Python: past, present, and future",
+    "link": "https://lwn.net/SubscriberLink/1078367/eaa511915870fdb2/",
+    "summary": "Comments",
+    "pubDate": "Wed, 24 Jun 2026 20:14:12 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -832,6 +848,14 @@
     "category": "tech"
   },
   {
+    "title": "45°C cooling design cuts data center water use to near zero",
+    "link": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
+    "summary": "Article URL: https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/ Comments URL: https://news.ycombinator.com/item?id=48660178 Points: 329 # Comments: 219",
+    "pubDate": "Wed, 24 Jun 2026 14:10:11 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "The Samsung 990 Pro SSD Is on Sale for the Lowest Price I’ve Seen in 2026",
     "link": "https://www.wired.com/story/the-best-prime-day-deal-on-memory-2026/",
     "summary": "These Prime Day specials on a Samsung SSD and Lexar SD card represent the best digital storage deals you're likely to find this year.",
@@ -896,6 +920,14 @@
     "category": "general"
   },
   {
+    "title": "Qualcomm to Acquire Modular",
+    "link": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
+    "summary": "https://investor.qualcomm.com/news-events/press-releases/new... https://www.modular.com/blog/qualcomm-to-acquire-modular https://x.com/clattner_llvm/status/2069769232477192354 , https://xcancel.com/clattner_llvm/status/2069769232477192354 Comments URL: https://news.ycombinator.com/item?id=4865979...",
+    "pubDate": "Wed, 24 Jun 2026 13:49:16 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "Ben Stokes reveals 'highest pressure' of England captaincy",
     "link": "https://www.bbc.co.uk/sport/cricket/articles/c7vy10p37p5o?at_medium=RSS&at_campaign=rss",
     "summary": "Captain Ben Stokes admits England are under the “highest amount of pressure” since he and coach Brendon McCullum took charge four years ago.",
@@ -926,37 +958,5 @@
     "pubDate": "Wed, 24 Jun 2026 13:29:18 +0000",
     "source": "Hacker News",
     "category": "tech"
-  },
-  {
-    "title": "Wales boss Bellamy in talks over Burnley job",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c8624edp778o?at_medium=RSS&at_campaign=rss",
-    "summary": "Burnley hope to complete a deal to appoint Wales boss Craig Bellamy following Scott Parker's departure.",
-    "pubDate": "Wed, 24 Jun 2026 13:17:18 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "Train passed red signal before fatal crash, says report",
-    "link": "https://www.bbc.co.uk/news/articles/cly90nqpryko?at_medium=RSS&at_campaign=rss",
-    "summary": "A preliminary report from the Independent Rail Accident Investigation Branch is published.",
-    "pubDate": "Wed, 24 Jun 2026 13:09:44 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "Stealing Is a Skill",
-    "link": "https://ben-mini.com/2026/stealing-is-a-skill",
-    "summary": "Article URL: https://ben-mini.com/2026/stealing-is-a-skill Comments URL: https://news.ycombinator.com/item?id=48659165 Points: 65 # Comments: 45",
-    "pubDate": "Wed, 24 Jun 2026 13:08:52 +0000",
-    "source": "Hacker News",
-    "category": "tech"
-  },
-  {
-    "title": "Many fear the NHS will continue to fail mothers and babies unless there's a cultural shift",
-    "link": "https://www.bbc.co.uk/news/articles/c2kyn81epdvo?at_medium=RSS&at_campaign=rss",
-    "summary": "Families will continue to be failed unless the NHS makes meaningful changes, BBC's Michael Buchanan writes.",
-    "pubDate": "Wed, 24 Jun 2026 13:06:11 GMT",
-    "source": "BBC News",
-    "category": "general"
   }
 ]

@@ -144,6 +144,14 @@
     "category": "general"
   },
   {
+    "title": "Philippines bans video game played by alleged high school shooter",
+    "link": "https://www.bbc.co.uk/news/articles/c14y7738nm8o?at_medium=RSS&at_campaign=rss",
+    "summary": "The rare school shooting that left three students killed and 20 others injured has shocked the country.",
+    "pubDate": "Wed, 24 Jun 2026 22:14:12 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "Elastic lays off 7% of employees",
     "link": "https://www.elastic.co/blog/ceo-ash-kulkarni-announcement-to-elastic-employees",
     "summary": "Article URL: https://www.elastic.co/blog/ceo-ash-kulkarni-announcement-to-elastic-employees Comments URL: https://news.ycombinator.com/item?id=48666100 Points: 166 # Comments: 146",
@@ -264,6 +272,14 @@
     "category": "tech"
   },
   {
+    "title": "Free-threaded Python: past, present, and future",
+    "link": "https://lwn.net/SubscriberLink/1078367/eaa511915870fdb2/",
+    "summary": "Comments",
+    "pubDate": "Wed, 24 Jun 2026 20:14:12 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Experimental wine bottle tracks oxygen moving through the cork",
     "link": "https://arstechnica.com/science/2026/06/experimental-wine-bottle-tracks-oxygen-moving-through-the-cork/",
     "summary": "The small bit of air in the bottle sees oxygen and other chemicals move in and out.",
@@ -352,12 +368,52 @@
     "category": "tech"
   },
   {
+    "title": "45°C cooling design cuts data center water use to near zero",
+    "link": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
+    "summary": "Article URL: https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/ Comments URL: https://news.ycombinator.com/item?id=48660178 Points: 329 # Comments: 219",
+    "pubDate": "Wed, 24 Jun 2026 14:10:11 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Qualcomm to Acquire Modular",
+    "link": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
+    "summary": "https://investor.qualcomm.com/news-events/press-releases/new... https://www.modular.com/blog/qualcomm-to-acquire-modular https://x.com/clattner_llvm/status/2069769232477192354 , https://xcancel.com/clattner_llvm/status/2069769232477192354 Comments URL: https://news.ycombinator.com/item?id=4865979...",
+    "pubDate": "Wed, 24 Jun 2026 13:49:16 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "给记忆一个归处：我为什么开始使用 Apple 手记",
+    "link": "https://sspai.com/post/111421",
+    "summary": "《手记》是Apple在iOS17.2中推出的原生日记应用，它可以帮助用户更轻松地记录生活、保存回忆、培养反思与感恩等习惯。今年以来，我频繁地使用手记这款应用。不过，我开始使用它的契机并不是为了写日记， ... 查看全文",
+    "pubDate": "Thu, 25 Jun 2026 15:40:12 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "把心情贴在手机背面：XTREM INNO 极稚墨水屏手机壳体验",
+    "link": "https://sspai.com/post/111483",
+    "summary": "手机主屏幕的个性化，如今越发受到重视。遍观各大手机操作系统的更新，几乎都会提到主屏幕装扮方式的增加——从壁纸、时钟再到图标、挂件，几乎没有哪个角落是不能按自己喜好调整的。对比之下，手机背面反而成为了「 ... 查看全文",
+    "pubDate": "Thu, 25 Jun 2026 14:08:44 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
     "title": "风暖鸟声碎，日高花影重：我的昆明与腾冲行记",
     "link": "https://sspai.com/post/111349",
     "summary": "云南气候实在是太好了，昆明海拔将近两千，每次出门都有一种凉爽感包裹全身。而腾冲太适合旅居了，既有中高端的酒店可供享受奢靡之风，也有历史文化供我们反思来时的路，更好的去面对未来，还有拿上衣服就可以随地大小泡的温泉，美哉！ 查看全文",
     "pubDate": "Thu, 25 Jun 2026 11:02:42 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "Austrian GP declared heat-hazard race amid heatwave",
+    "link": "https://www.bbc.co.uk/sport/formula1/articles/crelx8d3ye1o?at_medium=RSS&at_campaign=rss",
+    "summary": "This weekend's Austrian Grand Prix is declared a heat-hazard race by Formula 1's governing body the FIA.",
+    "pubDate": "Thu, 25 Jun 2026 09:23:20 GMT",
+    "source": "BBC News",
+    "category": "general"
   },
   {
     "title": "派早报：豆包推出专业版、GTA VI 开启预售等",
@@ -368,12 +424,236 @@
     "category": "tech-cn"
   },
   {
+    "title": "17 Best Prime Day Apple Deals Offering Up to 30% Off: iPad, Apple Watch, MacBooks, and More (2026)",
+    "link": "https://www.wired.com/story/best-prime-day-apple-deals-06-25-2026/",
+    "summary": "Apple deals abound for Amazon Prime Day. We've rounded up the best deals on Apple Watches, iPhones, MacBooks, iPads, and accessories.",
+    "pubDate": "Thu, 25 Jun 2026 08:39:16 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "How hot will it be today?",
+    "link": "https://www.bbc.co.uk/news/videos/cn947g4g11no?at_medium=RSS&at_campaign=rss",
+    "summary": "Today's weather forecast will be sunny and hot for many, with June temperature records set to be broken again.",
+    "pubDate": "Thu, 25 Jun 2026 08:36:31 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Jail time and unlimited fines planned under conversion practices ban",
+    "link": "https://www.bbc.co.uk/news/articles/cpwev2x4jw9o?at_medium=RSS&at_campaign=rss",
+    "summary": "The government says a new Bill will protect LGBT people from \"abusive acts\" to change who they are.",
+    "pubDate": "Thu, 25 Jun 2026 08:33:22 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Find out which university degrees could earn you most across your lifetime",
+    "link": "https://www.bbc.co.uk/news/articles/c892dv0qy2jo?at_medium=RSS&at_campaign=rss",
+    "summary": "New data suggests which university degrees have the highest and lowest financial returns over a lifetime.",
+    "pubDate": "Thu, 25 Jun 2026 08:32:12 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Rescuers race to find Venezuela quake survivors: What we know so far",
+    "link": "https://www.bbc.co.uk/news/articles/c4gyjgreg1ro?at_medium=RSS&at_campaign=rss",
+    "summary": "The two quakes have killed at least 32 people and injured around 700.",
+    "pubDate": "Thu, 25 Jun 2026 08:31:46 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "99 Prime Day Deals on Gear We Stand By, Up To 50% Off (2026)",
+    "link": "https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-25-2026/",
+    "summary": "We've gone from A to Z to find Amazon's best Prime Day deals on the gear worth owning.",
+    "pubDate": "Thu, 25 Jun 2026 08:24:32 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Aisle Discovers 6 New CVEs in Curl, Including the Oldest Issue Ever Reported",
+    "link": "https://aisle.com/blog/aisle-discovers-6-new-cves-in-curl-including-the-oldest-issue-ever-reported",
+    "summary": "Article URL: https://aisle.com/blog/aisle-discovers-6-new-cves-in-curl-including-the-oldest-issue-ever-reported Comments URL: https://news.ycombinator.com/item?id=48670411 Points: 9 # Comments: 0",
+    "pubDate": "Thu, 25 Jun 2026 08:07:54 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "GTA 6 - all you need to know about Rockstar's blockbuster game",
+    "link": "https://www.bbc.co.uk/news/articles/c9q20djz4wno?at_medium=RSS&at_campaign=rss",
+    "summary": "Rockstar's sixth game in the franchise is set to be the biggest game release of the year.",
+    "pubDate": "Thu, 25 Jun 2026 07:47:54 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Oil price falls to levels not seen since before Iran war",
+    "link": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss",
+    "summary": "Energy prices have been on a wild ride since Iran responded to US and Israeli attacks by effectively closing the Strait of Hormuz.",
+    "pubDate": "Thu, 25 Jun 2026 07:34:55 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Bodies found in 'advanced deterioration' at under-fire trust",
+    "link": "https://www.bbc.co.uk/news/articles/ce95r7gvm5go?at_medium=RSS&at_campaign=rss",
+    "summary": "An inspection of NUH mortuaries found 10 shortfalls, the Human Tissue Authority said.",
+    "pubDate": "Thu, 25 Jun 2026 07:16:44 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Weekly sports quiz: World Cup, Test cricket and Wimbledon",
+    "link": "https://www.bbc.co.uk/sport/articles/c0kynnpx35zo?at_medium=RSS&at_campaign=rss",
+    "summary": "How much attention have you paid to what's happened in the world of sport over the past seven days?",
+    "pubDate": "Thu, 25 Jun 2026 06:43:25 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Best World Cup stadium? BBC Sport experts have their say",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c3vy3grvpg6o?at_medium=RSS&at_campaign=rss",
+    "summary": "BBC Sport reporters have their say on the best stadium experiences at the 2026 World Cup.",
+    "pubDate": "Thu, 25 Jun 2026 06:30:04 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Preston Davey review 'should include second murdered baby'",
+    "link": "https://www.bbc.co.uk/news/articles/c1myxvp10zdo?at_medium=RSS&at_campaign=rss",
+    "summary": "Damion Russell was examined in the same hospital that failed to raise the alarm about Preston's injuries.",
+    "pubDate": "Thu, 25 Jun 2026 06:26:02 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Thousands gather for the Great American State Fair",
+    "link": "https://www.bbc.co.uk/news/videos/ckg8kv399pxo?at_medium=RSS&at_campaign=rss",
+    "summary": "The rally on the National Mall is one of a range of events planned by Donald Trump to celebrate America's 250th year of independence.",
+    "pubDate": "Thu, 25 Jun 2026 06:23:04 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Half-Life 2 in a Browser",
+    "link": "https://hl2.slqnt.dev/",
+    "summary": "Article URL: https://hl2.slqnt.dev/ Comments URL: https://news.ycombinator.com/item?id=48669534 Points: 215 # Comments: 79",
+    "pubDate": "Thu, 25 Jun 2026 06:00:04 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "June's temperature record set to be broken again",
+    "link": "https://www.bbc.co.uk/weather/articles/cqj1ek2zpyxo?at_medium=RSS&at_campaign=rss",
+    "summary": "Thursday is expected to be a hotter day for parts of England and Wales with June's record temperature set to be broken for a second day in a row as Simon King explains.",
+    "pubDate": "Thu, 25 Jun 2026 05:27:59 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The 'constant fear' of living in an overheated home with a baby",
+    "link": "https://www.bbc.co.uk/news/articles/cg74dejx7dvo?at_medium=RSS&at_campaign=rss",
+    "summary": "Jackson Bylett and his wife, who live in a flat in east London with their baby, fear for the future.",
+    "pubDate": "Thu, 25 Jun 2026 05:16:46 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Reeves backs Burnham to become next prime minister",
+    "link": "https://www.bbc.co.uk/news/articles/cvgm9mj262qo?at_medium=RSS&at_campaign=rss",
+    "summary": "The chancellor throws her support behind the MP for Makerfield despite reports he could demote her if he becomes PM.",
+    "pubDate": "Thu, 25 Jun 2026 05:00:07 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "4 surprising things to know about abortion in America since Dobbs",
+    "link": "https://www.npr.org/2026/06/25/nx-s1-5869560/abortion-dobbs-roe-rights-restrictions-anniversary-update",
+    "summary": "A confusing patchwork of state laws began to take shape hours after the Supreme Court ruled to overturn Roe v. Wade on June 24, 2022. Here's where things stand now on the abortion issue.",
+    "pubDate": "Thu, 25 Jun 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "'They can kill you': Immigrants fear a surge in xenophobic violence in South Africa",
+    "link": "https://www.npr.org/2026/06/25/nx-s1-5866241/they-can-kill-you-immigrants-fear-a-surge-in-xenophobic-violence-in-south-africa",
+    "summary": "Foreign-owned businesses have been attacked, migrants driven from their homes, and several killed. A leading xenophobic group has given all undocumented immigrants until June 30 to leave the country.",
+    "pubDate": "Thu, 25 Jun 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "How to find middle ground when your partner wants kids — and you don't",
+    "link": "https://www.npr.org/2026/06/25/nx-s1-5758051/how-to-find-middle-ground-when-your-partner-wants-kids-and-you-dont",
+    "summary": "Psychotherapist Merle Bombardieri has been helping couples with this conundrum for decades. She shares four exercises to bring clarity to the situation — and find a solution that minimizes regret.",
+    "pubDate": "Thu, 25 Jun 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Long before the World Cup, Ukrainian immigrants built a soccer powerhouse in Philly",
+    "link": "https://www.npr.org/2026/06/25/nx-s1-5845366/world-cup-ukraine-immigrants-philadelphia-soccer-leagues",
+    "summary": "World Cup games are underway in Philadelphia. Long before Americans caught the world's soccer craze, Ukrainian migrants made Philly a soccer town. Today, the sport helps sustain their culture.",
+    "pubDate": "Thu, 25 Jun 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Trump keeps sabotaging legislation over a voting bill. Here's what's in it",
+    "link": "https://www.npr.org/2026/06/25/nx-s1-5869577/trump-voting-save-america-act",
+    "summary": "President Trump blew up what could have been a win for his party — and he did it to force lawmakers to pass an elections overhaul bill that has been all but doomed in the Senate.",
+    "pubDate": "Thu, 25 Jun 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Norman Rockwell art that ignited a lawsuit and a love story is now on public view",
+    "link": "https://www.npr.org/2026/06/25/nx-s1-5859276/norman-rockwell-so-you-want-to-see-the-president",
+    "summary": "So You Want to See The President! depicts a procession of visitors waiting to see Franklin Delano Roosevelt. The original 1943 Rockwell suite of illustrations goes on public view Thursday in D.C.",
+    "pubDate": "Thu, 25 Jun 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Eager for a break, farmers don't expect much relief after the Iran peace deal",
+    "link": "https://www.npr.org/2026/06/25/nx-s1-5867650/farmers-fertilizer-prices-iran-trump",
+    "summary": "Fertilizer prices have gone down with the reopening of the Strait of Hormuz and the prospect of a U.S.-Iran peace deal. But struggling American farmers won't likely see any relief for months.",
+    "pubDate": "Thu, 25 Jun 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Council sorry for parking fines after train crash",
+    "link": "https://www.bbc.co.uk/news/articles/c70y8128w1wo?at_medium=RSS&at_campaign=rss",
+    "summary": "Stranded passengers find fixed penalty notices on their cars at Bedford railway station.",
+    "pubDate": "Thu, 25 Jun 2026 04:53:01 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Morning news brief",
+    "link": "https://www.npr.org/2026/06/25/nx-s1-5869201/morning-news-brief",
+    "summary": "At least 32 killed and 700 injured after two earthquakes hit Venezuela, Trump and Senate GOP face off in tense meeting, a top general is expected to retire, joining a number of Pentagon shakeups.",
+    "pubDate": "Thu, 25 Jun 2026 04:46:16 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "Trump describes Burnham as 'the mayor of a town' and 'extremely liberal'",
     "link": "https://www.bbc.co.uk/news/videos/cly81w5g1qwo?at_medium=RSS&at_campaign=rss",
     "summary": "Donald Trump gives his first public reaction to the prospect of Andy Burnham becoming prime minister.",
     "pubDate": "Thu, 25 Jun 2026 04:30:07 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "tropius: detect AI tropes in prose",
+    "link": "https://tangled.org/desertthunder.dev/tropius",
+    "summary": "Comments",
+    "pubDate": "Thu, 25 Jun 2026 04:23:21 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "10 Best Protein Powders, According to 3 Years of Testing (2026)",
@@ -414,6 +694,14 @@
     "pubDate": "Thu, 25 Jun 2026 03:07:31 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "The Unbearable Cheapness of Open Weight Models",
+    "link": "https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/",
+    "summary": "Article URL: https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/ Comments URL: https://news.ycombinator.com/item?id=48668255 Points: 65 # Comments: 47",
+    "pubDate": "Thu, 25 Jun 2026 02:51:29 +0000",
+    "source": "Hacker News",
+    "category": "tech"
   },
   {
     "title": "Independent MPs launch new Australian centrist party",
@@ -622,6 +910,206 @@
     "pubDate": "Thu, 25 Jun 2026 00:00:00 -0400",
     "source": "NPR",
     "category": "general"
+  },
+  {
+    "title": "Facebook’s Creator Studio has been revived as an AI companion app",
+    "link": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
+    "summary": "Meta is bringing back the Facebook Creator Studio page manager, now \"reimagined\" as a standalone AI companion app. The new app aims to make it easier for creators to connect with their audiences and show them \"exactly how to grow on Facebook,\" according to Meta's announcement. Meta's AI Creator A...",
+    "pubDate": "2026-06-25T05:06:19-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "龙磁科技：芯片电感产品处于客户端验证及小批量出货阶段，当前尚未形成稳定营收贡献",
+    "link": "https://36kr.com/newsflashes/3868409583834121?f=rss",
+    "summary": "36氪获悉，龙磁科技发布异动公告，目前公司研发的芯片电感产品产能正在建设，处于客户端验证及小批量出货阶段，当前该产品尚未形成稳定营收贡献，业务合作及订单交付进度存在不确定性，存在未来业务推进不及预期的风险。敬请广大投资者审慎评估，理性决策，注意投资风险。",
+    "pubDate": "2026-06-25 17:49:43  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "精测电子：控股子公司签订1.35亿元半导体量检测设备销售合同",
+    "link": "https://36kr.com/newsflashes/3868406847345666?f=rss",
+    "summary": "36氪获悉，精测电子公告，公司控股子公司上海精测半导体技术有限公司近日与客户签订销售合同，拟出售明场缺陷检测设备，合同总金额为1.35亿元。该合同经双方盖章或签字后生效，预计将对公司经营成果产生积极影响。本合同的签署，是公司与该客户在原有良好合作基础上进一步加深了双方的合作关系，体现了客户对公司半导体量检测设备的高度认可。",
+    "pubDate": "2026-06-25 17:46:56  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "波音公司中国区总裁陆一鸣：波音在中国的机队未来20年会翻倍，需约25万从业人员加入",
+    "link": "https://36kr.com/newsflashes/3868396563387650?f=rss",
+    "summary": "波音公司中国区总裁陆一鸣6月24日在第四届链博会“炉边谈话”环节表示，中国市场所有波音供应链合作伙伴均在全球协作体系中贡献着独特价值。全球正在运营的波音机队中，有很多零部件的生产供应来自中国。对于波音在中国市场的增长空间，陆一鸣预判，未来20年，波音在中国的机队会翻倍，需要约25万从业人员加入，包括航空员、地服等。（证券时报）",
+    "pubDate": "2026-06-25 17:44:21  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "百度：已有1500万人使用百度AI志愿助手填报",
+    "link": "https://36kr.com/newsflashes/3868395516171523?f=rss",
+    "summary": "36氪获悉，6月25日，百度官方发布数据：截至目前，今年高考期间累计约有2.5亿用户、超12亿人次使用了百度高考服务，其中1500万人使用百度AI志愿助手填报志愿。",
+    "pubDate": "2026-06-25 17:43:56  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "飞龙股份：液冷领域个别客户部分项目实现小批订单落地",
+    "link": "https://36kr.com/newsflashes/3868393783432197?f=rss",
+    "summary": "36氪获悉，飞龙股份发布异动公告，目前公司液冷领域相关业务正在有序开展，个别客户部分项目实现小批订单落地。但现阶段液冷领域业务收入占比较低，对公司经营业绩影响很小。后续如有达到相关披露标准的订单，公司会及时披露。敬请广大投资者注意投资风险。",
+    "pubDate": "2026-06-25 17:33:39  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "沪市半年报预约披露时间出炉 中船特气拔得头筹",
+    "link": "https://36kr.com/newsflashes/3868389006726405?f=rss",
+    "summary": "沪市上市公司2026年半年报预约披露时间出炉，中船特气拔得头筹，将于7月18日披露半年报。海通发展将于7月21日披露半年报。（证券时报）",
+    "pubDate": "2026-06-25 17:28:47  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "名创优品寇维宣：乐园系门店年内破百家",
+    "link": "https://36kr.com/newsflashes/3868381798421769?f=rss",
+    "summary": "36氪获悉，名创优品集团全球副总裁兼首席渠道发展官寇维宣透露，名创优品乐园系门店正加速扩张，预计年内全球将突破100家。依托超级IP与超级门店双轮驱动，名创优品致力于成为全球领先的IP运营平台，带领100个中国IP走向世界。",
+    "pubDate": "2026-06-25 17:21:27  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "开放麦 | 启明创投胡奇：从AI算法工程师到投资人，与AI一起走过的十年",
+    "link": "https://36kr.com/p/3868349472920576?f=rss",
+    "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。 今年的 WAVES 2026以 ‘今年盛夏’ 为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些 ‘少数人’ 的坚持，如何汇聚成改变行业的浪潮。” 以下为开放麦内容，经36氪整理编辑： 胡奇｜启明创投执行...",
+    "pubDate": "2026-06-25 17:19:27  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "华数传媒在温州成立新公司，注册资本1000万",
+    "link": "https://36kr.com/newsflashes/3868350425814018?f=rss",
+    "summary": "36氪获悉，天眼查App显示，近日，温州华数传媒科技有限公司成立，法定代表人为潘劲勇，注册资本1000万人民币，经营范围包括数字广告发布、软件开发、人工智能应用软件开发、人工智能基础软件开发、广告发布、人工智能行业应用系统集成服务等，由华数传媒旗下华数传媒网络有限公司全资持股。",
+    "pubDate": "2026-06-25 17:19:22  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "证监会同意富士达沪主板IPO注册",
+    "link": "https://36kr.com/newsflashes/3868376163341568?f=rss",
+    "summary": "36氪获悉，证监会日前下发关于同意天津富士达自行车工业股份有限公司首次公开发行股票注册的批复，同意该公司在上交所主板上市的注册申请。",
+    "pubDate": "2026-06-25 17:15:43  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "网翎发布首个卫星通信终端边缘智算系统OneLinQ Edge",
+    "link": "https://36kr.com/newsflashes/3868371188684038?f=rss",
+    "summary": "36氪获悉，6月25日，网翎在2026 MWC上海领袖舞台发布网翎卫星上网机FLEX，并发布首个卫星通信终端边缘智算系统OneLinQ Edge。该系统将视频编码、智能压缩与边缘计算等消费电子中已成熟的智算技术引入卫星通信，通过自研边缘智算芯片叠加H.265编码、带宽预估与智能编码技术，可以有效解决“流量贵、卡顿、画质差”三大体验卡点。",
+    "pubDate": "2026-06-25 17:10:39  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "两部门：打造重要能源产品骨干流通走廊，新增西电东送能力8000万千瓦以上",
+    "link": "https://36kr.com/newsflashes/3868368515748865?f=rss",
+    "summary": "36氪获悉，国家发展改革委、国家能源局印发《新型能源体系建设“十五五”规划》。其中提到，打造重要能源产品骨干流通走廊。电力流向形成由“三北”风电光伏基地、西南水风光一体化基地向负荷中心地区送电的总体格局，新增西电东送能力8000万千瓦以上。西煤东运、北煤南运的运输布局持续优化，唐包、瓦日、浩吉、朔黄等煤运通道配套集疏运体系更加完善，疆煤外运拓展“一轴两翼多联”通道布局。油气“全国一张网”基础设施布局更加完善，西气东输、川气东送、北气南下、海气登陆干线通道更加强化，全国油气管网总里程新增2万公里。",
+    "pubDate": "2026-06-25 17:07:56  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "金辰股份：拟投资2000万元设立全资子公司",
+    "link": "https://36kr.com/newsflashes/3868360863225096?f=rss",
+    "summary": "36氪获悉，金辰股份公告，为满足公司战略发展的需求，促进公司内生式增长及外延式扩张协调发展，探索和发现业务增长点，同时加强公司投资工作的统一管理规划，公司拟以自有资金2000万元设立全资子公司金泰辰（苏州）投资有限公司。",
+    "pubDate": "2026-06-25 17:06:05  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "两部门：到2030年抽水蓄能装机达到1.6亿千瓦左右，新型储能装机达到3亿千瓦",
+    "link": "https://36kr.com/newsflashes/3868366292358144?f=rss",
+    "summary": "36氪获悉，国家发展改革委、国家能源局印发《新型能源体系建设“十五五”规划》。其中提到，优化储能建设和调用。合理布局、积极有序开发建设抽水蓄能电站。大力发展新型储能，加力发展长时储能，鼓励多种储能技术路线发展，拓展新型储能在电源协同运行、电网稳定支撑及微电网、虚拟电厂等领域应用。推动新型储能调控方式创新，合理提升利用水平。2030年抽水蓄能装机达到1.6亿千瓦左右，新型储能装机达到3亿千瓦。",
+    "pubDate": "2026-06-25 17:05:41  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "两部门：2030年新能源发电量占比达到30%",
+    "link": "https://36kr.com/newsflashes/3868365813961987?f=rss",
+    "summary": "36氪获悉，国家发展改革委、国家能源局发布关于印发《新型能源体系建设“十五五”规划》的通知，推动新能源集成融合发展。坚持集中式与分布式、发电与非电并举，加强新能源多品种互补开发、空间集约复合利用、一体化聚合运营，推进陆上风电、光伏发电大规模平稳发展，海上风电向深远海发展，光热发电、海洋能规模化发展。推进“风光+生物质”一体化项目建设。提升新能源涉网性能，建设一批系统友好型新能源电站。积极推进地热能、氢能和绿色燃料发展，新能源非电利用规模实现倍增。建立完善新能源消纳综合评价指标体系，2030年新能源发电量占比达到30%。",
+    "pubDate": "2026-06-25 17:05:11  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "两部门：到2030年初步建成清洁低碳安全高效的新型能源体系",
+    "link": "https://36kr.com/newsflashes/3868365474616578?f=rss",
+    "summary": "36氪获悉，国家发展改革委、国家能源局印发《新型能源体系建设“十五五”规划》。其中提到，主要目标是：2030年初步建成清洁低碳安全高效的新型能源体系。能源综合生产能力达到58亿吨标准煤，电力系统互补互济和安全韧性水平全面提升，能源进口多元可控；煤炭和石油消费达峰，非化石能源消费比重达到25%，风电和太阳能发电装机比重超过50%、成为电力装机主体，非化石能源发电量比重达到50%、成为电量主体；坚强韧性、绿色低碳、集成融合、智能高效的新型能源基础设施体系加快建设，新型电力系统初步建成；能源产业链关键技术装备实现总体自主可控，迈入世界能源科技创新国家前列；适应新型能源体系的市场和价格机制加快健...",
+    "pubDate": "2026-06-25 17:04:51  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "英国钢铁进口免税配额将削减51%，新规7月1日生效",
+    "link": "https://36kr.com/newsflashes/3868357619242245?f=rss",
+    "summary": "英国政府公布自7月1日起实施的钢铁贸易措施详情。英国政府表示，将限制免税钢铁进口，整体配额总量较现行钢铁保障措施减少51%。超出上述水平的任何进口将面临50%的关税。该措施将适用于英国本土也能生产的钢铁产品。英国政府表示，现行钢铁保障配额及25%的额外保障关税将于2026年6月30日后停止适用。（新浪财经）",
+    "pubDate": "2026-06-25 17:02:47  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "高考出分三日，千问志愿大模型为考生生成500万份志愿报告",
+    "link": "https://36kr.com/newsflashes/3868360154027013?f=rss",
+    "summary": "6月25日，全国多省份高考成绩密集公布，高招季进入志愿填报高峰期。数据显示，高考出分前后，千问高考咨询量连续6日增长超过100%，截至发稿，咨询量涨幅超过1000%。高考出分三日，千问志愿大模型已为用户累计生成超500万份志愿报告。该报告可为用户推荐完整的志愿填报列表，并对专业情况、就业发展等进行详细分析。",
+    "pubDate": "2026-06-25 16:59:26  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "韩国5200万人开了1.08亿股票账户，半年增超1000万",
+    "link": "https://36kr.com/newsflashes/3868359434179585?f=rss",
+    "summary": "随着韩国KOSPI指数持续创历史新高，越来越多的人进入股市。尤其是今年，小型账户数量显著增加，带来了新投资者的涌入。根据韩国金融投资协会25日的数据，截至24日，所有韩国国内证券公司的活跃股票交易账户总数为1.0877亿，按照最新统计的人均持有2个账户。根据大信证券按年龄组划分的新账户开设分析，今年4月，0至9岁年龄段开户率较今年1月增长了119.2%。新韩投资证券今年第一季度未成年人开户量也同比增长了272%。（新华财经）",
+    "pubDate": "2026-06-25 16:58:42  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "中兴通讯董事长方榕：新一代AI手机即将在近期上市",
+    "link": "https://36kr.com/newsflashes/3868353131631616?f=rss",
+    "summary": "6月23日至6月25日，世界经济论坛第十七届新领军者年会（2026夏季达沃斯论坛）在大连举行。在“AI与未来增长”午餐会上，中兴通讯董事长方榕表示：“AI的终极意义，在于让科技普惠经济社会。”方榕介绍，中兴通讯新一代AI手机即将在近期上市。这是中兴通讯将智能能力从云端推向端侧的重要一步，将提供“听得懂、能干活”的交互体验，从而带动整个终端生态的增长潜力。（上证报）",
+    "pubDate": "2026-06-25 16:52:17  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "国控汽车及交通装备股权投资基金登记成立，出资额5亿",
+    "link": "https://36kr.com/newsflashes/3868349739717632?f=rss",
+    "summary": "36氪获悉，天眼查App显示，近日，国控汽车及交通装备（淮南）股权投资基金合伙企业（有限合伙）成立，执行事务合伙人为安徽省属企业改革发展基金管理有限公司，出资额5亿人民币，经营范围为以私募基金从事股权投资、投资管理、资产管理等活动。合伙人信息显示，该基金由淮南交通控股（集团）有限公司、安徽国控投资有限公司、安徽省新能源汽车和智能网联汽车产业基金合伙企业（有限合伙）、安徽省属企业改革发展基金管理有限公司共同出资。",
+    "pubDate": "2026-06-25 16:48:50  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "RoboScience机器科学发布Visics通用具身大模型，实现跨本体、跨物体、跨任务｜最前线",
+    "link": "https://36kr.com/p/3868276479710466?f=rss",
+    "summary": "作者｜黄楠 编辑｜袁斯来 6月24日，通用具身智能企业RoboScience机器科学通用具身大模型发布，首次完整披露自研Visics大模型的技术架构VLOA（Vision-Language-Object-Action），并展示了模型在家具拼装、灵巧抓取、动态流水线等多项真实场景的应用。 大语言模型有标准的文本Token，自动驾驶有统一的视觉或点云表征，这些基础格式的确定，让数据和模型可以在不同场景之间复用。但具身智能至今没有一个被行业公认的基础表征单元，其决定了数据如何采、模型从哪学、以及学习后是否能迁移至新场景。 过去两年，行业主流做法是让模型直接学习机器人的关节运动轨迹，即复刻某一个...",
+    "pubDate": "2026-06-25 15:42:21  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "科氪 | 雷鸟创新 618 持续领跑 AR+智能眼镜品类，Q1 全球出货量再度登顶",
+    "link": "https://36kr.com/p/3868204527457287?f=rss",
+    "summary": "2026 年上半年，全球智能眼镜市场迎来爆发式增长。IDC 数据显示全球 AR 市场（含 ER）同比增长 168.6%。国内市场的强劲增势同样印证了这一行业趋势，商务部大数据显示，2026 年 1 至 3 月，中国智能眼镜网络零售销售额同比增长 161.9%，AR 眼镜的受众圈层持续拓宽，正稳步渗透大众消费市场。 在激烈的竞争态势下，全球领先消费级 AR 品牌雷鸟创新（RayNeo）持续巩固其头部优势。Counterpoint Research、IDC、CINNO Research 三大权威机构数据一致显示，2026 年第一季度，雷鸟创新在全球及中国 AR 眼镜市场的出货量、销量均稳居第...",
+    "pubDate": "2026-06-25 14:21:18  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "峰瑞资本创始合伙人李丰：从资本与流动性视角，看当前AI产业所处周期阶段",
+    "link": "https://36kr.com/p/3868045479711745?f=rss",
+    "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。 今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。” 李丰｜峰瑞资本 创始合伙人 以下为演讲内容，经36氪整理编辑：...",
+    "pubDate": "2026-06-25 13:23:29  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
   },
   {
     "title": "恒大物业：获清盘人告知，潜在卖方与潜在买方间谈判已终止",

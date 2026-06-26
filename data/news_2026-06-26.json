@@ -1,5 +1,13 @@
 [
   {
+    "title": "Gripping, star-studded environmental thriller",
+    "link": "https://www.bbc.co.uk/iplayer/episode/m001j65w/dark-waters?at_mid=ZBSEF4bP71&at_campaign=Dark_Waters&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m001j65w&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Dark_Waters&at_bbc_team=BBC&at_creation=Film",
+    "summary": "Past ties drag corporate lawyer Rob into conflict with a company he usually assists.",
+    "pubDate": "Thu, 28 May 2026 00:30:33 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "SPIR-V Backend Progress",
     "link": "https://ziglang.org/devlog/2026/#2026-06-26",
     "summary": "Comments",
@@ -256,6 +264,14 @@
     "category": "tech"
   },
   {
+    "title": "Why is this heatwave so much worse?",
+    "link": "https://www.bbc.co.uk/sounds/play/p0ntfdqs?at_medium=RSS&at_campaign=rss",
+    "summary": "The UK recorded for the hottest June day has been broken for the second day in a row.",
+    "pubDate": "Thu, 25 Jun 2026 16:51:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "Announcing Silk: a silky smooth fiber runtime for ClickHouse",
     "link": "https://clickhouse.com/blog/silk",
     "summary": "Comments",
@@ -272,12 +288,28 @@
     "category": "general"
   },
   {
+    "title": "本周看什么 | 最近值得一看的 10 部作品",
+    "link": "https://sspai.com/post/111562",
+    "summary": "📅本周新预告《克拉拉与太阳》首支预告6月23日，电影《克拉拉与太阳》发布了首支预告，将于10月23日在北美上映。塔伊加·维迪提执导，詹娜·奥尔特加、艾米·亚当斯主演，改编自石黑一雄的同名小说，人工智能 ... 查看全文",
+    "pubDate": "Fri, 26 Jun 2026 18:16:38 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
     "title": "探索快捷指令的上限：用网页视图创建丰富界面与交互",
     "link": "https://sspai.com/prime/story/create-webview-in-shortcuts",
     "summary": "从锁屏按钮、锁屏小组件、负一屏小组件，到桌面小组件、控制中心、Siri、自动化触发……iPhone的快捷指令有着超级多的打开方式，我们也可以为自己写的或从网络上获取的实用快捷指令设置一种最顺手的。与之 ... 查看全文 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文。",
     "pubDate": "Fri, 26 Jun 2026 16:29:05 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "22 Best Prime Day Fitness Tech Deals (2026) Up to $250 Off",
+    "link": "https://www.wired.com/story/amazon-prime-day-fitness-deals-06-26-2026/",
+    "summary": "I've compiled a list of the best fitness tech deals this Amazon Prime Day, including smartwatches, walking pads, and recovery gear. You can thank me later.",
+    "pubDate": "Fri, 26 Jun 2026 15:07:11 +0000",
+    "source": "Wired",
+    "category": "tech"
   },
   {
     "title": "空调续命之外的清凉：这是我们的夏日降温「新」方案",
@@ -288,12 +320,324 @@
     "category": "tech-cn"
   },
   {
+    "title": "Europe Is Fed Up and Wants Its Own AI",
+    "link": "https://www.wired.com/story/europe-is-fed-up-and-wants-its-own-ai/",
+    "summary": "It's a stretch to think that the continent can build a top-tier model, but it has an advantage: Donald Trump.",
+    "pubDate": "Fri, 26 Jun 2026 15:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Jolla Phone, Over 13 500 units sold",
+    "link": "https://commerce.jolla.com/products/jolla-phone-october-2026",
+    "summary": "Article URL: https://commerce.jolla.com/products/jolla-phone-october-2026 Comments URL: https://news.ycombinator.com/item?id=48687272 Points: 3 # Comments: 0",
+    "pubDate": "Fri, 26 Jun 2026 14:46:00 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
+    "link": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
+    "summary": "Trump's former national security adviser faces a prison sentence of up to five years and has agreed to pay $2.25m in fine, prosecutors say.",
+    "pubDate": "Fri, 26 Jun 2026 14:42:49 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Why has Trump stayed away from the World Cup?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c0myxevn3emo?at_medium=RSS&at_campaign=rss",
+    "summary": "Why has Donald Trump stayed away from the World Cup? And will he appear before the final?",
+    "pubDate": "Fri, 26 Jun 2026 14:35:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Where has it gone wrong for Bielsa's struggling Uruguay?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ce95d89x5meo?at_medium=RSS&at_campaign=rss",
+    "summary": "With Uruguay possibly on the brink of elimination from the 2026 World Cup, BBC Sport looks at what has gone wrong for them under colourful coach Marcelo Bielsa.",
+    "pubDate": "Fri, 26 Jun 2026 14:31:33 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Get Off Grid in Style Thanks to This Device—On Sale for Prime Day (2026)",
+    "link": "https://www.wired.com/story/jackerys-power-station-half-off-for-prime-day-06-26-2026/",
+    "summary": "Pick up this deal on Jackery’s most portable battery and power up your adventures wherever they take you.",
+    "pubDate": "Fri, 26 Jun 2026 14:30:17 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Hollywood Thrives on ‘Rabid’ Fans. For Publicists, They’re a Nightmare",
+    "link": "https://www.wired.com/story/hollywood-thrives-on-rabid-fans-for-publicists-theyre-a-nightmare/",
+    "summary": "A scuffle between stan account Club Chalamet and another Heated Rivalry die-hard shines a light on how parasocial fans are a publicist’s greatest asset—and liability.",
+    "pubDate": "Fri, 26 Jun 2026 14:28:38 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Why have papers by one of history's most famous physicists been retracted?",
+    "link": "https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted",
+    "summary": "Article URL: https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted Comments URL: https://news.ycombinator.com/item?id=48686834 Points: 72 # Comments: 19",
+    "pubDate": "Fri, 26 Jun 2026 14:10:26 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Tate brothers lose court bid to be told names of their UK accusers",
+    "link": "https://www.bbc.co.uk/news/articles/c2dyrw36gzjo?at_medium=RSS&at_campaign=rss",
+    "summary": "Andrew and Tristan Tate will face multiple charges, including rape, when they are returned to the UK.",
+    "pubDate": "Fri, 26 Jun 2026 14:09:17 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "A forgotten social media post may hold key clues to Covid-19's origin",
+    "link": "https://www.science.org/content/article/forgotten-social-media-post-may-hold-key-clues-covid-19-s-origin",
+    "summary": "Article URL: https://www.science.org/content/article/forgotten-social-media-post-may-hold-key-clues-covid-19-s-origin Comments URL: https://news.ycombinator.com/item?id=48686720 Points: 12 # Comments: 2",
+    "pubDate": "Fri, 26 Jun 2026 13:57:50 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "2026 Prime Day Deals: 20% off NOCO and Wolfbox Jump-Starters",
+    "link": "https://www.wired.com/story/best-amazon-prime-day-jump-starter-deals-2026/",
+    "summary": "If you don't know you need a jump starter, it’s a sign you really, really need a jump-starter. NOCO and Wolfbox are the best ones.",
+    "pubDate": "Fri, 26 Jun 2026 13:56:22 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "What's happening to petrol prices now oil is back to pre-Iran war levels?",
+    "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+    "summary": "When the conflict began on 28 February, fuel costs jumped as the war disrupted the production and transportation of energy across the Middle East.",
+    "pubDate": "Fri, 26 Jun 2026 13:51:15 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "How can Democrats persuade more voters to like them?",
+    "link": "https://www.bbc.co.uk/sounds/play/w3ct8lz8?at_medium=RSS&at_campaign=rss",
+    "summary": "We speak to Ben Rhodes, President Obama’s former senior advisor",
+    "pubDate": "Fri, 26 Jun 2026 13:46:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Why were Covid vaccine trials so fast?",
+    "link": "https://www.clinicaltrialsabundance.blog/p/why-were-covid-vaccine-trials-so-fast",
+    "summary": "Article URL: https://www.clinicaltrialsabundance.blog/p/why-were-covid-vaccine-trials-so-fast Comments URL: https://news.ycombinator.com/item?id=48686576 Points: 10 # Comments: 4",
+    "pubDate": "Fri, 26 Jun 2026 13:42:31 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "SpaceX plans to launch Starlink mobile service in the US",
+    "link": "https://arstechnica.com/space/2026/06/spacex-plans-to-launch-starlink-mobile-service-in-the-us/",
+    "summary": "Move would test whether group can turn ambition into a mass-market phone business.",
+    "pubDate": "Fri, 26 Jun 2026 13:22:59 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Pilot dies after plane crash near airfield",
+    "link": "https://www.bbc.co.uk/news/articles/cp8ryxjzd4zo?at_medium=RSS&at_campaign=rss",
+    "summary": "Police say the pilot believed to be a woman in her 40s was pronounced deceased at the scene.",
+    "pubDate": "Fri, 26 Jun 2026 13:02:34 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Robotaxis drive miles just to get cleaned and charged; this new startup wants to fix that",
+    "link": "https://techcrunch.com/2026/06/26/this-silicon-valley-startup-has-raised-10m-to-build-pitstops-to-clean-and-charge-robotaxis/",
+    "summary": "Aseon Labs, which came out of Y Combinator's 2026 spring cohort, has raised $10 million from Crane Venture Partners and others.",
+    "pubDate": "Fri, 26 Jun 2026 13:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
+    "link": "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/",
+    "summary": "Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now.",
+    "pubDate": "Fri, 26 Jun 2026 13:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Incident CVE-2026-LGTM",
+    "link": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
+    "summary": "Article URL: https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html Comments URL: https://news.ycombinator.com/item?id=48686093 Points: 130 # Comments: 29",
+    "pubDate": "Fri, 26 Jun 2026 12:58:07 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Court rules 13 men who allegedly helped rapist drug and abuse wife can be named",
+    "link": "https://www.bbc.co.uk/news/articles/cnv9er181lno?at_medium=RSS&at_campaign=rss",
+    "summary": "13 men are accused of helping a man abuse his wife over a period of years.",
+    "pubDate": "Fri, 26 Jun 2026 12:51:21 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Has VAR become a lottery at the World Cup?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c8e2ynrp7kro?at_medium=RSS&at_campaign=rss",
+    "summary": "After a week of strange decisions many supporters have been left scratching their heads with VAR.",
+    "pubDate": "Fri, 26 Jun 2026 12:29:59 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Ultrasound Imaging of the Brain",
+    "link": "https://alephneuro.com/blog/ultrasound-brain",
+    "summary": "Article URL: https://alephneuro.com/blog/ultrasound-brain Comments URL: https://news.ycombinator.com/item?id=48685558 Points: 35 # Comments: 7",
+    "pubDate": "Fri, 26 Jun 2026 11:51:11 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "23 Walmart Deals We Like Better Than That Other Sale Happening Right Now",
+    "link": "https://www.wired.com/story/walmart-deals-apd-06-26-2026/",
+    "summary": "Welcome to Walmart deals for folks who’d rather not shop at Amazon. These are the best gadget deals at Walmart this Prime Day.",
+    "pubDate": "Fri, 26 Jun 2026 11:50:08 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Love Island USA removes second contestant for using racial slur",
+    "link": "https://www.bbc.co.uk/news/articles/clyezep8dz4o?at_medium=RSS&at_campaign=rss",
+    "summary": "Alannah Keyser appeared briefly in Thursday's episode before viewers were told she had left the villa.",
+    "pubDate": "Fri, 26 Jun 2026 11:29:45 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "林檎越东瀛：苹果的日本之旅",
     "link": "https://sspai.com/post/111297",
     "summary": "当年「林檎渡东瀛」的试探，终演变成一场与亚洲产业命运相依的交响。 查看全文",
     "pubDate": "Fri, 26 Jun 2026 11:29:29 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "Rainbow flags await Egypt and Iran at Pride Match",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ckg4k0ddg5go?at_medium=RSS&at_campaign=rss",
+    "summary": "Iran's coach refuses to discuss pride celebrations in Seattle, where his country face Egypt in a crucial Group G match.",
+    "pubDate": "Fri, 26 Jun 2026 11:20:11 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Plane crashes into Beijing's tallest building; damage reported",
+    "link": "https://www.npr.org/2026/06/26/g-s1-130388/beijings-tallest-building-is-damaged-after-small-airplane-reportedly-crashed-into-it",
+    "summary": "The cause of the damage could not be independently verified, and authorities did not immediately issue a statement on the incident.",
+    "pubDate": "Fri, 26 Jun 2026 11:05:48 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Rocket Report: China may soon attempt booster landing; Rocket Lab does rapid response",
+    "link": "https://arstechnica.com/space/2026/06/rocket-report-china-may-soon-attempt-booster-landing-rocket-lab-does-rapid-response/",
+    "summary": "Is SpaceX planning to end its Transporter program?",
+    "pubDate": "Fri, 26 Jun 2026 11:00:59 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "John Bolton, former Trump national security adviser, pleads guilty in classified documents case",
+    "link": "https://www.npr.org/2026/06/26/nx-s1-5871292/john-bolton-national-security-classified-documents",
+    "summary": "Bolton pleaded guilty to one count of retaining national defense information while he was a national security adviser during President Trump's first term, saying: \"And I am sorry for it.\"",
+    "pubDate": "Fri, 26 Jun 2026 11:00:18 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Which MacBook to Buy (2026): Neo, Air, or Pro?",
+    "link": "https://www.wired.com/story/which-macbook-should-you-buy/",
+    "summary": "After testing each of the MacBooks myself, here's my honest advice on which is right for you.",
+    "pubDate": "Fri, 26 Jun 2026 11:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Ivanka Trump and Jared Kushner's Island Resort Could Bring Down Albania’s Prime Minister",
+    "link": "https://www.wired.com/story/ivanka-and-jareds-island-resort-could-bring-down-albanias-prime-minister/",
+    "summary": "What began as a “flamingo revolution” to protest the $1.4 billion development on Sazan Island has spiraled into mass protests against a ruling party that thousands now want out.",
+    "pubDate": "Fri, 26 Jun 2026 11:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "We're Tracking the Final Hours of Amazon Prime Day Deals Live",
+    "link": "https://www.wired.com/live/amazon-prime-day-live-tracker-july-26-2026/",
+    "summary": "It's Day Four. Somehow it's still Prime Day. The deals are live. The deals are wild. The deals are almost feral. We are still here in the trenches digging up the deals and trends.",
+    "pubDate": "Fri, 26 Jun 2026 10:54:18 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Christmas market attacker jailed for life for murdering six in Germany",
+    "link": "https://www.bbc.co.uk/news/articles/cy06y63y6lno?at_medium=RSS&at_campaign=rss",
+    "summary": "A nine-year-old and five women were killed when Taleb Al-Abdulmohsen drove into the market in 2024.",
+    "pubDate": "Fri, 26 Jun 2026 10:49:11 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Should You Buy Your Kid a 3D Printer? What to Know and Consider (2026)",
+    "link": "https://www.wired.com/story/3d-printer-for-kids/",
+    "summary": "Kids love 3D printers almost as much as K-Pop Demon Hunters. Just give in and get one.",
+    "pubDate": "Fri, 26 Jun 2026 10:31:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "The Gooner Music Video Boom Is Here",
+    "link": "https://www.wired.com/story/the-gooner-music-video-boom-is-here/",
+    "summary": "Porn music videos have circulated on the fringes of the internet for years. Featuring everything from narrative-driven stories to hypnosis, they are proliferating across X as “bate fuel” for gooners.",
+    "pubDate": "Fri, 26 Jun 2026 10:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Even if you're fit and young, avoid runs and too many beers in the heat, experts say",
+    "link": "https://www.bbc.co.uk/news/articles/cgjxdpp4qzeo?at_medium=RSS&at_campaign=rss",
+    "summary": "Cardiac arrests have gone up during very hot weather, and it's not just among the elderly and frail, experts are warning.",
+    "pubDate": "Fri, 26 Jun 2026 10:24:26 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "I Found The Best Amazon Prime Day Headphone Deals (2026)",
+    "link": "https://www.wired.com/story/best-prime-day-headphone-deals-06-26-2026/",
+    "summary": "From AirPods to on-ears, we’ve tested hundreds of pairs of headphones. Here are the best deals from Amazon’s biggest sale event.",
+    "pubDate": "Fri, 26 Jun 2026 10:17:23 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Watch: Moment woman pulled from rubble alive",
+    "link": "https://www.bbc.co.uk/news/videos/clyxgxr2672o?at_medium=RSS&at_campaign=rss",
+    "summary": "First responders and volunteers pulled a survivor from under the rubble of a collapsed building in La Guaira.",
+    "pubDate": "Fri, 26 Jun 2026 10:06:11 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "How Qatar Became FIFA’s Technology Test Lab",
+    "link": "https://www.wired.com/story/how-qatar-became-fifas-technology-test-lab/",
+    "summary": "Qatar has become the place where FIFA experiments with the next generation of football technology. The results are already visible across this year’s World Cup.",
+    "pubDate": "Fri, 26 Jun 2026 10:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Anatomy of a Failed (Nation-State?) Attack",
+    "link": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
+    "summary": "Comments",
+    "pubDate": "Fri, 26 Jun 2026 09:58:54 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "BBC DJ and presenter Trevor Nelson taking a break from work due to health issues",
@@ -360,12 +704,36 @@
     "category": "tech"
   },
   {
+    "title": "Australia plans to strengthen laws banning children from social media",
+    "link": "https://www.npr.org/2026/06/26/g-s1-130375/australia-plans-to-strengthen-laws-banning-children-from-social-media",
+    "summary": "Observers said on Friday the government is responding to evidence that the ban on young children holding accounts on platforms including Facebook, Instagram and YouTube had failed since it came into force in December year.",
+    "pubDate": "Fri, 26 Jun 2026 09:09:30 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "South Korean ex-first lady sentenced to 7 years for bribery scandal",
+    "link": "https://www.npr.org/2026/06/26/g-s1-130372/south-korean-ex-first-lady-sentenced-to-7-years-for-bribery-scandal",
+    "summary": "The former first lady had previously been sentenced to four years in a separate case involving the Unification Church.",
+    "pubDate": "Fri, 26 Jun 2026 09:03:20 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "派早报：鸿蒙智行发布尊界 S800 Grand Design 典藏大观",
     "link": "https://sspai.com/post/111541",
     "summary": "Apple 调整产品价格，Figma 发布多项更新等。 查看全文",
     "pubDate": "Fri, 26 Jun 2026 08:55:03 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "US interested in hosting 2038 World Cup, says Giuliani",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cqx13p4q8wvo?at_medium=RSS&at_campaign=rss",
+    "summary": "The United States could consider making a bid to host the men's 2038 World Cup, with Fifa considering expanding the tournament to 64 teams.",
+    "pubDate": "Fri, 26 Jun 2026 08:42:52 GMT",
+    "source": "BBC News",
+    "category": "general"
   },
   {
     "title": "Most Venezuelan city in the US rallies to help after quakes",
@@ -384,11 +752,27 @@
     "category": "tech"
   },
   {
+    "title": "GuixPkgs: every Guix package, as a Nix flake",
+    "link": "https://fzakaria.com/2026/06/25/guixpkgs-every-guix-package-as-a-nix-flake",
+    "summary": "Comments",
+    "pubDate": "Fri, 26 Jun 2026 08:21:48 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "The 28 Best Prime Day Deals Under $100 in 2026",
     "link": "https://www.wired.com/story/best-prime-day-deals-under-100-06-26-2026/",
     "summary": "Times are hard in 2026. These Amazon Prime Day deals under $100 on earbuds, Kindles, and other tested products should help make life just a little bit easier.",
     "pubDate": "Fri, 26 Jun 2026 07:55:43 +0000",
     "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "How PgBouncer Works",
+    "link": "https://www.augusteo.com/blog/how-pgbouncer-works/",
+    "summary": "Comments",
+    "pubDate": "Fri, 26 Jun 2026 07:52:38 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -448,12 +832,52 @@
     "category": "general"
   },
   {
+    "title": "IBM new 'block of flats' design for tiny chips",
+    "link": "https://www.bbc.com/news/articles/cvg7vpyn5pxo",
+    "summary": "Comments",
+    "pubDate": "Fri, 26 Jun 2026 07:23:31 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Rescuers scramble to find Venezuela earthquake survivors. And, SCOTUS rules on asylum",
+    "link": "https://www.npr.org/2026/06/26/g-s1-130361/up-first-newsletter-venezuela-earthquakes-asylum-claims-farmers",
+    "summary": "Rescuers are searching for thousands of people missing after two earthquakes struck Venezuela on Wednesday. And, the Supreme Court says the U.S. can turn away asylum seekers at the border.",
+    "pubDate": "Fri, 26 Jun 2026 07:22:46 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Aid worker says hundreds remain trapped after Venezuela earthquakes",
+    "link": "https://www.npr.org/2026/06/26/nx-s1-5870683/venezuela-earthquakes-rescue-efforts",
+    "summary": "After earthquakes shattered much of the capital in Venezuela, Project Hope's Cesar Jimenez says rescue crews are racing to save hundreds trapped as international aid arrives and hospitals struggle to cope.",
+    "pubDate": "Fri, 26 Jun 2026 06:56:46 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "Micron locks in historically high memory prices for five years",
     "link": "https://www.theregister.com/systems/2026/06/25/micron-locks-in-historically-high-memory-prices-for-five-years/5261854",
     "summary": "Article URL: https://www.theregister.com/systems/2026/06/25/micron-locks-in-historically-high-memory-prices-for-five-years/5261854 Comments URL: https://news.ycombinator.com/item?id=48683041 Points: 53 # Comments: 41",
     "pubDate": "Fri, 26 Jun 2026 06:27:25 +0000",
     "source": "Hacker News",
     "category": "tech"
+  },
+  {
+    "title": "Design Patterns Suck",
+    "link": "https://luminousmen.com/post/design-patterns-suck/",
+    "summary": "Comments",
+    "pubDate": "Fri, 26 Jun 2026 06:22:44 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Reflecting Pool liner cut with sharp knife or razor, National Park Service says",
+    "link": "https://www.bbc.co.uk/news/articles/cn8qxz6qypyo?at_medium=RSS&at_campaign=rss",
+    "summary": "Earlier in the week Donald Trump blamed vandals for \"a 300 foot long gash\" in the pool and accused someone of putting fertiliser in the water.",
+    "pubDate": "Fri, 26 Jun 2026 06:16:01 GMT",
+    "source": "BBC News",
+    "category": "general"
   },
   {
     "title": "Investigation after up to 40 hospital staff access records of boy attacked by crocodile",
@@ -469,6 +893,14 @@
     "summary": "Article URL: https://akrites.org/letter/ Comments URL: https://news.ycombinator.com/item?id=48682737 Points: 95 # Comments: 44",
     "pubDate": "Fri, 26 Jun 2026 05:40:36 +0000",
     "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Chatbots vs Ozone",
+    "link": "https://blog.dshr.org/2026/05/chatbots-vs-ozone.html",
+    "summary": "Comments",
+    "pubDate": "Fri, 26 Jun 2026 05:36:54 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -744,12 +1176,252 @@
     "category": "tech"
   },
   {
+    "title": "Sometimes, health tracking accuracy is overrated",
+    "link": "https://www.theverge.com/column/957703/optimizer-withings-dexa-body-composition-health-fitness",
+    "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. About three years ago, a doctor told me I had to lose abdominal fat. She didn't c...",
+    "pubDate": "2026-06-26T11:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Of course Meta thinks gambling is the future",
+    "link": "https://www.theverge.com/podcast/957673/meta-polymarket-apple-prices-vergecast",
+    "summary": "Meta is, by and large, a company built on other companies' ideas. It has almost perfected the strategy: wait for a new platform or social mechanic to take off, then either buy or clone it, put it next to Meta's unmatched user base and advertising engine, and watch the money pile up. Well, the nex...",
+    "pubDate": "2026-06-26T10:16:29-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Anthropic&#8217;s Mythos mess is only getting worse",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
+    "summary": "It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The company sprang into action immediately, sending a barrage of executives to Washington, DC. But updates have been suspiciously lacking, with no resolution in...",
+    "pubDate": "2026-06-26T10:07:03-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Apple&#8217;s AirPods Max 2 headphones are still $150 off — for now",
+    "link": "https://www.theverge.com/gadgets/957605/apple-airpods-max-2-headphones-prime-day-deal-sale",
+    "summary": "One of the best deals this ongoing Prime Day has been on Apple’s latest flagship headphones. The AirPods Max 2 are still available for a heavily discounted price of $399 ($150 off) at Walmart, even though they sold out at Amazon. Since the Amazon deal kicked and Walmart is out of stock on one of ...",
+    "pubDate": "2026-06-26T09:06:02-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Prime Day is offering rare discounts on Philips Hue smart lights",
+    "link": "https://www.theverge.com/tech/957269/philips-hue-amazon-prime-day-2026-deal-sale",
+    "summary": "Philips Hue products don&#8217;t often see major discounts, which makes this year&#8217;s Prime Day deals especially notable. Prices have dropped significantly across much of the company&#8217;s smart lighting lineup, with deals on everything from smart bulb starter kits and sleep lamps to smart ...",
+    "pubDate": "2026-06-26T08:30:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "With GTA looming, consoles are getting expensive at the worst possible time",
+    "link": "https://www.theverge.com/entertainment/957288/gta-6-xbox-ps5-price-hikes",
+    "summary": "The release of Grand Theft Auto VI is a singular moment, the kind of massive cultural phenomenon that makes people want to go out and buy a console to play it. It is the preeminent modern example of what's known as a \"system seller.\" There's almost certainly a large audience of people who were wa...",
+    "pubDate": "2026-06-26T08:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Samsung will soon start charging to access its smart home API",
+    "link": "https://www.theverge.com/tech/957597/samsung-smartthings-api-charges",
+    "summary": "From October this year Samsung will roll out a variety of new paid tiers for access to its SmartThings API, including a $4.99 monthly plan for \"non-commercial, individual developers.\" It won't just be developers that pay the price though. Some more advanced smart home users are likely to fall afo...",
+    "pubDate": "2026-06-26T07:38:11-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Apple’s most powerful Macs might be waiting until 2027 for big processor upgrades",
+    "link": "https://www.theverge.com/tech/957561/apple-m6-m7-ai-chip-release-timeline-gurman",
+    "summary": "Apple is expected to shake up its usual Mac silicon release strategy, with Bloomberg's Mark Gurman reporting that there won't be Pro or Max versions of the upcoming M6 chip. Instead, Apple wants to \"fast-track technologies that it originally planned to release later\" with the M7 launch next year....",
+    "pubDate": "2026-06-26T07:14:44-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "It’s the last day of Prime Day — here are over 130 great deals to choose from",
+    "link": "https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four",
+    "summary": "We’ve arrived at the final day of Prime Day, which at this point should probably be called “Prime Week.” We’ve found discounts on all manner of gadgets, including TVs, smart home tech, chargers, headphones, and more. Some of the best deals have started selling out at some retailers, so if you’ve ...",
+    "pubDate": "2026-06-26T07:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
     "title": "Trump Mobile will take your $499 right now",
     "link": "https://www.theverge.com/tech/957521/trump-mobile-t1-phone-open-sale-no-deposit",
     "summary": "Where's the Trump phone? We're going to keep talking about it every week. We still don't have the phones we preordered yet, but this week the T1 hit open sale, no deposit required. Trump Mobile's T1 Phone is now available for anyone to buy directly. The phone has previously trickled out to a smal...",
     "pubDate": "2026-06-26T04:40:21-04:00",
     "source": "The Verge",
     "category": "tech"
+  },
+  {
+    "title": "热门中概股美股盘前多数下跌，小鹏集团跌超3%",
+    "link": "https://36kr.com/newsflashes/3870003257971976?f=rss",
+    "summary": "36氪获悉，热门中概股美股盘前多数下跌，截至发稿，百度、阿里巴巴、小鹏集团跌超3%，京东跌超2%，B站、蔚来、腾讯音乐、拼多多跌超1%；网易涨超3%。",
+    "pubDate": "2026-06-26 20:50:53  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "美股大型科技股盘前涨跌不一，SpaceX跌超1%",
+    "link": "https://36kr.com/newsflashes/3870001895642113?f=rss",
+    "summary": "36氪获悉，美股大型科技股盘前涨跌不一，截至发稿，Arm跌超4%，SpaceX、特斯拉、英伟达跌超1%，谷歌跌0.36%；微软、奈飞涨超1%，苹果涨0.89%，Meta涨0.48%，亚马逊涨0.35%。",
+    "pubDate": "2026-06-26 20:49:30  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "协创数据：拟定增募资不超80亿元，用于智算中心及数据存储项目等",
+    "link": "https://36kr.com/newsflashes/3869990301586434?f=rss",
+    "summary": "36氪获悉，协创数据公告，公司拟向不超过35名符合中国证监会规定条件的特定投资者发行不超过发行前公司总股本30%的A股股票，募集资金总额不超过80亿元（含本数）。扣除发行费用后的募集资金净额将用于“协创数据智算中心建设项目”、“数据存储拓展升级扩产项目”和补充流动资金及偿还银行贷款。",
+    "pubDate": "2026-06-26 20:37:42  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "五洋自控：股东拟协议转让5.0979%股份给时培培",
+    "link": "https://36kr.com/newsflashes/3869982836626694?f=rss",
+    "summary": "36氪获悉，五洋自控公告，公司股东侯友夫、蔡敏、孙晋明与时培培签署股份转让协议，侯友夫、蔡敏、孙晋明拟将其持有的合计5691.18万股(占公司总股本5.0979%)通过协议转让方式转让给时培培，转让价格为7.20元/股，转让价款合计4.10亿元。本次权益变动不会导致公司控股股东、实际控制人发生变化。协议自受让方支付第一笔股份转让款之日起生效，尚需深交所合规性确认。",
+    "pubDate": "2026-06-26 20:30:07  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "Quantum Cyber获批收购SpaceX部分股权",
+    "link": "https://36kr.com/newsflashes/3869966420743430?f=rss",
+    "summary": "据报道，Quantum Cyber获批收购SpaceX部分股权。（财联社）",
+    "pubDate": "2026-06-26 20:13:25  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "预测市场平台Polymarket年化营收突破10亿美元",
+    "link": "https://36kr.com/newsflashes/3869966062114050?f=rss",
+    "summary": "据报道，预测市场平台Polymarket年化营收突破10亿美元。（界面）",
+    "pubDate": "2026-06-26 20:13:03  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "氪星晚报 ｜智元旗下灵巧手估值10亿美元，成立仅5个月首季实现盈利；DeepSeek计划将所有部门规模扩大至少一倍",
+    "link": "https://36kr.com/p/3869884559332356?f=rss",
+    "summary": "大公司： 五粮液：曾从钦无法正常履职离任，选举邓敏为公司董事长 36氪获悉，五粮液公告，因曾从钦无法正常履职，公司于2026年6月26日召开2025年度股东会，审议通过《关于免去董事及补选第七届董事会非独立董事的议案》，自本次股东会审议通过之日起，曾从钦不再担任公司董事职务，其担任的董事长、董事会专门委员会主任委员及委员职务一并自动解除（原定任期至公司第七届董事会日期届满之日即2028年6月19日止），离任后不在公司及控股子公司任职，其离任不会对公司正常经营产生影响。截至本公告披露日，曾从钦未持有公司股份，不存在应当履行而未履行的承诺事项。 京东大药房在烟台成立新公司 36氪获悉，天眼查...",
+    "pubDate": "2026-06-26 20:12:40  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "万通发展：选举王薇为董事长",
+    "link": "https://36kr.com/newsflashes/3869958921917440?f=rss",
+    "summary": "36氪获悉，万通发展公告，因个人原因，王忆会辞去公司董事、董事长及董事会战略委员会主任委员、提名委员会委员职务。根据相关规定，王忆会的辞呈自送达公司董事会之日起生效。公司于6月26日召开第九届董事会第二十八次临时会议，选举董事王薇为董事长，根据《公司章程》规定，法定代表人变更为王薇。董事长的任期自本次董事会审议通过之日起至第九届董事会任期届满之日止。",
+    "pubDate": "2026-06-26 20:05:47  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "杭州新剑机电传动股份有限公司创业板IPO获受理",
+    "link": "https://36kr.com/newsflashes/3869958230349062?f=rss",
+    "summary": "36氪获悉，杭州新剑��电传动股份有限公司创业板IPO获受理。",
+    "pubDate": "2026-06-26 20:05:05  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "广东科杰技术股份有限公司创业板IPO获受理",
+    "link": "https://36kr.com/newsflashes/3869958059808001?f=rss",
+    "summary": "36氪获悉，广东科杰技术股份有限公司创业板IPO获受理。",
+    "pubDate": "2026-06-26 20:04:54  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "禾润电子科技（嘉兴）股份有限公司创业板IPO获受理",
+    "link": "https://36kr.com/newsflashes/3869957418521607?f=rss",
+    "summary": "36氪获悉，禾润电子科技（嘉兴）股份有限公司创业板IPO获受理。",
+    "pubDate": "2026-06-26 20:04:15  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "德意志银行：通胀预期下修，或为欧洲央行年内维持利率不变打开空间",
+    "link": "https://36kr.com/newsflashes/3869954883638531?f=rss",
+    "summary": "据报道，德意志银行表示，油价下跌已导致通胀预期被下修。如果这一趋势持续，可能为欧洲央行将利率维持在2.25%打开空间，尤其是在已经实施过一次加息的情况下。（界面）",
+    "pubDate": "2026-06-26 20:01:41  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "信诺维科创板IPO获上市委会议通过",
+    "link": "https://36kr.com/newsflashes/3869952229184513?f=rss",
+    "summary": "36氪获悉，信诺维科创板IPO获上市委会议通过，拟融资金额29.40亿元。",
+    "pubDate": "2026-06-26 19:58:58  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "荃银高科：因2024年年报存在虚假记载被实施其他风险警示，6月30日起股票简称变更为ST荃银",
+    "link": "https://36kr.com/newsflashes/3869951732995330?f=rss",
+    "summary": "36氪获悉，荃银高科公告，公司收到证监会安徽监管局下发的《行政处罚事先告知书》，因2024年年报存在虚假记载，少计提信用减值损失1871.51万元，虚增利润总额1871.51万元，占当期披露利润总额的10.86%。证监会拟对公司给予警告并罚款300万元，对时任董事长应敏杰、副董事长兼总经理张琴给予警告并分别罚款150万元，对时任董秘兼财务总监张庆一给予警告并罚款130万元。公司股票自2026年6月29日开市起停牌一天，6月30日开市起复牌，并被实施其他风险警示，股票简称变更为“ST荃银”。",
+    "pubDate": "2026-06-26 19:58:28  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "光智科技：拟3.01亿元增资收购先锐科技50.08%股权，将Ⅲ-Ⅴ族化合物材料纳入产品体系",
+    "link": "https://36kr.com/newsflashes/3869945342465289?f=rss",
+    "summary": "36氪获悉，光智科技公告，公司拟与清远先导、先锐科技签署投资协议，以增资形式投资先锐科技，取得其50.0832%股权，实现控股。本次增资总金额为3.01亿元，增资完成后，先锐科技将成为公司控股子公司，纳入合并报表。标的公司从事Ⅲ-Ⅴ族化合物材料业务，通过收购整合，公司将Ⅲ-Ⅴ族化合物材料纳入产品体系，降低对传统红外业务的依赖，提升高端产品营业收入占比，提升公司整体盈利水平与抗风险能力。",
+    "pubDate": "2026-06-26 19:51:58  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "本田2025财年录得超4000亿日元巨额亏损，预计2026年财年扭亏为盈",
+    "link": "https://36kr.com/newsflashes/3869939505959936?f=rss",
+    "summary": "本田公布，2025财年（2025年4月至2026年3月）计入伴随纯电动汽车战略调整的4239亿日元巨额净亏损，遭遇上市以来首次超过4000亿日元的巨亏。本田预计2026年财年（2026年4月至2027年3月）将扭亏为盈，实现2600亿日元盈利。（财联社）",
+    "pubDate": "2026-06-26 19:46:02  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "国际复材：2025年电子细纱及细纱制品营业收入占比18.22%，总体占比较小",
+    "link": "https://36kr.com/newsflashes/3869933139694849?f=rss",
+    "summary": "36氪获悉，国际复材公告，近期PCB、电子布相关题材市场关注度走高，公司持续跟踪市场舆情。玻璃纤维电子细纱及细纱制品为公司主营业务品类之一，产品可作为印制电路板上游基础原材料。2025年度，公司电子细纱及细纱制品营业收入占比18.22%，总体占比较小。目前公司相关业务经营情况稳定，无重大未披露事项，敬请投资者理性看待行业热点，审慎防范概念炒作风险。",
+    "pubDate": "2026-06-26 19:39:33  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "飞凯材料：公司TGV湿电子化学品暂未实现大批量供货，相关业务尚未形成规模化营业收入",
+    "link": "https://36kr.com/newsflashes/3869930751235079?f=rss",
+    "summary": "36氪获悉，飞凯材料公告，近期市场对公司紫外固化光纤光缆涂覆材料及用于玻璃基板的TGV湿电子化学品关注度较高，目前公司TGV湿电子化学品暂未实现大批量供货，相关业务尚未形成规模化营业收入，对公司整体业绩影响很小。公司紫外固化光纤光缆涂覆材料主要向国内光纤光缆制造企业供货，业务运行平稳。敬请广大投资者理性看待市场热点，注意投资风险，审慎决策。",
+    "pubDate": "2026-06-26 19:37:08  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "深交所：本周共对192起证券异常交易行为采取了自律监管措施",
+    "link": "https://36kr.com/newsflashes/3869925073949954?f=rss",
+    "summary": "36氪获悉，深交所消息，2026年6月22日至6月26日，深交所共对192起证券异常交易行为采取了自律监管措施，涉及盘中拉抬打压、虚假申报等异常交易情形；对近期股价异常波动的“兴业科技”进行重点监控；共对7起上市公司重大事项进行核查。",
+    "pubDate": "2026-06-26 19:31:21  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "浙江新瑞立汽配股份有限公司递表港交所",
+    "link": "https://36kr.com/newsflashes/3869918356395264?f=rss",
+    "summary": "36氪获悉，据港交所文件，浙江新瑞立汽配股份有限公司向港交所提交上市申请书，独家保荐人为农银国际。",
+    "pubDate": "2026-06-26 19:24:31  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "《走进AIE》，谁是下一个主角",
+    "link": "https://36kr.com/p/3869838577620231?f=rss",
+    "summary": "一展两地，链接全球 &nbsp; &nbsp;AIE 电子展成为龙头企业的必选舞台 全球智能制造产业加速演进，粤港澳大湾区正成为打造世界级科技展会的核心阵地。 2026全球智能制造与电子产品博览会（AIE）依托大湾区完备的产业生态，致力于打造中国智能制造首发平台 。 技术创新的源头既来自产业一线的龙头力量，也来自科研院所的前沿探索，更来自真实场景中的实战检验。 为此，AIE 组委会联合南方财经、新华网、南方+等权威媒体，重磅推出《走进AIE》专题栏目，全维度挖掘产业、科研与场景应用的创新价值，彰显湾区智造硬实力，吸引全球产业资源加速汇聚。 走进企业，解码产业 用专业内容讲好\"中国智造\" ...",
+    "pubDate": "2026-06-26 18:28:31  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
   },
   {
     "title": "协鑫能科：全资子公司拟出资1.67亿元参与设立战新产业基金",
@@ -1136,6 +1808,30 @@
     "category": "tech-cn"
   },
   {
+    "title": "The poetry of twilight and the awe-inspiring magic of eclipses: Books in brief",
+    "link": "https://www.nature.com/articles/d41586-026-02055-w",
+    "summary": "Nature, Published online: 26 June 2026; doi:10.1038/d41586-026-02055-w Andrew Robinson reviews five of the best science picks.",
+    "pubDate": "2026-06-26",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "The surprising career parallels between footballers and researchers",
+    "link": "https://www.nature.com/articles/d41586-026-01794-0",
+    "summary": "Nature, Published online: 26 June 2026; doi:10.1038/d41586-026-01794-0 Sarah Blackford reflects on how early-career scientists and professional football players share similar motivations, pressures and challenges.",
+    "pubDate": "2026-06-26",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "CRISPR’s next act: the companies editing the epigenome to treat disease",
+    "link": "https://www.nature.com/articles/d41586-026-01976-w",
+    "summary": "Nature, Published online: 26 June 2026; doi:10.1038/d41586-026-01976-w A handful of start-up firms are testing therapies that target specific epigenetic markers to treat everything from high cholesterol to a rare muscular disorder.",
+    "pubDate": "2026-06-26",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
     "title": "Android 17&#8217;s new foldable gaming mode could make flippy phones more fun",
     "link": "https://www.theverge.com/tech/957450/android-17-foldable-gaming-mode-virtual-controller",
     "summary": "Android 17 is getting a dedicated gaming mode for foldables that will put a virtual gamepad with touch controls on half of your screen to theoretically make it easier to play games. With foldable gaming mode, which is set to launch in the coming months, the virtual controller emulates physical bu...",
@@ -1166,5 +1862,13 @@
     "pubDate": "2026-06-25T17:23:47-04:00",
     "source": "The Verge",
     "category": "tech"
+  },
+  {
+    "title": "Daily briefing: Humans and great apes giggle in the same rhythms",
+    "link": "https://www.nature.com/articles/d41586-026-02060-z",
+    "summary": "Nature, Published online: 25 June 2026; doi:10.1038/d41586-026-02060-z The findings hint that vocal motor control might have evolved from a shared ancestor. Plus, sea turtles’ navigation skills are only so-so and what’s next for the International Space Station.",
+    "pubDate": "2026-06-25",
+    "source": "Nature",
+    "category": "science"
   }
 ]

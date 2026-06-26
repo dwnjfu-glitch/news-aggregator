@@ -1,5 +1,13 @@
 [
   {
+    "title": "SPIR-V Backend Progress",
+    "link": "https://ziglang.org/devlog/2026/#2026-06-26",
+    "summary": "Comments",
+    "pubDate": "Thu, 25 Jun 2026 23:58:29 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Missing Glastonbury? There's a festival on your doorstep this weekend",
     "link": "https://www.bbc.co.uk/news/articles/cj4gyz21wyko?at_medium=RSS&at_campaign=rss",
     "summary": "Stars like Fatboy Slim and Becky Hill will play small local venues to celebrate the UK music scene.",
@@ -152,6 +160,14 @@
     "category": "general"
   },
   {
+    "title": "Watch: Driver gives lift to armed officer chasing suspect",
+    "link": "https://www.bbc.co.uk/news/articles/clyxg76527po?at_medium=RSS&at_campaign=rss",
+    "summary": "The chase was caught on camera as the motorist pulled over to help in Margate.",
+    "pubDate": "Thu, 25 Jun 2026 21:09:16 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "King and Queen will not live in Buckingham Palace after renovations",
     "link": "https://www.bbc.co.uk/news/articles/cdr4z5rxympo?at_medium=RSS&at_campaign=rss",
     "summary": "King Charles and Queen Camilla will continue to reside in Clarence House, Buckingham Palace says.",
@@ -256,6 +272,22 @@
     "category": "general"
   },
   {
+    "title": "探索快捷指令的上限：用网页视图创建丰富界面与交互",
+    "link": "https://sspai.com/prime/story/create-webview-in-shortcuts",
+    "summary": "从锁屏按钮、锁屏小组件、负一屏小组件，到桌面小组件、控制中心、Siri、自动化触发……iPhone的快捷指令有着超级多的打开方式，我们也可以为自己写的或从网络上获取的实用快捷指令设置一种最顺手的。与之 ... 查看全文 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文。",
+    "pubDate": "Fri, 26 Jun 2026 16:29:05 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "空调续命之外的清凉：这是我们的夏日降温「新」方案",
+    "link": "https://sspai.com/post/100319",
+    "summary": "当夏天的热浪席卷城市，北方在烈日下承受着如烤箱般的双面炙烤，南方在骄阳下忍受着如蒸笼般的闷湿高温，能够每天陪伴我们的「降温好物」成为必需。又是一年盛夏时，我们邀请了6位少数派作者，聊聊那些真正融入日常 ... 查看全文",
+    "pubDate": "Fri, 26 Jun 2026 15:02:38 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
     "title": "林檎越东瀛：苹果的日本之旅",
     "link": "https://sspai.com/post/111297",
     "summary": "当年「林檎渡东瀛」的试探，终演变成一场与亚洲产业命运相依的交响。 查看全文",
@@ -264,12 +296,252 @@
     "category": "tech-cn"
   },
   {
+    "title": "BBC DJ and presenter Trevor Nelson taking a break from work due to health issues",
+    "link": "https://www.bbc.co.uk/news/articles/c4gykyenweyo?at_medium=RSS&at_campaign=rss",
+    "summary": "The Radio 2 presenter said he was now \"concentrating on getting better\".",
+    "pubDate": "Fri, 26 Jun 2026 09:43:20 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Housing board votes to freeze New York rents in victory for Mamdani",
+    "link": "https://www.bbc.co.uk/news/articles/cn947pxxz4yo?at_medium=RSS&at_campaign=rss",
+    "summary": "The decision was welcomed by many tenants - but landlords fear it will worsen housing conditions.",
+    "pubDate": "Fri, 26 Jun 2026 09:42:26 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Serena Williams to start Wimbledon comeback against Maya Joint",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/c621072x6l2o?at_medium=RSS&at_campaign=rss",
+    "summary": "American superstar Serena Williams will make her highly-anticipated singles comeback at Wimbledon against Australia's Maya Joint in the first round.",
+    "pubDate": "Fri, 26 Jun 2026 09:20:27 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "New red heat warning in place but cooler weather on the way",
+    "link": "https://www.bbc.co.uk/weather/articles/ceqd0701j44o?at_medium=RSS&at_campaign=rss",
+    "summary": "A red warning for extreme heat remains in place for the south-east but cooler air is starting to move in from the west as Elizabeth Rizzinni explains.",
+    "pubDate": "Fri, 26 Jun 2026 09:20:15 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Why are World Cup underdogs doing so well?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cr5jedp7ppyo?at_medium=RSS&at_campaign=rss",
+    "summary": "Are the surprise results achieved by lower-ranked teams in the World Cup a matter of luck - or clever planning and execution?",
+    "pubDate": "Fri, 26 Jun 2026 09:18:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Best Prime Day Tech Deals Offer Up to $280 Off (2026): Phones, Watches, and More",
+    "link": "https://www.wired.com/story/best-prime-day-tech-deals-06-26-2026/",
+    "summary": "Don't pay full price—snag one of these tasty Prime Day tech deals on some of our favorite WIRED-tested gadgets.",
+    "pubDate": "Fri, 26 Jun 2026 09:17:04 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "My Favorite Coolers Are on Sale for Prime Day: Yeti, Igloo, Ninja, and More (2026)",
+    "link": "https://www.wired.com/story/prime-day-cooler-deals-06-26-2026/",
+    "summary": "We've been testing coolers for years, and our top picks are on sale for Amazon Prime Day.",
+    "pubDate": "Fri, 26 Jun 2026 09:14:48 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "The 26 Best Amazon Prime Day Deals Under $30 We've Found (2026)",
+    "link": "https://www.wired.com/story/best-amazon-prime-day-deals-under-30-06-26-2026/",
+    "summary": "Everything is expensive. Treat yourself to one of these WIRED-tested and -approved Prime Day picks under $30.",
+    "pubDate": "Fri, 26 Jun 2026 09:12:20 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
     "title": "派早报：鸿蒙智行发布尊界 S800 Grand Design 典藏大观",
     "link": "https://sspai.com/post/111541",
     "summary": "Apple 调整产品价格，Figma 发布多项更新等。 查看全文",
     "pubDate": "Fri, 26 Jun 2026 08:55:03 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "Most Venezuelan city in the US rallies to help after quakes",
+    "link": "https://www.bbc.co.uk/news/videos/c62151r0k68o?at_medium=RSS&at_campaign=rss",
+    "summary": "In Doral, where more than 40% of residents are of Venezuelan origin, the community has come together to send aid to the country after it was hit by earthquakes.",
+    "pubDate": "Fri, 26 Jun 2026 08:38:50 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "99 Prime Day Deals That Aren’t For Suckers, Up to 50% Off (2026)",
+    "link": "https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-26-2026/",
+    "summary": "We've gone from A to Z to find Amazon's best Prime Day deals on the gear worth owning.",
+    "pubDate": "Fri, 26 Jun 2026 08:22:47 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "The 28 Best Prime Day Deals Under $100 in 2026",
+    "link": "https://www.wired.com/story/best-prime-day-deals-under-100-06-26-2026/",
+    "summary": "Times are hard in 2026. These Amazon Prime Day deals under $100 on earbuds, Kindles, and other tested products should help make life just a little bit easier.",
+    "pubDate": "Fri, 26 Jun 2026 07:55:43 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "The do's and don'ts of being a tennis parent",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/cx23r1r55npo?at_medium=RSS&at_campaign=rss",
+    "summary": "Pushy parents are well documented in tennis - BBC Sport looks at when things get out of hand and asks if the system is to blame.",
+    "pubDate": "Fri, 26 Jun 2026 07:51:28 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Get Up to 36% Off With the Best Prime Day Kindle Deals (2026): Paperwhite, Colorsoft, Kids",
+    "link": "https://www.wired.com/story/kindle-prime-day-deals-06-26-2026/",
+    "summary": "There’s no better time to get a Kindle than during Amazon's own sale event.",
+    "pubDate": "Fri, 26 Jun 2026 07:46:19 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Why current LLM costs are not sustainable",
+    "link": "https://aditya.patadia.org/p/ai-and-cloud-costs",
+    "summary": "Article URL: https://aditya.patadia.org/p/ai-and-cloud-costs Comments URL: https://news.ycombinator.com/item?id=48683588 Points: 83 # Comments: 94",
+    "pubDate": "Fri, 26 Jun 2026 07:44:11 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Best Prime Day Vacuum Deals Offer Up to 42% Off (2026): Shark, Dyson, Bissell",
+    "link": "https://www.wired.com/story/prime-day-vacuum-deals-06-26-2026/",
+    "summary": "Move over, spring cleaning. These vacuum deals will give your home the cleanest summer yet thanks to Amazon Prime Day.",
+    "pubDate": "Fri, 26 Jun 2026 07:43:58 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "19 Best Prime Day Apple Deals Up to 30% Off: iPad, Apple Watch, Mac, and More",
+    "link": "https://www.wired.com/story/best-prime-day-apple-deals-06-26-2026/",
+    "summary": "Apple deals abound for Amazon Prime Day. We've rounded up the best deals on Apple Watches, iPhones, MacBooks, iPads, and accessories.",
+    "pubDate": "Fri, 26 Jun 2026 07:41:22 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "I Found the Very Best Prime Day Laptop Deals onMacBooks and More (2026)",
+    "link": "https://www.wired.com/story/best-prime-day-laptop-deals-06-26-2026/",
+    "summary": "From MacBooks to gaming laptops, these are the very best deals on some of my very favorite laptops for Amazon Prime Day.",
+    "pubDate": "Fri, 26 Jun 2026 07:37:32 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Mbappe v Haaland: Who is more important for their country?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c77yz87xdpno?at_medium=RSS&at_campaign=rss",
+    "summary": "Two of the greatest forwards in world football will go head-to-head at Boston Stadium on Friday, as France and Kylian Mbappe take on Norway and Erling Haaland.",
+    "pubDate": "Fri, 26 Jun 2026 07:27:37 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Micron locks in historically high memory prices for five years",
+    "link": "https://www.theregister.com/systems/2026/06/25/micron-locks-in-historically-high-memory-prices-for-five-years/5261854",
+    "summary": "Article URL: https://www.theregister.com/systems/2026/06/25/micron-locks-in-historically-high-memory-prices-for-five-years/5261854 Comments URL: https://news.ycombinator.com/item?id=48683041 Points: 53 # Comments: 41",
+    "pubDate": "Fri, 26 Jun 2026 06:27:25 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Investigation after up to 40 hospital staff access records of boy attacked by crocodile",
+    "link": "https://www.bbc.co.uk/news/articles/cvg5kvpdd15o?at_medium=RSS&at_campaign=rss",
+    "summary": "Cambridge University Hospitals refers itself to the Information Commissioner over the breach.",
+    "pubDate": "Fri, 26 Jun 2026 05:43:40 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "We All Depend on Open Source. We Will Defend It Together",
+    "link": "https://akrites.org/letter/",
+    "summary": "Article URL: https://akrites.org/letter/ Comments URL: https://news.ycombinator.com/item?id=48682737 Points: 95 # Comments: 44",
+    "pubDate": "Fri, 26 Jun 2026 05:40:36 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "'We are with you, Venezuela': Houston community rallies after deadly earthquakes",
+    "link": "https://www.npr.org/2026/06/26/nx-s1-5871147/venezuela-houston-earthquake-katy",
+    "summary": "Venezuelans living in the U.S organize donation drives in response to the devastating earthquakes.",
+    "pubDate": "Fri, 26 Jun 2026 05:30:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "What is SkyJo? The card game being played in the England camp",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c5yzdryjj8vo?at_medium=RSS&at_campaign=rss",
+    "summary": "As England try to get their game right on the pitch, the games they play off the field are performing a key role in team bonding - as Morgan Rogers reveals to BBC Sport.",
+    "pubDate": "Fri, 26 Jun 2026 05:26:44 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Inside the cold store where it's -18C in a heatwave",
+    "link": "https://www.bbc.co.uk/news/articles/c0ry0xe80qgo?at_medium=RSS&at_campaign=rss",
+    "summary": "Staff at Magnavale, near Grantham, say the \"giant freezer\" is a great place to be in hot weather.",
+    "pubDate": "Fri, 26 Jun 2026 05:17:02 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "New bodycam footage shows Henry Nowak killer's arrest and repeated lies to police",
+    "link": "https://www.bbc.co.uk/news/articles/c5yzl5xl3gjo?at_medium=RSS&at_campaign=rss",
+    "summary": "Henry Nowak's killer is seen lying to police in bodycam video released after a request from the BBC.",
+    "pubDate": "Fri, 26 Jun 2026 05:03:23 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "How well do you know your Reflecting Pool news? Because the quiz will test you",
+    "link": "https://www.npr.org/2026/06/26/g-s1-129799/fair-trump-tarp-fda-starmer-meta-viking-news-quiz",
+    "summary": "This week, the beleaguered body of water faced new woes. Plus soccer, gambling and U.K. politics!",
+    "pubDate": "Fri, 26 Jun 2026 05:01:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Trump axed a Black history exhibit. Former park rangers are teaching it anyway.",
+    "link": "https://www.npr.org/2026/06/26/nx-s1-5867415/resistance-rangers-trump-history",
+    "summary": "As the U.S. prepares to celebrate its 250th anniversary, former national park rangers are hosting teach-ins and sharing history that the Trump administration has sought to erase from federal land.",
+    "pubDate": "Fri, 26 Jun 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Ex-NOAA employees re-create a valuable climate data site shut down by Trump",
+    "link": "https://www.npr.org/2026/06/26/nx-s1-5869615/climate-noaa-data-trump-doge",
+    "summary": "Former NOAA staffers have launched a new website that provides climate information. It replaces a government site that was shut down when the Trump administration took office.",
+    "pubDate": "Fri, 26 Jun 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "All you need is PostgreSQL",
+    "link": "https://ebellani.github.io/blog/2026/all-you-need-is-postgresql/",
+    "summary": "Comments",
+    "pubDate": "Fri, 26 Jun 2026 04:48:57 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Morning news brief",
+    "link": "https://www.npr.org/2026/06/26/nx-s1-5870438/morning-news-brief",
+    "summary": "Rescuers in Venezuela continue search for the missing after devastating earthquakes, SCOTUS rulings give Trump more power to set immigration policy, Trump works to woo struggling American farmers.",
+    "pubDate": "Fri, 26 Jun 2026 04:45:11 -0400",
+    "source": "NPR",
+    "category": "general"
   },
   {
     "title": "Brobbey on target again as Netherlands beat Tunisia to win group",
@@ -288,6 +560,14 @@
     "category": "general"
   },
   {
+    "title": "What are you doing this weekend?",
+    "link": "https://lobste.rs/s/dpctyb/what_are_you_doing_this_weekend",
+    "summary": "Feel free to tell what you plan on doing this weekend and even ask for help or feedback. Please keep in mind it’s more than OK to do nothing at all too!",
+    "pubDate": "Fri, 26 Jun 2026 03:12:59 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Libre Barcode Project",
     "link": "https://graphicore.github.io/librebarcode/",
     "summary": "Article URL: https://graphicore.github.io/librebarcode/ Comments URL: https://news.ycombinator.com/item?id=48681949 Points: 37 # Comments: 0",
@@ -301,6 +581,14 @@
     "summary": "Footage shows the moment a wild elephant attacked a bus carrying air force personnel in Sri Lanka.",
     "pubDate": "Fri, 26 Jun 2026 02:50:53 GMT",
     "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Venezuela reels from earthquakes as rescuers scramble to find survivors",
+    "link": "https://www.npr.org/2026/06/26/nx-s1-5870651/venezuela-earthquakes-caracas",
+    "summary": "As Venezuela begins counting the cost of its deadliest quake disaster in over a century, a shattered economy and struggling health system threaten to slow recovery efforts.",
+    "pubDate": "Fri, 26 Jun 2026 02:41:51 -0400",
+    "source": "NPR",
     "category": "general"
   },
   {
@@ -320,6 +608,14 @@
     "category": "general"
   },
   {
+    "title": "Reflecting Pool liner was cut with a sharp knife or razor, National Park Service says",
+    "link": "https://www.npr.org/2026/06/26/g-s1-130351/reflecting-pool-liner-cut-national-park-service-says",
+    "summary": "A top official at the National Park Service says a liner along the bottom of the Lincoln Memorial Reflecting Pool was cut with a sharp knife or razor this month, causing damage to the foam sealant installed as part of a $16 million rehabilitation project.",
+    "pubDate": "Fri, 26 Jun 2026 02:15:52 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "Boy, 14, charged with murder after body found in search for girl in south Wales",
     "link": "https://www.bbc.co.uk/news/articles/cwyd1w958jzo?at_medium=RSS&at_campaign=rss",
     "summary": "The boy was arrested after a female body was found during the search for a girl missing in south Wales.",
@@ -336,11 +632,51 @@
     "category": "general"
   },
   {
+    "title": "UN agency pauses evacuation of ships through the Strait of Hormuz after attack on vessel",
+    "link": "https://www.npr.org/2026/06/26/nx-s1-5871963/un-agency-pauses-evacuation-of-ships-through-strait-of-hormuz-after-attack-vessel",
+    "summary": "",
+    "pubDate": "Fri, 26 Jun 2026 01:36:59 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "A data race that doesn't compile",
     "link": "https://corentin-core.github.io/posts/ruxe-type-level-disjointness/",
     "summary": "Article URL: https://corentin-core.github.io/posts/ruxe-type-level-disjointness/ Comments URL: https://news.ycombinator.com/item?id=48681361 Points: 23 # Comments: 5",
     "pubDate": "Fri, 26 Jun 2026 01:33:15 +0000",
     "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "mmo-chip: Multiplayer CMOS Standard Cell Chips Reverse Engineering Tool",
+    "link": "https://github.com/giulioz/mmo-chip",
+    "summary": "Comments",
+    "pubDate": "Fri, 26 Jun 2026 01:18:49 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "DSPi: A fully featured audio DSP firmware for the Raspberry Pi Pico (RP2040) and Pico 2 (RP2350)",
+    "link": "https://github.com/WeebLabs/DSPi",
+    "summary": "Comments",
+    "pubDate": "Fri, 26 Jun 2026 01:17:11 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "usbliter8: An A12/A13 SecureROM exploit",
+    "link": "https://github.com/prdgmshift/usbliter8",
+    "summary": "Comments",
+    "pubDate": "Fri, 26 Jun 2026 01:16:24 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "swsim: A software SIM card",
+    "link": "https://github.com/tomasz-lisowski/swsim",
+    "summary": "Comments",
+    "pubDate": "Fri, 26 Jun 2026 01:15:26 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -357,6 +693,14 @@
     "summary": "How could the system better support men who have been told they might have a fertility issue?",
     "pubDate": "Fri, 26 Jun 2026 01:05:11 GMT",
     "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "King Charles III will not live at Buckingham Palace after its costly refurbishment",
+    "link": "https://www.npr.org/2026/06/26/g-s1-130347/king-charles-buckingham-palace",
+    "summary": "The decision was announced Thursday during a briefing on royal finances at which Charles became the first British monarch to reveal the taxes he paid to the government.",
+    "pubDate": "Fri, 26 Jun 2026 01:04:54 -0400",
+    "source": "NPR",
     "category": "general"
   },
   {
@@ -398,6 +742,206 @@
     "pubDate": "Fri, 26 Jun 2026 00:07:57 +0000",
     "source": "Wired",
     "category": "tech"
+  },
+  {
+    "title": "Trump Mobile will take your $499 right now",
+    "link": "https://www.theverge.com/tech/957521/trump-mobile-t1-phone-open-sale-no-deposit",
+    "summary": "Where's the Trump phone? We're going to keep talking about it every week. We still don't have the phones we preordered yet, but this week the T1 hit open sale, no deposit required. Trump Mobile's T1 Phone is now available for anyone to buy directly. The phone has previously trickled out to a smal...",
+    "pubDate": "2026-06-26T04:40:21-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "协鑫能科：全资子公司拟出资1.67亿元参与设立战新产业基金",
+    "link": "https://36kr.com/newsflashes/3869832413123588?f=rss",
+    "summary": "36氪获悉，协鑫能科公告，公司全资子公司协鑫智慧能源拟出资1.67亿元，与专业投资机构共同设立宣城安元战新股权投资基金合伙企业(有限合伙)，该基金总规模10亿元，主要投向战略新兴产业。协鑫智慧能源持有基金16.667%份额。",
+    "pubDate": "2026-06-26 17:57:05  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "德���科技：国家大基金6月3日至6月26日减持149.35万股，持股比例降至10.85%",
+    "link": "https://36kr.com/newsflashes/3869824531403785?f=rss",
+    "summary": "36氪获悉，德邦科技公告，公司持股5%以上股东国家集成电路产业投资基金股份有限公司于2026年6月3日至6月26日通过大宗交易减持公司股份149.35万股，持股比例由11.90%降至10.85%。本次减持属于此前披露的减持计划，不触及强制要约收购义务，不会导致公司控股股东及实际控制人变化。",
+    "pubDate": "2026-06-26 17:49:04  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "胜通能源：股权分布已满足上市条件，股票6月29日上午开市起复牌",
+    "link": "https://36kr.com/newsflashes/3869823141385222?f=rss",
+    "summary": "36氪获悉，胜通能源公告，公司已完成2025年度权益分派，总股本增至409,248,000股，社会公众股东持股比例不低于10%，股权分布已满足上市条件。经申请，公司股票将于2026年6月29日上午开市起复牌。此前，因要约收购完成后社会公众持股比例低于25%，公司股票自6月4日起停牌。",
+    "pubDate": "2026-06-26 17:47:40  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "3天2板航天工程：不涉及商业航天及航天相关业务",
+    "link": "https://36kr.com/newsflashes/3869819767133449?f=rss",
+    "summary": "36氪获悉，航天工程公告，公司股票于2026年6月24日、6月25日、6月26日连续3个交易日内日收盘价格涨幅偏离值累计达到20%，属于股票交易异常波动。经公司自查，公司不涉及商业航天及航天相关业务，目前生产经营活动正常，内外部经营环境未发生重大变化，不存在应披露而未披露的重大信息。",
+    "pubDate": "2026-06-26 17:44:14  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "6天3板威派格：截至目前，公司无液冷产品收入",
+    "link": "https://36kr.com/newsflashes/3869818041406470?f=rss",
+    "summary": "36氪获悉，威派格公告，截至目前，公司无液冷产品收入，除此之外，公司目前尚未发现涉及本公司需要澄清或回应的媒体报道、市场传闻及市场热点概念。",
+    "pubDate": "2026-06-26 17:42:28  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "罗博特科港股上市获中国证监会备案",
+    "link": "https://36kr.com/newsflashes/3869816220292100?f=rss",
+    "summary": "36氪获悉，中国证监会国际合作司发布关于罗博特科智能科技股份有限公司境外发行上市备案通知书，公司拟发行不超过34,014,550股境外上市普通股并在香港联合交易所上市。",
+    "pubDate": "2026-06-26 17:40:37  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "景旺电子港股上市获中国证监会备案",
+    "link": "https://36kr.com/newsflashes/3869814303102208?f=rss",
+    "summary": "36氪获悉，中国证监会国际合作司发布关于深圳市景旺电子股份有限公司境外发行上市备案通知书，公司拟发行不超过125,837,100股境外上市普通股并在香港联合交易所上市。",
+    "pubDate": "2026-06-26 17:38:40  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "有研新材：暂无磷化铟相关产品和技术",
+    "link": "https://36kr.com/newsflashes/3869813019792391?f=rss",
+    "summary": "36氪获悉，有研新材公告，公司关注到近期磷化铟概念受市场关注度较高，公司暂无磷化铟相关产品和技术。2026年6月9日至2026年6月26日，公司股票交易价格涨幅累计达119.75%，股票价格近期涨幅较大，可能存在短期涨幅较大后的下跌风险，敬请广大投资者理性投资，审慎决策，注意防范投资风险。",
+    "pubDate": "2026-06-26 17:37:22  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "富维股份：获得合资品牌客户座椅项目定点，预计生命周期总金额48.11亿元",
+    "link": "https://36kr.com/newsflashes/3869810957865985?f=rss",
+    "summary": "36氪获悉，富维股份公告，公司收到某知名合资品牌主机厂的定点通知书，将作为零部件供应商为其车型开发座椅产品。项目预计2027年12月开始批量供货，生命周期8年，总销售金额约48.11亿元。本次定点表明客户对公司座椅产品研发能力及品质的认可，但不会对本年度业绩产生重大影响，并存在项目延期、变更或中止等风险。",
+    "pubDate": "2026-06-26 17:35:16  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "可孚医疗：拟1亿元至2亿元回购股份用于注销并减少注册资本",
+    "link": "https://36kr.com/newsflashes/3869809485059080?f=rss",
+    "summary": "36氪获悉，可孚医疗公告，公司拟以集中竞价交易方式回购A股股份，回购资金总额不低于1亿元且不超过2亿元，回购价格不超过69.66元/股。本次回购的股份将全部注销并减少注册资本，资金来源为公司自有资金和股票回购专项贷款资金。回购期限自股东会审议通过之日起12个月内。",
+    "pubDate": "2026-06-26 17:33:46  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "景嘉微：拟使用募集资金对子公司增加借款不超9亿元实施GPU项目",
+    "link": "https://36kr.com/newsflashes/3869806770738436?f=rss",
+    "summary": "36氪获悉，景嘉微公告，公司拟使用募集资金对全资子公司景美和锦之源增加借款，用于实施募投项目。其中，景美增加借款不超过2亿元用于“高性能通用GPU芯片研发及产业化项目”；锦之源增加借款不超过5亿元和2亿元分别用于“高性能通用GPU芯片研发及产业化项目”和“通用GPU先进架构研发中心建设项目”。该事项不构成募集资金用途变更，无需提交股东会审议。",
+    "pubDate": "2026-06-26 17:31:00  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "中国东航：拟93.5亿美元购买25架A330NEO系列飞机",
+    "link": "https://36kr.com/newsflashes/3869806042125572?f=rss",
+    "summary": "36氪获悉，中国东航公告，公司于2026年6月26日与空中客车公司签订协议，购买25架A330NEO系列飞机，目录价格合计约93.5亿美元(约637.35亿元)。飞机计划于2029年至2033年分批交付。",
+    "pubDate": "2026-06-26 17:30:16  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "华灿光电：拟投资9.7亿元建设新型高端显示项目并设立合资公司",
+    "link": "https://36kr.com/newsflashes/3869804550182146?f=rss",
+    "summary": "36氪获悉，华灿光电公告，公司拟与张家港经开区管委会签署投资协议，投资建设“新型高端显示项目”，计划总投资约9.7亿元。同时，公司拟与悦丰科创共同设立合资公司苏州京东方晶芯科技有限公司，注册资本7亿元，其中公司出资4.9亿元，持股70%，悦丰科创出资2.1亿元，持股30%。本次投资不构成关联交易及重大资产重组。",
+    "pubDate": "2026-06-26 17:28:45  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "赛维时代：拟向赛维时代全球创新与数字化运营中心项目增加投资",
+    "link": "https://36kr.com/newsflashes/3869801972225028?f=rss",
+    "summary": "36氪获悉，赛维时代公告，公司结合整体运营规划与项目建设实际需要，对全球创新与数字化运营中心项目投资规模进行了重新估算，拟增加不超过5亿元投资金额，资金来源为公司自有及/或自筹资金，增加后项目总投资金额为不超过16亿元（含土地价款）。",
+    "pubDate": "2026-06-26 17:26:08  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "圣元环保：预计2026年半年度净利润同��增长55%-80%",
+    "link": "https://36kr.com/newsflashes/3869795475772419?f=rss",
+    "summary": "36氪获悉，圣元环保公告，预计2026年半年度归属于上市公司股东的净利润为1.78亿元-2.07亿元，同比增长55%-80%。业绩变动主要系公司通过精细化管理运营、炉渣资源化利用等实现主营业务收入增加及降本增效。预计本报告期非经常性损益金额约为5,000万元，主要系中原前海股权投资基金的公允价值变动收益增加。",
+    "pubDate": "2026-06-26 17:19:31  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "中油工程：前五个月累计实现新签合同额802.47亿元，同比增长57.07%",
+    "link": "https://36kr.com/newsflashes/3869791710270471?f=rss",
+    "summary": "36氪获悉，中油工程公告，2026年1月—5月，公司累计实现新签合同额802.47亿元，同比增长57.07%。其中，5月份新签合同额84.32亿元，签署单笔合同额10亿元以上工程合同1项。",
+    "pubDate": "2026-06-26 17:15:41  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "工信部就《开源鸿蒙设备统一互联接入与控制接口》等公开征求意见",
+    "link": "https://36kr.com/newsflashes/3869789867906055?f=rss",
+    "summary": "36氪获悉，工信部将申请立项的《开源鸿蒙设备统一互联接入与控制接口》等3项行业标准和《Ku频段船载卫星通信地球站通用测试方法》等9项推荐性国家标准计划项目予以公示。公示时间：2026年6月27日—2026年7月26日。",
+    "pubDate": "2026-06-26 17:13:49  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "北交所：非公开发行公司债券交易采用逐笔全额结算方式",
+    "link": "https://36kr.com/newsflashes/3869787865437186?f=rss",
+    "summary": "36氪获悉，北交所发布关于实施《北京证券交易所债券交易规则》相关条款的公告。为配套北京证券交易所（以下简称本所）非公开发行公司债券交易业务的推出，《北京证券交易所债券交易规则》第3.3.9条第一款中关于“债券交易的结算方式包括......逐笔全额结算”的规定，自2026年6月26日起正式实施。本所非公开发行公司债券的现券交易可采用点击成交、询价成交、竞买成交及协商成交等交易方式，初期仅支持协商成交方式。本所非公开发行公司债券交易采用逐笔全额结算方式。",
+    "pubDate": "2026-06-26 17:11:47  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "中国人民银行就《同业存单管理办法》公开征求意见",
+    "link": "https://36kr.com/newsflashes/3869783670150409?f=rss",
+    "summary": "36氪获悉，为进一步规��引导同业存单市场发展，加强金融监管，中国人民银行对《同业存单管理暂行办法》（中国人民银行公告〔2013〕第20号）、中国人民银行公告〔2017〕第12号进行修订，形成《同业存单管理办法》，现面向社会公开征求意见。",
+    "pubDate": "2026-06-26 17:07:30  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "证监会同意苏州绿控传动科技股份有限公司首次公开发行股票的注册申请",
+    "link": "https://36kr.com/newsflashes/3869782173439241?f=rss",
+    "summary": "36氪获悉，证监会同意苏州绿控传动科技股份有限公司首次公开发行股票的注册申请。",
+    "pubDate": "2026-06-26 17:05:59  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "对话张亚勤：AI不是泡沫，但AI公司有泡沫",
+    "link": "https://36kr.com/p/3866837793952769?f=rss",
+    "summary": "文 | 海若镜 访谈 | 海若镜 巴芮 6月盛夏，在清华无锡研究院智能产业创新中心，我们见到了张亚勤院士。他匆匆赶来，一进门，就建议让室内温度降得更低些。 访谈中，聊起当下具身智能、AI投资创业热潮，张亚勤也觉得应该降降温，“更冷静些，不要急躁”。 五年前，张亚勤创建了清华大学智能产业研究院（以下简称AIR)，聚集了多位有AI产业经验的知名教授。据介绍，如今AIR的第一届博士生已经毕业；这里 孵化、走出的十家公司，累计“融资约150亿元，估值1500亿元” 。其中，华深智药、它石智航等独角兽，在资本市场备受追捧。 1500亿估值是个亮眼数据，但张亚勤却告诉我们：AIR首要任务是做科研；孵...",
+    "pubDate": "2026-06-26 16:52:52  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "中科闻歌开盘暴涨81%，北京再增一家硬科技IPO",
+    "link": "https://36kr.com/p/3869622921041156?f=rss",
+    "summary": "本文约900字，建议阅读2分钟 作者&nbsp;|&nbsp;彭孝秋 6月26日，中科闻歌（01956.HK）正式在港交所主板敲钟上市。开盘涨81.2%，报110港元，市值190亿港元。截至发稿，盘中最高125港元、最低110港元，振幅收窄至24.71%，换手率2.21%。按现价，一手账面浮盈1.08万港元，公司市值198.37港元。 关于中科闻歌深度报道，可查看此前报道——中科院博士冲上市，市值超105亿港币。 在昨日下午先行的暗盘中，其以 115.40港元收盘 ，较发行价60.70港元大涨 90.12%， 对应市值 199.76亿港元（约合人民币175亿）。按每手200股算，一手账面...",
+    "pubDate": "2026-06-26 14:24:40  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "历经13年，二手车交易平台大搜车终于登陆纳斯达克",
+    "link": "https://36kr.com/p/3869474592363528?f=rss",
+    "summary": "北京时间&nbsp;&nbsp;2026 年 6 月 25 日， DSC Holdings Ltd.（以下简称\"大搜车\"或\"公司\"，纳斯达克代码： \"DSC\" ）正式在美国纳斯达克全球市场挂牌交易，成为 2026 年首家赴美上市的中国企业 。公司本次发行 3,000,000 份美国存托股份（ADS） ， 发行价定为每股 ADS 17.00 美元 ， 总发行规模约 5,100 万美元 （未计超额配售权）。公司另授予承销商 30 天的超额配售权，可按发行价额外购买最多 450,000 份 ADS 。 大搜车在纳斯达克挂牌上市 大搜车创始人兼CEO姚军红在上市仪式上表示：“大搜车的发展历程是一...",
+    "pubDate": "2026-06-26 13:38:23  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "戴宗宏和他的「工业世界模型」：一人两周，干完百人级定制化“累活”",
+    "link": "https://36kr.com/p/3869445453305090?f=rss",
+    "summary": "文｜王欣逸 编辑｜周鑫雨 半年前，我们第一次和基点起源创始人兼&nbsp;CEO&nbsp;戴宗宏交流时，这家逆流入局&nbsp;B&nbsp;端定制化的AI公司，刚刚推进了&nbsp;7、8&nbsp;个项目。他从外界接受到最多的声音是质疑：“故事不够性感”、“定制化都是累活”。 半年后，基点对质疑声的回应，是数千万元的在手订单。 戴宗宏对《智能涌现》透露，基点起源的订单数翻了一番 ，订单合同金额较半年前提升了一个数量级， AI&nbsp;解决方案已经落地到了冶金、化工、精密制造、半导体、纺织等&nbsp;10&nbsp;多个行业。 伴随订单而来的，基点起源 半年内完成3轮融资，融资金...",
+    "pubDate": "2026-06-26 13:36:55  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
   },
   {
     "title": "智元机器人等入股飞阔科技",

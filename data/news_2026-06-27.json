@@ -1,5 +1,21 @@
 [
   {
+    "title": "Banned swimmer's daughters to realise family's Commonwealth Games dream",
+    "link": "https://www.bbc.co.uk/news/articles/cj0gzpm57pro?at_medium=RSS&at_campaign=rss",
+    "summary": "Annette Cowley was not allowed to compete at the 1986 Games as she was caught in a political storm.",
+    "pubDate": "Wed, 24 Jun 2026 21:49:48 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Rescued sewage work eggs hatch into five ducklings",
+    "link": "https://www.bbc.co.uk/news/articles/c78y4dpdpzvo?at_medium=RSS&at_campaign=rss",
+    "summary": "The eggs were spotted in a nest at risk of toppling over on the surface at a sewage treatment works.",
+    "pubDate": "Tue, 23 Jun 2026 15:13:30 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "Earth may have been seeding Venus with life for billions of years",
     "link": "https://www.sciencedaily.com/releases/2026/06/260625014805.htm",
     "summary": "A new study suggests Earth may have been sending tiny hitchhikers to Venus for billions of years. Researchers found that asteroid impacts could launch microbes into space, where some might survive the journey and end up suspended in Venus' clouds. If future missions detect life there, there's a s...",
@@ -16,6 +32,86 @@
     "category": "science"
   },
   {
+    "title": "Why Venezuela’s Second Earthquake Was So Damaging to Buildings",
+    "link": "https://www.wired.com/story/why-venezuelas-second-earthquake-so-damaging-to-buildings/",
+    "summary": "Factors like the short interval between the two powerful quakes and different types of soil led to some structures collapsing while others stayed standing.",
+    "pubDate": "Sat, 27 Jun 2026 09:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "One night in Miami: The Scotsmen of the apocalypse",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c872lpl4e0do?at_medium=RSS&at_campaign=rss",
+    "summary": "BBC Scotland's Scott Mullen paints the scene from Miami as Scotland's World Cup hopes fade.",
+    "pubDate": "Sat, 27 Jun 2026 08:34:12 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "George criticises 'unacceptable' Auvaa over nightclub incident",
+    "link": "https://www.bbc.co.uk/sport/rugby-union/articles/crm0dkn2m8no?at_medium=RSS&at_campaign=rss",
+    "summary": "Jamie George has criticised his Saracens' team-mate Totoa Auvaa's \"unacceptable\" behaviour after the Samoan was involved in a nightclub incident with England cricket captain Ben Stokes and bowler Gus Atkinson.",
+    "pubDate": "Sat, 27 Jun 2026 08:16:02 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "I'm 98 but I still do my 40 press-ups every day",
+    "link": "https://www.bbc.co.uk/news/articles/c5yzlx7zpk2o?at_medium=RSS&at_campaign=rss",
+    "summary": "Bill Kober, who lives in Woodbridge, is proving that age is just a number... one press-up at a time.",
+    "pubDate": "Sat, 27 Jun 2026 08:09:14 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Is America becoming a gerontocracy?",
+    "link": "https://www.economist.com/culture/2026/06/25/is-america-becoming-a-gerontocracy",
+    "summary": "Article URL: https://www.economist.com/culture/2026/06/25/is-america-becoming-a-gerontocracy Comments URL: https://news.ycombinator.com/item?id=48695694 Points: 34 # Comments: 39",
+    "pubDate": "Sat, 27 Jun 2026 06:22:45 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "VAR rules out late winner to deny Iran guaranteed last-32 spot",
+    "link": "https://www.bbc.co.uk/sport/football/videos/c2lyvj54k7ro?at_medium=RSS&at_campaign=rss",
+    "summary": "Shoja Khalilzadeh's goal is ruled out by VAR in injury-time denying Iran automatic qualification into the round of 32, meaning they will have to wait on other results to see if they go through as one of the best third-placed sides.",
+    "pubDate": "Sat, 27 Jun 2026 05:45:25 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "IBM MCGA Gate Array Reverse Engineering",
+    "link": "https://github.com/schlae/IBM_MCGA",
+    "summary": "Article URL: https://github.com/schlae/IBM_MCGA Comments URL: https://news.ycombinator.com/item?id=48695363 Points: 22 # Comments: 5",
+    "pubDate": "Sat, 27 Jun 2026 05:17:08 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Inside a secretive Ukrainian team launching deep drone strikes at Russia",
+    "link": "https://www.npr.org/2026/06/27/g-s1-129704/ukraine-long-range-drones-russia-war",
+    "summary": "Ukraine's long-range drones are striking deep inside Russia, up to 1,200 miles away, hitting oil refineries and depots. NPR recently spent time with one of the Ukrainian strike teams launching drones at Russian targets.",
+    "pubDate": "Sat, 27 Jun 2026 05:02:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "What would George Washington say? It's a busy year for people who portray him",
+    "link": "https://www.npr.org/2026/06/27/nx-s1-5816415/america-250-george-washington-reenactors",
+    "summary": "America's 250th birthday has brought more events and new crowds for Revolutionary reenactors and interpreters. They say Washington's life holds important lessons for our current political divide.",
+    "pubDate": "Sat, 27 Jun 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "OpenTTD 16.0-Beta1",
+    "link": "https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1",
+    "summary": "Article URL: https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1 Comments URL: https://news.ycombinator.com/item?id=48695149 Points: 144 # Comments: 19",
+    "pubDate": "Sat, 27 Jun 2026 04:31:06 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "'Burnham election call' and 'Too hot for tennis'",
     "link": "https://www.bbc.co.uk/news/articles/c3ey093d039o?at_medium=RSS&at_campaign=rss",
     "summary": "Andy Burnham and the record-breaking heatwave across the UK and Europe is prominent across Saturday's papers.",
@@ -30,6 +126,14 @@
     "pubDate": "Sat, 27 Jun 2026 04:09:24 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "OpenZL",
+    "link": "https://openzl.org/",
+    "summary": "Comments",
+    "pubDate": "Sat, 27 Jun 2026 04:02:59 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "How Cape Verde stunned World Cup to set up Argentina tie",
@@ -64,6 +168,22 @@
     "category": "general"
   },
   {
+    "title": "There's a beef about beef at the World Cup, as Argentina fans pour into Texas",
+    "link": "https://www.npr.org/2026/06/27/nx-s1-5873328/beef-about-beef-world-cup",
+    "summary": "It's about who produces the best, most succulent steaks, and how to prepare the meat. Argentina and Texas are two of the top cattle-raising areas of the world, where steak is deeply ingrained in diet and culture.",
+    "pubDate": "Sat, 27 Jun 2026 03:03:18 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "FIFA Interactive Bracket (World Cup)",
+    "link": "https://worldcup.reeseric.ci",
+    "summary": "A working fork of https://worldcup.cole.ws for 2026! Comments",
+    "pubDate": "Sat, 27 Jun 2026 02:54:36 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Cape Verde's incredible World Cup journey continues after Saudi draw",
     "link": "https://www.bbc.co.uk/sport/football/videos/cql1v2p7949o?at_medium=RSS&at_campaign=rss",
     "summary": "Cape Verde deliver a valiant performance to earn their third draw of the group stage, a result that means they qualify for the last 32 in their World Cup debut while Saudi Arabia crash out.",
@@ -86,6 +206,22 @@
     "pubDate": "Sat, 27 Jun 2026 02:47:52 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "The Cost YAGNI Was Never About",
+    "link": "https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about",
+    "summary": "Comments",
+    "pubDate": "Sat, 27 Jun 2026 02:09:38 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "A Tiny Compiler for Data-Parallel Kernels",
+    "link": "https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels",
+    "summary": "Comments",
+    "pubDate": "Sat, 27 Jun 2026 02:04:29 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Madonna was 'jealous of Kylie' - and more things we learned in her Graham Norton interview",
@@ -204,6 +340,14 @@
     "link": "https://www.bbc.co.uk/news/articles/cd7pqqzznevo?at_medium=RSS&at_campaign=rss",
     "summary": "Among the hundreds of affected families in Nottingham, two sets of parents led the fight to get answers.",
     "pubDate": "Sat, 27 Jun 2026 00:03:47 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "We host strangers for dinner every month - now we have 60 new friends",
+    "link": "https://www.bbc.co.uk/news/articles/cvg48wnx7eyo?at_medium=RSS&at_campaign=rss",
+    "summary": "After 2 years in Belfast, Nidhi Pal and Vik Parashar found a creative way to make new friends - a monthly dinner party with strangers.",
+    "pubDate": "Mon, 22 Jun 2026 05:44:13 GMT",
     "source": "BBC News",
     "category": "general"
   },
@@ -600,6 +744,14 @@
     "category": "science"
   },
   {
+    "title": "Do Kane, Saka, or Pickford have roots near you? Try our postcode lookup",
+    "link": "https://www.bbc.co.uk/news/articles/cn75y330kpjo?at_medium=RSS&at_campaign=rss",
+    "summary": "Which World Cup stars have roots near you? Find out with our interactive lookup tool",
+    "pubDate": "Fri, 26 Jun 2026 11:08:50 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "Researchers discover why fructose doesn't satisfy hunger like glucose",
     "link": "https://www.sciencedaily.com/releases/2026/06/260623083106.htm",
     "summary": "A new study found that fructose and glucose may look the same on a nutrition label, but the brain treats them very differently. In mice, glucose strongly reduced activity in hunger-promoting brain cells, while fructose had a much weaker effect. High-fructose corn syrup triggered a stronger respon...",
@@ -622,6 +774,134 @@
     "pubDate": "Fri, 26 Jun 2026 01:29:02 EDT",
     "source": "Science Daily",
     "category": "science"
+  },
+  {
+    "title": "超16亿元，烽火通信旗下长江计算中标中国电信高性能服务器集中采购项目",
+    "link": "https://36kr.com/newsflashes/3871141940892932?f=rss",
+    "summary": "近日，中国电信高性能服务器2026—2027年集中采购项目中标候选人公示，烽火通信旗下长江计算成功入围标包1（ARM-A服务器G系列），斩获20%份额，中标金额超16亿元。2026年以来，长江计算在运营商领域中标金额已累计突破40亿元。（证券时报）",
+    "pubDate": "2026-06-27 16:09:13  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "超级牛散章建平新动向，大举减仓江淮汽车",
+    "link": "https://36kr.com/newsflashes/3871137727009801?f=rss",
+    "summary": "据证券时报，超级牛散，有着“章盟主”之称的章建平在近期对江淮汽车进行了大幅度的减仓。数据显示，截至6月23日，方文艳持有江淮汽车股票2665.02万股，持股比例为1.18%。而据公司此前披露，截至6月9日，方文艳持有江淮汽车股票3588.52万股，持股比例为1.59%。也就是说，自6月10日至23日，方文艳在9个交易日内减持了923.5万股。其间，江淮汽车股票最高价33.51元/股，最低价28.82元/股，区间加权均价为31.386元/股。以均价估算，方文艳此次减持套现约2.9亿元。公开资料显示，方文艳正是章建平的妻子。（证券时报）",
+    "pubDate": "2026-06-27 16:04:56  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "马克·古尔曼：触屏MacBook将搭载M5芯片发布，苹果计划跳过M6 Pro及M6 Max",
+    "link": "https://36kr.com/newsflashes/3871135669048322?f=rss",
+    "summary": "当地时间6月26日，科技记者马克·古尔曼发文称，苹果传闻中的触屏MacBook Pro将在今年晚些时候或2027年初发布，首发搭载现役M5 Pro及M5 Max芯片。苹果此后计划推出配备M7芯片的升级版本，这与此前报道苹果将跳过M6 Pro及M6 Max直接推出M7系列的计划相吻合。苹果跳过高端M6芯片的决策被认为与内存短缺导致的成本压力密切相关，苹果本周已因此宣布上调Mac及iPad产品售价。（界面新闻）",
+    "pubDate": "2026-06-27 16:02:50  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "外媒：苹果寻求获准从长鑫存储购买内存芯片",
+    "link": "https://36kr.com/newsflashes/3871131045876995?f=rss",
+    "summary": "据英国《金融时报》27日报道，六位知情人士透露，为缓解内存芯片涨价带来的成本压力，苹果公司正向美国政府游说，希望获批采购中国半导体企业长鑫存储(CXMT)的内存芯片。（中新经纬）",
+    "pubDate": "2026-06-27 15:58:08  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "美国监管部门关闭针对特斯拉Model 3及Model Y转向失控调查",
+    "link": "https://36kr.com/newsflashes/3871127099315202?f=rss",
+    "summary": "据美国国家公路交通安全管理局（NHTSA）6月27日披露，关闭针对2023款特斯拉Model 3及Model Y电子助力转向系统失效问题的工程分析调查。调查显示，上述车型转向电子控制单元（ECU）印刷电路板上的电机驱动组件存在过压击穿风险，可能导致电子助力转向失效，驾驶员仅能依靠手动转向操控车辆。特斯拉已于2025年2月就此发起召回，并通过OTA空中升级方式推送软件版本2023.38.4加以修复，该更新最早于2023年10月起陆续推送至受影响车辆。NHTSA分析显示，软件更新推送后相关投诉数量明显下降，据此决定关闭调查，但将持续监测召回修复效果。（界面新闻）",
+    "pubDate": "2026-06-27 15:54:07  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "马斯克获FTC批准收购前SpaceX工程师创立的光模块初创公司Mesh",
+    "link": "https://36kr.com/newsflashes/3871125571802116?f=rss",
+    "summary": "美国联邦贸易委员会（FTC）当地时间6月25日批准马斯克收购Mesh Optical Technologies Corporation。Mesh Optical Technologies由三位前SpaceX工程师特拉维斯·布拉谢尔斯（Travis Brashears）、卡梅隆·拉莫斯（Cameron Ramos）及赛琳娜·格罗文-哈伯利（Serena Grown-Haeberli）创立，三人此前曾在SpaceX主导设计星链卫星激光星间链路系统。公司于今年2月从隐身模式浮出水面，完成由Thrive Capital领投的逾5000万美元A轮融资。Mesh的核心产品为Alpha C1光学收发器...",
+    "pubDate": "2026-06-27 15:52:34  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "今年港股首发募资前十大IPO名单中，A+H企业独占8席",
+    "link": "https://36kr.com/newsflashes/3871124521620485?f=rss",
+    "summary": "6月27日，2026年6月26日，领益智造、圣邦股份、芯碁微装三家A股龙头企业同步登陆港交所主板，成为2026年上半年A+H上市潮的收官之作。今年以来，A股企业“扎堆”赴港上市已成蔚然之势。据Wind统计，上半年总共有24家A股上市公司成功发行H股，合计募资规模突破1200亿港元，创下历史同期新高。更为引人注目的是，在今年港股首发募资前十大IPO名单中，A+H企业独占8席，展现出龙头企业跨境融资的强劲动能。（证券时报）",
+    "pubDate": "2026-06-27 15:51:30  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "楼市复苏信号？多城核心地块高溢价成交：房企扎堆抢夺，持续刷新当地纪录",
+    "link": "https://36kr.com/newsflashes/3871120057848837?f=rss",
+    "summary": "近日，深圳、杭州、长沙等多个城市上演高热土拍，核心片区宅地轮番拍出高溢价，板块地价接连创下新高。（澎湃新闻）",
+    "pubDate": "2026-06-27 15:46:57  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "高通计划将数据中心芯片技术引入智能手机，提升端侧AI能力",
+    "link": "https://36kr.com/newsflashes/3871117388174336?f=rss",
+    "summary": "6月27日消息，高通公司执行副总裁杜尔加·马拉迪表示，公司计划将本周新发布的数据中心芯片技术应用于智能手机，以提升移动设备本地AI运行能力。高通新推出的高带宽计算（HBC）架构采用芯片垂直堆叠设计，将内存与计算单元紧密集成，可显著提升数据传输速度与效率。该架构第一代产品将于明年在数据中心推出，预计2028年实现商业化供货。马拉迪表示，“数据中心的技术不会止步于此”，公司目前正与智能手机、个人电脑及汽车制造商就相关技术展开洽谈。（界面新闻）",
+    "pubDate": "2026-06-27 15:44:14  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "电影《四渡》总票房破5000万",
+    "link": "https://36kr.com/newsflashes/3871115919070210?f=rss",
+    "summary": "36氪获悉，据猫眼专业版数据，电影《四渡》上映2天，总票房破5000万​​​。",
+    "pubDate": "2026-06-27 15:42:44  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "秋声 | 大秦储能冲港股IPO：锂价50万山顶囤货血泪史，亏本三年才清完",
+    "link": "https://36kr.com/p/3871109381035011?f=rss",
+    "summary": "本文约2500字，建议阅读5分钟 作者&nbsp;|&nbsp;彭孝秋 编者按： AI 大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。 鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，观产业冷暖，辨公司成色，记录企业冲刺 IPO 途中那些被写下与被隐藏的真实。这是我们第三期，大秦数字能源。 6月26日，储能公司大秦数字能源向港交所递交了上市申请。 2025年，大秦数字能源收入 25.25亿元，同比增长244.3% ��毛利率从2024年的-19.9%反弹到23.2%；净利润由2024年的亏3.78亿元转为盈...",
+    "pubDate": "2026-06-27 15:37:59  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "今年以来算力相关产品加速出海，有武汉企业800G以上光模块出口同比增长超过100倍",
+    "link": "https://36kr.com/newsflashes/3871102147908867?f=rss",
+    "summary": "6月27日，今年前5个月，我国机电产品出口额7.58万亿元，占我国出口总值的比重达到63.6%。自2025年3月起，连续15个月刷新同期月度最高值。记者在浙江嘉兴的一家工厂看到，这里有近1000台织布机正在织布，它是人工智能服务器中的电子布。电子布，是电子信息产业当中的关键材料。随着算力需求爆发，电子布需求也随之增加。企业车间里，产线24小时满产运行。今年以来，和算力有关的相关产品加速出海。在武汉，光模块的生产线同样24小时不停机。随着全球算力基础设施建设加速推进，今年以来，这家企业800G以上光模块出口同比增长超过100倍。数据显示，今年以来，人工智能产业链相关产品贡献了机电产品出口增...",
+    "pubDate": "2026-06-27 15:28:44  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "WPS回应C盘占用问题：即将更新七月版本上线磁盘存储管理功能",
+    "link": "https://36kr.com/newsflashes/3871099029771265?f=rss",
+    "summary": "36氪获悉，6月27日，针对近期用户集中反馈的C盘占用问题，WPS方面表示已完成排查并启动优化，将于7月上线的新版本在安装��面增加了路径选择功能；在使用环节，WPS在设置页新增了\"存储管理\"模块，缓存、文件备份、云文档缓存等各类文件的占用与可释放空间集中展示。WPS表示，缓存与备份默认存放在C盘、占用情况不够直观，确实给部分高频用户造成了困扰，此次优化的核心逻辑是\"安装有选择、使用可管理\"，让用户从安装到使用的每个环节中，都能清楚了解本地占用了多少、哪些可以清理，并随时自主管理。",
+    "pubDate": "2026-06-27 15:25:34  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "网传纯净水涨价，娃哈哈回应",
+    "link": "https://36kr.com/newsflashes/3870947210187783?f=rss",
+    "summary": "娃哈哈集团官方微博发布针对近日网传娃哈哈纯净水涨价相关消息的统一说明：受包材成本波动，我司调整不同包装规格水产品的渠道批发价，有升有降以保障经销商伙伴稳定经营。全线纯净水终端零售价不变，消费者购买价格无变化。请广大消费者放心购买，相关信息以官方发布为准。（第一财经）",
+    "pubDate": "2026-06-27 12:51:07  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "6月份沪牌拍卖结果公布 平均成交价为94368元",
+    "link": "https://36kr.com/newsflashes/3870944021173507?f=rss",
+    "summary": "6月27日，据“上海发布”官微消息，6月份沪牌拍卖结果公布。个人额度合计拍卖总数3809个，参加拍卖人数33834人，中标率11.3%。最低成交价94300元，平均成交价为94368元，与上个月保持一致。（每日经济新闻）",
+    "pubDate": "2026-06-27 12:47:53  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "SpaceX与电信运营商Charter探讨在美国开展手机服务合作",
+    "link": "https://36kr.com/newsflashes/3870941780988937?f=rss",
+    "summary": "6月27日，据报道，SpaceX与电信运营商Charter已就在美国开展手机服务合作举行了高管级别的会谈。",
+    "pubDate": "2026-06-27 12:45:36  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
   },
   {
     "title": "国家统计局：1—5月份电子行业利润同比增长103.9%",

@@ -1,0 +1,682 @@
+[
+  {
+    "title": "100 天从创意到落地：我们做了一台可以随口问 AI 的对讲机",
+    "link": "https://sspai.com/post/111706",
+    "summary": "前言创业不易，硬件创业更难，尤其是AI硬件创业更是难上加难。难也意味着门槛。在滚滚而来的AI大势之下，门内的景色金光闪闪，首先要做的是迈过这个门槛。准确地说，我的硬件项目正式研发到投产经历了108天。 ... 查看全文",
+    "pubDate": "Tue, 30 Jun 2026 11:00:00 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "派早报：DeepSeek V4 正式版 7 月中旬上线等",
+    "link": "https://sspai.com/post/111707",
+    "summary": "少数派的近期动态少数派×AKKO联合共创带屏键盘计划于7月9日开启。预约直播WWDC26专题页已全部更新完成。点击回顾尝鲜27系列新系统的朋友，你的满意度如何？来一派投票你可能错过的文章让音乐「更好听 ... 查看全文",
+    "pubDate": "Tue, 30 Jun 2026 08:24:31 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "Andy's 'radical rewiring' and 'it's coming homes'",
+    "link": "https://www.bbc.co.uk/news/articles/c5yzd3l72ejo?at_medium=RSS&at_campaign=rss",
+    "summary": "Andy Burnham's plans to devolve power in Britain and build more council housing lead Tuesday's papers.",
+    "pubDate": "Tue, 30 Jun 2026 04:22:41 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "300k-Year-Old Cave Site Explored in Northern Israel",
+    "link": "https://archaeology.org/news/2026/06/18/300000-year-old-cave-site-explored-in-northern-israel/",
+    "summary": "Article URL: https://archaeology.org/news/2026/06/18/300000-year-old-cave-site-explored-in-northern-israel/ Comments URL: https://news.ycombinator.com/item?id=48728441 Points: 5 # Comments: 0",
+    "pubDate": "Tue, 30 Jun 2026 04:18:25 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The AI jobs debate just got messier",
+    "link": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+    "summary": "A new report finds \"high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs.",
+    "pubDate": "Tue, 30 Jun 2026 04:01:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "'Left on your own': Angry Venezuelans accuse government of negligence and apathy",
+    "link": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss",
+    "summary": "People in areas devastated by twin earthquakes say they need more support from the government.",
+    "pubDate": "Tue, 30 Jun 2026 03:53:48 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Inside Paraguay's tears of joy over their seismic World Cup shock",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cy5v96vk1q9o?at_medium=RSS&at_campaign=rss",
+    "summary": "How Paraguay marked one of the biggest wins in their footballing history with euphoric celebrations.",
+    "pubDate": "Tue, 30 Jun 2026 03:00:39 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The end for Nagelsmann? Germany suffer their 'next football nightmare'",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c992kzk00kzo?at_medium=RSS&at_campaign=rss",
+    "summary": "Germany make a shock last-32 exit against Paraguay, losing a World Cup penalty shootout for the first time to pile pressure on boss Julian Nagelsmann.",
+    "pubDate": "Tue, 30 Jun 2026 02:38:35 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+    "link": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+    "summary": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
+    "pubDate": "Tue, 30 Jun 2026 02:28:41 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Long-delayed defence spending plan to be published, with focus on drone warfare",
+    "link": "https://www.bbc.co.uk/news/articles/cwy0rw5dx1ko?at_medium=RSS&at_campaign=rss",
+    "summary": "The defence investment plan will set out how billions will be spent on equipping the UK Armed Forces.",
+    "pubDate": "Tue, 30 Jun 2026 01:46:15 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Germany beaten on penalties as Paraguay reach last 16",
+    "link": "https://www.bbc.co.uk/sport/football/videos/cm20j4m2k3xo?at_medium=RSS&at_campaign=rss",
+    "summary": "Four-time winners Germany are knocked out of the 2026 World Cup, losing to Paraguay 4-3 on penalties, following a 1-1 draw after extra time.",
+    "pubDate": "Tue, 30 Jun 2026 01:06:09 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Exploring PDP-1 Lisp (1960)",
+    "link": "https://obsolescence.dev/pdp1-lisp-introduction.html",
+    "summary": "Article URL: https://obsolescence.dev/pdp1-lisp-introduction.html Comments URL: https://news.ycombinator.com/item?id=48727323 Points: 34 # Comments: 16",
+    "pubDate": "Tue, 30 Jun 2026 00:56:42 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Memory Safe Context Switching (longjmp, setjmp) in Fil-C",
+    "link": "https://fil-c.org/context_switches",
+    "summary": "Article URL: https://fil-c.org/context_switches Comments URL: https://news.ycombinator.com/item?id=48727177 Points: 59 # Comments: 20",
+    "pubDate": "Tue, 30 Jun 2026 00:38:19 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
+    "link": "https://longcat.chat/blog/longcat-2.0/",
+    "summary": "Article URL: https://longcat.chat/blog/longcat-2.0/ Comments URL: https://news.ycombinator.com/item?id=48727116 Points: 57 # Comments: 14",
+    "pubDate": "Tue, 30 Jun 2026 00:30:11 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "30-year sentence for transporting zines is a five-alarm fire for free speech",
+    "link": "https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/",
+    "summary": "Article URL: https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/ Comments URL: https://news.ycombinator.com/item?id=48711981 Points: 435 # Comments: 255",
+    "pubDate": "Sun, 28 Jun 2026 21:42:39 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Ornith-1.0: Self-scaffolding LLMs for agentic coding",
+    "link": "https://deep-reinforce.com/ornith_1_0.html",
+    "summary": "Article URL: https://deep-reinforce.com/ornith_1_0.html Comments URL: https://news.ycombinator.com/item?id=48709744 Points: 66 # Comments: 7",
+    "pubDate": "Sun, 28 Jun 2026 17:58:04 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Apple Neural Engine: Architecture, Programming, and Performance",
+    "link": "https://arxiv.org/abs/2606.22283",
+    "summary": "Article URL: https://arxiv.org/abs/2606.22283 Comments URL: https://news.ycombinator.com/item?id=48702825 Points: 138 # Comments: 19",
+    "pubDate": "Sat, 27 Jun 2026 23:30:14 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Chris Mason: Burnham revels on public stage but has little time to hammer ideas into shape",
+    "link": "https://www.bbc.co.uk/news/articles/crkvr3xjxx3o?at_medium=RSS&at_campaign=rss",
+    "summary": "As a man who has held prime ministerial ambitions for years, Andy Burnham makes his dash for the door, political editor Chris Mason writes.",
+    "pubDate": "Mon, 29 Jun 2026 23:46:54 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Why £15 durians are being sold at half price - or given away for free",
+    "link": "https://www.bbc.co.uk/news/articles/c8x21yld0yro?at_medium=RSS&at_campaign=rss",
+    "summary": "As Malaysian durians are being sold at throwaway prices, farmers worry about their livelihoods.",
+    "pubDate": "Mon, 29 Jun 2026 23:17:19 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Homes harder to sell as high mortgage rates frustrate buyers",
+    "link": "https://www.bbc.co.uk/news/articles/cdr4env2v14o?at_medium=RSS&at_campaign=rss",
+    "summary": "Three in five homes listed for sale since January remain on the market, says property portal Zoopla.",
+    "pubDate": "Mon, 29 Jun 2026 23:08:44 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "We had packed lunches every day for 10 years and retired at 40",
+    "link": "https://www.bbc.co.uk/news/articles/cvgdn3qqg7po?at_medium=RSS&at_campaign=rss",
+    "summary": "The Fire (Financially Independent, Retire Early) movement sees followers save as much as possible.",
+    "pubDate": "Mon, 29 Jun 2026 23:03:26 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Another UK heatwave could be on the way",
+    "link": "https://www.bbc.co.uk/weather/articles/cql14kwex2wo?at_medium=RSS&at_campaign=rss",
+    "summary": "As parts of Europe continue to swelter in record temperatures, higher temperatures could develop again across the UK later this week, as Simon King explains.",
+    "pubDate": "Mon, 29 Jun 2026 23:03:06 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "'We can't continue like this': Inquiry demands NHS maternity overhaul",
+    "link": "https://www.bbc.co.uk/news/articles/cddlgqpg7mzo?at_medium=RSS&at_campaign=rss",
+    "summary": "An independent inquiry into England's maternity services has found \"unacceptable racism and discrimination\" is affecting patient safety.",
+    "pubDate": "Mon, 29 Jun 2026 23:02:44 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
+    "link": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
+    "summary": "Article URL: https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/ Comments URL: https://news.ycombinator.com/item?id=48726102 Points: 175 # Comments: 100",
+    "pubDate": "Mon, 29 Jun 2026 22:21:00 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Scientists find molecular-level evidence for two structures in liquid water",
+    "link": "https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html",
+    "summary": "https://www.nature.com/articles/s41567-026-03301-8 Comments URL: https://news.ycombinator.com/item?id=48726073 Points: 85 # Comments: 42",
+    "pubDate": "Mon, 29 Jun 2026 22:18:26 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "45 minutes from Brazil 'humiliation' - but 'Crafty Carlo' does it again",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c17yzyy8ldko?at_medium=RSS&at_campaign=rss",
+    "summary": "Half-time in Houston and Brazil's players trudged off facing another early World Cup exit. But we should have known better than to doubt Carlo Ancelotti.",
+    "pubDate": "Mon, 29 Jun 2026 22:14:31 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
+    "link": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/",
+    "summary": "Operation by two Russia-state groups has been ongoing since at least March.",
+    "pubDate": "Mon, 29 Jun 2026 22:05:33 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Three people injured after explosion in Monaco, French media report",
+    "link": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss",
+    "summary": "The blast at a residential building was \"very likely an attack\", Monaco's head of government tells AFP.",
+    "pubDate": "Mon, 29 Jun 2026 21:59:56 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
+    "link": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
+    "summary": "Hundreds of contractors working on a project for Meta pretended to be kids in order to see how other chatbots like Gemini and ChatGPT would respond to high-risk subjects, WIRED found.",
+    "pubDate": "Mon, 29 Jun 2026 21:49:26 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Is tennis' relentless nature causing injury crisis?",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/c3eyd24pk75o?at_medium=RSS&at_campaign=rss",
+    "summary": "After British stars Jack Draper and Emma Raducanu withdrew injured from Wimbledon, BBC Sport analyses why so many top players are struggling with injury.",
+    "pubDate": "Mon, 29 Jun 2026 21:45:02 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Chinese billionaire Guo Wengui gets 30 years in U.S. prison for fraud conviction",
+    "link": "https://www.npr.org/2026/06/29/g-s1-130976/chinese-billionaire-guo-wengui-gets-30-years-in-u-s-prison-for-fraud-conviction",
+    "summary": "Guo said he came to the U.S. to destroy the Chinese Communist Party. But the judge said he instead diverted investor money to live lavishly.",
+    "pubDate": "Mon, 29 Jun 2026 21:43:29 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Domestic killers could face extra 10 years in prison under new plans",
+    "link": "https://www.bbc.co.uk/news/articles/cvgqnzpwrpzo?at_medium=RSS&at_campaign=rss",
+    "summary": "The changes mean the 15-year starting sentence could be increased to 25 years to be in line with other murders.",
+    "pubDate": "Mon, 29 Jun 2026 21:37:09 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Refugees will be told to repay around £10,000 under new asylum rules",
+    "link": "https://www.bbc.co.uk/news/articles/cddlgqlm7q2o?at_medium=RSS&at_campaign=rss",
+    "summary": "Ministers will be given powers to recover costs from adults who have received asylum support under new laws.",
+    "pubDate": "Mon, 29 Jun 2026 21:31:48 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Lilo & Stitch star Daveigh Chase's cause of death was Aids",
+    "link": "https://www.bbc.co.uk/news/articles/cx2xyx1qjnyo?at_medium=RSS&at_campaign=rss",
+    "summary": "The actress, who also crawled out of a TV in horror film The Ring, passed away in LA this month, aged 35.",
+    "pubDate": "Mon, 29 Jun 2026 21:21:15 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "'No one move!': The agonising silence as Venezuela rescuers listen for survivors",
+    "link": "https://www.bbc.co.uk/news/articles/c78yvq72dg7o?at_medium=RSS&at_campaign=rss",
+    "summary": "With tens of thousands of people still believed missing, teams listen for signs of life beneath the rubble.",
+    "pubDate": "Mon, 29 Jun 2026 21:19:28 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Osaka pays 'love and respect to Japan' in Wimbledon kimono",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/cd0mymk9d70o?at_medium=RSS&at_campaign=rss",
+    "summary": "Naomi Osaka has long been renowned for dazzling crowds with her on-court outfits - but making that compatible with Wimbledon's all-white dress code required special inspiration.",
+    "pubDate": "Mon, 29 Jun 2026 21:11:04 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Buying a Mattress in 2026? We Tested 100+ and These Were the Standouts",
+    "link": "https://www.wired.com/gallery/best-mattresses/",
+    "summary": "WIRED has tested 100-plus bed-in-a-box mattresses for a week each. Our top pick, the Helix Midnight Luxe hybrid, is the best bed you can buy online.",
+    "pubDate": "Mon, 29 Jun 2026 21:05:17 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role",
+    "link": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/",
+    "summary": "VCs remain thirsty to fund AI coding startups. This one, founded by investor Chamath Palihapitiya, is no exception.",
+    "pubDate": "Mon, 29 Jun 2026 20:55:50 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Revisiting Yliluoma’s ordered dither algorithm",
+    "link": "https://30fps.net/pages/revisiting-yliluoma-2/",
+    "summary": "Comments",
+    "pubDate": "Mon, 29 Jun 2026 20:28:05 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "US renewable boom passes key milestone in April",
+    "link": "https://arstechnica.com/science/2026/06/solar-outproduced-coal-in-april-but-not-on-the-grid/",
+    "summary": "Small-scale solar helped renewables hit nearly triple coal's generation in the US.",
+    "pubDate": "Mon, 29 Jun 2026 20:12:30 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Supreme Court ruling guts government’s use of geofence warrants",
+    "link": "https://arstechnica.com/tech-policy/2026/06/supreme-court-ruling-guts-governments-use-of-geofence-warrants/",
+    "summary": "SCOTUS falls short of deeming geofence warrants unconstitutional, though.",
+    "pubDate": "Mon, 29 Jun 2026 20:04:04 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": ".self: A new top-level domain designed to support self-hosting",
+    "link": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+    "summary": "Article URL: https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/ Comments URL: https://news.ycombinator.com/item?id=48724230 Points: 392 # Comments: 224",
+    "pubDate": "Mon, 29 Jun 2026 19:49:28 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Michigan governor threatens to pull troops from D.C. if used for Trump task force",
+    "link": "https://www.npr.org/2026/06/29/nx-s1-5875427/michigan-governor-national-guard-dc",
+    "summary": "Michigan Gov. Whitmer is one of four Democrats who sent their states' National Guard troops to Washington, D.C. ahead of America 250 celebrations in recent weeks, amid President Trump's ongoing — and controversial — deployment in the city.",
+    "pubDate": "Mon, 29 Jun 2026 19:34:58 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "South African leader warns anti-migrant protesters ahead of unofficial deadline",
+    "link": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
+    "summary": "Thousands of people from other African countries have left South Africa ahead of Tuesday's deadline set by anti-migrant groups.",
+    "pubDate": "Mon, 29 Jun 2026 19:16:34 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The end of the AArch64 desktopexperiment",
+    "link": "https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/",
+    "summary": "Comments",
+    "pubDate": "Mon, 29 Jun 2026 19:14:40 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Sony erases digital content from libraries; we're reminded we don’t own what we buy",
+    "link": "https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/",
+    "summary": "Sony has been scaling down its digitial store for a few years.",
+    "pubDate": "Mon, 29 Jun 2026 19:10:57 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Ozone loss was a thing even before CFCs were widely used",
+    "link": "https://arstechnica.com/science/2026/06/ozone-damage-could-have-been-detected-decades-earlier/",
+    "summary": "With today’s scientific tools, the problem could have been spotted in the 1950s.",
+    "pubDate": "Mon, 29 Jun 2026 19:00:23 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Millions of exploding stars could soon reveal dark energy's secrets",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260621060315.htm",
+    "summary": "A new AI-powered framework could transform how astronomers measure the expansion of the Universe. By analyzing images of Type Ia supernovae and modeling their environments in unprecedented detail, researchers can estimate cosmic distances with near-spectroscopic accuracy. The technique is designe...",
+    "pubDate": "Mon, 29 Jun 2026 17:57:17 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Spindle's new microVM engine",
+    "link": "https://blog.tangled.org/spindle-microvm/",
+    "summary": "Comments",
+    "pubDate": "Mon, 29 Jun 2026 17:31:57 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "What's wrong with EU age verification? (Nothing)",
+    "link": "https://blog.vrypan.net/2026/06/29/260629-whats-wrong-with-eu-age-verification/",
+    "summary": "Comments",
+    "pubDate": "Mon, 29 Jun 2026 17:27:17 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Wheelchair users say private equity is making repairs harder",
+    "link": "https://www.npr.org/2026/06/29/nx-s1-5860877/wheelchair-users-say-private-equity-is-making-repairs-harder",
+    "summary": "People who rely on wheelchairs say that industry consolidation driven by private equity means long delays in getting them fixed, which isolates them from society and endangers their health.",
+    "pubDate": "Mon, 29 Jun 2026 17:01:05 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "The Temporary Protected Status program may effectively be over. Here's what we know.",
+    "link": "https://www.npr.org/2026/06/29/g-s1-130942/temporary-protected-status-program-explainer-supreme-court",
+    "summary": "A Supreme Court ruling gives the Trump administration space to strip this status from hundreds of thousands of more people from the few remaining countries with this program.",
+    "pubDate": "Mon, 29 Jun 2026 16:54:23 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Supreme Court takes sledgehammer to much of federal government's regulatory structure",
+    "link": "https://www.npr.org/2026/06/29/nx-s1-5875161/supreme-court-takes-sledgehammer-to-much-of-federal-governments-regulatory-structure",
+    "summary": "The Supreme Court struck down most of the limits that Congress and the courts had previously established to protect the independence of regulatory agencies that comprise much of the federal government.",
+    "pubDate": "Mon, 29 Jun 2026 16:44:35 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Venezuela's deadly quakes put its U.S.-backed government to the test",
+    "link": "https://www.npr.org/2026/06/29/nx-s1-5873975/venezuelan-quake-tests-government",
+    "summary": "Venezuela's La Guaira state bore the brunt of the earthquake damage, bringing memories of a 1999 disaster that became President Hugo Chávez's first major test. Now, it's the acting leader's challenge.",
+    "pubDate": "Mon, 29 Jun 2026 16:19:02 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "The AT-URI Syntax Mess",
+    "link": "https://bnewbold.leaflet.pub/3mph4hzvbdc2v",
+    "summary": "Comments",
+    "pubDate": "Mon, 29 Jun 2026 15:34:46 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Linux for the Sega MegaDrive",
+    "link": "https://github.com/LinuxMD/linuxmd",
+    "summary": "https://hackaday.com/2026/06/29/its-linux-on-a-sega-megadriv... Comments URL: https://news.ycombinator.com/item?id=48720186 Points: 35 # Comments: 5",
+    "pubDate": "Mon, 29 Jun 2026 15:01:39 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Working With AI: A concrete example",
+    "link": "https://htmx.org/essays/working-with-ai/",
+    "summary": "Article URL: https://htmx.org/essays/working-with-ai/ Comments URL: https://news.ycombinator.com/item?id=48720064 Points: 113 # Comments: 37",
+    "pubDate": "Mon, 29 Jun 2026 14:53:41 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Scientists discover an unexpected way to make pancreatic cancer cells self-destruct",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260622091512.htm",
+    "summary": "Researchers tested experimental PCAI compounds against pancreatic cancer cells and found they had powerful anticancer effects. One leading compound blocked more than 90% of cancer cell migration, suggesting it could help prevent the spread of tumors. Rather than suppressing cancer signaling, the ...",
+    "pubDate": "Mon, 29 Jun 2026 14:08:33 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "英威腾：暂未开展人形机器人具体业务",
+    "link": "https://36kr.com/newsflashes/3875137219761411?f=rss",
+    "summary": "36氪获悉，英威腾在互动平台表示，目前暂未开展人形机器人具体业务。",
+    "pubDate": "2026-06-30 12:30:21  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "百度旗下基金等入股太空算力公司轨道辰光",
+    "link": "https://36kr.com/newsflashes/3875135219406086?f=rss",
+    "summary": "36氪获悉，天眼查App显示，近日，北京轨道辰光科技有限公司发生工商变更，新增百度旗下三亚百川致新私募股权投资基金合伙企业（有限合伙）、北京工融顺禧股权投资基金（有限合伙）等为股东，同时，注册资本由约954.1万人民币增至约1001.8万人民币。公开资料显示，该公司专注于太空算力基础设施建设。",
+    "pubDate": "2026-06-30 12:23:07  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "HORWIN号外全球首款400V高压超级电摩SENMENTI ONE正式交付",
+    "link": "https://36kr.com/newsflashes/3875161599546377?f=rss",
+    "summary": "HORWIN号外宣布，全球首款400V高压超级电摩SENMENTI ONE正式交付，9.98万元起售。据了解，整车超200项核心专利，搭载品牌自研车规级400V高压平台，三电与底盘高度集成；搭载16.9kWh三元锂电池，城市综合续航300km，支持汽车直流快充，充电10分钟可行驶100公里，同时支持3kW外放电；配备博世ABS及机器人架构域控；零百加速3.3秒，最高车速达200km/h。",
+    "pubDate": "2026-06-30 12:18:13  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "慧谷新材：公司在超级电容器应用领域有相关产品",
+    "link": "https://36kr.com/newsflashes/3875133610218754?f=rss",
+    "summary": "36氪获悉，慧谷新材在互动平台表示，公司在超级电容器的应用领域有相关产品，但目前暂未形成规模化销售，业务具有不确定性，请广大投资者注意投资风险。",
+    "pubDate": "2026-06-30 12:16:38  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "工信部人士：加大富锂锰基正极、硅基负极、固态电解质等材料攻关",
+    "link": "https://36kr.com/newsflashes/3875156660589577?f=rss",
+    "summary": "6月30日，中国汽车动力电池产业创新联盟2026年度论坛召开，工信部装备工业一司汽车发展处处长马春生在论坛上表示：“当前全球新能源汽车产业已进入加速发展的新阶段，对动力电池安全、绿色、耐久等性能提出更高要求，需要进一步强化创新驱动。”马春生表示，要加大关键技术攻关，支持上下游开展联合创新攻关，重点突破全固态电池、高比能锂离子电池等关键技术，加大富锂锰基正极、硅基负极、固态电解质等材料攻关，夯实技术能力；提升大规模智能柔性制造水平和检测验证能力，持续提高产品性能质量。（中证报）",
+    "pubDate": "2026-06-30 12:13:12  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "新石器获马来西亚首批无人配送车辆测试许可",
+    "link": "https://36kr.com/newsflashes/3875132581090309?f=rss",
+    "summary": "36氪获悉，6月30日，L4级自动驾驶物流企业新石器宣布，已正式获得马来西亚交通部（MOT）批准，成为首批获准在公共道路开展无人配送车辆沙盒测试的企业之一。根据计划，新石器将在未来数周内于赛城启动道路测试。赛城是马来西亚重点打造的智慧城市与科技创新中心，也是该国自动驾驶技术发展的核心试验区。",
+    "pubDate": "2026-06-30 12:08:36  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "半日主力资金加仓电子股，抛售银行、非银金融股",
+    "link": "https://36kr.com/newsflashes/3875131825411337?f=rss",
+    "summary": "主力资金早间净流入电子、通信、机械设备、计算机等板块，净流出银行、非银金融、医药生物、食品饮料等板块。具体到个股来看，多氟多、新易盛、胜宏科技获净流入46.93亿元、46.26亿元、40.37亿元。净流出方面，风华高科、中微公司、长电科技遭抛售10.79亿元、9.57亿元、8.64亿元。（第一财经）",
+    "pubDate": "2026-06-30 12:04:08  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "恒指午间休盘跌1.19%，恒生科技指数涨1.4%",
+    "link": "https://36kr.com/newsflashes/3875146598093824?f=rss",
+    "summary": "36氪获悉，恒指午间休盘跌1.19%，恒生科技指数涨1.4%；半导体、光模块板块领涨，长光飞纤光缆、中芯国际涨超7%，澜起科技涨近6%，剑桥科技涨超3%；消费股下挫，老铺黄金、蜜雪集团跌超5%，泡泡玛特跌超3%；南向资金净买入58.08亿港元。",
+    "pubDate": "2026-06-30 12:02:58  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "我国首个550兆瓦F级燃机项目全容量投产发电",
+    "link": "https://36kr.com/newsflashes/3875134133458179?f=rss",
+    "summary": "6月30日凌晨，我国首个550兆瓦F级燃机项目——华电重庆潼南燃机项目实现全容量投产发电，为成渝地区双城经济圈迎峰度夏电力保供、绿色低碳转型注入清洁能源动能。据介绍，华电重庆潼南燃机项目规划建设两台550.12兆瓦分轴燃气—蒸汽联合循环调峰发电机组，总装机容量达1100兆瓦，年发电量可达21亿千瓦时，能满足约175万个家庭一年的用电需求，每年可节约标准煤20万吨，减少二氧化碳排放86万吨。（新华社）",
+    "pubDate": "2026-06-30 11:50:17  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "聚辰股份全系列Nor Flash产品涨价25%",
+    "link": "https://36kr.com/newsflashes/3875123974312963?f=rss",
+    "summary": "据蓝鲸新闻，从经销商处获悉，近期受全球半导体产业链波动影响，Nor Flash芯片核心原材料及晶圆、封测等生产环节成本持续走高，推高聚辰股份整体生产成本。基于此，聚辰股份已向其经销商下发通知，全系列Nor Flash产品价格，将于2026年7月6日起适度上调，调整幅度为在现有价格基础上调25%。聚辰股份表示，所有新签订单及未交付订单的未执行部分均按新价格执行。 （财联社）",
+    "pubDate": "2026-06-30 11:39:57  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "成立9个月，在手订单4.4亿，「谱星航天」连续完成两轮数亿元融资｜36氪首发",
+    "link": "https://36kr.com/p/3875120747942913?f=rss",
+    "summary": "文&nbsp;|&nbsp;阿至 光谱定量遥感赛道跑出一匹黑马。 36氪未来产业独家获悉，光学载荷与微纳卫星系统解决方案提供商上海谱星航天科技有限公司（下简称“谱星航天”） 已于近期连续完成天使+、Pre-A两轮融资，累计规模为数亿元。 Pre-A轮由国泰海通、尚融资本、司南基金联合领投，徐汇资本、联融志道、金浦投资跟投，老股东联想控股、鼎农科技、普华资本追投。天使+轮投资方为联想控股、普华资本。 谱星航天是我们长期关注的企业，成立9个月内，共完成3轮融资，累计资金规模近3亿元。 创始人贺小军透露，其新一轮融资已经开启，年内预计还将完成两轮融资，为公司1024颗谱星星座建设及后续发展提供...",
+    "pubDate": "2026-06-30 11:39:04  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "A股三大指数午间休盘集体上涨，半导体板块大涨",
+    "link": "https://36kr.com/newsflashes/3875117279794435?f=rss",
+    "summary": "36氪获悉，A股三大指数午间休盘集体上涨，沪指涨0.2%，深成指涨2.47%，创业板涨3.06%；半导体、光模块大涨，长光华芯，源杰科技、胜宏科技涨超10%，新易盛涨超9%，寒武纪涨超8%市值破万亿；煤炭、航运板块跌幅居前，中远海特、中煤能源跌超5%，中远海能跌超4%。",
+    "pubDate": "2026-06-30 11:33:08  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "万亿市场格局未定：「端侧原生」，一家中国AI公司给物理AI抛了个新解法",
+    "link": "https://36kr.com/p/3875047283659777?f=rss",
+    "summary": "过去几年，AI的战场在屏幕里。GPT系列用参数堆出了惊人的语言能力，Sora用视频生成震撼了全世界……但2026年，产业界达成了一组共识：2026年，是物理AI的元年。&nbsp; 年初拉斯维加斯CES上，英伟达CEO黄仁勋用一场演讲，17遍提及物理AI，用以宣布“物理AI的ChatGPT时刻已经来了”。这也是他近两年一直推崇备至的关键词。而在过去的2年多时间里，物理AI在“大脑”（VLA模型）、“想象引擎”（世界模型）、训练场、本体及商业闭环五个维度取得关键进展，行业已初步具备走出演示环境、向真实场景探索的技术基础。 就在2026年上半年，全球物理AI领域的资本流动呈现出惊人的密度和规...",
+    "pubDate": "2026-06-30 11:24:49  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "沪深两市成交额突破2万亿元",
+    "link": "https://36kr.com/newsflashes/3875106907362566?f=rss",
+    "summary": "36氪获悉，沪深两市成交额突破2万亿元，较上一日此时缩量超4200亿元。",
+    "pubDate": "2026-06-30 11:22:35  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "2025年我国网络表演行业市场整体营收达2213.6亿元",
+    "link": "https://36kr.com/newsflashes/3875094136165635?f=rss",
+    "summary": "在今天（30日）举行的2026中国网络表演（直播与短视频）行业年会上，《中国网络表演（直播与短视频）行业发展报告（2025-2026）》以及多个垂类领域专题报告发布。 报告显示，当前，我国网络表演（直播与短视频）行业展现出强大的韧性与活力。《中国网络表演（直播与短视频）行业发展报告（2025-2026）》数据显示，2025年我国网络表演行业市场规模保持韧性增长，整体营收达2213.6亿元，同比增长4.1%。（央视新闻）",
+    "pubDate": "2026-06-30 11:18:32  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "腾讯云公布Cloud Mate产品退市安排",
+    "link": "https://36kr.com/newsflashes/3875089852863495?f=rss",
+    "summary": "36氪获悉，6月30日，腾讯云宣布，因产品业务调整，经慎重评估，Cloud Mate将于2027年08月31日23:59:59起停止服务。服务停止后，Cloud Mate控制台及相关功能将无法继续查看或使用，相关数据的保留、导出及恢复安排将按照本公告及腾讯云相关规则执行。",
+    "pubDate": "2026-06-30 11:11:10  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "寒武纪市值突破1万亿元",
+    "link": "https://36kr.com/newsflashes/3875085560091907?f=rss",
+    "summary": "36氪获悉，寒武纪日内涨超7%再创历史新高，市值突破1万亿元。",
+    "pubDate": "2026-06-30 11:00:52  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "菜鸟推出科技出海物流解决方案，定制化服务AI算力与机器人企业出海",
+    "link": "https://36kr.com/newsflashes/3875072469865729?f=rss",
+    "summary": "36氪获悉，6月30日，菜鸟正式推出“科技出海定制化全链路物流解决方案”，面向AI算力、智能制造、机器人等科技企业的全球化布局，提供端到端、定制化的全链路物流服务。据了解，菜鸟已将AI算力、智能制造、高端装备、机器人等科技企业列为跨境物流重点服务方向，后续将持续扩展科技出海专属物流产品矩阵。",
+    "pubDate": "2026-06-30 10:58:05  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "创业板指涨超2%",
+    "link": "https://36kr.com/newsflashes/3875070473999361?f=rss",
+    "summary": "36氪获悉，创业板指涨超2%，沪指跌0.2%，深证成指涨1.71%；玻璃基板、消费电子、CPO、商业航天等方向领涨，全市场超2500股上涨。",
+    "pubDate": "2026-06-30 10:45:31  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "美团LongCat-2.0发布，为全国产算力训练、推理万亿参数大模型",
+    "link": "https://36kr.com/newsflashes/3875068439139588?f=rss",
+    "summary": "6月30日，美团发布新一代基础大模型LongCat-2.0，这是业界首个依靠国产算力完成训练、推理全流程的万亿参数大模型，总参数规模1.6万亿。此前，该大模型的测试版本，在OpenRouter上的总调用量已跻身全球前三，其中在Hermes的月调用量位列全球第一，在Claude Code的月调用量位列全球第二，仅次于Claude Opus 4.8。",
+    "pubDate": "2026-06-30 10:43:27  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "36氪首发｜前百度自动驾驶与机器人实验室主任创业，天使轮融资数千万，做机器人“世界通行模型”",
+    "link": "https://36kr.com/p/3875059110221064?f=rss",
+    "summary": "作者&nbsp;|&nbsp;乔钰杰 编辑&nbsp;|&nbsp;袁斯来 硬氪获悉，具身智能公司纽娲机器人近日完成5000万元天使轮融资，由蓝湖资本领投，不同资本、共青城朴一投资跟投。两个月前，纽娲机器人曾完成由Plug and Play中国基金领投的种子轮融资。 纽娲机器人（下称“纽娲”）成立于2026年2月，半年不到的时间已先后获得多家财务、产业基金投资。创始人杨睿刚博士，长期从事3D视觉、仿真技术和自动驾驶/机器人研究，曾任百度自动驾驶与机器人实验室主任，并曾任自动驾驶卡车企业嬴彻科技CTO，推动L3级自动驾驶重卡量产落地，具有丰富的产业与创业经验，目前为上海交通大学特聘教授。 ...",
+    "pubDate": "2026-06-30 10:35:33  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "宇树科技、晋拓股份等在上海成立新科技公司，注册资本3000万",
+    "link": "https://36kr.com/newsflashes/3875056657044486?f=rss",
+    "summary": "36氪获悉，天眼查App显示，近日，上海拓天智联科技有限公司成立，法定代表人为张心怡，注册资本3000万人民币，经营范围包括技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广，人工智能应用软件开发，智能机器人的研发等。股东信息显示，该公司由晋拓股份、上海南大开发建设有限公司、宇树科技股份有限公司共同持股。",
+    "pubDate": "2026-06-30 10:31:28  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "中咨公司战略注资中诚华隆",
+    "link": "https://36kr.com/newsflashes/3875053113824520?f=rss",
+    "summary": "36氪获悉，近日，中国国际工程咨询有限公司（简称“中咨公司”）依托旗下专业基金平台，完成对中诚华隆计算机技术有限公司（简称“中诚华隆”）的战略注资。此次入股，是该基金平台设立后的首个芯片类投资项目，标志着中咨公司正式切入国产算力芯片核心赛道��",
+    "pubDate": "2026-06-30 10:27:52  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "36氪官方福利来袭！15秒体验股市情报工具，免费抽取定制周边好礼~",
+    "link": "https://36kr.com/p/3873992162382849?f=rss",
+    "summary": "官方免费抽奖来袭，15秒体验即可参与领周边 无门槛，所有微信用户都能参与，纯粹是36氪给各位投资者的专属福利。 只需打开微信，扫描下方识别小程序码进入36氪企业全情报， 浏览15秒资讯后任意订阅一家企业 ，就能参与免费抽奖，多款36氪官方定制实用周边随机送出，中奖机会人人有。 扫描二维码参与抽奖！ 本次活动丰厚奖品清单： 🏆一等奖：36氪专属跪地外星人摆件 ，精致金属质感造型，摆放在办公桌、书桌氛围感拉满，看盘间隙舒缓心情；&nbsp; 📖二等奖：36氪专属读物《精英的傲慢》 ，深度剖析当下经济与社会分层逻辑，适合投资者闲暇阅读拓展认知；&nbsp; 🥤三等奖：36氪专属竹节吸管杯 ，耐...",
+    "pubDate": "2026-06-30 10:12:59  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "8点1氪丨涉嫌操纵内存价格，存储三巨头遭集体诉讼；韩国启动史上最大规模产业投资计划；哈啰出行回应骑79分钟需支付30元",
+    "link": "https://36kr.com/p/3874911939482880?f=rss",
+    "summary": "今日热点导览 马斯克宣布Grok4.5开启SpaceX与特斯拉内部私测，性能或超越Claude Opus 美的回应空调产品在欧洲被疯抢 蔚来回应车漆洗车时被冲掉：高压水枪操作不规范 滚石唱片就屠颖去世追责万豪喜来登 百度昆仑芯拟赴港IPO TOP 3大新闻 涉嫌操纵内存价格，三星、SK海力士、美光遭集体诉讼 随着全球内存短缺危机加剧，美国当地消费者和小型企业已采取法律行动。据悉，全球最大的三家内存供应商——三星、SK海力士和美光已因涉嫌操纵内存价格并限制全球供应而遭到集体诉讼。诉讼于6月25日在在美国加利福尼亚州联邦法院提起。诉状指出，这三家公司几乎控制着全球DRAM(动态随机存取存储器...",
+    "pubDate": "2026-06-30 08:05:46  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "T-Mobile is booting customers from its oldest plans",
+    "link": "https://www.theverge.com/tech/959144/t-mobile-legacy-plan-retire-sprint",
+    "summary": "Earlier today, T-Mobile started notifying customers that it will be retiring many legacy plans and moving subscribers onto one of its current rate plans. This move includes plans that date back to the 3G era, and it's going about as well as you'd expect. Affected customers began sharing screensho...",
+    "pubDate": "2026-06-29T17:06:14-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "After a great start, DC’s new cinematic universe is already slowing down",
+    "link": "https://www.theverge.com/entertainment/958953/supergirl-dcu-warner-bros-discovery-box-office-flop",
+    "summary": "While Kara Zor-El's appearance at the end of James Gunn's Superman was a very pleasant surprise, Warner Bros. Discovery's plan to fast-track a standalone Supergirl feature always felt a little dubious. It seemed odd that, after Superman, the studio wanted to flesh out its new cinematic universe w...",
+    "pubDate": "2026-06-29T17:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  }
+]

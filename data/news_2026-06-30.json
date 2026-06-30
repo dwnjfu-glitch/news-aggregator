@@ -8,6 +8,46 @@
     "category": "tech-cn"
   },
   {
+    "title": "X now offers an MCP server to make its platform easier for AI tools to use",
+    "link": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+    "summary": "X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company’s API.",
+    "pubDate": "Tue, 30 Jun 2026 15:08:42 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Arcturus could halve the grid’s electrical losses using its nano-infused copper",
+    "link": "https://techcrunch.com/2026/06/30/arcturus-could-halve-the-grids-electrical-losses-using-its-nano-infused-copper/",
+    "summary": "Stealthy startup Arcturus uses lasers to infuse carbon nanomaterials into copper, dramatically improving its ability to conduct electricity.",
+    "pubDate": "Tue, 30 Jun 2026 15:01:42 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Podcasting platform Riverside enters the newsletter publishing game",
+    "link": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/",
+    "summary": "Users will be able use AI to create newsletters based on their recordings.",
+    "pubDate": "Tue, 30 Jun 2026 15:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
+    "link": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+    "summary": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency.",
+    "pubDate": "Tue, 30 Jun 2026 15:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Legally Blonde revival Elle - boring and tedious or a hot pink delight?",
+    "link": "https://www.bbc.co.uk/news/articles/c5yzj5m22lro?at_medium=RSS&at_campaign=rss",
+    "summary": "The spin-off introduces a new generation to Elle Woods, but critics say young people deserve better.",
+    "pubDate": "Tue, 30 Jun 2026 14:57:59 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "「弯道超车」赛车入门指北：从周五到周日，F1 车队在忙什么？",
     "link": "https://sspai.com/post/111084",
     "summary": "理解了这条线，再打开下一场比赛，赛程表就不再只是一堆缩写。 查看全文",
@@ -16,12 +56,308 @@
     "category": "tech-cn"
   },
   {
+    "title": "Supreme Court upholds broad conception of birthright citizenship",
+    "link": "https://apnews.com/live/birthright-citizenship-decision-supreme-court-updates-06-30-2026",
+    "summary": "Article URL: https://apnews.com/live/birthright-citizenship-decision-supreme-court-updates-06-30-2026 Comments URL: https://news.ycombinator.com/item?id=48733406 Points: 16 # Comments: 6",
+    "pubDate": "Tue, 30 Jun 2026 14:43:54 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Home schooling and travel: Life as a 10-year-old tennis star",
+    "link": "https://www.bbc.co.uk/news/articles/c5yz55r17l1o?at_medium=RSS&at_campaign=rss",
+    "summary": "Hunter Henderson, 10, from Doncaster, has just won a major international tournament.",
+    "pubDate": "Tue, 30 Jun 2026 14:41:32 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "O'Donoghue: Court ruling is major blow to president",
+    "link": "https://www.bbc.co.uk/news/videos/c9w2nprzq5ro?at_medium=RSS&at_campaign=rss",
+    "summary": "The BBC’s Gary O’Donoghue explains what the court's landmark ruling means for the US president.",
+    "pubDate": "Tue, 30 Jun 2026 14:37:54 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "US Supreme Court upholds bans on transgender women in female school and college sports",
+    "link": "https://www.bbc.co.uk/news/articles/cj40x888d9go?at_medium=RSS&at_campaign=rss",
+    "summary": "It rules that states can ban transgender athletes from competing in women's and girls' sports.",
+    "pubDate": "Tue, 30 Jun 2026 14:21:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Words Are a Byproduct of Consciousness. For LLMs, It's Backwards",
+    "link": "https://ranpara.net/posts/words-are-a-byproduct-of-consciousness/",
+    "summary": "Article URL: https://ranpara.net/posts/words-are-a-byproduct-of-consciousness/ Comments URL: https://news.ycombinator.com/item?id=48733062 Points: 59 # Comments: 86",
+    "pubDate": "Tue, 30 Jun 2026 14:16:57 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Looking Ahead to Postgres 19",
+    "link": "https://www.snowflake.com/en/blog/engineering/postgresql-19-features-beta/",
+    "summary": "Article URL: https://www.snowflake.com/en/blog/engineering/postgresql-19-features-beta/ Comments URL: https://news.ycombinator.com/item?id=48733031 Points: 35 # Comments: 21",
+    "pubDate": "Tue, 30 Jun 2026 14:14:29 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Can the World Cup's viral stars turn social media fame into fortunes?",
+    "link": "https://www.bbc.co.uk/news/articles/cy04k0vzqrdo?at_medium=RSS&at_campaign=rss",
+    "summary": "They’re not Ronaldo or Messi, but they might be set for life after gaining millions of new followers.",
+    "pubDate": "Tue, 30 Jun 2026 14:09:59 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Your brand deserves its own stage — Side Events at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/06/30/your-brand-deserves-its-own-stage-side-events-at-techcrunch-disrupt-2026/",
+    "summary": "From October 10-16, host a Side Event and command the room during the week of TechCrunch Disrupt 2026.",
+    "pubDate": "Tue, 30 Jun 2026 14:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade",
+    "link": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
+    "summary": "Proton's Lumo 2.0 is dropping this week, giving users a broader variety of capabilities.",
+    "pubDate": "Tue, 30 Jun 2026 14:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Beware, Claude Code deletes >30 day old transcripts. Anthropic won't fix it",
+    "link": "https://github.com/anthropics/claude-code/issues/62476",
+    "summary": "Article URL: https://github.com/anthropics/claude-code/issues/62476 Comments URL: https://news.ycombinator.com/item?id=48732846 Points: 22 # Comments: 17",
+    "pubDate": "Tue, 30 Jun 2026 13:58:21 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "US envoys in Doha to meet mediators but not Iranians, Qatar says",
+    "link": "https://www.bbc.co.uk/news/articles/cpd38x1dy4no?at_medium=RSS&at_campaign=rss",
+    "summary": "Qatar's foreign ministry spokesman says no high-level meetings or direct talks between the US and Iran are scheduled.",
+    "pubDate": "Tue, 30 Jun 2026 13:51:52 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Florida bans local governments from pursuing net-zero emissions goals",
+    "link": "https://arstechnica.com/science/2026/06/florida-bans-local-governments-from-pursuing-net-zero-emissions-goals/",
+    "summary": "Gov. Ron DeSantis calls it a crackdown on \"radical climate policies.\"",
+    "pubDate": "Tue, 30 Jun 2026 13:40:16 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "School trip surprise as students meet The Rock",
+    "link": "https://www.bbc.co.uk/news/articles/cr7x3njjdeko?at_medium=RSS&at_campaign=rss",
+    "summary": "About 50 children from Sudbury meet Dwayne Johnson on a school visit to London.",
+    "pubDate": "Tue, 30 Jun 2026 13:29:49 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Ex-Leicester defender smashes six and blows kiss to bowler on cricket debut",
+    "link": "https://www.bbc.co.uk/sport/articles/cr475x3wplro?at_medium=RSS&at_campaign=rss",
+    "summary": "Just a day after resigning as Newport County head coach, Christian Fuchs blows a kiss to a bowler after hitting him for six while making his cricket debut for Derbyshire village side Grindleford.",
+    "pubDate": "Tue, 30 Jun 2026 13:07:06 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Knoppix",
+    "link": "https://www.knopper.net/knoppix/index-en.html",
+    "summary": "Article URL: https://www.knopper.net/knoppix/index-en.html Comments URL: https://news.ycombinator.com/item?id=48732056 Points: 22 # Comments: 14",
+    "pubDate": "Tue, 30 Jun 2026 12:54:01 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Signed Paul McCartney book found in charity shop sells for nearly £1,000",
+    "link": "https://www.bbc.co.uk/news/articles/c5yzkwen02ko?at_medium=RSS&at_campaign=rss",
+    "summary": "The book signed by the Beatles' star sat in an Oxfam stop for months before the manager found it.",
+    "pubDate": "Tue, 30 Jun 2026 12:47:54 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852)",
+    "link": "https://www.gutenberg.org/ebooks/24518",
+    "summary": "Article URL: https://www.gutenberg.org/ebooks/24518 Comments URL: https://news.ycombinator.com/item?id=48731989 Points: 67 # Comments: 14",
+    "pubDate": "Tue, 30 Jun 2026 12:47:51 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Swan & Fery through but 13 Britons fall at Wimbledon",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/c5yzv717n49o?at_medium=RSS&at_campaign=rss",
+    "summary": "Another three British players fall to first-round defeats at Wimbledon - but Katie Swan and Arthur Fery ensure home representation in the second round.",
+    "pubDate": "Tue, 30 Jun 2026 12:25:38 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Canadians share hopes and wishes for America's 250th birthday",
+    "link": "https://www.bbc.co.uk/news/videos/cjeg1g82gz8o?at_medium=RSS&at_campaign=rss",
+    "summary": "We asked Canadians across the country what they would say and give to their southern neighbour.",
+    "pubDate": "Tue, 30 Jun 2026 12:21:38 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Williams' Wimbledon legacy before return to Centre Court",
+    "link": "https://www.bbc.co.uk/sport/tennis/videos/cy5v732vnv4o?at_medium=RSS&at_campaign=rss",
+    "summary": "A look back at Serena Williams' Wimbledon legacy to date, including her seven singles titles and remarkable comeback from retirement before her return to Centre Court.",
+    "pubDate": "Tue, 30 Jun 2026 11:50:15 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Government 'cannot deport' grooming gang ringleader",
+    "link": "https://www.bbc.co.uk/news/articles/cx2wl6ynn2no?at_medium=RSS&at_campaign=rss",
+    "summary": "A 55-year-old law means the government has no legal powers to remove Shabir Ahmed from the UK.",
+    "pubDate": "Tue, 30 Jun 2026 11:36:13 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Germany fans in need of hope as prospect of Klopp looms",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cz0jgr7vy5zo?at_medium=RSS&at_campaign=rss",
+    "summary": "As Germany again fail to progress at a World Cup BBC Sport looks at the fallout from their defeat by Paraguay and what happens next.",
+    "pubDate": "Tue, 30 Jun 2026 11:35:31 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The 2 Best Slushie Machines of 2026: Now With Soft Serve",
+    "link": "https://www.wired.com/gallery/best-slushie-machines/",
+    "summary": "The original Ninja Slushi has been replaced! The new best slushie machines chill faster and make soft serve.",
+    "pubDate": "Tue, 30 Jun 2026 11:33:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Flooding hits Ghana's capital killing 13 people - with another storm forecast",
+    "link": "https://www.bbc.co.uk/news/articles/cn4r8zlv8edo?at_medium=RSS&at_campaign=rss",
+    "summary": "People have been urged to relocate to high ground or stay indoors as more rain is expected to come.",
+    "pubDate": "Tue, 30 Jun 2026 11:20:44 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "France superstars thriving thanks to Deschamps' bold changes",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cg53ggg03nno?at_medium=RSS&at_campaign=rss",
+    "summary": "Why Didier Deschamps' changes to personnel and formation could propel 2022 runners-up France to go one better in this World Cup.",
+    "pubDate": "Tue, 30 Jun 2026 11:18:24 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "100 天从创意到落地：我们做了一台可以随口问 AI 的对讲机",
     "link": "https://sspai.com/post/111706",
     "summary": "前言创业不易，硬件创业更难，尤其是AI硬件创业更是难上加难。难也意味着门槛。在滚滚而来的AI大势之下，门内的景色金光闪闪，首先要做的是迈过这个门槛。准确地说，我的硬件项目正式研发到投产经历了108天。 ... 查看全文",
     "pubDate": "Tue, 30 Jun 2026 11:00:00 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "Bitdefender VPN Review: Fast and Affordable Privacy",
+    "link": "https://www.wired.com/review/bitdefender-vpn/",
+    "summary": "Bitdefender VPN has an excellent starting price, even if it lacks the advanced features that privacy nerds may want.",
+    "pubDate": "Tue, 30 Jun 2026 11:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Editor's note: NPR retracts story",
+    "link": "https://www.npr.org/2026/06/30/nx-s1-4622951/samuel-alito-retires",
+    "summary": "",
+    "pubDate": "Tue, 30 Jun 2026 10:51:23 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Parse, Don't Validate – In a Language That Doesn't Want You To",
+    "link": "https://cekrem.github.io/posts/parse-dont-validate-typescript/",
+    "summary": "Article URL: https://cekrem.github.io/posts/parse-dont-validate-typescript/ Comments URL: https://news.ycombinator.com/item?id=48730818 Points: 87 # Comments: 68",
+    "pubDate": "Tue, 30 Jun 2026 10:48:23 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Supreme Court upholds birthright citizenship on constitutional grounds",
+    "link": "https://www.npr.org/2026/06/30/nx-s1-5839358/birthright-citizenship-decision-scotus-trump",
+    "summary": "The decision firmly rejected the executive order that Trump issued on the first day of his second term.",
+    "pubDate": "Tue, 30 Jun 2026 10:38:49 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "European digital ID wallets rely on safety services of Google and Apple",
+    "link": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
+    "summary": "Article URL: https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/ Comments URL: https://news.ycombinator.com/item?id=48730729 Points: 503 # Comments: 209",
+    "pubDate": "Tue, 30 Jun 2026 10:36:23 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs)",
+    "link": "https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/",
+    "summary": "Article URL: https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/ Comments URL: https://news.ycombinator.com/item?id=48730713 Points: 58 # Comments: 5",
+    "pubDate": "Tue, 30 Jun 2026 10:34:25 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Exercise intensity influences body composition in healthy older adults (2025)",
+    "link": "https://www.maturitas.org/article/S0378-5122(25)00571-7/fulltext",
+    "summary": "Article URL: https://www.maturitas.org/article/S0378-5122(25)00571-7/fulltext Comments URL: https://news.ycombinator.com/item?id=48730694 Points: 119 # Comments: 95",
+    "pubDate": "Tue, 30 Jun 2026 10:31:02 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Bernie Sanders Saw This Coming",
+    "link": "https://www.wired.com/story/the-big-interview-podcast-senator-bernie-sanders/",
+    "summary": "For decades, the senator has argued that concentrated wealth threatened American democracy. Now he’s betting that frustration with Big Tech, billionaires, and unchecked AI is reaching a tipping point.",
+    "pubDate": "Tue, 30 Jun 2026 10:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Supreme Court strikes down limits on political party spending",
+    "link": "https://www.npr.org/2026/06/30/nx-s1-5827039/supreme-court-campaign-finance",
+    "summary": "At issue in the case was a post-Watergate law that Congress passed to limit the amount of money individuals can give to political parties.",
+    "pubDate": "Tue, 30 Jun 2026 10:28:28 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "The US ambassador had Belgian police stop our reporting",
+    "link": "https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting",
+    "summary": "Article URL: https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting Comments URL: https://news.ycombinator.com/item?id=48730608 Points: 550 # Comments: 205",
+    "pubDate": "Tue, 30 Jun 2026 10:15:15 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Tricks to help you spend less money at restaurants",
+    "link": "https://www.npr.org/2026/06/30/nx-s1-5862777/how-to-spend-less-money-restaurants-takeout",
+    "summary": "Personal finance and nutrition experts share simple strategies that make it possible to eat out without spending a fortune. One tip? You might have to let go of your fast food delivery habit.",
+    "pubDate": "Tue, 30 Jun 2026 10:07:25 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Supreme Court upholds bans on transgender athletes participating in women and girls' sports",
+    "link": "https://www.npr.org/2026/06/30/nx-s1-5836513/supreme-court-transgender-athletes",
+    "summary": "Justice Brett Kavanaugh, who has long coached his daughters' and other girls' basketball teams at school, wrote the court's majority opinion.",
+    "pubDate": "Tue, 30 Jun 2026 10:06:48 -0400",
+    "source": "NPR",
+    "category": "general"
   },
   {
     "title": "How Hunter Biden Won the Internet",
@@ -38,6 +374,14 @@
     "pubDate": "Tue, 30 Jun 2026 09:50:18 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Apple Neural Engine: Architecture, Programming, and Performance",
+    "link": "https://arxiv.org/pdf/2606.22283",
+    "summary": "The Apple Neural Engine (ANE) is the fixed-function matrix accelerator that has shipped in Apple systems-on-chip since the A11-class iPhone and iPad chips and the M1-class Mac chips, exposed to applications only through the Core ML model framework. This guide reports a reverse-engineered account ...",
+    "pubDate": "Tue, 30 Jun 2026 09:46:41 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Venezuela Earthquake Destruction Revealed in New Satellite Images",
@@ -64,6 +408,14 @@
     "category": "general"
   },
   {
+    "title": "Slint and the Node.js Event Loop",
+    "link": "https://slint.dev/blog/slint-and-the-nodejs-event-loop",
+    "summary": "Comments",
+    "pubDate": "Tue, 30 Jun 2026 08:45:03 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Why are South Korean fans so angry at their football coach?",
     "link": "https://www.bbc.co.uk/news/videos/c4gyje1p0l9o?at_medium=RSS&at_campaign=rss",
     "summary": "Hong Myung-bo has resigned after South Korea failed to advance to the World Cup knockout stages.",
@@ -78,6 +430,22 @@
     "pubDate": "Tue, 30 Jun 2026 08:24:31 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "May in Servo: user scripts, mp4 compat, blackboxing in DevTools, and more",
+    "link": "https://servo.org/blog/2026/06/30/may-in-servo/",
+    "summary": "Comments",
+    "pubDate": "Tue, 30 Jun 2026 08:16:10 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Soatok’s Informal Guide to Threat Models",
+    "link": "https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/",
+    "summary": "Comments",
+    "pubDate": "Tue, 30 Jun 2026 08:12:27 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Pick Kobbie Mainoo over Elliot Anderson against DR Congo, says Wayne Rooney",
@@ -104,6 +472,14 @@
     "category": "general"
   },
   {
+    "title": "SCOTUS to rule on birthright citizenship. And, U.S. murder rate nears new low",
+    "link": "https://www.npr.org/2026/06/30/g-s1-131004/up-first-newsletter-supreme-court-tps-birthright-citizenship-iran-war-us-murder-rate",
+    "summary": "The Supreme Court is expected to make a long-awaited ruling on birthright citizenship today, on the high court's last day of its term. And, the U.S. murder rate approaches a record low.",
+    "pubDate": "Tue, 30 Jun 2026 07:46:50 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "In pictures: Stunning Strawberry Moon lights up the sky",
     "link": "https://www.bbc.co.uk/news/articles/c20yz4e7wlqo?at_medium=RSS&at_campaign=rss",
     "summary": "Clear night skies over Hampshire and Dorset give stunning shots of the Strawberry Moon.",
@@ -112,12 +488,36 @@
     "category": "general"
   },
   {
+    "title": "Waiting for SQL:202y: Stockholm (BMA) meeting report",
+    "link": "http://peter.eisentraut.org/blog/2026/06/30/waiting-for-sql-202y-stockholm-meeting-report",
+    "summary": "Comments",
+    "pubDate": "Tue, 30 Jun 2026 06:42:32 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "'I never expected to be here' - Williams returns to Wimbledon",
     "link": "https://www.bbc.co.uk/sport/tennis/articles/c0jyv69p821o?at_medium=RSS&at_campaign=rss",
     "summary": "For Serena Williams, everything and nothing has changed on her return to Wimbledon.",
     "pubDate": "Tue, 30 Jun 2026 06:31:46 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Diagrams for Penrose Tiles",
+    "link": "https://readerunner.wordpress.com/2021/09/13/diagrams-for-penrose-tiles/",
+    "summary": "Comments",
+    "pubDate": "Tue, 30 Jun 2026 06:13:06 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Proving the Fundamental Theorem of Arithmetic in Agda",
+    "link": "https://byorgey.github.io/blog/posts/2026/06/26/FTA.lagda.html",
+    "summary": "Comments",
+    "pubDate": "Tue, 30 Jun 2026 06:10:41 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "After Trump's re-election, these U.S. scientists found jobs in the U.K.",
@@ -404,6 +804,14 @@
     "link": "https://deep-reinforce.com/ornith_1_0.html",
     "summary": "Article URL: https://deep-reinforce.com/ornith_1_0.html Comments URL: https://news.ycombinator.com/item?id=48709744 Points: 66 # Comments: 7",
     "pubDate": "Sun, 28 Jun 2026 17:58:04 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Who are the fire-tamers?",
+    "link": "https://aeon.co/essays/who-are-the-fire-taming-healers-of-modern-france",
+    "summary": "Article URL: https://aeon.co/essays/who-are-the-fire-taming-healers-of-modern-france Comments URL: https://news.ycombinator.com/item?id=48709662 Points: 19 # Comments: 11",
+    "pubDate": "Sun, 28 Jun 2026 17:49:50 +0000",
     "source": "Hacker News",
     "category": "tech"
   },
@@ -768,12 +1176,228 @@
     "category": "science"
   },
   {
+    "title": "Quiz: What type of World Cup fan are you?",
+    "link": "https://www.bbc.co.uk/news/articles/cy4ek8pegj1o?at_medium=RSS&at_campaign=rss",
+    "summary": "Take our World Cup quiz and discover your fan personality type.",
+    "pubDate": "Fri, 19 Jun 2026 23:42:44 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The Supreme Court stops Trump&#8217;s attempt to end birthright citizenship",
+    "link": "https://www.theverge.com/news/959487/supreme-court-birthright-citizenship-trump",
+    "summary": "The Supreme Court upheld birthright citizenship, ruling 6-3 against President Donald Trump's effort to end the longstanding constitutional right via executive order. Birthright citizenship dates back to Reconstruction. Under the 14th Amendment, which was ratified in 1868 to guarantee citizenship ...",
+    "pubDate": "2026-06-30T10:44:42-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "iPhone 18 Pro ‘drop test’ leaks get yanked from X",
+    "link": "https://www.theverge.com/tech/959474/iphone-18-pro-leaked-videos-pulled",
+    "summary": "Videos purporting to show the iPhone 18 Pro undergoing a drop test were removed from X shortly after they surfaced, as spotted earlier by MacRumors. An account imitating leaker EvLeaks was suspended from X after sharing the clips, while the post was removed as well, with X saying it \"violated\" th...",
+    "pubDate": "2026-06-30T09:57:41-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Meet the lawyer who beat Elon Musk — twice",
+    "link": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
+    "summary": "Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a toddler have a temper tantrum at his nursery school teacher. Savitt's questions were \"designed to t...",
+    "pubDate": "2026-06-30T08:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "This motor could be the future of e-bikes",
+    "link": "https://www.theverge.com/news/959382/avinox-mg-concept-gobao-mgu-ecvt",
+    "summary": "Imagine an e-bike motor that lets you select your preferred pedaling cadence and then automatically adjusts the gears to keep your legs spinning at that exact speed, no matter how steep the hill gets - all without a fragile derailleur or heavy multi-speed cassette to maintain. Prefer manual contr...",
+    "pubDate": "2026-06-30T06:30:04-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
     "title": "This could be our best look yet at Samsung’s new wide foldable",
     "link": "https://www.theverge.com/tech/959372/samsung-galaxy-z-fold-wide-image-leaks",
     "summary": "Samsung is expected to unveil its next generation of foldables at a Galaxy Unpacked event next month, but now we know what they might look like, courtesy of some leaked images published by Android Headlines. Images shared by the publication include case designs for two new Galaxy Z Fold 8 models ...",
     "pubDate": "2026-06-30T05:54:44-04:00",
     "source": "The Verge",
     "category": "tech"
+  },
+  {
+    "title": "宝塔实业：撤销退市风险警示，股票简称变更为“宝塔实业”",
+    "link": "https://36kr.com/newsflashes/3875671594774533?f=rss",
+    "summary": "36氪获悉，宝塔实业公告，公司股票自2026年7月1日开市起停牌1天，并于7月2日开市起复牌。自7月2日起，公司股票撤销退市风险警示，股票简称由“*ST宝实”变更为“宝塔实业”，证券代码不变，日涨跌幅限制由“5%”变更为“10%”。",
+    "pubDate": "2026-06-30 20:57:01  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "热门中概股美股盘前跌多涨少，小鹏集团涨超1%",
+    "link": "https://36kr.com/newsflashes/3875665843564553?f=rss",
+    "summary": "36氪获悉，热门中概股美股盘前跌多涨少，截至发稿，爱奇艺、小鹏集团涨超1%，百度涨近1%；网易跌超1%，理想汽车、腾讯音乐跌0.59%，B站跌0.53%，拼多多跌0.44%，阿里巴巴跌0.39%。",
+    "pubDate": "2026-06-30 20:51:10  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "美股大型科技股盘前涨跌不一，特斯拉跌超1%",
+    "link": "https://36kr.com/newsflashes/3875663885496320?f=rss",
+    "summary": "36氪获悉，美股大型科技股盘前涨跌不一，截至发稿，特斯拉跌超1%，SpaceX跌近1%，亚马逊跌0.61%，Meta跌0.46%，奈飞跌0.11%；英伟达涨0.73%，微软、谷歌涨0.24%，Arm涨0.08%。",
+    "pubDate": "2026-06-30 20:49:10  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "中微公司：拟参与设立私募投资基金，认缴出资不超14.7亿元",
+    "link": "https://36kr.com/newsflashes/3875656502538247?f=rss",
+    "summary": "36氪获悉，中微公司公告，公司全资子公司中微临港拟作为有限合伙人，与关联方智微资本及其他投资人共同出资设立上海智微凌峰创业投资合伙企业(有限合伙)，基金募资规模暂定30亿元。中微临港拟以自有资金认缴出资不超过14.7亿元，预计占基金规模不超过49%。该基金投资聚焦半导体、泛半导体和战略新兴领域。本次交易构成关联交易，尚需提交股东会审议。",
+    "pubDate": "2026-06-30 20:41:40  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "美国财长贝森特：如果6月就业数据“非常强劲”，他不会感到意外",
+    "link": "https://36kr.com/newsflashes/3875652756500744?f=rss",
+    "summary": "6月30日，美国财政部长斯科特·贝森特表示，如果周四的就业数据“非常强劲”，他不会感到意外。“更重要的是，我认为我们不会看到过去两年出现的那种大幅修正，”贝森特表示。（界面）",
+    "pubDate": "2026-06-30 20:37:51  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "兴齐眼药：控股股东提议8000万元至1亿元回购股份用于注销",
+    "link": "https://36kr.com/newsflashes/3875648803287305?f=rss",
+    "summary": "36氪获悉，兴齐眼药公告，公司控股股东、实际控制人、董事长刘继东提议公司以集中竞价方式回购部分股份，回购资金总额不低于8000万元且不超过1亿元，回购股份将全部用于注销并减少注册资本。回购价格上限不高于董事会审议通过回购方案决议前30个交易日公司股票交易均价的150%，回购期限自股东会审议通过之日起不超过12个月。",
+    "pubDate": "2026-06-30 20:33:50  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "比特币跌破59000美元",
+    "link": "https://36kr.com/newsflashes/3875641041957128?f=rss",
+    "summary": "36氪获悉，比特币跌至58967.8美元，过去24小时内跌2.78%。",
+    "pubDate": "2026-06-30 20:25:56  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "阿维塔向港交所提交上市申请书",
+    "link": "https://36kr.com/newsflashes/3875627726795009?f=rss",
+    "summary": "36氪获悉，阿维塔科技（重庆）股份有限公司向港交所提交上市申请书，联席保荐人为中信证券、中金公司。",
+    "pubDate": "2026-06-30 20:12:23  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "杰创智能：拟向特定对象发行A股股票募资不超19.65亿元，用于智算云服务中心建设项目等",
+    "link": "https://36kr.com/newsflashes/3875626486526214?f=rss",
+    "summary": "36氪获悉，杰创智能公告，公司拟向不超过35名特定投资者发行A股股票，募集资金总额不超过19.65亿元，扣除发行费用后用于智算云服务中心建设项目、AI+安全装备研发及产业化建设项目及补充流动资金。本次发行不会导致公司控制权发生变化。",
+    "pubDate": "2026-06-30 20:11:08  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "氪星晚报｜Kimi估值升至315亿美元，ARR突破3亿美元；优艾智合具身智能系列新品全球首发，3年赋能10000个工业现场；国家航天局：我国将建立近地小行星天地协同监测体系",
+    "link": "https://36kr.com/p/3873626697470985?f=rss",
+    "summary": "大公司： 保时捷中国回应取消多门店销售授权 近日，有媒体报道称，安徽芜湖、山东济宁、江苏淮安及广西南宁部分保时捷中心，将于6月30日终止经销业务，这意味着上述门店将失去保时捷官方独立销售授权，此事引起广泛关注。6月30日，保时捷中国向记者表示，山东济宁、江苏淮安、广西南宁兴宁保时捷中心将于6月30日终止经销业务，安徽芜湖保时捷中心将于7月31日终止销售业务，但售后仍正常运营，为车主提供符合保时捷标准的售后服务。（中新网） 三只松鼠：获得政府补助2140.36万元 36氪获悉，三只松鼠公告，公司全资子公司三只松鼠（芜湖）坚果智造有限公司于2026年6月30日收到与收益相关的政府补助资金21...",
+    "pubDate": "2026-06-30 19:56:34  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "2连板成都路桥：交际河萤石矿建设项目还未开始建设，未正式开采",
+    "link": "https://36kr.com/newsflashes/3875612173168646?f=rss",
+    "summary": "36氪获悉，成都路桥公告，公司全资孙公司四川宇康矿业有限公司于2026年6月30日下午收到四川省应急管理厅下发的关于交际河萤石矿建设项目安全设施设计的审查批复，原则同意该项目安全设施设计通过审查。上述项目还未开始建设，未正式开采。",
+    "pubDate": "2026-06-30 19:56:34  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "京东高和现代化基础设施机构间REITs在上交所上市",
+    "link": "https://36kr.com/newsflashes/3875609732902920?f=rss",
+    "summary": "36氪获悉，据京东黑板报，6月30日，“京东高和现代化基础设施机构间REITs”在上海证券交易所正式挂牌上市。该机构间REITs由京东产发联合高和资本携手设立，渤海汇金证券资管担任计划管理人。总投资规模约42亿元人民币。",
+    "pubDate": "2026-06-30 19:54:05  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "北新路桥：联合体中标19.73亿元铁路项目",
+    "link": "https://36kr.com/newsflashes/3875602203308289?f=rss",
+    "summary": "36氪获悉，北新路桥公告，公司以及新疆兵团市政轨道交通（集团）有限公司组成的联合体，被确定为新建伊宁至阿克苏铁路施工总价承包S2标段中标人。中标金额为19.73亿元，中标金额占公司2025年度经审计营业收入的17.44%。",
+    "pubDate": "2026-06-30 19:46:26  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "诺思兰德：终止筹划发行H股股票，改为向特定对象发行A股股票募集资金",
+    "link": "https://36kr.com/newsflashes/3875599256531208?f=rss",
+    "summary": "36氪获悉，诺思兰德公告，经公司审慎讨论分析后，公司决定终止筹划发行境外上市股份（H股）并于香港联合交易所有限公司上市，并改为向特定对象发行A股股票募集资金，从而推进实施公司的业务战略、提高公司的综合竞争力、优化资本结构。本次终止筹划发行境外上市股份（H股）事项无需提交董事会和股东会审议。",
+    "pubDate": "2026-06-30 19:43:26  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "同有科技：拟定增募资不超10亿元，用于面向AI全场景的企业级存储系统和SSD研发中心建设项目等",
+    "link": "https://36kr.com/newsflashes/3875598020947973?f=rss",
+    "summary": "36氪获悉，同有科技公告，拟向特定对象发行A股股票募集资金不超过10亿元，扣除发行费用后的净额将用于面向AI全场景的企业级存储系统和SSD研发中心建设项目、企业级存储系统和SSD智能制造项目、营销体验中心项目及补充流动资金。",
+    "pubDate": "2026-06-30 19:42:10  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "2连板魅视科技：暂无在半导体、算力等相关领域存在并购的意向、协议等",
+    "link": "https://36kr.com/newsflashes/3875594645991685?f=rss",
+    "summary": "36氪获悉，魅视科技公告，公司注意到近期市场对半导体、AI算力等板块关注度较高，虽然公司在前期与投资者交流时曾提及“目前，公司主要围绕主业积极开展投资并购相关工作，并购方向为半导体、算力等相关领域”，但截至本公告发布日，公司暂无在上述领域存在并购的意向、协议等，未来若有相关进展，公司将严格按照相关法律法规，及时履行信息披露义务。",
+    "pubDate": "2026-06-30 19:38:44  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "四方达：拟募资不超20亿元，用于金刚石钻针产业化项目等",
+    "link": "https://36kr.com/newsflashes/3875588335907075?f=rss",
+    "summary": "36氪获悉，四方达公告，公司拟向不超过35名特定对象发行A股股票，募集资金总额不超过20亿元，扣除发行费用后用于金刚石钻针产业化项目（17.5亿元）及补充流动资金（2.5亿元）。",
+    "pubDate": "2026-06-30 19:32:19  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "光启技术：拟以5000万元至1亿元回购公司股份",
+    "link": "https://36kr.com/newsflashes/3875586461528320?f=rss",
+    "summary": "36氪获悉，光启技术公告，公司拟以自有资金通过集中竞价方式回购公司股份，回购资金总额不低于5000万元且不超过1亿元，回购价格不超过54.88元/股。本次回购的股份将用于维护公司价值及股东权益，实施期限为自董事会审议通过之日起不超过3个月。",
+    "pubDate": "2026-06-30 19:30:25  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "小鹏机器人业务负责人米良川已于近期离职",
+    "link": "https://36kr.com/newsflashes/3875581083562243?f=rss",
+    "summary": "小鹏集团机器人业务负责人米良川已于近期离职。目前，小鹏CEO何小鹏亲自兼任小鹏机器人中心及其产品部负责人。（21财经）",
+    "pubDate": "2026-06-30 19:24:56  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "巴基斯坦拟取消小型电动车关税，以推动新能源汽车普及",
+    "link": "https://36kr.com/newsflashes/3875580652892423?f=rss",
+    "summary": "巴基斯坦工业与生产部秘书赛义夫·安朱姆（Saif Anjum）6月30日透露，巴基斯坦正在讨论一项新提案，计划取消小型电动汽车的关税，以降低其购车门槛，进而引导消费者优先选择电动车型。（界面）",
+    "pubDate": "2026-06-30 19:24:30  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "云路股份：拟使用节余募集资金及超募资金2.4亿元投资建设新项目，部分募投项目延期",
+    "link": "https://36kr.com/newsflashes/3875579175858182?f=rss",
+    "summary": "36氪获悉，云路股份公告，公司拟使用前期节余募集资金9967.90万元及超募资金1.40亿元，合计2.40亿元投资建设“新能源领域用高性能超宽非晶薄带生产线建设项目”，建设期2年，预计2028年8月达到预定可使用状态。同时，公司同意将“新能源领域用高性能软磁粉末建设项目”的预定达到可使用状态时间延长至2027年12月。上述新项目投资事项尚需提交股东会审议。",
+    "pubDate": "2026-06-30 19:23:00  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "科氪 | 小尺寸大满足！全球首款水冷RGB平板发布，185HzOLED屏幕+PC模拟器平板秒变台式主机",
+    "link": "https://36kr.com/p/3875513946206216?f=rss",
+    "summary": "2025年6月30日，继红魔电竞平板 3 Pro 开创OLED 小平板赛道后，红魔再度突破技术边界，正式发布红魔游戏平板 5 Pro。作为行业首款搭载主动水冷散热+RGB 可视化水冷灯效的游戏平板，红魔游戏平板 5 Pro以「水冷散热、透明美学、跨端 3A、全能 AI 生产力」四大核心革新，实现小尺寸机身、PC级散热、极致电竞视效、全场景多设备融合，重新定义游戏平板的性能与体验上限。 官方图片 一、透明水冷美学，9.06黄金尺寸一手掌控 红魔游戏平板5&nbsp;Pro延续家族式的透明美学设计，创新可视化水冷RGB结构，搭配 9.06 英寸黄金小尺寸、4.9mm 极窄四等边、行业独有的纯...",
+    "pubDate": "2026-06-30 18:16:47  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
   },
   {
     "title": "金宏气体：高纯二氧化碳已通过海力士第三轮测试，进入正式供应阶段",
@@ -1136,6 +1760,30 @@
     "category": "tech-cn"
   },
   {
+    "title": "Early television set impresses Nature editors — but will it catch on?",
+    "link": "https://www.nature.com/articles/d41586-026-01813-0",
+    "summary": "Nature, Published online: 30 June 2026; doi:10.1038/d41586-026-01813-0 Nature reports a demonstration of a ‘televisor’, and the British Government makes a generous endowment, in our weekly dip into the magazine’s archive.",
+    "pubDate": "2026-06-30",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Can Rwanda sustain its rise in science and technology? Here’s what can help",
+    "link": "https://www.nature.com/articles/d41586-026-01980-0",
+    "summary": "Nature, Published online: 30 June 2026; doi:10.1038/d41586-026-01980-0 An ambitious analysis challenges the view that a nation’s pursuit of economic growth alone can deliver long-term prosperity.",
+    "pubDate": "2026-06-30",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Coffee is under threat: how scientists are fighting to save it from extinction",
+    "link": "https://www.nature.com/articles/d41586-026-01965-z",
+    "summary": "Nature, Published online: 30 June 2026; doi:10.1038/d41586-026-01965-z Coffee plants are critically endangered by climate change. Researchers are finding solutions to keep scientists supplied with their favourite discovery fuel.",
+    "pubDate": "2026-06-30",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
     "title": "Child online safety needs more than social-media bans",
     "link": "https://www.nature.com/articles/d41586-026-02068-5",
     "summary": "Nature, Published online: 30 June 2026; doi:10.1038/d41586-026-02068-5 Child online safety needs more than social-media bans",
@@ -1182,5 +1830,13 @@
     "pubDate": "2026-06-29T17:00:00-04:00",
     "source": "The Verge",
     "category": "tech"
+  },
+  {
+    "title": "Daily briefing: Editing the epigenome with CRISPR to treat disease",
+    "link": "https://www.nature.com/articles/d41586-026-02075-6",
+    "summary": "Nature, Published online: 29 June 2026; doi:10.1038/d41586-026-02075-6 CRISPR’s next act, the new ‘world’s fastest computer’ and how to triumph in the metaphorical penalty shootout of life.",
+    "pubDate": "2026-06-29",
+    "source": "Nature",
+    "category": "science"
   }
 ]

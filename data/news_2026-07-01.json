@@ -1,11 +1,387 @@
 [
   {
+    "title": "Halifax brand to be scrapped after 173 years",
+    "link": "https://www.bbc.co.uk/news/articles/c24ydy4q0nzo?at_medium=RSS&at_campaign=rss",
+    "summary": "Lloyds says it remains committed to the town of Halifax and very little will change for customers.",
+    "pubDate": "Wed, 01 Jul 2026 20:09:05 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "NASA chief praises progress Blue Origin is making after launch failure",
+    "link": "https://arstechnica.com/space/2026/07/nasa-chief-praises-progress-blue-origin-is-making-after-launch-failure/",
+    "summary": "\"We've got time into 2027 before we're getting nervous.\"",
+    "pubDate": "Wed, 01 Jul 2026 19:57:36 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Fable 5 Is Back",
+    "link": "https://twitter.com/claudeai/status/2072402636813607381",
+    "summary": "Article URL: https://twitter.com/claudeai/status/2072402636813607381 Comments URL: https://news.ycombinator.com/item?id=48752030 Points: 128 # Comments: 80",
+    "pubDate": "Wed, 01 Jul 2026 19:35:57 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Claude Fable 5 Promotional Access",
+    "link": "https://support.claude.com/en/articles/15424964-claude-fable-5-promotional-access",
+    "summary": "Article URL: https://support.claude.com/en/articles/15424964-claude-fable-5-promotional-access Comments URL: https://news.ycombinator.com/item?id=48751978 Points: 44 # Comments: 12",
+    "pubDate": "Wed, 01 Jul 2026 19:31:46 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "An Explosion Knocked Out Anduril’s Rocket Motor Test Site in Mississippi",
+    "link": "https://www.wired.com/story/anduril-mississippi-explosion-missiles-rocket-motor/",
+    "summary": "The incident could disrupt a key part of the defense company’s rocket motor business, which designs and tests prototype motors for military customers.",
+    "pubDate": "Wed, 01 Jul 2026 19:29:21 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Spurs agree deal worth up to £100m for Newcastle's Tonali",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cx2xjlevpjpo?at_medium=RSS&at_campaign=rss",
+    "summary": "Tottenham Hotspur agree a deal worth up to £100m with Newcastle United for midfielder Sandro Tonali.",
+    "pubDate": "Wed, 01 Jul 2026 19:29:02 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Show HN: Z-Jail – A 130 KB Linux sandbox-C99 with 7 defense layers and zero deps",
+    "link": "https://github.com/Division-36/Z-Jail/",
+    "summary": "Article URL: https://github.com/Division-36/Z-Jail/ Comments URL: https://news.ycombinator.com/item?id=48751824 Points: 9 # Comments: 4",
+    "pubDate": "Wed, 01 Jul 2026 19:18:11 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Apple’s Hide My Email feature has a bug that’s been exposing real email addresses, researcher claims",
+    "link": "https://techcrunch.com/2026/07/01/apples-hide-my-email-feature-has-a-bug-thats-been-exposing-real-email-addresses-researcher-claims/",
+    "summary": "Research appears to reveal a bug that could render the feature effectively useless.",
+    "pubDate": "Wed, 01 Jul 2026 19:18:07 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "ZCode: Claude Code from the Makers of GLM",
+    "link": "https://zcode.z.ai/cn",
+    "summary": "Article URL: https://zcode.z.ai/cn Comments URL: https://news.ycombinator.com/item?id=48751752 Points: 136 # Comments: 41",
+    "pubDate": "Wed, 01 Jul 2026 19:11:38 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "US home battery installations hit record high on rising electricity costs",
+    "link": "https://arstechnica.com/science/2026/07/us-home-battery-installations-hit-record-high-in-early-2026/",
+    "summary": "Record home battery installations unlock options for grids—and AI data centers.",
+    "pubDate": "Wed, 01 Jul 2026 19:11:15 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Superworms could replace beetles for cleaning skeletal remains",
+    "link": "https://arstechnica.com/science/2026/07/museums-could-use-ravenous-superworms-to-clean-skeletons/",
+    "summary": "An optimal ratio of 10-15 grams of larvae per gram of specimen minimized cleaning time with no bone damage.",
+    "pubDate": "Wed, 01 Jul 2026 18:59:21 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+    "link": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+    "summary": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
+    "pubDate": "Wed, 01 Jul 2026 18:54:18 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Greek politician's mother dies of wounds after arson attack",
+    "link": "https://www.bbc.co.uk/news/articles/c3eywl0eq29o?at_medium=RSS&at_campaign=rss",
+    "summary": "Three separate attacks involving petrol bombs and other improvised devices took place in Thessaloniki in the early hours of Wednesday.",
+    "pubDate": "Wed, 01 Jul 2026 18:52:22 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Watch: Fans react to tense World Cup game",
+    "link": "https://www.bbc.co.uk/news/videos/cy4ewx4832jo?at_medium=RSS&at_campaign=rss",
+    "summary": "England Captain Harry Kane rescued England from a major upset, with two late goals, after DR Congo took an early lead.",
+    "pubDate": "Wed, 01 Jul 2026 18:49:33 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+    "link": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+    "summary": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure and energy that power them.",
+    "pubDate": "Wed, 01 Jul 2026 18:47:22 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Sony announces end of PlayStation discs, parts of digital store in the same day",
+    "link": "https://arstechnica.com/gaming/2026/07/sony-will-stop-making-physical-copies-of-playstation-games-in-2028/",
+    "summary": "“We will own nothing, it's truly sad.”",
+    "pubDate": "Wed, 01 Jul 2026 18:41:49 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Watch full highlights as England come from behind to beat DR Congo",
+    "link": "https://www.bbc.co.uk/sport/football/videos/cx2j83vg72go?at_medium=RSS&at_campaign=rss",
+    "summary": "Harry Kane scores twice as England come from behind to beat DR Congo in a tense World Cup encounter in Atlanta, and set up a last-16 meeting with Mexico.",
+    "pubDate": "Wed, 01 Jul 2026 18:31:15 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Neocloud Together AI raises $800M, leaps to $8.3B valuation",
+    "link": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/",
+    "summary": "The AI neocloud provider, which specializes in hosting open source models, last raised at a $3.3 billion valuation in early 2025.",
+    "pubDate": "Wed, 01 Jul 2026 18:29:14 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "A good little EV you won't be able to buy soon: The Volvo EX30 Cross Country",
+    "link": "https://arstechnica.com/cars/2026/07/the-volvo-ex30-cross-country-review-a-victim-of-geopolitics/",
+    "summary": "Tariffs and anti-China policies killed this little Volvo in the United States.",
+    "pubDate": "Wed, 01 Jul 2026 18:24:04 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Lime begins life as a public company after years of uncertainty",
+    "link": "https://techcrunch.com/2026/07/01/lime-begins-life-as-a-public-company-after-years-of-uncertainty/",
+    "summary": "The nine-year-old scooter and bike-share company has said it needs the funds to help pay down around $1 billion in liabilities.",
+    "pubDate": "Wed, 01 Jul 2026 18:24:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Ukrainian charged in Germany over Nord Stream blasts",
+    "link": "https://www.bbc.co.uk/news/articles/c33yjk0ldkdo?at_medium=RSS&at_campaign=rss",
+    "summary": "Ukraine denies involvement in the case which may have serious implications for its relationship with Germany.",
+    "pubDate": "Wed, 01 Jul 2026 18:19:32 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "'That was a rocket' - Kane scores winner for England",
+    "link": "https://www.bbc.co.uk/sport/football/videos/cz9lq8n04k0o?at_medium=RSS&at_campaign=rss",
+    "summary": "A \"rocket\" of a strike from Harry Kane gives England a late lead against DR Congo in Atlanta.",
+    "pubDate": "Wed, 01 Jul 2026 18:10:03 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "You Can Now Sound the Alarm on AI Behaving Badly",
+    "link": "https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/",
+    "summary": "Are you worried your AI chatbot is trying to build a bomb or leak personal information about you? There’s a website for that.",
+    "pubDate": "Wed, 01 Jul 2026 18:10:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Lions sneak through - but who had a nightmare start? Player ratings",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ckg5x35zx04o?at_medium=RSS&at_campaign=rss",
+    "summary": "BBC Sport England reporter Alex Howell rates the players after the World Cup comeback win over DR Congo - plus have your say.",
+    "pubDate": "Wed, 01 Jul 2026 18:00:16 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "What to Learn to Be a Graphics Programmer",
+    "link": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
+    "summary": "Article URL: https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/ Comments URL: https://news.ycombinator.com/item?id=48750710 Points: 115 # Comments: 45",
+    "pubDate": "Wed, 01 Jul 2026 17:53:44 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
+    "link": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+    "summary": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites.",
+    "pubDate": "Wed, 01 Jul 2026 17:48:37 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Maddy Cusack 'struggled with girlfriend move'",
+    "link": "https://www.bbc.co.uk/news/articles/cze90zzxl2eo?at_medium=RSS&at_campaign=rss",
+    "summary": "Her former club captain says the player's girlfriend moving clubs affected her mental health.",
+    "pubDate": "Wed, 01 Jul 2026 17:46:17 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Building Gin: Simple over Easy",
+    "link": "https://manualmeida.dev/articles/gin-simple-over-easy/",
+    "summary": "Article URL: https://manualmeida.dev/articles/gin-simple-over-easy/ Comments URL: https://news.ycombinator.com/item?id=48750593 Points: 49 # Comments: 14",
+    "pubDate": "Wed, 01 Jul 2026 17:45:17 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Sony’s PlayStation Puts a Nail in Physical Media’s Coffin",
+    "link": "https://www.wired.com/story/sony-playstation-puts-a-nail-in-physical-medias-coffin/",
+    "summary": "Is PlayStation about to make the same mistake Microsoft made with Xbox One?",
+    "pubDate": "Wed, 01 Jul 2026 17:38:12 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
     "title": "声擎×少数派｜「角落新声」征文活动",
     "link": "https://sspai.com/post/111709",
     "summary": "那个让你放松娱乐、拥抱汩汩心流、逃离尘世纷扰、找回本真自我的理想一隅，是如何被你切片、重排并注入新生的？ 查看全文",
     "pubDate": "Wed, 01 Jul 2026 17:30:00 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "Mortality associated with non-optimal ambient temperatures from 2000 to 2019",
+    "link": "https://www.researchgate.net/publication/353058947_Global_regional_and_national_burden_of_mortality_associated_with_non-optimal_ambient_temperatures_from_2000_to_2019_a_three-stage_modelling_study",
+    "summary": "Article URL: https://www.researchgate.net/publication/353058947_Global_regional_and_national_burden_of_mortality_associated_with_non-optimal_ambient_temperatures_from_2000_to_2019_a_three-stage_modelling_study Comments URL: https://news.ycombinator.com/item?id=48750373 Points: 20 # Comments: 0",
+    "pubDate": "Wed, 01 Jul 2026 17:29:11 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Bibles, Home Alone and perfume: Six surprising ways Trump made money in 2025",
+    "link": "https://www.bbc.co.uk/news/articles/cy9rg133lrjo?at_medium=RSS&at_campaign=rss",
+    "summary": "Official documents show the US president made billions of dollars as he returned to the White House.",
+    "pubDate": "Wed, 01 Jul 2026 17:22:25 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Even Honda is pivoting to data centers",
+    "link": "https://techcrunch.com/2026/07/01/even-honda-is-pivoting-to-data-centers/",
+    "summary": "Honda wants in on the lucrative energy storage market. This week it began producing batteries destined for data centers, not driveways.",
+    "pubDate": "Wed, 01 Jul 2026 17:13:45 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Watch: Two people climb to highest point of Empire State Building",
+    "link": "https://www.bbc.co.uk/news/videos/cz75gz79pl2o?at_medium=RSS&at_campaign=rss",
+    "summary": "The two were atop the 1,454 ft (443 m) building for at least ten minutes and displayed a large banner before climbing down.",
+    "pubDate": "Wed, 01 Jul 2026 17:08:56 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "A complete ClickHouse OLAP engine, compiled to WebAssembly",
+    "link": "https://wasm.chdb.io/",
+    "summary": "Article URL: https://wasm.chdb.io/ Comments URL: https://news.ycombinator.com/item?id=48750000 Points: 27 # Comments: 3",
+    "pubDate": "Wed, 01 Jul 2026 17:05:00 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Ithaca's king defies the gods in final The Odyssey trailer",
+    "link": "https://arstechnica.com/culture/2026/07/ithacas-king-defies-the-gods-in-final-the-odyssey-trailer/",
+    "summary": "\"You gods don't speak in ways we understand.\"",
+    "pubDate": "Wed, 01 Jul 2026 16:58:30 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Burnham calls for grooming gang ringleader to be deported",
+    "link": "https://www.bbc.co.uk/news/articles/c0jy53n8q1do?at_medium=RSS&at_campaign=rss",
+    "summary": "The Labour leadership hopeful says he will \"ask the home and foreign secretaries to review all possible options\".",
+    "pubDate": "Wed, 01 Jul 2026 16:56:41 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Autonomous vehicle hype is back, and Humble Robotics is bringing it to freight",
+    "link": "https://techcrunch.com/video/autonomous-vehicle-hype-is-back-and-humble-robotics-is-bringing-it-to-freights/",
+    "summary": "The autonomous vehicle space is starting to feel like a repeat of the 2016 hype cycle. Travis Kalanick is back building a robotics company, and the talent wars and capital are heating up the same way they did the first time around. The money&#8217;s flowing back, and it&#8217;s the people who liv...",
+    "pubDate": "Wed, 01 Jul 2026 16:48:58 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "After spooking Trump into safety testing, Anthropic AI models get global release",
+    "link": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
+    "summary": "US lifts curbs on Anthropic’s advanced Fable and Mythos models.",
+    "pubDate": "Wed, 01 Jul 2026 16:44:18 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Penalty Shootouts: Is the Team That Kicks First More Likely to Win?",
+    "link": "https://www.wired.com/story/penalty-shootouts-is-the-team-that-kicks-first-more-likely-to-win/",
+    "summary": "Penalty kicks are already proving critical to big wins at this year’s World Cup. But the advantage in penalty kicks has more to do with psychological effects than who kicks first.",
+    "pubDate": "Wed, 01 Jul 2026 16:28:25 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Reduce GVisor Cold Starts with GPU Snapshotting",
+    "link": "https://cerebrium.ai/blog/reducing-gpu-cold-starts-with-memory-snapshots-restoring-cuda-workloads-in-second",
+    "summary": "Article URL: https://cerebrium.ai/blog/reducing-gpu-cold-starts-with-memory-snapshots-restoring-cuda-workloads-in-second Comments URL: https://news.ycombinator.com/item?id=48749313 Points: 40 # Comments: 15",
+    "pubDate": "Wed, 01 Jul 2026 16:19:47 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "NASA inspector general suggests Boeing's Starliner will now be a decade late",
+    "link": "https://arstechnica.com/space/2026/07/nasa-inspector-general-suggests-boeings-starliner-will-now-be-a-decade-late/",
+    "summary": "Starliner's certification may be delayed to 2027, 10 years later than Boeing's original schedule.",
+    "pubDate": "Wed, 01 Jul 2026 16:11:39 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Nearly half of kidney transplant patients never even get started",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260623014006.htm",
+    "summary": "A massive national study found that nearly half of Americans with kidney failure who are referred for a transplant never even begin the evaluation process, and only 19% make it onto the transplant waitlist. Researchers discovered that factors such as where a person lives, whether they are married...",
+    "pubDate": "Wed, 01 Jul 2026 16:10:45 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Controversial bishops ordained as Pope warns of 'schism' in Catholic Church",
+    "link": "https://www.bbc.co.uk/news/articles/c74y7k8wyz8o?at_medium=RSS&at_campaign=rss",
+    "summary": "Thousands of worshippers attended a ceremony in the Swiss Alps as part of the breakaway Society of Saint Pius X.",
+    "pubDate": "Wed, 01 Jul 2026 16:10:38 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Anthropic Added a New Security Measure to Get Back Into the Trump Administration’s Good Graces",
+    "link": "https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/",
+    "summary": "The government has removed restrictions on Anthropic’s Fable 5 and Mythos 5 AI models—but there were strings attached.",
+    "pubDate": "Wed, 01 Jul 2026 16:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "'Time for him to pay' - Carroll calls on Trump to pay $5m after president's appeal fails",
+    "link": "https://www.bbc.co.uk/news/articles/cn4r8n3ek80o?at_medium=RSS&at_campaign=rss",
+    "summary": "The writer's lawyers say Trump wants to delay paying the damages awarded by a jury that found the president liable for sexually abusing and defaming her.",
+    "pubDate": "Wed, 01 Jul 2026 15:48:02 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "How We Made IPFS Content Publishing 10x Faster",
+    "link": "https://probelab.io/blog/optimistic-provide/",
+    "summary": "Article URL: https://probelab.io/blog/optimistic-provide/ Comments URL: https://news.ycombinator.com/item?id=48748518 Points: 111 # Comments: 30",
+    "pubDate": "Wed, 01 Jul 2026 15:30:35 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "A space history mystery: What happened to the Viking arm used 50 years ago?",
+    "link": "https://arstechnica.com/space/2026/07/50-years-on-will-the-mars-lander-arm-that-opened-the-air-and-space-raise-its-hand/",
+    "summary": "A timely tale about a 50-year-old robotic arm...",
+    "pubDate": "Wed, 01 Jul 2026 15:20:34 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
   },
   {
     "title": "Concern over rise in online racist abuse at World Cup",
@@ -22,6 +398,14 @@
     "pubDate": "Wed, 01 Jul 2026 15:13:20 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "A surprising brain discovery is forcing scientists to rethink movement disorders",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260623014004.htm",
+    "summary": "A surprising discovery is overturning a long-held assumption about how the brain’s movement center works. Researchers found that two key cerebellar cell types—thought to be tightly linked—often don’t behave in predictable ways, even though one directly influences the other. The finding suggests s...",
+    "pubDate": "Wed, 01 Jul 2026 15:10:06 EDT",
+    "source": "Science Daily",
+    "category": "science"
   },
   {
     "title": "[送码] 白描 App 的 9 周年：推出鸿蒙版，白描 PDF 共创首发",
@@ -88,6 +472,14 @@
     "category": "tech"
   },
   {
+    "title": "Watch: Man comes face-to-face with bear inside truck",
+    "link": "https://www.bbc.co.uk/news/videos/cewqzryz12zo?at_medium=RSS&at_campaign=rss",
+    "summary": "Security camera footage from the Colorado property shows a man using several methods to coax a black bear out of a vehicle.",
+    "pubDate": "Wed, 01 Jul 2026 14:16:56 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "Sony to end physical PlayStation game disc production in 2028",
     "link": "https://techcrunch.com/2026/07/01/sony-to-end-physical-playstation-game-discs-in-2028/",
     "summary": "Sony will stop producing physical discs for all new PlayStation games beginning in 2028, as the company embraces an all-digital future.",
@@ -102,6 +494,14 @@
     "pubDate": "Wed, 01 Jul 2026 14:10:32 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "FFmpeg 9.1's new AAC encoder",
+    "link": "https://hydrogenaudio.org/index.php/topic,129691.0.html",
+    "summary": "Article URL: https://hydrogenaudio.org/index.php/topic,129691.0.html Comments URL: https://news.ycombinator.com/item?id=48747116 Points: 159 # Comments: 61",
+    "pubDate": "Wed, 01 Jul 2026 14:10:28 +0000",
+    "source": "Hacker News",
+    "category": "tech"
   },
   {
     "title": "This Cell Feeds, Grows and Reproduces. and It's Manmade",
@@ -142,6 +542,14 @@
     "pubDate": "Wed, 01 Jul 2026 13:54:25 +0000",
     "source": "Hacker News",
     "category": "tech"
+  },
+  {
+    "title": "Untold casualties and humanitarian needs: What to know a week from Venezuela's quakes",
+    "link": "https://www.npr.org/2026/07/01/nx-s1-5877369/venezuela-earthquakes-updates",
+    "summary": "Here's a look at some of the major developments since major back-to-back earthquakes rocked Venezuela on June 24, devastating parts of a country already reeling from crisis after crisis.",
+    "pubDate": "Wed, 01 Jul 2026 13:54:10 -0400",
+    "source": "NPR",
+    "category": "general"
   },
   {
     "title": "Judge 'wrong' to spare boy rapists from custody, court told",
@@ -208,6 +616,22 @@
     "category": "tech"
   },
   {
+    "title": "Lone star ticks are covering much of the U.S. Here's what you need to know",
+    "link": "https://www.npr.org/2026/07/01/nx-s1-5877341/lone-star-ticks-are-covering-much-of-the-u-s-heres-what-you-need-to-know",
+    "summary": "It's a tick that hunts you down and transmits a potentially dangerous allergy to red meat. The New Yorker writer Burkhard Bilger discusses the lone star tick and the risks of alpha-gal syndrome.",
+    "pubDate": "Wed, 01 Jul 2026 13:20:16 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Internal Combustion Engine",
+    "link": "https://ciechanow.ski/internal-combustion-engine/",
+    "summary": "Article URL: https://ciechanow.ski/internal-combustion-engine/ Comments URL: https://news.ycombinator.com/item?id=48746076 Points: 207 # Comments: 44",
+    "pubDate": "Wed, 01 Jul 2026 13:04:16 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "Motorola Phones Now Have a Built-In Travel eSIM for Mobile Data Outside the US",
     "link": "https://www.wired.com/story/exclusive-motorola-phones-now-get-a-built-in-travel-esim/",
     "summary": "Available in select markets thanks to a partnership with Gigs, Motorola phone owners have one less hurdle to clear when signing up for a data-only eSIM before traveling abroad.",
@@ -230,6 +654,14 @@
     "pubDate": "Wed, 01 Jul 2026 12:41:57 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Open Source as Infrastructure: Taking Roads and Bridges literally",
+    "link": "https://nesbitt.io/2026/06/30/taking-roads-and-bridges-literally.html",
+    "summary": "Comments",
+    "pubDate": "Wed, 01 Jul 2026 12:29:00 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Announcing Box3D :: Box2D",
@@ -302,6 +734,14 @@
     "pubDate": "Wed, 01 Jul 2026 11:06:18 -0400",
     "source": "NPR",
     "category": "general"
+  },
+  {
+    "title": "Pidgin 3.0 Alpha 2 (2.96.0) has been released",
+    "link": "https://discourse.imfreedom.org/t/pidgin-3-0-alpha-2-2-96-0-has-been-released/398",
+    "summary": "Comments",
+    "pubDate": "Wed, 01 Jul 2026 11:04:07 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Lectric XPress2 Review (2026): A Heavy-Duty but Nimble Ebike",
@@ -413,6 +853,14 @@
     "summary": "Article URL: https://www.omgubuntu.co.uk/2026/06/pine64-pinevoice-riscv-smart-speaker-launch Comments URL: https://news.ycombinator.com/item?id=48744446 Points: 14 # Comments: 1",
     "pubDate": "Wed, 01 Jul 2026 09:57:07 +0000",
     "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "US Supreme Court just blew up EU-US Data Transfers",
+    "link": "https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers",
+    "summary": "Comments",
+    "pubDate": "Wed, 01 Jul 2026 09:55:34 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -800,6 +1248,14 @@
     "category": "general"
   },
   {
+    "title": "Modern neuroscience is rediscovering an idea Freud had 130 years ago",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260625014811.htm",
+    "summary": "What if Sigmund Freud was onto something that modern neuroscience is only now beginning to explain? A new paper argues that today's leading theory of the brain—as a prediction machine constantly anticipating the world—closely mirrors ideas psychoanalysis has explored for more than a century.",
+    "pubDate": "Wed, 01 Jul 2026 03:24:56 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "The “Father of the Internet” is finally retiring",
     "link": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
     "summary": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.",
@@ -894,6 +1350,14 @@
     "pubDate": "Wed, 01 Jul 2026 01:23:09 +0000",
     "source": "Hacker News",
     "category": "tech"
+  },
+  {
+    "title": "Scientists discover a surprising link between vitamin C and brain health",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260626030428.htm",
+    "summary": "Could something as simple as vitamin C help support a healthier aging brain? In a study of more than 2,000 older adults in Japan, researchers found that people with lower vitamin C levels in their blood also tended to have less gray matter and weaker connections in a key brain network involved in...",
+    "pubDate": "Wed, 01 Jul 2026 01:22:38 EDT",
+    "source": "Science Daily",
+    "category": "science"
   },
   {
     "title": "United, free and brilliant - can anyone stop France masterclass?",
@@ -1038,6 +1502,14 @@
     "pubDate": "Tue, 30 Jun 2026 23:00:00 +0000",
     "source": "TechCrunch",
     "category": "tech"
+  },
+  {
+    "title": "Melanoma's secret to cheating death has finally been revealed",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260625014833.htm",
+    "summary": "Scientists have solved a long-standing mystery by discovering the missing genetic ingredient that helps melanoma cells become effectively immortal. The breakthrough could open the door to new treatments aimed at disrupting one of cancer's most important survival strategies.",
+    "pubDate": "Tue, 30 Jun 2026 22:45:39 EDT",
+    "source": "Science Daily",
+    "category": "science"
   },
   {
     "title": "Hatari – Online Atari ST/STE/TT/Falcon Emulator",
@@ -1304,6 +1776,14 @@
     "category": "general"
   },
   {
+    "title": "Scientists discover a completely different way to fight viruses",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260630020534.htm",
+    "summary": "Researchers have uncovered an unexpected antiviral defense system in sea anemones that works very differently from the one humans use. The discovery suggests evolution developed multiple ways to combat viruses, challenging long-held ideas about how animal immune systems evolved.",
+    "pubDate": "Tue, 30 Jun 2026 16:18:00 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "Have you restarted your computer this week?",
     "link": "https://taonaw.com/2026/06/27/have-you-restarted-your-computer.html",
     "summary": "Article URL: https://taonaw.com/2026/06/27/have-you-restarted-your-computer.html Comments URL: https://news.ycombinator.com/item?id=48733043 Points: 137 # Comments: 241",
@@ -1325,6 +1805,46 @@
     "summary": "https://www.nikhef.nl/en/news/final-run-for-the-current-lhc-... Comments URL: https://news.ycombinator.com/item?id=48723484 Points: 168 # Comments: 38",
     "pubDate": "Mon, 29 Jun 2026 18:52:25 +0000",
     "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Elon Musk denies a report about SpaceX&#8217;s AI phone prototype",
+    "link": "https://www.theverge.com/science/960442/spacex-phone-prototype-elon-musk",
+    "summary": "Elon Musk says a report about a SpaceX AI phone prototype is \"utterly false.\" The report, published on Wednesday by The Wall Street Journal, says SpaceX showed off a \"handset-like prototype\" to some investors before launching its record-breaking initial public offering in June. The device was \"sl...",
+    "pubDate": "2026-07-01T16:10:21-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Krafton settles with Subnautica 2 developer after drawn-out dispute over $250 million",
+    "link": "https://www.theverge.com/games/960354/krafton-subnautica-2-settlement-bonuses-unknown-worlds",
+    "summary": "After a lengthy legal dispute, Krafton has settled with its subsidiary Unknown Worlds Entertainment, which is developing Subnautica 2, and will pay bonuses to the studio's staff, Bloomberg reports. The dispute began last year after Krafton pushed out Unknown Worlds' cofounders, Charlie Cleveland ...",
+    "pubDate": "2026-07-01T13:45:23-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Xbox testing disc-to-digital feature that digitizes a physical game collection",
+    "link": "https://www.theverge.com/report/960173/microsoft-xbox-disc-to-digital-feature-physical-game-collection",
+    "summary": "Microsoft will likely soon follow Sony and stop the production of physical discs for Xbox games. But instead of leaving physical discs behind entirely, sources familiar with Microsoft's plans tell me the company has quietly been working on a disc-to-digital feature that will allow Xbox owners to ...",
+    "pubDate": "2026-07-01T13:41:23-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "My favorite Kindle alternative is $30 off after a recent price increase",
+    "link": "https://www.theverge.com/gadgets/960282/kobo-libra-colour-july-fourth-sale-deal-sale",
+    "summary": "Kobo recently raised the price of its Libra Colour e-reader to $259.99, but today&#8217;s deal effectively erases that hike. The company, Best Buy, and Target, are all selling it for its old $229.99 price as part of broader sales, making now one of the best times to grab my favorite alternative t...",
+    "pubDate": "2026-07-01T12:28:40-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Comcast’s split could make or break Peacock",
+    "link": "https://www.theverge.com/streaming/960235/comcast-breakup-peacock-streaming",
+    "summary": "NBCUniversal executives are about to find out whether Peacock will sink or swim in the streaming industry. Now that Comcast is planning to split NBCUniversal, Peacock, and Sky from its broadband and wireless businesses, Peacock will be forced to stand on its own - without the backing of a combine...",
+    "pubDate": "2026-07-01T11:30:00-04:00",
+    "source": "The Verge",
     "category": "tech"
   },
   {
@@ -2038,6 +2558,14 @@
     "pubDate": "2026-07-01 07:55:18  +0800",
     "source": "36Kr",
     "category": "tech-cn"
+  },
+  {
+    "title": "TROP2 targeting reveals therapy-driven cell state dynamics in colorectal cancer",
+    "link": "https://www.nature.com/articles/s41586-026-10705-2",
+    "summary": "Nature, Published online: 01 July 2026; doi:10.1038/s41586-026-10705-2 TROP2 marks poor-prognosis colorectal cancer cells with fetal-like, therapy-resistant states, and therapeutic targeting of TROP2 with antibody–drug conjugates in combination with chemotherapy enhances treatment efficacy by mod...",
+    "pubDate": "2026-07-01",
+    "source": "Nature",
+    "category": "science"
   },
   {
     "title": "Togetherness: How co-operation built the world",

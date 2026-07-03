@@ -72,6 +72,14 @@
     "category": "tech"
   },
   {
+    "title": "What will guests wear to Taylor Swift's  wedding of the century?",
+    "link": "https://www.bbc.co.uk/news/articles/c75ykv0k1pzo?at_medium=RSS&at_campaign=rss",
+    "summary": "Romantic, fairytale vibes could dominate Taylor Swift and Travis Kelce's reported wedding event in New York City on Friday.",
+    "pubDate": "Thu, 02 Jul 2026 23:24:15 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns",
     "link": "https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&at_campaign=rss",
     "summary": "The BBC visits Bandar Abbas to see how the US-Israeli war with Iran has affected everyday life in the port city.",
@@ -92,6 +100,14 @@
     "link": "https://www.bbc.co.uk/news/articles/cj6g0rdy40jo?at_medium=RSS&at_campaign=rss",
     "summary": "The \"marathon a month\" scheme, developed with former Olympic medallist Sir Brendan Foster, will launch early next year.",
     "pubDate": "Thu, 02 Jul 2026 23:13:44 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "AI is 'not smart' so what's next in artificial intelligence?",
+    "link": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
+    "summary": "Leading AI researcher Yan LeCun has a start-up which is developing a more flexible AI system.",
+    "pubDate": "Thu, 02 Jul 2026 23:02:09 GMT",
     "source": "BBC News",
     "category": "general"
   },
@@ -172,6 +188,14 @@
     "link": "https://blog.kimiblock.top/2026/07/01/arbitrary-code-execution-in-kde-plasma/",
     "summary": "Comments",
     "pubDate": "Thu, 02 Jul 2026 21:39:28 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug/",
+    "summary": "Comments",
+    "pubDate": "Thu, 02 Jul 2026 21:05:33 -0500",
     "source": "Lobsters",
     "category": "tech"
   },
@@ -312,6 +336,14 @@
     "category": "general"
   },
   {
+    "title": "King Charles takes part in historic Borders hand ba' game",
+    "link": "https://www.bbc.co.uk/news/articles/cvg538kp54jo?at_medium=RSS&at_campaign=rss",
+    "summary": "The King gets proceedings under way in the Jedburgh sporting battle which dates back centuries.",
+    "pubDate": "Thu, 02 Jul 2026 16:22:57 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "Christian missionaries have found a new (virtual) mission territory",
     "link": "https://www.npr.org/2026/07/02/g-s1-131124/christian-missionaries-have-found-a-new-virtual-mission-territory",
     "summary": "The room may be virtual, but the prayer — and the evangelism — are not.",
@@ -368,6 +400,14 @@
     "category": "tech"
   },
   {
+    "title": "Circular Obstacle Pathfinding",
+    "link": "https://redblobgames.github.io/circular-obstacle-pathfinding/",
+    "summary": "Comments",
+    "pubDate": "Thu, 02 Jul 2026 15:05:50 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "FoundationDB's Flow – Bringing Actor-Based Concurrency to C++11",
     "link": "https://apple.github.io/foundationdb/flow.html",
     "summary": "Article URL: https://apple.github.io/foundationdb/flow.html Comments URL: https://news.ycombinator.com/item?id=48762372 Points: 46 # Comments: 6",
@@ -400,12 +440,44 @@
     "category": "science"
   },
   {
+    "title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+    "link": "https://sspai.com/post/111405",
+    "summary": "敬「少许的牺牲是必要的」。 查看全文",
+    "pubDate": "Fri, 03 Jul 2026 15:00:00 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
     "title": "这四个工作习惯，或许也能帮你找到掌控感",
     "link": "https://sspai.com/post/111708",
     "summary": "无论你追求的是更高的职位、更自由的时间、还是某种更纯粹的成就感，有一件事大概是共通的：那就是尽量让自己的人生，少一点完全依赖运气的成分，多一点可被掌控、可被验证的路径。 查看全文",
     "pubDate": "Fri, 03 Jul 2026 11:00:00 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "When the Law Kills Your Electric Car Dealership",
+    "link": "https://www.wired.com/story/when-the-law-kills-your-polestar-electric-car-dealership/",
+    "summary": "Dealers who invested in Polestar won’t be able to sell in the US next year after the federal government denied an authorization that would have allowed the company to avoid a Chinese tech ban.",
+    "pubDate": "Fri, 03 Jul 2026 09:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "The 11 Best TV Shows to Stream This Month (July 2026)",
+    "link": "https://www.wired.com/story/the-11-best-shows-to-stream-right-now/",
+    "summary": "House of the Dragon, Adventure Time: Side Quests, and The Man Will Burn are just a few of the TV shows you should be watching right now.",
+    "pubDate": "Fri, 03 Jul 2026 09:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Iran begins public mourning for Ayatollah killed in February",
+    "link": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss",
+    "summary": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla from Friday ahead of days-long funeral events.",
+    "pubDate": "Fri, 03 Jul 2026 08:50:21 GMT",
+    "source": "BBC News",
+    "category": "general"
   },
   {
     "title": "派早报：大疆发布 DJI Mic Mini 2S 迷你无线麦克风等",
@@ -416,12 +488,188 @@
     "category": "tech-cn"
   },
   {
+    "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+    "link": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
+    "summary": "Article URL: https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/ Comments URL: https://news.ycombinator.com/item?id=48772443 Points: 28 # Comments: 12",
+    "pubDate": "Fri, 03 Jul 2026 08:31:37 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Sony Erases Digital Content From Libraries, a Reminder That You Don’t Own What You Buy",
+    "link": "https://www.wired.com/story/sony-erases-digital-content-from-libraries/",
+    "summary": "In September, some PlayStation customers will no longer be able to access some purchased movies and shows. It underscores the fact that digital purchases are really more like long-term rentals.",
+    "pubDate": "Fri, 03 Jul 2026 08:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Half-Baked Product",
+    "link": "https://weli.dev/blog/half-baked-product/",
+    "summary": "Article URL: https://weli.dev/blog/half-baked-product/ Comments URL: https://news.ycombinator.com/item?id=48772388 Points: 6 # Comments: 2",
+    "pubDate": "Fri, 03 Jul 2026 08:23:32 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Four-time Tour de France winner Froome retires",
+    "link": "https://www.bbc.co.uk/sport/cycling/articles/clyere67jpmo?at_medium=RSS&at_campaign=rss",
+    "summary": "Great Britain's Chris Froome, who won the Tour de France four times, brings an end to his illustrious career in professional cycling.",
+    "pubDate": "Fri, 03 Jul 2026 07:18:02 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Gannet colonies could take 15 years to recover from bird flu",
+    "link": "https://www.bbc.co.uk/news/articles/c3wylj128qlo?at_medium=RSS&at_campaign=rss",
+    "summary": "The 2022 outbreak led to an \"unprecedented deadly blow\" to the seabird colonies in Scotland and Wales.",
+    "pubDate": "Fri, 03 Jul 2026 05:36:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Scientists make quantum time flow backward in stunning physics breakthrough",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260625014802.htm",
+    "summary": "Researchers have created quantum control techniques that can make a system appear to run backward in time. By precisely managing quantum measurements, they can reshape the system's arrow of time and even harvest energy from the measurement process itself. The breakthrough could lead to more power...",
+    "pubDate": "Fri, 03 Jul 2026 05:34:54 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "I was 'slam dunk' for SNP leadership until revealing gay marriage views, says Kate Forbes",
+    "link": "https://www.bbc.co.uk/news/articles/c2ky31qelgzo?at_medium=RSS&at_campaign=rss",
+    "summary": "The former deputy first minister says she was advised to lie about her opinions on same-sex marriage.",
+    "pubDate": "Fri, 03 Jul 2026 05:23:09 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "I started selling clothes from my nana's house - now I'm turning over £10m",
+    "link": "https://www.bbc.co.uk/news/articles/c9d20vdlen0o?at_medium=RSS&at_campaign=rss",
+    "summary": "Murci has grown from a side hustle to being featured on Love Island and promoted by influencers.",
+    "pubDate": "Fri, 03 Jul 2026 05:17:42 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "'Less than 10% sheep': How millions may have unknowingly eaten goat, skin and fat kebabs",
+    "link": "https://www.bbc.co.uk/news/articles/ce95y1zlzyxo?at_medium=RSS&at_campaign=rss",
+    "summary": "Millions are likely to have eaten \"lamb\" kebabs that were actually made with goat, skin and fat.",
+    "pubDate": "Fri, 03 Jul 2026 05:14:17 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
+    "link": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/",
+    "summary": "A government customer of NSO Group used the company's Pegasus spyware to hack into the phone of a European politician, who at the time was serving on an EU committee tasked with investigating the spyware industry.",
+    "pubDate": "Fri, 03 Jul 2026 05:05:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Hosepipe ban for Hampshire and Isle of Wight",
+    "link": "https://www.bbc.co.uk/news/articles/c17yv9710d9o?at_medium=RSS&at_campaign=rss",
+    "summary": "Southern Water follows South East Water by introducing restrictions on its customers.",
+    "pubDate": "Fri, 03 Jul 2026 05:01:21 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "How young people feel about American identity, on the nation's 250th birthday",
+    "link": "https://www.npr.org/2026/07/03/nx-s1-5869537/student-podcast-challenge-america-250",
+    "summary": "Listen to the best student podcasts about what \"life, liberty and the pursuit of happiness\" means for young people today.",
+    "pubDate": "Fri, 03 Jul 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "A hot summer trend in the sharing economy? Rental swimming pools",
+    "link": "https://www.npr.org/2026/07/03/nx-s1-5876505/swimming-pool-rental-sharing-economy-swimply",
+    "summary": "The Airbnb-style company Swimply said there have been about 275,000 private pool reservations so far this year.",
+    "pubDate": "Fri, 03 Jul 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "But first, coffee: The drink that energized the American Revolution",
+    "link": "https://www.npr.org/2026/07/03/nx-s1-5845436/coffee-july-4-colonies-america-250-1776-boston-tea-party",
+    "summary": "Colonial Americans were drinking coffee long before they dumped tea into Boston Harbor or fought a war for independence. The establishments that served it were already brewing revolutionary ideas.",
+    "pubDate": "Fri, 03 Jul 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "How a fertilizer shortage caused by the Iran war could affect U.S. food prices",
+    "link": "https://www.npr.org/2026/07/03/nx-s1-5877344/fertilizer-shortage-food-prices",
+    "summary": "The closure of the Strait of Hormuz disrupted shipments of fertilizer and natural gas, a key component in fertilizer manufacturing. It's unlikely to cause major price hikes for U.S. grocery shoppers.",
+    "pubDate": "Fri, 03 Jul 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Oregon ER doctors win a 'David and Goliath' battle against a national company",
+    "link": "https://www.npr.org/2026/07/03/nx-s1-5875435/eugene-oregon-corporate-medicine-emergency-doctors",
+    "summary": "In a test of a new state law, doctors in Eugene went up against a national physician staffing firm seeking to replace them. Their success is getting attention across the U.S. as other states consider similar laws.",
+    "pubDate": "Fri, 03 Jul 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "EU Politicians Investigated Pegasus Spyware. Then It Ended Up on One of Their Phones",
+    "link": "https://www.wired.com/story/eu-politicians-investigated-pegasus-spyware-then-it-ended-up-on-one-of-their-phones/",
+    "summary": "“It is a direct attack on the rule of law,” says one European Parliament member of the new findings from Citizen Lab.",
+    "pubDate": "Fri, 03 Jul 2026 05:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Huge Snicko VAR call prolongs Ronaldo's last dance but ends Modric's",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cz0jee3vy39o?at_medium=RSS&at_campaign=rss",
+    "summary": "Veteran forward Cristiano Ronaldo gets another day on the World Cup stage after Croatia are denied a late equaliser by a huge VAR call.",
+    "pubDate": "Fri, 03 Jul 2026 04:42:51 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The real cause of a common stroke may have been missed for decades",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260622091521.htm",
+    "summary": "Scientists have discovered that a common type of stroke may have a very different cause than doctors once thought. Instead of fatty plaque clogging arteries, the strongest link was found with enlarged and damaged blood vessels deep within the brain. The finding helps explain why standard treatmen...",
+    "pubDate": "Fri, 03 Jul 2026 04:42:07 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't",
     "link": "https://stefan.schueller.net/posts/the-free-market-lie/",
     "summary": "Article URL: https://stefan.schueller.net/posts/the-free-market-lie/ Comments URL: https://news.ycombinator.com/item?id=48770647 Points: 5 # Comments: 0",
     "pubDate": "Fri, 03 Jul 2026 04:16:17 +0000",
     "source": "Hacker News",
     "category": "tech"
+  },
+  {
+    "title": "NEWSBRIEF: USA 250, RUSSIA WAR ADVANCES SLOW, DEMOCRATIC PARTY FUTURE",
+    "link": "https://www.npr.org/2026/07/03/nx-s1-5873962/newsbrief-usa-250-russia-war-advances-slow-democratic-party-future",
+    "summary": "Heat threatens U.S. 250th celebrations, Russian advances slow as Ukraine hits back, infighting risks derailing Democrats' House hopes.",
+    "pubDate": "Fri, 03 Jul 2026 04:15:28 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Some states rolling back worker heat protections",
+    "link": "https://www.npr.org/2026/07/03/nx-s1-5876237/some-states-rolling-back-worker-heat-protections",
+    "summary": "The heat dome encasing much of the eastern U.S. is reviving concerns about protecting workers from the heat. Many states have laws in place but some, including Florida, have rolled them back.",
+    "pubDate": "Fri, 03 Jul 2026 04:14:28 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Designer of 50-star flag looks back at his high school project",
+    "link": "https://www.npr.org/2026/07/03/nx-s1-5879510/designer-of-50-star-flag-looks-back-at-his-high-school-project",
+    "summary": "The designer of today's American flag remembers the day he created it for a student project.",
+    "pubDate": "Fri, 03 Jul 2026 04:10:51 -0400",
+    "source": "NPR",
+    "category": "general"
   },
   {
     "title": "Instagram running ads promoting child sexual abuse material in India, BBC finds",
@@ -432,11 +680,35 @@
     "category": "general"
   },
   {
+    "title": "14× faster embeddings: how we rebuilt the ONNX path in Manticore",
+    "link": "https://manticoresearch.com/blog/onnx-embeddings-speedup/",
+    "summary": "Article URL: https://manticoresearch.com/blog/onnx-embeddings-speedup/ Comments URL: https://news.ycombinator.com/item?id=48770477 Points: 48 # Comments: 7",
+    "pubDate": "Fri, 03 Jul 2026 03:49:47 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "Portugal through to last 16 after dramatic victory over Croatia",
     "link": "https://www.bbc.co.uk/sport/football/videos/cy9r11gj8lzo?at_medium=RSS&at_campaign=rss",
     "summary": "Portugal beat Croatia 2-1 with goals from Cristiano Ronaldo and Goncalo Ramos after a chaotic second-half in Toronto to set up a last 16 tie with Iberian rivals Spain.",
     "pubDate": "Fri, 03 Jul 2026 02:57:22 GMT",
     "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Croatia vs. Portugal: What happened in those final, chaotic minutes",
+    "link": "https://www.npr.org/2026/07/03/nx-s1-5880386/croatia-portugal-chaotic-minutes",
+    "summary": "After 90 minutes of play, the electronic board signaled 10 minutes of added time, and it was difficult to imagine at that point just how much drama would be packed into the coming minutes.",
+    "pubDate": "Fri, 03 Jul 2026 02:42:15 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Australian officials ask fans to respect the privacy of Neil, a trouble-making seal",
+    "link": "https://www.npr.org/2026/07/03/g-s1-131911/australia-trouble-making-seal",
+    "summary": "The 5-year-old seal has a social media following twice the size of Tasmania's population, and his antics include bending traffic bollards and blocking roads.",
+    "pubDate": "Fri, 03 Jul 2026 02:39:51 -0400",
+    "source": "NPR",
     "category": "general"
   },
   {
@@ -446,6 +718,30 @@
     "pubDate": "Fri, 03 Jul 2026 02:33:40 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "‘guix substitute‘ and ‘guix pull‘ vulnerabilities",
+    "link": "https://guix.gnu.org/en/blog/2026/guix-substitute-pull-vulnerabilities/",
+    "summary": "Comments",
+    "pubDate": "Fri, 03 Jul 2026 01:45:52 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "The Safari MCP server for web developers",
+    "link": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
+    "summary": "Article URL: https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/ Comments URL: https://news.ycombinator.com/item?id=48769639 Points: 90 # Comments: 15",
+    "pubDate": "Fri, 03 Jul 2026 01:37:11 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Until_Heat_Death_Do_Us_Part: Counting until the heat death of the universe, broadcasting counter every second over 100Mbps ethernet",
+    "link": "https://github.com/Essenceia/Until_Heat_Death_Do_Us_Part",
+    "summary": "Comments",
+    "pubDate": "Fri, 03 Jul 2026 01:16:09 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "CarPlay Is Additive",
@@ -478,6 +774,14 @@
     "pubDate": "Fri, 03 Jul 2026 00:26:53 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Clickhouse is winning the Observability Wars",
+    "link": "https://matduggan.com/clickhouse-is-winning-the-observability-wars/",
+    "summary": "Comments",
+    "pubDate": "Fri, 03 Jul 2026 00:25:28 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Arrest warrant issued for suspect in Monaco parcel bombing",
@@ -526,6 +830,166 @@
     "pubDate": "Fri, 03 Jul 2026 00:00:00 +0000",
     "source": "Wired",
     "category": "tech"
+  },
+  {
+    "title": "国家金融监督管理总局决定对众邦银行实施接管",
+    "link": "https://36kr.com/newsflashes/3879726705357057?f=rss",
+    "summary": "国家金融监督管理总局、湖北省人民政府关于对武汉众邦银行股份有限公司实施接管的公告。鉴于武汉众邦银行股份有限公司（以下简称众邦银行）出现严重信用风险，为保护存款人和其他客户的合法权益，依照《中华人民共和国银行业监督管理法》和《中华人民共和国商业银行法》有关规定，国家金融监督管理总局决定对众邦银行实施接管。（央视新闻）",
+    "pubDate": "2026-07-03 17:42:05  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "中远海特：公司董事长、董事离任",
+    "link": "https://36kr.com/newsflashes/3879725128101895?f=rss",
+    "summary": "36氪获悉，中远海特公告，因工作调动原因，张炜提出辞去公司董事长、董事及战略决策委员会主任委员、提名委员会委员等职务，王威提出辞去公司董事、战略决策委员会委员等职务。",
+    "pubDate": "2026-07-03 17:40:29  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "腾讯龙虾QClaw产品经理张舒昱离职，称内部并无“赛马”",
+    "link": "https://36kr.com/newsflashes/3879716280119297?f=rss",
+    "summary": "7月2日，有消息称腾讯QClaw负责人张舒昱已离职。记者关注到，张舒昱本人在社交平台上发帖称，自己已于6月29日从腾讯离职。她还回顾了自己第一次做C端产品QClaw的历程，并提到“QC和WB是同一个老板，部分时间增长团队都是同一批人组成”，以此澄清腾讯内部QClaw和workbuddy从来没有“赛马”。记者就此向腾讯方面求证，截至发稿尚无回应。另有知情人士向南都记者表示，张舒昱为QClaw产品经理。（南方都市报）",
+    "pubDate": "2026-07-03 17:31:29  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "动力源：筹划控制权变更，7月6日起停牌",
+    "link": "https://36kr.com/newsflashes/3879713562537984?f=rss",
+    "summary": "36氪获悉，动力源公告，公司收到公司控股股东及实际控制人何振亚的通知，何振亚正在筹划公司股份转让事宜，该事项可能导致公司控制权发生变更。公司股票将于7月6日开市起开始停牌，预计停牌时间不超过2个交易日。",
+    "pubDate": "2026-07-03 17:28:43  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "国务院：积极推动气候投融资，有序推进碳金融产品和衍生工具创新",
+    "link": "https://36kr.com/newsflashes/3879709608275972?f=rss",
+    "summary": "36氪获悉，国务院印发《美丽中国建设“十五五”规划》。其中提到，健全经济激励政策。强化财政对美丽中国建设的支持，优化财政资源配置，确保投入规模同建设任务相匹配。开展征收VOCs环境保护税试点，完善固体废物环境保护税的政策执行口径。健全促进绿色低碳发展的价格机制。建立企业生态环保费用提取使用制度。鼓励建立金融支持美丽中国建设项目库，完善政银融资协调与项目推介机制。丰富绿色金融产品和服务，积极推动气候投融资，有序推进碳金融产品和衍生工具创新。探索区域性环保建设项目金融支持模式，支持“美丽系列”建设。深入开展流域横向生态保护补偿，完善多元化生态保护补偿机制，因地制宜拓展生态产品价值实现渠道。",
+    "pubDate": "2026-07-03 17:24:42  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "美国银行：美国股市出现三个多月以来最大资金流出",
+    "link": "https://36kr.com/newsflashes/3879708499275777?f=rss",
+    "summary": "7月3日消息，美国银行称，投资者正以3月份以来最快的速度抛售美国股票。美银表示，截至7月1日的一周内，该国股票基金资金流出172亿美元。投资者转而关注一些国际股票，其中日本股市迎来七周以来最大的资金流入，金额达19亿美元。摩根大通公司策略师表示，本周早些时候他们认为，美国半导体股票相对于人工智能超大规模数据中心的极端优异表现，造成了不可持续的估值差距，但最终这种差距将会缩小。总体而言，股票市场资金流出139亿美元，而投资级债券则吸引了172亿美元的资金流入。此外，高收益债券基金迎来一年多来的最大资金流入，达到34亿美元。（界面）",
+    "pubDate": "2026-07-03 17:23:34  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "国务院：加强海上风电、油气等开发建设活动监管",
+    "link": "https://36kr.com/newsflashes/3879704396394503?f=rss",
+    "summary": "36氪获悉，国务院印发《美丽中国建设“十五五”规划》，其中提到，深化海洋生态环境保护。健全陆海统筹、近远海协调联动的海洋生态环境保护格局。划定国家生态环境治理重点海域及其控制区域、省级重点海域范围，实施综合治理攻坚。深化陆源污染治理与管控，加强海洋垃圾清理和资源化利用，基本完成重点海域入海排污口排查整治。强化海水养殖环境整治与监管，提升海水浴场等亲海区域环境品质。加强海上风电、油气等开发建设活动监管。有序推进海洋生态环境综合调查，开展典型海洋生态系统保护修复及成效评估，加强重要海洋物种及其栖息地保护与监管。推进潮白河—渤海湾、九龙江—厦门湾等从山顶到海洋保护治理机制创新。",
+    "pubDate": "2026-07-03 17:19:24  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "国轩高科：全资子公司上半年出售839.95万股铜冠铜箔A股股票",
+    "link": "https://36kr.com/newsflashes/3879701486039302?f=rss",
+    "summary": "36氪获悉，国轩高科公告，全资子公司合肥国轩于2026年上半年通过集中竞价交易方式，出售所持安徽铜冠铜箔集团股份有限公司A股股票共计839.95万股，成交金额8.29亿元（含交易费用）。",
+    "pubDate": "2026-07-03 17:16:26  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "有研粉材：股东拟询价转让公司4.99%股份",
+    "link": "https://36kr.com/newsflashes/3879692122386697?f=rss",
+    "summary": "36氪获悉，有研粉材公告，股东中国有研科技集团有限公司及有研鼎盛投资发展有限公司拟询价转让公司股份517.33万股，占公司总股本的4.99%。",
+    "pubDate": "2026-07-03 17:06:54  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "央行：7月6日将开展10000亿元买断式逆回购操作，期限为3个月",
+    "link": "https://36kr.com/newsflashes/3879689979441161?f=rss",
+    "summary": "36氪获悉，据央行网站，为保持银行体系流动性充裕，2026年7月6日，中国人民银行将以固定数量、利率招标、多重价位中标方式开展10000亿元买断式逆回购操作，期限为3个月（91天），到期日为2026年10月5日（遇节假日顺延）。",
+    "pubDate": "2026-07-03 17:04:44  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "国务院印发《美丽中国建设“十五五”规划》",
+    "link": "https://36kr.com/newsflashes/3879689028432135?f=rss",
+    "summary": "日前，国务院印发《美丽中国建设“十五五”规划》（以下简称《规划》），明确了“十五五”时期全面推进美丽中国建设的总体要求、目标指标、重点任务和重大工程。《规划》提出，到2030年，生态环境质量全面改善，美丽中国建设取得新的重大进展。绿色生产生活方式基本形成，碳达峰目标如期实现，主要污染物排放总量持续减少，固体废物综合治理能力和水平显著提升，城乡人居环境显著改善，生态系统多样性稳定性持续性不断提升，核与辐射安全水平持续提高，国家生态安全得到有效保障，适应美丽中国建设要求的生态环境治理体系不断健全，建成一批美丽中国建设示范样板，人民群众生态环境获得感、幸福感、安全感不断增强。同时，对2035年...",
+    "pubDate": "2026-07-03 17:03:46  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "三部门：调整节能汽车、新能源汽车车船税优惠政策",
+    "link": "https://36kr.com/newsflashes/3879687847096577?f=rss",
+    "summary": "36氪获悉，财政部、税务总局、工业和信息化部发布关于调整节能汽车、新能源汽车车船税优惠政策的公告。自2027年1月1日起，取消对节能汽车减半征收车船税政策，取消对纯电动商用车、插电式（含增程式）混合动力汽车、燃料电池商用车免征车船税政策；纳税人新取得及本公告实施前已取得的上述类型车辆，应按照《中华人民共和国车船税法》及其实施条例和其他相关规定征收车船税。",
+    "pubDate": "2026-07-03 17:02:33  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "日联科技：拟购买土地使用权并投建工业检测设备华南总部基地项目",
+    "link": "https://36kr.com/newsflashes/3879685407846405?f=rss",
+    "summary": "36氪获悉，日联科技公告，公司全资子公司深圳市日联科技有限公司、全资孙公司智测科技（广东）有限公司拟使用自有资金及银行贷款开展“日联科技工业检测设备华南总部基地项目”，参与竞拍以挂牌方式取得珠海市高新区44353.95平方米土地使用权，项目计划投资总额6亿元，建设周期为24个月。项目专注工业检测设备及其核心部件的研发、生产及销售。",
+    "pubDate": "2026-07-03 17:00:05  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "中核汇能在重庆成立新公司",
+    "link": "https://36kr.com/newsflashes/3879669092691972?f=rss",
+    "summary": "36氪获悉，天眼查App显示，7月1日，重庆潼南汇天新能源开发有限公司成立，法定代表人为黄佑祥，注册资本100万人民币，经营范围包括太阳能发电技术服务、风力发电技术服务、储能技术服务等，由中核汇能有限公司全资持股。",
+    "pubDate": "2026-07-03 16:55:26  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "金智科技：拟1亿元—2亿元回购公司股份",
+    "link": "https://36kr.com/newsflashes/3879665501188353?f=rss",
+    "summary": "36氪获悉，金智科技公告，拟1亿元—2亿元回购公司股份，用于实施股权激励或员工持股计划，回购价格不超过14.76元/股（含）。",
+    "pubDate": "2026-07-03 16:51:46  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "乘联分会：初步统计6月全国乘用车市场新能源车零售103.7万辆，同比下降7%",
+    "link": "https://36kr.com/newsflashes/3879675264299013?f=rss",
+    "summary": "36氪获悉，据乘联分会，初步统计，6月1-30日，全国乘用车市场新能源车零售103.7万辆，同比下降7%，较上月同期增长9%，今年以来累计零售473.4万辆，同比下降13%；6月1-30日，全国乘用车厂商新能源批发150.6万辆，同比增长22%，较上月同期增长11%，今年以来累计批发681.2万辆，同比增长6%。",
+    "pubDate": "2026-07-03 16:49:45  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "乘联分会：初步统计6月全国乘用车市场零售165.1万辆，同比下降21%",
+    "link": "https://36kr.com/newsflashes/3879673034092552?f=rss",
+    "summary": "36氪获悉，据乘联分会，初步统计，6月1-30日，全国乘用车市场零售165.1万辆，同比下降21%，较上月同期增长9%，今年以来累计零售875万辆，同比下降20%；6月1-30日，全国乘用车厂商批发237.6万辆，同比下降4%，较上月同期增长7%，今年以来累计批发1256.2万辆，同比下降5%。",
+    "pubDate": "2026-07-03 16:47:29  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "金龙鱼旗下富裕生物科技公司增资至25.6亿，增幅约33%",
+    "link": "https://36kr.com/newsflashes/3879661430878469?f=rss",
+    "summary": "36氪获悉，天眼查App显示，近日，益海嘉里（富裕）生物科技有限公司发生工商变更，注册资本由19.25亿人民币增至25.6亿人民币，增幅约33%。该公司成立于2018年4月，法定代表人为陈学松，经营范围包括粮食收购、粮油仓储服务、谷物销售、饲料原料销售等，由益海嘉里金龙鱼食品集团股份有限公司全资持股。",
+    "pubDate": "2026-07-03 16:45:37  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "香港交易所与中债金融估值中心开展数据合作，支持中国国债期货顺利推出",
+    "link": "https://36kr.com/newsflashes/3879669842636805?f=rss",
+    "summary": "36氪获悉，香港交易所今日宣布，旗下全资附属公司香港期货交易所（香港期交所）已与中债金融估值中心有限公司（中债估值中心）就数据授权及服务协议达成共识，以支持香港交易所五年期中国国债期货的顺利推出。中债估值中心将授权香港交易所在开发和运营中国国债期货时使用相关债券估值信息，并为香港交易所提供价格计算服务。香港交易所计划于2026年8月3日推出5年期中国国债期货。",
+    "pubDate": "2026-07-03 16:44:15  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "铁发轨交创投基金登记成立，出资额1262万",
+    "link": "https://36kr.com/newsflashes/3879660861370371?f=rss",
+    "summary": "36氪获悉，天眼查App显示，7月1日，铁发轨交（北京）创业投资基金合伙企业（有限合伙）成立，执行事务合伙人为国信铁发创业投资（北京）有限公司，出资额1262万人民币，经营范围为私募股权投资基金管理、创业投资基金管理服务。合伙人信息显示，该基金由国信铁发创业投资（北京）有限公司、北京西交路通管理咨询合伙企业（有限合伙）等共同出资。",
+    "pubDate": "2026-07-03 16:41:02  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
   },
   {
     "title": "法拉第未来将召开特别股东大会，再次寻求更名",
@@ -702,6 +1166,14 @@
     "pubDate": "2026-07-03 08:06:38  +0800",
     "source": "36Kr",
     "category": "tech-cn"
+  },
+  {
+    "title": "China boosts prestigious grants for young scientists — will it ease competition?",
+    "link": "https://www.nature.com/articles/d41586-026-01989-5",
+    "summary": "Nature, Published online: 03 July 2026; doi:10.1038/d41586-026-01989-5 The National Natural Science Foundation of China says it will fund an extra 12,000 projects from this year.",
+    "pubDate": "2026-07-03",
+    "source": "Nature",
+    "category": "science"
   },
   {
     "title": "Sony’s PlayStation disc factory is already being repurposed",

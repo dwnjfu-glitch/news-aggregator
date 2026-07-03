@@ -1,0 +1,746 @@
+[
+  {
+    "title": "390 gravitational wave detections reveal hidden population of black holes",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260625060203.htm",
+    "summary": "Astronomers have released the largest gravitational wave catalog ever, revealing 161 new black hole collisions and pushing the total number of detections to 390. Among the highlights are the clearest gravitational wave signal ever recorded, the most accurate location of a black hole merger, and g...",
+    "pubDate": "Wed, 01 Jul 2026 23:52:02 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Scientists reveal what really happens when water is trapped in tiny spaces",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260626124706.htm",
+    "summary": "A decades-old puzzle about water has finally been unraveled. Researchers found that water trapped in tiny nanoscale spaces is not inherently more reactive. Instead, the intense pressures created inside these microscopic gaps explain most of the effect, while the surrounding material can further e...",
+    "pubDate": "Wed, 01 Jul 2026 23:05:16 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Scientists create quantum sound device that could transform communications",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260626030435.htm",
+    "summary": "A new quantum device can generate precisely controlled bursts of sound-like particles, or phonons, by forcing electrons through an ultra-thin crystal at extremely low temperatures. The surprising behavior pushes beyond the limits predicted by current theories, suggesting scientists need to rethin...",
+    "pubDate": "Wed, 01 Jul 2026 22:11:12 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Great ape laughter reveals a hidden origin of human speech",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260626124704.htm",
+    "summary": "The rhythm of human laughter appears to have deep evolutionary roots shared with chimpanzees, bonobos, gorillas, and orangutans. That ancient pattern may offer one of the clearest clues yet to how the vocal control needed for human speech gradually evolved.",
+    "pubDate": "Wed, 01 Jul 2026 20:36:29 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "New calculator reveals whether you should really worry about statin side effects",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260630020549.htm",
+    "summary": "Scientists at the University of Oxford have created a calculator that predicts a person's individual risk of serious muscle disorders from statin medications. Their analysis found that more than 98% of people who qualify for statins are at low risk for these rare complications, despite widespread...",
+    "pubDate": "Tue, 30 Jun 2026 02:05:49 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "A strange LIGO signal could reveal the missing link behind dark matter",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260626125703.htm",
+    "summary": "An unusual gravitational wave signal has renewed hopes that primordial black holes, long considered purely theoretical, may finally be within reach of discovery. If confirmed, they could solve one of astronomy's greatest mysteries by explaining the nature of dark matter.",
+    "pubDate": "Thu, 02 Jul 2026 23:56:36 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Right to Local Intelligence",
+    "link": "https://righttointelligence.org/",
+    "summary": "Article URL: https://righttointelligence.org/ Comments URL: https://news.ycombinator.com/item?id=48768951 Points: 84 # Comments: 36",
+    "pubDate": "Thu, 02 Jul 2026 23:54:03 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Rare copy of US Declaration of Independence found by volunteer in UK archives",
+    "link": "https://www.bbc.co.uk/news/articles/cgrkl104ly5o?at_medium=RSS&at_campaign=rss",
+    "summary": "The newly discovered copy is one of only 11 of its kind in the world.",
+    "pubDate": "Thu, 02 Jul 2026 23:39:29 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+    "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+    "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
+    "pubDate": "Thu, 02 Jul 2026 23:38:10 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns",
+    "link": "https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&at_campaign=rss",
+    "summary": "The BBC visits Bandar Abbas to see how the US-Israeli war with Iran has affected everyday life in the port city.",
+    "pubDate": "Thu, 02 Jul 2026 23:15:22 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "How the American Dream has survived 250 years, but only just",
+    "link": "https://www.bbc.co.uk/news/articles/cx2vpz2qee5o?at_medium=RSS&at_campaign=rss",
+    "summary": "The American Dream has persisted since the days of the Founding Fathers, but faith in the ideal is fading",
+    "pubDate": "Thu, 02 Jul 2026 23:14:29 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "NHS to reward people who walk 30 minutes a day",
+    "link": "https://www.bbc.co.uk/news/articles/cj6g0rdy40jo?at_medium=RSS&at_campaign=rss",
+    "summary": "The \"marathon a month\" scheme, developed with former Olympic medallist Sir Brendan Foster, will launch early next year.",
+    "pubDate": "Thu, 02 Jul 2026 23:13:44 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Why Wonderwall has become England's World Cup anthem",
+    "link": "https://www.bbc.co.uk/news/articles/cx2wllrlrxgo?at_medium=RSS&at_campaign=rss",
+    "summary": "Post-victory singalongs between England fans and players have become a new tradition this summer.",
+    "pubDate": "Thu, 02 Jul 2026 23:01:35 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "'We give up to £400': How much should you gift at a wedding?",
+    "link": "https://www.bbc.co.uk/news/articles/c78yj9p0m91o?at_medium=RSS&at_campaign=rss",
+    "summary": "Wedding lists are being replaced by cash requests, but guests are divided over how much to give.",
+    "pubDate": "Thu, 02 Jul 2026 23:01:24 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Private space pilots are flying orbital missions for the US Space Force",
+    "link": "https://techcrunch.com/2026/07/02/private-space-pilots-are-flying-orbital-missions-for-the-us-space-force/",
+    "summary": "True Anomaly and Rocket Lab are performing Top Gun-style satellite fly-bys for the U.S. military.",
+    "pubDate": "Thu, 02 Jul 2026 23:01:06 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "crustc: entirety of `rustc`, translated to C",
+    "link": "https://github.com/FractalFir/crustc",
+    "summary": "Article URL: https://github.com/FractalFir/crustc Comments URL: https://news.ycombinator.com/item?id=48768464 Points: 183 # Comments: 33",
+    "pubDate": "Thu, 02 Jul 2026 22:57:35 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Scientists stunned as bumble bees solve a classic intelligence test",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260625014755.htm",
+    "summary": "Bumble bees astonished researchers by inventing a new way to reach a hidden reward, despite never being taught the trick. The discovery adds to growing evidence that these tiny insects are far smarter and more adaptable than once believed.",
+    "pubDate": "Thu, 02 Jul 2026 22:53:35 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "The one club man who is Spain's under-the-radar hero",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cvgd0jz1xq7o?at_medium=RSS&at_campaign=rss",
+    "summary": "Mikel Oyarzabal is perhaps not the biggest name in Spain's World Cup squad, but the one who has so far shone brightest.",
+    "pubDate": "Thu, 02 Jul 2026 22:49:15 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Mystery identity of 'Green Boots' climber is finally solved after DNA test",
+    "link": "https://www.dailymail.com/news/article-15943905/Mystery-identity-Green-Boots-climber-macabre-landmark-frozen-ice-dying-Everest-finally-solved-DNA-test.html",
+    "summary": "Article URL: https://www.dailymail.com/news/article-15943905/Mystery-identity-Green-Boots-climber-macabre-landmark-frozen-ice-dying-Everest-finally-solved-DNA-test.html Comments URL: https://news.ycombinator.com/item?id=48768336 Points: 73 # Comments: 35",
+    "pubDate": "Thu, 02 Jul 2026 22:44:04 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Why maternity leave for a mayor has divided Japan",
+    "link": "https://www.bbc.co.uk/news/articles/c1mykzj15xno?at_medium=RSS&at_campaign=rss",
+    "summary": "In the face of criticism, Shoko Kawata, 35, says she loves her job and is proud to be taking time off to have a baby.",
+    "pubDate": "Thu, 02 Jul 2026 22:00:11 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections",
+    "link": "https://techcrunch.com/2026/07/02/thiel-capitals-jack-selby-nabs-stakes-in-hot-startups-like-etched-through-arizona-connections/",
+    "summary": "Selby's VC firm, Copper Sky Capital, is currently raising a $300 million second fund, according to a regulatory filing.",
+    "pubDate": "Thu, 02 Jul 2026 21:57:10 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Arbitrary code execution breaking sandboxes in KDE Plasma",
+    "link": "https://blog.kimiblock.top/2026/07/01/arbitrary-code-execution-in-kde-plasma/",
+    "summary": "Comments",
+    "pubDate": "Thu, 02 Jul 2026 21:39:28 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Virginia bans sale of geolocation data",
+    "link": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+    "summary": "Article URL: https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data Comments URL: https://news.ycombinator.com/item?id=48767347 Points: 611 # Comments: 104",
+    "pubDate": "Thu, 02 Jul 2026 21:03:45 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "At least eight arrests linked to forums that encourage drugging and raping women",
+    "link": "https://www.bbc.co.uk/news/articles/cy4e109nx04o?at_medium=RSS&at_campaign=rss",
+    "summary": "The National Crime Agency says it has identified 270 individuals linked to the abuse websites.",
+    "pubDate": "Thu, 02 Jul 2026 20:52:15 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "How Big Is ‘Love Island USA’? More Than 10 Million People Are Already on Its App",
+    "link": "https://www.wired.com/story/love-island-usa-app/",
+    "summary": "“We have more people voting on the ‘Love Island USA’ app than we do in many political elections taking place across the country,” says the show's executive producer.",
+    "pubDate": "Thu, 02 Jul 2026 20:47:27 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "IQM, Europe’s first public quantum company, admits the future of the tech is uncertain",
+    "link": "https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/",
+    "summary": "IQM, a full-stack quantum company out of Finland, went public on the Nasdaq today at a valuation of about $1.9 billion.",
+    "pubDate": "Thu, 02 Jul 2026 20:42:48 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "I take responsibility to fund defence plan extremely seriously, says Burnham",
+    "link": "https://www.bbc.co.uk/news/articles/c5yz9j7v0z6o?at_medium=RSS&at_campaign=rss",
+    "summary": "The Makerfield MP also rejects attacks on his economic stance, insisting he would not be \"indisciplined\" on finances.",
+    "pubDate": "Thu, 02 Jul 2026 20:40:27 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Scientists discover a protein switch that burns fat and blocks new fat cells",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260624115324.htm",
+    "summary": "A protein called “Mitch” may hold the key to a new generation of obesity treatments. Researchers found that disabling it in human cells boosts fat burning, increases energy use, and makes it harder for new fat cells to develop. The findings help explain why mice lacking Mitch were leaner, more at...",
+    "pubDate": "Thu, 02 Jul 2026 20:22:49 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
+    "link": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+    "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
+    "pubDate": "Thu, 02 Jul 2026 20:11:59 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Lightning Memory-Mapped Database Manager (LMDB) 1.0",
+    "link": "http://www.lmdb.tech/doc/",
+    "summary": "Article URL: http://www.lmdb.tech/doc/ Comments URL: https://news.ycombinator.com/item?id=48766598 Points: 68 # Comments: 40",
+    "pubDate": "Thu, 02 Jul 2026 20:01:20 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Newly discovered PamStealer isn't your typical macOS malware",
+    "link": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
+    "summary": "The discovery underscores the increased effort being poured into Mac infostealers.",
+    "pubDate": "Thu, 02 Jul 2026 19:38:57 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Great Salt Lake Tracker – Grow the Flow",
+    "link": "https://growtheflowutah.org/laketracker/",
+    "summary": "Article URL: https://growtheflowutah.org/laketracker/ Comments URL: https://news.ycombinator.com/item?id=48766286 Points: 77 # Comments: 29",
+    "pubDate": "Thu, 02 Jul 2026 19:33:55 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "EFF letter to FTC on X consent order [pdf]",
+    "link": "https://www.eff.org/deeplinks/2026/06/eff-and-allies-xs-ftc-petition-waive-privacy-violation-order-should-be-rejected",
+    "summary": "Article URL: https://www.eff.org/deeplinks/2026/06/eff-and-allies-xs-ftc-petition-waive-privacy-violation-order-should-be-rejected Comments URL: https://news.ycombinator.com/item?id=48766209 Points: 119 # Comments: 45",
+    "pubDate": "Thu, 02 Jul 2026 19:27:38 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The short leash AI coding method for beating Fable",
+    "link": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
+    "summary": "Article URL: https://blog.okturtles.org/2026/07/short-leash-ai-method/ Comments URL: https://news.ycombinator.com/item?id=48766026 Points: 82 # Comments: 92",
+    "pubDate": "Thu, 02 Jul 2026 19:11:57 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Claude-real-video － any LLM can watch a video",
+    "link": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+    "summary": "Article URL: https://github.com/HUANGCHIHHUNGLeo/claude-real-video Comments URL: https://news.ycombinator.com/item?id=48766005 Points: 96 # Comments: 29",
+    "pubDate": "Thu, 02 Jul 2026 19:10:12 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "proposal-async-context: Async Context for JavaScript",
+    "link": "https://github.com/tc39/proposal-async-context",
+    "summary": "Comments",
+    "pubDate": "Thu, 02 Jul 2026 18:32:37 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Understanding is the new bottleneck",
+    "link": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html",
+    "summary": "Comments",
+    "pubDate": "Thu, 02 Jul 2026 18:04:59 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "House Democrats accuse Trump of 'hijacking' America's 250th birthday for his own gain",
+    "link": "https://www.npr.org/2026/07/02/nx-s1-5879162/freedom-250-report-house-democrats-controversy",
+    "summary": "A 55-page report from House Democrats accuses Freedom 250 of America's birthday celebrations for profit, using questionable fundraising methods. Watchdog groups had already sounded alarms.",
+    "pubDate": "Thu, 02 Jul 2026 17:47:30 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Weekly quiz: Why did Catherine climb the UK's three highest peaks?",
+    "link": "https://www.bbc.co.uk/news/articles/c70ydx22q25o?at_medium=RSS&at_campaign=rss",
+    "summary": "How much attention did you pay to what happened in the world over the past seven days?",
+    "pubDate": "Thu, 02 Jul 2026 17:02:29 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Christian missionaries have found a new (virtual) mission territory",
+    "link": "https://www.npr.org/2026/07/02/g-s1-131124/christian-missionaries-have-found-a-new-virtual-mission-territory",
+    "summary": "The room may be virtual, but the prayer — and the evangelism — are not.",
+    "pubDate": "Thu, 02 Jul 2026 16:06:53 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "This spray-on powder can stop life-threatening bleeding in 1 second",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260625014835.htm",
+    "summary": "A new spray-on powder developed by KAIST can stop life-threatening bleeding in about one second by instantly forming a strong gel over a wound. It works on deep and irregular injuries where conventional hemostatic products often struggle and remains effective even after years of storage in harsh ...",
+    "pubDate": "Thu, 02 Jul 2026 16:01:27 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Even fans who don't speak Spanish are watching the World Cup on Telemundo. Here's why",
+    "link": "https://www.npr.org/2026/07/02/nx-s1-5876380/telemundo-world-cup-fox",
+    "summary": "They may not understand every word, but fans appreciate exuberant announcers who match their enthusiasm. Plus, cameras stay on the field during hydration breaks rather than cutting to commercials.",
+    "pubDate": "Thu, 02 Jul 2026 15:59:34 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Show HN: zkGolf – Competitive optimization of formally verified circuits",
+    "link": "https://zk.golf/",
+    "summary": "Zero-Knowledge Proofs (ZKPs) let an untrusted proved show that computation was executed correctly without revealing the inputs to the verifier. However to prove anything, the computation first has to be expressed as a circuit: a system of polynomial equations (constraints) over a finite field. Ci...",
+    "pubDate": "Thu, 02 Jul 2026 15:40:05 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Show HN: Inkwell – An RSS reader for e-ink devices",
+    "link": "https://kendal.codeberg.page/inkwell/",
+    "summary": "Article URL: https://kendal.codeberg.page/inkwell/ Comments URL: https://news.ycombinator.com/item?id=48763222 Points: 39 # Comments: 5",
+    "pubDate": "Thu, 02 Jul 2026 15:38:19 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "My quest to see all of Tetris",
+    "link": "https://antithesis.com/blog/2026/tetris-quest/",
+    "summary": "Comments",
+    "pubDate": "Thu, 02 Jul 2026 15:19:52 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "ds.css: A css framework recreating the DS / DS Lite's UI",
+    "link": "https://github.com/spiritov/ds.css",
+    "summary": "Comments",
+    "pubDate": "Thu, 02 Jul 2026 15:14:02 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "FoundationDB's Flow – Bringing Actor-Based Concurrency to C++11",
+    "link": "https://apple.github.io/foundationdb/flow.html",
+    "summary": "Article URL: https://apple.github.io/foundationdb/flow.html Comments URL: https://news.ycombinator.com/item?id=48762372 Points: 46 # Comments: 6",
+    "pubDate": "Thu, 02 Jul 2026 14:41:56 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Climate scientist who “proved” humanity is warming Earth says government report got it wrong",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260625060214.htm",
+    "summary": "A pioneering climate scientist is challenging a U.S. government report that cited his research while reaching what he says is the exact opposite conclusion. Benjamin Santer and his colleagues say decades of satellite data clearly reveal the atmospheric “fingerprint” of human-caused climate change...",
+    "pubDate": "Thu, 02 Jul 2026 03:33:03 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Tiny magnetic waves could unlock quantum computers the size of a penny",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260626030431.htm",
+    "summary": "A major breakthrough in quantum technology has turned magnons, tiny magnetic waves once considered too short-lived for practical use, into promising carriers of quantum information. Researchers extended their lifetime by nearly 100 times, reaching up to 18 microseconds, and discovered that the ma...",
+    "pubDate": "Thu, 02 Jul 2026 02:48:14 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "How asteroids may have sparked life on Earth",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260625014827.htm",
+    "summary": "Ancient asteroid impacts may have done more than reshape Earth's surface—they could have helped spark life itself. New computer models show the collisions created enormous underground hydrothermal systems by cracking the planet's crust and allowing hot water to flow through it. These long-lasting...",
+    "pubDate": "Thu, 02 Jul 2026 02:23:06 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "这四个工作习惯，或许也能帮你找到掌控感",
+    "link": "https://sspai.com/post/111708",
+    "summary": "无论你追求的是更高的职位、更自由的时间、还是某种更纯粹的成就感，有一件事大概是共通的：那就是尽量让自己的人生，少一点完全依赖运气的成分，多一点可被掌控、可被验证的路径。 查看全文",
+    "pubDate": "Fri, 03 Jul 2026 11:00:00 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "派早报：大疆发布 DJI Mic Mini 2S 迷你无线麦克风等",
+    "link": "https://sspai.com/post/111898",
+    "summary": "Apple「隐藏邮件地址」功能存在隐私漏洞，System76 推出 Linux 轻薄本 Lemur Pro 等。 查看全文",
+    "pubDate": "Fri, 03 Jul 2026 08:45:36 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't",
+    "link": "https://stefan.schueller.net/posts/the-free-market-lie/",
+    "summary": "Article URL: https://stefan.schueller.net/posts/the-free-market-lie/ Comments URL: https://news.ycombinator.com/item?id=48770647 Points: 5 # Comments: 0",
+    "pubDate": "Fri, 03 Jul 2026 04:16:17 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Instagram running ads promoting child sexual abuse material in India, BBC finds",
+    "link": "https://www.bbc.co.uk/news/articles/cvgm4e0316zo?at_medium=RSS&at_campaign=rss",
+    "summary": "The ads use terms including “rape” and “child video” and link to content on the messaging app Telegram.",
+    "pubDate": "Fri, 03 Jul 2026 03:50:18 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Portugal through to last 16 after dramatic victory over Croatia",
+    "link": "https://www.bbc.co.uk/sport/football/videos/cy9r11gj8lzo?at_medium=RSS&at_campaign=rss",
+    "summary": "Portugal beat Croatia 2-1 with goals from Cristiano Ronaldo and Goncalo Ramos after a chaotic second-half in Toronto to set up a last 16 tie with Iberian rivals Spain.",
+    "pubDate": "Fri, 03 Jul 2026 02:57:22 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Taylor Swift's rumoured wedding celebrations begin with star-studded New York event",
+    "link": "https://www.bbc.co.uk/news/articles/crlw1eeez19o?at_medium=RSS&at_campaign=rss",
+    "summary": "Actress Lena Dunham, model Gigi Hadid and longtime music collaborator Jack Antonoff were spotted in formal attire near Madison Square Garden.",
+    "pubDate": "Fri, 03 Jul 2026 02:33:40 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "CarPlay Is Additive",
+    "link": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
+    "summary": "Article URL: https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts Comments URL: https://news.ycombinator.com/item?id=48769397 Points: 112 # Comments: 133",
+    "pubDate": "Fri, 03 Jul 2026 01:02:45 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Noah Donohoe inquest adjourned until later in year after late-night sitting",
+    "link": "https://www.bbc.co.uk/news/articles/cpwej0r7k5ro?at_medium=RSS&at_campaign=rss",
+    "summary": "The jury sat until 01:00 on Friday, but as they could not reach a unanimous verdict the inquest has been adjourned.",
+    "pubDate": "Fri, 03 Jul 2026 01:00:47 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Moment huge waterspout twirls over lake in Germany",
+    "link": "https://www.bbc.co.uk/news/videos/ckg8eld7pj7o?at_medium=RSS&at_campaign=rss",
+    "summary": "The phenomenon formed over a Lake Constance near the southern German city of Friedrichshafen.",
+    "pubDate": "Fri, 03 Jul 2026 00:54:46 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Hard work and a disco jacket - how England turned fielding woes around",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/cwyedgekzyjo?at_medium=RSS&at_campaign=rss",
+    "summary": "It used to be their big weakness but England have turned around their fielding woes with hard work and the help of a sparkly jacket.",
+    "pubDate": "Fri, 03 Jul 2026 00:26:53 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Arrest warrant issued for suspect in Monaco parcel bombing",
+    "link": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
+    "summary": "Monaco's prosecutor's office say the suspect is a foreign national and no longer in Monaco.",
+    "pubDate": "Fri, 03 Jul 2026 00:21:45 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "'World cup pubs boost' and 'Kate holds court'",
+    "link": "https://www.bbc.co.uk/news/articles/c5yz8jqq47jo?at_medium=RSS&at_campaign=rss",
+    "summary": "Late openings of pubs and Catherine appearing at Wimbledon lead Friday's front pages.",
+    "pubDate": "Fri, 03 Jul 2026 00:03:42 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Order a burned CD of your own public GitHub repo",
+    "link": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl",
+    "summary": "Article URL: https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&amp;route=shorturl Comments URL: https://news.ycombinator.com/item?id=48768997 Points: 116 # Comments: 88",
+    "pubDate": "Fri, 03 Jul 2026 00:01:26 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "An American Privacy Emergency",
+    "link": "https://scottaaronson.blog/?p=9902",
+    "summary": "Recent and related: Noise infusion banned from statistical products published by Census Bureau - https://news.ycombinator.com/item?id=48517377 - June 2026 (604 comments) Comments URL: https://news.ycombinator.com/item?id=48768992 Points: 216 # Comments: 72",
+    "pubDate": "Fri, 03 Jul 2026 00:01:06 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Last chance to apply — Startup Battlefield Australia applications close July 6",
+    "link": "https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/",
+    "summary": "If you're going to apply for Startup Battlefield Australia, now is the time. Applications close July 6, and once the deadline passes, the opportunity is gone.",
+    "pubDate": "Fri, 03 Jul 2026 00:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "The Onion’s ‘Infowars’ Parody Is Here. Alex Jones Is Going to Hate It",
+    "link": "https://www.wired.com/story/the-onions-infowars-parody-is-here-alex-jones-is-going-to-hate-it/",
+    "summary": "The satirical site is fighting to officially take over Infowars. In the meantime, CEO Ben Collins says the new show will mock “how fucking stupid” conspiratorial brain rot has become.",
+    "pubDate": "Fri, 03 Jul 2026 00:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "法拉第未来将召开特别股东大会，再次寻求更名",
+    "link": "https://36kr.com/newsflashes/3879387599581440?f=rss",
+    "summary": "法拉第未来北京时间7月3日宣布，公司计划于北京时间8月13日0:00在线召开特别股东大会，以寻求批准旨在支持公司全球EAI机器人世界落地及长期增长的相关提案。其中，公司董事会呼吁全体股东批准修订公司《第三次修订与重述的注册证书》，将公司名称由Faraday Future Intelligent Electric Inc.变更为Faraday Future Physical AI Ecosystem Inc.。（财联社）",
+    "pubDate": "2026-07-03 12:07:04  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "半日主力资金抛售机械设备、电子股",
+    "link": "https://36kr.com/newsflashes/3879380483108869?f=rss",
+    "summary": "主力资金早间净流入机械设备、电子、通信、汽车等板块，净流出基础化工、传媒、非银金融等板块。具体到个股来看，中际旭创、新易盛、中国巨石获净流入30.96亿元、28.62亿元、27.31亿元。净流出方面，多氟多、巨化股份、京东方A遭抛售30.39亿元、13.53亿元、11.42亿元。（第一财经）",
+    "pubDate": "2026-07-03 12:06:47  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "恒指午间休盘涨1.57%，恒生科技指数涨2.02%",
+    "link": "https://36kr.com/newsflashes/3879392053112839?f=rss",
+    "summary": "36氪获悉，恒指午间休盘涨1.57%，恒生科技指数涨2.02%；有色金属、汽车、软件服务板块领涨，赤峰黄金涨超16%，群核科技涨超7%，比亚迪股份涨超5%；环保板块走弱，绿博生态跌15%；南向资金净买入41.36亿港元。",
+    "pubDate": "2026-07-03 12:01:40  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "蓝思科技：玻璃基板相关业务还未产生收入，未来存在不确定性",
+    "link": "https://36kr.com/newsflashes/3879365624197380?f=rss",
+    "summary": "36氪获悉，蓝思科技在互动平台表示，公司在玻璃基板相关业务还未产生收入，未来存在不确定性，请投资者注意风险。",
+    "pubDate": "2026-07-03 11:58:41  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "苹果iOS 27 Beta版操作系统最新SDK包括Apple智能功能",
+    "link": "https://36kr.com/newsflashes/3879365257719810?f=rss",
+    "summary": "36氪获悉，苹果开发者微信公众号发文宣布，iOS 27 Beta版操作系统现可下载。最新SDK带来新功能，包括平台设计优化、Apple智能功能，以及新的AI开发框架。",
+    "pubDate": "2026-07-03 11:47:20  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "小鹏MONA L03预售开启",
+    "link": "https://36kr.com/newsflashes/3879364409192456?f=rss",
+    "summary": "36氪获悉，7月2日晚，小鹏MONA L03预售开启，并将于7月16日德国慕尼黑全球上市。",
+    "pubDate": "2026-07-03 11:41:28  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "A股三大指数午间收盘集体上涨，机器人概念领涨",
+    "link": "https://36kr.com/newsflashes/3879363635769350?f=rss",
+    "summary": "36氪获悉，A股三大指数午间收盘集体上涨，沪指涨0.69%，深成指涨1.39%，创业板指涨1.58%；贵金属、汽车、机器人概念领涨，晓程科技涨超12%，比亚迪涨超3%，奥比中光涨超11%；林木、文化传媒、互联网板块走弱，康欣新材跌超4%，佳云科技跌超3%，光云科技跌超2%。",
+    "pubDate": "2026-07-03 11:32:45  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "沪深两市成交额突破2万亿",
+    "link": "https://36kr.com/newsflashes/3879353568194568?f=rss",
+    "summary": "36氪获悉，沪深两市成交额突破2万亿。",
+    "pubDate": "2026-07-03 11:22:31  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "腾讯游戏暑期未保行动：每周限玩3小时",
+    "link": "https://36kr.com/newsflashes/3879352352731139?f=rss",
+    "summary": "36氪获悉，7月3日，腾讯游戏发布“2026年暑期未成年人保护专项行动”，每周限玩3小时，升级“AI双引擎防沉迷”模式：游戏外，成长守护焕新AI版本，接入腾讯混元与DeepSeek双模型，家长可通过对话式交互完成信息查询与账号管控，提升管理便捷度；游戏内，健康系统推出AI巡航功能，内置“AI守卫”，基于玩家行为进行动态风险分级，并在人脸识别基础上，新增声纹检测、年龄识别等多模态验证，实现全链路干预，提高冒用、代过门槛。",
+    "pubDate": "2026-07-03 11:21:16  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "华谊兄弟电影公司被执行1406万",
+    "link": "https://36kr.com/newsflashes/3879343481548805?f=rss",
+    "summary": "36氪获悉，天眼查App显示，近日，华谊兄弟电影有限公司新增三则被执行人信息，执行标的合计1406万余元，执行法院均为北京市朝阳区人民法院。该公司成立于2015年12月，法定代表人为王忠磊，注册资本1亿人民币，经营范围包括电影、网络剧制作、发行等，由华谊兄弟传媒股份有限公司全资持股。",
+    "pubDate": "2026-07-03 11:12:15  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "创业板指涨超2%",
+    "link": "https://36kr.com/newsflashes/3879321358757888?f=rss",
+    "summary": "36氪获悉，创业板指涨超2%，沪指涨0.66%，深成指涨1.52%。",
+    "pubDate": "2026-07-03 10:49:45  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "西贝餐饮集团退出小女当家",
+    "link": "https://36kr.com/newsflashes/3879315310374919?f=rss",
+    "summary": "36氪获悉，天眼查App显示，近日，深圳小女当家企业管理有限公司发生工商变更，原股东内蒙古西贝餐饮集团有限公司退出，新增广州品芯悦谷企业管理有限公司为股东。该公司成立于2020年4月，法定代表人为罗红勇，注册资本771.6万人民币，经营范围包括餐饮管理、餐饮咨询服务等，现由深圳市大罗企业管理有限公司、宁波普师企业管理咨询有限公司及上述新增股东共同持股。",
+    "pubDate": "2026-07-03 10:43:36  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "深成指、创业板指均涨超1%",
+    "link": "https://36kr.com/newsflashes/3879313135612161?f=rss",
+    "summary": "36氪获悉，深成指、创业板指均涨超1%。",
+    "pubDate": "2026-07-03 10:41:23  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "多家品牌金饰价格大涨，周生生克价1266元",
+    "link": "https://36kr.com/newsflashes/3879312159518982?f=rss",
+    "summary": "7月3日，国内黄金饰品价格对比显示，多家黄金珠宝品牌公布的境内足金首饰价格较昨日有所上调，老凤祥报价1260元/克，较前一日1230元/克涨30元；周生生报价1266元/克，较前一日1236元/克涨30元；周大福报价1262元/克，较前一日1233元涨29元；老庙黄金报价1261元/克，较前一日1235元/克涨26元。（界面）",
+    "pubDate": "2026-07-03 10:40:23  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "“格式塔科技”完成4.2亿元天使+轮融资",
+    "link": "https://36kr.com/newsflashes/3879309800058888?f=rss",
+    "summary": "36氪获悉，“格式塔科技（Gestala）”宣布完成4.2亿元人民币天使+轮融资。本轮融资由华映资本领投，C资本、红杉中国、蓝思科技、中电健康基金、创新工场、临港科创投资、复旦复容资本、国泰创投等多家国内外头部投资机构跟投。道彤投资、云时资本、清松资本、戈壁创投等老股东持续超额加码认购。华兴资本担任独家财务顾问。",
+    "pubDate": "2026-07-03 10:37:59  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "机构：日本可能正在采取新的外汇干预策略",
+    "link": "https://36kr.com/newsflashes/3879308887568387?f=rss",
+    "summary": "星展集团研究部的Philip Wee在一份评论中表示，日本可能正在采取新的外汇干预策略。该高级外汇策略师指出，有传言称日本财务省可能会转向不公开的隐秘货币干预。Wee表示，在今天美国债券和股票市场因独立日假期而流动性稀薄的情况下，此类干预“可能会加剧波动“。“日本的新策略似乎旨在将市场心理从怀疑转为谨慎。“（新浪财经）",
+    "pubDate": "2026-07-03 10:37:04  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "华为技术公司增资至约411.4亿",
+    "link": "https://36kr.com/newsflashes/3879302367637760?f=rss",
+    "summary": "36氪获悉，天眼查App显示，近日，华为技术有限公司发生工商变更，注册资本由约410.4 亿人民币增至约411.4亿人民币。该公司成立于1987年9月，法定代表人为赵明路，经营范围包括信息系统设计、集成、运行维护等，由华为投资控股有限公司全资持股。",
+    "pubDate": "2026-07-03 10:30:26  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "36氪首发 | 获宁德时代旗下基金领投数千万美元，智能出行公司上市首月已成印尼电摩品类订单第一",
+    "link": "https://36kr.com/p/3877990989819909?f=rss",
+    "summary": "作者&nbsp;|&nbsp;张子怡 编辑&nbsp;|&nbsp;袁斯来 硬氪获悉，智能两轮出行企业「OMOWAY」（目蔚科技）近期连续完成A轮和A+轮融资，单轮融资金额均为数千万美元。其中，A+轮由宁德时代支持设立的美元基金Lochpine Capital领投，A轮由Monolith领投，中金资本旗下基金及老股东真格基金跟投。 成立不到两年时间，OMOWAY已获得数轮融资。截至目前，其股东阵容包含红杉、真格、Monolith、中金等头部财务投资机构，还包括Lochpine Capital、星航资本（小鹏系基金）、惠友资本（比亚迪联创设立）等新能源产业投资方。 得益于充足资金和产业资源...",
+    "pubDate": "2026-07-03 10:26:11  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "创业板指涨逾1%，上涨个股近3800只",
+    "link": "https://36kr.com/newsflashes/3879281899270150?f=rss",
+    "summary": "36氪获悉，指数走强，创业板指拉升涨逾1.00%，沪指涨0.33%，深成指涨0.79%。机器人、有色金属等方向涨幅居前，沪深京三市上涨个股近3800只。",
+    "pubDate": "2026-07-03 10:09:36  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "今年2000亿元“两新”设备更新资金已全部下达",
+    "link": "https://36kr.com/newsflashes/3879278350741768?f=rss",
+    "summary": "今天（7月3日）从国家发展改革委了解到，今年2000亿元超长期特别国债支持“两新”设备更新资金已全部下达。（央视新闻）",
+    "pubDate": "2026-07-03 10:06:00  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "36氪首发 | 省级实验室团队做电氢耦合解决方案，获厦门高新投领投",
+    "link": "https://36kr.com/p/3879274157928449?f=rss",
+    "summary": "作者&nbsp;|&nbsp;乔钰杰 编辑&nbsp;|&nbsp;袁斯来 硬氪获悉，厦门启航氢能技术有限公司（以下简称“启航氢能”）近日完成新一轮融资，本轮由厦门高新投领投，融资资金将主要用于电氢耦合关键装备及离网制氢相关核心技术的持续研发投入与产品迭代升级。 启航氢能成立于2024年4月， 技术起源于嘉庚创新实验室电氢耦合研究团队。 公司专注于电氢耦合技术及应用场景的装备研发、生产与销售，核心团队在电力电子技术、智能电网与电化学等领域拥有近20年研究积累。嘉庚创新实验室是福建省政府设立的省级高水平科研平台之一，其氢能产业集群由实验室主任郑南峰院士、氢能研究院方晓亮院长牵头布局。 氢能...",
+    "pubDate": "2026-07-03 10:02:30  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "8点1氪丨“具身智能第一股” 宇树科技上市申请通过；SK海力士单日市值蒸发10000亿元；配置失误引发0元抢购潮，霸王茶姬致歉",
+    "link": "https://36kr.com/p/3879158039834629?f=rss",
+    "summary": "今日热点导览 苹果拟于今明两年推出至少五款新iPhone AI版支付宝开放公测，上线72项办事技能 特朗普回应“利用职位牟利”：股市在涨，大家都在赚钱 LV起诉茉莉奶白，茉莉奶白被判赔1030万元 6月赴日航班取消1488个 安克创新港股上市首日破发 TOP3大新闻 证监会同意宇树科技科创板IPO注册 7月2日，证监会网站显示，同意宇树科技首次公开发行股票注册。这意味着，全球首家在IPO前实现人形机器人规模化盈利的企业正式拿到A股“入场券”，将成为A股“人形机器人第一股”。&nbsp; 宇树科技从今年3月20日科创板IPO申请获受理，再到7月2日注册生效，仅用时104天。其创下科创板预先...",
+    "pubDate": "2026-07-03 08:06:38  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "Sony’s PlayStation disc factory is already being repurposed",
+    "link": "https://www.theverge.com/games/961203/sony-austria-thalgau-end-disc-production-microlenses-instead",
+    "summary": "The video game disc is dead, and Sony's been planning to kill it for some time, according to a report out of Austria. The man who leads Sony's discmaking operations, Sony DADC president Dietmar Tanzer, told ORF Salzburg that the company's Thalgau plant produces 600,000 discs every day, half of wh...",
+    "pubDate": "2026-07-02T21:05:13-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Tesla driver faces manslaughter charges over Texas crash that killed a woman inside her home",
+    "link": "https://www.theverge.com/transportation/961161/tesla-fsd-katy-tx-manslaughter-charges",
+    "summary": "The man whose Tesla struck and killed a woman inside her Texas home last month is now facing manslaughter charges, as reported earlier by The Wall Street Journal and local news outlet KHOU 11. 44-year-old Michael Butler was arrested on Wednesday and claimed to have been driving his Model 3 using ...",
+    "pubDate": "2026-07-02T18:09:33-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Meta has a new app called Pocket that is absolutely nothing like the old Pocket",
+    "link": "https://www.theverge.com/tech/961086/meta-pocket-app-gizmo-ai",
+    "summary": "Mozilla shut down the well-loved read-it-later Pocket app last year, and now Meta is launching an app called Pocket with an entirely different, AI-focused pitch: this new app lets you make and share little interactive \"gizmos\" built from an AI prompt, as reported by Business Insider. Meta CEO Mar...",
+    "pubDate": "2026-07-02T17:09:06-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Neutrino’s nursery found: the ‘Shadow Blaster’",
+    "link": "https://www.nature.com/articles/d41586-026-02034-1",
+    "summary": "Nature, Published online: 02 July 2026; doi:10.1038/d41586-026-02034-1 A particle detected at the South Pole was born in a galaxy that churned out stars when the Universe was young.",
+    "pubDate": "2026-07-02",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Dementia risk in middle-aged people linked to a blood protein",
+    "link": "https://www.nature.com/articles/d41586-026-02035-0",
+    "summary": "Nature, Published online: 26 June 2026; doi:10.1038/d41586-026-02035-0 Those under 55 with relatively high levels of the molecule GDF15 had an elevated risk of developing dementia.",
+    "pubDate": "2026-06-26",
+    "source": "Nature",
+    "category": "science"
+  }
+]

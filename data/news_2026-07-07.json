@@ -1,5 +1,261 @@
 [
   {
+    "title": "Re: I'm Begging You to Leave Your AI Note-Taker at Home",
+    "link": "https://firesphere.dev/articles/yes-actually-i-do-fucking-mind",
+    "summary": "Article URL: https://firesphere.dev/articles/yes-actually-i-do-fucking-mind Comments URL: https://news.ycombinator.com/item?id=48823024 Points: 3 # Comments: 0",
+    "pubDate": "Tue, 07 Jul 2026 20:10:13 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
+    "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+    "summary": "Open-source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life-cycle.",
+    "pubDate": "Tue, 07 Jul 2026 20:04:32 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+    "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+    "summary": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending.",
+    "pubDate": "Tue, 07 Jul 2026 19:58:20 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Marine Le Pen to run for French presidency and appeal conviction in top court",
+    "link": "https://www.bbc.co.uk/news/articles/c7vygl3zymjo?at_medium=RSS&at_campaign=rss",
+    "summary": "The hard-right National Rally leader has ended months of speculation, after a court ruled she could run but would have to wear a tag for a year.",
+    "pubDate": "Tue, 07 Jul 2026 19:55:59 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Bethesda, id Software reportedly hit hard by Microsoft layoffs",
+    "link": "https://arstechnica.com/gaming/2026/07/bethesda-id-software-reportedly-hit-hard-by-microsoft-layoffs/",
+    "summary": "As much as 50 percent of some teams affected by reductions, and more could be coming.",
+    "pubDate": "Tue, 07 Jul 2026 19:52:59 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Superb England inflict record T20 defeat on India",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/cn59nkwp275o?at_medium=RSS&at_campaign=rss",
+    "summary": "England inflict a record defeat on India in the third Twenty20 at Trent Bridge to give the home side a 2-0 lead with two matches in the series remaining.",
+    "pubDate": "Tue, 07 Jul 2026 19:45:38 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Harry's bad news lands at wrong time, but prince sticks to script",
+    "link": "https://www.bbc.co.uk/news/articles/ckg5v6n29g6o?at_medium=RSS&at_campaign=rss",
+    "summary": "The Duke of Sussex has returned to the UK, but his first day of engagements was overshadowed by his defeat in court.",
+    "pubDate": "Tue, 07 Jul 2026 19:42:43 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Chris Mason: Farage attempts to seize back the agenda",
+    "link": "https://www.bbc.co.uk/news/articles/c1my1g29gk7o?at_medium=RSS&at_campaign=rss",
+    "summary": "His aim throughout the forthcoming campaign is to clearly frame this by-election as \"the people versus the establishment\".",
+    "pubDate": "Tue, 07 Jul 2026 19:35:19 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
+    "link": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+    "summary": "The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and fixed the problem.",
+    "pubDate": "Tue, 07 Jul 2026 19:28:38 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Shades of Keane and Gerrard in Bellingham display - Rooney",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c70ygx549d0o?at_medium=RSS&at_campaign=rss",
+    "summary": "Wayne Rooney believes Jude Bellingham's performance against Mexico ranks alongside iconic Steven Gerrard and Roy Keane displays",
+    "pubDate": "Tue, 07 Jul 2026 19:23:35 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Fifa investigating alleged racist abuse of IShowSpeed",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c1my1pr18jmo?at_medium=RSS&at_campaign=rss",
+    "summary": "Fifa has opened an investigation following allegations of racist abuse involving American social media influencer IShowSpeed and a supporter during Argentina's 3-2 win over Cape Verde on Friday.",
+    "pubDate": "Tue, 07 Jul 2026 19:13:36 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Google's Pixel 11 launch event is set for August 12, with possible price increases",
+    "link": "https://arstechnica.com/gadgets/2026/07/googles-pixel-11-launch-event-is-set-for-august-12-with-possible-price-increases/",
+    "summary": "Google's new phones could feature glowing LEDs and higher price tags.",
+    "pubDate": "Tue, 07 Jul 2026 19:08:34 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Farage resigns as MP and vows to fight by-election amid finances row",
+    "link": "https://www.bbc.co.uk/news/articles/c0ly51kzdz3o?at_medium=RSS&at_campaign=rss",
+    "summary": "Labour, the Conservatives, the Lib Dems and Restore Britain rule out standing in the by-election, in an effective boycott.",
+    "pubDate": "Tue, 07 Jul 2026 19:07:18 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Nigel Farage Resigns As MP",
+    "link": "https://www.bbc.co.uk/sounds/play/p0nx5dtz?at_medium=RSS&at_campaign=rss",
+    "summary": "Nigel Farage resigns as MP but says he’ll fight the by-election.",
+    "pubDate": "Tue, 07 Jul 2026 19:05:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Trump looms large as Nato grapples with challenge of rearming Europe",
+    "link": "https://www.bbc.co.uk/news/articles/ckg06d3dgnlo?at_medium=RSS&at_campaign=rss",
+    "summary": "The US president's inflammatory words have punctuated the image of unity at this crucial gathering, Security Correspondent Frank Gardner writes.",
+    "pubDate": "Tue, 07 Jul 2026 18:56:19 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Show HN: Davit, a Apple Containers UI",
+    "link": "https://davit.app",
+    "summary": "Mostly vibe-coded Apple Containers front-end that I'd like to use myself. But if others want to use it, here's the source code. Comments URL: https://news.ycombinator.com/item?id=48821848 Points: 27 # Comments: 4",
+    "pubDate": "Tue, 07 Jul 2026 18:44:29 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Google’s Pixel event is set for August 12",
+    "link": "https://techcrunch.com/2026/07/07/googles-pixel-event-is-set-for-august-12/",
+    "summary": "Google's upcoming event in August will introduce new Pixel devices.",
+    "pubDate": "Tue, 07 Jul 2026 18:38:29 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Figma acquires team behind a vibe-coding app",
+    "link": "https://techcrunch.com/2026/07/07/figma-acquires-team-behind-a-vibe-coding-app/",
+    "summary": "The Y Combinator-backed company started a vibe-coding platform and later built an agent-creation product.",
+    "pubDate": "Tue, 07 Jul 2026 18:37:01 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+    "link": "https://blog.zksecurity.xyz/posts/circl-bugs/",
+    "summary": "Article URL: https://blog.zksecurity.xyz/posts/circl-bugs/ Comments URL: https://news.ycombinator.com/item?id=48821749 Points: 34 # Comments: 3",
+    "pubDate": "Tue, 07 Jul 2026 18:36:35 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Hungary's public news broadcasts halted in bid to scrap Orban-era propaganda",
+    "link": "https://www.bbc.co.uk/news/articles/cgevwq1pndgo?at_medium=RSS&at_campaign=rss",
+    "summary": "The country's main state TV channel displayed a message saying it was \"sorry\" for lying on Tuesday.",
+    "pubDate": "Tue, 07 Jul 2026 18:34:45 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Astro 7.0",
+    "link": "https://astro.build/blog/astro-7/",
+    "summary": "Article URL: https://astro.build/blog/astro-7/ Comments URL: https://news.ycombinator.com/item?id=48821653 Points: 108 # Comments: 24",
+    "pubDate": "Tue, 07 Jul 2026 18:30:02 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The Weather Channel increases streaming subscription prices by up to $20",
+    "link": "https://arstechnica.com/gadgets/2026/07/the-weather-channels-streaming-app-gets-a-67-percent-price-hike/",
+    "summary": "Livestreaming the channel through its app now starts at $5 per month.",
+    "pubDate": "Tue, 07 Jul 2026 18:29:24 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+    "link": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
+    "summary": "Article URL: https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/ Comments URL: https://news.ycombinator.com/item?id=48821576 Points: 62 # Comments: 13",
+    "pubDate": "Tue, 07 Jul 2026 18:24:10 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Show HN: Docx-CLI: agents read/edit Word docs using 1/2 the time and tokens",
+    "link": "https://github.com/kklimuk/docx-cli",
+    "summary": "Article URL: https://github.com/kklimuk/docx-cli Comments URL: https://news.ycombinator.com/item?id=48821500 Points: 19 # Comments: 7",
+    "pubDate": "Tue, 07 Jul 2026 18:19:00 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The Nintendo Switch's days are numbered—but what is that number?",
+    "link": "https://arstechnica.com/gaming/2026/07/the-nintendo-switchs-days-are-numbered-but-what-is-that-number/",
+    "summary": "Ars analysis suggests the 9-year-old console could keep selling for years.",
+    "pubDate": "Tue, 07 Jul 2026 18:16:29 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Notes on Software Quality",
+    "link": "https://anthonyhobday.com/blog/20260410",
+    "summary": "Article URL: https://anthonyhobday.com/blog/20260410 Comments URL: https://news.ycombinator.com/item?id=48821441 Points: 28 # Comments: 10",
+    "pubDate": "Tue, 07 Jul 2026 18:14:50 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "l: A new runtime for k and q",
+    "link": "https://lv1.sh/",
+    "summary": "https://lv1.sh/blog/why-l/ Comments URL: https://news.ycombinator.com/item?id=48821378 Points: 45 # Comments: 25",
+    "pubDate": "Tue, 07 Jul 2026 18:08:29 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "'How?!' - Gauff battles into first Wimbledon semi-final",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/c0qyv12xyw5o?at_medium=RSS&at_campaign=rss",
+    "summary": "Coco Gauff surprised even herself by overcoming her recent grass-court struggles to reach a first Wimbledon semi-final against Karolina Muchova.",
+    "pubDate": "Tue, 07 Jul 2026 18:08:20 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Mysterious Compound Detected on Pluto and Titan",
+    "link": "https://www.wired.com/story/mysterious-compound-detected-on-pluto-and-titan/",
+    "summary": "Something on Pluto and one of Saturn’s moons, Titan, absorbs light in a way unexplained by anything in spectroscopic databases.",
+    "pubDate": "Tue, 07 Jul 2026 18:03:40 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Harry loses High Court privacy case against Daily Mail publisher",
+    "link": "https://www.bbc.co.uk/news/articles/c9324nyqwjno?at_medium=RSS&at_campaign=rss",
+    "summary": "Judge Mr Justice Nicklin says the claimants had failed to prove the allegations.",
+    "pubDate": "Tue, 07 Jul 2026 17:57:40 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "England players to be told not to jump hoardings",
+    "link": "https://www.bbc.co.uk/sport/football/articles/czx5qev7nqno?at_medium=RSS&at_campaign=rss",
+    "summary": "England players will be advised not to jump over advertising hoardings after Jordan Henderson suffered a freak injury.",
+    "pubDate": "Tue, 07 Jul 2026 17:49:34 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Netflix dabbles in shorter video content with its new set of publisher deals with Variety, others",
+    "link": "https://techcrunch.com/2026/07/07/netflix-dabbles-in-shorter-video-content-with-its-new-set-of-publisher-deals-with-variety-others/",
+    "summary": "Netflix is bringing 2- to 20-minute videos to its platform through new partnerships with digital publishers, including Rolling Stone and Variety.",
+    "pubDate": "Tue, 07 Jul 2026 17:24:35 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
     "title": "社区速递 148 | 派友的全屋智能实操、水月雨布丁耳机与MUJI可调节毛巾枕",
     "link": "https://sspai.com/post/112017",
     "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ... 查看全文",
@@ -8,12 +264,148 @@
     "category": "tech-cn"
   },
   {
+    "title": "This race car is made from plant fibers, volcanoes, ... and seawater?",
+    "link": "https://arstechnica.com/cars/2026/07/this-race-car-is-made-from-plant-fibers-volcanoes-and-seawater/",
+    "summary": "The T70S can be eligible for racing events or built to be road-legal.",
+    "pubDate": "Tue, 07 Jul 2026 16:45:18 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Hacked, leaked, and held for ransom: The worst breaches of 2026 so far",
+    "link": "https://techcrunch.com/2026/07/07/the-worst-hacks-and-breaches-of-2026-so-far/",
+    "summary": "From a massive DOGE data breach and the hacking of critical energy and water systems to the hack of an FBI surveillance system, here are the most damaging security incidents and data breaches of 2026.",
+    "pubDate": "Tue, 07 Jul 2026 16:45:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "China sentences official to death for taking $325M in bribes",
+    "link": "https://www.bbc.com/news/articles/c33y0n1v1xjo",
+    "summary": "Article URL: https://www.bbc.com/news/articles/c33y0n1v1xjo Comments URL: https://news.ycombinator.com/item?id=48820220 Points: 180 # Comments: 202",
+    "pubDate": "Tue, 07 Jul 2026 16:38:08 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Reducing Doom Loops with Final Token Preference Optimization",
+    "link": "https://www.liquid.ai/blog/antidoom",
+    "summary": "Article URL: https://www.liquid.ai/blog/antidoom Comments URL: https://news.ycombinator.com/item?id=48820127 Points: 20 # Comments: 4",
+    "pubDate": "Tue, 07 Jul 2026 16:31:19 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Jim's TrueType QR Code Font",
+    "link": "https://github.com/jimparis/qr-font",
+    "summary": "https://qr.jim.sh/ Comments URL: https://news.ycombinator.com/item?id=48820119 Points: 77 # Comments: 7",
+    "pubDate": "Tue, 07 Jul 2026 16:30:42 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Watch: Clacton's mixed views on Farage's resignation",
+    "link": "https://www.bbc.co.uk/news/videos/c3wy0d3v9epo?at_medium=RSS&at_campaign=rss",
+    "summary": "Nigel Farage announced he is resigning as an MP, triggering a by-election he will stand in.",
+    "pubDate": "Tue, 07 Jul 2026 16:28:50 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Claude Cowork expands to mobile and web",
+    "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+    "summary": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed.",
+    "pubDate": "Tue, 07 Jul 2026 16:27:18 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "MacSurf 1.68 – NetSurf on OS 9 Released",
+    "link": "https://github.com/mplsllc/macsurf/releases/tag/v1.86",
+    "summary": "Article URL: https://github.com/mplsllc/macsurf/releases/tag/v1.86 Comments URL: https://news.ycombinator.com/item?id=48820022 Points: 48 # Comments: 8",
+    "pubDate": "Tue, 07 Jul 2026 16:24:40 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Facing US export controls, China's DeepSeek plans to make its own chips",
+    "link": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
+    "summary": "It's early, but the plan is to reduce dependency on Nvidia and Huawei.",
+    "pubDate": "Tue, 07 Jul 2026 16:14:53 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
     "title": "用 Option 给 macOS 操作加点料",
     "link": "https://sspai.com/post/73385",
     "summary": "Option 做的就和它图标 ⌥ 所展示的那样——展示菜单和选项的另一面。 查看全文",
     "pubDate": "Tue, 07 Jul 2026 16:12:23 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+    "link": "https://github.com/rowboatlabs/rowboat",
+    "summary": "Claude’s desktop app is brilliant, but for our own daily work we kept wanting it to be less like a chat app and more like a full-fledged work app. Rowboat is our attempt at that, including the ability to build your own work surfaces inside Rowboat (more below). Our repo is https://github.com/rowb...",
+    "pubDate": "Tue, 07 Jul 2026 16:10:44 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Lawyer says detained Gaza doctor was severely beaten in Israeli jail",
+    "link": "https://www.bbc.co.uk/news/articles/c07yy3pgrlmo?at_medium=RSS&at_campaign=rss",
+    "summary": "The lawyer for Dr Hussam Abu Safiya tells the BBC his client was so badly beaten he could not recognise him during a visit last week.",
+    "pubDate": "Tue, 07 Jul 2026 16:10:14 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Shut Those Laptops! Anthropic Puts Its Claude Cowork Agent on Your Phone",
+    "link": "https://www.wired.com/story/shut-those-laptops-anthropic-puts-its-claude-cowork-agent-on-your-phone/",
+    "summary": "Claude Cowork now keeps working on tasks even after you close your laptop. It’s part of a larger push toward smartphone-controlled agents.",
+    "pubDate": "Tue, 07 Jul 2026 16:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
+    "link": "https://30papers.com/",
+    "summary": "Article URL: https://30papers.com/ Comments URL: https://news.ycombinator.com/item?id=48819608 Points: 205 # Comments: 36",
+    "pubDate": "Tue, 07 Jul 2026 15:58:13 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Can Scotland learn from history-making Norway?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cr7xk8r9xl4o?at_medium=RSS&at_campaign=rss",
+    "summary": "Norway, a nation of a similar size to Scotland, are through to the World Cup quarter-finals, so can lessons be learned from their neighbours from across the North Sea?",
+    "pubDate": "Tue, 07 Jul 2026 15:54:46 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Dragonflies maneuver like fighter pilots",
+    "link": "https://arstechnica.com/science/2026/07/dragonflies-maneuver-like-fighter-pilots/",
+    "summary": "Male dragonflies' dramatic aerial combat maneuvers emerge from relatively simple vision-based rules.",
+    "pubDate": "Tue, 07 Jul 2026 15:54:18 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Why we built yet another Postgres connection pooler",
+    "link": "https://pgdog.dev/blog/why-yet-another-connection-pooler",
+    "summary": "Article URL: https://pgdog.dev/blog/why-yet-another-connection-pooler Comments URL: https://news.ycombinator.com/item?id=48819308 Points: 76 # Comments: 11",
+    "pubDate": "Tue, 07 Jul 2026 15:36:49 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Microsoft fire idTech team at Id software",
+    "link": "https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/",
+    "summary": "Article URL: https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/ Comments URL: https://news.ycombinator.com/item?id=48819244 Points: 390 # Comments: 391",
+    "pubDate": "Tue, 07 Jul 2026 15:33:20 +0000",
+    "source": "Hacker News",
+    "category": "tech"
   },
   {
     "title": "'I'm dying, I'm not going to see my daughter again', stabbed teacher tells court",
@@ -48,6 +440,14 @@
     "category": "tech"
   },
   {
+    "title": "Automating AI Away",
+    "link": "https://replicated.live/blog/away",
+    "summary": "Article URL: https://replicated.live/blog/away Comments URL: https://news.ycombinator.com/item?id=48818937 Points: 59 # Comments: 32",
+    "pubDate": "Tue, 07 Jul 2026 15:11:08 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "Russia could compete at LA 2028 Olympics",
     "link": "https://www.bbc.co.uk/sport/olympics/articles/cp8leyjn38zo?at_medium=RSS&at_campaign=rss",
     "summary": "Russian could be allowed to compete at the 2028 Olympic Games in Los Angeles as the International Olympic Committee provisionally lifts their suspension.",
@@ -72,6 +472,14 @@
     "category": "general"
   },
   {
+    "title": "Reigning champion Argentina escapes with remarkable World Cup victory over Egypt",
+    "link": "https://www.npr.org/2026/07/07/nx-s1-5884872/2026-world-cup-fifa-argentina-egypt-round-of-16",
+    "summary": "Egypt was leading late, up 2-0. The Argentinians looked beaten. But they fought and fought and fought. Scoring one goal, then another to equalize. And, finally, a third to advance to the quarterfinal.",
+    "pubDate": "Tue, 07 Jul 2026 14:49:12 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "The Revenge of the Philosophy Majors",
     "link": "https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html",
     "summary": "Article URL: https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html Comments URL: https://news.ycombinator.com/item?id=48818544 Points: 28 # Comments: 10",
@@ -85,6 +493,14 @@
     "summary": "AI law startup Norm has raised a $120 million Series C round led by Khosla Ventures, valuing the startup at $1.2 billion.",
     "pubDate": "Tue, 07 Jul 2026 14:35:42 +0000",
     "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Chat Control 1.0 and 2.0 Explained",
+    "link": "https://fightchatcontrol.eu/chat-control-overview",
+    "summary": "Article URL: https://fightchatcontrol.eu/chat-control-overview Comments URL: https://news.ycombinator.com/item?id=48818311 Points: 229 # Comments: 66",
+    "pubDate": "Tue, 07 Jul 2026 14:23:15 +0000",
+    "source": "Hacker News",
     "category": "tech"
   },
   {
@@ -128,6 +544,22 @@
     "category": "general"
   },
   {
+    "title": "International Olympic Committee lifts Russia suspension ahead of 2028 LA Games",
+    "link": "https://www.npr.org/2026/07/07/nx-s1-5884868/russia-olympics-ban-lifted-ioc-2028-los-angeles-games",
+    "summary": "The International Olympic Committee advised sports bodies to end a three-year program vetting Russians for neutral status ahead of qualifying events for the 2028 Los Angeles Olympics.",
+    "pubDate": "Tue, 07 Jul 2026 13:43:12 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "New virus catalog reveals which pathogens pose the greatest threat",
+    "link": "https://arstechnica.com/health/2026/07/new-virus-catalog-reveals-which-pathogens-pose-the-greatest-threat/",
+    "summary": "The data can help predict what a future pandemic virus might look like.",
+    "pubDate": "Tue, 07 Jul 2026 13:15:49 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
     "title": "Hacktivists call out Trump by hacking and defacing US Army websites",
     "link": "https://techcrunch.com/2026/07/07/hacktivists-call-out-trump-by-hacking-and-defacing-us-army-websites/",
     "summary": "The U.S. Army has fixed two of its websites that were hacked to display messages calling President Trump a \"pedophile\" and a \"thief.\"",
@@ -141,6 +573,14 @@
     "summary": "You can clip a cover over the cameras, which could be a double-edged sword.",
     "pubDate": "Tue, 07 Jul 2026 13:00:00 +0000",
     "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Your Rust Service Isn't Leaking — It Could Be the Allocator",
+    "link": "https://pranitha.dev/posts/rust-and-memory-allocators/",
+    "summary": "Comments",
+    "pubDate": "Tue, 07 Jul 2026 12:51:14 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -174,6 +614,14 @@
     "pubDate": "Tue, 07 Jul 2026 12:40:28 +0000",
     "source": "Hacker News",
     "category": "tech"
+  },
+  {
+    "title": "Jude Bellingham station to keep name until Monday",
+    "link": "https://www.bbc.co.uk/news/articles/cm20gyzl3g2o?at_medium=RSS&at_campaign=rss",
+    "summary": "The station was renamed to give England a boost before the match with Mexico - in which Jude Bellingham shone.",
+    "pubDate": "Tue, 07 Jul 2026 12:38:36 GMT",
+    "source": "BBC News",
+    "category": "general"
   },
   {
     "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
@@ -262,6 +710,22 @@
     "pubDate": "Tue, 07 Jul 2026 11:05:01 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Friction is a Feature",
+    "link": "https://philip.mallegolhansen.com/blog/2026-07-04-friction-is-a-feature.html",
+    "summary": "Comments",
+    "pubDate": "Tue, 07 Jul 2026 11:03:16 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Getting Started with Anchor Positioning",
+    "link": "https://www.joshwcomeau.com/css/anchor-positioning/",
+    "summary": "Comments",
+    "pubDate": "Tue, 07 Jul 2026 11:03:10 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Hisense UR9 RGB MiniLED: An Affordable TV in Its Class",
@@ -365,6 +829,14 @@
     "summary": "The lab will beam back data to train AI models to predict how proteins behind age-related diseases like Alzheimer’s and certain cancers behave.",
     "pubDate": "Tue, 07 Jul 2026 09:57:12 +0000",
     "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "GitHub Has Restricted Access to Star Data",
+    "link": "https://www.star-history.com/blog/github-stargazer-api-restriction",
+    "summary": "Comments",
+    "pubDate": "Tue, 07 Jul 2026 09:35:05 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -517,6 +989,22 @@
     "summary": "Graham Platner is facing growing pressure to end his campaign for U.S. Senate in Maine after Politico reported an allegation of sexual assault. Platner has denied the claim.",
     "pubDate": "Tue, 07 Jul 2026 06:44:47 -0400",
     "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Democratic strategist says transparency is Platner's 'only path forward'",
+    "link": "https://www.npr.org/2026/07/07/nx-s1-5884097/democrats-graham-platner-new-sexual-assault-allegation",
+    "summary": "NPR's Steve Inskeep speaks with Democratic strategist Joel Payne about prominent Democrats on the national and state level urging Graham Platner to withdraw from the Maine Senate race.",
+    "pubDate": "Tue, 07 Jul 2026 06:44:43 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "The man who invented a sport and played tennis with Willy Wonka",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/c1e2nlj58zxo?at_medium=RSS&at_campaign=rss",
+    "summary": "Brad Parks came up with the idea for a new sport while on a family picnic 50 years ago.",
+    "pubDate": "Tue, 07 Jul 2026 06:39:44 GMT",
+    "source": "BBC News",
     "category": "general"
   },
   {
@@ -1208,6 +1696,70 @@
     "category": "general"
   },
   {
+    "title": "X says top accounts steal videos from other users as it announces new video tools",
+    "link": "https://www.theverge.com/tech/962415/x-video-editor-recycled-content",
+    "summary": "Nikita Bier, X's head of product, said in a post on Monday that \"[m]any videos from top accounts are simply stolen from other users, sometimes 5 years after they originally went viral,\" while noting that videos on the platform \"make up close to half the impressions on X.\" According to Bier, X is ...",
+    "pubDate": "2026-07-07T14:28:08-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "The ‘G-Wagen of golf carts’ could be the ideal second car",
+    "link": "https://www.theverge.com/transportation/962187/amble-golf-cart-moon-buggy-ev-design-price-specs",
+    "summary": "While the auto industry wrings its hands over the electric vehicle market, sweating details like aerodynamic efficiency and range anxiety, a new EV startup based in Lisbon, Portugal, is zagging in a different direction. Amble's new electric buggy won't impress anyone with its 0-60 time or its sel...",
+    "pubDate": "2026-07-07T13:52:51-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "ABC tells the government to get out of its newsrooms",
+    "link": "https://www.theverge.com/policy/962342/abc-fcc-the-view-free-speech",
+    "summary": "ABC is firing back at the Federal Communications Commission after the agency opened an investigation into The View's airtime of political candidates. In a letter to the FCC on Tuesday, ABC argues that the agency's actions pose a risk to editorial independence by targeting programs \"perceived as u...",
+    "pubDate": "2026-07-07T13:47:38-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Anthropic is launching Claude Cowork on mobile and web",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+    "summary": "Starting Tuesday, Anthropic's Claude Cowork AI platform will be available on mobile and web for the first time. The expanded access is rolling out first to Max subscribers and coming to Claude users on other plans \"in the coming weeks.\" Claude Cowork was previously only accessible through the Cla...",
+    "pubDate": "2026-07-07T13:46:59-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Google announces Pixel 11 launch event in August",
+    "link": "https://www.theverge.com/tech/962313/made-by-google-pixel-11-launch-event",
+    "summary": "Google is hosting its next Made by Google launch event for Pixel hardware on August 12th in New York City, according to an invitation sent by Google to The Verge. Unusually, the event is taking place in the evening: It'll kick off at 6PM ET that day. The email also includes a brief animation teas...",
+    "pubDate": "2026-07-07T13:22:48-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Doom developer id reportedly cut in half as part of Xbox layoffs",
+    "link": "https://www.theverge.com/games/962223/doom-id-software-xbox-layoffs",
+    "summary": "As part of the mass layoffs hitting Xbox, Doom developer id Software has laid off around 50 percent of its staff, according to Game Developer. One source claimed to the publication that the cuts equate to more than 90 redundancies. Another source said that id's QA department was significantly imp...",
+    "pubDate": "2026-07-07T12:09:48-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Discord accidentally banned over 8,000 people for posting grids and other &#8216;benign&#8217; images",
+    "link": "https://www.theverge.com/games/962156/discord-accidental-bans-grid-images",
+    "summary": "Discord says a bug affecting its safety system caused it to mistakenly ban more than 8,000 accounts since May. The platform's statement follows a wave of reports from users over the past week, who say they've been banned for posting images containing grids, such as chessboards, game textures, and...",
+    "pubDate": "2026-07-07T11:02:30-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Anker&#8217;s noise-blocking earbuds for sleeping are nearly half off",
+    "link": "https://www.theverge.com/gadgets/961962/anker-soundcore-sleep-a20-jbl-go-5-deal-sale",
+    "summary": "You might have a great bed and a good sleepy time routine, but if you’re still struggling to fall (or stay) asleep, Anker&#8217;s Soundcore Sleep A20 are worth considering. They’re designed to help muffle distracting sounds, and they’ve hit a new all-time low price of $99.99 ($80 off) at Best Buy...",
+    "pubDate": "2026-07-07T10:30:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
     "title": "iRobot’s newest floor cleaner isn’t a robot",
     "link": "https://www.theverge.com/tech/962034/irobot-roomba-electro-plus-smaller-cheaper-robot-vacuums",
     "summary": "iRobot just announced its first ever non-robotic floor cleaner. The $399 Roomba Electro Plus is a 5-in-1 hard-floor cleaner that combines vacuuming, mopping, and disinfecting, but you have to operate it yourself. The company also announced updates to its line of Roomba robot vacuums, launching fi...",
@@ -1862,6 +2414,14 @@
     "pubDate": "2026-07-07 08:15:11  +0800",
     "source": "36Kr",
     "category": "tech-cn"
+  },
+  {
+    "title": "Body-plan organizer in comb jellies hints at animal ancestry",
+    "link": "https://www.nature.com/articles/d41586-026-02040-3",
+    "summary": "Nature, Published online: 07 July 2026; doi:10.1038/d41586-026-02040-3 Transplantation experiments in evolutionarily distinct animal groups reveal conserved mechanisms underlying tissue organization during development.",
+    "pubDate": "2026-07-07",
+    "source": "Nature",
+    "category": "science"
   },
   {
     "title": "Publisher Correction: A 98-qubit trapped-ion quantum computer with all-to-all connectivity",

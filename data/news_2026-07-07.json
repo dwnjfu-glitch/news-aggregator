@@ -1,5 +1,21 @@
 [
   {
+    "title": "社区速递 148 | 派友的全屋智能实操、水月雨布丁耳机与MUJI可调节毛巾枕",
+    "link": "https://sspai.com/post/112017",
+    "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ... 查看全文",
+    "pubDate": "Tue, 07 Jul 2026 17:00:00 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "用 Option 给 macOS 操作加点料",
+    "link": "https://sspai.com/post/73385",
+    "summary": "Option 做的就和它图标 ⌥ 所展示的那样——展示菜单和选项的另一面。 查看全文",
+    "pubDate": "Tue, 07 Jul 2026 16:12:23 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
     "title": "新手日记的「为什么」与「写什么」",
     "link": "https://sspai.com/post/111655",
     "summary": "如何迈出日常写作的第一步？ 查看全文",
@@ -8,12 +24,284 @@
     "category": "tech-cn"
   },
   {
+    "title": "Pete Holmes Is Not Reading Your Email",
+    "link": "https://www.wired.com/story/pete-holmes-user-behavior/",
+    "summary": "“You can make a living, you can have a life, and leave 55,000 emails unread with a big fuck off.”",
+    "pubDate": "Tue, 07 Jul 2026 10:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Erling Haaland Is Everywhere at the World Cup. Most of It Is AI",
+    "link": "https://www.wired.com/story/erling-haaland-is-everywhere-at-the-world-cup-most-of-it-is-ai/",
+    "summary": "Norwegian striker Erling Haaland isn’t just a footballer anymore. He’s become an internet character perpetuated by fans and AI.",
+    "pubDate": "Tue, 07 Jul 2026 10:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "People Used to Control Machines. They Don’t Anymore",
+    "link": "https://www.wired.com/story/loss-of-physical-world-book-excerpt-the-small-stuff-ian-bogost/",
+    "summary": "In a world regulated by devices, humanity has become disconnected from the physical world—from stick-shift cars to postcards.",
+    "pubDate": "Tue, 07 Jul 2026 10:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Messi v Salah: A World Cup meeting of two national icons",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cvg55yl9xj4o?at_medium=RSS&at_campaign=rss",
+    "summary": "Mohamed Salah and Lionel Messi will meet in the last 16 of the World Cup on Tuesday with their nations' hopes resting firmly on their shoulders.",
+    "pubDate": "Tue, 07 Jul 2026 09:58:33 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "E-bike injury payouts top £110m and push up insurance premiums",
+    "link": "https://www.bbc.co.uk/news/articles/c05y9pe5p1jo?at_medium=RSS&at_campaign=rss",
+    "summary": "It is only seven years since the first claim over an injury from a micromobility vehicle was made.",
+    "pubDate": "Tue, 07 Jul 2026 09:57:27 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "British Space Startup Launches Longevity Lab Into Orbit",
+    "link": "https://www.wired.com/story/british-space-startup-launches-longevity-lab-into-orbit/",
+    "summary": "The lab will beam back data to train AI models to predict how proteins behind age-related diseases like Alzheimer’s and certain cancers behave.",
+    "pubDate": "Tue, 07 Jul 2026 09:57:12 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Explosions injure 18 in Damascus during Macron's visit",
+    "link": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&at_campaign=rss",
+    "summary": "As reports of the blasts came in, state television said the Syrian president had welcomed Macron at the presidential palace.",
+    "pubDate": "Tue, 07 Jul 2026 09:17:23 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Endometriosis diagnosis set to be sped up with two new tests carried out by GPs",
+    "link": "https://www.bbc.co.uk/news/articles/c4gyy8jdn3eo?at_medium=RSS&at_campaign=rss",
+    "summary": "Experts hope they will be a game-changer and cut the nine-year or longer diagnosis waits patients can currently face.",
+    "pubDate": "Tue, 07 Jul 2026 09:16:09 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The first American autonomous ground vehicles are fighting in Ukraine",
+    "link": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+    "summary": "Forterra has deployed more than 100",
+    "pubDate": "Tue, 07 Jul 2026 09:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Microsoft Can Track Users via a Windows Device ID",
+    "link": "https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device",
+    "summary": "Article URL: https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device Comments URL: https://news.ycombinator.com/item?id=48815196 Points: 53 # Comments: 9",
+    "pubDate": "Tue, 07 Jul 2026 08:54:03 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "YC CEO says he ships 37K LoC AI code per day. A developer looked under the hood",
+    "link": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
+    "summary": "Article URL: https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media Comments URL: https://news.ycombinator.com/item?id=48815117 Points: 58 # Comments: 38",
+    "pubDate": "Tue, 07 Jul 2026 08:39:51 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The Odyssey stars wow red carpet at world premiere in London",
+    "link": "https://www.bbc.co.uk/news/videos/cj0g3rze2gqo?at_medium=RSS&at_campaign=rss",
+    "summary": "Anne Hathaway, Zendaya, Tom Holland and Matt Damon were among the stars who walked the carpet in London for the premiere of Christopher Nolan's adaptation of Homer's Ancient Greek epic.",
+    "pubDate": "Tue, 07 Jul 2026 08:00:06 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "派早报：Xbox 启动史上最大的业务重组计划等",
     "link": "https://sspai.com/post/112010",
     "summary": "少数派的近期动态声擎×少数派｜「角落新声」征文活动已经启动。投稿赚音箱少数派×AKKO联合共创带屏键盘计划于7月9日开启。预约直播你可能错过的文章自动给文章术语加百科链接，这个方案一分钟搞定iPhon ... 查看全文",
     "pubDate": "Tue, 07 Jul 2026 07:29:00 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "Watch: Moment rare tornado lashes central Chinese cities",
+    "link": "https://www.bbc.co.uk/news/videos/cq61d22ved2o?at_medium=RSS&at_campaign=rss",
+    "summary": "Videos shared with the BBC show debris flying through the air as the storm swept through Ezhou and Huanggang in Hubei province.",
+    "pubDate": "Tue, 07 Jul 2026 07:27:05 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "'Overturn this' - Belgium taunt US and say Trump move fired them up",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c4gyj50450go?at_medium=RSS&at_campaign=rss",
+    "summary": "Belgium's Nicolas Raskin says Fifa's decision to allow US striker Folarin Balogun to play against them fired them up for the last-16 tie in Seattle.",
+    "pubDate": "Tue, 07 Jul 2026 07:07:29 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Lago (YC S21) Is Hiring for Our GTM Team",
+    "link": "https://jobs.ashbyhq.com/lago",
+    "summary": "Article URL: https://jobs.ashbyhq.com/lago Comments URL: https://news.ycombinator.com/item?id=48814509 Points: 0 # Comments: 0",
+    "pubDate": "Tue, 07 Jul 2026 07:00:27 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The Art of Computer Programming by Donald E. Knuth",
+    "link": "https://www-cs-faculty.stanford.edu/~knuth/taocp.html",
+    "summary": "Article URL: https://www-cs-faculty.stanford.edu/~knuth/taocp.html Comments URL: https://news.ycombinator.com/item?id=48813929 Points: 21 # Comments: 4",
+    "pubDate": "Tue, 07 Jul 2026 05:19:03 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Fans react to US loss after red card drama",
+    "link": "https://www.bbc.co.uk/news/videos/cdxd791zzd4o?at_medium=RSS&at_campaign=rss",
+    "summary": "The BBC's Nada Tawfik spoke to US fans after the FIFA World Cup co-hosts were knocked out of the tournament.",
+    "pubDate": "Tue, 07 Jul 2026 05:08:06 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The US World Cup dream ends in shambolic fashion - did red card saga play a part?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c4gyxdeql5eo?at_medium=RSS&at_campaign=rss",
+    "summary": "Mauricio Pochettino says he feels \"disappointed with too many people\" who brought \"politics and manipulation\" into the game as the US exit World Cup.",
+    "pubDate": "Tue, 07 Jul 2026 05:00:10 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "MI5 knew agent was misogynist 'obsessed' with violence, watchdog finds",
+    "link": "https://www.bbc.co.uk/news/articles/cj9gggjekyjo?at_medium=RSS&at_campaign=rss",
+    "summary": "A secret inquiry by the security service's watchdog concluded there were 'serious failings in MI5's management of Agent X’.",
+    "pubDate": "Tue, 07 Jul 2026 05:00:08 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Heirs of 'odious' 167-year-old Supreme Court ruling see modern parallels",
+    "link": "https://www.npr.org/2026/07/07/g-s1-132164/supreme-court-birthright-citizenship-race-dred-scott",
+    "summary": "Descendants of Dred Scott and Chief Justice Roger Taney spoke about reconciliation at a church in the shadow of the Supreme Court last week as the high court wrestled with race and who can be an American.",
+    "pubDate": "Tue, 07 Jul 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "As climate change damages streets and highways, the road ahead may be expensive",
+    "link": "https://www.npr.org/2026/07/07/nx-s1-5883802/road-damage-heat-wave",
+    "summary": "Heat waves are becoming more common and intense as a result of climate change — and roads are suffering as a result. Are the nation's roads up to meeting the challenge of a warmer, wetter future?",
+    "pubDate": "Tue, 07 Jul 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Trump's NATO pressure campaign continues as summit begins",
+    "link": "https://www.npr.org/2026/07/07/nx-s1-5884055/trumps-nato-pressure-campaign-continues-as-summit-begins",
+    "summary": "President Trump's arrival in Ankara kicks off another potentially tense meeting for NATO.",
+    "pubDate": "Tue, 07 Jul 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Office Depot Coupons: Save With Promo Codes in July 2026",
+    "link": "https://www.wired.com/story/office-depot-promo-codes/",
+    "summary": "From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.",
+    "pubDate": "Tue, 07 Jul 2026 05:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Loop Earplugs Discount Codes: 40% Off",
+    "link": "https://www.wired.com/story/loop-earplugs-discount-code/",
+    "summary": "Save on Loop Earplugs, including Quiet 2 and popular gift sets for improved sleep, focus, and comfort.",
+    "pubDate": "Tue, 07 Jul 2026 05:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Nomad Goods Promo Codes: Get 25% Off in July 2026",
+    "link": "https://www.wired.com/story/nomad-discount-code/",
+    "summary": "Save up to 25% on Nomad Goods accessories such as Nomad phone cases, Nomad wallets, and more this July.",
+    "pubDate": "Tue, 07 Jul 2026 05:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Expedia Coupons: 75% Off",
+    "link": "https://www.wired.com/story/expedia-coupon/",
+    "summary": "Book your next getaway with Expedia and get up to 75% off your stay, with or without a promo code.",
+    "pubDate": "Tue, 07 Jul 2026 05:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Lovehoney Coupon Offers: Toys, Lingerie, and Gift Set Discounts",
+    "link": "https://www.wired.com/story/lovehoney-discount-code/",
+    "summary": "Save on Lovehoney, including bestselling toys, lingerie, and popular gift sets for date nights, self-care, and couples’ play.",
+    "pubDate": "Tue, 07 Jul 2026 05:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Bartesian Discount Codes: 35% Off",
+    "link": "https://www.wired.com/story/bartesian-discount-code/",
+    "summary": "Upgrade your home bar with the latest Bartesian coupon codes and discounts. Save on the Professional Cocktail Maker, enjoy subscription discounts, and get free shipping on your favorite capsules.",
+    "pubDate": "Tue, 07 Jul 2026 05:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Target Promo Code: $50 Off | July 2026",
+    "link": "https://www.wired.com/story/target-promo-code/",
+    "summary": "Get $50 off your next order or up to 50% off site wide with Target coupon codes and Circle deals.",
+    "pubDate": "Tue, 07 Jul 2026 05:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Pura Promo Codes: $20 Off July 2026",
+    "link": "https://www.wired.com/story/pura-promo-code/",
+    "summary": "Enhance your home's ambiance for less with active Pura promo codes. Find savings on smart diffusers, exclusive scents, and subscribe & save offers.",
+    "pubDate": "Tue, 07 Jul 2026 05:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Explosions rock Damascus, wounding 4, as French President Macron visits Syria",
+    "link": "https://www.npr.org/2026/07/07/nx-s1-5884579/damascus-explosions-macron",
+    "summary": "The French president's office said that Macron was safe and that his meeting with Syrian President Ahmad al-Sharaa would continue as scheduled.",
+    "pubDate": "Tue, 07 Jul 2026 04:59:44 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Waterfall CAD Playground - A Haskell powered programmable-CAD environment, in the browser with WASM",
+    "link": "https://doscienceto.it/waterpark",
+    "summary": "Comments",
+    "pubDate": "Tue, 07 Jul 2026 04:46:01 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Morning news brief",
+    "link": "https://www.npr.org/2026/07/07/nx-s1-5879138/morning-news-brief",
+    "summary": "Graham Platner faces calls to end his Senate bid after sexual assault allegation, NATO summit begins in Turkey, U.S. men's run at the World Cup ends with loss to Belgium.",
+    "pubDate": "Tue, 07 Jul 2026 04:42:25 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Together for a healthier Clippy",
+    "link": "https://blog.rust-lang.org/inside-rust/2026/07/06/unite-for-clippy/",
+    "summary": "Comments",
+    "pubDate": "Tue, 07 Jul 2026 04:35:02 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Zelensky to press Nato for air defence systems after intense Russian strikes",
@@ -40,6 +328,22 @@
     "category": "general"
   },
   {
+    "title": "Why false sharing alignment should be 128 bytes on x64",
+    "link": "https://monoid.github.io/posts/false-sharing-alignment/",
+    "summary": "Comments",
+    "pubDate": "Tue, 07 Jul 2026 03:22:58 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Top Democrats press Maine senate candidate to drop out of race over sexual assault allegation",
+    "link": "https://www.bbc.co.uk/news/articles/cm2004nx8v9o?at_medium=RSS&at_campaign=rss",
+    "summary": "Graham Platner denied the allegation, calling it \"categorically false\" but said he was \"taking the time to reflect on the best path forward\" in the race.",
+    "pubDate": "Tue, 07 Jul 2026 03:04:36 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "Belgium make light work of US to set up quarter-final tie with Spain",
     "link": "https://www.bbc.co.uk/sport/football/videos/cj0gg55613do?at_medium=RSS&at_campaign=rss",
     "summary": "Belgium ease past a defensively sloppy USA in a match shrouded in controversy surrounding Folarin Balogun's delayed suspension, a scandal that made little impact on the pitch.",
@@ -53,6 +357,46 @@
     "summary": "The hearing will decide whether Tyler Robinson will stand trial in the shooting death of Kirk, a key Trump ally.",
     "pubDate": "Tue, 07 Jul 2026 02:33:18 GMT",
     "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Google’s exponential path to climate-wrecking digital bloat",
+    "link": "https://ketanjoshi.co/2026/07/01/googles-exponential-path-to-climate-wrecking-digital-bloat/",
+    "summary": "Comments",
+    "pubDate": "Tue, 07 Jul 2026 02:33:16 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "AI just supercharged the race to find room temperature superconductors",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260701205006.htm",
+    "summary": "Scientists have combined machine learning with quantum physics to discover two new superconductors and create a much faster way to search for many more. The technique could bring researchers significantly closer to the long-sought goal of a room-temperature superconductor.",
+    "pubDate": "Tue, 07 Jul 2026 01:39:51 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Eliminating Go bound checks with unsafe",
+    "link": "https://blog.andr2i.com/posts/2026-07-06-eliminating-go-bound-checks-with-unsafe",
+    "summary": "Comments",
+    "pubDate": "Tue, 07 Jul 2026 01:29:08 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "China test-launches a ballistic missile in the South Pacific and raises regional concerns",
+    "link": "https://www.npr.org/2026/07/07/nx-s1-5884537/china-ballistic-missile-south-pacific",
+    "summary": "The launch, using a dummy warhead, took place the same day Australia and Fiji signed a mutual defense treaty meant to counter Chinese influence in the Pacific.",
+    "pubDate": "Tue, 07 Jul 2026 01:29:03 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Tanker set ablaze after being struck by projectile in the Strait of Hormuz",
+    "link": "https://www.npr.org/2026/07/07/g-s1-132265/tanker-attack-strait-of-hormuz",
+    "summary": "Iranian state television said the tanker came under attack after ignoring warnings but did not directly claim the assault.",
+    "pubDate": "Tue, 07 Jul 2026 01:28:45 -0400",
+    "source": "NPR",
     "category": "general"
   },
   {
@@ -86,6 +430,14 @@
     "pubDate": "Tue, 07 Jul 2026 00:46:03 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "A Rust-to-Lean verification pipeline with AI provers: An experience report",
+    "link": "https://arxiv.org/html/2605.30106",
+    "summary": "Comments",
+    "pubDate": "Tue, 07 Jul 2026 00:39:18 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Party Rock Anthem singer Lauren Bennett dies aged 37",
@@ -144,6 +496,14 @@
     "category": "general"
   },
   {
+    "title": "NSA and IETF: Fairness",
+    "link": "https://blog.cr.yp.to/20260706-fairness.html",
+    "summary": "Article URL: https://blog.cr.yp.to/20260706-fairness.html Comments URL: https://news.ycombinator.com/item?id=48811887 Points: 110 # Comments: 91",
+    "pubDate": "Mon, 06 Jul 2026 23:33:54 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "Women face hidden fertility ceiling despite donor eggs",
     "link": "https://www.bbc.co.uk/news/articles/ckg018w1r02o?at_medium=RSS&at_campaign=rss",
     "summary": "Age-related changes in the womb lining may be the cause and could be treatable in the future, say experts.",
@@ -174,6 +534,14 @@
     "pubDate": "Mon, 06 Jul 2026 23:29:34 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Compiling a Go program into a native binary for Nintendo Switch (2022)",
+    "link": "https://ebitengine.org/en/blog/native_compiling_for_nintendo_switch.html",
+    "summary": "Comments",
+    "pubDate": "Mon, 06 Jul 2026 23:25:08 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
@@ -276,6 +644,14 @@
     "link": "https://www.bbc.co.uk/sport/football/articles/cvgmmmgemd8o?at_medium=RSS&at_campaign=rss",
     "summary": "After 10 years as Fifa president, could the Folarin Balogun controversy tip the balance against Gianni Infantino? Don't bet on it.",
     "pubDate": "Mon, 06 Jul 2026 22:26:20 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "'Learn how to lose' - tempers flare in Wimbledon mixed doubles",
+    "link": "https://www.bbc.co.uk/sport/tennis/videos/c4gyy151xzyo?at_medium=RSS&at_campaign=rss",
+    "summary": "Jelena Ostapenko and Marcelo Arevalo advance to the Wimbledon mixed doubles semi-finals in straight sets, but the victory is marred by a fiery post-match argument.",
+    "pubDate": "Mon, 06 Jul 2026 22:15:33 GMT",
     "source": "BBC News",
     "category": "general"
   },
@@ -430,6 +806,190 @@
     "pubDate": "Mon, 06 Jul 2026 17:01:15 -0400",
     "source": "NPR",
     "category": "general"
+  },
+  {
+    "title": "威刚：Q3内存将涨价20%-30%，闪存将涨价35%-40%",
+    "link": "https://36kr.com/newsflashes/3885412971606272?f=rss",
+    "summary": "威刚科技预警，2026年第三季度DRAM内存与NAND闪存价格将再度上调，内存及存储产品售价会进一步走高。威刚董事长陈立白表示，各大内存原厂已放出通知，2026年第三季度DRAM合约价将继续上涨20%至30%，NAND闪存价格涨幅更是达到35%至40%，两类存储芯片价格将持续上行，有望持续带动公司经营业绩增长。（财联社）",
+    "pubDate": "2026-07-07 18:06:27  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "腾讯控股获南向资金净买入23.25亿港元",
+    "link": "https://36kr.com/newsflashes/3885407878557959?f=rss",
+    "summary": "南向资金今日净买入4.97亿港元，腾讯控股、美团-W、阿里巴巴-W净买入额位列前三，分别获净买入23.25亿港元、12.41亿港元、9.18亿港元。净卖出方面，建滔积层板、长飞光纤光缆、中芯国际分别遭净卖出15.65亿港元、12.46亿港元、10.78亿港元。（第一财经）",
+    "pubDate": "2026-07-07 18:01:16  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "埃斯顿：近期生产经营情况正常，经营环境未发生重大变化",
+    "link": "https://36kr.com/newsflashes/3885405626249479?f=rss",
+    "summary": "36氪获悉，埃斯顿发布股票交易异动公告称，近期公司生产经营情况正常，内外部经营环境未发生重大变化。目前公司正在筹划通过全资子公司以支付现金方式收购参股公司埃斯顿酷卓股权暨关联交易事项，交易完成后，公司通过子公司间接持有埃斯顿酷卓100%股权，埃斯顿酷卓将纳入公司合并报表范围。",
+    "pubDate": "2026-07-07 17:58:59  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "瑞芯微：上半年净利润同比预增60.03%—71.33%",
+    "link": "https://36kr.com/newsflashes/3885398440030217?f=rss",
+    "summary": "36氪获悉，瑞芯微披露业绩预告，预计2026年上半年营业收入28.7亿元至29.1亿元，同比增长40.28%至42.24%；归属于母公司所有者的净利润8.5亿元至9.1亿元，同比增长60.03%到71.33%。",
+    "pubDate": "2026-07-07 17:51:40  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "SK海力士大幅波动放大杠杆ETF风险，韩国政府称将研究完善措施",
+    "link": "https://36kr.com/newsflashes/3885394498449673?f=rss",
+    "summary": "随着SK海力士股价波动加剧，追踪SK海力士股价两倍涨跌幅的单只股票杠杆交易所交易基金（ETF）之间，收益率差距也扩大至超过5个百分点。市场指出，由于产品结构和基金管理能力的差异正在直接反映到收益率上，投资者需要提高警惕。与此同时，韩国副总理兼企划财政部长官具润哲表示，针对单一个股杠杆产品，“正在讨论完善方案”。（财联社）",
+    "pubDate": "2026-07-07 17:47:40  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "南��期货：上半年净利润同比预增62.16%—75.13%",
+    "link": "https://36kr.com/newsflashes/3885392038932737?f=rss",
+    "summary": "36氪获悉，南华期货披露业绩预告，预计2026年上半年实现归属于母公司所有者的净利润3.75亿元到4.05亿元，同比增加62.16%到75.13%。",
+    "pubDate": "2026-07-07 17:45:10  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "招商证券：上半年净利润同比预增93%—112%",
+    "link": "https://36kr.com/newsflashes/3885387662684160?f=rss",
+    "summary": "36氪获悉，招商证券披露业绩预告，预计2026年上半年实现归属于母公司股东的净利润净利润为100亿元—110亿元，同比增长93%—112%。",
+    "pubDate": "2026-07-07 17:40:43  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "大秦铁路：6月大秦线货物运输量3689万吨，同比增长13.79%",
+    "link": "https://36kr.com/newsflashes/3885384376971527?f=rss",
+    "summary": "36氪获悉，大秦铁路公告，2026年6月，公司核心经营资产大秦线完成货物运输量3689万吨，同比增长13.79%。2026年1—6月，大秦线累计完成货物运输量20376万吨，同比增长7.96%。",
+    "pubDate": "2026-07-07 17:37:22  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "海尔新能源在河南成立新公司，注册资本100万",
+    "link": "https://36kr.com/newsflashes/3885377566011654?f=rss",
+    "summary": "36氪获悉，天眼查App显示，近日，河南师顺新能源有限公司成立，法定代表人为贾职魁，注册资本100万人民币，经营范围包括新兴能源技术研发、太阳能发电技术服务、光伏发电设备租赁、合同能源管理、发电技术服务、光伏设备及元器件销售等。股东信息显示，该公司由海尔新能源旗下青岛海尔绿色能源科技有限公司全资持股。",
+    "pubDate": "2026-07-07 17:30:26  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "拼多多紧急捐赠1000万元，驰援广西防汛救灾",
+    "link": "https://36kr.com/newsflashes/3885367606112517?f=rss",
+    "summary": "近日，受台风及强降雨影响，广西多地发生严重洪涝灾害，灾区群众的安危冷暖牵动人心。为全力支援一线救灾，拼多多紧急向受灾地区捐赠现金1000万元，用于采购物资和救灾设备，安置受灾群众，帮助各地灾后重建。拼多多将持续关注灾情发展，根据一线实际需求提供后续支持，风雨同舟，共克时艰。",
+    "pubDate": "2026-07-07 17:20:18  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "华能集团在黑龙江成立新公司，注册资本1亿",
+    "link": "https://36kr.com/newsflashes/3885361184633088?f=rss",
+    "summary": "36氪获悉，天眼查App显示，近日，华能（杜尔伯特蒙古族自治县）新能源有限公司成立，法定代表人为王加利，注册资本1亿人民币，经营范围为发电业务、输电业务、供（配）电业务、供暖服务、水力发电。股东信息显示，该公司由华能集团旗下华能内蒙古蒙东新能源有限公司全资持股。",
+    "pubDate": "2026-07-07 17:13:46  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "国务院批复同意《旅游强国建设“十五五”规划》",
+    "link": "https://36kr.com/newsflashes/3885354506186756?f=rss",
+    "summary": "36氪获悉，国务院发布批复，原则同意《旅游强国建设“十五五”规划》。《规划》实施要坚持旅游为民，以推动高质量发展为主题，以推进文旅深度融合为主线，统筹政府与市场、供给与需求、保护与开发、国内与国际、发展与安全，着力完善现代旅游业体系，优化旅游空间布局，培育旅游发展新动能，丰富旅游供给，释放消费潜力，提升服务质量，推进高效能治理，深化旅游领域交流合作，加快建设旅游强国，让旅游业更好服务美好生活、促进经济发展、构筑精神家园、展示中国形象、增进文明互鉴。",
+    "pubDate": "2026-07-07 17:06:59  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "汇宇制药：获政府补助500万元，占最近一个会计年度净利润20.03%",
+    "link": "https://36kr.com/newsflashes/3885331459780617?f=rss",
+    "summary": "36氪获悉，汇宇制药公告，公司近日收到政府补助款项共计500万元，该笔补助与收益相关，占公司最近一个会计年度经审计净利润的20.03%。",
+    "pubDate": "2026-07-07 17:03:27  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "科大讯飞公布人机交互口音控制专利",
+    "link": "https://36kr.com/newsflashes/3885330434322696?f=rss",
+    "summary": "36氪获悉，天眼查知识产权信息显示，近日，科大讯飞申请的“一种人机交互对话系统的口音与风格控制方法及装置”专利公布。摘要显示，本发明属于智能对话与语音合成技术领域，公开一种人机交互对话系统的口音与风格控制方法及装置，其中，方法包括：接收用户对话请求，判断对话请求是否包括口音、风格控制需求，根据判断结果确定对应的口音槽值与风格槽值；接收并存储口音槽值与风格槽值，根据当前对话轮次以及口音、风格控制需求，对口音槽值与风格槽值进行更新或继承；根据对话请求的意图生成文本回复；根据当前轮次的口音槽值与风格槽值，调用对应TTS合成模型，将文本回复合成为目标语音输出给用户。本发明解决现有技术口音与风格动...",
+    "pubDate": "2026-07-07 16:59:30  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "山东钢铁：副总经理郭伟达拟不低于30万元增持公司股份",
+    "link": "https://36kr.com/newsflashes/3885346697031689?f=rss",
+    "summary": "36氪获悉，山东钢铁公告，副总经理郭伟达7月7日增持公司股份9.5万股，增持金额12.07万元。郭伟达计划继续通过上交所集中竞价交易系统增持公司股份，拟增持金额不低于30万元（含7月7日已增持金额）。",
+    "pubDate": "2026-07-07 16:59:02  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "中远海控在海南成立新公司， 注册资本3亿",
+    "link": "https://36kr.com/newsflashes/3885328527732738?f=rss",
+    "summary": "36氪获悉，天眼查App显示，近日，海南中远海运集装箱航运有限公司成立，法定代表人为程菁，注册资本3亿人民币，经营范围包括从事国际集装箱船、普通货船运输，船舶租赁，国际船舶代理，国内货物运输代理，国际货物运输代理，供应链管理服务等。股东信息显示，该公司由中远海控旗下中远海运集装箱运输有限公司全资持股。",
+    "pubDate": "2026-07-07 16:53:33  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "南航通航等在湖南成立低空科技公司，注册资本1亿",
+    "link": "https://36kr.com/newsflashes/3885328079892484?f=rss",
+    "summary": "36氪获悉，天眼查App显示，近日，湖南兴航飞行低空科技有限公司成立，法定代表人为侯昂，注册资本1亿人民币，经营范围包括通用航空服务、公共航空运输、民用机场运营、航空运营支持服务、人工智能行业应用系统集成服务、软件开发、信息系统集成服务等。股东信息显示，该公司由湖南省低空经济发展集团有限公司、南航通用航空股份有限公司共同持股。",
+    "pubDate": "2026-07-07 16:49:05  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "动力源：筹划控制权变更事项，股票继续停牌",
+    "link": "https://36kr.com/newsflashes/3885329587695880?f=rss",
+    "summary": "36氪获悉，动力源公告，公司控股股东及实控人何振亚筹划公司股份转让事宜，该事项可能导致公司控制权发生变更。截至目前，该事项仍处于筹划之中，经申请，公司股票将于7月8日开市起继续停牌，预计继续停牌时间不超过3个交易日。",
+    "pubDate": "2026-07-07 16:41:38  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "光库科技：上半年净利润同比预增170%—190%",
+    "link": "https://36kr.com/newsflashes/3885327460937730?f=rss",
+    "summary": "36氪获悉，光库科技披露业绩预告，预计2026年上半年实现归属于上市公司股东的净利润1.4亿元—1.5亿元，同比增长170%—190%。",
+    "pubDate": "2026-07-07 16:39:28  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "上市前夜｜套现十几亿后，他把矿卡开向港股",
+    "link": "https://36kr.com/p/3885318981366023?f=rss",
+    "summary": "本文约3100字，建议阅读7分钟 作者&nbsp;|&nbsp;彭孝秋 编者按： 《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第三期——易控智驾。 2017年前后，36岁的蓝水生完成了人生中第一次大退出。 那是一家做游戏出海的公司，叫广州易幻网络。当年被A股上市公司宝通科技以超过17亿元对价收购，按公开交易安排及后续减持情况粗算，蓝水生相关方整体退出规模约在15亿元上下。 按照创业常见剧本，故事到这里基本就可以收尾了。毕竟一个江西财经大学毕业的连续创业者，靠游戏出海完成财富跃迁。接下来，他可以做投资人，可以继续在熟悉的游戏行...",
+    "pubDate": "2026-07-07 16:32:12  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "正虹科技：6月生猪销售收入757.42万元，同比下降81.68%",
+    "link": "https://36kr.com/newsflashes/3885318440988675?f=rss",
+    "summary": "36氪获悉，正虹科技公告，公司6月销售生猪1.02万头，环比增长15.25%，同比下降61.56%；销售收入757.42万元，环比增长0.21%，同比下降81.68%。1—6月份，公司累计销售生猪5.32万头，同比下降15.61%；累计销售收入5013.21万元，同比下降39.93%。生猪销售价格、收入同比降幅较大，主要受生猪市场行情波动的影响。",
+    "pubDate": "2026-07-07 16:30:18  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "揭秘字节 Seedance：全球 AI 的第二个好生意 | 深氪",
+    "link": "https://36kr.com/p/3885177884078083?f=rss",
+    "summary": "采访 | 邓咏仪 肖思佳 李小霞 文 | 张雨忻 邓咏仪 编辑 | 张雨忻 杨轩 2025 年底，在一次模型团队的聚餐上，Seedance 模型的负责人曾妍向 leader 提到，她还是想试试训一个更大尺寸的模型，至少达到 200B（2000亿参数）。 曾妍是字节 Seed 一位非常年轻的研究员，2021 年校招生，研究方向始终聚焦在视频理解与生成上。“她一直都挺有自己的技术判断。” 一位与曾妍打过交道的人告诉 36 氪，“而且很主动，对于相信的事情比较坚持，会想办法争取资源去实现。” 这个评价几乎复现了曾妍做 Seedance2.0 训练时的处境。“她想训一个参数量更大的模型，但当时团...",
+    "pubDate": "2026-07-07 15:30:26  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "\"龙虾\"为什么这么火？OpenClaw登顶GitHub后，AI Agent时代真的来了？",
+    "link": "https://36kr.com/p/3885061350617350?f=rss",
+    "summary": "GitHubStar-history 最近Openclaw以25.2万星标，超越Meta的React登顶GitHub开源项目历史第一！ 要知道React是Facebook(现改名Meta）打造的经典前端框架，过去十余年间，互联网上绝大多数我们熟知的网站与App，底层技术架构皆由它构筑。Openclaw官方更是高调发文嘲讽Meta“我们在迭代创新，而你只在办会议”。 这只被全球开发者亲昵称作“龙虾”的OpenClaw，凭一己之力点燃了AI Agent领域的全民狂欢，成为2026年科技圈最现象级的产品。 OpenClaw发布记录 这场狂欢背后，却藏着极具反差的现实：一边是官方标榜的“人人可玩...",
+    "pubDate": "2026-07-07 14:23:00  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
   },
   {
     "title": "必和必拓获批启动智利150亿美元铜矿扩张",
@@ -622,5 +1182,45 @@
     "pubDate": "2026-07-07 08:15:11  +0800",
     "source": "36Kr",
     "category": "tech-cn"
+  },
+  {
+    "title": "Listen to Gen Z when it comes to AI in education",
+    "link": "https://www.nature.com/articles/d41586-026-02110-6",
+    "summary": "Nature, Published online: 07 July 2026; doi:10.1038/d41586-026-02110-6 Listen to Gen Z when it comes to AI in education",
+    "pubDate": "2026-07-07",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "AI can cause harm: safeguards must catch up",
+    "link": "https://www.nature.com/articles/d41586-026-02109-z",
+    "summary": "Nature, Published online: 07 July 2026; doi:10.1038/d41586-026-02109-z AI can cause harm: safeguards must catch up",
+    "pubDate": "2026-07-07",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "How long can humans live? All evidence points to a maximum of 125 years",
+    "link": "https://www.nature.com/articles/d41586-026-02111-5",
+    "summary": "Nature, Published online: 07 July 2026; doi:10.1038/d41586-026-02111-5 How long can humans live? All evidence points to a maximum of 125 years",
+    "pubDate": "2026-07-07",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Save Hubble: the race to preserve the space telescope kicks off",
+    "link": "https://www.nature.com/articles/d41586-026-02000-x",
+    "summary": "Nature, Published online: 07 July 2026; doi:10.1038/d41586-026-02000-x The orbiting observatory’s unique vision and public support continue to be crucial for understanding the Universe.",
+    "pubDate": "2026-07-07",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "How to avoid dementia — what the science really says",
+    "link": "https://www.nature.com/articles/d41586-026-02098-z",
+    "summary": "Nature, Published online: 07 July 2026; doi:10.1038/d41586-026-02098-z Ambitious studies have been examining the protective effects of diet, exercise and socializing — with surprising results.",
+    "pubDate": "2026-07-07",
+    "source": "Nature",
+    "category": "science"
   }
 ]

@@ -96,6 +96,14 @@
     "category": "general"
   },
   {
+    "title": "Patching MechCommander’s “left arm bug” for fun and profit",
+    "link": "https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/",
+    "summary": "Comments",
+    "pubDate": "Wed, 08 Jul 2026 22:51:49 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Harvard scientists turn a silicon chip into a DNA writing machine",
     "link": "https://www.sciencedaily.com/releases/2026/07/260708022202.htm",
     "summary": "Scientists have created a silicon chip that can write dozens of DNA sequences simultaneously using electricity and water-based enzymes, offering a cleaner alternative to conventional DNA manufacturing. The breakthrough could eventually support portable DNA-writing devices and even massive DNA dat...",
@@ -134,6 +142,14 @@
     "pubDate": "Wed, 08 Jul 2026 22:03:05 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "kparser - small, readable parser for K",
+    "link": "https://github.com/ardentsia-cgs/kparser",
+    "summary": "Comments",
+    "pubDate": "Wed, 08 Jul 2026 21:59:03 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Jackdaw boss warns of winter fuel shortages if gas field not approved",
@@ -344,6 +360,14 @@
     "category": "tech"
   },
   {
+    "title": "Newscast",
+    "link": "https://www.bbc.co.uk/sounds/play/p0nx5f8d?at_medium=RSS&at_campaign=rss",
+    "summary": "The US and Iran exchange fire as Trump says the ceasefire is over… or is it?",
+    "pubDate": "Wed, 08 Jul 2026 19:10:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
     "link": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/",
     "summary": "Both vulnerabilities allow untrusted users to gain root privileges.",
@@ -384,6 +408,14 @@
     "category": "tech"
   },
   {
+    "title": "Man Utd agree £50m deal for Chelsea's Santos",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cr7xkgd8vdko?at_medium=RSS&at_campaign=rss",
+    "summary": "Manchester United agree a £50m deal with Chelsea for their Brazilian midfielder Andrey Santos.",
+    "pubDate": "Wed, 08 Jul 2026 17:09:53 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "A new proposal for organ donation sparks concern",
     "link": "https://www.npr.org/2026/07/08/nx-s1-5883714/organ-transplant-death-donation",
     "summary": "Should patients who choose euthanasia be able to die by having their vital organs removed for donation? The ethical concerns are substantial.",
@@ -416,6 +448,14 @@
     "category": "general"
   },
   {
+    "title": "iOS 27 Beta 2 & 3 值得关注的新特性",
+    "link": "https://sspai.com/post/112083",
+    "summary": "近段时间，Apple陆续推出了iOS27的两个DeveloperBeta测试版本，对第一个版本中的一些新功能进行了优化改进，同时也新增了一些系统特性。接下来，就让我们一起来看看吧。编注：AppleIn ... 查看全文",
+    "pubDate": "Thu, 09 Jul 2026 15:49:58 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
     "title": "角落新声｜在陌生的城市里，寻找属于自己的角落",
     "link": "https://sspai.com/post/111983",
     "summary": "角落的意义或许在于与世界保持恰当的距离，允许生活在身边流淌，也允许自己在这些声音之中，重新听见自己的声音。 查看全文",
@@ -424,12 +464,332 @@
     "category": "tech-cn"
   },
   {
+    "title": "Most popular baby names for boys and girls in 2025 revealed",
+    "link": "https://www.bbc.co.uk/news/articles/cevlw4wnlmxo?at_medium=RSS&at_campaign=rss",
+    "summary": "The Office for National Statistics releases its annual data on baby names, with Olivia remaining most popular for girls and Muhammad for boys.",
+    "pubDate": "Thu, 09 Jul 2026 10:03:37 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "McEnroe, Henman & Murray on why Fery is ruling Wimbledon",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/ckg49gzm3k0o?at_medium=RSS&at_campaign=rss",
+    "summary": "Good tennis IQ and inner belief - how British wildcard Arthur Fery has reached defied the odds to reach a shock Wimbledon semi-final.",
+    "pubDate": "Thu, 09 Jul 2026 09:55:45 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Federal Investigators Say Certain DOGE Records Were Deleted",
+    "link": "https://www.wired.com/story/federal-investigators-say-certain-doge-records-were-deleted/",
+    "summary": "A government report claims DOGE didn’t access sensitive systems. It also says the agency deleted records that would show if they had.",
+    "pubDate": "Thu, 09 Jul 2026 09:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "The Best Food Dehydrators for Self-Sufficient Kitchens (2026)",
+    "link": "https://www.wired.com/story/best-food-dehydrators-for-stocking-a-smarter-pantry/",
+    "summary": "Stretch seasonal produce, preserve leftovers, and build a pantry that lasts with our favorite food dehydrators for every budget.",
+    "pubDate": "Thu, 09 Jul 2026 09:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Bonnie Tyler, the gravel-voiced star who sang her way into music history",
+    "link": "https://www.bbc.co.uk/news/articles/cg5pd9z2487o?at_medium=RSS&at_campaign=rss",
+    "summary": "The Welsh star known for songs including Total Eclipse of the Heart has died aged 75.",
+    "pubDate": "Thu, 09 Jul 2026 09:05:12 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Burnham on course for No 10 as Labour nominations open",
+    "link": "https://www.bbc.co.uk/news/articles/c77y0n7k801o?at_medium=RSS&at_campaign=rss",
+    "summary": "The former mayor of Greater Manchester is unopposed in the race to replace Sir Keir Starmer.",
+    "pubDate": "Thu, 09 Jul 2026 09:00:32 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Why Do Some Soccer Players Cut the Heels Off Their Cleats?",
+    "link": "https://www.wired.com/story/why-do-some-soccer-players-cut-the-heels-off-their-cleats/",
+    "summary": "An image of Portugal forward Pedro Neto’s cleats at the World Cup has reignited a practice among some soccer players: modifying their cleats to relieve heel discomfort.",
+    "pubDate": "Thu, 09 Jul 2026 09:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "The 4 Best Home Air Conditioners to Buy Right Now",
+    "link": "https://www.wired.com/story/the-best-at-home-air-con-units-to-buy-right-now/",
+    "summary": "It's too hot. There, we said it. Protect your health and keep your home cool with one of these top-rated air conditioners.",
+    "pubDate": "Thu, 09 Jul 2026 08:49:47 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Is an Air-Conditioning Revolution Coming to Europe?",
+    "link": "https://www.wired.com/story/is-an-air-conditioning-revolution-coming-to-europe/",
+    "summary": "As extreme heat becomes the norm on the continent, the AC culture wars may be solved by advances in environmentally friendly technology.",
+    "pubDate": "Thu, 09 Jul 2026 08:44:57 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
     "title": "派早报：GPT-5.6 即将开放使用、Nothing 发布 Phone (4b) 等",
     "link": "https://sspai.com/post/112091",
     "summary": "Notion 推出全新应用 Agents、Jolla Phone (2026) 手机正式发售等。 查看全文",
     "pubDate": "Thu, 09 Jul 2026 08:40:02 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "How rise in ADHD benefits claims is adding to welfare spending challenge",
+    "link": "https://www.bbc.co.uk/news/articles/c24ym9yd8p6o?at_medium=RSS&at_campaign=rss",
+    "summary": "More than 100,000 people with ADHD as their main condition receive Pip, latest figures show, an increase of 40% since Labour came to power.",
+    "pubDate": "Thu, 09 Jul 2026 08:35:18 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
+    "link": "https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/",
+    "summary": "Article URL: https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/ Comments URL: https://news.ycombinator.com/item?id=48842611 Points: 84 # Comments: 49",
+    "pubDate": "Thu, 09 Jul 2026 08:22:52 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Olise yellow card stands as Saibari out for Morocco",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c78y0j7vvg8o?at_medium=RSS&at_campaign=rss",
+    "summary": "France fail in their bid to have forward Michael Olise's yellow card overturned, while Morocco are without Ismael Saibari for the quarter-final at Boston Stadium.",
+    "pubDate": "Thu, 09 Jul 2026 07:28:30 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "CollectWise (YC F24) Is Hiring",
+    "link": "https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive",
+    "summary": "Article URL: https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive Comments URL: https://news.ycombinator.com/item?id=48841963 Points: 0 # Comments: 0",
+    "pubDate": "Thu, 09 Jul 2026 07:00:43 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The $28 Million Mistake That Inspired Estonia's AI “Fuckup Finder”",
+    "link": "https://www.wired.com/story/the-28-million-dollar-mistake-that-inspired-estonias-ai-fuckup-finder/",
+    "summary": "A single wording mistake cost the government millions. Now Estonia is using AI to spot legal errors before they become law—and to automate more of the state.",
+    "pubDate": "Thu, 09 Jul 2026 07:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+    "link": "https://github.com/malisper/pgrust",
+    "summary": "Article URL: https://github.com/malisper/pgrust Comments URL: https://news.ycombinator.com/item?id=48841676 Points: 136 # Comments: 172",
+    "pubDate": "Thu, 09 Jul 2026 06:18:19 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Bonnie Tyler, singer of ballad 'Total Eclipse of the Heart,' has died at 75",
+    "link": "https://www.npr.org/2026/07/09/nx-s1-5887107/bonnie-tyler-obit",
+    "summary": "Tyler died \"unexpectedly\" in a hospital in Portugal where she was being treated for an illness, her family said Thursday in a statement on her website.",
+    "pubDate": "Thu, 09 Jul 2026 05:50:28 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "How Wimbledon semi-finalists have found their feet on grass",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/c74ygemyk29o?at_medium=RSS&at_campaign=rss",
+    "summary": "The four Wimbledon women's singles semi-finalists have had a complicated relationship with grass courts - but they have cracked the code this year.",
+    "pubDate": "Thu, 09 Jul 2026 05:42:11 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "How Donkey Kong Toppled Atari",
+    "link": "https://dfarq.homeip.net/how-donkey-kong-toppled-atari/",
+    "summary": "Article URL: https://dfarq.homeip.net/how-donkey-kong-toppled-atari/ Comments URL: https://news.ycombinator.com/item?id=48841385 Points: 19 # Comments: 4",
+    "pubDate": "Thu, 09 Jul 2026 05:34:44 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "How Kane and Haaland compare - who would you pick?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c5yzzz54kllo?at_medium=RSS&at_campaign=rss",
+    "summary": "Two of the world's best strikers - Harry Kane and Erling Haaland - meet in the World Cup quarter-finals - but who would you rather have?",
+    "pubDate": "Thu, 09 Jul 2026 05:18:59 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Spider venom kills varroa mites without harming honeybees",
+    "link": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
+    "summary": "Article URL: https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming Comments URL: https://news.ycombinator.com/item?id=48841259 Points: 121 # Comments: 49",
+    "pubDate": "Thu, 09 Jul 2026 05:14:45 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Drug mules carrying cannabis from Thailand face tougher penalties",
+    "link": "https://www.bbc.co.uk/news/articles/cx235xy2ky4o?at_medium=RSS&at_campaign=rss",
+    "summary": "The National Crime Agency and Thai authorities have launched a crackdown on drug smugglers.",
+    "pubDate": "Thu, 09 Jul 2026 05:05:10 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "HMP Pentonville handed my son a death sentence",
+    "link": "https://www.bbc.co.uk/news/articles/c3wy0xz4018o?at_medium=RSS&at_campaign=rss",
+    "summary": "Gareth Chumber-Kelly died by suicide at HMP Pentonville just four days after arriving. Now, his mother wants the prison closed down.",
+    "pubDate": "Thu, 09 Jul 2026 05:02:47 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "'They said it isn't real': Ebola rumours fuel attacks on health workers",
+    "link": "https://www.bbc.co.uk/news/articles/c79yj09nd4qo?at_medium=RSS&at_campaign=rss",
+    "summary": "False claims about Ebola are linked to attacks on treatment facilities, assaults on health workers and disruptions to burials.",
+    "pubDate": "Thu, 09 Jul 2026 05:02:07 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "A Florida airport is officially renamed for Trump. What does he stand to gain?",
+    "link": "https://www.npr.org/2026/07/09/nx-s1-5825868/trump-airport-florida-pbi-trademark",
+    "summary": "Trump is the first president to have an airport named after him while in office. The Trump Organization says he won't get royalties from the renaming, but legal experts see potential loopholes.",
+    "pubDate": "Thu, 09 Jul 2026 05:01:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "New aviation mechanics graduate with jobs in hand, thanks to a labor shortage",
+    "link": "https://www.npr.org/2026/07/09/nx-s1-5860843/aviation-mechanics-labor-shortage",
+    "summary": "Aviation is literally soaring in the U.S., with record passenger numbers. But with a generation of mechanics set to leave the workforce, the industry needs new graduates to fill the gap.",
+    "pubDate": "Thu, 09 Jul 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Campaign staffers keep trying to bet on races despite push to curb insider trading",
+    "link": "https://www.npr.org/2026/07/09/nx-s1-5869569/kalshi-election-staffers-caught",
+    "summary": "Kalshi says it has blocked \"dozens\" of trades from campaign insiders, but experts say the company's approach leaves lots of potential loopholes. NPR has found at least one trade that slipped through.",
+    "pubDate": "Thu, 09 Jul 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "How England's class divide shaped Andy Burnham, the U.K.'s likely next prime minister",
+    "link": "https://www.npr.org/2026/07/09/nx-s1-5876065/andy-burnham-england-uk",
+    "summary": "As mayor of Manchester, Andy Burnham brought growth to the postindustrial city. Can he scale that nationally as the next prime minister?",
+    "pubDate": "Thu, 09 Jul 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "The Iran war has pushed some countries away from oil and toward clean energy",
+    "link": "https://www.npr.org/2026/07/09/nx-s1-5872786/iran-war-evs-solar-energy-transition",
+    "summary": "The new round of bombing in the Middle East has underscored the precarity of relying on fossil fuels. The war is speeding up the global transition to EVs, solar, and batteries, experts say.",
+    "pubDate": "Thu, 09 Jul 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Layla Sleep Coupon: Save Up to $600 in July 2026",
+    "link": "https://www.wired.com/story/layla-sleep-coupon/",
+    "summary": "Upgrade your sleep setup with the latest Layla promo codes. Save on flippable mattresses, copper-infused pillows, and adjustable bases during the Spring Sale.",
+    "pubDate": "Thu, 09 Jul 2026 05:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Breville Promo Code: $700 Off | July 2026",
+    "link": "https://www.wired.com/story/breville-promo-code/",
+    "summary": "Discover the top Breville coupons and discount codes for coffee machines, kitchen appliances, and fresh coffee beans, with deals up to $700 off.",
+    "pubDate": "Thu, 09 Jul 2026 05:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Vivid Seats Promo Codes and Deals: Get 10% Off",
+    "link": "https://www.wired.com/story/vivid-seats-promo-code/",
+    "summary": "Whether you are heading to a sold-out concert or a championship game, use a Vivid Seats discount code to secure your seats for less this July.",
+    "pubDate": "Thu, 09 Jul 2026 05:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Castlery Promo Codes: 15% Off for July 2026",
+    "link": "https://www.wired.com/story/castlery-promo-code/",
+    "summary": "Refresh your living space for less with these verified Castlery coupons, including free shipping offers and furniture set discounts.",
+    "pubDate": "Thu, 09 Jul 2026 05:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Jabra Promo Codes: 30% Off  Headphones, Headsets & More",
+    "link": "https://www.wired.com/story/jabra-promo-codes-coupons/",
+    "summary": "Unlock significant savings on Jabra headphones, headsets, and speakers with our verified promo codes, exclusive coupons, and limited-time deals in July 2026.",
+    "pubDate": "Thu, 09 Jul 2026 05:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Visible Promo Codes and Coupons for July 2026",
+    "link": "https://www.wired.com/story/visible-promo-code/",
+    "summary": "Find great deals and promo codes for Visible at WIRED and save big, whether you're a long-time customer or a newbie.",
+    "pubDate": "Thu, 09 Jul 2026 05:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Skullcandy Discount Code: 30% Off | July 2026",
+    "link": "https://www.wired.com/story/skullcandy-discount-code/",
+    "summary": "Save on today’s top Skullcandy Promo Codes for Crusher Evo headphones, 36% off Crusher ANC 2 noise-canceling headphones, and more with amazing deals.",
+    "pubDate": "Thu, 09 Jul 2026 05:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Babbel Promo Code: Up to 65% Off in July 2026",
+    "link": "https://www.wired.com/story/babbel-promo-code/",
+    "summary": "Master a new language with expert-led courses. Use our verified Babbel coupon codes to save up to 65% on student plans and 60% on 6-month subscriptions.",
+    "pubDate": "Thu, 09 Jul 2026 05:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Morning news brief",
+    "link": "https://www.npr.org/2026/07/09/nx-s1-5883697/morning-news-brief",
+    "summary": "Trump criticizes Iran's leaders and says ceasefire is over, Middle East countries prepare for the potential of more war as U.S. and Iran renew strikes, Graham Platner drops his bid for Senate.",
+    "pubDate": "Thu, 09 Jul 2026 04:59:51 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "My Thoughts on the Bun Rust Rewrite",
+    "link": "https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html",
+    "summary": "Comments",
+    "pubDate": "Thu, 09 Jul 2026 04:46:44 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "two case studies of NaN",
+    "link": "https://sebsite.pw/w/20260709-nan.html",
+    "summary": "Comments",
+    "pubDate": "Thu, 09 Jul 2026 03:23:07 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Egypt complains officials were biased in World Cup loss to Argentina",
+    "link": "https://www.npr.org/2026/07/09/nx-s1-5887063/egypt-complain-world-cup",
+    "summary": "The Egyptian Football Association (EFA) said Wednesday it \"cannot remain silent\" after what it believes was unfair and biased officiating in Egypt's 3-2 round of 16 loss against Argentina on Tuesday.",
+    "pubDate": "Thu, 09 Jul 2026 03:15:31 -0400",
+    "source": "NPR",
+    "category": "general"
   },
   {
     "title": "Platner's disastrous candidacy exposes rifts that could dampen Democrats' Senate hopes",
@@ -445,6 +805,22 @@
     "summary": "Article URL: https://ergo.org/ Comments URL: https://news.ycombinator.com/item?id=48840497 Points: 5 # Comments: 0",
     "pubDate": "Thu, 09 Jul 2026 03:08:32 +0000",
     "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Trump flies partway home from Turkey in an old Air Force One",
+    "link": "https://www.npr.org/2026/07/09/nx-s1-5887064/trump-air-force-one",
+    "summary": "President Trump flew partway home from a NATO summit on an old Air Force One plane instead of the new Qatari-gifted plane, a surprise swap that came as the U.S. and Iran began trading strikes again.",
+    "pubDate": "Thu, 09 Jul 2026 02:56:18 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Peace For All – Re: Factor",
+    "link": "https://re.factorcode.org/2026/07/peace-for-all.html",
+    "summary": "Comments",
+    "pubDate": "Thu, 09 Jul 2026 02:45:31 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -472,11 +848,27 @@
     "category": "general"
   },
   {
+    "title": "Trump wraps NATO summit on a positive note,  after meeting Zelenskyy",
+    "link": "https://www.npr.org/2026/07/09/nx-s1-5887053/trump-nato-zelenskyy",
+    "summary": "President Trump capped a NATO summit in Turkey meeting Ukrainian President Volodymyr Zelenskyy, and saying that the U.S. will give Ukraine a license to make Patriot air defense systems.",
+    "pubDate": "Thu, 09 Jul 2026 02:11:11 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "I think I have LLM burnout",
     "link": "https://www.alecscollon.com/blog/llm-burnout/",
     "summary": "Article URL: https://www.alecscollon.com/blog/llm-burnout/ Comments URL: https://news.ycombinator.com/item?id=48839984 Points: 199 # Comments: 129",
     "pubDate": "Thu, 09 Jul 2026 01:56:28 +0000",
     "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Experimenting with random() in CSS",
+    "link": "https://polypane.app/blog/experimenting-with-random-in-css/",
+    "summary": "Comments",
+    "pubDate": "Thu, 09 Jul 2026 01:31:50 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -494,6 +886,14 @@
     "pubDate": "Thu, 09 Jul 2026 00:50:56 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Keygen Church - Oscuro Domine",
+    "link": "https://www.keygenchurch.com",
+    "summary": "Comments",
+    "pubDate": "Thu, 09 Jul 2026 00:50:10 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Remote Attestation",
@@ -534,6 +934,206 @@
     "pubDate": "Thu, 09 Jul 2026 00:02:10 EDT",
     "source": "Science Daily",
     "category": "science"
+  },
+  {
+    "title": "What to do if you think someone has heat exhaustion or heatstroke",
+    "link": "https://www.bbc.co.uk/news/articles/ckgl51jjp3jo?at_medium=RSS&at_campaign=rss",
+    "summary": "Know the signs and what to do if someone is unwell in hot weather.",
+    "pubDate": "Mon, 22 Jun 2026 11:05:28 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "百事公司：第二季度净营收241.8亿美元，略高于市场预期",
+    "link": "https://36kr.com/newsflashes/3888239564684041?f=rss",
+    "summary": "��事公司第二季度净营收241.8亿美元，预估239.5亿美元；核心每股收益2.20美元，预估2.19美元。（财联社）",
+    "pubDate": "2026-07-09 18:01:49  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "工业富联：预计2026年半年度净利润同比增长93%-101%",
+    "link": "https://36kr.com/newsflashes/3888234444421635?f=rss",
+    "summary": "36氪获悉，工业富联公告，预计2026年半年度归属于上市公司股东的净利润为234亿元-244亿元，同比增长93%-101%。业绩变动主要系云计算业务中AI服务器收入同比增长超230%，以及800G以上数据中心交换机出货量同比增长1.4倍。",
+    "pubDate": "2026-07-09 17:56:36  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "国轩高科在内蒙古成立新公司",
+    "link": "https://36kr.com/newsflashes/3888233386473992?f=rss",
+    "summary": "36氪获悉，天眼查App显示，7月7日，内蒙古国轩绿电新能源有限公司成立，法定代表人为王鹏，注册资本3000万人民币，经营范围含风力发电技术服务、太阳能发电技术服务、发电机及发电机组制造等。股东信息显示，该公司由西部国轩（内蒙古）科技有限公司全资持股。",
+    "pubDate": "2026-07-09 17:55:32  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "氪星晚报｜大众汽车管理层考虑2031年起关闭德国部分工厂；消息称三星晶圆代工部分制程涨价；国家超算互联网核心节点正式上线",
+    "link": "https://36kr.com/p/3888230589152008?f=rss",
+    "summary": "大公司： LG Innotek将在越南海防投资10亿美元新建半导体基板厂 据6月8日声明，LG集团子公司、韩国电子元件制造商LG Innotek已获得越南海防经济区管理委员会（HEZA）颁发的投资登记证，将投资10亿美元在海防自由贸易区内的DEEP C海防2工业园新建半导体基板制造基地。该厂预计占地约33公顷，计划今年三季度动工，预计明年四季度完工。 Waymo未来几周将在美国四个新城市推出无人驾驶出租车服务 Waymo周三宣布，将在未来几周内陆续在美国四个新城市推出无人驾驶出租车服务，进一步巩固其在本土市场对特斯拉和Zoox的领先优势。新增服务城市分别为圣迭戈、拉斯维加斯、佛罗里达州坦...",
+    "pubDate": "2026-07-09 17:53:58  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "创始人回归，一家高增长公司进入新阶段",
+    "link": "https://36kr.com/p/3886969297893892?f=rss",
+    "summary": "六月末的苏黎世，利马特河从 On Labs 楼后流过。昂跑（On）三位创始人之一 Olivier Bernhard 站在一群跑步与商业记者面前，先说了一句略带歉意的开场白：“这里不是那种光鲜亮丽的展示空间。” 他提醒来客，接下来会看到戴着护目镜的工程师、指尖沾着蓝色染料的设计师，以及在跑步机上大汗淋漓、把自己逼到极限的运动员。这是昂跑第一次向外部媒体掀开其创新引擎的帷幕——On Labs 平日紧闭的那道门。 选择此刻开门，并非偶然。这家 2010 年诞生于瑞士、由前铁人三项运动员 Olivier Bernhard 与 David Allemann、Caspar Coppetti 共同创立...",
+    "pubDate": "2026-07-09 17:50:06  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "三峡新材：拟携间接控股股东约26亿元投资临港汽车及电子玻璃项目",
+    "link": "https://36kr.com/newsflashes/3888222574476034?f=rss",
+    "summary": "36氪获悉，三峡新材7月9日公告，公司拟与间接控股股东宜昌国有资本投资控股集团有限公司共同投资三峡新材临港汽车及电子玻璃项目。项目总投资约26亿元，其中公司投资不低于10.4亿元。此次投资旨在推动公司产品实现从建筑玻璃向电子级薄玻璃、汽车玻璃、超白产业玻璃等高端特种玻璃的转型升级，进一步完善玻璃产业链布局，提升核心竞争力。",
+    "pubDate": "2026-07-09 17:44:32  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "兆易创新：预计2026年半年度净利润同比增长1099%",
+    "link": "https://36kr.com/newsflashes/3888212716944133?f=rss",
+    "summary": "36氪获悉，兆易创新公告，预计2026年半年度归属于上市公司股东的净利润为69.00亿元左右，同比增长1099%左右。业绩变动主要系存储芯片行业供给紧张，公司存储芯片产品量价齐升，微控制器产品出货规模增长，带动整体经营业绩大幅增长。",
+    "pubDate": "2026-07-09 17:34:30  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "天华新能：预计2026年半年度净利润22亿元-24亿元，同比扭亏为盈",
+    "link": "https://36kr.com/newsflashes/3888211614644744?f=rss",
+    "summary": "36氪获悉，天华新能公告，预计2026年半年度归属于上市公司股东的净利润为22.00亿元-24.00亿元，同比扭亏为盈。业绩变动主要系报告期内储能、动力电池下游对锂电资源需求旺盛，公司锂电材料业务量价齐升，销售收入及利润增长。",
+    "pubDate": "2026-07-09 17:33:23  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "紫金黄金国际：预计上半年净利润同比增约169%",
+    "link": "https://36kr.com/newsflashes/3888206984510209?f=rss",
+    "summary": "36氪获悉，紫金黄金国际公告，预计本集团2026年上半年实现母公司拥有人应占溢利约14亿美元，同比增幅约169%。",
+    "pubDate": "2026-07-09 17:28:40  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "统一股份：预计2026年半年度净利润同比增长106%",
+    "link": "https://36kr.com/newsflashes/3888204941965828?f=rss",
+    "summary": "36氪获悉，统一股份公告，预计2026年半年度归属于上市公司股东的净利润为6909.67万元，同比增长106%。业绩变动主要系公司积极开拓市场，增加产品销量，提高盈利能力。",
+    "pubDate": "2026-07-09 17:26:36  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "美畅股份：预计2026年半年度净利润同比增长248.45%-272.08%",
+    "link": "https://36kr.com/newsflashes/3888199423605253?f=rss",
+    "summary": "36氪获悉，美畅股份公告，预计2026年半年度归属于上市公司股东的净利润为2.95亿元-3.15亿元，同比增长248.45%-272.08%。业绩变动主要系钨丝金刚线出货占比提升，废钨回收业务增厚收益。",
+    "pubDate": "2026-07-09 17:20:59  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "新锐股份：拟8亿元收购慧联电子80%股权",
+    "link": "https://36kr.com/newsflashes/3888198952139528?f=rss",
+    "summary": "36氪获悉，新锐股份公告，公司拟收购新乡市慧联电子科技有限公司80%股权，交易对价为8亿元，资金来源为自有资金及并购贷款。同时，为解决同业竞争及发展海外市场，拟以不超过2800万元收购WINWINHITECH（THAILAND）CO.,LTD.70%股权。本次交易不构成关联交易及重大资产重组，尚需提交股东会审议。交易完成后，预计形成商誉约4亿元，公司资产负债率预计增至约55%。",
+    "pubDate": "2026-07-09 17:20:30  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "国务院：推动产业结构绿色低碳转型，持续增强新能源、新能源汽车、动力电池等产业竞争优势",
+    "link": "https://36kr.com/newsflashes/3888189192895235?f=rss",
+    "summary": "36氪获悉，国务院印发《“十五五”碳达峰行动方案》。推动产业结构绿色低碳转型。稳妥有序推进重点行业化解结构性矛盾，依法依规淘汰落后低效产能和工艺设备。加强水泥产能规范管理。有力有效管控“两高”项目，强化源头把关，严格节能降碳审查评价，落实新（改、扩）建“两高”工业项目实施碳排放等量或减量置换要求。加快发展绿色能源、绿色制造、绿色服务等绿色低碳产业，持续增强新能源、新能源汽车、动力电池等产业竞争优势，培育氢能、绿色燃料等产业。支持碳管理服务业发展，推广合同能源管理等第三方治理模式，推进数智技术赋能绿色低碳发展。",
+    "pubDate": "2026-07-09 17:10:34  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "国务院：推进算力设施绿色低碳转型，推动新建算力设施主要使用非化石能源电力",
+    "link": "https://36kr.com/newsflashes/3888188032776713?f=rss",
+    "summary": "36氪获悉，国务院印发《“十五五”碳达峰行动方案》。推进算力设施绿色低碳转型。强化算力设施与可再生能源协同布局，支持开展绿电直供，合理配置储能、备用电源等配套设施，推动新建算力设施主要使用非化石能源电力。完善算力设施节能降碳标准，推动未达标算力设施开展节能降碳改造，有序淘汰落后低效技术和设备，提升算力设施能效水平。加快建设绿色算力设施，鼓励建设零碳算力设施。",
+    "pubDate": "2026-07-09 17:09:24  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "国务院：到2030年，新型储能装机容量力争达到3亿千瓦",
+    "link": "https://36kr.com/newsflashes/3888187643935233?f=rss",
+    "summary": "36氪获悉，国务院印发《“十五五”碳达峰行动方案》。逐步明确重点用能行业可再生能源消费最低比重目标。到2030年，抽水蓄能装机容量达到1.6亿千瓦左右，新型储能装机容量力争达到3亿千瓦，全国虚拟电厂最大调节能力达到5000万千瓦以上，电力需求响应能力达到最大用电负荷的5%以上。",
+    "pubDate": "2026-07-09 17:09:00  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "国务院：推动新型储能规模化发展，大力发展长时储能",
+    "link": "https://36kr.com/newsflashes/3888187230993156?f=rss",
+    "summary": "36氪获悉，国务院印发《“十五五”碳达峰行动方案》。加快提升电力系统新能源消纳能力。适应新能源发展趋势，强化电力系统对新能源的接纳、配置和调控能力。提升跨省跨区输电和互补互济能力，加快特高压外送通道建设，新增西电东送能力8000万千瓦以上，大力推进省间电力互济工程建设。支持新能源就地消纳，积极发展绿电直连、新能源就近接入增量配电网等绿电直供模式，推动源网荷储一体化发展。",
+    "pubDate": "2026-07-09 17:08:35  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "国务院：到2030年，新能源汽车保有量占比力争达到30%",
+    "link": "https://36kr.com/newsflashes/3888186305788677?f=rss",
+    "summary": "36氪获悉，今日《“十五五”碳达峰行动方案》发布，在交通领域，《行动方案》中提出，到2030年，新能源汽车保有量占比力争达到30%，新能源营运交通工具保有量占比达到25%。截至2025年年底，全国新能源汽车保有量占比约为12%，那么五年内实现翻一番以上的目标。对老百姓而言，“十五五”期间，新能源私家车保有量将进一步提升。",
+    "pubDate": "2026-07-09 17:07:38  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "蔚蓝锂芯：拟在印尼投资2.9亿美元建设锂电池项目",
+    "link": "https://36kr.com/newsflashes/3888180908931849?f=rss",
+    "summary": "36氪获悉，蔚蓝锂芯公告，公司拟在印度尼西亚投资建设锂电池项目，总投资2.9亿美元，新建5GWh圆柱锂电池制造项目。项目由公司通过香港子公司及印尼子公司实施，旨在增强海外客户产品供应保障能力，优化全球产业布局。该投资已获董事会审议通过，尚需股东会批准，并需取得国内外相关部门备案或审批。项目存在政策、审批及资金等风险，但对2026年营收和净利润预计无重大影响。",
+    "pubDate": "2026-07-09 17:02:09  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "揭秘Momenta：马斯克式CEO、AI执念和量产机器丨深氪",
+    "link": "https://36kr.com/p/3888180493318921?f=rss",
+    "summary": "特斯拉FSD（Full Self-Driving）每迭代出一个新版本，自动驾驶公司Momenta的创始人曹旭东都会飞去美国亲自体验。 “他还不光是去坐车，还会找一切能接触到特斯拉的人聊。”接触到曹旭东的人士告诉36氪，马斯克是曹旭东最常提到的人。 在内部，许多员工对曹旭东的一个共同感受，就是“马斯克式CEO”。 创业十年，Momenta赴港股IPO，上市首日（7月8日）市值达700亿港元。Momenta创始人曹旭东对36氪用两个数据，概括Momenta的阶段性成绩：定点车型市占率超50%，量产搭载车辆市占率超60%。 在这个节点回望，多位在职或者离职人士都向36氪总结，Momenta的内...",
+    "pubDate": "2026-07-09 17:01:56  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "天赐材料：预计2026年半年度净利润同比增长908%-1020%",
+    "link": "https://36kr.com/newsflashes/3888177161910786?f=rss",
+    "summary": "36氪获悉，天赐材料公告，预计2026年半年度归属于上市公司股东的净利润为27.00亿元-30.00亿元，同比增长907.84%-1019.82%。业绩变动主要系锂离子电池材料电解液及六氟磷酸锂产品市场需求旺盛，销量显著增长，产能利用率提升，行业供需格局优化带动产品价格上行，整体毛利率提升。",
+    "pubDate": "2026-07-09 16:58:20  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "贵研铂业：公司生产的溅射靶材产品没有应用于玻璃基板领域",
+    "link": "https://36kr.com/newsflashes/3888175606987271?f=rss",
+    "summary": "36氪获悉，有投资者问贵研铂业，请问公司作为京东方、TCL华星等面板巨头供应商，公司的半导体溅射靶材是不是也就是可以应用在TGV玻璃基板上？贵研铂业在互动平台表示，公司生产的溅射靶材产品没有应用于玻璃基板领域。",
+    "pubDate": "2026-07-09 16:56:45  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "神火股份：预计上半年归母净利润同比增长152.04%",
+    "link": "https://36kr.com/newsflashes/3888167632009728?f=rss",
+    "summary": "36氪获悉，神火股份公告，预计2026年上半年归母净利润48亿元，同比增长152.04%。公司业绩增长的主要原因为：报告期内，受电解铝、煤炭产品售价同比上涨、主要原材料氧化铝价格同比下降等因素影响，公司盈利能力大幅增强。",
+    "pubDate": "2026-07-09 16:48:38  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "正邦科技：预计上半年归母净利亏损7亿元-8亿元",
+    "link": "https://36kr.com/newsflashes/3888165856000773?f=rss",
+    "summary": "36氪获悉，正邦科技公告，预计2026年半年度归属于上市公司股东的净利润为亏损7亿元-8亿元，上年同期盈利2.02亿元。业绩变动主要系报告期内生猪市场行情波动，商品猪销售均价同比下降，导致生猪养殖业务利润同比下降，同时公司对往来账款计提预期信用损失及对部分存货计提减值准备。",
+    "pubDate": "2026-07-09 16:46:50  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "中国鱼子酱，占领头等舱",
+    "link": "https://36kr.com/p/3887939410492168?f=rss",
+    "summary": "作者 |&nbsp; 谢芸子 编辑 | 张帆 2026年6月30日，杭州千岛湖鲟龙科技正式在港交所上市。虽然挂着“科技”的名头，这家公司却在“养鱼”，也是名副其实的“全球最大鱼子酱企业”。 资本市场给到这个传统赛道热烈的回应。 上市当日，鲟龙科技开盘报价103港元，较发行价75.5港元上涨36.42%，总市值约112.15亿港元。截至收盘，股价进一步攀升至114港元，涨幅达到50.99%。 而在此前的公开发售阶段，这家公司更是获得了2134.81倍的超额认购。贝莱德、霸菱、泰康人寿、景林等8家基石投资者的合计认购约6.15亿港元，占发售股份近50%。从数据上看，这是一场堪称完美的IPO。...",
+    "pubDate": "2026-07-09 13:39:42  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
   },
   {
     "title": "雀巢将斥资6.88亿美元建设泰国中心，新增520个就业岗位",

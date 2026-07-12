@@ -32,12 +32,260 @@
     "category": "general"
   },
   {
+    "title": "Two men die trying to save children in sea",
+    "link": "https://www.bbc.co.uk/news/articles/cq81l5gj54zo?at_medium=RSS&at_campaign=rss",
+    "summary": "Cleveland Police says the children are confirmed to be safe after being checked over in hospital.",
+    "pubDate": "Sun, 12 Jul 2026 19:28:47 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Infantino opens door to 64-team World Cup",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cj9gm31jwg8o?at_medium=RSS&at_campaign=rss",
+    "summary": "Plans for a 64-team men's world cup are set to be picked up and assessed in detail after the 2026 tournament with Fifa boss Gianni Infantino saying football needs to be \"for the whole world\".",
+    "pubDate": "Sun, 12 Jul 2026 19:18:56 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Major incident declared in Wales as firefighters tackle wildfires across UK",
+    "link": "https://www.bbc.co.uk/news/articles/cy8w67l642no?at_medium=RSS&at_campaign=rss",
+    "summary": "Residents near the Conwy fire have been evacuated, with at least 10 other fires across the UK this weekend.",
+    "pubDate": "Sun, 12 Jul 2026 19:03:11 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "From the ride to the rubble - how McCullum lost England Test job",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/cqx15e27v3eo?at_medium=RSS&at_campaign=rss",
+    "summary": "The Brendon McCullum era gave England a ride but it careered off the rails and the next Test coach has a huge rebuilding job on their hands.",
+    "pubDate": "Sun, 12 Jul 2026 18:51:03 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The One-Step Trap (In AI Research)",
+    "link": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
+    "summary": "Article URL: http://incompleteideas.net/IncIdeas/OneStepTrap.html Comments URL: https://news.ycombinator.com/item?id=48883415 Points: 4 # Comments: 0",
+    "pubDate": "Sun, 12 Jul 2026 18:41:15 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "I love LLMs, I hate hype",
+    "link": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+    "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html Comments URL: https://news.ycombinator.com/item?id=48883343 Points: 63 # Comments: 25",
+    "pubDate": "Sun, 12 Jul 2026 18:31:56 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+    "link": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+    "summary": "This started based off of a hunch. We usually use OpenCode, but were 'forced' to use Claude Code for a while due to issues with Meridian. In that time, we saw the usage meter rise much, much more quickly than when using OpenCode. This was the initial anecdotal evidence, but we undertook this smal...",
+    "pubDate": "Sun, 12 Jul 2026 18:25:51 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "I Learned to Read Again",
+    "link": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
+    "summary": "Article URL: https://substack.magazinenongrata.com/p/how-i-learned-to-read-again Comments URL: https://news.ycombinator.com/item?id=48883238 Points: 4 # Comments: 0",
+    "pubDate": "Sun, 12 Jul 2026 18:22:15 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "'We have another level we can reach' - Kane defends frustrated Tuchel",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cy04xjlg5p4o?at_medium=RSS&at_campaign=rss",
+    "summary": "Captain Harry Kane says England \"have another level we can reach\" as they bid to win the World Cup for the first time since 1966.",
+    "pubDate": "Sun, 12 Jul 2026 18:18:22 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "England facing defeat in Knight & Beaumont's farewell",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/cy04x8e8kk5o?at_medium=RSS&at_campaign=rss",
+    "summary": "Tammy Beaumont and Heather Knight fall cheaply in their final innings for England as India close in on victory at Lord's.",
+    "pubDate": "Sun, 12 Jul 2026 18:05:55 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Can We Understand How Large Language Models Reason?",
+    "link": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
+    "summary": "Article URL: https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/ Comments URL: https://news.ycombinator.com/item?id=48883090 Points: 20 # Comments: 9",
+    "pubDate": "Sun, 12 Jul 2026 18:04:41 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Against Usefulness",
+    "link": "https://www.motivenotes.ai/p/against-usefulness",
+    "summary": "Article URL: https://www.motivenotes.ai/p/against-usefulness Comments URL: https://news.ycombinator.com/item?id=48882956 Points: 31 # Comments: 5",
+    "pubDate": "Sun, 12 Jul 2026 17:47:07 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+    "link": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+    "summary": "Article URL: https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6 Comments URL: https://news.ycombinator.com/item?id=48882716 Points: 5 # Comments: 0",
+    "pubDate": "Sun, 12 Jul 2026 17:13:07 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "LARP – Revenue infrastructure for serious founders",
+    "link": "https://www.larp.website/",
+    "summary": "Article URL: https://www.larp.website/ Comments URL: https://news.ycombinator.com/item?id=48882569 Points: 39 # Comments: 7",
+    "pubDate": "Sun, 12 Jul 2026 16:56:41 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Show HN: Shirei, cross-platform GUI framework in native Go",
+    "link": "https://github.com/hasenj/go-shirei/",
+    "summary": "Article URL: https://github.com/hasenj/go-shirei/ Comments URL: https://news.ycombinator.com/item?id=48882562 Points: 52 # Comments: 28",
+    "pubDate": "Sun, 12 Jul 2026 16:55:42 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Automation Without Understanding",
+    "link": "https://arxiv.org/abs/2607.06377",
+    "summary": "Article URL: https://arxiv.org/abs/2607.06377 Comments URL: https://news.ycombinator.com/item?id=48882554 Points: 43 # Comments: 23",
+    "pubDate": "Sun, 12 Jul 2026 16:54:47 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Andrew Flintoff's Top Gear crash passenger sues BBC Studios",
+    "link": "https://www.bbc.co.uk/news/articles/c4gy59p5gz6o?at_medium=RSS&at_campaign=rss",
+    "summary": "Expert driver Paul Rees is claiming personal injury, which BBC Studios is disputing.",
+    "pubDate": "Sun, 12 Jul 2026 16:11:20 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "TechCrunch Mobility: A robotaxi ultimatum",
+    "link": "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/",
+    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+    "pubDate": "Sun, 12 Jul 2026 16:07:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Theo de Raadt: \"You've been smoking something mind altering\" (2007)",
+    "link": "https://marc.info/?l=openbsd-misc&m=119318909016582",
+    "summary": "Article URL: https://marc.info/?l=openbsd-misc&amp;m=119318909016582 Comments URL: https://news.ycombinator.com/item?id=48882189 Points: 54 # Comments: 39",
+    "pubDate": "Sun, 12 Jul 2026 16:05:29 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Ryu claims second major of season at Evian Championship",
+    "link": "https://www.bbc.co.uk/sport/golf/articles/cvg42en7d3go?at_medium=RSS&at_campaign=rss",
+    "summary": "South Korea's Haeran Ryu says it feels like she was in an \"unreal dream\" after claiming her second major title in the space of two weeks by defeating Brooke Henderson in a play-off at the Evian Championship.",
+    "pubDate": "Sun, 12 Jul 2026 15:54:48 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Why study Diophantine equations?",
+    "link": "https://hidden-phenomena.com/articles/modular",
+    "summary": "Article URL: https://hidden-phenomena.com/articles/modular Comments URL: https://news.ycombinator.com/item?id=48882097 Points: 43 # Comments: 12",
+    "pubDate": "Sun, 12 Jul 2026 15:53:53 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "How to Read More Books",
+    "link": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
+    "summary": "Article URL: https://scotto.me/blog/2026-07-12-how-to-read-more-books/ Comments URL: https://news.ycombinator.com/item?id=48882056 Points: 173 # Comments: 98",
+    "pubDate": "Sun, 12 Jul 2026 15:47:16 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The power of collaboration: How we can reduce traffic congestion",
+    "link": "https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/",
+    "summary": "Article URL: https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/ Comments URL: https://news.ycombinator.com/item?id=48881967 Points: 35 # Comments: 24",
+    "pubDate": "Sun, 12 Jul 2026 15:35:36 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "'This landscape is completely charred': Inside the village at epicentre of Spain's wildfires",
+    "link": "https://www.bbc.co.uk/news/videos/cddl1yrldelo?at_medium=RSS&at_campaign=rss",
+    "summary": "The BBC's Nick Beake sees homes razed to the ground and \"a sea of black\" in Bédar.",
+    "pubDate": "Sun, 12 Jul 2026 15:33:27 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The shingles vaccine may reduce the risk of dementia",
+    "link": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
+    "summary": "https://archive.ph/PzPop Comments URL: https://news.ycombinator.com/item?id=48881874 Points: 120 # Comments: 101",
+    "pubDate": "Sun, 12 Jul 2026 15:23:59 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "David Willey, esteemed BBC Vatican correspondent, dies aged 93",
+    "link": "https://www.bbc.co.uk/news/articles/cn9403518jro?at_medium=RSS&at_campaign=rss",
+    "summary": "One of the BBC's longest-serving foreign correspondents, he reported on five popes during his career.",
+    "pubDate": "Sun, 12 Jul 2026 15:22:52 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Don't you mean extinct?",
+    "link": "https://fabiensanglard.net/extinct/index.html",
+    "summary": "Article URL: https://fabiensanglard.net/extinct/index.html Comments URL: https://news.ycombinator.com/item?id=48881830 Points: 130 # Comments: 61",
+    "pubDate": "Sun, 12 Jul 2026 15:17:20 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Autoresearch, Claude and Constrained Optimization",
+    "link": "https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization/",
+    "summary": "Article URL: https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization/ Comments URL: https://news.ycombinator.com/item?id=48881498 Points: 20 # Comments: 4",
+    "pubDate": "Sun, 12 Jul 2026 14:32:00 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Does Andy Burnham Have A New Plan For Tax?",
+    "link": "https://www.bbc.co.uk/sounds/play/p0nx5fzl?at_medium=RSS&at_campaign=rss",
+    "summary": "And what will his premiership mean for your payslip?",
+    "pubDate": "Sun, 12 Jul 2026 14:13:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Show HN: Kurvengefahr – browser CAD/CAM for pen plotters",
+    "link": "https://kurvengefahr.org/",
+    "summary": "A few years ago I made a pen plotter attachment for Prusa MK4 ( https://www.printables.com/model/827264-pen-plotter-attachme... ) and at the time I didn't have a good way to turn artwork into G-code for it, and I put the project on ice for a while. I recently wanted to dabble in line art again an...",
+    "pubDate": "Sun, 12 Jul 2026 14:09:23 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "McCullum sacked as England Test head coach",
     "link": "https://www.bbc.co.uk/sport/cricket/articles/c8028vm2g9ro?at_medium=RSS&at_campaign=rss",
     "summary": "England are now without a Test head coach and captain as Brendon McCullum leaves after four years in the role.",
     "pubDate": "Sun, 12 Jul 2026 14:03:13 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Closing a three-year-old issue using Rust arenas",
+    "link": "https://giacomocavalieri.me/writing/gleam-rust-arenas",
+    "summary": "Comments",
+    "pubDate": "Sun, 12 Jul 2026 13:58:31 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Bill for Hillsborough Law set to be approved by MPs",
@@ -61,6 +309,22 @@
     "summary": "The unnamed pair were found semi-conscious with 40% burns after being trapped by the blazes raging through Almeria province, local media reports.",
     "pubDate": "Sun, 12 Jul 2026 13:35:01 GMT",
     "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "AI boosts research careers but narrow the span of ideas explored: study",
+    "link": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+    "summary": "Article URL: https://spectrum.ieee.org/ai-science-research-flattens-discovery Comments URL: https://news.ycombinator.com/item?id=48881043 Points: 117 # Comments: 87",
+    "pubDate": "Sun, 12 Jul 2026 13:26:13 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Toronto police looking for suspects after deadly shooting at festival",
+    "link": "https://www.npr.org/2026/07/12/g-s1-133229/toronto-shooting-salsa-festival",
+    "summary": "At least two people are dead and at least four people are injured after a shooting on Saturday night at a festival celebrating Latin culture in Canada's biggest city.",
+    "pubDate": "Sun, 12 Jul 2026 13:22:29 -0400",
+    "source": "NPR",
     "category": "general"
   },
   {
@@ -92,6 +356,22 @@
     "link": "https://www.bbc.co.uk/news/articles/c0ky6v64ny1o?at_medium=RSS&at_campaign=rss",
     "summary": "She was diagnosed with a glioblastoma, a highly aggressive brain tumour, in June 2022.",
     "pubDate": "Sun, 12 Jul 2026 12:49:15 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "What to know about the cyclosporiasis outbreak hitting more than half of U.S. states",
+    "link": "https://www.npr.org/2026/07/12/nx-s1-5890935/cyclosporiasis-outbreak-diarrhea-nausea-where-states-us",
+    "summary": "A surge of cases of the intestinal illness that causes diarrhea and nausea has been detected in 31 states, according to federal health authorities, but the source is still under investigation.",
+    "pubDate": "Sun, 12 Jul 2026 12:48:41 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "What to expect in the semi-finals",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cd6ed5x95ygo?at_medium=RSS&at_campaign=rss",
+    "summary": "France face Spain and England take on Argentina in heavyweight World Cup semi-final meetings - here's what to expect from the last four.",
+    "pubDate": "Sun, 12 Jul 2026 12:29:10 GMT",
     "source": "BBC News",
     "category": "general"
   },
@@ -133,6 +413,14 @@
     "summary": "Article URL: https://app.ilograph.com/demo.ilograph.yt-dlp/Download%2520a%2520YouTube%2520Video Comments URL: https://news.ycombinator.com/item?id=48880384 Points: 55 # Comments: 9",
     "pubDate": "Sun, 12 Jul 2026 11:49:38 +0000",
     "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Slow Software: The Case for High-latency Systems Development",
+    "link": "https://www.sigops.org/2026/slow-software-the-case-for-high-latency-systems-development/",
+    "summary": "Comments",
+    "pubDate": "Sun, 12 Jul 2026 11:47:39 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -197,6 +485,14 @@
     "summary": "Article URL: https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france Comments URL: https://news.ycombinator.com/item?id=48879950 Points: 55 # Comments: 64",
     "pubDate": "Sun, 12 Jul 2026 10:23:25 +0000",
     "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Evan's Jujutsu Tutorial",
+    "link": "https://evmar.github.io/jjtut/",
+    "summary": "Comments",
+    "pubDate": "Sun, 12 Jul 2026 10:19:32 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -326,6 +622,14 @@
     "pubDate": "Sun, 12 Jul 2026 06:07:21 EDT",
     "source": "Science Daily",
     "category": "science"
+  },
+  {
+    "title": "I'm dyslexic and avoided reading until BookTok got me hooked - now I run a book club",
+    "link": "https://www.bbc.co.uk/news/articles/cg744p7ddyko?at_medium=RSS&at_campaign=rss",
+    "summary": "Romance novels are enjoying a boom and even their own dedicated bookshops.",
+    "pubDate": "Sun, 12 Jul 2026 06:05:16 GMT",
+    "source": "BBC News",
+    "category": "general"
   },
   {
     "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
@@ -934,6 +1238,46 @@
     "pubDate": "Fri, 10 Jul 2026 06:00:00 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Shall We Go On Sinning So That Grace May Increase? is hypnotic, healing, and hopeful",
+    "link": "https://www.theverge.com/entertainment/964532/the-soft-pink-truth-shall-we-go-on-sinning-so-that-grace-may-increase-review",
+    "summary": "Matmos are an incredibly accomplished duo between their own solo records like the masterpiece A Chance to Cut Is a Chance to Cure and production classic Bjork records like Vespertine. But Drew Daniel, one half of Matmos, is fiendishly prolific. When he's not literally dreaming up new viral music ...",
+    "pubDate": "2026-07-12T15:40:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+    "link": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+    "summary": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need powerful on-device AI processing. While the car proces...",
+    "pubDate": "2026-07-12T12:27:06-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "One of SteelSeries&#8217; best gaming headsets is over $100 off",
+    "link": "https://www.theverge.com/gadgets/964125/steelseries-arctis-nova-pro-wireless-headset-deal-sale",
+    "summary": "SteelSeries has the Arctis Nova Pro Wireless gaming headset on sale for $239.99 (currently between $300 and $350 at other retailers). The Xbox version that supports a host of other platforms including PlayStation, PC, and Switch is available in both black and white. The PlayStation version, which...",
+    "pubDate": "2026-07-12T11:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "How Philips Hue got the smart home right",
+    "link": "https://www.theverge.com/podcast/964515/philips-hue-smart-lights-version-history",
+    "summary": "The state of the smart home can be frustrating, because it is just so obvious how things ought to work. You should be able to control everything from everywhere. Your spaces should adapt to what you're doing and how you're feeling. Making your home smart shouldn't require renovating, and the smar...",
+    "pubDate": "2026-07-12T10:38:01-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Less is more with the Oura Ring 5",
+    "link": "https://www.theverge.com/tech/964386/oura-ring-5-review-smart-ring-wearables",
+    "summary": "If you're reading an Oura Ring 5 review at The Verge, you likely fall into one of two camps: newcomers looking for a smartwatch alternative, or Oura users pondering an upgrade. In the case of the former, this is a great casual health tracker and the best smart ring on the market - but not [&#8230;]",
+    "pubDate": "2026-07-12T10:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
   },
   {
     "title": "Blue Prince became a bonding — and learning — experience for my family",

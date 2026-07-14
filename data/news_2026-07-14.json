@@ -1,5 +1,13 @@
 [
   {
+    "title": "社区速递 149｜派友热议睡眠数据化、观穹 6×24 望远镜与 RG Rotate 旋转屏掌机",
+    "link": "https://sspai.com/post/112320",
+    "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ... 查看全文",
+    "pubDate": "Tue, 14 Jul 2026 17:27:39 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
     "title": "具透 | iOS 27 首个公开测试版来了，这些是值得你关注的新功能",
     "link": "https://sspai.com/post/112287",
     "summary": "少数派在体验了新版系统之后，帮你整理了 iOS 27 中值得关注的新功能和新特性，希望帮你能了解新版系统的方方面面。 查看全文",
@@ -8,12 +16,460 @@
     "category": "tech-cn"
   },
   {
+    "title": "The real AI race may no longer be at the frontier",
+    "link": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
+    "summary": "Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends up running on open models?",
+    "pubDate": "Tue, 14 Jul 2026 14:24:53 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Arsenal agree fee for Trossard move to Besiktas",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cddldzme6g1o?at_medium=RSS&at_campaign=rss",
+    "summary": "Arsenal have agreed a transfer fee to sell Belgium forward Leandro Trossard to Beskitas.",
+    "pubDate": "Tue, 14 Jul 2026 14:11:47 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Telegram’s shortlink domain is back online after day-long suspension",
+    "link": "https://techcrunch.com/2026/07/14/telegrams-shortlink-domain-is-back-online-after-day-long-suspension/",
+    "summary": "Telegram CEO Pavel Durov confirmed an outage in a tweet, saying that short-links to the messaging app had \"stopped working.\"",
+    "pubDate": "Tue, 14 Jul 2026 14:10:13 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
+    "link": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
+    "summary": "Spotify is rolling out a new AI-powered conversational feature that lets Premium subscribers chat with the app to discover music, podcasts, and audiobooks, and more.",
+    "pubDate": "Tue, 14 Jul 2026 14:06:47 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Superhuman’s new auto-draft feature almost makes me like AI replies",
+    "link": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/",
+    "summary": "Superhuman’s latest AI email drafting feature is its most convincing yet, generating replies that often required little to no editing in our testing.",
+    "pubDate": "Tue, 14 Jul 2026 14:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal",
+    "link": "https://www.bbc.co.uk/news/articles/cly8yjnw822o?at_medium=RSS&at_campaign=rss",
+    "summary": "Svetlana Grković told Serbian media that her husband is \"seriously injured and in shock\".",
+    "pubDate": "Tue, 14 Jul 2026 13:49:42 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Israeli strike on police post in north Gaza kills seven, officials say",
+    "link": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss",
+    "summary": "A senior officer in the Hamas-run police force was among those killed in the strike, which Israel's military says targeted \"terrorists\".",
+    "pubDate": "Tue, 14 Jul 2026 13:46:14 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Diamond giant De Beers halts work at flagship South African mine as demand plummets",
+    "link": "https://www.bbc.co.uk/news/articles/cjrgr7lr1ejo?at_medium=RSS&at_campaign=rss",
+    "summary": "Production will stop for two years at the mine which employs more than 4,000 people.",
+    "pubDate": "Tue, 14 Jul 2026 13:22:09 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Serena Williams Fit-Dex",
+    "link": "https://serena-williams-fitdex.netlify.app/",
+    "summary": "Article URL: https://serena-williams-fitdex.netlify.app/ Comments URL: https://news.ycombinator.com/item?id=48906339 Points: 4 # Comments: 0",
+    "pubDate": "Tue, 14 Jul 2026 13:12:55 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Families of RAF Chinook crash victims ask court to allow case to proceed",
+    "link": "https://www.bbc.co.uk/news/articles/crm0mkgxn9eo?at_medium=RSS&at_campaign=rss",
+    "summary": "In 1994, a Chinook helicopter carrying 25 passengers and four crew crashed in the Mull of Kintyre in Scotland, killing all of those on board.",
+    "pubDate": "Tue, 14 Jul 2026 13:03:42 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Proof of Care in the Age of A.I",
+    "link": "https://jacobfilipp.com/care/",
+    "summary": "Article URL: https://jacobfilipp.com/care/ Comments URL: https://news.ycombinator.com/item?id=48906125 Points: 53 # Comments: 23",
+    "pubDate": "Tue, 14 Jul 2026 12:56:25 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Tensor Is the Might",
+    "link": "https://zserge.com/posts/tensor/",
+    "summary": "Article URL: https://zserge.com/posts/tensor/ Comments URL: https://news.ycombinator.com/item?id=48906123 Points: 18 # Comments: 6",
+    "pubDate": "Tue, 14 Jul 2026 12:56:21 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "'I didn't think I'd live to this age' - Howard's inspiring journey to The Open",
+    "link": "https://www.bbc.co.uk/sport/golf/articles/c3ryr83d9q3o?at_medium=RSS&at_campaign=rss",
+    "summary": "BBC Sport NI speaks to Irish golfer David Howard, who discusses being diagnosed with cystic fibrosis aged seven and qualifying for The Open at Royal Birkdale.",
+    "pubDate": "Tue, 14 Jul 2026 12:54:17 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "MPs expected to approve long-delayed 'Hillsborough Law'",
+    "link": "https://www.bbc.co.uk/news/articles/c9q2qwnvd75o?at_medium=RSS&at_campaign=rss",
+    "summary": "The legislation has returned to the Commons in Sir Keir Starmer's final days as prime minister.",
+    "pubDate": "Tue, 14 Jul 2026 12:53:55 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Government failing Farage over security, says Jenrick",
+    "link": "https://www.bbc.co.uk/news/articles/c4gyg9452qlo?at_medium=RSS&at_campaign=rss",
+    "summary": "It comes as the police investigation into Ann Widdecombe's death sparks renewed debate over politicians' security.",
+    "pubDate": "Tue, 14 Jul 2026 12:47:53 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "What we learned from the Covid inquiry PPE report",
+    "link": "https://www.bbc.co.uk/news/articles/c07y7zj43jmo?at_medium=RSS&at_campaign=rss",
+    "summary": "What went wrong with the government's planning and buying of vital items like gloves and gowns that cost taxpayers billions of pounds.",
+    "pubDate": "Tue, 14 Jul 2026 12:45:44 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Man who staged wife's suicide jailed for  murder",
+    "link": "https://www.bbc.co.uk/news/articles/c8626147e6no?at_medium=RSS&at_campaign=rss",
+    "summary": "The couple's daughter tells the court her father is a \"jealous, conniving, narcissistic villain\".",
+    "pubDate": "Tue, 14 Jul 2026 12:43:17 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "American Elfath to referee England v Argentina",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c2lylenekjpo?at_medium=RSS&at_campaign=rss",
+    "summary": "Fifa announce American referee Ismail Elfath will take charge of England's World Cup semi-final against Argentina.",
+    "pubDate": "Tue, 14 Jul 2026 12:42:41 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)",
+    "link": "https://github.com/Danau5tin/ai-trains-ai",
+    "summary": "Article URL: https://github.com/Danau5tin/ai-trains-ai Comments URL: https://news.ycombinator.com/item?id=48905919 Points: 35 # Comments: 13",
+    "pubDate": "Tue, 14 Jul 2026 12:41:25 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Beautiful Type Erasure with C++26 Reflection",
+    "link": "https://ryanjk5.github.io/posts/rjk-duck/",
+    "summary": "Article URL: https://ryanjk5.github.io/posts/rjk-duck/ Comments URL: https://news.ycombinator.com/item?id=48905914 Points: 33 # Comments: 11",
+    "pubDate": "Tue, 14 Jul 2026 12:40:50 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Coding agents think ahead of time",
+    "link": "https://arxiv.org/abs/2607.05188",
+    "summary": "Article URL: https://arxiv.org/abs/2607.05188 Comments URL: https://news.ycombinator.com/item?id=48905764 Points: 37 # Comments: 28",
+    "pubDate": "Tue, 14 Jul 2026 12:28:09 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Differentiable Fortran with LFortran and Enzyme",
+    "link": "https://docs.pasteurlabs.ai/projects/tesseract-core/latest/blog/2026-07-09-enzyme-lfortran-autodiff.html",
+    "summary": "Article URL: https://docs.pasteurlabs.ai/projects/tesseract-core/latest/blog/2026-07-09-enzyme-lfortran-autodiff.html Comments URL: https://news.ycombinator.com/item?id=48905667 Points: 19 # Comments: 2",
+    "pubDate": "Tue, 14 Jul 2026 12:21:46 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Scott Mills was highest-paid BBC star before sacking",
+    "link": "https://www.bbc.co.uk/news/articles/c4gynyz4wqpo?at_medium=RSS&at_campaign=rss",
+    "summary": "The former Radio 2 breakfast host earned about £745,000 from the BBC in the last financial year.",
+    "pubDate": "Tue, 14 Jul 2026 12:19:47 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Family 'heartbroken' over parents' wildfire deaths",
+    "link": "https://www.bbc.co.uk/news/articles/c74y4zjydk7o?at_medium=RSS&at_campaign=rss",
+    "summary": "Pete and Fran Gillam are confirmed dead by their family, who live in Sheffield.",
+    "pubDate": "Tue, 14 Jul 2026 12:18:39 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "UK wasted £10bn on PPE that left NHS staff poorly protected, Covid inquiry finds",
+    "link": "https://www.bbc.co.uk/news/articles/czrxrlydyzzo?at_medium=RSS&at_campaign=rss",
+    "summary": "Healthcare staff were unable to properly protect themselves, or those in their care, from dangerous infections, says the latest inquiry report.",
+    "pubDate": "Tue, 14 Jul 2026 12:12:53 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "iOS / iPadOS 27 Public Beta 公测版来了：升降级指南 & 注意事项",
     "link": "https://sspai.com/post/112288",
     "summary": "7月14日凌晨，Apple终于推送了今年iOS27、iPadOS27、watchOS27、macOSGoldenGate、HomePod软件27以及AirPods固件新版的首个PublicBeta公开 ... 查看全文",
     "pubDate": "Tue, 14 Jul 2026 12:07:18 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "Plex Keeps Getting Worse. Is Jellyfin a Decent Replacement?",
+    "link": "https://www.wired.com/story/plex-keeps-getting-worse-is-jellyfin-a-decent-replacement/",
+    "summary": "If you want to stream local media, this free and open source media server is just as good as Plex. But if you rely on remote access or live TV, prepare to tinker.",
+    "pubDate": "Tue, 14 Jul 2026 12:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Germany set to restrict its Freedom of Information Act",
+    "link": "https://www.dw.com/en/germany-freedom-of-information-act/a-77939695",
+    "summary": "Article URL: https://www.dw.com/en/germany-freedom-of-information-act/a-77939695 Comments URL: https://news.ycombinator.com/item?id=48905290 Points: 121 # Comments: 67",
+    "pubDate": "Tue, 14 Jul 2026 11:49:48 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "BBC pay 2025-2026: The full list of star salaries",
+    "link": "https://www.bbc.co.uk/news/articles/cn750p4gyjgo?at_medium=RSS&at_campaign=rss",
+    "summary": "Scott Mills and Greg James top the list of the best-paid BBC presenters in the last financial year.",
+    "pubDate": "Tue, 14 Jul 2026 11:40:19 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "What's next at Liverpool for Argentina's proven winner Mac Allister?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cd0m02yl03zo?at_medium=RSS&at_campaign=rss",
+    "summary": "After a poor season at Liverpool, Alexis Mac Allister is back thriving for Argentina - so what does his future look like at Anfield?",
+    "pubDate": "Tue, 14 Jul 2026 11:38:31 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Punch Yourself in the Face with Reality",
+    "link": "https://adi.bio/reality",
+    "summary": "Article URL: https://adi.bio/reality Comments URL: https://news.ycombinator.com/item?id=48905118 Points: 66 # Comments: 28",
+    "pubDate": "Tue, 14 Jul 2026 11:33:19 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Codex scraped the ICM website and discovered 2026 Fields Medal winner list",
+    "link": "https://phemex.com/news/article/2026-fields-medal-winners-list-leaked-includes-two-peking-university-alumni-92948",
+    "summary": "Article URL: https://phemex.com/news/article/2026-fields-medal-winners-list-leaked-includes-two-peking-university-alumni-92948 Comments URL: https://news.ycombinator.com/item?id=48905091 Points: 99 # Comments: 71",
+    "pubDate": "Tue, 14 Jul 2026 11:30:36 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "9 Tips to Get More Out of Google Chat",
+    "link": "https://www.wired.com/story/9-tips-to-get-more-out-of-google-chat/",
+    "summary": "There’s more to Google’s messaging app than you might realize.",
+    "pubDate": "Tue, 14 Jul 2026 11:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Best RGB TVs (2026): My Picks After Testing the Hottest TVs",
+    "link": "https://www.wired.com/story/best-rgb-tvs/",
+    "summary": "RGB TVs are the latest hotness in the world of televisions, and I’ve tested many of the latest models to see which you should buy.",
+    "pubDate": "Tue, 14 Jul 2026 11:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Fanfare and flyovers as France celebrates Bastille Day",
+    "link": "https://www.bbc.co.uk/news/videos/c0kyk38k6n4o?at_medium=RSS&at_campaign=rss",
+    "summary": "Soldiers from the 'Coalition of the Willing' and Ukraine took centre stage in the parade through Paris.",
+    "pubDate": "Tue, 14 Jul 2026 11:22:40 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Codex starts encrypting sub-agent prompts",
+    "link": "https://github.com/openai/codex/issues/28058",
+    "summary": "Article URL: https://github.com/openai/codex/issues/28058 Comments URL: https://news.ycombinator.com/item?id=48905028 Points: 261 # Comments: 160",
+    "pubDate": "Tue, 14 Jul 2026 11:21:32 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Wildfires burn in parts of UK as fire chiefs warn of extreme pressure",
+    "link": "https://www.bbc.co.uk/news/articles/cwyey14r4wzo?at_medium=RSS&at_campaign=rss",
+    "summary": "Major incidents were declared in North Wales and in Glossop, Derbyshire in the Peak District on Sunday.",
+    "pubDate": "Tue, 14 Jul 2026 11:15:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Oura Ring 5 Review: Still the Smart Ring to Beat",
+    "link": "https://www.wired.com/review/oura-ring-5/",
+    "summary": "It’s not the upgrade Ring 4 owners have been waiting for, but it’s easily the best smart ring Oura has ever made.",
+    "pubDate": "Tue, 14 Jul 2026 11:07:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Show HN: Rejourney – Open-source revenue leak prediction for web and mobile apps",
+    "link": "https://github.com/rejourneyco/rejourney",
+    "summary": "Hello there (General Kenobi's favorite way to start the conversation), I’m Rashid, a sophomore at UT Austin. I built Rejourney.co ( https://rejourney.co/ ) to predict issues with your apps and websites before they happen, based on real user session recordings. Here is a silly video (with cats) on...",
+    "pubDate": "Tue, 14 Jul 2026 11:06:09 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The Future Worth Building Is Human",
+    "link": "https://thinkingmachines.ai/blog/the-future-worth-building-is-human/",
+    "summary": "Article URL: https://thinkingmachines.ai/blog/the-future-worth-building-is-human/ Comments URL: https://news.ycombinator.com/item?id=48904905 Points: 73 # Comments: 44",
+    "pubDate": "Tue, 14 Jul 2026 11:05:27 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Actegories",
+    "link": "https://bartoszmilewski.com/2026/06/30/actegories/",
+    "summary": "Article URL: https://bartoszmilewski.com/2026/06/30/actegories/ Comments URL: https://news.ycombinator.com/item?id=48904902 Points: 30 # Comments: 4",
+    "pubDate": "Tue, 14 Jul 2026 11:05:15 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "He walked for 47% of the World Cup - the evolution of Messi",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cy4e943j1j1o?at_medium=RSS&at_campaign=rss",
+    "summary": "Lionel Messi is looking to beat England and reach a third World Cup final with Argentina. Guillem Balague looks at the evolution of one of the game's all-time greats.",
+    "pubDate": "Tue, 14 Jul 2026 11:00:53 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "This German Man Is on a Quest to Cut the Perfect Slice of Bread",
+    "link": "https://www.wired.com/story/this-german-man-is-on-a-mad-quest-to-cut-the-perfect-slice-of-bread/",
+    "summary": "Armed with high-end knives and digital calipers, Germanbreadcutter has entranced thousands of fans, one loaf at a time.",
+    "pubDate": "Tue, 14 Jul 2026 11:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "The great digital fatigue: How digital burnout is changing social media use",
+    "link": "https://blog.incogni.com/digital-fatigue-and-burnout/",
+    "summary": "Article URL: https://blog.incogni.com/digital-fatigue-and-burnout/ Comments URL: https://news.ycombinator.com/item?id=48904855 Points: 66 # Comments: 60",
+    "pubDate": "Tue, 14 Jul 2026 10:58:38 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "This Luddite Puppet Hopes You’re Not Reading This on Your Smartphone",
+    "link": "https://www.wired.com/story/the-big-interview-podcast-summer-of-ludd-gowanus/",
+    "summary": "On this week’s episode of The Big Interview podcast, WIRED’s senior culture editor Manisha Krishnan talks to Gowanus about eschewing Big Tech, going outside, and rejection in the age of dating apps.",
+    "pubDate": "Tue, 14 Jul 2026 10:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "South East Water must pay £30.5m for supply failures",
+    "link": "https://www.bbc.co.uk/news/articles/cevlvxgggxyo?at_medium=RSS&at_campaign=rss",
+    "summary": "Regulator Ofwat confirms this penalty follows three investigations into the water company.",
+    "pubDate": "Tue, 14 Jul 2026 10:13:59 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The Chatbot That Foretold Why People Share Secrets With ChatGPT",
+    "link": "https://www.wired.com/story/inventing-eliza-book-excerpt-chatbot/",
+    "summary": "In the 1960s an MIT professor named Joseph Weizenbaum created a chatbot called ELIZA. The conversations people had with it set precedents for the chatbots to come.",
+    "pubDate": "Tue, 14 Jul 2026 10:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Dad who died helping two children in sea named",
+    "link": "https://www.bbc.co.uk/news/articles/c8626jpp0ewo?at_medium=RSS&at_campaign=rss",
+    "summary": "A dad who died alongside another man on Sunday is named locally as Wayne Taylor.",
+    "pubDate": "Tue, 14 Jul 2026 09:58:20 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Bedford train crash driver died from traumatic injuries",
+    "link": "https://www.bbc.co.uk/news/articles/c9323k52n67o?at_medium=RSS&at_campaign=rss",
+    "summary": "An inquest hears Shaun Burton died in the collision in which 102 people needed hospital treatment.",
+    "pubDate": "Tue, 14 Jul 2026 09:36:08 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Sotheby’s Big T. Rex Auction Raises Concerns Hype and Wealth Are Upending Science",
+    "link": "https://www.wired.com/story/sothebys-t-rex-auction-shows-wealth-upending-science/",
+    "summary": "Private buyers are increasingly outbidding museums for fossils. That’s making it difficult—or even impossible—for researchers to improve our understanding of the past.",
+    "pubDate": "Tue, 14 Jul 2026 09:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Eating chili peppers may raise the risk of one deadly cancer",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260713084921.htm",
+    "summary": "A major review found that people who consumed the most chili peppers had a substantially higher risk of esophageal cancer, though the evidence was less clear for stomach and colorectal cancers. Researchers emphasize that the findings show an association, not proof of cause and effect, and that mo...",
+    "pubDate": "Tue, 14 Jul 2026 09:27:21 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Are there aliens on exoplanet K2-18b? Scientists just scanned it for signals",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260712011748.htm",
+    "summary": "K2-18b is one of the most promising worlds for the search for extraterrestrial life, so astronomers conducted an unusually powerful radio survey using both the VLA and MeerKAT telescopes. Advanced software analyzed millions of signals, filtering out Earth-based interference and other false positi...",
+    "pubDate": "Tue, 14 Jul 2026 09:04:12 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "A winner and true friend - Bartoli on France boss Deschamps",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c77y2151e4go?at_medium=RSS&at_campaign=rss",
+    "summary": "Former Wimbledon champion Marion Bartoli speaks about her friendship with France boss Didier Deschamps.",
+    "pubDate": "Tue, 14 Jul 2026 09:03:14 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Pinwheel launches a retro-inspired landline phone for kids",
+    "link": "https://techcrunch.com/2026/07/14/pinwheel-launches-a-retro-inspired-landline-phone-for-kids/",
+    "summary": "Kid-friendly tech company Pinwheel announced the launch of a new landline phone designed to let children stay connected without the distractions of a smartphone.",
+    "pubDate": "Tue, 14 Jul 2026 09:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "DOGE Used AI for Housing Policy. The Government Won’t Say How",
+    "link": "https://www.wired.com/story/doge-deployed-ai-housing-policy/",
+    "summary": "In response to a public records request, HUD has withheld documents about DOGE’s use of AI—in part by citing a privilege that doesn’t exist.",
+    "pubDate": "Tue, 14 Jul 2026 09:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "openQA Testing in KDE Linux",
+    "link": "https://blogs.kde.org/2026/07/13/openqa-testing-in-kde-linux/",
+    "summary": "Comments",
+    "pubDate": "Tue, 14 Jul 2026 08:46:32 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Kommit-ing to a icon",
+    "link": "https://nuno-icons.com/2026/07/13/kommit-ing-to-a-icon/",
+    "summary": "Comments",
+    "pubDate": "Tue, 14 Jul 2026 08:46:17 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "The US Approves the Launch of a Mirror Satellite That Can Reflect Sunlight and Illuminate the Earth at Night",
@@ -40,12 +496,28 @@
     "category": "tech"
   },
   {
+    "title": "U.S. to reinstate Hormuz blockade. And, states sue over Paramount-Warner deal",
+    "link": "https://www.npr.org/2026/07/14/g-s1-133443/up-first-newsletter-iran-strait-hormuz-maine-ice-shooting-paramount-warner-bros-merger",
+    "summary": "The United States plans to reinstate a blockade over the Strait of Hormuz today. And, several states are suing to stop the massive Paramount-Warner Bros. merger.",
+    "pubDate": "Tue, 14 Jul 2026 08:18:58 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "Why it's time for The Open to crown an English winner",
     "link": "https://www.bbc.co.uk/sport/golf/articles/cpd3wwxp94vo?at_medium=RSS&at_campaign=rss",
     "summary": "It is nearly 60 years since Tony Jacklin became the last Englishman to win The Open on English soil but there's every chance that drought may be broken this week, writes Iain Carter.",
     "pubDate": "Tue, 14 Jul 2026 08:00:05 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "A 37-year soil experiment revealed a hidden climate threat",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260713000809.htm",
+    "summary": "The world's longest-running soil warming experiment has revealed an unexpected climate concern. After nearly four decades, researchers found that warming can cause microbes to break down stable soil carbon that scientists once believed was largely protected. That releases extra carbon dioxide int...",
+    "pubDate": "Tue, 14 Jul 2026 07:56:17 EDT",
+    "source": "Science Daily",
+    "category": "science"
   },
   {
     "title": "Could it work if Verstappen wanted to go to McLaren? F1 Q&A",
@@ -96,6 +568,54 @@
     "category": "tech"
   },
   {
+    "title": "Hating AI in 2026",
+    "link": "https://www.eamoncaddigan.net/posts/ai-in-2026/",
+    "summary": "Comments",
+    "pubDate": "Tue, 14 Jul 2026 06:34:45 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "6× faster binary search: from compiled code to mechanical sympathy",
+    "link": "https://pythonspeed.com/articles/branchless-binary-search/",
+    "summary": "Comments",
+    "pubDate": "Tue, 14 Jul 2026 06:31:30 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "'The Trojan Teddy Bear': The promise and peril of childhood in the age of AI",
+    "link": "https://www.npr.org/sections/planet-money/2026/07/14/g-s1-133066/the-trojan-teddy-bear-the-promise-and-peril-of-childhood-in-the-age-of-ai",
+    "summary": "AI is moving beyond chatbots and into toys, dolls, and robots built to befriend children. A leading child-development expert says the technology offers real promise — but also risks crowding out the human relationships children need most.",
+    "pubDate": "Tue, 14 Jul 2026 06:30:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Just Let Me Write Digits",
+    "link": "https://gendx.dev/blog/2026/07/13/input-digits.html",
+    "summary": "Article URL: https://gendx.dev/blog/2026/07/13/input-digits.html Comments URL: https://news.ycombinator.com/item?id=48902791 Points: 110 # Comments: 41",
+    "pubDate": "Tue, 14 Jul 2026 05:57:50 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The U.S. is set to reinstate a blockade over the Strait of Hormuz",
+    "link": "https://www.npr.org/2026/07/14/nx-s1-5893257/us-iran-updates",
+    "summary": "The U.S. military announced it will begin its blockade of Iranian ships over the Strait of Hormuz on Tuesday, as Iran vowed to assert its own control over the critical international waterway.",
+    "pubDate": "Tue, 14 Jul 2026 05:56:45 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Popular weight-loss drugs Ozempic and Wegovy may slow biological aging",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260713084907.htm",
+    "summary": "Researchers found that semaglutide, the active ingredient in Ozempic and Wegovy, slowed biological aging markers in adults with HIV, marking the first clinical evidence that the drug may influence human aging. Although the findings are encouraging, scientists say larger studies are needed before ...",
+    "pubDate": "Tue, 14 Jul 2026 05:47:41 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "Who will win the World Cup? The view from the semi-finalists' countries",
     "link": "https://www.bbc.co.uk/sport/football/articles/cjrgew3wv4xo?at_medium=RSS&at_campaign=rss",
     "summary": "BBC Sport speaks to journalists and fans from the World Cup's four semi-finalists to see who they think will win the tournament.",
@@ -120,11 +640,51 @@
     "category": "general"
   },
   {
+    "title": "I hunted the men who secretly film their wives and share footage online",
+    "link": "https://www.bbc.co.uk/news/articles/c621kprnd3jo?at_medium=RSS&at_campaign=rss",
+    "summary": "What disturbed Jess the most was men sharing footage of wives, girlfriends and loved ones.",
+    "pubDate": "Tue, 14 Jul 2026 05:08:57 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Morning news brief",
+    "link": "https://www.npr.org/2026/07/14/nx-s1-5891540/morning-news-brief",
+    "summary": "Trump says the U.S. will collect tolls and impose blockade in the Strait of Hormuz, man killed by federal agents in Maine, states sue to stop Paramount-Warner Bros merger.",
+    "pubDate": "Tue, 14 Jul 2026 05:02:31 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "How US commerce secretary's Epstein links were uncovered by British whistleblower",
     "link": "https://www.bbc.co.uk/news/articles/c9q28dlyxrzo?at_medium=RSS&at_campaign=rss",
     "summary": "Simon Andriesz made the discovery about Howard Lutnick in publicly released Epstein files.",
     "pubDate": "Tue, 14 Jul 2026 05:00:03 GMT",
     "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Platner's voters are reeling as Maine Democratic Party races to choose his replacement",
+    "link": "https://www.npr.org/2026/07/14/nx-s1-5892502/platner-collins-maine-democratic-party-senate",
+    "summary": "Graham Platner generated enthusiasm in Maine with his progressive policies. Now he's out of the race, and his supporters have to decide what's next, as Maine Democrats prepare to choose a nominee.",
+    "pubDate": "Tue, 14 Jul 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Some states will ask voters to make it harder to pass constitutional amendments",
+    "link": "https://www.npr.org/2026/07/14/nx-s1-5877715/direct-democracy-state-constitutional-amendment-thresholds",
+    "summary": "Several states have ballot measures this year that could raise the thresholds needed to pass state constitutional amendments. Many advocates are critical of such limits on direct democracy.",
+    "pubDate": "Tue, 14 Jul 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Trump's National Guard deployment in D.C. has been extended until 2029",
+    "link": "https://www.npr.org/2026/07/14/nx-s1-5892498/national-guard-deployment-dc-2029",
+    "summary": "President Trump's deployment of the National Guard to Washington, D.C., has been extended several times. Now it's set to last until Inauguration Day 2029.",
+    "pubDate": "Tue, 14 Jul 2026 05:00:00 -0400",
+    "source": "NPR",
     "category": "general"
   },
   {
@@ -136,12 +696,28 @@
     "category": "tech"
   },
   {
+    "title": "Jurassic Park computers in excruciating detail",
+    "link": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+    "summary": "Comments",
+    "pubDate": "Tue, 14 Jul 2026 04:24:36 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Your cheat sheet to the teams headed to the World Cup semi-finals",
     "link": "https://www.npr.org/2026/07/14/g-s1-133337/world-cup-final-france-england-spain-argentina",
     "summary": "We're at the final stretch of the World Cup. It feels like just yesterday, international fans were arriving in the U.S. and marveling at Buc-ee's and unlimited free soda.",
     "pubDate": "Tue, 14 Jul 2026 04:16:00 -0400",
     "source": "NPR",
     "category": "general"
+  },
+  {
+    "title": "git-absorb: git commit --fixup, but automatic",
+    "link": "https://github.com/tummychow/git-absorb",
+    "summary": "Comments",
+    "pubDate": "Tue, 14 Jul 2026 03:45:13 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "YouTrackDB is a general-use object-oriented graph database",
@@ -816,6 +1392,230 @@
     "category": "tech"
   },
   {
+    "title": "Pixel Watch 5 leak shows off four different finishes",
+    "link": "https://www.theverge.com/tech/965293/google-pixel-watch-5-leak-finishes",
+    "summary": "A new leak may have just spoiled the Pixel Watch 5 and its finishes ahead of Google's launch event next month. Leaked press renders provided to The Tide Chart by OnLeaks appear to show the upcoming watch with four case finishes: black (Dark Anthracite), polished silver (Natural Silver), yellow go...",
+    "pubDate": "2026-07-14T09:39:36-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "EverQuest’s biggest fans are leading its revival",
+    "link": "https://www.theverge.com/games/965112/everquest-legends-project-1999-fan-developers",
+    "summary": "Live-service games and the companies that run them are in big trouble. Games and their developers are getting shut down and gutted, and publishers' huge promises are dubious. Meanwhile, EverQuest, one of the original live-service games, is thundering back more than 25 years later. EverQuest Legen...",
+    "pubDate": "2026-07-14T09:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
+    "link": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
+    "summary": "Demis Hassabis thinks the world needs an AI watchdog with the power to hit the brakes if frontier models become too dangerous. Writing in a blog post, the Google DeepMind CEO and cofounder said the US should lead the initiative, arguing that the country is the best place to set global standards \"...",
+    "pubDate": "2026-07-14T07:43:29-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "The first sunlight reflecting space mirror has been cleared for launch",
+    "link": "https://www.theverge.com/science/965263/reflect-orbital-space-mirror-launch-fcc-clearance",
+    "summary": "Reflect Orbital has been given the green light to launch its first space mirror that aims to redirect sunlight down to Earth at night. The US Federal Communications Commission (FCC) has authorized the California-based startup to build and operate a single prototype satellite in low-Earth orbit la...",
+    "pubDate": "2026-07-14T07:10:39-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Let’s build a children’s public internet",
+    "link": "https://www.theverge.com/report/962823/childrens-public-internet-child-safety-proposal",
+    "summary": "An increasing number of people seem to agree the internet is terrible for children - allegedly addictive, destructive to self-esteem, possibly a portal to predators. Over the past year, several countries have started requiring stringent age verification or outright bans for minors. At the end of ...",
+    "pubDate": "2026-07-14T07:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "New York becomes the first state to enact a data center moratorium",
+    "link": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
+    "summary": "New hyperscale data centers can't set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation's first statewide moratorium. But a bill passed by the state legislature that could restrict even more developments still awaits her signature. The order blocks new ...",
+    "pubDate": "2026-07-14T05:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "长鑫科技：发行价格为8.66元/股",
+    "link": "https://36kr.com/newsflashes/3895507227100808?f=rss",
+    "summary": "36氪获悉，长鑫科技公告，公司首次公开发行股票并在科创板上市，发行价格为8.66元/股。投资者请按此价格在2026年7月16日（T日）进行网上和网下申购，申购时无需缴付申购资金。其中，网下申购时间为9:30-15:00，网上申购时间为9:30-11:30，13:00-15:00。本次初始发行股份数量为668,808.8608万股，占发行后总股本约10.00%，并授予中金公司不超过初始发行股份15.00%的超额配售选择权。",
+    "pubDate": "2026-07-14 21:14:52  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "热门中概股美股盘前多数上涨，蔚来涨超3%",
+    "link": "https://36kr.com/newsflashes/3895491521480327?f=rss",
+    "summary": "36氪获悉，热门中概股美股盘前多数上涨，截至发稿，蔚来、小鹏集团涨超3%，理想汽车涨超2%，京东涨超1%，哔哩哔哩涨0.97%，阿里巴巴涨0.22%，百度跌超3%，拼多多跌0.41%。",
+    "pubDate": "2026-07-14 20:58:53  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "美股大型科技股盘前涨跌不一，美光科技涨超5%",
+    "link": "https://36kr.com/newsflashes/3895485378643842?f=rss",
+    "summary": "36氪获悉，美股大型科技股盘前涨跌不一，截至发稿，康宁、美光科技涨超5%，英特尔涨超4%，英伟达涨超1%，特斯拉涨0.87%，微软跌超3%，Meta跌超1%，苹果跌0.97%，谷歌跌0.31%。",
+    "pubDate": "2026-07-14 20:52:38  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "花旗集团二季度营收247.7亿美元，同比增长14%",
+    "link": "https://36kr.com/newsflashes/3895480736253828?f=rss",
+    "summary": "花旗集团7月14日公布二季度营收247.7亿美元，同比增长14%；每股收益3.15美元。（界面）",
+    "pubDate": "2026-07-14 20:47:55  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "信维通信：拟收购益阳电子科技55%股权并增资，加强高端MLCC产品布局",
+    "link": "https://36kr.com/newsflashes/3895476856964740?f=rss",
+    "summary": "36氪获悉，信维通信公告，为进一步满足全球客户快速增长的高端MLCC产品需求，及加快在高端MLCC业务领域的战略布局，公司全资子公司益阳信维拟以现金支付方式收购信维电子科技（益阳）有限公司55%股权。本次收购完成后，公司全资子公司直接持有标的公司股权比例预计提升至70%并取得其控制权，同时各方就后续对标的公司增资事项予以约定。公司董事会同意拟以不超过11亿元的自有或自筹资金推进本次股权收购事项。",
+    "pubDate": "2026-07-14 20:43:58  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "中国中免：上半年净利润31.06亿元，同比增长19.49%",
+    "link": "https://36kr.com/newsflashes/3895470095091332?f=rss",
+    "summary": "36氪获悉，中国中免公告，上半年营业收入275.92亿元，同比下降1.99%；净利润31.06亿元，同比增长19.49%。业绩增长主要系公司把握海南自贸港封关运作及离岛免税新政机遇，巩固海南市场优势，同时收购DFS大中华区零售业务取得良好整合成效。",
+    "pubDate": "2026-07-14 20:37:05  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "美国6月消费者价格指数（CPI）同比上涨3.5%",
+    "link": "https://36kr.com/newsflashes/3895466206267273?f=rss",
+    "summary": "美国劳工部7月14日发布的数据显示，美国6月消费者价格指数（CPI）同比上涨3.5%，剔除食品和能源价格后，美国6月核心CPI同比上涨2.6%。分析人士表示，美国6月CPI相较5月4.2%的同比涨幅有所放缓，主要是因为6月中旬美国和伊朗之间达成谅解备忘录，国际油价从高位回落。德意志银行预计，美联储将在9月和12月分别加息25个基点，将联邦基金利率升至4.1%，随后在2027年全年维持不变。（央视财经）",
+    "pubDate": "2026-07-14 20:33:08  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "巴菲特计划八年内处置所持伯克希尔·哈撒韦股份",
+    "link": "https://36kr.com/newsflashes/3895460610410368?f=rss",
+    "summary": "据伯克希尔·哈撒韦7月14日声明，沃伦·巴菲特表示，目标是在大约八年内处置其持有的所有伯克希尔·哈撒韦股份，“我的子女们也在逐渐老去，我衷心希望他们三人能在2034年12月31日之前完成这些股份的处置工作”。（界面）",
+    "pubDate": "2026-07-14 20:27:27  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "中证1000股指总持仓，创历史新高",
+    "link": "https://36kr.com/newsflashes/3895451264239496?f=rss",
+    "summary": "7月14日，中证1000股指期货（IM）加权合约，总持仓首次突破50万手，创下历史新高。通常情况下，期货合约持仓量放大，意味着市场中有新的资金入场，根据文华财经收盘数据，当日资金净流入39.02亿元。多头资金集中入场，打破了“高持仓等于深贴水”的市场惯性认识。业内人士认为，多头资金承接力量充足，贴水也出现大幅修复。市场上，期指总持仓量明显增加，各品种主力合约也呈增仓态势，或将带来市场转机。（券商中国）",
+    "pubDate": "2026-07-14 20:17:56  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "IBM仍按计划在2029年前交付首台大规模容错量子计算机",
+    "link": "https://36kr.com/newsflashes/3895430498141828?f=rss",
+    "summary": "7月14日，IBM公布2026年第二季度部分初步财务业绩：营收172亿美元，同比增长1%；GAAP毛利率为57.7%，同比下降100个基点；GAAP稀释后每股收益为2.27美元，同比下降2%。此外，IBM董事长、总裁兼首席执行官阿文德·克里希纳表示，公司仍按计划在2029年前交付首台大规模容错量子计算机。（界面）",
+    "pubDate": "2026-07-14 20:09:44  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "股票交易业务大涨，摩根大通第二季度利润创历史新高",
+    "link": "https://36kr.com/newsflashes/3895425987151495?f=rss",
+    "summary": "美国资产规模最大的银行摩根大通集团14日发布的财报显示，受益于地缘政治局势引发的市场波动，该公司第二季度股票交易业务收入远超分析师预期，推动该行季度利润创下历史新高。财报显示，摩根大通今年第二季度调整后营收为580.2亿美元，每股收益为7.70美元。其中，股票交易业务表现尤为抢眼，第二季度股票销售及交易收入同比增长86%，达到60.3亿美元，大幅超出市场预期。受此提振，该行第二季度总交易收入增至121亿美元，刷新了今年第一季度创下的历史最高纪录。（新浪财经）",
+    "pubDate": "2026-07-14 20:01:06  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "中国国航：预计上半年净亏损21亿元到26亿元",
+    "link": "https://36kr.com/newsflashes/3895423873582725?f=rss",
+    "summary": "36氪获悉，中国国航公告，预计公司2026年半年度将出现亏损，归属于上市公司股东的净亏损约为人民币21亿元到人民币26亿元，归属于上市公司股东扣除非经常性损益后的净亏损约为人民币23亿元到人民币31亿元。",
+    "pubDate": "2026-07-14 19:57:55  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "阿里云：下调GLM-5.2 Fast mode模式价格",
+    "link": "https://36kr.com/newsflashes/3895419998668681?f=rss",
+    "summary": "36氪获悉，阿里云宣布，大模型服务平台百炼将于北京时间2026年7月15日00:00:00起，对GLM-5.2模型的Fastmode模式计费单价进行下调调整。",
+    "pubDate": "2026-07-14 19:52:58  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "埃斯顿：预计上半年净利润同比增长2144.74% -2593.68%",
+    "link": "https://36kr.com/newsflashes/3895426484930177?f=rss",
+    "summary": "36氪获悉，埃斯顿公告，预计2026年上半年净利润为1.5亿元–1.8亿元，同比增长2144.74%-2593.68%。报告期内，公司持续推进高质量发展，一方面优化产品结构，重点聚焦高附加值产品及高质量订单；另一方面通过强化产品价格管控、优化供应链及研发设计、实施精益制造等降本增效措施，公司综合毛利率较上年同期显著提升。",
+    "pubDate": "2026-07-14 19:52:44  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "智谱：英文名称变更为Z.AI Co., Ltd.",
+    "link": "https://36kr.com/newsflashes/3895422371481224?f=rss",
+    "summary": "36氪获悉，智谱在港交所公告，英文名称已由Knowledge Atlas Technology Joint Stock Company Limited变更为Z.AI Co., Ltd.。本公司的中文名称“北京智谱华章科技股份有限公司”将维持不变。",
+    "pubDate": "2026-07-14 19:48:33  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "高盛集团二季度净利润66.3亿美元，同比增长78%",
+    "link": "https://36kr.com/newsflashes/3895419262977673?f=rss",
+    "summary": "7月14日，高盛集团公布，截至2026年6月30日的第二季度净营收为203.4亿美元，同比增长39%；净利润为66.3亿美元，同比增长78%；稀释后每股普通股收益（EPS）为20.98美元，同比增长92%。（界面）",
+    "pubDate": "2026-07-14 19:45:23  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "日本东京迪士尼10月起将上调门票上限价格",
+    "link": "https://36kr.com/newsflashes/3895410167809667?f=rss",
+    "summary": "7月14日，运营日本东京迪士尼度假区的东方乐园公司表示，10月起将上调门票上限价格。门票价格因一周中不同日子和时期有所差异，成人单人一日票上限最多将涨价1500日元，达到12400日元（约合人民币518元），儿童票上限价格将上调300日元至5900日元。这将是2023年10月以来东京迪士尼首次提价。（新浪财经）",
+    "pubDate": "2026-07-14 19:36:08  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "美银预计SK海力士至2028年实际可新增产能仅为原计划的六分之一",
+    "link": "https://36kr.com/newsflashes/3895405644088965?f=rss",
+    "summary": "美国银行最新分析显示，SK海力士至2028年实际可新增的存储芯片产能，可能仅为原计划的六分之一，这一判断不仅令韩国政府的产能扩张蓝图大打折扣，更为正在进行中的DRAM价格操纵集体诉讼提供了关键佐证。受旧厂关闭、技术升级及制程微缩等因素影响，韩国每年实际可增加的运营存储晶圆产能不足10%，这意味着到2030年的产能增量将远低于韩国总统李在明此前设定的\"2030年产能翻倍\"目标。这一判断直接冲击DRAM市场的供给预期。（财联社）",
+    "pubDate": "2026-07-14 19:31:32  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "毕马威准备裁员数百人并削减合伙人薪酬",
+    "link": "https://36kr.com/newsflashes/3895401093629575?f=rss",
+    "summary": "据报道，毕马威正准备在澳大利亚裁员数百人，并将合伙人薪酬最多削减20%。此前，毕马威澳大利亚被指利用客户机密信息赢得业务，该事件持续发酵。知情人士称，裁员可能波及整个公司，规模甚至可能超过1000人。报道称，在公司未来几周选定永久首席执行官之前，不会宣布裁员消息。不过，高层管理人员已经在审查客户订单，以评估这起丑闻将对业务储备造成多大冲击。（新浪财经）",
+    "pubDate": "2026-07-14 19:26:54  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "氪星晚报 ｜智谱：完成配售新H股募资约314亿港元；荣耀与阿里将开展AI智能体终端合作；小米机器人首次实现汽车工厂柔性工件的长时作业",
+    "link": "https://36kr.com/p/3895322613185543?f=rss",
+    "summary": "大公司： 中国神华：预计上半年净利润同比增长6.9%-21.1% 36氪获悉，中国神华公告，预计2026年上半年归属于上市公司股东的净利润为263亿元至298亿元，同比增长6.9%-21.1%。业绩变动主要系煤化工业务量及自有铁路、港口、航运业务量增加，带动相关业务利润同比增长。 中国人寿：预计上半年净利润同比增长约215%-235% 36氪获悉，中国人寿公告，预计2026年半年度归属于母公司股东的净利润约1289.33亿元到1371.19亿元，同比增长约215%到235%。业绩变动主要系公司持续深化资产负债联动，优化资产配置，提升投资专业能力，取得良好投资业绩。 光迅科技：预计上半年净...",
+    "pubDate": "2026-07-14 19:21:42  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "美国银行二季度净营收315.6亿美元，高于预期",
+    "link": "https://36kr.com/newsflashes/3895377229383305?f=rss",
+    "summary": "美国银行7月14日公布二季度净利息收入160亿美元，预期159.2亿美元；每股收益1.21美元；二季度净营收（扣除利息支出后）为315.6亿美元，高于预期的304.9亿美元。（界面）",
+    "pubDate": "2026-07-14 19:20:33  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "估值110亿美元，这家超级独角兽要帮初创公司从Day0走向全球",
+    "link": "https://36kr.com/p/3895355856403456?f=rss",
+    "summary": "凌晨三点，一家刚成立不久的AI创业公司，可能已经在同时服务旧金山的客户、采购首尔的技术服务，并与拉各斯的合作伙伴签下合同。这家公司甚至还没有招到第一名全职财务人员，业务却已经跨越多个市场、币种和监管辖区。&nbsp; AI正在让这样的创业路径成为可能。过去需要市场、运营、客服等一整套全球化团队才能完成的工作，现在借助智能体就能承担相当一部分。新一代初创企业不必再按照“先站稳本土、再逐步出海”的传统顺序扩张，而可能从成立第一天起，就直接面对全球客户和供应商。 但当AI以足够快的速度跑在前面时，大多数企业的金融管道仍未为此做好准备。这也是为什么，全球顶级资本开始押注金融基础设施的AI化重构。...",
+    "pubDate": "2026-07-14 18:48:32  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
     "title": "赣锋锂业：预计上半年净利润为36.5亿元–46亿元，同比扭亏为盈",
     "link": "https://36kr.com/newsflashes/3895232255605768?f=rss",
     "summary": "36氪获悉，赣锋锂业公告，预计2026年上半年净利润为36.5亿元–46亿元，上年同期亏损5.31亿元。报告期内，受益于全球新能源产业快速发展，下游客户对锂盐的需求增长，公司锂盐产品的销售价格较上年同期显著上涨；同时，随着锂资源项目的产能逐步释放，公司成本结构有效优化。叠加储能市场需求持续增长，锂电池板块产销量明显提升，共同推动公司经营业绩同比增长。",
@@ -1176,6 +1976,102 @@
     "category": "tech-cn"
   },
   {
+    "title": "Bird flu H5N1 in Australia: protect Australian species from bird flu virus",
+    "link": "https://www.nature.com/articles/d41586-026-02188-y",
+    "summary": "Nature, Published online: 14 July 2026; doi:10.1038/d41586-026-02188-y Bird flu H5N1 in Australia: protect Australian species from bird flu virus",
+    "pubDate": "2026-07-14",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Academia should recognize community partnerships as having societal impact",
+    "link": "https://www.nature.com/articles/d41586-026-02190-4",
+    "summary": "Nature, Published online: 14 July 2026; doi:10.1038/d41586-026-02190-4 Academia should recognize community partnerships as having societal impact",
+    "pubDate": "2026-07-14",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "The Enhanced Games and the normalization of doping: a public health concern",
+    "link": "https://www.nature.com/articles/d41586-026-02189-x",
+    "summary": "Nature, Published online: 14 July 2026; doi:10.1038/d41586-026-02189-x The Enhanced Games and the normalization of doping: a public health concern",
+    "pubDate": "2026-07-14",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "AI models: one country’s fears become everyone’s constraint",
+    "link": "https://www.nature.com/articles/d41586-026-02187-z",
+    "summary": "Nature, Published online: 14 July 2026; doi:10.1038/d41586-026-02187-z AI models: one country’s fears become everyone’s constraint",
+    "pubDate": "2026-07-14",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "How the calendar came to be",
+    "link": "https://www.nature.com/articles/d41586-026-02102-6",
+    "summary": "Nature, Published online: 14 July 2026; doi:10.1038/d41586-026-02102-6 The development of time-keeping, and a book that brings an immune cell back in vogue, in this week’s pick from the Nature archive.",
+    "pubDate": "2026-07-14",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Seeking an industry role after your PhD? Make sure your CV reflects that",
+    "link": "https://www.nature.com/articles/d41586-026-01855-4",
+    "summary": "Nature, Published online: 14 July 2026; doi:10.1038/d41586-026-01855-4 A doctorate can open many doors. A CV tailored to your planned career path can help to unlock them.",
+    "pubDate": "2026-07-14",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Africa’s response to this Ebola outbreak shows how to shape global health",
+    "link": "https://www.nature.com/articles/d41586-026-02148-6",
+    "summary": "Nature, Published online: 14 July 2026; doi:10.1038/d41586-026-02148-6 Countries elsewhere must learn from the continent’s example and combat disease outbreaks by working together, not by closing borders.",
+    "pubDate": "2026-07-14",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "DNA-shredding CRISPR enzyme takes aim at cancer cells",
+    "link": "https://www.nature.com/articles/d41586-026-02122-2",
+    "summary": "Nature, Published online: 14 July 2026; doi:10.1038/d41586-026-02122-2 A bacterial self-destruct mechanism has been repurposed as a potential therapy, selectively eliminating diseased cells — including tumour cells in mouse models of cancer.",
+    "pubDate": "2026-07-14",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "My research on mice is causing me stress. How can I become more resilient?",
+    "link": "https://www.nature.com/articles/d41586-026-01128-0",
+    "summary": "Nature, Published online: 14 July 2026; doi:10.1038/d41586-026-01128-0 A PhD student loves research, but not the realities of experimenting on animals. What are their options?",
+    "pubDate": "2026-07-14",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "The race to explore the deep ocean: four technologies transforming research",
+    "link": "https://www.nature.com/articles/d41586-026-01988-6",
+    "summary": "Nature, Published online: 14 July 2026; doi:10.1038/d41586-026-01988-6 Deep-sea drilling ships, sea-floor sensors and repurposed Internet cables are helping scientists to study the last unmapped area on Earth.",
+    "pubDate": "2026-07-14",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Could this mysterious disappearing organ hold the key to longevity?",
+    "link": "https://www.nature.com/articles/d41586-026-02149-5",
+    "summary": "Nature, Published online: 14 July 2026; doi:10.1038/d41586-026-02149-5 Researchers are racing to regrow the thymus, an ephemeral immune organ, in the hope that it will slow ageing.",
+    "pubDate": "2026-07-14",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "‘Climate free fall’: why the biggest risk to our economies is yet to be recognized",
+    "link": "https://www.nature.com/articles/d41586-026-02154-8",
+    "summary": "Nature, Published online: 14 July 2026; doi:10.1038/d41586-026-02154-8 Increasing instability of the ocean, ice and atmosphere threatens farming, finance and society. We all need to wake up to that fact.",
+    "pubDate": "2026-07-14",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
     "title": "Mathematics formula found on Maya wall rivals insights of ancient masters",
     "link": "https://www.nature.com/articles/d41586-026-02170-8",
     "summary": "Nature, Published online: 14 July 2026; doi:10.1038/d41586-026-02170-8 Mathematical texts from a Maya site in Guatemala identify an astronomer called Sak Tahn Waax.",
@@ -1254,5 +2150,13 @@
     "pubDate": "2026-07-13T16:43:15-04:00",
     "source": "The Verge",
     "category": "tech"
+  },
+  {
+    "title": "Daily briefing: The rise of evidence-based medicine",
+    "link": "https://www.nature.com/articles/d41586-026-02206-z",
+    "summary": "Nature, Published online: 13 July 2026; doi:10.1038/d41586-026-02206-z How rigorous research has transformed health and social policy. Plus, a breakthrough for lab-grown sperm and the NSF plans to cut core science programmes to fund a White House initiative.",
+    "pubDate": "2026-07-13",
+    "source": "Nature",
+    "category": "science"
   }
 ]

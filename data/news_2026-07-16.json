@@ -32,6 +32,14 @@
     "category": "general"
   },
   {
+    "title": "NASA's James Webb Space Telescope reveals a strange atmosphere on a hellish lava planet",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260712011743.htm",
+    "summary": "NASA's James Webb Space Telescope has revealed new details about the blistering lava planet 55 Cancri e, where temperatures are high enough to melt rock. The data indicate the planet likely has a hydrogen-rich atmosphere shaped by gases escaping from its molten interior, with signs that volcanic ...",
+    "pubDate": "Wed, 15 Jul 2026 23:19:50 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "Show HN: One More Letter",
     "link": "https://playonemoreletter.com/",
     "summary": "Article URL: https://playonemoreletter.com/ Comments URL: https://news.ycombinator.com/item?id=48928402 Points: 55 # Comments: 31",
@@ -92,6 +100,14 @@
     "link": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss",
     "summary": "Argentina face the prospect of disciplinary action from Fifa after their players celebrate the World Cup semi-final win against England with a banner in support of their country's claims to the Falkland Islands.",
     "pubDate": "Wed, 15 Jul 2026 22:49:47 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "'No regrets' - Tuchel on England's defeat by Argentina",
+    "link": "https://www.bbc.co.uk/sport/football/videos/c62v3q3qp99o?at_medium=RSS&at_campaign=rss",
+    "summary": "England manager Thomas Tuchel believes his team \"got too passive\" after scoring first in the World Cup semi-final against Argentina, which they lost 2-1 at Atlanta Stadium.",
+    "pubDate": "Wed, 15 Jul 2026 22:40:05 GMT",
     "source": "BBC News",
     "category": "general"
   },
@@ -248,6 +264,14 @@
     "category": "tech"
   },
   {
+    "title": "Common constipation drug may help clear depression brain fog",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260712011751.htm",
+    "summary": "An existing constipation drug may have an unexpected new use: helping clear the \"brain fog\" that often lingers after depression. In a small clinical trial, people with a history of depression who took the medication prucalopride for about a week performed better on tests of memory, attention, and...",
+    "pubDate": "Wed, 15 Jul 2026 20:49:09 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "Grok Build is open source",
     "link": "https://github.com/xai-org/grok-build",
     "summary": "Article URL: https://github.com/xai-org/grok-build Comments URL: https://news.ycombinator.com/item?id=48926590 Points: 309 # Comments: 350",
@@ -261,6 +285,14 @@
     "summary": "The safety board confirmed Tesla's account of the crash, which the company shared days after it happened last month.",
     "pubDate": "Wed, 15 Jul 2026 20:22:52 +0000",
     "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "The Long Tail of Work Left Until ActivityPub Has E2EE",
+    "link": "https://soatok.blog/2026/07/15/the-long-tail-of-work-left-until-activitypub-has-e2ee/",
+    "summary": "Comments",
+    "pubDate": "Wed, 15 Jul 2026 20:13:20 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -392,6 +424,22 @@
     "category": "tech"
   },
   {
+    "title": "具透 | macOS 27 首个公开测试版来了，这些是值得你关注的新特性",
+    "link": "https://sspai.com/post/112375",
+    "summary": "全面 ARM 化后的第一个 macOS 版本，Golden Gate 27 还有这些变化。 查看全文",
+    "pubDate": "Thu, 16 Jul 2026 15:00:00 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "翻译「世界杯」的赛事名称，为什么中文比日文更简洁？",
+    "link": "https://sspai.com/post/111086",
+    "summary": "国名也好、赛事名称也好，日语走上了片假名这条路——那为什么日本人不能像中文一样，直接造出「美加墨W杯」这样的简称？ 查看全文",
+    "pubDate": "Thu, 16 Jul 2026 10:58:08 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
     "title": "派早报：国行版 Apple Intelligence 完成备案等",
     "link": "https://sspai.com/post/112373",
     "summary": "阿里发布实时语音模型 Qwen-Audio-3.0-Realtime、腾龙发布 12-20mm F2.8 镜头等。 查看全文",
@@ -400,12 +448,220 @@
     "category": "tech-cn"
   },
   {
+    "title": "Starmer pledges 'cast-iron support' for Ukraine on final visit as PM",
+    "link": "https://www.bbc.co.uk/news/articles/cx2myl1erj8o?at_medium=RSS&at_campaign=rss",
+    "summary": "The prime minister will meet Ukrainian President Volodymyr Zelensky in Kyiv later on Thursday.",
+    "pubDate": "Thu, 16 Jul 2026 08:20:51 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Ofcom launches investigation into TikTok child safety concerns",
+    "link": "https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o?at_medium=RSS&at_campaign=rss",
+    "summary": "It follows a review by the regulator in May that criticised the platform for not being \"safe enough\" for children.",
+    "pubDate": "Thu, 16 Jul 2026 08:19:21 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Iran targets military bases as US launches wave of strikes",
+    "link": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss",
+    "summary": "Explosions were heard across Iran overnight, shortly after neighbouring Gulf states began to report attacks.",
+    "pubDate": "Thu, 16 Jul 2026 07:44:08 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Firefighters battle through the night as wildfire burns across Cairngorms National Park",
+    "link": "https://www.bbc.co.uk/news/articles/cd69y219n13o?at_medium=RSS&at_campaign=rss",
+    "summary": "Members of the public are being urged to avoid Glenmore Forest Park and Loch Morlich as firefighting continues.",
+    "pubDate": "Thu, 16 Jul 2026 07:36:18 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "British Steel taken into public ownership to protect 'vital' UK supply",
+    "link": "https://www.bbc.co.uk/news/articles/c5y680w62wno?at_medium=RSS&at_campaign=rss",
+    "summary": "The Scunthorpe steelworks has been officially nationalised under new government powers passed this week.",
+    "pubDate": "Thu, 16 Jul 2026 07:34:47 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Romero labels Neville 'stupid' over criticism",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ce8l1zg37x8o?at_medium=RSS&at_campaign=rss",
+    "summary": "Argentina defender Cristian Romero says player-turned-pundit Gary Neville was \"stupid\" to criticise his centre-back partnership with Lisandro Martinez.",
+    "pubDate": "Thu, 16 Jul 2026 07:33:49 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "UK economy returns to growth in May",
+    "link": "https://www.bbc.co.uk/news/articles/c8xnllq944go?at_medium=RSS&at_campaign=rss",
+    "summary": "The modest growth reverses a slight contraction that had been seen the previous month.",
+    "pubDate": "Thu, 16 Jul 2026 07:19:17 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Netstrings (1997)",
+    "link": "https://cr.yp.to/proto/netstrings.txt",
+    "summary": "Article URL: https://cr.yp.to/proto/netstrings.txt Comments URL: https://news.ycombinator.com/item?id=48930713 Points: 15 # Comments: 7",
+    "pubDate": "Thu, 16 Jul 2026 05:33:50 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Bananas! Surprise as back garden plant bears fruit",
+    "link": "https://www.bbc.co.uk/news/articles/cp8r86k3np0o?at_medium=RSS&at_campaign=rss",
+    "summary": "Stephen Hind believes the current hot temperatures and climate change have encouraged the fruit.",
+    "pubDate": "Thu, 16 Jul 2026 05:22:08 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Nowak killer's first recorded confession revealed",
+    "link": "https://www.bbc.co.uk/news/articles/c70ylezgr1eo?at_medium=RSS&at_campaign=rss",
+    "summary": "Vickrum Digwa was recorded in a police van discussing Henry Nowak's murder in Southampton.",
+    "pubDate": "Thu, 16 Jul 2026 05:17:14 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "'Her ear was shattered' - home piercings leading to deformities, says expert",
+    "link": "https://www.bbc.co.uk/news/articles/cn4d4l4vky1o?at_medium=RSS&at_campaign=rss",
+    "summary": "From embedded jewellery to scarring and infections, some in the industry want at-home kits banned.",
+    "pubDate": "Thu, 16 Jul 2026 05:10:02 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Can Andy Burnham solve the UK's housing crisis?",
+    "link": "https://www.bbc.co.uk/news/articles/c3wygjz632qo?at_medium=RSS&at_campaign=rss",
+    "summary": "BBC Verify has looked at the scale of the housing challenge facing Burnham when he becomes PM.",
+    "pubDate": "Thu, 16 Jul 2026 05:00:04 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The lost joy of music piracy",
+    "link": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
+    "summary": "Article URL: https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming Comments URL: https://news.ycombinator.com/item?id=48930454 Points: 247 # Comments: 123",
+    "pubDate": "Thu, 16 Jul 2026 04:46:21 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Reynard: A real Firefox web browser for iOS 13 or later",
+    "link": "https://github.com/minh-ton/reynard-browser",
+    "summary": "Article URL: https://github.com/minh-ton/reynard-browser Comments URL: https://news.ycombinator.com/item?id=48930397 Points: 26 # Comments: 8",
+    "pubDate": "Thu, 16 Jul 2026 04:36:07 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Actor Sam Neill died from pneumonia, agent confirms",
+    "link": "https://www.bbc.co.uk/news/articles/cddj7e8v767o?at_medium=RSS&at_campaign=rss",
+    "summary": "Neill died in Sydney on Monday, with his family saying his death was 'sudden and unexpected'.",
+    "pubDate": "Thu, 16 Jul 2026 04:28:22 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Lululemon backs nylon-recycling startup Syntetica in $30M Series A",
+    "link": "https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/",
+    "summary": "Syntetica, a French startup that has developed a novel approach to recycling nylon, has already obtained big-name partners and investors.",
+    "pubDate": "Thu, 16 Jul 2026 04:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+    "link": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+    "summary": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.",
+    "pubDate": "Thu, 16 Jul 2026 04:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "If you want to create a button from scratch, you must first create the universe",
+    "link": "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/",
+    "summary": "Article URL: https://madcampos.dev/blog/2026/07/accessibility-from-scratch/ Comments URL: https://news.ycombinator.com/item?id=48930136 Points: 99 # Comments: 47",
+    "pubDate": "Thu, 16 Jul 2026 03:48:43 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Making 768 servers look like 1",
+    "link": "https://planetscale.com/blog/making-768-servers-look-like-1",
+    "summary": "Article URL: https://planetscale.com/blog/making-768-servers-look-like-1 Comments URL: https://news.ycombinator.com/item?id=48930075 Points: 74 # Comments: 10",
+    "pubDate": "Thu, 16 Jul 2026 03:36:42 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Bring modern package management to Meson's native wrap ecosystem",
+    "link": "https://collider.ee/1.5.1/",
+    "summary": "Comments",
+    "pubDate": "Thu, 16 Jul 2026 03:29:26 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored",
+    "link": "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html",
+    "summary": "Article URL: https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html Comments URL: https://news.ycombinator.com/item?id=48929945 Points: 78 # Comments: 11",
+    "pubDate": "Thu, 16 Jul 2026 03:12:47 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "US military to start screening for testosterone deficiency, Hegseth says",
+    "link": "https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss",
+    "summary": "Hegseth says he is authorising hormone screening to ensure US troops \"operate at your absolute best\".",
+    "pubDate": "Thu, 16 Jul 2026 02:33:40 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers",
+    "link": "https://arxiv.org/abs/2607.11859",
+    "summary": "Article URL: https://arxiv.org/abs/2607.11859 Comments URL: https://news.ycombinator.com/item?id=48929660 Points: 47 # Comments: 9",
+    "pubDate": "Thu, 16 Jul 2026 02:17:31 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "The Tokio/Rayon Trap and Why Async/Await Fails Concurrency",
     "link": "https://pmbanugo.me/blog/why-async-await-complect-concurrency",
     "summary": "Article URL: https://pmbanugo.me/blog/why-async-await-complect-concurrency Comments URL: https://news.ycombinator.com/item?id=48929587 Points: 9 # Comments: 1",
     "pubDate": "Thu, 16 Jul 2026 02:06:36 +0000",
     "source": "Hacker News",
     "category": "tech"
+  },
+  {
+    "title": "The band playing when a Bangkok bar caught fire mourns its members among the 33 dead",
+    "link": "https://www.npr.org/2026/07/16/g-s1-133907/death-toll-bangkok-fire",
+    "summary": "Victims of this week's flash fire at a Bangkok music bar that took more than 30 lives included four of the six core members of the band playing when the blaze broke out.",
+    "pubDate": "Thu, 16 Jul 2026 02:03:21 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Watch: England fans in New York City lament loss to Argentina",
+    "link": "https://www.bbc.co.uk/news/videos/cy4klvz2wlko?at_medium=RSS&at_campaign=rss",
+    "summary": "North America correspondent Nada Tawik reports from a packed pub in the Big Apple.",
+    "pubDate": "Thu, 16 Jul 2026 01:57:50 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Scientists finally solved how a common gut bacterium triggers colon cancer",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260713084910.htm",
+    "summary": "Researchers solved a long-standing mystery behind how a bacterial toxin associated with colorectal cancer damages the colon. The toxin first binds to a receptor called claudin-4, giving it access to attack the cells' protective barrier. After identifying this weak point, the team designed a decoy...",
+    "pubDate": "Thu, 16 Jul 2026 01:37:21 EDT",
+    "source": "Science Daily",
+    "category": "science"
   },
   {
     "title": "Why England's loss to Argentina felt like most painful in 60 years of hurt",
@@ -480,6 +736,22 @@
     "category": "general"
   },
   {
+    "title": "More than 400 sick as CDC searches for the source of a mystery outbreak",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260715083530.htm",
+    "summary": "A growing Cyclospora outbreak has sickened more than 400 people in four states, and investigators are still searching for the contaminated food responsible. The CDC warns the actual number of cases is likely much higher and urges anyone with symptoms to seek medical care.",
+    "pubDate": "Thu, 16 Jul 2026 00:25:05 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "A Filtering engine and DB for unpropagated kernel security patches",
+    "link": "https://patchless.natey.sh",
+    "summary": "Comments",
+    "pubDate": "Thu, 16 Jul 2026 00:21:50 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Jesy Nelson calls plan to test newborns for deadly muscle condition a 'victory'",
     "link": "https://www.bbc.co.uk/news/articles/c07y77exx8eo?at_medium=RSS&at_campaign=rss",
     "summary": "All newborn babies are set to have a heel prick test for Spinal Muscular Atrophy (SMA) in England.",
@@ -496,6 +768,14 @@
     "category": "tech"
   },
   {
+    "title": "Quantum breakthrough links light and magnetism in atomically thin materials",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260715083523.htm",
+    "summary": "A new review highlights exciting progress in atomically thin quantum materials where light and magnetism work together in ways never before possible. In these materials, light-generated excitons can interact directly with magnetic behavior, creating opportunities to control magnetic states using ...",
+    "pubDate": "Thu, 16 Jul 2026 00:16:48 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "William tells England to 'hold their heads high' after loss",
     "link": "https://www.bbc.co.uk/news/articles/c5y68dgnylxo?at_medium=RSS&at_campaign=rss",
     "summary": "The Prince of Wales says England has \"inspired us all\" as he offers his commiserations over the loss to Argentina.",
@@ -510,6 +790,166 @@
     "pubDate": "Thu, 16 Jul 2026 00:00:00 +0000",
     "source": "Wired",
     "category": "tech"
+  },
+  {
+    "title": "阿里巴巴将在WAIC展出多个智能体平台",
+    "link": "https://36kr.com/newsflashes/3898061599573637?f=rss",
+    "summary": "36氪获悉，7月17日，世界人工智能大会展览将在上海世博展览馆开展。此次大会，阿里巴巴集团展出了面向千行百业和前沿科研的多个AI智能体平台，包括阿里云百炼推理平台、“达摩灵枢”（DAMO Lingshu）科研智能体平台等。据了解，阿里云百炼推理平台截至目前已服务全球500万用户、120万付费用户。此前科研团队在达摩灵枢辅助下，基于材料基础模型Elements，预测出6.8万种可能的超导材料，其中4种全新材料已合成并证实存在超导性。",
+    "pubDate": "2026-07-16 16:41:14  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "百度：寻求在港交所主板自愿转化为双重主板上市",
+    "link": "https://36kr.com/newsflashes/3898064258123392?f=rss",
+    "summary": "36氪获悉，百度宣布，董事会批准根据香港联交所指引信HKEX-GL112-22寻求于香港联交所主板自愿转换为双重主要上市的动议。预期主要转换事项将于本年度内生效。董事会亦授权本公司管理层进行相关筹备工作并采取必要步骤以完成主要转换事项。主要转换事项后，本公司将成为于香港联交所主板及纳斯达克全球精选市场双重主要上市的公司，其A类普通股及美国存托股将继续于两个证券交易所内买卖（视情况而定），且仍可互相转换。",
+    "pubDate": "2026-07-16 16:36:01  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "2030年我国光热发电规模将达1500万千瓦",
+    "link": "https://36kr.com/newsflashes/3898057801697158?f=rss",
+    "summary": "中国电力企业联合会数据显示，“十四五”以来，我国光热发电产业年度复合增长率达11.7%，显著高于全球4.24%的增速。“十五五”时期，我国光热发电产业将进一步进入发展快车道，到2030年，我国光热发电总装机规模将达到1500万千瓦左右。（央视新闻）",
+    "pubDate": "2026-07-16 16:35:11  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "50亿美元香港IPO计划推迟？先正达称不予置评",
+    "link": "https://36kr.com/newsflashes/3898056936802176?f=rss",
+    "summary": "近日，有消息称，先正达拟募资50亿美元的香港IPO计划或将延期，以等待农业行业整体回暖。其顾问团队认为，2027年上市的可能性更大。此前有传闻称，该公司曾计划于6月递交上市申请，希望年内完成上市。对此，先正达回应称“对市场传言不予置评”，并重申“将在时机成熟时重返资本市场”。（界面）",
+    "pubDate": "2026-07-16 16:28:34  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "港交所：上半年IPO集资2102亿港元，同比升92.1%",
+    "link": "https://36kr.com/newsflashes/3898053050517120?f=rss",
+    "summary": "36氪获悉，港交所发文称，2026年上半年首次公开招股集资2102亿港元，同比升92.1%。这是历年同期第二高，共有87 家新上市公司。",
+    "pubDate": "2026-07-16 16:24:37  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "湖南昆仑国创金芙蓉先进材料产业基金登记成立，出资额10亿",
+    "link": "https://36kr.com/newsflashes/3898024308180864?f=rss",
+    "summary": "36氪获悉，天眼查App显示，近日，湖南昆仑国创金芙蓉先进材料产业基金合伙企业（有限合伙）成立，执行事务合伙人为中油昆仑（北京）私募基金管理有限公司、株洲市国投创新创业投资有限公司，出资额10亿人民币，经营范围为以私募基金从事股权投资、投资管理、资产管理等活动。合伙人信息显示，该基金由中油昆仑（北京）私募基金管理有限公司、株洲市国投创新创业投资有限公司等共同出资。",
+    "pubDate": "2026-07-16 16:18:13  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "恒指收涨1.33%，恒生科技指数涨1.98%",
+    "link": "https://36kr.com/newsflashes/3898040141645442?f=rss",
+    "summary": "36氪获悉，恒指收涨1.33%，恒生科技指数涨1.98%；科技、汽车、消费股走强，小鹏集团涨超7%，小米集团、泡泡玛特涨超6%，哔哩哔哩、吉利汽车涨超5%；半导体、GEO概念下挫，智谱跌近23%，智谱跌超9%，兆易创新跌超8%；南向资金净买入50.39亿港元。",
+    "pubDate": "2026-07-16 16:11:29  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "日本拟采购2.75万颗英伟达Rubin芯片，打造本土机器人AI基础模型",
+    "link": "https://36kr.com/newsflashes/3898024992376454?f=rss",
+    "summary": "7月16日消息，日本计划采购2.75万颗英伟达下一代Rubin AI芯片，用于构建本土机器人基础AI模型。新成立的Noetra将负责建设大型数据中心，并计划于2027年3月发布首个AI模型，随后持续迭代，未来数年推出面向机器人应用的AI模型。Noetra截至2027年3月已获日本政府3873亿日元资金支持，由软银、丰田汽车支持的Preferred Networks、日本电气等数十家企业参与运营。该项目旨在降低对海外技术依赖，并推动日本到2040年占据全球约60万亿日元机器人市场30%以上份额。（界面）",
+    "pubDate": "2026-07-16 15:56:04  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "北京亦庄国际服务贸易集团增资至6.16亿，增幅约13%",
+    "link": "https://36kr.com/newsflashes/3898000572499849?f=rss",
+    "summary": "36氪获悉，天眼查App显示，近日，北京亦庄国际服务贸易集团有限公司发生工商变更，注册资本由5.46亿人民币增至6.16亿人民币，增幅约13%。该公司成立于2012年10月，法定代表人为王晓军，经营范围包括以自有资金从事投资活动、物业管理、园区管理服务、货物进出口、国际货物运输代理、保税仓库经营等，由北京亦庄投资控股有限公司全资持股。",
+    "pubDate": "2026-07-16 15:50:05  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "环旭电子：拟出资5000万元认购集成电路产业基金份额",
+    "link": "https://36kr.com/newsflashes/3898014015506306?f=rss",
+    "summary": "36氪获悉，环旭电子公告，公司拟作为有限合伙人出资5000万元认购上海上策兴融芯私募投资基金合伙企业（有限合伙）部分新增份额，该基金目标募集规模8亿元，主要聚焦集成电路产业领域。本次投资不构成关联交易及重大资产重组，无需提交董事会及股东会审议。",
+    "pubDate": "2026-07-16 15:44:54  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "京东：推出京麦AI经营中心",
+    "link": "https://36kr.com/newsflashes/3898008966006408?f=rss",
+    "summary": "36氪获悉，7月16日，据京东黑板报消息，京东日前宣布正式推出京麦AI经营中心，并向商家全量开放22款核心AI工具。京东京麦相关负责人表示，京麦AI经营中心是京东专为商家打造的一站式AI经营聚合平台。目前，京麦AI经营中心首期功能已全面上线。",
+    "pubDate": "2026-07-16 15:39:46  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "歌尔股份在长沙成立新科技公司，注册资本100万",
+    "link": "https://36kr.com/newsflashes/3897991426508678?f=rss",
+    "summary": "36氪获悉，天眼查App显示，近日，长沙歌尔泰克科技有限公司成立，法定代表人为张一凡，注册资本100万人民币，经营范围包括人工智能行业应用系统集成服务、货物进出口、技术进出口等，由歌尔股份全资持股。",
+    "pubDate": "2026-07-16 15:32:29  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "台积电上调销售和支出展望，再添AI需求持续迹象",
+    "link": "https://36kr.com/newsflashes/3898001280419717?f=rss",
+    "summary": "台积电大幅上调今年资本支出和营收预期，反映出该公司对全球AI基础设施需求的信心。作为英伟达和苹果公司的主要芯片制造商，该公司目前预计2026年资本支出为600亿-640亿美元，高于此前预估的520亿-560亿美元。该公司还预计，以美元计价的营收增幅将略高于40%，较此前的逾30%亦有上调。台积电之前公布，第二季度净利润同比增长77.4%，增速超过市场预期。（新浪财经）",
+    "pubDate": "2026-07-16 15:31:57  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "韩国考虑对14岁及以下儿童实施社交媒体限制",
+    "link": "https://36kr.com/newsflashes/3897994345612933?f=rss",
+    "summary": "韩国媒体监管机构周四表示，鉴于对社交媒体过度使用问题日益担忧，正考虑对14岁及以下儿童实施社交媒体限制。韩国媒体通信委员会主席金钟哲在青瓦台举行的政策简报会上发表讲话，强调青少年过度使用社交媒体是全球性问题。韩国媒体监管机构的最新提议正值其他一些国家政府纷纷采取立法措施限制儿童和青少年使用社交媒体平台之际。欧盟表示，将在今年夏季之后提出一项立法，限制儿童访问此类平台。澳大利亚也成为了全球首个禁止16岁以下未成年人拥有社交媒体账号的国家。（新浪财经）",
+    "pubDate": "2026-07-16 15:31:50  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "苹果自研AI服务器芯片计划被曝推迟",
+    "link": "https://36kr.com/newsflashes/3897977992185481?f=rss",
+    "summary": "据知情人士透露，苹果内部代号为Baltra的自研AI服务器芯片原计划今年落地，现已推迟。（财联社）",
+    "pubDate": "2026-07-16 15:21:13  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "金山办公连发两款AI办公智能体，覆盖个人级与组织级两大场景",
+    "link": "https://36kr.com/newsflashes/3897989611144839?f=rss",
+    "summary": "36氪获悉，7月15日，金山办公在上海举办“2026 AI生产力大会”，同日连发两款AI办公智能体，分别覆盖个人级与组织级两大场景：面向个人的灵犀专业版，与面向组织的 WPS Comate。其中，灵犀专业版为每一位用户提供专属AI办公助理；WPS Comate则作为全新组件助力WPS 365完成升级。金山办公CEO章庆元在会上表示，办公软件正在进入第三个时代——从单机办公、协同办公，走向AI办公。",
+    "pubDate": "2026-07-16 15:20:04  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "韩国将暂时停止发行新的个股杠杆ETF",
+    "link": "https://36kr.com/newsflashes/3897985256720259?f=rss",
+    "summary": "韩国金融管理委员会7月16日宣布针对单支股票杠杆ETF的措施，将暂时停止发行新的个股杠杆ETF。（界面）",
+    "pubDate": "2026-07-16 15:15:39  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "商务部回应推动解决安世半导体问题进展",
+    "link": "https://36kr.com/newsflashes/3897982712186502?f=rss",
+    "summary": "商务部新闻发言人何亚东在7月16日举行的商务部例行新闻发布会上回应推动解决安世半导体进展的有关提问时说，中荷建立开放务实的全面合作伙伴关系10多年来，双边经贸合作不断深化。7月7日，荷兰外贸与发展合作大臣舍尔茨玛访华，王文涛部长与其共同主持召开中荷经贸混委会第18次会议，就中荷、中欧经贸关系坦诚、深入交换意见。中荷双方同意，双方政府应创造良好环境，推动企业通过协商化解纠纷，保障全球半导体产供链安全稳定。（新华社）",
+    "pubDate": "2026-07-16 15:13:03  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "百度文库、网盘7月底将升级GenFlow",
+    "link": "https://36kr.com/newsflashes/3897974224455559?f=rss",
+    "summary": "36氪获悉，百度文库、网盘将在近期升级GenFlow，面向专业人群和场景提供更专业服务，并将上线独立网页端、客户端，定位为专为金融、教育、办公等专业从业者打造的“多端通用Agent平台”，将于7月底开启内部邀测。据悉，GenFlow升级后的版本，首期将聚焦金融领域，为金融从业者、爱好者、金融公司及团队等，提供定制化金融行业解决方案。",
+    "pubDate": "2026-07-16 15:10:23  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "福化集团旗下古雷石油化工公司增资至205亿，增幅约14%",
+    "link": "https://36kr.com/newsflashes/3897964741543558?f=rss",
+    "summary": "36氪获悉，天眼查App显示，近日，福建福化古雷石油化工有限公司发生工商变更，注册资本由约179.8亿人民币增至约205亿人民币，增幅约14%。该公司成立于2017年2月，法定代表人为王大立，经营范围包括石油制品销售、化工产品销售、成品油批发等，由漳州市九龙江集团有限公司、福建石油化工集团有限责任公司等共同持股。",
+    "pubDate": "2026-07-16 15:05:28  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
   },
   {
     "title": "极氪9X五座版官宣28日上市",

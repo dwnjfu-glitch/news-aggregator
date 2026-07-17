@@ -56,6 +56,14 @@
     "category": "general"
   },
   {
+    "title": "New “living plastic” self-destructs in just 6 days without leaving microplastics",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260715083552.htm",
+    "summary": "Researchers have created self-destructing living plastic that uses engineered bacteria to completely break itself down when activated. The material degrades in just six days without creating microplastics, offering a potential new solution for single-use plastic waste.",
+    "pubDate": "Thu, 16 Jul 2026 23:09:42 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "SpaceX suddenly aborts second Starship V3 launch after ignition",
     "link": "https://techcrunch.com/2026/07/16/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition/",
     "summary": "The company didn't immediately say what went wrong. SpaceX's stock plunged more than 4% in after-hours trading before paring losses.",
@@ -134,6 +142,14 @@
     "pubDate": "Thu, 16 Jul 2026 22:00:00 +0000",
     "source": "Hacker News",
     "category": "tech"
+  },
+  {
+    "title": "This sugar-coated therapy boosted survival against deadly brain cancer by 50% in mice",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260715083542.htm",
+    "summary": "A new experimental treatment may have found a way to outsmart glioblastoma’s toughest defense: the blood-brain barrier. Researchers used sugar-coated nanoparticles to ferry genetic instructions that restore a key tumor-suppressing protein directly into brain cancer cells. In mouse studies, the th...",
+    "pubDate": "Thu, 16 Jul 2026 21:51:52 EDT",
+    "source": "Science Daily",
+    "category": "science"
   },
   {
     "title": "England learning on the job in ODIs - Root",
@@ -464,12 +480,60 @@
     "category": "tech"
   },
   {
+    "title": "This ancient sea worm has “bio-metal” jaws unlike anything scientists have seen",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260714225530.htm",
+    "summary": "An ancient sea worm may hold the secret to a whole new category of natural materials. Its jaws combine proteins and metal ions in a way that gives them metal-like strength and unusual mechanical behavior, yet they still differ from traditional metals. Researchers believe these \"bio-metals\" could ...",
+    "pubDate": "Thu, 16 Jul 2026 09:29:33 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "This drug could help millions keep their kidneys working longer",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260712011753.htm",
+    "summary": "An international study found that finerenone slows kidney function decline and reduces the risk of serious kidney and cardiovascular complications in people with chronic kidney disease who do not have diabetes. The results could open the door to a much-needed new treatment option for the majority...",
+    "pubDate": "Thu, 16 Jul 2026 09:04:35 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Earth has a natural thermostat and scientists finally know how it works",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260715083527.htm",
+    "summary": "Scientists have identified a hidden feedback loop that may explain how Earth has regulated its climate for tens of millions of years. As sea levels rose and fell, they changed how much phosphate reached the open ocean, affecting marine life and the amount of carbon buried beneath the seafloor. Th...",
+    "pubDate": "Thu, 16 Jul 2026 08:37:26 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Sun-like star caught after eating one of its own planets",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260715083538.htm",
+    "summary": "A distant Sun-like star appears to have devoured one of its planets, leaving behind a surprising chemical fingerprint. Researchers found an unusually high concentration of lithium, a strong sign that planetary material was mixed into the star. Careful comparisons with dozens of similar stars conf...",
+    "pubDate": "Thu, 16 Jul 2026 06:52:02 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "'It's made me have an identity crisis': Londoners speak out about racist abuse",
     "link": "https://www.bbc.co.uk/news/articles/cp3x3487zl9o?at_medium=RSS&at_campaign=rss",
     "summary": "With racist hate crimes on the increase, young Londoners speak out about the abuse they have faced.",
     "pubDate": "Thu, 16 Jul 2026 04:58:23 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "AI flags more than 250,000 suspicious cancer research papers",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260714225538.htm",
+    "summary": "A powerful new AI tool has uncovered what could be one of the biggest integrity problems in modern science. After analyzing 2.6 million cancer research papers published between 1999 and 2024, researchers identified more than 250,000 studies with writing patterns resembling papers suspected of bei...",
+    "pubDate": "Thu, 16 Jul 2026 04:25:19 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "本周看什么 | 最近值得一看的 10 部作品",
+    "link": "https://sspai.com/post/112444",
+    "summary": "📅本周新预告《蓦然回首》正式预告7月15日，电影《蓦然回首》发布了正式预告，将于9月11日在日本上映。是枝裕和执导、编剧、剪辑，出口夏希、莳田彩珠主演，菅田将晖、宫藤官九郎、野吕佳代、山田真步等出演， ... 查看全文",
+    "pubDate": "Fri, 17 Jul 2026 17:57:46 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
   },
   {
     "title": "具透 | watchOS 27 公测版一览：动态应用网格、Liquid Glass 微调……",
@@ -480,12 +544,356 @@
     "category": "tech-cn"
   },
   {
+    "title": "Zoox issues software recall after a robotaxi got confused by heavy smoke",
+    "link": "https://techcrunch.com/2026/07/17/zoox-issues-software-recall-after-a-robotaxi-got-confused-by-heavy-smoke/",
+    "summary": "The recall comes as the top automotive safety regulator in the U.S. has warned AV companies about their vehicles interfering with first responders.",
+    "pubDate": "Fri, 17 Jul 2026 14:12:02 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "First Reform UK police commissioner elected",
+    "link": "https://www.bbc.co.uk/news/articles/c934p5vze87o?at_medium=RSS&at_campaign=rss",
+    "summary": "This is expected to be the final police and crime commissioner election held, unless anyone else steps down or leaves the role by other means.",
+    "pubDate": "Fri, 17 Jul 2026 14:07:43 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "My Left Foot and Home Alone 2 actress Brenda Fricker dies at 81",
+    "link": "https://www.bbc.co.uk/news/articles/c0m70zremezo?at_medium=RSS&at_campaign=rss",
+    "summary": "She won for her role in 1989 film My Left Foot and had well-loved parts in Home Alone 2 and TV's Casualty.",
+    "pubDate": "Fri, 17 Jul 2026 14:07:11 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Liverpool midfielder Szoboszlai signs new five-year deal",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cx2rn4llxxno?at_medium=RSS&at_campaign=rss",
+    "summary": "Liverpool midfielder Dominik Szoboszlai signs a new five-year contract at Anfield.",
+    "pubDate": "Fri, 17 Jul 2026 14:03:30 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Zeffman: Burnham promises huge change - now to find out how he will deliver it",
+    "link": "https://www.bbc.co.uk/news/articles/cz7djw5dznpo?at_medium=RSS&at_campaign=rss",
+    "summary": "The next prime minister promised nothing less than the biggest change in British politics in 40 years in his first speech as Labour leader.",
+    "pubDate": "Fri, 17 Jul 2026 13:52:20 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Conspiracy Theorists Think Trump’s Speech Paves the Path to the Insurrection Act",
+    "link": "https://www.wired.com/story/conspiracy-theorists-think-trumps-speech-paves-the-path-to-the-insurrection-act/",
+    "summary": "Election deniers have spent years promoting the idea that the 2020 election was stolen. They believe Donald Trump’s speech finally proves them right.",
+    "pubDate": "Fri, 17 Jul 2026 13:48:38 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Five reasons for England to be cheerful despite World Cup exit",
+    "link": "https://www.bbc.co.uk/sport/football/articles/clyxllv7lmpo?at_medium=RSS&at_campaign=rss",
+    "summary": "Despite the heartbreak of a World Cup semi-final loss, there are plenty of reasons to be optimistic about England's footballing future.",
+    "pubDate": "Fri, 17 Jul 2026 13:45:13 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Manufact (YC S25) Is Hiring a Senior infra engineer to build the MCP cloud",
+    "link": "https://www.ycombinator.com/companies/manufact/jobs/Dh6PYP5-senior-infrastructure-engineer",
+    "summary": "Article URL: https://www.ycombinator.com/companies/manufact/jobs/Dh6PYP5-senior-infrastructure-engineer Comments URL: https://news.ycombinator.com/item?id=48947100 Points: 0 # Comments: 0",
+    "pubDate": "Fri, 17 Jul 2026 13:22:33 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Multi-Primary Color Display Emerges as Next-Gen Color Reproduction Technology",
+    "link": "https://en.ubiresearchnet.com/multi-primary-color-display-technology-2026/",
+    "summary": "Article URL: https://en.ubiresearchnet.com/multi-primary-color-display-technology-2026/ Comments URL: https://news.ycombinator.com/item?id=48946895 Points: 14 # Comments: 8",
+    "pubDate": "Fri, 17 Jul 2026 13:02:07 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Verstappen top in first practice as Hadjar takes grid penalty",
+    "link": "https://www.bbc.co.uk/sport/formula1/articles/cm2g9z3pr3yo?at_medium=RSS&at_campaign=rss",
+    "summary": "Red Bull's Max Verstappen heads Ferrari's Lewis Hamilton at the top of the times in first practice at the Belgian Grand Prix.",
+    "pubDate": "Fri, 17 Jul 2026 12:59:28 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+    "link": "https://www.bbc.co.uk/news/articles/cy4kdd1e0ejo?at_medium=RSS&at_campaign=rss",
+    "summary": "Researchers have found an Earth-like, rocky planet orbiting within the habitable zone of a distant star with an atmosphere.",
+    "pubDate": "Fri, 17 Jul 2026 12:58:37 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Minikotlin",
+    "link": "https://minikotlin.run",
+    "summary": "Article URL: https://minikotlin.run Comments URL: https://news.ycombinator.com/item?id=48946783 Points: 42 # Comments: 8",
+    "pubDate": "Fri, 17 Jul 2026 12:50:29 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "VulnHunter: Capital One's agentic AI code security tool",
+    "link": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/",
+    "summary": "Article URL: https://www.capitalone.com/tech/open-source/announcing-vulnhunter/ Comments URL: https://news.ycombinator.com/item?id=48946692 Points: 11 # Comments: 3",
+    "pubDate": "Fri, 17 Jul 2026 12:42:12 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "German politician faces calls to resign over surrogacy child",
+    "link": "https://www.bbc.co.uk/news/articles/cq56ed827peo?at_medium=RSS&at_campaign=rss",
+    "summary": "Surrogacy is banned in Germany, a policy firmly backed by Jens Spahn's Christian Democrat party, and several years ago by Spahn, too.",
+    "pubDate": "Fri, 17 Jul 2026 12:26:29 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Trump drops BBC's commercial arm from Panorama lawsuit, but main case remains",
+    "link": "https://www.bbc.co.uk/news/articles/cly5wyynv9zo?at_medium=RSS&at_campaign=rss",
+    "summary": "The US president removes BBC Studios from his defamation lawsuit over a controversial documentary.",
+    "pubDate": "Fri, 17 Jul 2026 12:17:02 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Boy attacked by zoo crocodile has had seven operations and is smiling again, say parents",
+    "link": "https://www.bbc.co.uk/news/articles/c998v0g2v0vo?at_medium=RSS&at_campaign=rss",
+    "summary": "The three-year-old's parents say the boy is making progress after seven operations in a month.",
+    "pubDate": "Fri, 17 Jul 2026 12:14:43 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Essential Gear for an Emergency Kit—for Cars or Go-Bags",
+    "link": "https://www.wired.com/story/emergency-kit-disaster-preparedness-guide/",
+    "summary": "We consulted preparedness experts and WIRED’s team of testers for the essential gear to keep on hand in case of wildfires, earthquakes, and lord knows what else.",
+    "pubDate": "Fri, 17 Jul 2026 12:06:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Apple targets dozens of OpenAI employees with legal letters",
+    "link": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
+    "summary": "Article URL: https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166 Comments URL: https://news.ycombinator.com/item?id=48946303 Points: 97 # Comments: 53",
+    "pubDate": "Fri, 17 Jul 2026 12:02:39 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "5 Best Smart Speakers (2026): Alexa, Google, Apple",
+    "link": "https://www.wired.com/story/best-smart-speakers/",
+    "summary": "Looking to add a smart speaker to your house? Here’s which to choose, whether you’re an Alexa, Siri, or Gemini fan.",
+    "pubDate": "Fri, 17 Jul 2026 12:01:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+    "link": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+    "summary": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
+    "pubDate": "Fri, 17 Jul 2026 12:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "The report oil companies are worried about: Climate attribution science",
+    "link": "https://arstechnica.com/science/2026/07/national-academies-climate-attribution-is-maturing-but-still-has-limits/",
+    "summary": "New report says our ability to tie weather damages to climate change is improving.",
+    "pubDate": "Fri, 17 Jul 2026 11:30:10 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize",
+    "link": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
+    "summary": "Article URL: https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423 Comments URL: https://news.ycombinator.com/item?id=48946010 Points: 328 # Comments: 182",
+    "pubDate": "Fri, 17 Jul 2026 11:30:00 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Wildfire still burning across four miles as helicopter waterbombs Cairngorms",
+    "link": "https://www.bbc.co.uk/news/articles/cr59ng05nngo?at_medium=RSS&at_campaign=rss",
+    "summary": "Firefighters are still on the scene and an area commander says there are \"adequate resources\" to deal with the incident.",
+    "pubDate": "Fri, 17 Jul 2026 11:18:30 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "FCC took pricey gifts from Paramount as the company needed approval for deals",
+    "link": "https://arstechnica.com/tech-policy/2026/07/fcc-took-pricey-gifts-from-paramount-as-the-company-needed-approval-for-deals/",
+    "summary": "FCC chair has been gifted at least $63,000 worth of tickets by CBS or its parent company.",
+    "pubDate": "Fri, 17 Jul 2026 11:15:55 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "What type of procrastinator are you - and how to fix it now (not later)",
+    "link": "https://www.bbc.co.uk/news/articles/cpv3eky4w2do?at_medium=RSS&at_campaign=rss",
+    "summary": "The nine types of stalling that researchers say can reveal something deeper about us and why it's not always bad.",
+    "pubDate": "Fri, 17 Jul 2026 11:09:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "2026 Lucid Gravity Touring review: A strong act 2",
+    "link": "https://arstechnica.com/cars/2026/07/2026-lucid-gravity-touring-review-a-strong-act-2/",
+    "summary": "Quick, comfortable, roomy, and agile for a large electric SUV.",
+    "pubDate": "Fri, 17 Jul 2026 11:00:30 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Tuchel did not deliver, but his time with England is not up - Shearer",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c8xnl908y28o?at_medium=RSS&at_campaign=rss",
+    "summary": "Former England captain Alan Shearer says Three Lions boss Thomas Tuchel will not be fazed by criticism he has faced over the World Cup semi-final defeat.",
+    "pubDate": "Fri, 17 Jul 2026 11:00:24 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Rocket Report: India's Vikram-1 nears debut flight; AST to become rocket company?",
+    "link": "https://arstechnica.com/space/2026/07/rocket-report-indias-vikram-1-nears-debut-flight-ast-to-become-rocket-company/",
+    "summary": "\"We have done everything that could be done to test Vikram-1 on ground.\"",
+    "pubDate": "Fri, 17 Jul 2026 11:00:04 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Valve Steam Machine Review: A Compromised Console",
+    "link": "https://www.wired.com/review/valve-steam-machine/",
+    "summary": "Great for indie darlings, but Sony, Microsoft, and Nintendo remain kings of TV gaming.",
+    "pubDate": "Fri, 17 Jul 2026 11:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "West Ham captain Bowen to stay at club",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cz64ww3j2yxo?at_medium=RSS&at_campaign=rss",
+    "summary": "West Ham United captain Jarrod Bowen will stay at the club for the forthcoming season in the Championship.",
+    "pubDate": "Fri, 17 Jul 2026 10:51:02 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "UniGetUI：可能是 Windows 下最好用的应用商店",
     "link": "https://sspai.com/post/111128",
     "summary": "UniGetUI 是一个不错的包管理器，它提供的统一的更新 UI，让你的软件最大程度集中在一起管理，还可以用于需要批量配置的场景。 查看全文",
     "pubDate": "Fri, 17 Jul 2026 10:37:12 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "Panasonic Japanese Microwave Review (2026): True 1-Button Cooking",
+    "link": "https://www.wired.com/review/panasonic-japanese-microwave/",
+    "summary": "The Japanese Microwave measures food temperature directly, and stops cooking when food’s hot. It’s kinda terrific.",
+    "pubDate": "Fri, 17 Jul 2026 10:34:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "23 Best Gifts for Cooks (2026): Vitamix, Frying Pans, Air Fryers",
+    "link": "https://www.wired.com/gallery/gift-for-the-home-chef-2026/",
+    "summary": "From the best air fryer to frying pans to knife sharpeners anyone can use, these ideas will keep the curious home chef in your life tinkering away.",
+    "pubDate": "Fri, 17 Jul 2026 10:34:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "A $10K Bounty Aims to Make Sony’s PlayStation 5 a Computer Again",
+    "link": "https://www.wired.com/story/a-10k-bounty-aims-to-make-the-ps5-a-computer-again/",
+    "summary": "Nice PlayStation you got. Bet it could probably run Linux too.",
+    "pubDate": "Fri, 17 Jul 2026 10:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Fans invited to line streets for Bonnie Tyler's funeral",
+    "link": "https://www.bbc.co.uk/news/articles/cwyelj4zxn7o?at_medium=RSS&at_campaign=rss",
+    "summary": "Bonnie Tyler's coffin will be brought to her Mumbles home, with fans invited to \"pay their respects\".",
+    "pubDate": "Fri, 17 Jul 2026 10:17:21 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Greens leader renews call for extra security after Ann Widdecombe death",
+    "link": "https://www.bbc.co.uk/news/articles/cwyml7p30dpo?at_medium=RSS&at_campaign=rss",
+    "summary": "Zack Polanski says he \"hasn't been offered anything\" despite concerns over he and other politicians' safety.",
+    "pubDate": "Fri, 17 Jul 2026 10:17:16 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "San Francisco Demands Apple and Google Delete AI ‘Nudify’ Apps From App Stores",
+    "link": "https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/",
+    "summary": "The City Attorney’s Office sent the tech giants cease-and-desist letters this week telling them to stop profiting from 13 “face-swap” apps that are overwhelmingly used to target women and girls.",
+    "pubDate": "Fri, 17 Jul 2026 10:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Why has British Steel been nationalised?",
+    "link": "https://www.bbc.co.uk/news/articles/c5y66y40kgpo?at_medium=RSS&at_campaign=rss",
+    "summary": "The UK's only remaining plant making virgin steel has been taken into public ownership after years of uncertainty over its future.",
+    "pubDate": "Fri, 17 Jul 2026 09:57:02 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "I Owe My Life to the Commodore 64",
+    "link": "https://www.goto10retro.com/p/i-owe-my-life-to-the-commodore-64",
+    "summary": "Article URL: https://www.goto10retro.com/p/i-owe-my-life-to-the-commodore-64 Comments URL: https://news.ycombinator.com/item?id=48945260 Points: 62 # Comments: 41",
+    "pubDate": "Fri, 17 Jul 2026 09:44:25 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "New photograph marks Queen's 79th birthday",
+    "link": "https://www.bbc.co.uk/news/articles/cgk47yjv4pmo?at_medium=RSS&at_campaign=rss",
+    "summary": "Queen Camilla is marking her birthday with a renewed commitment to supporting children's literacy.",
+    "pubDate": "Fri, 17 Jul 2026 09:32:36 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The Group Behind ‘2000 Mules’ Is Back With Another Election Conspiracy Film",
+    "link": "https://www.wired.com/story/the-group-behind-2000-mules-is-back-with-another-election-conspiracy-film/",
+    "summary": "True the Vote is working with a Detroit pastor to produce a new documentary called Trap, based on claims that have already been thrown out in court.",
+    "pubDate": "Fri, 17 Jul 2026 09:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Pakistani forces kill 24 militants in border raids near Afghanistan",
+    "link": "https://www.npr.org/2026/07/17/g-s1-134175/pakistani-forces-kill-24-militants-in-border-raids-near-afghanistan",
+    "summary": "The military said Friday it used intelligence sources to target militants over the previous 24 hours. The operations were in response to attacks by militants earlier in the week.",
+    "pubDate": "Fri, 17 Jul 2026 09:15:49 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "The CDC Has a Cyclospora Lab. DOGE Downsized It Last Year",
+    "link": "https://www.wired.com/story/cdc-cyclospora-lab-doge-downsized-it-last-year/",
+    "summary": "“Based on simple math, these outbreak responses—which require rapid, timely responses—are going to be greatly diminished,” the former CDC lab director tells WIRED.",
+    "pubDate": "Fri, 17 Jul 2026 09:15:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War",
+    "link": "https://www.wired.com/story/humanoid-robot-soldier-eric-trump-foundation-future-industries/",
+    "summary": "The CEO of Foundation Future Industries, which counts the president’s son as its chief strategy adviser, tells WIRED it’s exploring some “kinetic things.”",
+    "pubDate": "Fri, 17 Jul 2026 09:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
   },
   {
     "title": "派早报：OPPO 宣布调整旗下子品牌的全球产品策略等",
@@ -496,6 +904,38 @@
     "category": "tech-cn"
   },
   {
+    "title": "Winning team will get World Cup rings with engravings",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cgmk7mnnyjeo?at_medium=RSS&at_campaign=rss",
+    "summary": "Donald Trump will present the trophy to the World Cup final winners on Sunday, and rings will be presented to the victorious side.",
+    "pubDate": "Fri, 17 Jul 2026 08:40:55 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "How Far Behind the Frontier are Leading Open Weight Models on Cyber?",
+    "link": "https://www.aisi.gov.uk/blog/how-far-behind-the-frontier-are-leading-open-weight-models-on-cyber",
+    "summary": "Comments",
+    "pubDate": "Fri, 17 Jul 2026 08:28:04 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Journey to Root, Episode I: The Maglev King",
+    "link": "https://blog.calif.io/p/journey-to-root-episode-i-the-maglev",
+    "summary": "Comments",
+    "pubDate": "Fri, 17 Jul 2026 08:27:36 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Fedichat - Comic Chat for the Fediverse",
+    "link": "https://lambadalambda.github.io/fedichat/client.html",
+    "summary": "Comments",
+    "pubDate": "Fri, 17 Jul 2026 08:26:04 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Man charged with assisting Iran's intelligence service",
     "link": "https://www.bbc.co.uk/news/articles/czjlyjmrzgro?at_medium=RSS&at_campaign=rss",
     "summary": "Vahid Aberi, of Liverpool, is accused of the National Security Act offence.",
@@ -504,11 +944,27 @@
     "category": "general"
   },
   {
+    "title": "We are Changing our Developer Productivity Experiment Design",
+    "link": "https://metr.org/blog/2026-02-24-uplift-update/",
+    "summary": "Followup to their 2025 study that showed a 19% decrease in productivity . Data repo . Comments",
+    "pubDate": "Fri, 17 Jul 2026 07:51:36 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "England missing final piece of jigsaw - Kane",
     "link": "https://www.bbc.co.uk/sport/football/articles/cvgv52dne1mo?at_medium=RSS&at_campaign=rss",
     "summary": "England captain Harry Kane says the team are \"missing that final piece of the jigsaw\" and need to \"find a way to get better\" following defeat to Argentina.",
     "pubDate": "Fri, 17 Jul 2026 07:46:10 GMT",
     "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Takeaways from Trump's primetime speech. And, at least 2 dead in major Texas flooding",
+    "link": "https://www.npr.org/2026/07/17/g-s1-134162/up-first-newsletter-trump-speech-illegal-voting-texas-flooding-wildfires-air-quality",
+    "summary": "President Trump gave a primetime speech raising claims of voting vulnerabilities but offered no new evidence. And, at least 2 people have died in major flooding in Texas.",
+    "pubDate": "Fri, 17 Jul 2026 07:27:01 -0400",
+    "source": "NPR",
     "category": "general"
   },
   {
@@ -520,11 +976,43 @@
     "category": "general"
   },
   {
+    "title": "Photos: When the World Cup came to town",
+    "link": "https://www.npr.org/sections/the-picture-show/2026/07/17/g-s1-133556/world-cup-watch-party-photos",
+    "summary": "NPR member station photographers captured images of World Cup watch parties outside stadium gates, on street corners and in public parks and squares as the World Cup became, for a brief period, a part of local life.",
+    "pubDate": "Fri, 17 Jul 2026 07:17:24 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "U.S. strikes bridges in Iran, Tehran targets U.S. bases in the Gulf",
+    "link": "https://www.npr.org/2026/07/17/g-s1-134158/us-iran-war-updates",
+    "summary": "The U.S. and Iran expanded their targets in the latest round of strikes on Friday, as fighting over the control of the Strait of Hormuz reignites fears of an all-out war.",
+    "pubDate": "Fri, 17 Jul 2026 07:13:58 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "How rugby union is 'booming' in football-mad Argentina",
     "link": "https://www.bbc.co.uk/sport/rugby-union/articles/czx5xp7le4xo?at_medium=RSS&at_campaign=rss",
     "summary": "Rugby union is 'booming' in football-mad Argentina, according to Pumas head coach Felipe Contepomi.",
     "pubDate": "Fri, 17 Jul 2026 07:01:23 GMT",
     "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "A bug commonly sold at pet stores is helping scientists with a vexing task",
+    "link": "https://www.npr.org/2026/07/17/nx-s1-5896494/superworms-clean-animal-specimens-skeleton-research",
+    "summary": "The larvae of a beetle native to South and Central America, the critters are the perfect solution to sticky problem: How to prepare an animal skeleton for scientific use.",
+    "pubDate": "Fri, 17 Jul 2026 07:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Trump's team says 'no children' died from USAID cuts. Consider these 3 cases",
+    "link": "https://www.npr.org/2026/07/17/g-s1-133651/usaid-elon-musk-rubio-deaths",
+    "summary": "Both Marco Rubio and Elon Musk, who led the effort to sunset the foreign aid agency, have said that no deaths have been linked to the cutting of its funding. These parents tell a different story.",
+    "pubDate": "Fri, 17 Jul 2026 06:37:02 -0400",
+    "source": "NPR",
     "category": "general"
   },
   {
@@ -534,6 +1022,14 @@
     "pubDate": "Fri, 17 Jul 2026 06:30:34 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Freya 0.4 - Rust GUI library",
+    "link": "https://freyaui.dev/posts/0.4",
+    "summary": "Comments",
+    "pubDate": "Fri, 17 Jul 2026 06:21:45 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Will Trump's primetime speech help him challenge the midterm elections?",
@@ -600,6 +1096,22 @@
     "category": "general"
   },
   {
+    "title": "The Commonwealth Games come to Glasgow next week - is the city ready?",
+    "link": "https://www.bbc.co.uk/news/articles/cdx70xxrr1qo?at_medium=RSS&at_campaign=rss",
+    "summary": "Glasgow will welcome athletes against a backdrop of roadworks and refurbishments - but organisers stress the city is ready.",
+    "pubDate": "Fri, 17 Jul 2026 05:05:55 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "What will the Pentagon begin screening 'war fighters' for? The quiz knows",
+    "link": "https://www.npr.org/2026/07/17/g-s1-133804/pentagon-trump-world-cup-netflix-sam-neill-news-quiz",
+    "summary": "Plus: Jurassic Park , U.K. politics, conspiracy theories, Pete Hegseth and numismatics.",
+    "pubDate": "Fri, 17 Jul 2026 05:02:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "Burnham's 'Manchesterism' got him to No 10 - but will it work for the UK?",
     "link": "https://www.bbc.co.uk/news/articles/clyl3z2xld8o?at_medium=RSS&at_campaign=rss",
     "summary": "Economics editor Faisal Islam examines whether the north-west city can be a template for the entire country.",
@@ -608,12 +1120,52 @@
     "category": "general"
   },
   {
+    "title": "Republican campaigns see immigration as a winning issue for midterms",
+    "link": "https://www.npr.org/2026/07/17/g-s1-133702/midterm-election-ads-immigration-republicans-democrats",
+    "summary": "Republicans are spending more money and running more ads on immigration than Democrats are ahead of the November midterm elections, according to an NPR analysis of advertisement data.",
+    "pubDate": "Fri, 17 Jul 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Kalshi says it's not a sportsbook even as World Cup bets surge",
+    "link": "https://www.npr.org/2026/07/17/nx-s1-5884848/kalshi-sports-betting-prediction-markets-draftkings-fanduel-world-cup",
+    "summary": "The betting site Kalshi emerged as a dominant sports betting platform during the World Cup. But the company avoids billions of dollars in taxes by insisting it is not a sports gambling operator.",
+    "pubDate": "Fri, 17 Jul 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Federal Reserve looks for 'secret sauce' behind a successful Wisconsin toolmaker",
+    "link": "https://www.npr.org/2026/07/17/nx-s1-5894730/federal-reserve-looks-for-secret-sauce-behind-a-successful-wisconsin-tool-maker",
+    "summary": "Business is booming for Snap-on, a Wisconsin company that has made tools for professional mechanics for more than a century. It recently got a fact-finding visit from the head of the Chicago Federal Reserve Bank.",
+    "pubDate": "Fri, 17 Jul 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Scientists tested 39 sweeteners and found unexpected gut effects",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260716023552.htm",
+    "summary": "A large laboratory study found that many commonly used sweeteners can directly change the growth of gut bacteria. Researchers identified more than 100 cases in which sweeteners behaved differently when combined with medications, caffeine, or flavorings. The combination of isosteviol and the antid...",
+    "pubDate": "Fri, 17 Jul 2026 04:59:35 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "The 85-year-old living in her own art installation",
     "link": "https://www.bbc.co.uk/news/articles/crel1g1j957o?at_medium=RSS&at_campaign=rss",
     "summary": "After careers as a teacher, cookbook author and TV chef, Sue Kreitzman's life took a different path.",
     "pubDate": "Fri, 17 Jul 2026 04:54:09 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Unfolding trees breadth-first in Haskell (2025)",
+    "link": "https://blog.poisson.chat/posts/2025-03-30-breadth-first-unfolds.html",
+    "summary": "Comments",
+    "pubDate": "Fri, 17 Jul 2026 04:16:11 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Trump alleges 'shocking vulnerabilities' in US election security ahead of midterms",
@@ -752,6 +1304,14 @@
     "category": "general"
   },
   {
+    "title": "Scientists built a camera that can track invisible particles in 3D",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260716023610.htm",
+    "summary": "A new particle detector called PLATON could replace millions of tiny detector components with a single block of light-producing material. Using a light-field camera, highly sensitive photon sensors, and AI, it reconstructs particle paths in fast, detailed 3D. Simulations suggest it could match or...",
+    "pubDate": "Fri, 17 Jul 2026 02:04:57 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "GrapheneOS recommended for domestic abuse victims",
     "link": "https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/",
     "summary": "Article URL: https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/ Comments URL: https://news.ycombinator.com/item?id=48942454 Points: 6 # Comments: 1",
@@ -808,6 +1368,14 @@
     "category": "tech"
   },
   {
+    "title": "New Alzheimer's drug repairs DNA damage and reduces brain inflammation",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260711010118.htm",
+    "summary": "A drug originally developed for spinal cord injury may offer a fresh approach to treating Alzheimer’s disease. In mouse studies, KCL-286 repaired dangerous DNA damage, reduced inflammation, and targeted multiple disease-related pathways instead of focusing on just amyloid or tau. Since it has alr...",
+    "pubDate": "Fri, 17 Jul 2026 00:19:36 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "The Papers: 'Spending warning to Burnham' and 'Only 693 days till Euros'",
     "link": "https://www.bbc.co.uk/news/articles/c4gjdy0221do?at_medium=RSS&at_campaign=rss",
     "summary": "The IMF gives a \"spending warning to Burnham\" and England eyes the Euros after its World Cup loss - Friday's front pages.",
@@ -830,6 +1398,246 @@
     "pubDate": "Fri, 17 Jul 2026 00:02:54 +0000",
     "source": "Ars Technica",
     "category": "tech"
+  },
+  {
+    "title": "Over half a million power tool batteries have been recalled due to a USB-C charging fire risk",
+    "link": "https://www.theverge.com/tech/967049/greenworks-kobalt-power-tools-lithium-ion-battery-recall",
+    "summary": "Greenworks Tools has issued a recall for around 554,780 Kobalt-branded power tools designed for yard work because of a battery issue \"posing a risk of serious injury from fire hazard.\" There have been 34 reports of the tool's batteries \"producing smoke, sparking or catching fire while the batteri...",
+    "pubDate": "2026-07-17T10:05:29-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Bethesda teases Fallout 5 soon after Xbox’s mass layoffs",
+    "link": "https://www.theverge.com/entertainment/966724/fallout-5-bethesda",
+    "summary": "Xbox is currently in a \"reset\" period that includes laying off around 3,200 employees over the next year, involving deep cuts at beloved studios like id Software and Obsidian Entertainment. Now, in an attempt to show that things are still running fine, the company has announced a slate of upcomin...",
+    "pubDate": "2026-07-17T10:00:37-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "The manosphere&#8217;s testosterone fever is coming for the troops",
+    "link": "https://www.theverge.com/column/966770/optimizer-manosphere-testosterone-troops",
+    "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. I was in the middle of writing a different Optimizer column this week when I lear...",
+    "pubDate": "2026-07-17T10:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Even Microsoft couldn’t make Windows 11 work well on 8GB of RAM",
+    "link": "https://www.theverge.com/tech/966937/microsoft-surface-laptop-13-inch-8gb-ram-2026-review",
+    "summary": "Last year, Microsoft's 13-inch Surface Laptop quickly became one of my favorite thin-and-light Windows notebooks. At $900, it was easy to recommend to anyone wanting MacBook Air-like build quality and battery life on Windows - I even convinced my sister to buy one on sale. But that was last year....",
+    "pubDate": "2026-07-17T09:30:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Trump is selling high-speed access to his market-moving Truth Social posts",
+    "link": "https://www.theverge.com/policy/967020/trump-truth-social-api-wall-street-traders",
+    "summary": "Trump Media, the company behind Truth Social, is selling Wall Street faster access to the \"most market-moving\" posts on the US President's social media platform. On Thursday, Trump Media announced plans to launch \"Truth API,\" a licensed real time data feed for businesses that provides \"the fastes...",
+    "pubDate": "2026-07-17T08:49:57-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "The war on ‘woke science’ comes for space research",
+    "link": "https://www.theverge.com/science/966711/omb-grant-science-space-nasa-planetary-society",
+    "summary": "The Trump administration is waging a culture war on science, and the latest salvo is in the form of a dry, bureaucratic proposal from the Office of Management and Budget (OMB) that could threaten the future of US science as we know it. The proposal would give political appointees unprecedented co...",
+    "pubDate": "2026-07-17T07:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "God Of War TV series is recasting Kratos",
+    "link": "https://www.theverge.com/entertainment/966995/god-of-war-amazon-prime-video-kratos-ryan-hurst-recast",
+    "summary": "Amazon's upcoming God Of War show has hit a major snag - it's now on the hunt for a new Kratos, after an on-set injury put its current lead actor out of commission. Sons of Anarchy star Ryan Hurst was originally cast for the role in January, with Deadline reporting that four episodes of the [&#82...",
+    "pubDate": "2026-07-17T06:14:04-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "快看加速原创漫画IP孵化：未来一年将推出100+部精品漫画",
+    "link": "https://36kr.com/newsflashes/3899755294312329?f=rss",
+    "summary": "36氪获悉，7月17日，在第五届KKWORLD快看漫乐园现场，快看漫画成功举办2026快看IP生态联盟发布会。发布会上，快看女频统筹负责人鲁韵子分享了快看漫画的内容长跑方法论。她表示，漫画仍是年轻一代最喜爱的创作与表达形式之一，未来也依然会是。快看未来一年将推出100+部精品漫画，持续孵化能被年轻用户长期喜欢的原创漫画IP。",
+    "pubDate": "2026-07-17 21:16:13  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "氪星晚报｜阿里1688将推出AI时代B2B交易互联互通开放标准；英特尔与Google Cloud宣布深化战略合作；铁路部门试点提前60天预约购票服务",
+    "link": "https://36kr.com/p/3896564485572489?f=rss",
+    "summary": "大公司： 成大生物：流感病毒裂解疫苗（高剂量）进入I期临床试验 36氪获悉，成大生物公告，公司全资子公司成大生物(本溪)研发的流感病毒裂解疫苗（高剂量）已获国家药监局临床试验批准，并完成I期临床试验筹备工作，正式进入I期临床试验阶段。该疫苗抗原含量为常规剂量四倍，适用于60岁以上老年人群及高风险人群，国内尚无同类产品获批上市，有望填补市场空白。 苏宁易购携手人工智能合作伙伴，布局家用服务机器人 36氪获悉，近日，苏宁易购旗下碧英科技入围工信部人工智能揭榜挂帅项目，将联合产业生态合作伙伴研发智能家庭陪护机器人。该项目面向老龄化背景下的居家照护需求，结合具身智能技术，探索家用机器人商业化路径...",
+    "pubDate": "2026-07-17 21:01:42  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "腾讯智能体集中亮相世界人工智能大会",
+    "link": "https://36kr.com/newsflashes/3899736051484552?f=rss",
+    "summary": "36氪获悉，7月17日，2026世界人工智能大会暨人工智能全球治理高级别会议在上海启幕。连续九届参展的腾讯以“Hey，我的AI Buddy”为主题，集中展示AI在各领域进化为生产生活好搭档的跃进，与本届大会“智能伙伴 共创未来”的主题相契。",
+    "pubDate": "2026-07-17 20:56:39  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "渝开发：拟2.25亿元收购黄葛晚渡公司51%股权",
+    "link": "https://36kr.com/newsflashes/3899707788674947?f=rss",
+    "summary": "36氪获悉，渝开发公告，为填补公司主城核心区高端住宅产品空白，优化“刚需与高端并举”产品结构，公司拟以现金方式收购公司关联方重庆恒诚融智投资管理有限公司持有的重庆黄葛晚渡置业发展有限公司（简称“黄葛晚渡公司”）51%股权，交易金额合计为2.25亿元。交易完成后，黄葛晚渡公司成为公司控股子公司，纳入公司合并报表范围。",
+    "pubDate": "2026-07-17 20:48:48  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "奥精医疗：公司人工骨修复材料在泰国获得注册证",
+    "link": "https://36kr.com/newsflashes/3899707200505734?f=rss",
+    "summary": "36氪获悉，奥精医疗公告，公司于2026年5月向泰国食品药品监督管理局（TFDA）递交了公司人工骨修复材料的注册申报资料。公司于近日收到泰国食品药品监督管理局通知，公司人工骨修复材料获得批准。",
+    "pubDate": "2026-07-17 20:39:13  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "热门中概股美股盘前普跌，小鹏集团跌超5%",
+    "link": "https://36kr.com/newsflashes/3899706621659016?f=rss",
+    "summary": "36氪获悉，热门中概股美股盘前普跌，截至发稿，B站、小鹏集团跌超5%，理想汽车、蔚来跌超3%，阿里巴巴、微博、拼多多跌超2%，京东跌0.37%。",
+    "pubDate": "2026-07-17 20:26:42  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "美股大型科技股盘前普跌，SpaceX跌超4%",
+    "link": "https://36kr.com/newsflashes/3899705053120134?f=rss",
+    "summary": "36氪获悉，美股大型科技股盘前普跌，截至发稿，SpaceX跌超4%，英特尔跌超3%，美光科技、谷歌、英伟达跌超2%，微软、Meta、亚马逊跌超1%，苹果跌0.11%。",
+    "pubDate": "2026-07-17 20:25:07  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "湖南裕能：拟投资240亿元建设矿化一体新能源电池材料循环产业项目",
+    "link": "https://36kr.com/newsflashes/3899699021465223?f=rss",
+    "summary": "36氪获悉，湖南裕能公告，公司拟在贵州省瓮安县投资建设贵州裕能(瓮安)矿化一体新能源电池材料循环产业项目，总投资约240亿元。项目规划建设周期预计5年，计划在正式开始建设后的18个月内投资50-80亿元，后续将根据市场需求调整实施节奏。项目主要内容包括80万吨磷酸铁锂、100万吨磷酸铁及其上游产业链，涉及磷源、铁源、碳酸锂加工及锂电池回收等。本次投资旨在完善一体化布局，巩固行业龙头地位，但存在项目建设、财务资金、市场需求及管理风险。",
+    "pubDate": "2026-07-17 20:18:59  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "深交所：本周对近期股价严重异常波动的“万邦医药”进行重点监控",
+    "link": "https://36kr.com/newsflashes/3899692871812744?f=rss",
+    "summary": "36氪获悉，深交所发布深市监管动态，7月13日至7月17日，本所共对173起证券异常交易行为采取了自律监管措施，涉及盘中拉抬打压、虚假申报等异常交易情形；对近期股价严重异常波动的“万邦医药”进行重点监控；共对19起上市公司重大事项进行核查，并上报证监会4起涉嫌违法违规案件线索。",
+    "pubDate": "2026-07-17 20:12:43  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "*ST萃华：“黄金大鳄周六福及矿业大佬已经要注资”等传闻为不实信息",
+    "link": "https://36kr.com/newsflashes/3899684359112576?f=rss",
+    "summary": "36氪获悉，*ST萃华公告，近期，公司关注到东方财富网等股吧社区出现关于“政府已经出面谈的差不多了，银行债转股”、“黄金大鳄周六福及矿业大佬已经要注资”等传闻，经核实董事会认为上述传闻为不实信息。公司目前无正在筹划中的并购重组或债转股事宜，未来三个月内公司亦无并购重组计划或债转股计划。",
+    "pubDate": "2026-07-17 20:04:04  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "保济元和（TCM）有限公司递表港交所",
+    "link": "https://36kr.com/newsflashes/3899681837254272?f=rss",
+    "summary": "36氪获悉，据港交所文件，保济元和（TCM）有限公司向港交所提交上市申请书，独家保荐人为华富建业企业融资。",
+    "pubDate": "2026-07-17 20:01:30  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "年内科创板公司新增计划回购金额上限超80亿",
+    "link": "https://36kr.com/newsflashes/3899676458960773?f=rss",
+    "summary": "根据统计，科创板年内已有50余家公司新增披露了股份回购计划，计划回购金额上限合计超过80亿元。在市场调整期间，也有不少公司披露回购计划。例如，澜起科技7月17日披露回购计划，拟回购金额高达3亿至6亿元；道通科技、海泰新光、三友医疗等公司也在本周内相继发布了回购计划，计划回购金额均在数千万元至亿元级别。股东及高管的增持行动也同步展开。2026年以来，有近20家科创板公司披露了增持计划，增持主体涵盖了控股股东、实际控制人、董事及高管等，增持金额上限合计超过6亿元。（第一财经）",
+    "pubDate": "2026-07-17 19:56:01  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "神玑公司首次参加世界人工智能大会，发布睿动具身智能开发平台",
+    "link": "https://36kr.com/newsflashes/3899667446613640?f=rss",
+    "summary": "36氪获悉，7月17日，2026世界人工智能大会正式开幕，蔚来芯片子公司安徽神玑技术有限公司首次独立参展。除了展出神玑NX9031芯片和车载域控外，还在会展期间推出“睿动”具身智能开发平台、分布式智能体平台等AI新产品。目前，神玑公司已形成由NX9031X、NX9031U、NX9031C等多颗芯片构成的完整产品序列，全面覆盖智能辅助驾驶、具身智能、Agent推理三大AI赛道。",
+    "pubDate": "2026-07-17 19:46:51  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "黑芝麻：周淼怀辞任董事会秘书",
+    "link": "https://36kr.com/newsflashes/3899666066228869?f=rss",
+    "summary": "36氪获悉，黑芝麻公告，公司董事会于近日收到公司董事会秘书周淼怀的书面辞职报告，其申请辞去公司董事会秘书职务，辞职报告自送达公司董事会之日起生效。辞去前述职务后，周淼怀仍继续担任公司董事、副董事长、副总裁等职务。公司将尽快完成新任董事会秘书的聘任工作。在未正式聘任新的董事会秘书期间，公司董事会指定董事长谢示代为履行董事会秘书职责。",
+    "pubDate": "2026-07-17 19:45:27  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "惠科股份：拟出资40亿元设立全资子公司投建先进封装及测试项目",
+    "link": "https://36kr.com/newsflashes/3899663098333057?f=rss",
+    "summary": "36氪获悉，惠科股份公告，公司于2026年7月17日与杭绍临空经济一体化发展示范区绍兴片区管理委员会就开展惠科先进封装及测试项目签署《先进封装及测试项目合作协议》，拟出资40亿元设立全资子公司浙江惠芯先进半导体有限公司，作为惠科先进封装及测试项目的实施主体。项目分二期建设，一期计划建设12寸混合芯片先进封装及测试，达产后产能为2000万颗/月，建设周期不超过三年。",
+    "pubDate": "2026-07-17 19:42:26  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "华勤技术：子公司约1.89亿港元收购0.28%晶合集成H股",
+    "link": "https://36kr.com/newsflashes/3899660338939782?f=rss",
+    "summary": "36氪获悉，华勤技术公告，于2026年7月17日，公司全资子公司华勤通讯透过于2026年7月17日在联交所进行的场内交易，收购合共625.98万股晶合集成H股（占晶合集成于本公告日期已发行股本总额约0.28%），总代价约为1.89亿港元（不包括交易成本），相当于每股目标股份的均价约为30.21港元。于收购事项完成后及于本公告日期，集团持有晶合集成已发行股本总额约10.48%。",
+    "pubDate": "2026-07-17 19:39:38  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "朗科智能：拟受让朗固科技35%股权，取得其控制权",
+    "link": "https://36kr.com/newsflashes/3899655138396038?f=rss",
+    "summary": "36氪获悉，朗科智能公告，公司拟以3675万元受让陈万根、李松晚合计持有的广东朗固科技有限公司（简称“朗固科技”）35%股权。交易完成后，公司持有朗固科技的股权比例由25%上升至60%，朗固科技将成为公司控股子公司，纳入公司合并报表范围。朗固科技作为公司长期合作的下游重要客户之一，完成并表后，双方将进一步打通智能控制器研发制造与家电整机代工业务环节，进一步巩固业务合作黏性，充分释放产能协同效应，有效提升公司整体产能利用率。",
+    "pubDate": "2026-07-17 19:34:20  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "IDC：2030年全球活跃Agent数量或将超过22亿个",
+    "link": "https://36kr.com/newsflashes/3899647452677769?f=rss",
+    "summary": "36氪获悉，IDC预发布《DAA研究报告》，系统解析DAA（Daily Active Agents，日活智能体数）指标。报告显示，全球活跃Agent数量2025年是2860万个，预计2026年达到7940万个，2030年增长到22.16亿个。据了解，DAA度量衡指标由百度创始人李彦宏在Create 2026大会上首次提出。与模型参数、Token消耗等传统指标相比，DAA更关注每天有多少智能体真正进入业务流程、完成任务并创造价值。",
+    "pubDate": "2026-07-17 19:26:31  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "高盛看好通宇通讯低轨卫星相关业务前景",
+    "link": "https://36kr.com/newsflashes/3899640637687689?f=rss",
+    "summary": "高盛发布报告称，通宇通讯在低轨卫星相控阵天线领域具备相关经验，已形成全面的产品线布局，并较早进入重点低轨卫星星座供应链。随着中国低轨卫星星座逐步推进建设，高盛对公司相关业务的增长前景持积极看法。（界面）",
+    "pubDate": "2026-07-17 19:19:35  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "国科微：拟定增募资不超过50.61亿元，用于端侧AI芯片研发及产业化项目等",
+    "link": "https://36kr.com/newsflashes/3899639438280323?f=rss",
+    "summary": "36氪获悉，国科微公告，公司拟向不超过35名特定投资者发行股票，募集资金总额不超过50.61亿元，扣除发行费用后用于新一代AI视觉处理芯片及解决方案研发与产业化项目、媒体交互AI芯片研发及产业化项目、端侧AI芯片研发及产业化项目及补充流动资金。",
+    "pubDate": "2026-07-17 19:18:22  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "甘咨询：高盛国际对公司股票的持仓比例较低",
+    "link": "https://36kr.com/newsflashes/3899629089408646?f=rss",
+    "summary": "36氪获悉，甘咨询公告，截至本公告披露日，公司不存在相关资产注入、披露市值提升计划的相关情况，市场存在过度解读的情形，请广大投资者注意投资风险。经查询截至2026年7月10日公司股东信息，高盛国际对公司股票的持仓比例较低。近期个别媒体关于“高盛重仓持有”的报道严重失实，属夸大性信息，与实际情况不符，请广大投资者注意投资风险。",
+    "pubDate": "2026-07-17 19:07:50  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "对话森博科技董事长于林义：AI应用拼的不只是技术，更是实证有效的业务闭环",
+    "link": "https://36kr.com/p/3899556701128578?f=rss",
+    "summary": "7月17日，2026世界人工智能大会在上海开场。作为36氪连续第三年深入WAIC现场的重要内容窗口，「氪话未来」直播间也在大会首日同步开启现场对话。 森博科技董事长于林义 在WAIC现场接受36氪「氪话未来」特邀专访，围绕企业级AI、智能体落地、行业know-how与业务闭环等话题，分享了森博从营销服务公司转向AI驱动科技服务公司的实践路径。 本届WAIC以“智能伙伴，共创未来”为主题。相比过去几年行业对模型能力、参数规模和Demo效果的集中关注，2026年的AI产业讨论正在明显后移：企业更关心AI能否进入真实流程，能否承担具体任务，能否被业务结果验证。换句话说，AI不再只是一个“会回答...",
+    "pubDate": "2026-07-17 18:51:22  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "2026最受投资人关注人工智能/具身智能企业50揭晓",
+    "link": "https://36kr.com/p/3899597215745664?f=rss",
+    "summary": "&nbsp; 人工智能正在进入一个新的产业周期。 过去一年，大模型能力持续演进，生成式AI、多模态交互、智能体等技术方向快速推进；而具身智能也从早期的技术探索阶段，逐渐步入产业验证的深水区，机器人开始成为人工智能与现实世界的重要载体。 市场率先给出了回应。据36氪研究院测算，中国具身智能市场规模已从2018年的2133亿元增长至2025年的9150亿元，2026年有望突破万亿关口。IT桔子数据显示，2026上半年具身智能融资总金额达到935亿元，较2025上半年提升近5倍，投融资事件达到322起，同比增长137%。 但硬币的另一面同样刺眼。智源研究院在《2026十大AI技术趋势》中直言，...",
+    "pubDate": "2026-07-17 18:45:58  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
   },
   {
     "title": "安纳达：全资子公司拟投资32.98亿元建设年产30万吨电池级磷酸铁一体化项目",
@@ -1240,6 +2048,38 @@
     "category": "tech-cn"
   },
   {
+    "title": "Wearable sensors on the face are invisible to the eye",
+    "link": "https://www.nature.com/articles/d41586-026-02193-1",
+    "summary": "Nature, Published online: 17 July 2026; doi:10.1038/d41586-026-02193-1 Electrodes that measure brain waves and more cannot be seen or felt.",
+    "pubDate": "2026-07-17",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Why pain hurts more when we’re lonely, and the myth of original sin: Books in brief",
+    "link": "https://www.nature.com/articles/d41586-026-02264-3",
+    "summary": "Nature, Published online: 17 July 2026; doi:10.1038/d41586-026-02264-3 Andrew Robinson reviews five of the best science picks.",
+    "pubDate": "2026-07-17",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Found: a rocky exoplanet with an atmosphere — could it host life?",
+    "link": "https://www.nature.com/articles/d41586-026-02200-5",
+    "summary": "Nature, Published online: 17 July 2026; doi:10.1038/d41586-026-02200-5 Astronomers have spotted helium escaping from LHS 1140b, an exoplanet orbiting in its star’s ‘habitable zone’.",
+    "pubDate": "2026-07-17",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Man’s ability to make sperm restored after testicular tissue transplant: what scientists think",
+    "link": "https://www.nature.com/articles/d41586-026-02191-3",
+    "summary": "Nature, Published online: 17 July 2026; doi:10.1038/d41586-026-02191-3 Testicle sample removed from a ten-year-old before chemotherapy and frozen proves viable 16 years later.",
+    "pubDate": "2026-07-17",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
     "title": "Fortnite is getting a bunch of AI-powered ‘personas’",
     "link": "https://www.theverge.com/games/966815/epic-games-fortnite-ai-powered-personas",
     "summary": "Get ready for more AI characters in Fortnite. Developer Epic Games is going to let Fortnite creators publish experiences featuring characters with AI-powered voices starting on July 30th, and ahead of that launch, it's created 36 characters with \"consistent voices and personas\" that creators can ...",
@@ -1270,5 +2110,21 @@
     "pubDate": "2026-07-16T15:55:29-04:00",
     "source": "The Verge",
     "category": "tech"
+  },
+  {
+    "title": "US politicians push agencies to restrict research collaboration with China",
+    "link": "https://www.nature.com/articles/d41586-026-02226-9",
+    "summary": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02226-9 Republicans and Democrats worry about research theft and exploitation — but don’t agree on how to solve the problem.",
+    "pubDate": "2026-07-16",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "CRISPR gets a power boost from AI-designed ‘molecular scissors’",
+    "link": "https://www.nature.com/articles/d41586-026-02217-w",
+    "summary": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02217-w Researchers used artificial intelligence to design functional CRISPR enzymes not seen in nature.",
+    "pubDate": "2026-07-16",
+    "source": "Nature",
+    "category": "science"
   }
 ]

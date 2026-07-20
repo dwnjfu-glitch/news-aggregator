@@ -16,6 +16,14 @@
     "category": "general"
   },
   {
+    "title": "UCLA scientists develop mineral sunscreen without the chalky white cast",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260718010200.htm",
+    "summary": "Scientists have redesigned zinc oxide particles to create a mineral sunscreen that protects against ultraviolet radiation without leaving such a noticeable white cast. The SPF 30 formula could make sunscreen easier and more appealing to use across a wider range of skin tones.",
+    "pubDate": "Sun, 19 Jul 2026 23:32:12 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "This farmer wanted to quit the cocaine industry - he couldn't",
     "link": "https://www.bbc.co.uk/news/articles/c0kyml1zxz4o?at_medium=RSS&at_campaign=rss",
     "summary": "Colombians who grow cocaine's raw material bemoan a lack of support to help them switch crops.",
@@ -62,6 +70,14 @@
     "pubDate": "Sun, 19 Jul 2026 22:44:27 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Scientists found two powerful new ways to destroy forever chemicals",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260718010147.htm",
+    "summary": "Scientists are testing two promising ways to destroy PFAS, the stubborn “forever chemicals” that can accumulate in water and resist normal treatment. One method uses collapsing vapor bubbles to generate extreme heat and reactive molecules, while the other uses cold plasma and rising gas bubbles t...",
+    "pubDate": "Sun, 19 Jul 2026 22:31:21 EDT",
+    "source": "Science Daily",
+    "category": "science"
   },
   {
     "title": "How the World Cup has affected your Premier League team",
@@ -184,6 +200,14 @@
     "category": "general"
   },
   {
+    "title": "ECC and DDR5",
+    "link": "https://etbe.coker.com.au/2026/07/19/ecc-ddr5/",
+    "summary": "Article URL: https://etbe.coker.com.au/2026/07/19/ecc-ddr5/ Comments URL: https://news.ycombinator.com/item?id=48969530 Points: 37 # Comments: 16",
+    "pubDate": "Sun, 19 Jul 2026 16:31:44 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "The Zen of Parallel Programming",
     "link": "https://smolnero.com/posts/the-zen-of-parallel-programming",
     "summary": "Comments",
@@ -216,12 +240,252 @@
     "category": "tech"
   },
   {
+    "title": "派评 | 近期值得关注的 App",
+    "link": "https://sspai.com/post/112543",
+    "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀 查看全文",
+    "pubDate": "Mon, 20 Jul 2026 18:00:02 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
     "title": "角落新声 | 把杂乱桌面收拾得像样，只需要一张桌垫",
     "link": "https://sspai.com/post/112453",
     "summary": "在拥有你我理想的超大自主空间之前，不如用一张桌垫改善一下自己的工作生活环境，过得多舒心一点点吧。 查看全文",
     "pubDate": "Mon, 20 Jul 2026 15:05:31 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "Newcastle, Liverpool and England legend Keegan dies",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c2lyl82n2e2o?at_medium=RSS&at_campaign=rss",
+    "summary": "Former England captain and manager Kevin Keegan dies at the age of 75, seven weeks after he revealed he had been diagnosed with stage four cancer.",
+    "pubDate": "Mon, 20 Jul 2026 14:38:28 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Burnham pledges to end rough sleeping in first speech as prime minister",
+    "link": "https://www.bbc.co.uk/news/articles/c0jl839j6z3o?at_medium=RSS&at_campaign=rss",
+    "summary": "The Labour leader made a similar pledge as Greater Manchester mayor, although he failed to achieve this.",
+    "pubDate": "Mon, 20 Jul 2026 14:35:51 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Watch Flock Safety CEO Garrett Langley discuss the future of surveillance at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/07/20/watch-flock-safety-ceo-garrett-langley-discuss-the-future-of-surveillance-at-techcrunch-disrupt-2026/",
+    "summary": "Flock Safety sits right at the center of the debate over where the line should be drawn between privacy and public safety. That’s why we’re bringing Flock’s founder and CEO Garrett Langley to the stage to speak about those very issues.",
+    "pubDate": "Mon, 20 Jul 2026 14:30:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Lossless model compression experiment: GLM-5.2 in 25% less memory",
+    "link": "https://brianbell-x.github.io/weight-compression/",
+    "summary": "Article URL: https://brianbell-x.github.io/weight-compression/ Comments URL: https://news.ycombinator.com/item?id=48979201 Points: 8 # Comments: 0",
+    "pubDate": "Mon, 20 Jul 2026 14:16:45 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Ten killed as Russian attacks on merchant ships in Black Sea intensify",
+    "link": "https://www.bbc.co.uk/news/articles/c4gvpv3ewv2o?at_medium=RSS&at_campaign=rss",
+    "summary": "Russian strikes on the Odesa region have killed 28 people in July alone, local authorities say.",
+    "pubDate": "Mon, 20 Jul 2026 14:14:08 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Perfection Is Not Over-Engineering",
+    "link": "https://var0.xyz/posts/perfection-is-not-over-engineering.html",
+    "summary": "Article URL: https://var0.xyz/posts/perfection-is-not-over-engineering.html Comments URL: https://news.ycombinator.com/item?id=48979120 Points: 20 # Comments: 2",
+    "pubDate": "Mon, 20 Jul 2026 14:10:30 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Hamas names Khalil al-Hayya as new overall leader",
+    "link": "https://www.bbc.co.uk/news/articles/cx25nzkyj50o?at_medium=RSS&at_campaign=rss",
+    "summary": "The Palestinian armed group's Qatar-based chief negotiator replaces Yahya Sinwar, who was killed by Israeli forces in Gaza in 2024.",
+    "pubDate": "Mon, 20 Jul 2026 14:02:31 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Firefox Merges Support for Vulkan Video Decoding",
+    "link": "https://github.com/search",
+    "summary": "Article URL: https://github.com/search Comments URL: https://news.ycombinator.com/item?id=48978835 Points: 6 # Comments: 2",
+    "pubDate": "Mon, 20 Jul 2026 13:47:13 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Ofcom launches investigation into Married at First Sight UK",
+    "link": "https://www.bbc.co.uk/news/articles/c4gyyx2zg59o?at_medium=RSS&at_campaign=rss",
+    "summary": "In May, BBC Panorama revealed rape allegations from two women on the show, which the men involved deny.",
+    "pubDate": "Mon, 20 Jul 2026 13:42:04 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Hacker wipes Romania's land registry database",
+    "link": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
+    "summary": "Article URL: https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/ Comments URL: https://news.ycombinator.com/item?id=48978605 Points: 142 # Comments: 52",
+    "pubDate": "Mon, 20 Jul 2026 13:28:33 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "South East Water hosepipe ban to affect 2.4 million people",
+    "link": "https://www.bbc.co.uk/news/articles/c7vg3geg3qmo?at_medium=RSS&at_campaign=rss",
+    "summary": "South East Water says customers in Sussex, Surrey, Hampshire and Berkshire will face a ban.",
+    "pubDate": "Mon, 20 Jul 2026 13:24:32 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Modder Makes GTA: Vice City Playable Inside GTA 3 Inside GTA: San Andreas",
+    "link": "https://kotaku.com/gta-vice-city-made-playable-in-gta-3-made-playable-in-gta-san-andreas-2000717510",
+    "summary": "Article URL: https://kotaku.com/gta-vice-city-made-playable-in-gta-3-made-playable-in-gta-san-andreas-2000717510 Comments URL: https://news.ycombinator.com/item?id=48978545 Points: 13 # Comments: 3",
+    "pubDate": "Mon, 20 Jul 2026 13:23:38 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Lamine Yamal celebrates World Cup win with little brother who charmed fans",
+    "link": "https://www.bbc.co.uk/news/articles/c89nvnklkpdo?at_medium=RSS&at_campaign=rss",
+    "summary": "The three-year-old brother of Yamal has been hailed one of Spain's World Cup breakout stars by fans",
+    "pubDate": "Mon, 20 Jul 2026 13:13:29 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Inertia-1: An Open Exploration to a Unified Motion Foundation Model",
+    "link": "https://yang-ai-lab.github.io/Inertia-1/",
+    "summary": "Article URL: https://yang-ai-lab.github.io/Inertia-1/ Comments URL: https://news.ycombinator.com/item?id=48978388 Points: 16 # Comments: 0",
+    "pubDate": "Mon, 20 Jul 2026 13:11:12 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "We're Squandering LEDs' Potential to Save Our Night Skies",
+    "link": "https://spectrum.ieee.org/led-light-pollution",
+    "summary": "Article URL: https://spectrum.ieee.org/led-light-pollution Comments URL: https://news.ycombinator.com/item?id=48978350 Points: 31 # Comments: 6",
+    "pubDate": "Mon, 20 Jul 2026 13:07:11 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Codex is wearing out our devices",
+    "link": "https://old.reddit.com/r/codex/comments/1v0m3lt/codex_is_wearing_out_our_devices/",
+    "summary": "Article URL: https://old.reddit.com/r/codex/comments/1v0m3lt/codex_is_wearing_out_our_devices/ Comments URL: https://news.ycombinator.com/item?id=48978331 Points: 29 # Comments: 17",
+    "pubDate": "Mon, 20 Jul 2026 13:04:41 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Burnham promises help with your money. How could it affect you?",
+    "link": "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo?at_medium=RSS&at_campaign=rss",
+    "summary": "New Prime Minister Andy Burnham says he wants life to be more affordable, but how could he do it?",
+    "pubDate": "Mon, 20 Jul 2026 13:03:23 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Will the Tate brothers be extradited from the US to the UK?",
+    "link": "https://www.bbc.co.uk/news/articles/cjej0j0lzkno?at_medium=RSS&at_campaign=rss",
+    "summary": "Andrew and Tristan Tate are set to face extradition proceedings in the US as British prosecutors issued 38 new charges against the brothers.",
+    "pubDate": "Mon, 20 Jul 2026 12:59:57 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Rare identical quadruplets born in Australia",
+    "link": "https://www.bbc.co.uk/news/articles/cx2jnj3428lo?at_medium=RSS&at_campaign=rss",
+    "summary": "The parents of the four naturally-conceived girls were taken by \"immense surprise\" with the pregnancy, the hospital said.",
+    "pubDate": "Mon, 20 Jul 2026 12:57:32 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Watch: Starmer resigns, Burnham becomes PM... the day so far",
+    "link": "https://www.bbc.co.uk/news/videos/cd0xgxgz135o?at_medium=RSS&at_campaign=rss",
+    "summary": "Andy Burnham has become the UK's prime minister after being appointed by the King at Buckingham Palace.",
+    "pubDate": "Mon, 20 Jul 2026 12:49:18 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Annoying and alarming things about OpenCode",
+    "link": "https://wren.wtf/shower-thoughts/stop-using-opencode/",
+    "summary": "Article URL: https://wren.wtf/shower-thoughts/stop-using-opencode/ Comments URL: https://news.ycombinator.com/item?id=48978112 Points: 210 # Comments: 128",
+    "pubDate": "Mon, 20 Jul 2026 12:45:55 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Parched grass reveals 'lost' 17th Century garden",
+    "link": "https://www.bbc.co.uk/news/articles/c998r8pemrgo?at_medium=RSS&at_campaign=rss",
+    "summary": "The hot weather uncovers the outline of The Great Parterre, an ornate garden designed in 1699.",
+    "pubDate": "Mon, 20 Jul 2026 12:45:39 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Hugging Face confirms breach affected internal datasets and credentials, urges users to take action",
+    "link": "https://techcrunch.com/2026/07/20/hugging-face-confirms-breach-affected-internal-datasets-and-credentials-urges-users-to-take-action/",
+    "summary": "Hugging Face is urging users to rotate any access tokens stored on the platform and review account activity.",
+    "pubDate": "Mon, 20 Jul 2026 12:39:28 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Police block thousands of 'cockroach' protesters marching on India's parliament",
+    "link": "https://www.bbc.co.uk/news/articles/cvg9w9dxd7lo?at_medium=RSS&at_campaign=rss",
+    "summary": "Some protesters demanding education reforms said they were injured in clashes with police who banned the march.",
+    "pubDate": "Mon, 20 Jul 2026 12:31:10 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "StrictlyVC returns to New York City September 10 to celebrate a huge year for the city’s startup community",
+    "link": "https://techcrunch.com/2026/07/20/strictlyvc-returns-to-new-york-city-september-10-to-celebrate-a-huge-year-for-the-citys-startup-community/",
+    "summary": "For the first time since 2024, StrictlyVC is coming back to New York City — and we're bringing the kind of access you’d expect from an under-wraps event to the whole startup, VC, and dealmaking community.",
+    "pubDate": "Mon, 20 Jul 2026 12:30:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "The footprints of every building in NYC – updated weekly",
+    "link": "https://www.beautifulpublicdata.com/the-footprints-of-every-building-in-nyc/",
+    "summary": "Article URL: https://www.beautifulpublicdata.com/the-footprints-of-every-building-in-nyc/ Comments URL: https://news.ycombinator.com/item?id=48977849 Points: 3 # Comments: 0",
+    "pubDate": "Mon, 20 Jul 2026 12:25:49 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The EU is about to sell our most sensitive data to the US for visa-free travel",
+    "link": "https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/",
+    "summary": "Article URL: https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/ Comments URL: https://news.ycombinator.com/item?id=48977711 Points: 207 # Comments: 120",
+    "pubDate": "Mon, 20 Jul 2026 12:14:08 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Could Infantino really push through a 64-team World Cup?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cly7ley50g9o?at_medium=RSS&at_campaign=rss",
+    "summary": "If we have learned one thing from Gianni Infantino's Fifa tenure, it is that more is better. That could mean 64 teams at the World Cup.",
+    "pubDate": "Mon, 20 Jul 2026 11:57:57 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Beyond grep: The case for a context-rich AI coding harness",
+    "link": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
+    "summary": "Augment Code's Vinay Perneti talks models, harnesses, and context.",
+    "pubDate": "Mon, 20 Jul 2026 11:20:10 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
   },
   {
     "title": "2026 年再看 iPhone 8 Plus，它还够用吗？",
@@ -232,12 +496,124 @@
     "category": "tech-cn"
   },
   {
+    "title": "The 35 Best Board Games for Family Game Night",
+    "link": "https://www.wired.com/gallery/best-family-board-games/",
+    "summary": "From monsters to kittens to strategy games, these sets will liven things up on nights when everyone is tired of screens.",
+    "pubDate": "Mon, 20 Jul 2026 11:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Why David Beckham was the face of the World Cup",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cwyq1ew4830o?at_medium=RSS&at_campaign=rss",
+    "summary": "After arriving in Los Angeles 19 years ago promising to grow the game, David Beckham is still helping sell football to America.",
+    "pubDate": "Mon, 20 Jul 2026 10:45:58 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "A Beginner’s Guide to Growing Mushrooms at Home (2026)",
+    "link": "https://www.wired.com/story/mushroom-growing-methods/",
+    "summary": "From countertop kits to a bathroom bucket full of straw and beyond, I spent a year testing popular mushroom-growing methods. Here’s what fruited—and what just grew mold.",
+    "pubDate": "Mon, 20 Jul 2026 10:31:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Airport Simulator",
+    "link": "https://airport.apunen.com/",
+    "summary": "Article URL: https://airport.apunen.com/ Comments URL: https://news.ycombinator.com/item?id=48976846 Points: 248 # Comments: 66",
+    "pubDate": "Mon, 20 Jul 2026 10:30:40 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Best goal, best player, best fans - BBC reporters' World Cup awards",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cdxd1pq4nrko?at_medium=RSS&at_campaign=rss",
+    "summary": "BBC Sport reporters pick their best moments of the tournament - and you can vote for yours.",
+    "pubDate": "Mon, 20 Jul 2026 10:29:04 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "How fast Fox trumped divisive DeChambeau to win Open",
+    "link": "https://www.bbc.co.uk/sport/golf/articles/cn4n2r3de84o?at_medium=RSS&at_campaign=rss",
+    "summary": "Ryan Fox's pacy play set him apart from his peers as he triumphed at a fiery Birkdale that threatened to be overshadowed by Bryson DeChambeau's penalty, writes Iain Carter.",
+    "pubDate": "Mon, 20 Jul 2026 10:23:50 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "An Ebike Company Was Sued for Misleading Info on Safety. It Points to a Big Problem",
+    "link": "https://www.wired.com/story/an-ebike-company-was-sued-for-misleading-on-safety-it-points-to-a-big-problem/",
+    "summary": "Several Chinese businesses associated with the ebike brand Aipas settled a lawsuit with Amazon and the safety certification company UL in July.",
+    "pubDate": "Mon, 20 Jul 2026 10:15:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "The ACLU Is Arming Lawyers to Expose State Surveillance Secrets",
+    "link": "https://www.wired.com/story/the-aclu-is-arming-lawyers-to-expose-state-surveillance-secrets/",
+    "summary": "A new toolkit for attorneys in Massachusetts targets the technologies police use—and conceal—to build criminal cases, from facial recognition to AI-written police reports.",
+    "pubDate": "Mon, 20 Jul 2026 10:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Elite Young Runners Are Becoming Freakishly Fast. Welcome to ‘Trackflation’",
+    "link": "https://www.wired.com/story/teenagers-running-trackflation/",
+    "summary": "Four-minute miles are almost routine. Middle schoolers are beating college runners. Inside the youth track boom that’s turning kids and teens into speed machines.",
+    "pubDate": "Mon, 20 Jul 2026 10:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Scientists detect hidden skin damage before it becomes visible",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260716023554.htm",
+    "summary": "Scientists have discovered a hidden warning sign of skin damage that appears before collagen fibers visibly thin, break, or lose their connections. Using advanced light-based techniques, the team found that collagen’s carefully organized molecular “handedness” can collapse even while the tissue s...",
+    "pubDate": "Mon, 20 Jul 2026 09:38:56 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "7 Sandbox Escape Vulnerabilities Across 4 Coding Agent Vendors",
+    "link": "https://www.pillar.security/blog/the-week-of-sandbox-escapes",
+    "summary": "Comments",
+    "pubDate": "Mon, 20 Jul 2026 09:33:55 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Rust for Morello: Always-On Memory Safety, Even in Unsafe Code",
+    "link": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol263-ecoop2023/LIPIcs.ECOOP.2023.39/LIPIcs.ECOOP.2023.39.pdf",
+    "summary": "Comments",
+    "pubDate": "Mon, 20 Jul 2026 09:33:37 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Apps Marketed to US Troops Are Shipping Chinese and Russian Code",
     "link": "https://www.wired.com/story/apps-marketed-to-us-troops-are-shipping-chinese-and-russian-code/",
     "summary": "A first-of-its-kind analysis found more than one in eight apps built for US service members carried foreign code—some from firms in nations the Pentagon designates as adversaries.",
     "pubDate": "Mon, 20 Jul 2026 09:30:00 +0000",
     "source": "Wired",
     "category": "tech"
+  },
+  {
+    "title": "Some dinosaurs could rise like giants until they grew too big",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260719231758.htm",
+    "summary": "Two elephant-sized South American sauropods were unusually well built for standing on their hind legs. Digital tests showed that their robust femurs handled the enormous forces better than those of larger species, especially while the dinosaurs were young. The upright pose may have helped them re...",
+    "pubDate": "Mon, 20 Jul 2026 09:23:44 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Putin meets North Korean foreign minister in diplomatic push",
+    "link": "https://www.npr.org/2026/07/20/g-s1-134555/putin-meets-north-korean-foreign-minister-in-diplomatic-push",
+    "summary": "The visit by North Korean Foreign Minister Choe Son Hui comes without an obvious occasion, such as a multilateral diplomatic event or state anniversary, and has raised speculation that she may be coordinating a possible visit to Russia by North Korean leader Kim Jong Un.",
+    "pubDate": "Mon, 20 Jul 2026 09:18:51 -0400",
+    "source": "NPR",
+    "category": "general"
   },
   {
     "title": "Prisons minister Lord Timpson quits government",
@@ -264,6 +640,22 @@
     "category": "general"
   },
   {
+    "title": "Meta Garbage Collection: Using OCaml's GC to GC Rust",
+    "link": "https://soteria-tools.com/blog/meta-garbage-collection",
+    "summary": "Comments",
+    "pubDate": "Mon, 20 Jul 2026 08:58:52 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Using LLM-based Verification to Eliminate Bugs in Linux's Network Stack",
+    "link": "https://www.basis.ai/blog/verified-nftables/",
+    "summary": "Comments",
+    "pubDate": "Mon, 20 Jul 2026 08:57:41 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "From hundreds to thousands: How India's 'cockroach' protest movement has grown",
     "link": "https://www.bbc.co.uk/news/videos/c0qvdywj97ko?at_medium=RSS&at_campaign=rss",
     "summary": "BBC's Azadeh Moshiri reports as thousands attempt to march to India's parliament in support of the Cockroach Janta Party's demand for education reforms.",
@@ -278,6 +670,14 @@
     "pubDate": "Mon, 20 Jul 2026 08:38:02 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Earth’s waters are quietly running out of oxygen, scientists warn",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260719035939.htm",
+    "summary": "Oxygen is disappearing from oceans, lakes, rivers, and coastal waters at an alarming rate, threatening aquatic life and weakening the natural processes that help regulate Earth’s climate. Scientists warn that this widespread deoxygenation is closely connected to other major planetary threats, inc...",
+    "pubDate": "Mon, 20 Jul 2026 08:29:38 EDT",
+    "source": "Science Daily",
+    "category": "science"
   },
   {
     "title": "Stay or go - at 28, Rashford faces big Man Utd call",
@@ -296,6 +696,14 @@
     "category": "tech"
   },
   {
+    "title": "3 U.S. personnel killed in Iran conflict. And, Hunter Biden opens up to NPR",
+    "link": "https://www.npr.org/2026/07/20/g-s1-134553/up-first-newsletter-iran-us-service-members-hunter-biden",
+    "summary": "Three U.S. service members have been killed since Friday amid rising tension between the U.S. and Iran. And, Hunter Biden talks to NPR's Newsmakers about addiction and public scrutiny.",
+    "pubDate": "Mon, 20 Jul 2026 07:40:28 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "Broadcaster and journalist Edward Stourton dies aged 68",
     "link": "https://www.bbc.co.uk/news/articles/c20d4j4v9g9o?at_medium=RSS&at_campaign=rss",
     "summary": "Stourton hosted Radio 4's Today programme for a decade and was a founding member of Channel 4 News.",
@@ -312,6 +720,22 @@
     "category": "tech-cn"
   },
   {
+    "title": "Gitolite",
+    "link": "https://gitolite.com/gitolite/index.html",
+    "summary": "Comments",
+    "pubDate": "Mon, 20 Jul 2026 07:10:14 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "At least 930 people have died in Congo's Ebola outbreak",
+    "link": "https://www.npr.org/2026/07/20/g-s1-134548/ebola-congo-deaths",
+    "summary": "Congo's health ministry said the deaths were recorded out of the 2,344 cases confirmed as of Saturday. Thirty-seven new deaths were recorded in the previous 24 hours in one of the highest totals.",
+    "pubDate": "Mon, 20 Jul 2026 06:36:08 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
     "link": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
     "summary": "Iran responded with attacks in Syria and Jordan, as two ships reportedly exploded in the Strait of Hormuz.",
@@ -326,6 +750,30 @@
     "pubDate": "Mon, 20 Jul 2026 06:17:12 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Alzheimer’s breakthrough: Scientists restore two hours of sleep without clearing brain plaques",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260719035931.htm",
+    "summary": "Researchers have uncovered a surprising culprit behind sleep loss in Alzheimer’s disease: the brain’s own immune cells. In mice with amyloid plaques, overactive microglia triggered inflammation that kept the brain from getting enough deep, restorative sleep. Temporarily removing most of these cel...",
+    "pubDate": "Mon, 20 Jul 2026 06:05:34 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "U.S. and Iran launch new strikes after 3 U.S. service members are killed",
+    "link": "https://www.npr.org/2026/07/20/nx-s1-5900601/us-iran-updates",
+    "summary": "The U.S. attacks were the ninth consecutive day of bombing since peace talks between the two countries collapsed in dispute over a memorandum of understanding focused on the Strait of Hormuz.",
+    "pubDate": "Mon, 20 Jul 2026 06:04:56 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Building an AmigaOS Development Environment in 2026",
+    "link": "https://turtleware.eu/posts/Building-an-AmigaOS-Development-Environment-in-2026.html",
+    "summary": "Comments",
+    "pubDate": "Mon, 20 Jul 2026 05:30:01 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "The small seaside town winning big from TV tourism",
@@ -376,6 +824,14 @@
     "category": "general"
   },
   {
+    "title": "Andy Burnham becomes U.K. prime minister",
+    "link": "https://www.npr.org/2026/07/19/nx-s1-5895993/andy-burnham-prime-minister-keir-starmer",
+    "summary": "In a transition of power presided over by King Charles, Andy Burnham has replaced Keir Starmer as the United Kingdom's prime minister. Both are from the center-left Labour Party.",
+    "pubDate": "Mon, 20 Jul 2026 04:41:42 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques",
     "link": "https://github.com/Saivineeth147/lora-speedrun",
     "summary": "Article URL: https://github.com/Saivineeth147/lora-speedrun Comments URL: https://news.ycombinator.com/item?id=48974325 Points: 75 # Comments: 10",
@@ -398,6 +854,14 @@
     "pubDate": "Mon, 20 Jul 2026 03:53:07 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "An ordinary laptop solved a problem thought to require a quantum computer",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260719040000.htm",
+    "summary": "A quantum problem once described as impossible for classical computers has now been solved using relatively modest hardware. Researchers used tensor networks to compress the overwhelming wave function created by hundreds of entangled qubits, allowing some calculations to run on a laptop. Their re...",
+    "pubDate": "Mon, 20 Jul 2026 03:40:09 EDT",
+    "source": "Science Daily",
+    "category": "science"
   },
   {
     "title": "Minimal Git CI using hooks",
@@ -446,6 +910,22 @@
     "pubDate": "Mon, 20 Jul 2026 02:04:02 -0500",
     "source": "Lobsters",
     "category": "tech"
+  },
+  {
+    "title": "Satan's 19th-Century Bank Note (2017)",
+    "link": "https://www.historytoday.com/miscellanies/satans-19th-century-bank-note",
+    "summary": "Article URL: https://www.historytoday.com/miscellanies/satans-19th-century-bank-note Comments URL: https://news.ycombinator.com/item?id=48973455 Points: 16 # Comments: 1",
+    "pubDate": "Mon, 20 Jul 2026 01:31:12 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Scientists discover a protein that protects the brain from Alzheimer’s damage",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260718010140.htm",
+    "summary": "A protein called SORLA may act as a powerful defense against the toxic tau tangles involved in Alzheimer’s disease. Mice with extra SORLA had less tau accumulation, less brain atrophy, and healthier connections between neurons, while mice without it experienced more severe damage. The findings al...",
+    "pubDate": "Mon, 20 Jul 2026 01:28:48 EDT",
+    "source": "Science Daily",
+    "category": "science"
   },
   {
     "title": "Lamine Yamal 'completes football' at 19 as Argentina betray Messi",
@@ -534,6 +1014,214 @@
     "pubDate": "Mon, 20 Jul 2026 00:16:50 +0000",
     "source": "Hacker News",
     "category": "tech"
+  },
+  {
+    "title": "Electric air taxis go to war",
+    "link": "https://www.theverge.com/transportation/967891/archer-evtol-military-anduril-air-taxi-thunder",
+    "summary": "Electric aviation is still in its infancy, but manufacturers are already looking beyond mere air taxi trips across cities. Today, one of the leading air taxi startups, San Jose-based Archer Aviation, unveiled a new aircraft it co-developed with defense technology company Anduril - though the plat...",
+    "pubDate": "2026-07-20T09:52:21-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Avengers: Doomsday’s first trailer puts everyone on high alert",
+    "link": "https://www.theverge.com/entertainment/967887/avengers-doomsday-trailer-marvel-release-date",
+    "summary": "After months of teasing us with reminders about how large Avengers: Doomsday's cast is going to be, Marvel has finally released a proper trailer for the film. Though Robert. Downey Jr.'s Doctor Doom definitely appears to be causing a lot of the chaos in Doomsday's first trailer, the movie seems l...",
+    "pubDate": "2026-07-20T09:39:19-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "AliExpress fined almost $630 million over illegal product sales",
+    "link": "https://www.theverge.com/policy/967802/aliexpress-eu-dsa-fine-illegal-products",
+    "summary": "AliExpress has been hit with a &#8364;550 million (about $629 million) fine for violating Europe's Digital Services Act (DSA) rules by failing to prevent illegal, unsafe, or counterfeit products from being sold on the e-commerce platform. The European Commission ruled that AliExpress didn't take ...",
+    "pubDate": "2026-07-20T07:16:32-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "China delivers a one-two punch to America’s AI dominance",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
+    "summary": "China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthropic at a fraction of the cost. The rapid-fire releases suggest America's lead at the AI frontier is increasingly tig...",
+    "pubDate": "2026-07-20T06:16:33-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "新易盛：整体来看，二季度业绩预告情况与公司年初对全年整体情况的预期基本吻合",
+    "link": "https://36kr.com/newsflashes/3903985686824841?f=rss",
+    "summary": "新易盛近日在电话会议上表示，整体来看，二季度业绩预告情况与公司年初对全年整体情况的预期基本吻合，利润增长的核心驱动力包括以下几方面：1. 订单层面：订单交付需求的增长，预计下半年订单交付情况仍处于快速增长阶段，行业景气度持续高位，Q3/Q4及明年的订单能见度较高；2. 供应链端：Q1供应链紧张的情况对交付造成一定影响，Q2起逐步缓解，Q3/Q4将趋于稳定，得益于公司前期针对核心原材料做了充分的备货与锁定安排；3. 汇兑影响：一季度汇兑损失对利润影响较为明显，二季度该影响幅度大幅收窄。（第一财经）",
+    "pubDate": "2026-07-20 20:59:36  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "年内A股公司累计回购金额超过800亿元",
+    "link": "https://36kr.com/newsflashes/3903983734540168?f=rss",
+    "summary": "数据显示，截至7月20日，A股市场年内已有超800家公司实施回购，合计回购金额816.67亿元。美的集团、京东方A、顺丰控股、贵州茅台、紫金矿业年内回购金额均超过20亿元。（证券时报）",
+    "pubDate": "2026-07-20 20:57:37  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "热门中概股美股盘前普涨，阿里巴巴涨超3%",
+    "link": "https://36kr.com/newsflashes/3903981840696969?f=rss",
+    "summary": "36氪获悉， 热门中概股美股盘前普涨，截至发稿，阿里巴巴、百度涨超3%，京东、网易涨超2%，拼多多、哔哩哔哩、蔚来涨超1%，理想汽车涨0.81%。",
+    "pubDate": "2026-07-20 20:55:41  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "美股大型科技股盘前多数上涨，闪迪涨超3%",
+    "link": "https://36kr.com/newsflashes/3903980483331717?f=rss",
+    "summary": "36氪获悉，美股大型科技股盘前多数上涨，截至发稿，闪迪、美光科技涨超3%，英特尔涨超2%，英伟达涨超1%特斯拉涨0.89%，谷歌涨0.5%，亚马逊涨0.35%，Meta涨0.1%；微软跌超1%，苹果跌0.4%。",
+    "pubDate": "2026-07-20 20:54:18  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "“尼卡光学”完成近亿元A轮融资",
+    "link": "https://36kr.com/newsflashes/3903974776292998?f=rss",
+    "summary": "36氪获悉，全息技术领域企业“尼卡光学”宣布完成近亿元A轮融资。本轮融资由中银国际投资、天津滨海产业基金、Gobi Partners、中信建投、珠海全志科技等机构共同投资。融资资金将主要用于体全息光波导产线投产及加速技术迭代。据了解，尼卡光学成立于2022年7月，专注于体全息技术及其在AI眼镜、车载AR-HUD等场景中的产业化应用。",
+    "pubDate": "2026-07-20 20:48:30  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "曝零一万物启动新一轮融资，拟2027年申请IPO",
+    "link": "https://36kr.com/newsflashes/3903968879511169?f=rss",
+    "summary": "据报道，由国际知名人工智能专家李开复创立的零一万物正推进融资计划，并计划在2027年进行申请首次公开募股（IPO）。据悉，李开复计划在零一万物首次公布年度业绩前后完成这轮融资，但未透露融资目标金额和潜在投资者情况。目前，零一万物正逐步解除其离岸控股架构，这是顺利进行海外上市的先决条件。对于融资及相关IPO计划，截至发稿零一万物方面暂无回应。（新浪科技）",
+    "pubDate": "2026-07-20 20:45:20  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "招商证券终止为中韩半导体等6只基金提供主做市服务，回应：单纯商业行为，非市场方向判断",
+    "link": "https://36kr.com/newsflashes/3903961766037124?f=rss",
+    "summary": "近日，上交所公告称，经招商证券股份有限公司备案申请，自2026年7月20日起，招商证券终止为6只QDII基金提供主做市服务。对此，招商证券20日回复称，这只是单纯的商业行为，不涉及对市场方向的判断。具体来看，6只基金包括华泰柏瑞中韩半导体交易型开放式指数证券投资基金（QDII）、华夏野村日经225交易型开放式指数证券投资基金（QDII）的基金、华安三菱日联日经225交易型开放式指数证券投资基金（QDII）、富国纳斯达克100交易型开放式指数证券投资基金（QDII）、博时纳斯达克100交易型开放式指数证券投资基金（QDII）、华夏纳斯达克100交易型开放式指数证券投资基金（QDII）。 （...",
+    "pubDate": "2026-07-20 20:42:13  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "淘天集团公布四项AIGX技术体系最新技术成果",
+    "link": "https://36kr.com/newsflashes/3903953892050823?f=rss",
+    "summary": "36氪获悉，7月20日，淘天集团公布了AIGX技术体系的四项最新技术成果，包括拍立淘全模态实时Agent、全场景AI创作工作台if Studio、Coupella智惠引擎和Agentic推荐系统Dream。数据显示，自去年双11规模化上线以来，Coupella已覆盖数十万商家，AI红包转化率提升81%，头部品牌AI引导成交超8000万元。",
+    "pubDate": "2026-07-20 20:35:14  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "智明达：因特殊事项影响，公司特种领域获取订单受限三年",
+    "link": "https://36kr.com/newsflashes/3903957327628160?f=rss",
+    "summary": "36氪获悉，智明达公告，公司近日获悉，因特殊事项影响，从即日起三年，公司在特种领域获取订单受限，预计对公司生产经营和财务状况产生一定负面影响。目前公司整体生产经营活动正常，已签订的合同预计不受影响。公司依然围绕主营的嵌入式计算机产品，将持续加大其他领域产品的开拓，以现有的技术优势，突破其他领域相关市场，不断拓展新的应用场景和新的客户。",
+    "pubDate": "2026-07-20 20:30:45  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "光轮智能与西门子正式达成合作",
+    "link": "https://36kr.com/newsflashes/3903949369329280?f=rss",
+    "summary": "36氪获悉，近日，在WAIC 2026现场，光轮智能与西门子正式达成合作。双方将依托光轮智能的三位一体全栈自研仿真平台SimFoundry，推动工业软件中长期积累的物理模型、工程参数和工艺知识，转化为机器人可以持续调用的仿真能力，并进一步贯通训练、评测与真实部署，为机器人进入复杂工业场景提供全栈物理AI基础设施支撑。",
+    "pubDate": "2026-07-20 20:30:36  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "三环集团：拟以4.5亿元至9亿元回购股份",
+    "link": "https://36kr.com/newsflashes/3903936026969990?f=rss",
+    "summary": "36氪获悉，三环集团公告，公司拟以自有资金或自筹资金回购股份，回购资金总额不低于4.5亿元且不超过9亿元，回购价格不超过135元/股。回购股份将用于股权激励计划或员工持股计划、维护公司价值及股东权益。",
+    "pubDate": "2026-07-20 20:25:42  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "雷迪克：实际控制人沈仁荣因非公司事项收到取保候审决定书",
+    "link": "https://36kr.com/newsflashes/3903936486213254?f=rss",
+    "summary": "36氪获悉，雷迪克公告，公司实际控制人、董事长兼总经理沈仁荣于2026年7月20日收到杭州市公安局出具的《取保候审决定书》，因涉嫌内幕交易被取保候审，期限自2026年7月20日起算。该事项与沈仁荣2022年10月因内幕交易上海普丽盛包装股份有限公司股票收到的证监会浙江监管局行政处罚系同一事项，与公司无关。目前沈仁荣能正常履职，公司生产经营正常。",
+    "pubDate": "2026-07-20 20:20:32  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "波音CEO：在推出新款客机前，公司还需数年时间修复财务状况",
+    "link": "https://36kr.com/newsflashes/3903919044298626?f=rss",
+    "summary": "波音首席执行官凯利・奥特伯格周一接受美国消费者新闻与商业频道采访时表示，这家飞机制造商在研发推出全新商用客机之前，还需要 “好几年” 修复自身财务体系。奥特伯格称，各家航司客户都希望波音优先优化现有机型的运行可靠性与量产交付效率，而非急于研发全新机型。（新浪财经）",
+    "pubDate": "2026-07-20 20:07:52  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "美国汽油均价重回每加仑4美元高位",
+    "link": "https://36kr.com/newsflashes/3903922915559044?f=rss",
+    "summary": "美国汽车协会发布的数据显示，全美普通汽油平均价格20日再次上涨至每加仑4美元以上水平。这一价格去年同期为每加仑3.14美元。此前，受美国和伊朗军事冲突等因素影响，全美普通汽油平均价格今年3月底突破4美元，创近4年来新高，并持续上扬；美伊6月中旬签署谅解备忘录后，全美普通汽油平均价格回落至4美元以下并持续走低一段时间。（新华社）",
+    "pubDate": "2026-07-20 20:01:42  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "中国与泰国签署加强产供链经济合作的谅解备忘录",
+    "link": "https://36kr.com/newsflashes/3903921640474240?f=rss",
+    "summary": "36氪获悉，据商务部消息，在国务院总理李强和泰国总理阿努廷共同见证下，中国商务部部长王文涛与泰国副总理兼商业部长素帕姬在北京签署了《中华人民共和国商务部和泰王国商业部关于加强产供链经济合作的谅解备忘录》。根据《备忘录》，双方同意推进两国产供链经济合作，定期举行会议、加强交流，支持两国相关政府部门、地方、企业等不断深化和促进务实合作，更好为两国企业营造良好营商环境，共同应对挑战。近年来，中泰产供链合作潜力持续释放。《备忘录》的签署，将推动中泰建立务实高效的产供链合作平台，维护两国产供链安全、韧性和畅通，共同打造更为紧密的中泰产供链经济合作关系。",
+    "pubDate": "2026-07-20 19:54:27  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "三花智控：控股股东提议2亿元-4亿元回购股份",
+    "link": "https://36kr.com/newsflashes/3903911764100741?f=rss",
+    "summary": "36氪获悉，三花智控公告，公司收到控股股东三花控股集团提议，拟以自有资金通过集中竞价方式回购公司A股股份，用于后续股权激励计划或员工持股计划。回购总金额不低于2亿元、不超过4亿元，回购价格不超过60元/股。",
+    "pubDate": "2026-07-20 19:52:21  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "俄罗斯延长对中国公民的免签入境政策",
+    "link": "https://36kr.com/newsflashes/3903916938643334?f=rss",
+    "summary": "当地时间7月20日，俄罗斯总统普京签署总统令，将现行中国公民入境免签政策延长至2027年12月31日。（央视新闻）",
+    "pubDate": "2026-07-20 19:49:40  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "杉杉股份：控股股东变更为皖维集团，实控人变更为安徽省国资委",
+    "link": "https://36kr.com/newsflashes/3903910215435904?f=rss",
+    "summary": "36氪获悉，杉杉股份公告，公司于2026年7月20日召开临时股东会，审议通过董事会换届选举议案。第一大股东皖维集团已完成董事会改组，公司控股股东变更为皖维集团，实际控制人变更为安徽省国资委。皖维集团合计控制公司21.88%股份表决权。后续皖维集团与海螺集团等重组完成后，海螺集团将成为公司间接控股股东。",
+    "pubDate": "2026-07-20 19:48:49  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "东山精密：拟2-3亿元回购股份用于员工持股或股权激励",
+    "link": "https://36kr.com/newsflashes/3903909366302594?f=rss",
+    "summary": "36氪获悉，东山精密公告，公司拟使用自筹资金或其他合法资金，以集中竞价交易方式回购公司股份，回购资金总额为2-3亿元，回购价格不超过367.04元/股。回购股份将用于员工持股计划或者股权激励，实施期限为自董事会审议通过之日起12个月内。",
+    "pubDate": "2026-07-20 19:41:58  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "大族激光：2026年半年度净利润同比增长163.47%",
+    "link": "https://36kr.com/newsflashes/3903898092210052?f=rss",
+    "summary": "36氪获悉，大族激光公告，公司发布2026年半年度业绩快报，实现营业收入134.13亿元，同比增长76.19%；归属于上市公司股东的净利润12.86亿元，同比增长163.47%。业绩增长主要系PCB专用设备、消费电子设备、锂电及半导体设备等多个业务板块订单及营收同比大幅增长。",
+    "pubDate": "2026-07-20 19:36:28  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "氪星晚报｜SpaceX将“星舰”第13次试飞推迟至7月23日；马斯克称特斯拉FSD会模仿驾驶风格；我国人形机器人整机产品超全球半数",
+    "link": "https://36kr.com/p/3903710346790535?f=rss",
+    "summary": "大公司： 摩根士丹利成为华尔街AI债务交易头号银行 摩根士丹利已崛起为华尔街构建人工智能（AI）繁荣背后融资架构的主导力量，设计了新的债务和股权融资模式，为数据中心的大规模建设输送数百亿美元资金。据业内高管称，自去年以来，该行已成为主导顾问，牵头了规模最大、最具创新性的AI基础设施融资交易。 三星电子晶圆代工正评估将美国泰勒厂的初期生产规模扩大至原计划的2倍 据报道，三星电子晶圆代工正评估将美国泰勒厂的初期生产规模扩大至原计划的2倍。 马斯克称特斯拉FSD会模仿驾驶风格 7月20日，埃隆·马斯克已确认特斯拉FSD（Full Self-Driving）软件正在从过去的“通用型、一套方案适用...",
+    "pubDate": "2026-07-20 18:22:28  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "WAIC上，AI开始接管人类的欲望",
+    "link": "https://36kr.com/p/3903687507904387?f=rss",
+    "summary": "&nbsp; 24.8万的仿生人形机器人，“比彩礼都贵！” &nbsp; 撰文&nbsp;|&nbsp;刘思洁 编辑 | 张薇 在2026年的世界人工智能大会（WAIC）上，大模型、算力与机器人占据着核心展区的宏大叙事。但在场馆地下一层的创新展区里，AI正在撕开含蓄的面具，向下接管人类最隐秘的本能：情欲、控制欲、对失去的遗憾、对孤独的恐惧，以及对未来的迷茫困惑。 一只套着塑料壳的蛋形玩偶摆在桌子上，和人交互到一定亲密度后，它会“破壳而出”，一个毛茸茸的桌面宠物就此诞生；一个酷似Labubu的毛绒AI玩具主打亲子陪伴，父母想传递的教育内容，可以借一个AI玩偶的嘴说出来；还有一种陪伴被设计成...",
+    "pubDate": "2026-07-20 18:06:08  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
   },
   {
     "title": "上海：至2030年推动建成一批高质量绿电直连项目，电源侧开发规模达到50万千瓦",
@@ -944,11 +1632,59 @@
     "category": "tech-cn"
   },
   {
+    "title": "Detailed maps of European wetlands reveal overlooked patches of ecosystems",
+    "link": "https://www.nature.com/articles/d41586-026-02211-2",
+    "summary": "Nature, Published online: 20 July 2026; doi:10.1038/d41586-026-02211-2 Satellite images have been analysed by a machine-learning algorithm to produce high-resolution maps of wetland environments — a boon for conservation efforts.",
+    "pubDate": "2026-07-20",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "The science of foresight: how to future-proof your research",
+    "link": "https://www.nature.com/articles/d41586-026-02231-y",
+    "summary": "Nature, Published online: 20 July 2026; doi:10.1038/d41586-026-02231-y Anticipating from the start the various ways a research programme can succeed or fail can avoid problems later. Here’s how to do it.",
+    "pubDate": "2026-07-20",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Huge study finds first genetic clues for borderline personality disorder",
+    "link": "https://www.nature.com/articles/d41586-026-02220-1",
+    "summary": "Nature, Published online: 20 July 2026; doi:10.1038/d41586-026-02220-1 Largest genetic analysis of the condition so far finds 11 linked locations in the human genome.",
+    "pubDate": "2026-07-20",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "My job interviews for industry positions are going nowhere. How do I make myself stand out?",
+    "link": "https://www.nature.com/articles/d41586-026-02234-9",
+    "summary": "Nature, Published online: 20 July 2026; doi:10.1038/d41586-026-02234-9 A postdoc researcher trying to move into an industry role wants help gaining traction and making it past the first interview stage.",
+    "pubDate": "2026-07-20",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
     "title": "This unpronounceable series of glyphs is an incredible side project from Kieran Hebden (aka Four Tet)",
     "link": "https://www.theverge.com/entertainment/967696/four-tet-wingdings-album-review",
     "summary": "Just why? &#645;&#865;&#865;&#865;&#865;&#865;&#865;&#865;&#865;&#865;&#865;&#865;(&#824;&#802;&#795;&#828;&#798;&#813;&#843;&#837;)&#824;&#858;&#816;&#859;&#788;&#830;&#768;&#831;&#850;&#834;:&#820;&#851;&#798;&#785;&#780;&#770;&#774;&#778;&#843;&#768;:&#824;&#846;&#799;&#815;&#770;&#787;&#780;&...",
     "pubDate": "2026-07-19T17:02:45-04:00",
     "source": "The Verge",
     "category": "tech"
+  },
+  {
+    "title": "Daily briefing: CRISPR gets an AI-designed upgrade",
+    "link": "https://www.nature.com/articles/d41586-026-02272-3",
+    "summary": "Nature, Published online: 17 July 2026; doi:10.1038/d41586-026-02272-3 Synthetic CRISPR proteins edit the genome more efficiently than their natural counterparts. Plus, a rocky exoplanet with an atmosphere and the mathematical wonderland of footballs.",
+    "pubDate": "2026-07-17",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Daily briefing: Naked mole rat queens use a smell to stay on top",
+    "link": "https://www.nature.com/articles/d41586-026-02261-6",
+    "summary": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02261-6 Just one chemical is enough to maintain the status quo in naked mole rat colonies. Plus, the hunt for the origins of a cyclosporidia outbreak and whether it’s possible to end poverty without economic growth.",
+    "pubDate": "2026-07-16",
+    "source": "Nature",
+    "category": "science"
   }
 ]

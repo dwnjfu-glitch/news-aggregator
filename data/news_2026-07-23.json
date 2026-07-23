@@ -1,5 +1,13 @@
 [
   {
+    "title": "Your analytics are lying to you",
+    "link": "https://ankursethi.com/blog/your-analytics-are-lying-to-you/",
+    "summary": "Comments",
+    "pubDate": "Wed, 22 Jul 2026 23:51:37 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Why the UK is dithering over what to do about e-scooters",
     "link": "https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss",
     "summary": "Why is it taking so long for the government to regulate them, and what are the consequences of delay?",
@@ -62,6 +70,14 @@
     "pubDate": "Wed, 22 Jul 2026 23:06:08 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "What Rose Petals Teach Us about Induction",
+    "link": "https://www.oranlooney.com/post/rose-petals/",
+    "summary": "Comments",
+    "pubDate": "Wed, 22 Jul 2026 23:02:57 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Google burning through cash with spiralling AI costs",
@@ -205,6 +221,14 @@
     "summary": "Q2 2026 was profitable, but barely.",
     "pubDate": "Wed, 22 Jul 2026 21:15:19 +0000",
     "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "John C. Dvorak has died",
+    "link": "http://oldvcr.blogspot.com/2026/07/john-c-dvorak-has-died.html",
+    "summary": "Comments",
+    "pubDate": "Wed, 22 Jul 2026 21:09:50 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -400,12 +424,268 @@
     "category": "tech"
   },
   {
+    "title": "Quality non-fiction books are the antithesis of AI slop",
+    "link": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+    "summary": "https://book-prize-index.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49007247 Points: 348 # Comments: 117",
+    "pubDate": "Wed, 22 Jul 2026 14:18:05 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "小小云台，稳住「口袋电影机」：DJI Pocket 4P 漫谈",
+    "link": "https://sspai.com/post/112428",
+    "summary": "Pocket 一体式云台相机满是让人不容小觑的护城河与想象空间。 查看全文",
+    "pubDate": "Thu, 23 Jul 2026 15:00:00 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "让 Windows 顺眼又省心：我的新设备配置经验",
+    "link": "https://sspai.com/post/111300",
+    "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
+    "pubDate": "Thu, 23 Jul 2026 10:57:30 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "No men's Ashes Test in north of England - full 2027 schedule",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/c1e1zl2qgpxo?at_medium=RSS&at_campaign=rss",
+    "summary": "Neither Old Trafford nor Headingley will host a men's Ashes Test between England and Australia next summer.",
+    "pubDate": "Thu, 23 Jul 2026 09:01:24 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "‘The Child Is Terrified’: Measles Doctors Speak Out",
+    "link": "https://www.wired.com/story/the-child-is-terrified-measles-doctors-speak-out/",
+    "summary": "Hear from six pediatricians in measles hot spot Utah, as the US faces infection levels not seen in over three decades and prepares to lose its status as a country that eliminated the dangerous disease.",
+    "pubDate": "Thu, 23 Jul 2026 09:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Around 12,000 people evacuated in France fires",
+    "link": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
+    "summary": "A third firefighter has died in Europe while tackling ongoing wildfires across the continent.",
+    "pubDate": "Thu, 23 Jul 2026 08:56:36 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "派早报：三星发布多款折叠屏新品、索尼发布 FX5 电影摄影机等",
     "link": "https://sspai.com/post/112647",
     "summary": "OpenAI 发布面向企业用户的 OpenAI Presence，耐克宣布重构大中华区市场生态等。 查看全文",
     "pubDate": "Thu, 23 Jul 2026 08:50:21 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "Seinfeld actor apologises to reality star for 'inappropriate' sketch when she was 17",
+    "link": "https://www.bbc.co.uk/news/articles/cz64pn37138o?at_medium=RSS&at_campaign=rss",
+    "summary": "Jason Alexander said he \"truly regrets\" the Funny Or Die sketch he appeared in with Courtney Stodden.",
+    "pubDate": "Thu, 23 Jul 2026 08:37:14 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Andy Burnham's plan to collaborate with social media creators",
+    "link": "https://www.bbc.co.uk/news/articles/cy4k74xj9lyo?at_medium=RSS&at_campaign=rss",
+    "summary": "The new prime minister plans to work with influencers and social media creators to get his message out.",
+    "pubDate": "Thu, 23 Jul 2026 08:28:57 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Ex-UFC champion Andrade working as delivery driver",
+    "link": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/crmr7e7r328o?at_medium=RSS&at_campaign=rss",
+    "summary": "Jessica Andrade says she will do \"whatever it takes\" to earn a living as she recovers from injury. has been working as a delivery driver to earn extra money while she is recovering from injury.",
+    "pubDate": "Thu, 23 Jul 2026 06:52:29 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "How Sri Lanka is using drones to fight dengue fever",
+    "link": "https://www.bbc.co.uk/news/articles/cvgw8e0k1jyo?at_medium=RSS&at_campaign=rss",
+    "summary": "Dengue has killed 56 people and infected more than 77,000 in the South Asian nation this year.",
+    "pubDate": "Thu, 23 Jul 2026 06:24:58 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Stormzy, two waste paper bins and a hotbed of rebellion",
+    "link": "https://www.bbc.co.uk/sport/netball/articles/cze9zwlwy42o?at_medium=RSS&at_campaign=rss",
+    "summary": "Derived from basketball and developed by teenagers in late-Victorian England, netball is sport's great misunderstood \"girly game\". It could be heading to the Olympics in 2032.",
+    "pubDate": "Thu, 23 Jul 2026 06:20:17 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Firm hacked by rogue OpenAI models says it is 'a wake-up call'",
+    "link": "https://www.bbc.co.uk/news/articles/cdrvy3pn3r0o?at_medium=RSS&at_campaign=rss",
+    "summary": "A co-founder of start-up Hugging Face told the BBC that most firms are not aware that the \"game has changed\".",
+    "pubDate": "Thu, 23 Jul 2026 06:18:37 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
+    "link": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
+    "summary": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.",
+    "pubDate": "Thu, 23 Jul 2026 06:09:13 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Ann Widdecombe public memorial to be held later this year, family says",
+    "link": "https://www.bbc.co.uk/news/articles/cddj9edj76eo?at_medium=RSS&at_campaign=rss",
+    "summary": "It will follow a private funeral for family and close friends, which will be held in the coming weeks.",
+    "pubDate": "Thu, 23 Jul 2026 05:46:48 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Cruller: Bun's Zig Runtime, Continued on Zig 0.16",
+    "link": "https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734",
+    "summary": "Article URL: https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734 Comments URL: https://news.ycombinator.com/item?id=49017344 Points: 38 # Comments: 12",
+    "pubDate": "Thu, 23 Jul 2026 05:40:20 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Is 2026 the Commonwealth Games' last dance or a future-proofing revamp?",
+    "link": "https://www.bbc.co.uk/sport/articles/cj9dnk2p2dlo?at_medium=RSS&at_campaign=rss",
+    "summary": "It's been going for 96 years - but many doubted the 2026 Commonwealth Games, which open in Glasgow on Thursday, would happen. So what could the future hold for the event?",
+    "pubDate": "Thu, 23 Jul 2026 05:25:35 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Amiga 1000: Ten years ahead of its time",
+    "link": "https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/",
+    "summary": "Article URL: https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/ Comments URL: https://news.ycombinator.com/item?id=49017265 Points: 66 # Comments: 34",
+    "pubDate": "Thu, 23 Jul 2026 05:24:17 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "I became a nurse after my husband died from Covid - now I'm determined to get a job",
+    "link": "https://www.bbc.co.uk/news/articles/cz7dq4p7qneo?at_medium=RSS&at_campaign=rss",
+    "summary": "Rachel Ohene-Adjei took her GCSEs after her husband died, and has now graduated with a nursing degree.",
+    "pubDate": "Thu, 23 Jul 2026 05:18:18 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "One month, two record transfers - why English midfielders are in demand",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cr596gzy8j3o?at_medium=RSS&at_campaign=rss",
+    "summary": "Elliot Anderson and Morgan Rogers both sold for record transfer fees, so why are English midfielders so in demand?",
+    "pubDate": "Thu, 23 Jul 2026 05:15:52 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Fatboy Slim helps to save 'lifeblood' music venue",
+    "link": "https://www.bbc.co.uk/news/articles/cevmgv9g77do?at_medium=RSS&at_campaign=rss",
+    "summary": "The DJ is among investors including Andy Burnham helping to buy the Brighton home of The Pipeline.",
+    "pubDate": "Thu, 23 Jul 2026 05:12:43 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Police officer was violent rapist who attacked women over 14 years, BBC reveals",
+    "link": "https://www.bbc.co.uk/news/articles/c3v0rq66q3no?at_medium=RSS&at_campaign=rss",
+    "summary": "The BBC can reveal that detectives have so far uncovered nine victims of PC Alan Greer but many more are anticipated.",
+    "pubDate": "Thu, 23 Jul 2026 05:12:30 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "These Catholic sisters want to start a new order with a difficult mission: helping clergy abuse survivors",
+    "link": "https://www.npr.org/2026/07/23/g-s1-134254/these-catholic-sisters-want-to-start-a-new-order-with-a-difficult-mission-helping-clergy-abuse-survivors",
+    "summary": "Sisters Theresa Alethia and Danielle Lussier call themselves the Sisters of the Little Way of Beauty, Truth and Goodness. Their order plans to help victims of abuse.",
+    "pubDate": "Thu, 23 Jul 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "How predominantly Black areas in 6 states have been split up by redistricting",
+    "link": "https://www.npr.org/2026/07/23/nx-s1-5896335/black-voters-republican-redistricting",
+    "summary": "These maps show that the redistricting battle President Trump initiated has so far had a particular impact on largely Black congressional districts in Republican-led states.",
+    "pubDate": "Thu, 23 Jul 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "The White House pushes healthy eating. It cut a landmark nutrition education program",
+    "link": "https://www.npr.org/2026/07/23/nx-s1-5896280/snap-ed-healthy-eating-cuts-maha",
+    "summary": "Nutrition advocates and public health experts are mystified by the decision to eliminate SNAP-Ed, given the Trump administration's embrace of the Make America Healthy Again agenda.",
+    "pubDate": "Thu, 23 Jul 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "DOT cranks up its campaign to strip bike lane references from federal websites",
+    "link": "https://www.npr.org/2026/07/23/nx-s1-5900901/bike-lanes-dot-websites",
+    "summary": "Transportation officials have removed a growing list of safety materials that mention bike lanes from federal websites. Safety advocates warn that's undermining proven measures for reducing crashes.",
+    "pubDate": "Thu, 23 Jul 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "After deadly shootings, police experts question how well ICE officers are vetted",
+    "link": "https://www.npr.org/2026/07/23/nx-s1-5903173/police-experts-question-ice-officer-vetting",
+    "summary": "The recent fatal shootings by ICE officers in Texas and Maine come at a time when the federal agency has hired a huge number of officers quickly. Some law enforcement experts worry that this kind of a hiring spree can lead police agencies to cut corners in vetting new hires.",
+    "pubDate": "Thu, 23 Jul 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "A town renamed its festival 'AI Love Irondale Day.' Then came the comments",
+    "link": "https://www.npr.org/2026/07/23/nx-s1-5896481/data-center-backlash-ai-love-irondale-day",
+    "summary": "The online outcry over the renaming of a summer festival illustrates the unease over the data center boom in the South.",
+    "pubDate": "Thu, 23 Jul 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "FDA panel considers easing peptide restrictions",
+    "link": "https://www.npr.org/2026/07/23/nx-s1-5903202/fda-peptides-restrictions",
+    "summary": "Advisers to the Food and Drug Administration are weighing the evidence for seven different peptides. Favorable votes would pave the way for easier access.",
+    "pubDate": "Thu, 23 Jul 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "'New York Times' alleges White House abuses legal system to intimidate reporters",
+    "link": "https://www.npr.org/2026/07/23/nx-s1-5903854/trump-new-air-force-one-nyt-subpoenas",
+    "summary": "The New York Times will argue in court Thursday that the White House is abusing the justice system to intimidate reporters over a story that angered President Trump.",
+    "pubDate": "Thu, 23 Jul 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "'What was their crime?': BBC visits Iran school where strike killed 120 children",
+    "link": "https://www.bbc.co.uk/news/articles/cewrx0ldlkko?at_medium=RSS&at_campaign=rss",
+    "summary": "Nearly five months on, grief is still raw as a teacher and a mother recall the horror of the attack in Minab.",
+    "pubDate": "Thu, 23 Jul 2026 04:49:24 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Morning news brief",
+    "link": "https://www.npr.org/2026/07/23/nx-s1-5895984/morning-news-brief",
+    "summary": "Trump administration signs nuclear cooperation agreement with Saudi Arabia, Trump ramps up aggression against Iran despite declining support, House passes Pentagon funding bill.",
+    "pubDate": "Thu, 23 Jul 2026 04:47:19 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Orcas team up to ram sunfish until they explode",
+    "link": "https://arstechnica.com/science/2026/07/orcas-team-up-to-ram-sunfish-until-they-explode/",
+    "summary": "“We think this may help younger orcas feed more easily, or it could also just be for fun.”",
+    "pubDate": "Thu, 23 Jul 2026 04:00:38 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
   },
   {
     "title": "Houthis claim attack on oil tankers as US launches more strikes on Iran",
@@ -440,11 +720,27 @@
     "category": "tech"
   },
   {
+    "title": "OpenAI blamed a hacking event on its AI models gone rogue. Here is what to know",
+    "link": "https://www.npr.org/2026/07/23/g-s1-135085/openai-hacking-ai-models",
+    "summary": "The incident is stirring debates over the need for stronger AI guardrails and the extent to which AI agents are capable of acting on their own.",
+    "pubDate": "Thu, 23 Jul 2026 01:23:42 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "Codeberg Bans Cryptocurrency Projects",
     "link": "https://codeberg.org/Codeberg/org/pulls/1254",
     "summary": "Article URL: https://codeberg.org/Codeberg/org/pulls/1254 Comments URL: https://news.ycombinator.com/item?id=49015588 Points: 153 # Comments: 180",
     "pubDate": "Thu, 23 Jul 2026 01:06:56 +0000",
     "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Pip 26.2: –only-deps solves 16 years of app deployment hacks",
+    "link": "https://jamesoclaire.com/2026/07/23/pip-26-2-only-deps-solves-16-years-of-app-deployment-hacks/",
+    "summary": "Comments",
+    "pubDate": "Thu, 23 Jul 2026 00:50:21 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -454,6 +750,182 @@
     "pubDate": "Thu, 23 Jul 2026 00:33:21 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "证监会同意信诺维科创板IPO注册",
+    "link": "https://36kr.com/newsflashes/3907997226062984?f=rss",
+    "summary": "36氪获悉，证监会日前下发关于同意苏州信诺维医药科技股份有限公司首次公开发行股票注册的批复，同意该公司首次公开发行股票并在科创板上市的注册申请。",
+    "pubDate": "2026-07-23 17:00:21  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "中广核云南新能源公司增资至138.8亿，增幅约13782%",
+    "link": "https://36kr.com/newsflashes/3907959514600579?f=rss",
+    "summary": "36氪获悉，天眼查App显示，近日，中广核云南新能源有限公司发生工商变更，新增建信金融资产投资有限公司、信银金融资产投资有限公司等为股东，同时，注册资本由1亿人民币增至约138.8亿人民币，增幅约13782%。该公司成立于2025年9月，法定代表人为普智勇，经营范围包括发电业务、储能技术服务等。",
+    "pubDate": "2026-07-23 16:50:58  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "北京：鼓励发展Token（词元）经济，加大算力券等支持力度",
+    "link": "https://36kr.com/newsflashes/3907987232035975?f=rss",
+    "summary": "36氪获悉，北京市发展改革委等部门联合印发《北京市关于加快智能体引领发展的若干措施》，推动智能体创新引领发展，率先培育智能经济新形态。鼓励发展Token(词元)经济。推动创新主体研发适配智能体系统调用、复杂任务调度与高频决策的通用处理器，开发低延迟、高吞吐专用推理芯片。推动创新主体开展推理架构等关键技术攻关，通过异构协同、存算协同以及智能调度等降低推理成本，加快推理缓存复用、智能任务路由等应用层效率优化，全链路优化提高Token效率。重构产品形态和服务模式，培育Token即服务（TaaS）、智能体即服务（AaaS）、结果即服务（RaaS）等商业新模式，推动更多符合条件的Token新产品新...",
+    "pubDate": "2026-07-23 16:50:11  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "商务部：1-6月，商务部重点联系商品市场利润额同比增长9.6%",
+    "link": "https://36kr.com/newsflashes/3907986264102277?f=rss",
+    "summary": "36氪获悉，商务部流通发展司负责人谈2026年1-6月我国批发和零售业发展情况，据国家统计局数据，1-6月，我国批发和零售业增加值7.2万亿元，同比增长3.7%，占GDP比重为10.4%。我国批发和零售业发展稳中有进，为全方位扩大国内需求、建设强大国内市场提供有力支撑。批零行业运行平稳，业态结构持续优化。从批发业看，1-6月，商务部重点联系商品市场利润额同比增长9.6%，其中工业消费品类利润总额同比增长11.6%。从零售业看，据国家统计局数据，1-6月，限额以上零售业单位中便利店、超市零售额同比分别增长6.6%、3.8%，仓储会员店、无人值守商店零售额同比增速均超过25%，集合店、购物中...",
+    "pubDate": "2026-07-23 16:49:12  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "SpaceX人工智能部门计划在得克萨斯州大规模扩建数据中心",
+    "link": "https://36kr.com/newsflashes/3907960655975815?f=rss",
+    "summary": "三名知情人士透露，埃隆・马斯克旗下人工智能企业SpaceXAI正筹备在得克萨斯州建设至少一座全新大型数据中心。此番布局或将大幅扩充SpaceX的AI算力规模，现有算力枢纽位于田纳西州孟菲斯。扩建落地后，SpaceXAI有望跻身主流云服务商行列。目前其原生AI业务拓展不及预期，公司已接连达成多项合作，向外部企业出租算力资源。（新浪财经）",
+    "pubDate": "2026-07-23 16:41:09  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "科汇股份：拟对全资子公司增资",
+    "link": "https://36kr.com/newsflashes/3907963295274370?f=rss",
+    "summary": "36氪获悉，科汇股份公告，为优化子公司资本结构，降低财务风险，更好地满足子公司业务发展所产生的资金需求，公司拟以自有资金向全资子公司青岛科汇增资7000万元，向济南科汇增资1200万元，向山东科汇万川增资5000万元，向淄博科汇增资3000万元。",
+    "pubDate": "2026-07-23 16:36:51  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "上海：“十五五”时期力争年均演出达6.5万场",
+    "link": "https://36kr.com/newsflashes/3907970478019977?f=rss",
+    "summary": "上海市新闻发布会7月23日举行，解读《上海市社会主义国际文化大都市建设“十五五”规划》有关情况。上海市委宣传部常务副部长、上海市精神文明办主任方世忠表示，“十五五”时期，上海要推动江南水乡古镇联合申遗。在“一团一策”改革基础上，组建上海新型国有演艺集团，持续深化上海国有文艺院团改革。加快建设“亚洲演艺之都”，力争全市年均演出达6.5万场。（证券时报）",
+    "pubDate": "2026-07-23 16:33:08  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "2025年上海文化及相关产业企业实现营业收入首次突破1.4万亿元",
+    "link": "https://36kr.com/newsflashes/3907970111280265?f=rss",
+    "summary": "上海市新闻发布会7月23日举行，解读《上海市社会主义国际文化大都市建设“十五五”规划》有关情况。上海市委宣传部常务副部长、上海市精神文明办主任方世忠表示，2025年，上海文化及相关产业企业实现营业收入首次突破1.4万亿元，文化新业态企业营收同比增长10.0%，占全市文化营收56.6%。2025年，上海接待入境游客936.02万人次，已经成为“中国入境旅游第一站”。（证券时报）",
+    "pubDate": "2026-07-23 16:32:46  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "湖南黄金：重大资产重组获湖南省国资委批复",
+    "link": "https://36kr.com/newsflashes/3907962922358151?f=rss",
+    "summary": "36氪获悉，湖南黄金公告，公司拟通过发行股份方式购买湖南黄金天岳矿业100%股权及湖南中南黄金冶炼100%股权，并募集配套资金不超过10亿元。该方案已获湖南省国资委原则批复，尚需提交股东会审议及相关批准。",
+    "pubDate": "2026-07-23 16:32:28  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "金海通：7月22日股东旭诺投资减持公司总股本的1.21%",
+    "link": "https://36kr.com/newsflashes/3907961562043782?f=rss",
+    "summary": "36氪获悉，金海通公告，公司持股5%以上股东宁波旭诺创业投资基金管理合伙企业(有限合伙)于2026年7月22日通过集中竞价和大宗交易合计减持公司股份105.01万股，占公司总股本的1.21%。本次权益变动后，旭诺投资持股比例由7.95%降至6.75%，触及1%刻度。本次减持不涉及要约收购，不会导致公司控股股东及实际控制人变化。",
+    "pubDate": "2026-07-23 16:24:04  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "专访郭列：做出脸萌、FaceU、剪映等爆款后，他第一次阐释如何在AI时代做产品",
+    "link": "https://36kr.com/p/3907953777120385?f=rss",
+    "summary": "文｜周鑫雨 编辑｜张雨忻 什么样画像的AI创业者会饱受瞩目？不同投资人心里或许有不同的答案，但其中一个答案一定是：剪映系。 陈冕，Lovart、LibTV等热门创作工具的缔造者；明超平，AI Coding社区YouWare的创始人，2025年一级市场最火的95后；闹闹，其打造的AI视频创作工具OiiOii，被高瓴、锦秋投资...... 他们履历的共同点是：曾在剪映、CapCut团队——参与过这两款过亿日活产品的打磨，这让投资人有理由相信，这群“剪映系”创业者了解用户、有产品审美，更可能在这波AI浪潮中押中消费级的机会。 但很长一段时间内，“剪映系”真正的起点，郭列，隐身在2022年起的A...",
+    "pubDate": "2026-07-23 16:16:42  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "商务部：消费品以旧换新政策投入资金撬动比提升至1:10.3",
+    "link": "https://36kr.com/newsflashes/3907952323843208?f=rss",
+    "summary": "7月23日，商务部市场运行和消费促进司司长杨沐在国新办新闻发布会上表示，今年以来，消费品以旧换新政策稳住了消费市场基本盘，投入资金撬动比由去年的1:7.8提升至了目前的1:10.3，带动销售额超过1.25万亿元，受益面达到了1.69亿人次，有力支撑了消费平稳增长，促进了产业升级发展，带动了资源循环利用。（证券时报）",
+    "pubDate": "2026-07-23 16:14:40  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "商务部：上半年办理退税境外旅客人数同比增长约四倍",
+    "link": "https://36kr.com/newsflashes/3907952066663555?f=rss",
+    "summary": "7月23日，商务部市场运行和消费促进司司长杨沐在国新办新闻发布会上表示，离境退税2.0版政策激发了入境消费活力，离境退税商店已经超过1.5万家，上半年办理退税的境外旅客人数同比增长了约4倍。（证券时报）",
+    "pubDate": "2026-07-23 16:14:25  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "恒指收涨1.28%，恒生科技指数涨0.65%",
+    "link": "https://36kr.com/newsflashes/3907949488968837?f=rss",
+    "summary": "36氪获悉，恒指收涨1.28%，恒生科技指数涨0.65%；科技股走强，美团涨超4%，百度集团、联想集团涨超2%；半导体板块走弱，兆易创新跌超4%，中芯国际跌近3%；南向资金净流出42.26亿港元。",
+    "pubDate": "2026-07-23 16:11:47  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "独家｜混元多模态理解负责人胡瀚离职创业，原团队或将聚焦世界模型",
+    "link": "https://36kr.com/p/3907934819521670?f=rss",
+    "summary": "文 | 周鑫雨 编辑 | 张雨忻 《智能涌现》独家获悉，近期，腾讯混元多模态理解负责人胡瀚提出了离职。 此前，他曾担任微软亚洲研究院视觉计算组首席研究员。2025 年初加入腾讯后，负责视觉大模型的研究。在后续的调整中，他加入大语言模型部旗下的“Frontier”前沿技术研究组，负责多模态理解的相关研究，汇报给姚顺雨。 据了解，胡瀚还曾承担世界模型的研发工作。 与此同时，腾讯大语言模型部负责人姚顺雨近期正在密集梳理旗下团队， 胡瀚此前所在的研究组或将聚焦世界模型的前沿研究 。 截至发稿，腾讯未对上述信息做回复。 大语言模型仍是混元最重要的事 自 2026 年年中以来，围绕混元体系的人员变动...",
+    "pubDate": "2026-07-23 16:07:02  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "商务部：中美双方经贸团队正在探讨推进各自300亿美元规模的对等降税的框架安排",
+    "link": "https://36kr.com/newsflashes/3907942272062601?f=rss",
+    "summary": "7月23日，商务部外国投资管理司司长孟华婷在国新办新闻发布会上表示，美国总统特朗普访华期间，中美两国元首确定了中美建设性战略稳定关系的这个新定位，肯定了双方经贸团队达成的总体平衡积极的成果。其中，双方同意建立贸易理事会和投资理事会。目前，中美双方经贸团队正在就贸易理事会架构、职能运行模式等具体安排保持密切的沟通，并探讨推进各自300亿美元规模的对等降税的框架安排。中方正在就相关降税安排建议，广泛地征求国内企业商协会、地方政府以及美资企业商协会等利益相关方的意见。美方也在就贸易理事会及对等降税安排征求公众评论意见。双方将保持密切交流，尽快商定具体产品降税安排，并推动实施，进一步拓展双边贸易...",
+    "pubDate": "2026-07-23 16:04:27  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "扩博智能Sparrow机器人27分钟修复单支叶片，刷新海上风电运维纪录",
+    "link": "https://36kr.com/newsflashes/3907933884913025?f=rss",
+    "summary": "36氪获悉，沃旭能源宣布，其在丹麦Horns Rev 2海上风电场与扩博智能合作的Sparrow机器人叶片修复项目，将单支叶片修复时间缩短至27分钟，单日最高完成8支叶片修复，运维效率最高提升10倍，成本降低50%-75%。",
+    "pubDate": "2026-07-23 15:55:55  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "SK海力士将股票转换为美国存托凭证的比例上限设定为2.5%",
+    "link": "https://36kr.com/newsflashes/3907919284606343?f=rss",
+    "summary": "SK海力士将韩交所上市股票可转换为美股存托凭证（ADR）的总量上限设定为公司已发行总股本的2.5%。此次265亿美元ADR发行已用尽全部转换额度，除非现有ADR持有者先将美股存托凭证换回韩国本土股票，否则投资者无法再用韩股兑换ADR。SK海力士ADR相对韩交所挂牌股票长期存在溢价，转换额度限制或令两地价差持续扩大、存续更久。（新浪财经）",
+    "pubDate": "2026-07-23 15:41:04  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "商务部：将进一步做强国内大循环，做优国内国际双循环",
+    "link": "https://36kr.com/newsflashes/3907916721968512?f=rss",
+    "summary": "7月23日，商务部副部长鄢东在新闻发布会上表示，今年以来，按照党中央、国务院部署，抓紧推进商务领域相关“十五五”专项规划的制定和落实工作。下一步，将持续聚焦高质量发展这一首要任务，不断提升政策效能，进一步做强国内大循环，做优国内国际双循环，为国民经济发展作出新的积极贡献。（证券时报）",
+    "pubDate": "2026-07-23 15:38:27  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "山东省财金科创产业服务合伙企业登记成立，出资额2.9亿",
+    "link": "https://36kr.com/newsflashes/3907907366737025?f=rss",
+    "summary": "36氪获悉，天眼查App显示，近日，山东省财金科创产业服务合伙企业（有限合伙）成立，执行事务合伙人为山东财金星空农业科技发展有限公司，出资额2.9亿人民币，经营范围包括创业空间服务、以自有资金从事投资活动、企业管理咨询等。合伙人信息显示，该合伙企业由山东省财金乡村振兴有限公司、山东财金星空农业科技发展有限公司共同出资。",
+    "pubDate": "2026-07-23 15:28:56  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "商务部：将加快培育服务消费新增长点",
+    "link": "https://36kr.com/newsflashes/3907904445502849?f=rss",
+    "summary": "7月23日，商务部副部长鄢东在国新办新闻发布会上表示，近期商务部会同有关部门出台了铁旅融合、家政高质量发展、培育壮大汽车后市场等服务消费新增长点政策文件，商务部将抓好贯彻落实。同时，还将围绕交通、演出、赛事等细分领域，进一步创新支持举措，鼓励地方积极培育服务消费新增长点的有效路径。（证券时报）",
+    "pubDate": "2026-07-23 15:25:58  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "不拼通用能力、聚焦端侧，腾讯副总裁林松涛：Marvis专注做好系统级操作",
+    "link": "https://36kr.com/p/3907676111983745?f=rss",
+    "summary": "文｜王欣逸 编辑｜张雨忻 “技术突破决定AI能走多快，真正能否创造价值决定AI能走多远。”在今年的WAIC腾讯AI应用创新论坛上，腾讯公司副总裁林松涛分享了这样一个观点。 同样是“Claw热”之后上线的产品，腾讯的三大Agent产品WorkBuddy、QClaw和Marvis迎来了各自不同的命运。 首先是WorkBuddy，林松涛在此次论坛上公开表示，WorkBuddy的DAU已稳居国内效率智能体产品第一；QClaw方面，相关业务和部分团队在近日也迎来了调整，并入至WorkBuddy所在部门，不过QClaw产品仍将持续运营；上线最晚的Marvis则走出了一条差异化的系统级Agent路线，...",
+    "pubDate": "2026-07-23 12:23:24  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
   },
   {
     "title": "上海：鼓励公募基金、银行理财等资产管理机构设立更多科创主题ETF基金、科创理财产品等",
@@ -662,6 +1134,14 @@
     "pubDate": "2026-07-23 07:58:11  +0800",
     "source": "36Kr",
     "category": "tech-cn"
+  },
+  {
+    "title": "Breathalyser can tell if you are burning fat from a single exhale",
+    "link": "https://www.nature.com/articles/d41586-026-02295-w",
+    "summary": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02295-w The compact device can measure when the body is in ketosis and could help people to manage weight loss.",
+    "pubDate": "2026-07-23",
+    "source": "Nature",
+    "category": "science"
   },
   {
     "title": "Could small-team science be dying out?",

@@ -1,5 +1,93 @@
 [
   {
+    "title": "Mr Motivator delivers fitness class at care home",
+    "link": "https://www.bbc.co.uk/news/articles/c36de4jz4e5o?at_medium=RSS&at_campaign=rss",
+    "summary": "The 90s TV legend brightens up the day for a group of residents at a facility in West Yorkshire.",
+    "pubDate": "Wed, 22 Jul 2026 07:13:07 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Organ donation helped save seven lives after crash",
+    "link": "https://www.bbc.co.uk/news/articles/c77gjz0gkx5o?at_medium=RSS&at_campaign=rss",
+    "summary": "Tributes are paid to Edward Pearce after the 20-year-old died in a crash on the A27 near Pevensey.",
+    "pubDate": "Tue, 21 Jul 2026 16:21:13 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "手冲咖啡指北：天太热了，来做一杯不寡淡的冰手冲吧",
+    "link": "https://sspai.com/post/112421",
+    "summary": "「太热了，今天不聊了，赶紧回去吹空调。」 查看全文",
+    "pubDate": "Sun, 26 Jul 2026 15:28:01 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "How rapper Aitch's sister inspired him to climb one of the world's toughest peaks",
+    "link": "https://www.bbc.co.uk/news/articles/cx2dgl98lxko?at_medium=RSS&at_campaign=rss",
+    "summary": "The rapper has been taking on challenges to raise awareness and money for the Down's Syndrome Association.",
+    "pubDate": "Sun, 26 Jul 2026 07:40:27 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "After chaotic return, where does Joshua win leave Fury fight?",
+    "link": "https://www.bbc.co.uk/sport/boxing/articles/cgr7gyv8zq0o?at_medium=RSS&at_campaign=rss",
+    "summary": "Where does Anthony Joshua's chaotic comeback win over Kristian Prenga leave the super-fight with Tyson Fury?",
+    "pubDate": "Sun, 26 Jul 2026 07:33:35 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "France battles fire 'whirlwinds' as another 55,000 evacuated",
+    "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+    "summary": "More than 340,000 people have now been evacuated from wildfires in France and Spain.",
+    "pubDate": "Sun, 26 Jul 2026 07:21:11 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Gomez injury overshadows winning start for Iraola",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cm2genrg72do?at_medium=RSS&at_campaign=rss",
+    "summary": "Liverpool start life under Andoni Iraola with a 4-2 win over Sunderland thanks to goals from Kieran Morrison, Dominik Szoboszlai, Federico Chiesa and Lewis Koumas.",
+    "pubDate": "Sun, 26 Jul 2026 06:25:17 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "GrapheneOS protections against data extraction from locked devices",
+    "link": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
+    "summary": "Article URL: https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices Comments URL: https://news.ycombinator.com/item?id=49055169 Points: 35 # Comments: 6",
+    "pubDate": "Sun, 26 Jul 2026 05:57:22 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Andy Burnham rules out early election in exclusive BBC interview",
+    "link": "https://www.bbc.co.uk/news/videos/c935kzyq6r4o?at_medium=RSS&at_campaign=rss",
+    "summary": "The new prime minister told Laura Kuenssberg that people \"voted for a manifesto\" that he would honour, when pressed on whether there will be an early general election.",
+    "pubDate": "Sun, 26 Jul 2026 05:00:56 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Burnham says he is prepared to call out Trump 'if right for Britain'",
+    "link": "https://www.bbc.co.uk/news/articles/clye651yzdjo?at_medium=RSS&at_campaign=rss",
+    "summary": "Speaking exclusively to the BBC, the prime minister says he had a good first conversation with the US president and insists \"you have to defend your own national interest\".",
+    "pubDate": "Sun, 26 Jul 2026 05:00:14 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "W4ME Station – a WASM-4 runtime for Java ME phones",
+    "link": "https://github.com/mulfyx/w4me-station",
+    "summary": "Article URL: https://github.com/mulfyx/w4me-station Comments URL: https://news.ycombinator.com/item?id=49054697 Points: 15 # Comments: 3",
+    "pubDate": "Sun, 26 Jul 2026 04:19:59 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "UK papers: 'Burnham's big spree' and Streeting 'bid to win back Trump'",
     "link": "https://www.bbc.co.uk/news/articles/cx2592ynxgyo?at_medium=RSS&at_campaign=rss",
     "summary": "Prime Minister Andy Burnham's policy proposals are prominent across Sunday's papers.",
@@ -208,6 +296,14 @@
     "category": "tech"
   },
   {
+    "title": "What is happening to jobs? Separating AI hype from reality",
+    "link": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
+    "summary": "Article URL: https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality Comments URL: https://news.ycombinator.com/item?id=49052570 Points: 84 # Comments: 92",
+    "pubDate": "Sat, 25 Jul 2026 22:51:10 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "Cloudflare's new AI traffic options for customers",
     "link": "https://blog.cloudflare.com/content-independence-day-ai-options/",
     "summary": "Article URL: https://blog.cloudflare.com/content-independence-day-ai-options/ Comments URL: https://news.ycombinator.com/item?id=49052564 Points: 60 # Comments: 39",
@@ -344,6 +440,14 @@
     "category": "tech"
   },
   {
+    "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+    "link": "https://github.com/slvDev/esp32-ai",
+    "summary": "Article URL: https://github.com/slvDev/esp32-ai Comments URL: https://news.ycombinator.com/item?id=49050512 Points: 178 # Comments: 39",
+    "pubDate": "Sat, 25 Jul 2026 18:59:50 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "Maybe we should revisit microkernels",
     "link": "https://notes.hella.cheap/maybe-we-should-revisit-microkernels.html",
     "summary": "Comments",
@@ -382,6 +486,166 @@
     "pubDate": "Sat, 25 Jul 2026 15:52:49 -0500",
     "source": "Lobsters",
     "category": "tech"
+  },
+  {
+    "title": "'Extraordinary sight' of rare bird from Asia spotted in UK",
+    "link": "https://www.bbc.co.uk/news/videos/c8dnmv7356do?at_medium=RSS&at_campaign=rss",
+    "summary": "A long-tailed shrike has been spotted in Eastleach in Gloucestershire after flying off course from Asia.",
+    "pubDate": "Mon, 20 Jul 2026 16:23:06 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "湖北能源：江陵电厂二期项目全面建成投产",
+    "link": "https://36kr.com/newsflashes/3912223423731074?f=rss",
+    "summary": "7月26日，湖北能源公告称，近日，公司江陵二期项目2号机组顺利通过168小时满负荷试运行，正式投入商业运营，标志着江陵二期项目全面建成投产。该项目拟配置2台66万千瓦超超临界二次再热燃煤机组，项目总投资不超过54.65亿元。江陵二期项目由湖北能源全资子公司湖北能源集团江陵发电有限公司控制运营，本项目应用66万千瓦超超临界二次再热技术，主要技术指标先进，符合现代煤电清洁化的发展方向。（界面新闻）",
+    "pubDate": "2026-07-26 16:39:27  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "马斯克警告SpaceX空头风险",
+    "link": "https://36kr.com/newsflashes/3912221918107015?f=rss",
+    "summary": "本周特斯拉由于二季度业绩不及预期，财报发布后的第二天股价大跌约14.5%，市值蒸发了约2145亿美元。而马斯克的另一家太空探索技术公司SpaceX目前距离首次公开募股过去一个多月，股价跌破了发行价，并且押注其股价下跌的投资者还在不断增加。数据显示，目前SpaceX的空头仓位已上升至流通股的约32%。对此，马斯克警告称，长期维持SpaceX大规模空头仓位的机构，“生存概率非常低”。现在市场还在关注的就是SpaceX和特斯拉是否可能合并，对此马斯克在财报会上既没有承认，也没有否认，只是表示两家公司之间的业务重叠会越来越多。目前部分华尔街的分析人士越来越看好两家公司最终将达成交易。（央视财经）",
+    "pubDate": "2026-07-26 16:37:56  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "百利天恒：注射用T-Bren治疗胆道癌III期临床试验完成首例受试者入组",
+    "link": "https://36kr.com/newsflashes/3912220595017093?f=rss",
+    "summary": "7月26日，百利天恒公告称，公司自主研发的创新生物药注射用T-Bren(HER2ADC)在HER2表达的经含铂化疗治疗失败的局部晚期或转移性胆道癌III期随机对照临床试验已完成首例受试者入组。该药物具有同类最佳潜力，目前正在国内外开展19项临床试验，覆盖一线及二线以上HER2阳性乳腺癌、HER2阳性乳腺癌术后辅助、HER2阳性乳腺癌新辅助治疗和HER2低表达乳腺癌、HER2阳性胃或胃食管结合部腺癌、HER2突变的非鳞状非小细胞肺癌和HER2阳性含铂化疗失败胆道癌，以及肺癌、消化道肿瘤、泌尿系统肿瘤和妇科肿瘤等多项适应症。（财联社）",
+    "pubDate": "2026-07-26 16:36:35  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "新点软件：预计上半年净亏损6302.10万元",
+    "link": "https://36kr.com/newsflashes/3912184409396353?f=rss",
+    "summary": "7月26日，新点软件发布中期业绩预告，预计2026年上半年净亏损6302.10万元左右，与上年同期（法定披露数据）相比，亏损将增加 84.39 万元左右。（每日经济新闻）",
+    "pubDate": "2026-07-26 15:59:46  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "*ST元道：公司股票可能因市值低于3亿元被终止上市",
+    "link": "https://36kr.com/newsflashes/3912183328347269?f=rss",
+    "summary": "7月26日，*ST元道(301139.SZ)公告称，7月24日，公司股票收盘价为2.39元/股，收盘市值为2.91亿元，首次出现股票收盘市值低于3亿元。根据规定，若公司出现连续20个交易日的股票收盘市值均低于3亿元，公司股票将被终止上市。（财联社）",
+    "pubDate": "2026-07-26 15:58:40  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "LV因楼盘外立面装饰侵权起诉开发商？法院回应来了",
+    "link": "https://36kr.com/newsflashes/3912182569178500?f=rss",
+    "summary": "7月26日，厦门市湖里区人民法院发布情况通报，网传案情“路易威登公司起诉地产开发商，因楼盘外立面四叶类雕花装饰商标侵权”不属实。经核实，该案系路易威登公司起诉某小区沿街服装店经营者彭某销售侵犯其注册商标的服装，其余被告系因怠于履行管理职责被诉承担相应责任，案件与网传楼盘外立面雕花装饰没有关联。目前该案尚未开庭。（第一财经）",
+    "pubDate": "2026-07-26 15:57:54  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "亿田智能：子公司拟不超20亿元采购服务器及配套设备，为客户提供算力服务",
+    "link": "https://36kr.com/newsflashes/3912181723518084?f=rss",
+    "summary": "7月26日，亿田智能公告称，公司全资子公司甘肃亿算拟向多家供应商采购服务器及配套设备，采购合同总金额预计不超过20亿元。本次采购主要用于为客户提供算力服务，不构成重大资产重组或关联交易。通过此次采购，公司能够加速构建自身的AI算力资源。亿田智能同时提示，公司算力业务尚处于业务拓展初期，公司主营业务仍为集成灶等厨房电器相关业务，整体经营基本面未发生变化。（财联社）",
+    "pubDate": "2026-07-26 15:57:02  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "福特公司召回超56万辆汽车",
+    "link": "https://36kr.com/newsflashes/3912150835680647?f=rss",
+    "summary": "7月26日，据美国媒体报道，美国福特汽车公司近日宣布召回56万5691辆福特“烈马”和“烈马猛禽”汽车，涉及2021至2026款车型。福特公司估计，这些汽车中约有1%的车辆存在发动机舱线束缺陷，可能发生短路，增加起火风险。目前尚未收到与此问题相关的事故或人员伤亡报告。（财联社）",
+    "pubDate": "2026-07-26 15:25:37  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "2026年暑期档电影票房已破55亿元，超去年同期10亿元",
+    "link": "https://36kr.com/newsflashes/3912149968409736?f=rss",
+    "summary": "7月26日，据网络平台数据，截至目前，2026年暑期档电影总票房（含预售）已突破55亿元，超去年暑期档同期10亿元。其中，喜剧动画片《八仙！》上映8天就取得超6亿元票房的优异成绩。喜剧运动题材电影《功夫女足》目前票房已超18.8亿元，暂列年度票房第三位。（央视新闻）",
+    "pubDate": "2026-07-26 15:24:44  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "三部门调拨2.5万件物资支持粤赣湘等地救灾救助工作",
+    "link": "https://36kr.com/newsflashes/3912149644727683?f=rss",
+    "summary": "据央视新闻，7月26日，国家防灾减灾救灾委员会办公室、应急管理部针对台风“红霞”影响，根据广东、江西、湖南等地防汛防台风救灾工作需要，会同国家粮食和物资储备局向三省调拨折叠床、折叠桌凳、毛巾被、夏凉被、家庭应急包等2.5万件中央救灾物资，支持地方妥善做好受灾群众紧急避险转移和安置救助工作。（央视新闻）",
+    "pubDate": "2026-07-26 15:24:24  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "沪市一周新增增持回购计划最高158亿元，年内金额上限776亿元",
+    "link": "https://36kr.com/newsflashes/3912147209983368?f=rss",
+    "summary": "近日，沪市上市公司增持回购浪潮持续涌动，产业资本入市步伐提速。据统计，7月20日～7月26日期间，沪市新增回购计划42家次，金额上限83.86亿元；新增增持计划17家次，金额上限74.57亿元，回购用途涵盖股权激励、员工持股及市值维护等多个方向。拉长时间轴来看，2026年以来，沪市已新增披露回购计划190家次，金额上限合计达555亿元，新增增持计划155家次，金额上限达221亿元。（第一财经）",
+    "pubDate": "2026-07-26 15:21:56  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "本周9股南向资金持股量环比增长超15%",
+    "link": "https://36kr.com/newsflashes/3912144908555649?f=rss",
+    "summary": "本周（7月20日至7月24日）港股市场主要股指集体上涨，恒生指数累计涨1.63%，恒生科技指数涨0.14%，恒生中国企业指数涨1.65%。据证券时报·数据宝统计，本周南向资金合计成交净买入29.78亿港元。从本周上榜成交活跃股名单来看，本周共有14只个股上榜，腾讯控股本周港股通合计买卖总额最高，达到436.4亿港元，智谱紧随其后，为397.54亿港元，其他还有中芯国际、阿里巴巴-W本周港股通买卖总额超过300亿港元。从成交净买入金额来看，华虹宏力获南向资金净买入33.18亿港元，居首。本周南向资金对互联网巨头买卖不一，网易获南向资金净买入14.09亿港元，美团-W获南向资金净买入10.3...",
+    "pubDate": "2026-07-26 15:19:35  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "三星李在镕与OpenAI据悉磋商人工智能与半导体领域合作方案",
+    "link": "https://36kr.com/newsflashes/3912076178789766?f=rss",
+    "summary": "三星电子会长李在镕与OpenAI首席执行官山姆・奥特曼于旧金山OpenAI总部会面，磋商人工智能与半导体领域合作方案。OpenAI 26日对外公布，当地时间25日上午，李在镕与奥特曼在其旧金山总部举行会谈。OpenAI并未披露具体洽谈内容与议题，但业内观察人士判断，双方大概率围绕高带宽内存（HBM）、动态随机存取存储器（DRAM）、先进晶圆代工等AI基础设施深化合作展开沟通。双方或还探讨了三星全业务线落地生成式人工智能的数字化转型方案。三星电子是OpenAI全球顶级企业客户之一，已决定为全体员工开放ChatGPT及AI代码工具Codex的使用权限。（新浪财经）",
+    "pubDate": "2026-07-26 14:09:40  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "上海交大医学院：针对仇某某发表医学论文及新华医院开展临床研究事件，进行全面调查",
+    "link": "https://36kr.com/newsflashes/3912074565309576?f=rss",
+    "summary": "7月26日，上海交通大学医学院发布情况说明：针对近日网络上关于我院研究人员仇某某发表的相关医学研究论文，以及附属新华医院开展的一例临床研究的相关报道，医学院高度重视，已成立专项工作组，对事件进行全面调查。医学院历来重视科研诚信和科研规范，坚决反对违背科研伦理违规开展医学科学研究。医学院将根据调查情况严肃处理，感谢社会各界的关心与监督。（第一财经）",
+    "pubDate": "2026-07-26 14:08:02  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "电影《八仙！》实时票房破7亿",
+    "link": "https://36kr.com/newsflashes/3912073660830851?f=rss",
+    "summary": "36氪获悉，据猫眼专业版数据，电影《八仙！》上映9天， 总票房破7亿。",
+    "pubDate": "2026-07-26 14:07:07  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "月之暗面Kimi K3庆功照流出，张予彤疑现身，喊出“冲上月球”口号",
+    "link": "https://36kr.com/newsflashes/3911981562270848?f=rss",
+    "summary": "据报道，在经历过去一段时间月之暗面Kimi K3发布引发的广泛关注后，月之暗面于本周五在北京的一个酒吧举行了庆功活动。据流出内容，月之暗面展示的一张庆功标语显示，月之暗面对于K3的定位是“扩容升级”，同时期望将下一代K4“狠狠干到极致”，并喊出了“冲上月球”口号。一张流出的图片显示，本场活动上，月之暗面联合创始人、总裁张予彤疑似也到了现场。（新浪科技）",
+    "pubDate": "2026-07-26 12:33:25  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "我国蜂群无人机首次实现台风过境全程立体观测",
+    "link": "https://36kr.com/newsflashes/3911980822091137?f=rss",
+    "summary": "7月26日，记者从中国气象局获悉，台风“红霞”影响我国期间，气象科研人员首次采用蜂群无人机观测方式，针对台风登陆全过程开展高频率、多维度观测试验。这也是我国首次将蜂群无人机技术应用于台风过境全过程观测。 (央视新闻)",
+    "pubDate": "2026-07-26 12:32:40  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "韩国养老金7月首度净买入KOSPI成分股，为今年首次",
+    "link": "https://36kr.com/newsflashes/3911979618849920?f=rss",
+    "summary": "韩国交易所周日披露股市数据，韩国股市最大机构投资者之一——国民年金公团等养老金资金，本月转为韩国综合股价指数（KOSPI）股票净买方，系今年以来首次。数据显示，7月1日至24日，国民年金公团及其他养老金在KOSPI主板累计净买入股票684亿韩元（折合4680万美元）。在此之前，养老金已连续六个月净卖出股票，本月是年内首月实现净买入。7月前17个交易日里，养老金有11个交易日为净买入，6个交易日净卖出。本月还剩余5个交易日，分析师判断，养老金大概率在7月全月维持净买入状态。个股买入端，SK海力士为养老金头号增持标的，累计净买入4258亿韩元；其次是SK创新（2247亿韩元）、韩国双龙炼油S...",
+    "pubDate": "2026-07-26 12:31:27  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "交流会纪要外泄影响DeepSeek融资？内部人士：不可信",
+    "link": "https://36kr.com/newsflashes/3911975571379331?f=rss",
+    "summary": "近日，疑似DeepSeek投资者交流会的纪要在市面上流出，引发广泛关注。据市场消息，这场本应在小范围封闭场合进行的内部交流，因会议纪要在未经授权的情况下外泄，已影响DeepSeek正在进行的新一轮融资进程，目前梁文锋已决定暂停新一轮交易的推进，要求团队重新评估信息披露流程和投资者沟通机制。 对于上述消息，有DeepSeek内部人士表示，“不可信，外部消息多为假的或者臆测”。不过，截至目前DeepSeek官方并未就此事进行任何回应。（新浪科技）",
+    "pubDate": "2026-07-26 12:27:20  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
   },
   {
     "title": "崔东树：2026年6月中国汽车进口3.8万辆降11%",

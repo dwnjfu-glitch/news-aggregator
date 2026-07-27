@@ -192,12 +192,148 @@
     "category": "tech"
   },
   {
+    "title": "Windows 设计史 05 | 你怀念的 Windows 7，或许最具「人情味」",
+    "link": "https://sspai.com/post/101668",
+    "summary": "好用有时比创新更重要。 查看全文",
+    "pubDate": "Mon, 27 Jul 2026 15:00:00 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
     "title": "角落新声｜不再烧 Hi-Fi 后，我在走步机上给音乐留了一小时",
     "link": "https://sspai.com/post/112705",
     "summary": "我的「听音角落」并不完全是一个空间。它是一部旧手机、一枚小尾巴、一副老耳机、一台走步机，以及晚上没有被其他事情占走的那一个小时。 查看全文",
     "pubDate": "Mon, 27 Jul 2026 10:47:56 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "TV presenter and comedian Bill Oddie dies at 85",
+    "link": "https://www.bbc.co.uk/news/articles/cjejw8pq5elo?at_medium=RSS&at_campaign=rss",
+    "summary": "His agent pays tribute to the \"multi-talented\" broadcaster, comedian and conservationist.",
+    "pubDate": "Mon, 27 Jul 2026 10:22:34 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Scottish businessman and philanthropist Sir Ian Wood dies aged 84",
+    "link": "https://www.bbc.co.uk/news/articles/ce3qv0p9105o?at_medium=RSS&at_campaign=rss",
+    "summary": "The Aberdeen-based businessman turned his family's boat repair firm into an oil and gas engineering giant.",
+    "pubDate": "Mon, 27 Jul 2026 10:18:46 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Europe got its own TBPN-style live show, and everyone’s angling for a guest spot",
+    "link": "https://techcrunch.com/2026/07/27/europe-got-its-own-tbpn-style-live-show-and-its-already-a-hot-spot-on-a-press-tour/",
+    "summary": "On Monday, the network announced a $1.6 million seed round from top players in the media ecosystem, including Powerhouse Capital, Axel Springer SE (which owns Business Insider and Politico), the popular media publication LadBible, and angel investors from OpenAI and DeepMind. With this fresh capi...",
+    "pubDate": "Mon, 27 Jul 2026 10:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "This Is Donald Trump’s AI Brain Trust",
+    "link": "https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/",
+    "summary": "“It’s not an argument with two sides, it’s an argument with 10 sides,” one senior administration official tells WIRED about how US AI policy is being shaped.",
+    "pubDate": "Mon, 27 Jul 2026 10:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Bill Oddie: Comedian who found nature a welcome refuge from mental illness",
+    "link": "https://www.bbc.co.uk/news/articles/c4nnkylr0llo?at_medium=RSS&at_campaign=rss",
+    "summary": "Comedian and former Goodie who became a noted ornithologist and TV presenter.",
+    "pubDate": "Mon, 27 Jul 2026 09:51:51 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Measles Is Becoming So Common That Treatments May Soon Be Needed",
+    "link": "https://www.wired.com/story/measles-treatments-soon-needed/",
+    "summary": "As the US sees its highest number of measles cases in decades and vaccination rates fall, researchers are developing drugs to help those who contract the virus or who are particularly vulnerable.",
+    "pubDate": "Mon, 27 Jul 2026 09:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Millions see leaked copy of The Odyssey movie on X",
+    "link": "https://www.bbc.co.uk/news/articles/c1m1ev5j3m2o?at_medium=RSS&at_campaign=rss",
+    "summary": "Film studio Universal takes down a high-quality bootleg version of the film, which appeared on X.",
+    "pubDate": "Mon, 27 Jul 2026 09:21:10 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Chinese chipmaker shares surge 470%",
+    "link": "https://www.bbc.com/news/articles/c9q9w3x9qn2o",
+    "summary": "Article URL: https://www.bbc.com/news/articles/c9q9w3x9qn2o Comments URL: https://news.ycombinator.com/item?id=49066962 Points: 11 # Comments: 3",
+    "pubDate": "Mon, 27 Jul 2026 09:11:59 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Soundcore Nebula P1i Projector Review: New Design, Classic Pitfalls",
+    "link": "https://www.wired.com/review/soundcore-nebula-p1i-projector/",
+    "summary": "I tested the Soundcore Nebula P1i, an affordable projector, to see if it could overcome the typical drawbacks that most budget projectors suffer from.",
+    "pubDate": "Mon, 27 Jul 2026 09:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "It’s Becoming Clear Why Black Holes Never Run Out of Fuel",
+    "link": "https://www.wired.com/story/its-becoming-clear-why-black-holes-never-run-out-of-fuel/",
+    "summary": "Black holes eject powerful energy jets that blow away the surrounding gas to great distances. So how can they continue to grow?",
+    "pubDate": "Mon, 27 Jul 2026 09:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "How Unix spell ran in 64 kB of RAM",
+    "link": "https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram",
+    "summary": "Article URL: https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram Comments URL: https://news.ycombinator.com/item?id=49066750 Points: 21 # Comments: 0",
+    "pubDate": "Mon, 27 Jul 2026 08:43:11 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Man and woman die after being pulled from sea off Cornish beach",
+    "link": "https://www.bbc.co.uk/news/articles/cy4k892z44jo?at_medium=RSS&at_campaign=rss",
+    "summary": "A man and a woman both died at the scene after being recovered from the sea off Cornwall.",
+    "pubDate": "Mon, 27 Jul 2026 08:35:29 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "NHS 'will collapse' without social care reform, PM tells BBC",
+    "link": "https://www.bbc.co.uk/news/articles/cn0n5xpzlz2o?at_medium=RSS&at_campaign=rss",
+    "summary": "The prime minister says he would not want to leave office without bringing in \"substantial change\" to the social care system.",
+    "pubDate": "Mon, 27 Jul 2026 08:19:08 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Infantino tells Fifa critics to 'meditate, pray or watch football'",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cz0515973gpo?at_medium=RSS&at_campaign=rss",
+    "summary": "Fifa president Gianni Infantino tells critics to \"meditate, pray or watch a football match\" instead of \"spreading hate and false rumours\" about him and the World Cup.",
+    "pubDate": "Mon, 27 Jul 2026 08:07:28 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Why budding birders are flocking to Shazam-like apps to identify avians",
+    "link": "https://www.bbc.co.uk/news/articles/cr59m5nmemno?at_medium=RSS&at_campaign=rss",
+    "summary": "Birdwatchers tell the BBC how apps have changed their lifelong hobby - and attracted new birders.",
+    "pubDate": "Mon, 27 Jul 2026 07:53:30 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Rapper Yung Filly tells trial 'vibes were good' with woman who accuses him of rape",
+    "link": "https://www.bbc.co.uk/news/articles/cm2g044ydl4o?at_medium=RSS&at_campaign=rss",
+    "summary": "The rapper takes the witness stand at his trial in Australia where he denies raping a fan in a hotel room.",
+    "pubDate": "Mon, 27 Jul 2026 07:37:11 GMT",
+    "source": "BBC News",
+    "category": "general"
   },
   {
     "title": "派早报：携程因滥用市场支配地位被罚 51.79 亿元",
@@ -208,6 +344,134 @@
     "category": "tech-cn"
   },
   {
+    "title": "Record Spurs spend shows new ambition - Van de Ven",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c4gw34l26xzo?at_medium=RSS&at_campaign=rss",
+    "summary": "Micky van de Ven says Tottenham's record spending highlights a \"new ambition\" after an \"unacceptable\" season.",
+    "pubDate": "Mon, 27 Jul 2026 07:00:41 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Kimi-K3 Releases on HuggingFace 7/27",
+    "link": "https://huggingface.co/moonshotai/Kimi-K3",
+    "summary": "Article URL: https://huggingface.co/moonshotai/Kimi-K3 Comments URL: https://news.ycombinator.com/item?id=49065752 Points: 323 # Comments: 133",
+    "pubDate": "Mon, 27 Jul 2026 06:18:10 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Three dead in shooting at food festival near Seattle's Space Needle",
+    "link": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&at_campaign=rss",
+    "summary": "Several others, including a two-year-old boy, were also injured. Seattle Mayor Katie Wilson says a suspect is in custody.",
+    "pubDate": "Mon, 27 Jul 2026 06:11:20 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Rogers and Palmer can play together - Alonso",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cre4qpq5j4wo?at_medium=RSS&at_campaign=rss",
+    "summary": "Chelsea manager Xabi Alonso says he has a \"plan\" to play club record £117m signing Morgan Rogers alongside Cole Palmer.",
+    "pubDate": "Mon, 27 Jul 2026 06:10:05 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "India's Gen Z protesters force out a minister, but what's next?",
+    "link": "https://www.bbc.co.uk/news/articles/c8dng1v72lno?at_medium=RSS&at_campaign=rss",
+    "summary": "The education minister's resignation, a rare setback for the Modi government, brings hope to many young protesters that their voices will be heard.",
+    "pubDate": "Mon, 27 Jul 2026 05:59:22 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Diomande agrees Real Madrid terms as PSG step away",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cqx74lpprd7o?at_medium=RSS&at_campaign=rss",
+    "summary": "RB Leipzig winger Yan Diomande agrees personal terms with Real Madrid after Paris St-Germain withdraw their interest.",
+    "pubDate": "Mon, 27 Jul 2026 05:46:37 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "From dragons to aliens: The hot air balloons that make everyone look up",
+    "link": "https://www.bbc.co.uk/news/articles/c204g48lzyjo?at_medium=RSS&at_campaign=rss",
+    "summary": "With Bristol Balloon Fiesta around the corner, we look at the wildest shapes to ever grace the skies.",
+    "pubDate": "Mon, 27 Jul 2026 05:19:13 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Behind-the-scenes at No 10 as Andy Burnham became PM",
+    "link": "https://www.bbc.co.uk/news/articles/c79gdjlv78wo?at_medium=RSS&at_campaign=rss",
+    "summary": "Laura Kuenssberg was given unprecedented access to the new prime minister’s first days in power.",
+    "pubDate": "Mon, 27 Jul 2026 05:00:13 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "In Memphis, an 'anti-crime' task force quietly turned into an ICE crackdown",
+    "link": "https://www.npr.org/2026/07/27/nx-s1-5896284/national-guard-memphis-immigration-task-force",
+    "summary": "The influx of federal agents into the city last fall led to widespread immigration arrests – a majority without criminal convictions. President Trump has said he wants to replicate it elsewhere.",
+    "pubDate": "Mon, 27 Jul 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Baltimore will turn 911 into more than just an emergency number",
+    "link": "https://www.npr.org/2026/07/27/nx-s1-5874720/baltimore-will-turn-911-into-more-than-just-an-emergency-number",
+    "summary": "Baltimore is rethinking what it means to call 911, and who responds. Callers who don't need police will get help finding social services and healthcare before they actually fall into crisis.",
+    "pubDate": "Mon, 27 Jul 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Kalshi attacks Wisconsin law banning election bets as 'voter suppression'",
+    "link": "https://www.npr.org/2026/07/27/nx-s1-5905360/kalshi-wisconsin-election-betting-prediction-markets",
+    "summary": "The spat between the leading prediction market company and a key battleground state could be a glimpse into the next major fight between states and the fast-growing industry.",
+    "pubDate": "Mon, 27 Jul 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "The Design of Everyday Cryptography",
+    "link": "https://www.dlp.rip/everyday-cryptography/",
+    "summary": "Comments",
+    "pubDate": "Mon, 27 Jul 2026 04:55:52 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "lobste.rs has a js-error: here is a mitigation",
+    "link": "https://lobste.rs/s/llf3mg/lobste_rs_has_js_error_here_is_mitigation",
+    "summary": "Introduction https://lobste.rs – at the time of writing – has a javascript error on load for logged in users: Uncaught ReferenceError: qS is not defined at new _LobstersFunction (user-c27ac03d.js:144:34) at user-c27ac03d.js:665:17 This error is causing much of the site functionality to not work, ...",
+    "pubDate": "Mon, 27 Jul 2026 04:48:30 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "A Voice From Nowhere",
+    "link": "https://zanlib.dev/blog/a-voice-from-nowhere/",
+    "summary": "Comments",
+    "pubDate": "Mon, 27 Jul 2026 04:44:18 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Morning news brief",
+    "link": "https://www.npr.org/2026/07/27/nx-s1-5901889/morning-news-brief",
+    "summary": "Three people were killed in a shooting at a Seattle food festival Sunday, U.S and Iran pause airstrikes, with less than 100 days left until Election Day, a look at how the midterms are shaping up.",
+    "pubDate": "Mon, 27 Jul 2026 04:43:38 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "A Fast Path for Fixed-Length Lists in Parquet",
+    "link": "https://www.morling.dev/blog/fast-path-for-fixed-length-lists-in-parquet/",
+    "summary": "Comments",
+    "pubDate": "Mon, 27 Jul 2026 04:26:03 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "UK papers: Youth benefits 'crack down' and Gatwick 'Fly and dry'",
     "link": "https://www.bbc.co.uk/news/articles/cy4k8xke81wo?at_medium=RSS&at_campaign=rss",
     "summary": "Andy Burnham's latest policy plans dominate many of Monday's newspapers.",
@@ -216,12 +480,60 @@
     "category": "general"
   },
   {
+    "title": "Functional programming from first principles, part 1 – motivation",
+    "link": "https://www.endoflineblog.com/functional-programming-from-first-principles-part-1-motivation",
+    "summary": "Comments",
+    "pubDate": "Mon, 27 Jul 2026 03:54:22 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "On AI",
+    "link": "https://jcs.org/2026/07/23/ai",
+    "summary": "Comments",
+    "pubDate": "Mon, 27 Jul 2026 03:52:37 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Four men charged with murder after Leicester stabbing",
     "link": "https://www.bbc.co.uk/news/articles/cj03zpzl267o?at_medium=RSS&at_campaign=rss",
     "summary": "Arad Niakan, 24, died after being stabbed on Wednesday.",
     "pubDate": "Mon, 27 Jul 2026 03:38:27 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Make Reviews Possible Again With This One Simple Trick",
+    "link": "https://silky.github.io/posts/reviews-one-simple-trick.html",
+    "summary": "Comments",
+    "pubDate": "Mon, 27 Jul 2026 03:37:51 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "DOOM running on a regex engine",
+    "link": "https://4rh1t3ct0r7.github.io/doom-regex/",
+    "summary": "Comments",
+    "pubDate": "Mon, 27 Jul 2026 03:12:02 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "The old-school way of keeping the summer heat out of your home",
+    "link": "https://monocle.com/design/architecture/keeping-your-home-cool-without-air-conditioning/",
+    "summary": "Article URL: https://monocle.com/design/architecture/keeping-your-home-cool-without-air-conditioning/ Comments URL: https://news.ycombinator.com/item?id=49064588 Points: 18 # Comments: 23",
+    "pubDate": "Mon, 27 Jul 2026 02:33:22 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "History of John Backus's FP languages",
+    "link": "https://softwarepreservation.computerhistory.org/FP/",
+    "summary": "Comments",
+    "pubDate": "Mon, 27 Jul 2026 02:13:02 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Shein swings to $99m loss as Trump tariffs hit sales",
@@ -240,12 +552,68 @@
     "category": "general"
   },
   {
+    "title": "Can the U.S. and Iran take the off-ramp?",
+    "link": "https://www.npr.org/2026/07/27/g-s1-135611/can-the-u-s-and-iran-take-the-off-ramp",
+    "summary": "The U.S. military has paused its airstrikes on Iran after nearly two weeks of intensifying bombing, while diplomatic efforts have pushed forward to try to avert a return to all-out war.",
+    "pubDate": "Mon, 27 Jul 2026 01:57:59 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Watch: Scaffolding tumbles from Hong Kong building as Typhoon Noul makes landfall",
+    "link": "https://www.bbc.co.uk/news/videos/ckg9ewekpk1o?at_medium=RSS&at_campaign=rss",
+    "summary": "Typhoon Noul is the strongest to make landfall in China so far this year, according to state media.",
+    "pubDate": "Mon, 27 Jul 2026 01:54:30 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "With just a few primary elections to go, the competitive Senate map keeps shifting",
+    "link": "https://www.npr.org/2026/07/27/nx-s1-5907379/2026-midterm-election-senate-races",
+    "summary": "For Democrats to take control of the U.S. Senate, they have to flip 4 seats currently held by Republicans. Republicans, meanwhile, are playing defense and pickup opportunities are harder to find.",
+    "pubDate": "Mon, 27 Jul 2026 01:13:24 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "What does GitHub’s security team even do?",
+    "link": "https://orchidfiles.com/github-security-team/",
+    "summary": "Comments",
+    "pubDate": "Mon, 27 Jul 2026 01:06:58 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Interconverting std::function with copyable_function",
+    "link": "https://quuxplusone.github.io/blog/2026/07/26/function-explosion/",
+    "summary": "Comments",
+    "pubDate": "Mon, 27 Jul 2026 00:39:14 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Authoritative dnsmasq in a MikroTik container",
+    "link": "https://op-co.de/blog/posts/mikrotik_authoritative_dnsmasq/",
+    "summary": "Comments",
+    "pubDate": "Mon, 27 Jul 2026 00:37:02 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
     "link": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss",
     "summary": "Mamdani walked back his threat last week, acknowledging he lacked the legal power to arrest Netanyahu on a warrant issued by the International Criminal Court.",
     "pubDate": "Mon, 27 Jul 2026 00:27:58 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Being Linux Torvalds",
+    "link": "https://antirez.com/news/171",
+    "summary": "Comments",
+    "pubDate": "Mon, 27 Jul 2026 00:25:16 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Are brain waves the next unlock for physical AI?",
@@ -270,6 +638,198 @@
     "pubDate": "Mon, 27 Jul 2026 00:03:48 +0000",
     "source": "Hacker News",
     "category": "tech"
+  },
+  {
+    "title": "汇丰控股将在新加坡设全球人工智能卓越中心，并招聘超100名AI专家",
+    "link": "https://36kr.com/newsflashes/3913742527714433?f=rss",
+    "summary": "汇丰控股7月27日宣布，将于今年下半年在新加坡设立全球人工智能卓越中心（CoE），旨在开发可扩展至集团全球网络的AI能力，并计划招聘100多名AI专家。声明称，该卓越中心初期将专注于提升客户财富管理体验、引入智能化的财资解决方案以及开发AI赋能的数字支付。（界面）",
+    "pubDate": "2026-07-27 18:24:46  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "OpenAI将在爱尔兰设立新的欧盟总部，并新增250个工作岗位",
+    "link": "https://36kr.com/newsflashes/3913739589981319?f=rss",
+    "summary": "据报道，OpenAI当地时间7月27日表示，将在爱尔兰设立新的欧盟总部，并在未来两年内新增250个工作岗位。（界面）",
+    "pubDate": "2026-07-27 18:21:47  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "清华博士团队创业，这家公司要给飞机做氢能「心脏」｜36氪首发",
+    "link": "https://36kr.com/p/3913736066028932?f=rss",
+    "summary": "文&nbsp;|&nbsp;阿至 航空新能源动力系统，正在酝酿新的变革。 36氪获悉，航空新能源动力系统解决方案供应商 「易氢动力」已完成数千万元天使+轮融资，由红鸟启航基金和贵州科创天使基金领投，水木清华校友种子基金，启迪之星创投，楹辉创投，金源合及天使会跟投。 本轮资金主要用于航空级液冷燃料电池产品的开发及验证，以及空冷燃料电池在多场景的商业化推广及应用。 过去十年，氢燃料电池研发与产业化应用主要集中在汽车领域，已形成相对清晰的降本路线和成熟标准，但在航空领域，国内氢能应用的发展并不同步。 氢能航空并非新的概念，事实上，欧洲早在21世纪初就开始论证航空新能源动力系统不同路线方向的优缺...",
+    "pubDate": "2026-07-27 18:19:29  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "中央结算公司公开征求意见：调降部分主营业务收费",
+    "link": "https://36kr.com/newsflashes/3913736009651336?f=rss",
+    "summary": "36氪获悉，中央国债登记结算有限责任公司发布关于调降部分主营业务收费公开征求意见的通知，为持续落实国家减税降费精神，进一步促进金融基础设施服务提质增效，中央国债登记结算有限责任公司决定调降部分主营业务收费。具体如下：一、全额免除国际债券（熊猫债）发行登记服务费。二、对银行间债券市场存续债券的付息兑付服务费费率实施9.5折优惠，优惠后费率为万分之0.475。全额免除科创债、国际债券（熊猫债）付息兑付服务费。三、对银行间债券市场现有优惠措施未覆盖的券种和主体的现券交易结算服务费实施9折优惠，优惠后现券业务为135元/笔。四、对银行间债券市场质押式回购、买断式回购、债券借贷交易结算服务费实施9...",
+    "pubDate": "2026-07-27 18:18:08  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "三星电子确认HBM5将采用2纳米GAA工艺，速度较HBM4E提升50%以上",
+    "link": "https://36kr.com/newsflashes/3913734184244361?f=rss",
+    "summary": "三星电子7月27日发布对公司半导体事业部技术开发室长具子铉的采访。具子铉表示，预计下一代HBM5内存的运行速度将比HBM4E快50%以上，“HBM5基础芯片将采用GAA结构的2纳米工艺，并实现更高集成度的硅通孔（TSV）”。具子铉称，三星电子将基于在4纳米HBM4基础芯片上获得的经验和技术竞争力，提前在HBM5中引入2纳米工艺，并拓展与移动、HBM、AI、HPC、汽车电子、机器人等领域的客户合作，引领半导体生态系统进一步发展壮大。（界面）",
+    "pubDate": "2026-07-27 18:16:17  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "美国推出“本土建厂，关税减半”政策，激励投资新建电解铝厂",
+    "link": "https://36kr.com/newsflashes/3913724412073347?f=rss",
+    "summary": "美国总统特朗普签署公告，依据《1962年贸易扩展法》第232条，调整铝进口关税，推出了原铝进口投资激励计划。根据公告，在美国新建、扩建或改造的电解铝企业，其项目获批后可适用当前232关税（50%）的一半，即25%来进口原铝；若企业未履行项目承诺，对应的关税优惠资格和电价优惠将被取消。当前美国电解铝产能难以满足本土需求，此次调整旨在吸引资本回流，提升本土电解铝产能。（财联社）",
+    "pubDate": "2026-07-27 18:15:20  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "安琪酵母：拟3.7亿元投建合成生物中试验证基地项目",
+    "link": "https://36kr.com/newsflashes/3913723742262664?f=rss",
+    "summary": "36氪获悉，安琪酵母公告，公司全资子公司酶制剂公司拟投资3.7亿元，新建合成生物中试验证基地项目，项目建设期为16个月。",
+    "pubDate": "2026-07-27 18:11:39  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "欧洲航天创企TEC拟募资3亿美元，估值或超20亿美元",
+    "link": "https://36kr.com/newsflashes/3913717208356231?f=rss",
+    "summary": "据报道，欧洲航天初创公司The Exploration Company（TEC）正商讨筹集至少3亿美元资金，计入这笔新增投资后，该公司估值可能超过20亿美元。知情人士透露，欧盟新设的旗舰级“欧洲扩张基金”正讨论参与该交易。该基金是由欧盟委员会支持、瑞典投资集团殷拓管理的投资工具。（界面）",
+    "pubDate": "2026-07-27 18:07:59  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "君乐宝港股上市正常推进",
+    "link": "https://36kr.com/newsflashes/3913725771634051?f=rss",
+    "summary": "近日，君乐宝乳业集团股份有限公司（以下简称“君乐宝”）港股上市申请因届满六个月有效期而进入常规程序性更新调整，引发市场关注。7月27日，君乐宝相关负责人表示，这属于港股上市申报中的正常流程安排，目前正有序推进财务加期审计，待完成后将及时更新并重新递交申请资料。在业内看来，这一节点恰好为外界重新审视这家中国乳业头部企业的经营基本面与中长期价值提供了窗口。（证券日报）",
+    "pubDate": "2026-07-27 18:07:43  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "中晟高科：控股股东拟不低于3000万元增持公司股份",
+    "link": "https://36kr.com/newsflashes/3913713801287042?f=rss",
+    "summary": "36氪获悉，中晟高科公告，控股股东福州千景投资有限公司拟不低于3000万元（含）增持公司股份，增持股份数量不超过公司总股本的5%（不含）。",
+    "pubDate": "2026-07-27 18:02:31  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "南向资金今日净买入美团12.17亿港元",
+    "link": "https://36kr.com/newsflashes/3913706596832386?f=rss",
+    "summary": "南向资金今日净卖出15.74亿港元。小米集团-W、中芯国际分别遭净卖出12.32亿港元、6.98亿港元；美团-W获净买入12.17亿港元。（证券时报）",
+    "pubDate": "2026-07-27 17:57:12  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "灵初智能创始人王启斌：正在合作建设大规模数据采集中心，年底冲刺百万小时数据积累",
+    "link": "https://36kr.com/newsflashes/3913704701432966?f=rss",
+    "summary": "在数据采集方面，灵初智能创始人兼CEO王启斌在接受专访时表示：到年底，公司数据预计会积累到100万个小时。目前正在全国合作建一些大规模的数据采集中心。今年4月份，灵初智能宣布开源首批1000小时人类手部操作全模态数据集，总数据储备达10万小时。（新浪财经）",
+    "pubDate": "2026-07-27 17:52:18  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "2026年，为什么资本更青睐“会赚钱”的AI应用？",
+    "link": "https://36kr.com/p/3913706151400583?f=rss",
+    "summary": "今年 WAIC 前夕，月之暗面发布了 Kimi K3，发布即破圈。但资本市场的注意力，更多地落在了另一件事上。 过去半年，这家明星大模型公司估值翻了 6 倍，目标 300 亿美元，同步推进赴港 IPO。而在 2025 年底的跨年夜全员信中，创始人杨植麟写下了一句话：2026 年聚焦 Agent，不以绝对用户数量为目标。 估值半年翻 6 倍的同时，他们也主动放弃了 DAU 这个过去两年颇被资本市场追着看的指标。 足以证明，用户规模虽仍旧重要，但不再是 AI 应用估值的唯一硬通货，新的叙事主线，重新回到了产品形态长期可持续的商业化。 资本评估 AI 的 benchmark 变了：过去两年盛行...",
+    "pubDate": "2026-07-27 17:48:07  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "壹石通：预计上半年盈利950万元—1400万元，同比扭亏",
+    "link": "https://36kr.com/newsflashes/3913706102068358?f=rss",
+    "summary": "36氪获悉，壹石通发布业绩预告，预计2026年半年度实现营业收入4亿元至4.2亿元，同比增加47.33%至54.69%；归属于母公司所有者的净利润950万元至1400万元，同比扭亏为盈。",
+    "pubDate": "2026-07-27 17:47:43  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "华翔股份：拟3000万元—5000万元回购股份",
+    "link": "https://36kr.com/newsflashes/3913703787648389?f=rss",
+    "summary": "36氪获悉，华翔股份公告，公司拟通过集中竞价交易方式，以不低于3000万元（含）、不高于5000万元（含）回购股份，用于股权激励或员工持股计划，回购股份价格不超过24.7元/股（含）。",
+    "pubDate": "2026-07-27 17:45:22  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "科大讯飞：拟1亿元至2亿元回购股份",
+    "link": "https://36kr.com/newsflashes/3913695699604869?f=rss",
+    "summary": "36氪获悉，科大讯飞公告，公司拟1亿元至2亿元回购股份，用于股权激励或员工持股计划，回购价格不超过62.13元/股（含）。",
+    "pubDate": "2026-07-27 17:37:08  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "上海市新增16款已完成备案的生成式人工智能服务",
+    "link": "https://36kr.com/newsflashes/3913684400952448?f=rss",
+    "summary": "36氪获悉，上海市委网信办发布生成式人工智能服务已备案信息公告。截至7月27日，上海市新增16款已完成备案的生成式人工智能服务，累计已完成187款生成式人工智能服务备案。",
+    "pubDate": "2026-07-27 17:25:38  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "上汽通用发生法定代表人变更",
+    "link": "https://36kr.com/newsflashes/3913682300802441?f=rss",
+    "summary": "36氪获悉，天眼查App显示，近日，上汽通用汽车有限公司发生工商变更，KAHER KAZEM卸任法定代表人，由ADAM KAZIMIERZ CHILINSKI接任。该公司成立于1997年5月，注册资本10.83亿美元，经营范围包括制造汽车、发动机、变速箱及其零部件，在国内外市场销售本公司及其国内投资企业制造的上述产品及维修配件，从事二手车经销业务等。股东信息显示，该公司由上汽集团、通用汽车（中国）投资有限公司等共同持股。",
+    "pubDate": "2026-07-27 17:23:30  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "英伟达、微软、IBM等数十家企业成立新联盟，旨在共同保障AI安全",
+    "link": "https://36kr.com/newsflashes/3913680378893703?f=rss",
+    "summary": "7月27日，英伟达、微软、Adobe、SpacexAI、IBM、SAP、戴尔、思科等企业宣布成立开放安全人工智能联盟，旨在构建和共享开放工具，以促进AI的负责任使用。该联盟成员还包括Cadence、Capital One、Cloudera、Cloudflare、Cognition、CrowdStrike、Databricks、DoorDash、Elastic、慧与、Hugging Face、LangChain、Linux基金会、NAVER、NetApp、Nous Research、OpenClaw、Palantir、Palo Alto Networks、Red Hat、Reflectio...",
+    "pubDate": "2026-07-27 17:21:33  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "安联锐视：控股股东、实控人等承诺1年内不减持",
+    "link": "https://36kr.com/newsflashes/3913679319192969?f=rss",
+    "summary": "36氪获悉，安联锐视公告，公司控股股东联众永盛、实控人徐进，董事、总经理李志洋和公司董事、副总经理、董事会秘书申雷承诺12个月内不通过集中竞价交易、大宗交易、协议转让等方式减持持有的公司股份。",
+    "pubDate": "2026-07-27 17:20:28  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "惠科股份在浙江成立半导体公司，注册资本40亿",
+    "link": "https://36kr.com/newsflashes/3913670193354119?f=rss",
+    "summary": "36氪获悉，天眼查App显示，近日，浙江惠芯先进半导体有限公司成立，法定代表人为卢集晖，注册资本40亿人民币，经营范围含半导体分立器件制造、半导体分立器件销售、集成电路设计、集成电路芯片及产品制造、显示器件制造、光伏设备及元器件制造、货物进出口、技术进出口等。股东信息显示，该公司由惠科股份有限公司全资持股。",
+    "pubDate": "2026-07-27 17:11:11  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "Momenta Robovan落地苏州",
+    "link": "https://36kr.com/newsflashes/3913666544047491?f=rss",
+    "summary": "36氪获悉，Momenta宣布旗下Robovan业务已落地苏州相城。据官方介绍，Momenta Robovan已实现向快递配送、夜间配送等场景的快速推进。Momenta Robovan基于公司自主研发的R7世界模型打造无人技术，产品符合车规级标准。",
+    "pubDate": "2026-07-27 17:07:29  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "最前线 | 最大起飞重量8吨的无人货运 eVTOL，牧羽天航空飞行重卡AT8000整机机身下线",
+    "link": "https://36kr.com/p/3912369056240772?f=rss",
+    "summary": "文 | 张卓倩 编辑 | 袁斯来 低空经济领域迎来里程碑式突破！牧羽天航空近日正式宣布，旗下飞行重卡 AT8000 整机机身已经在无锡市新吴区空港园区隆重下线。作为全球已知最大的eVTOL，飞行重卡AT8000 的下线标志着我国在重载低空物流装备领域实现全球领跑，为低空经济商业化落地应用注入核心动力。 飞行重卡 AT8000&nbsp; 全球重载无人货运标杆，8 吨级 “空中重卡” 定义行业新高度 飞行重卡 AT8000 是牧羽天航空深耕重载货运 eVTOL 领域的全新力作，最大起飞重量达 8000 公斤（8 吨），远超同类在研机型，是目前全球公认的重载货运 eVTOL 天花板。 核心性...",
+    "pubDate": "2026-07-27 16:23:39  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "36氪首发 | 前大疆工程师创业做智能网球发球机，产品已开启海外市场批量交付",
+    "link": "https://36kr.com/p/3913490184754313?f=rss",
+    "summary": "作者&nbsp;|&nbsp;乔钰杰 编辑&nbsp;|&nbsp;袁斯来 硬氪获悉，智能体育硬件公司「一思智能」（AceiiLab）开启批量交付，此前完成超千万元天使轮融资，由零以资本、变量资本、海益资本投资。资金将主要用于产品研发迭代及市场拓展。 一思智能成立于2024年12月，从AI网球机器人切入，尝试构建覆盖硬件、软件、数据、AI教练与运动服务的智能训练生态。公司创始人刘礼谦拥有十余年机器人研发和产品经验，曾在大疆、KUKA等企业从事研发工作，联合创始人晁光此前曾任职于投资机构和机器人公司，长期关注智能硬件领域投资与运营增长。团队覆盖无人机、无人车、商用清洁、割草、泳池清洁等机器...",
+    "pubDate": "2026-07-27 14:08:54  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
   },
   {
     "title": "韩国6月外币存款规模连续第三个月走高",
@@ -462,6 +1022,22 @@
     "pubDate": "2026-07-27 07:50:15  +0800",
     "source": "36Kr",
     "category": "tech-cn"
+  },
+  {
+    "title": "The existential choice facing UK physics facilities: commercialize or close",
+    "link": "https://www.nature.com/articles/d41586-026-02171-7",
+    "summary": "Nature, Published online: 27 July 2026; doi:10.1038/d41586-026-02171-7 The national synchrotron source, a laser facility and a particle accelerator are under threat of closure unless cash is found.",
+    "pubDate": "2026-07-27",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "When should you treat a fever? Evolution holds the answer",
+    "link": "https://www.nature.com/articles/d41586-026-02313-x",
+    "summary": "Nature, Published online: 27 July 2026; doi:10.1038/d41586-026-02313-x Understanding natural selection can improve medical treatments, social policies and crop yields.",
+    "pubDate": "2026-07-27",
+    "source": "Nature",
+    "category": "science"
   },
   {
     "title": "Champagne and Bullets belongs on the Mount Rushmore of bad movies",

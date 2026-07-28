@@ -1,11 +1,307 @@
 [
   {
+    "title": "社区速递 151 | 派友的六月好物盘点、携程被重罚热议和 tomtoc 城市穿行背包",
+    "link": "https://sspai.com/post/112820",
+    "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ... 查看全文",
+    "pubDate": "Tue, 28 Jul 2026 17:00:00 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "能力厚重，接入极轻：HarmonyOS 7 如何把鸿蒙生态入场门槛降到几行代码",
+    "link": "https://sspai.com/post/112822",
+    "summary": "在手机相册里选好一张图，拿着手机往电脑屏幕轻轻一碰，图片就直接出现在了《简讯》app「半角巷」的编辑框里。不用翻文件夹，也不用靠传输工具互联，《简讯》团队把这个改动叫做「跨端发送从五步变一步」。让人觉 ... 查看全文",
+    "pubDate": "Tue, 28 Jul 2026 16:40:52 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
     "title": "从《奥德赛》观影聊聊 IMAX 影院的分类",
     "link": "https://sspai.com/post/112380",
     "summary": "聊聊 IMAX 放映系统的区别及影厅选择策略，帮你选到视效更震撼、更接近导演创作意图的版本。 查看全文",
     "pubDate": "Tue, 28 Jul 2026 15:00:00 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "Elon Musk’s X Money app is rolling out in the U.S.",
+    "link": "https://techcrunch.com/2026/07/28/elon-musks-x-money-app-is-rolling-out-in-the-u-s/",
+    "summary": "The app is currently available to X Premium and Premium+ subscribers in the U.S.",
+    "pubDate": "Tue, 28 Jul 2026 14:57:12 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "WhatsApp now lets you make calls using its web app",
+    "link": "https://techcrunch.com/2026/07/28/whatsapp-now-lets-you-make-calls-using-its-web-app/",
+    "summary": "Similar to the smartphone and desktop apps, the web app will support the calling features such as screen-sharing and reactions.",
+    "pubDate": "Tue, 28 Jul 2026 14:53:22 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Powell says student loan system at top of in-tray",
+    "link": "https://www.bbc.co.uk/news/articles/ce8l064xe52o?at_medium=RSS&at_campaign=rss",
+    "summary": "She says she stands by past comments that the interest charged on Plan 2 loans is \"egregious\".",
+    "pubDate": "Tue, 28 Jul 2026 14:50:02 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Celtic make Denmark striker Hogh their record signing",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cwymjrm0xlwo?at_medium=RSS&at_campaign=rss",
+    "summary": "Celtic break their transfer record to sign Denmark striker Kasper Hogh from Bodo/Glimt on a four-year contract.",
+    "pubDate": "Tue, 28 Jul 2026 14:43:18 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Can Burnham's vision for Manchester's schools really work for the rest of England?",
+    "link": "https://www.bbc.co.uk/news/articles/c79gevrvgddo?at_medium=RSS&at_campaign=rss",
+    "summary": "The prime minister's plans for technical education have their roots in the Manchester Baccalaureate.",
+    "pubDate": "Tue, 28 Jul 2026 14:03:55 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Fish Audio raises $50M seed to build AI voice models for creators and enterprises",
+    "link": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+    "summary": "Since launching last year, the startup today has more than 8 million people using the open-source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
+    "pubDate": "Tue, 28 Jul 2026 14:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Is the Electric Trike the Next Big Thing in Shared Micromobility?",
+    "link": "https://www.wired.com/story/is-the-electric-trike-the-next-big-thing-in-shared-micromobility-veo-rover/",
+    "summary": "Veo is launching accessibility-focused electric tricycles in Denver, with plans to put its e-trikes on the streets nationwide.",
+    "pubDate": "Tue, 28 Jul 2026 14:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Mancini reappointed Italy boss after Pirlo controversy",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c0ly412r412o?at_medium=RSS&at_campaign=rss",
+    "summary": "Roberto Mancini is appointed Italy manager for a second time - just a day after Andrea Pirlo rules himself out of the running for the job and technical director Paolo Maldini resigns.",
+    "pubDate": "Tue, 28 Jul 2026 13:54:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "French Navy carries out 'shooting drill' mid interview",
+    "link": "https://www.bbc.co.uk/news/articles/cy4ker2y1mko?at_medium=RSS&at_campaign=rss",
+    "summary": "Shadow Home Secretary Chris Philp says the vessel fired 17 shots as he was giving a BBC interview.",
+    "pubDate": "Tue, 28 Jul 2026 13:53:26 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Apple launches ‘Upgrade’ device leasing program in partnership with Klarna",
+    "link": "https://techcrunch.com/2026/07/28/apple-launches-upgrade-device-leasing-program-in-partnership-with-klarna/",
+    "summary": "Leasing prices start at $17.99 per month for iPhone, $11.99 for Apple Watch, $24.99 for Mac, and $11.99 for iPad.",
+    "pubDate": "Tue, 28 Jul 2026 13:50:27 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "As US measles cases rise, biotech firms start developing new treatments",
+    "link": "https://arstechnica.com/health/2026/07/as-us-measles-cases-rise-biotech-firms-start-developing-new-treatments/",
+    "summary": "The US is making measles great again, so treatment options are needed for the most vulnerable.",
+    "pubDate": "Tue, 28 Jul 2026 13:32:23 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Alonso's first Chelsea match a tale of four strikers",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c1w13ddr4ejo?at_medium=RSS&at_campaign=rss",
+    "summary": "Xabi Alonso's first game as Chelsea manager is defined by four strikers - from one who scored a hat-trick to one who could leave.",
+    "pubDate": "Tue, 28 Jul 2026 13:28:28 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Gironde wildfires pick up as French region braces for new 40C heatwave",
+    "link": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
+    "summary": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires.",
+    "pubDate": "Tue, 28 Jul 2026 13:25:13 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Search begins for King's new top aide",
+    "link": "https://www.bbc.co.uk/news/articles/c1m1g3y1jvdo?at_medium=RSS&at_campaign=rss",
+    "summary": "The King will need a new private secretary, with Sir Clive Alderton stepping down next year.",
+    "pubDate": "Tue, 28 Jul 2026 13:23:35 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Recursive Superintelligence signs $410 compute deal with Amazon",
+    "link": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+    "summary": "Recursive’s $400 million outlay represents the bulk of the company’s fundraising to date.",
+    "pubDate": "Tue, 28 Jul 2026 13:19:17 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Show HN: tale.fyi, we deserve a home for fiction",
+    "link": "https://tale.fyi/@sam/announcing-tale-fyi-read-or-listen-to-an-entire-book-from-a-single-link",
+    "summary": "for decades, i have been concerned that the internet was being built around non-fiction, so i built something to show how we could celebrate great fiction on the web. i started with an amazing library from the public domain, and i also added tools to add your own stories super interested to hear ...",
+    "pubDate": "Tue, 28 Jul 2026 13:16:52 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs",
+    "link": "https://github.com/ctrlb-hq/ctrlb-decompose",
+    "summary": "Article URL: https://github.com/ctrlb-hq/ctrlb-decompose Comments URL: https://news.ycombinator.com/item?id=49083336 Points: 34 # Comments: 7",
+    "pubDate": "Tue, 28 Jul 2026 13:13:35 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Why is Ukraine rolling out the red carpet for a US far-right influencer?",
+    "link": "https://www.bbc.co.uk/news/videos/cn8n41ywwj1o?at_medium=RSS&at_campaign=rss",
+    "summary": "Laura Loomer, Trump ally, MAGA influencer, and former Ukraine critic was granted extensive access to the country.",
+    "pubDate": "Tue, 28 Jul 2026 13:13:26 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "New HIV vaccine shows unprecedented success in preclinical study",
+    "link": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
+    "summary": "Article URL: https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/ Comments URL: https://news.ycombinator.com/item?id=49083314 Points: 175 # Comments: 62",
+    "pubDate": "Tue, 28 Jul 2026 13:12:01 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
+    "link": "https://github.com/schildep/verified-3d-mesh-intersection",
+    "summary": "To my knowledge, this is the first formally verified implementation of a 3D constructive solid geometry (CSG) operation: mesh intersection, implemented in Lean 4 and verified against a concise specification that pins down the surface of the resulting mesh exactly and guarantees practical well-for...",
+    "pubDate": "Tue, 28 Jul 2026 13:07:14 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "'It's a hell of a situation': Spain grapples with destructive wildfires",
+    "link": "https://www.bbc.co.uk/news/articles/c235m71mrreo?at_medium=RSS&at_campaign=rss",
+    "summary": "Three fires in the Madrid region have caused special concerns, with a new heatwave expected to hit Spain from Wednesday.",
+    "pubDate": "Tue, 28 Jul 2026 13:03:38 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Booker Prize longlist: See the 13 'dynamite' novels up for this year's prestigious award",
+    "link": "https://www.bbc.co.uk/news/articles/czekl599087o?at_medium=RSS&at_campaign=rss",
+    "summary": "Elizabeth Strout, Douglas Stuart and Marlon James are among the 13 authors recognised this year.",
+    "pubDate": "Tue, 28 Jul 2026 13:00:16 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "What AI developers could learn from Charles Bukowski?",
+    "link": "https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski",
+    "summary": "Article URL: https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski Comments URL: https://news.ycombinator.com/item?id=49083132 Points: 28 # Comments: 23",
+    "pubDate": "Tue, 28 Jul 2026 13:00:12 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Granola launches an Apple Watch app",
+    "link": "https://techcrunch.com/2026/07/28/granola-launches-an-apple-watch-app/",
+    "summary": "Granola debutes an Apple Watch app for in-person notetaking",
+    "pubDate": "Tue, 28 Jul 2026 13:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Great Mobile Apps Aren't Built Around Features",
+    "link": "https://geekyants.com/case-studies/nowmatch-next-gen-social-and-dating-app-development",
+    "summary": "Article URL: https://geekyants.com/case-studies/nowmatch-next-gen-social-and-dating-app-development Comments URL: https://news.ycombinator.com/item?id=49083027 Points: 3 # Comments: 0",
+    "pubDate": "Tue, 28 Jul 2026 12:51:16 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Mother and boyfriend guilty of murder of girl, two",
+    "link": "https://www.bbc.co.uk/news/articles/cvg9lv27v69o?at_medium=RSS&at_campaign=rss",
+    "summary": "Prosecutors say Isabelle Welsh was subjected to a \"wicked\" campaign of abuse before her death.",
+    "pubDate": "Tue, 28 Jul 2026 12:49:20 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Richard Hammond fined £999 for  speeding offences",
+    "link": "https://www.bbc.co.uk/news/articles/cvgv7n0k57eo?at_medium=RSS&at_campaign=rss",
+    "summary": "The TV host is caught speeding twice in Herefordshire in the space of three weeks, magistrates hear.",
+    "pubDate": "Tue, 28 Jul 2026 12:43:07 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Show HN: Segue – Save context in one AI, load it in another by a short handle",
+    "link": "https://segue.ai/",
+    "summary": "Article URL: https://segue.ai/ Comments URL: https://news.ycombinator.com/item?id=49082779 Points: 10 # Comments: 6",
+    "pubDate": "Tue, 28 Jul 2026 12:27:05 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Mondragon Corporation – a federation of co-operatives",
+    "link": "https://en.wikipedia.org/wiki/Mondragon_Corporation",
+    "summary": "Article URL: https://en.wikipedia.org/wiki/Mondragon_Corporation Comments URL: https://news.ycombinator.com/item?id=49082695 Points: 99 # Comments: 12",
+    "pubDate": "Tue, 28 Jul 2026 12:19:07 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Best Gifts for Mom (2026): E-Readers, Digital Wall Calendar, Smart Bird Feeders",
+    "link": "https://www.wired.com/story/best-gifts-for-mom-2026/",
+    "summary": "Your mom never gets you a thoughtless gift, so you shouldn’t get her one, either. Here’s every cool gift WIRED writers would give their mothers.",
+    "pubDate": "Tue, 28 Jul 2026 12:04:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
+    "link": "https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/",
+    "summary": "Article URL: https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/ Comments URL: https://news.ycombinator.com/item?id=49082550 Points: 27 # Comments: 11",
+    "pubDate": "Tue, 28 Jul 2026 12:02:57 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Best Apple Watch (2026): Series 11, SE 3, and Ultra 3",
+    "link": "https://www.wired.com/gallery/best-apple-watch/",
+    "summary": "Should you splurge on the new Series 11, or will the SE 3 do? Let us help you figure out which version to get (and which to avoid).",
+    "pubDate": "Tue, 28 Jul 2026 11:34:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Best Gifts for Hikers, Backpackers, Outdoorsy People (2026)",
+    "link": "https://www.wired.com/gallery/awesome-gifts-for-hikers-backpackers-outdoorsy-people/",
+    "summary": "Let them pick out their own hiking boots. Instead, try gifting a useful blade or a nature journal to delight your outdoorsy friend.",
+    "pubDate": "Tue, 28 Jul 2026 11:33:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Only use VAR when error blatant - referee chiefs",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cm2gyzme6gno?at_medium=RSS&at_campaign=rss",
+    "summary": "Video assistant referees should only be used to change \"blatantly incorrect\" decisions and clear missed incidents, say European refereeing officials.",
+    "pubDate": "Tue, 28 Jul 2026 11:30:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Former boxing world champion denies assaulting man, court hears",
+    "link": "https://www.bbc.co.uk/news/articles/ceqeg288l29o?at_medium=RSS&at_campaign=rss",
+    "summary": "Joe Cordina, 34, was charged in connection with an incident outside a petrol station in February.",
+    "pubDate": "Tue, 28 Jul 2026 11:23:44 GMT",
+    "source": "BBC News",
+    "category": "general"
   },
   {
     "title": "索尼抛弃实体游戏光盘，谁成为了转型代价？",
@@ -16,11 +312,139 @@
     "category": "tech-cn"
   },
   {
+    "title": "A Two-Person Startup Has Fixed One of the Most Hated Sounds in Modern Life",
+    "link": "https://www.wired.com/story/a-two-person-startup-has-fixed-one-of-the-most-hated-sounds-in-modern-life/",
+    "summary": "Beeeep. Beeeep. Beeeeeeeeeeeeeeeep.",
+    "pubDate": "Tue, 28 Jul 2026 11:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Kimi Linear: An Expressive, Efficient Attention Architecture",
+    "link": "https://arxiv.org/abs/2510.26692",
+    "summary": "Article URL: https://arxiv.org/abs/2510.26692 Comments URL: https://news.ycombinator.com/item?id=49082022 Points: 83 # Comments: 15",
+    "pubDate": "Tue, 28 Jul 2026 10:52:30 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Usenet Archive Toolkit – process Usenet messages into a searchable archive",
+    "link": "https://github.com/wolfpld/usenetarchive",
+    "summary": "Article URL: https://github.com/wolfpld/usenetarchive Comments URL: https://news.ycombinator.com/item?id=49081862 Points: 15 # Comments: 0",
+    "pubDate": "Tue, 28 Jul 2026 10:30:54 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Can the New York Times Save Journalism From Our AI Overlords?",
+    "link": "https://www.wired.com/story/the-big-interview-podcast-a-g-sulzberger-new-york-times/",
+    "summary": "In 2023, the Times sued OpenAI and Microsoft for copyright infringement. They’ve since spent more than $20 million on the case, and publisher A.G. Sulzberger has no plans to stop fighting it.",
+    "pubDate": "Tue, 28 Jul 2026 10:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce It",
+    "link": "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026",
+    "summary": "Article URL: https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026 Comments URL: https://news.ycombinator.com/item?id=49081783 Points: 58 # Comments: 39",
+    "pubDate": "Tue, 28 Jul 2026 10:20:50 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Silicon Valley’s Next IPO Billionaires Are Coming. Nonprofits Are Ready for Them",
+    "link": "https://www.wired.com/story/nonprofits-are-getting-ready-for-the-funding-anthropalypse/",
+    "summary": "Anthropic and OpenAI employees are expected to give generously after their companies go public. “It’s going to be a wild ride,” says one nonprofit leader.",
+    "pubDate": "Tue, 28 Jul 2026 10:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
+    "link": "https://spawn-queue.acm.org/doi/10.1145/3819083",
+    "summary": "Article URL: https://spawn-queue.acm.org/doi/10.1145/3819083 Comments URL: https://news.ycombinator.com/item?id=49081644 Points: 76 # Comments: 41",
+    "pubDate": "Tue, 28 Jul 2026 09:59:13 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "About the security content of macOS Tahoe 26.6",
+    "link": "https://support.apple.com/en-us/128067",
+    "summary": "Article URL: https://support.apple.com/en-us/128067 Comments URL: https://news.ycombinator.com/item?id=49081555 Points: 152 # Comments: 95",
+    "pubDate": "Tue, 28 Jul 2026 09:45:43 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Odyssey translator writes scathing review of Nolan film adaptation",
+    "link": "https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss",
+    "summary": "The film has won rave reviews from film critics but a translator of Homer's work was less than impressed.",
+    "pubDate": "Tue, 28 Jul 2026 09:45:10 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Parallel JSON parsing on the GPU with compute shaders",
+    "link": "https://github.com/friendlymatthew/slurpjson#slurpjson",
+    "summary": "Comments",
+    "pubDate": "Tue, 28 Jul 2026 09:39:46 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Where are the third places for learners?",
+    "link": "https://kernelkennel.com/blog/where-is-the-middle-space/",
+    "summary": "Comments",
+    "pubDate": "Tue, 28 Jul 2026 09:38:19 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Dyson V16 Piston Animal Submarine Review: Powerful but Pricey",
+    "link": "https://www.wired.com/review/dyson-v16-piston-animal-submarine/",
+    "summary": "Dyson’s new stick vacuum can vacuum and mop in a single cordless device—if you’re willing to really splurge.",
+    "pubDate": "Tue, 28 Jul 2026 09:31:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "7-OH Users Are Stockpiling Ahead of a DEA Ban",
+    "link": "https://www.wired.com/story/7-oh-users-brace-for-dea-ban/",
+    "summary": "The opioid-like compound, which is found in kratom, can cause brutal withdrawal symptoms and will soon be a controlled substance. Some users tell WIRED it has relieved their pain and anxiety.",
+    "pubDate": "Tue, 28 Jul 2026 09:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Inside Zig's Incremental Compilation",
+    "link": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
+    "summary": "Comments",
+    "pubDate": "Tue, 28 Jul 2026 09:14:06 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Naga Munchetty to leave BBC Breakfast after 17 years",
     "link": "https://www.bbc.co.uk/news/articles/cn0ngrpp2p5o?at_medium=RSS&at_campaign=rss",
     "summary": "The BBC One show's co-host will swap the TV sofa for the presenter's chair on Radio 5 Live Breakfast.",
     "pubDate": "Tue, 28 Jul 2026 09:12:13 GMT",
     "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Local match goes viral over cheating claim",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/c86n10548yeo?at_medium=RSS&at_campaign=rss",
+    "summary": "A viral video appears to show a fielder in a local match clicking his fingers as the ball passes the bat, before the batter is given out caught behind.",
+    "pubDate": "Tue, 28 Jul 2026 09:11:45 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Here are the 13 books that made the Booker Prize longlist",
+    "link": "https://www.npr.org/2026/07/28/nx-s1-5874638/2026-booker-prize-longlist-fiction",
+    "summary": "The 2026 list includes new works from household names Douglas Stuart, Marlon James and Elizabeth Strout as well as a few debut authors.",
+    "pubDate": "Tue, 28 Jul 2026 09:05:31 -0400",
+    "source": "NPR",
     "category": "general"
   },
   {
@@ -40,6 +464,14 @@
     "category": "tech"
   },
   {
+    "title": "A 7.1 quake hits Japan's Kyushu, trapping people in a collapsed shopping center",
+    "link": "https://www.npr.org/2026/07/28/nx-s1-5910498/japan-earthquake",
+    "summary": "The quake shook Japan's southern main island of Kyushu late Tuesday afternoon local time, causing damage and injuries.",
+    "pubDate": "Tue, 28 Jul 2026 08:51:33 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "US walks out of UN Security Council meeting during France's remarks",
     "link": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
     "summary": "The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights.",
@@ -56,12 +488,44 @@
     "category": "general"
   },
   {
+    "title": "I Designed A Custom PCB To Avoid Pressing A Button Three Times",
+    "link": "https://blog.tymscar.com/posts/opensourcedimmer/",
+    "summary": "Comments",
+    "pubDate": "Tue, 28 Jul 2026 08:33:00 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "A slowing Atlantic current could unleash stronger California storms",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260727214626.htm",
+    "summary": "A weakening Atlantic current could supercharge California’s atmospheric rivers while leaving Greenland with fewer snow-producing storms. The changes could raise flood risks, strain infrastructure, and reshape water supplies far beyond the Atlantic.",
+    "pubDate": "Tue, 28 Jul 2026 08:31:45 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Design flaws in issetugid() (2017)",
+    "link": "https://gist.github.com/nicowilliams/4daf74a3a0c86848d3cbd9d0cdb5e26e",
+    "summary": "Comments",
+    "pubDate": "Tue, 28 Jul 2026 08:25:24 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Is struggling Ramsay-Peaty nearing the end?",
     "link": "https://www.bbc.co.uk/sport/swimming/articles/cddj2ynlmpro?at_medium=RSS&at_campaign=rss",
     "summary": "Can Adam Ramsay-Peaty return to the top after a disappointing Commonwealth Games or is the end nigh for Britain's former Olympic champion?",
     "pubDate": "Tue, 28 Jul 2026 08:23:50 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Building (systems) software with Nix",
+    "link": "https://hondu.co/blog/building-systems-software",
+    "summary": "Comments",
+    "pubDate": "Tue, 28 Jul 2026 08:10:24 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "派早报：月之暗面开源 Kimi K3 模型等",
@@ -88,6 +552,22 @@
     "category": "tech"
   },
   {
+    "title": "Aux Control — Let the whole room vote on the music",
+    "link": "https://auxcontrol.live",
+    "summary": "Built this for house parties/get-togethers where everyone has opinions about the music and no one wants to be DJ all night. How it plays: the host starts a session on their own device (phone, laptop, whatever's hooked up to the speaker) and it shows a join code and a QR code . Guests scan it with...",
+    "pubDate": "Tue, 28 Jul 2026 07:57:42 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Misfolded insulin may be quietly driving diabetes",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260727214616.htm",
+    "summary": "Researchers found that insulin-producing cells depend on a team of helper proteins to keep insulin production on track. When one key partner was missing, damaged proteins built up and the cells made less insulin. Strengthening this system could offer a new way to protect the pancreas as diabetes ...",
+    "pubDate": "Tue, 28 Jul 2026 07:48:04 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "7.1 Earthquake in Japan",
     "link": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
     "summary": "Article URL: https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang;=en Comments URL: https://news.ycombinator.com/item?id=49080664 Points: 151 # Comments: 31",
@@ -104,12 +584,44 @@
     "category": "general"
   },
   {
+    "title": "Trump to meet with Zelenskyy, Netanyahu. And, TPS holders could soon face deportation",
+    "link": "https://www.npr.org/2026/07/28/g-s1-135845/up-first-newsletter-trump-zelenskyy-netanyahu-lindsey-graham-tps-political-corruption",
+    "summary": "President Trump is set to hold separate meetings with Ukrainian leader Volodymyr Zelenskyy and Israeli Prime Minister Benjamin Netanyahu are today. And, Temporary Protected Status holders may face deportation soon.",
+    "pubDate": "Tue, 28 Jul 2026 07:26:09 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Hidden charcoal reveals the true age of ancient cave paintings",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260727214619.htm",
+    "summary": "A new analysis has precisely dated paintings in France’s Font-de-Gaume cave for the first time. Scientists discovered charcoal inside black pigments once thought to contain only minerals, allowing them to use radiocarbon dating. The results show that a bison was painted about 13,000 years ago, wh...",
+    "pubDate": "Tue, 28 Jul 2026 07:16:44 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "What even are microservices?",
+    "link": "https://var0.xyz/posts/what-even-are-microservices.html",
+    "summary": "Comments",
+    "pubDate": "Tue, 28 Jul 2026 07:14:24 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Some people's chats with Claude AI found to be publicly available online",
     "link": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&at_campaign=rss",
     "summary": "Hundreds of conversations with Anthropic’s chatbot were discovered as being publicly accessible.",
     "pubDate": "Tue, 28 Jul 2026 07:10:37 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Improving Heuristics (2015)",
+    "link": "https://www.redblobgames.com/pathfinding/heuristics/differential.html",
+    "summary": "Comments",
+    "pubDate": "Tue, 28 Jul 2026 06:51:29 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Detectives 'haunted' by unsolved disappearance of Suzy Lamplugh as unseen pictures released",
@@ -128,12 +640,36 @@
     "category": "general"
   },
   {
+    "title": "AI tokens could become the kilowatt-hour of the AI age",
+    "link": "https://www.npr.org/sections/planet-money/2026/07/28/g-s1-135475/ai-tokens-could-become-the-kilowatt-hour-of-the-ai-age",
+    "summary": "AI companies use tokens to track usage and bill customers. Now economists are using them to track the spread of AI through the economy.",
+    "pubDate": "Tue, 28 Jul 2026 06:30:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Why losing weight may not be enough to prevent type 2 diabetes",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260724061450.htm",
+    "summary": "A healthy lifestyle can prevent type 2 diabetes for many people, but new research suggests that weight loss alone may not be enough for one particularly vulnerable group. Even after losing about 8% of their body weight and keeping it off for years, people in a high-risk category known as cluster ...",
+    "pubDate": "Tue, 28 Jul 2026 06:06:02 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "Why Chelsea want to sign older players",
     "link": "https://www.bbc.co.uk/sport/football/articles/cn0nw0lyrkdo?at_medium=RSS&at_campaign=rss",
     "summary": "Chelsea are targeting deals for Maxence Lacroix, Jordan Henderson and Danny Welbeck - three experienced heads, in an age when the focus has been on youth.",
     "pubDate": "Tue, 28 Jul 2026 05:34:08 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Develop Cross-Platform CLI and GUI Tools With Tcl/Tk",
+    "link": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
+    "summary": "Comments",
+    "pubDate": "Tue, 28 Jul 2026 05:32:54 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Hugging Face Has a Deepfake Nudes Problem",
@@ -149,6 +685,22 @@
     "summary": "Article URL: https://arsastronomica.com/ Comments URL: https://news.ycombinator.com/item?id=49079727 Points: 58 # Comments: 9",
     "pubDate": "Tue, 28 Jul 2026 05:25:34 +0000",
     "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "How afraid should we be of jellyfish off UK shores?",
+    "link": "https://www.bbc.co.uk/news/articles/c8xnjx1erqdo?at_medium=RSS&at_campaign=rss",
+    "summary": "Many people are scared of the jellyfish due to the fear of painful stings and the creature's unpredictable nature in the water.",
+    "pubDate": "Tue, 28 Jul 2026 05:11:31 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Making KIO copy many files fast",
+    "link": "https://blogs.kde.org/2026/07/28/making-kio-copy-many-files-fast/",
+    "summary": "Comments",
+    "pubDate": "Tue, 28 Jul 2026 05:11:18 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -172,6 +724,14 @@
     "link": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
     "summary": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.",
     "pubDate": "Tue, 28 Jul 2026 05:01:19 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Shabaz Ali takes the 'billionaire debate' into the real world",
+    "link": "https://www.bbc.co.uk/iplayer/episode/m002ydrr?at_mid=kpNfCZ035k&at_campaign=Shabaz_Asks_Are_Billionaires_Bad&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002ydrr&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Shabaz_Asks_Are_Billionaires_Bad&at_bbc_team=BBC",
+    "summary": "Shabaz Ali turns author to see if the internet's favourite villains deserve the hate.",
+    "pubDate": "Tue, 28 Jul 2026 05:00:00 GMT",
     "source": "BBC News",
     "category": "general"
   },
@@ -296,12 +856,28 @@
     "category": "tech"
   },
   {
+    "title": "NASA’s Psyche spacecraft aces Mars flyby capturing stunning timelapse video",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260727214612.htm",
+    "summary": "NASA’s Psyche spacecraft aced its Mars flyby, using the planet’s gravity to speed toward its 2029 encounter with a metal-rich asteroid. The spacecraft tested its cameras, magnetometer, and particle-detecting instruments, capturing unusual views of Mars and measuring its magnetic environment. It a...",
+    "pubDate": "Tue, 28 Jul 2026 02:21:24 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
     "link": "https://fermisense.com/when-machines-take-the-wheel/",
     "summary": "Article URL: https://fermisense.com/when-machines-take-the-wheel/ Comments URL: https://news.ycombinator.com/item?id=49078454 Points: 25 # Comments: 5",
     "pubDate": "Tue, 28 Jul 2026 02:18:53 +0000",
     "source": "Hacker News",
     "category": "tech"
+  },
+  {
+    "title": "Blazing like 10 billion suns: NASA’s Swift sees a wandering black hole devouring a star",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260727214609.htm",
+    "summary": "NASA’s Swift Observatory observed a supermassive black hole ripping apart a star more than 30,000 light-years from the center of a distant galaxy. The extraordinary flare briefly outshone its entire host galaxy in ultraviolet light and revealed a black hole about a million times the Sun’s mass.",
+    "pubDate": "Tue, 28 Jul 2026 01:54:39 EDT",
+    "source": "Science Daily",
+    "category": "science"
   },
   {
     "title": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
@@ -352,6 +928,14 @@
     "category": "tech"
   },
   {
+    "title": "Scientists create an “electron lighthouse” with laser light",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260727214601.htm",
+    "summary": "Scientists have created an “electron lighthouse” that uses laser light to launch and steer electrons through a semiconductor without an applied electrical field. The quantum effect could eventually improve optical sensors, communications, imaging, and information storage.",
+    "pubDate": "Tue, 28 Jul 2026 01:03:12 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "What to expect from Zelensky and Netanyahu's visit to Washington",
     "link": "https://www.bbc.co.uk/news/videos/cd0xlnz2yk1o?at_medium=RSS&at_campaign=rss",
     "summary": "Republican Senator Lindsay Graham's funeral is bringing the two world leaders to town, where they'll separately visit the White House to discuss their region's wars.",
@@ -374,6 +958,14 @@
     "pubDate": "Tue, 28 Jul 2026 00:18:58 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Twisted laser light can tell mirror-image molecules apart",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260727214557.htm",
+    "summary": "Scientists have created twisted laser beams that interact differently with right-handed and left-handed molecules, revealing their identity through the fragments they produce. The approach could provide a faster, simpler, and more sensitive way to analyze important molecules used in chemistry and...",
+    "pubDate": "Tue, 28 Jul 2026 00:18:08 EDT",
+    "source": "Science Daily",
+    "category": "science"
   },
   {
     "title": "Hundreds of thousands of women get morning-after pill via free pharmacy service",
@@ -504,6 +1096,14 @@
     "category": "tech"
   },
   {
+    "title": "Exercise may not help hip arthritis as much as patients expect",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260723084043.htm",
+    "summary": "A major review found that exercise produces only small average improvements in hip osteoarthritis pain and physical function. It may still help some people, but researchers warn that current evidence is too limited to know which exercises work best.",
+    "pubDate": "Mon, 27 Jul 2026 22:09:34 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "China's new challenge as natural disasters strike - fake AI videos",
     "link": "https://www.bbc.co.uk/news/articles/cx27mjvxgg1o?at_medium=RSS&at_campaign=rss",
     "summary": "Storms and flooding incidents over the last few months have seen fake videos inundating social media.",
@@ -534,6 +1134,14 @@
     "pubDate": "Mon, 27 Jul 2026 21:40:27 +0000",
     "source": "Ars Technica",
     "category": "tech"
+  },
+  {
+    "title": "A single sauna session sends immune cells surging",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260727012141.htm",
+    "summary": "A single 30-minute sauna session may briefly put the immune system on higher alert. Finnish researchers found that sauna heat, paired with a short cold shower, increased every type of white blood cell circulating in the bloodstream, including key infection fighters such as neutrophils and lymphoc...",
+    "pubDate": "Mon, 27 Jul 2026 21:20:30 EDT",
+    "source": "Science Daily",
+    "category": "science"
   },
   {
     "title": "Satya Nadella says companies that trust one AI for everything may not survive",
@@ -728,12 +1336,260 @@
     "category": "general"
   },
   {
+    "title": "Apple’s reported ‘HomePad’ may launch as early as October",
+    "link": "https://www.theverge.com/tech/971790/apple-homepad-rumor-launch",
+    "summary": "For years, we've heard rumors of a new home hub device from Apple, meant to take on smart home devices like the Google Nest Hub Mini and Amazon's Echo Show. Besides \"HomePod with a screen,\" details have been sparse. But now, a new report from Bloomberg's Mark Gurman sheds some light on the allege...",
+    "pubDate": "2026-07-28T10:39:42-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Twelve South’s stylish charging tray now delivers more wireless power with a smaller footprint",
+    "link": "https://www.theverge.com/tech/969957/twelve-south-valet-wireless-charger-qi2-25w-leather",
+    "summary": "Following the original's debut at CES earlier this year, Twelve South is introducing a new version of its leather-wrapped Valet charging tray designed for use in places where space is at a premium. While the original Valet was 7.5-inches deep and large enough to serve as a catchall for a couple o...",
+    "pubDate": "2026-07-28T09:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "You don’t need to splurge on an expensive handheld fan to beat the heat",
+    "link": "https://www.theverge.com/tech/970092/jisulife-10s-handheld-personal-fan",
+    "summary": "Despite what influencers may say, you don’t need to spend $99.99 on Dyson’s HushJet Mini Cool or $149.99 for the Shark ChillPill to survive the summer whenever you leave the comfort of air-conditioning. My family has found all the comfort it needs to survive humid baseball games, sweltering conce...",
+    "pubDate": "2026-07-28T09:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Logitech’s handheld plans are on ice — don’t expect a G Cloud 2 soon",
+    "link": "https://www.theverge.com/games/971651/logitech-handheld-business-g-cloud-robin-piispanen-interview",
+    "summary": "Logitech's new gaming boss, Robin Piispanen, tells me he likes the idea of gaming handhelds. \"It's such a charming value proposition,\" he says, as we sip iced vanilla lattes at my local cafe. But he's not building one right now. He's not sure when or if Logitech should try again, after its underw...",
+    "pubDate": "2026-07-28T08:31:51-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
+    "summary": "Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally run AI system. Like the Mac version that Perplexity launched in April, Personal Computer for Windows operates like a \"general-purpose digital worke...",
+    "pubDate": "2026-07-28T08:30:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Apple launches ‘Upgrade’ program to lease new devices",
+    "link": "https://www.theverge.com/tech/971220/apple-upgrade-program-iphone-mac-ipad-lease-launch",
+    "summary": "Apple has officially introduced \"Apple Upgrade,\" a new leasing program that aims to make it easier to get your hands on the latest iPhone, Mac, iPad, and Apple Watch models. The service is launching today in the US, and works like a car lease - allowing users to keep a device at the end of [&#8230;]",
+    "pubDate": "2026-07-28T08:23:50-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Smart rings are looking like my kind of AI gadget",
+    "link": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
+    "summary": "Over the last few months, I've spent a lot of time talking to my computer. One underrated feature of the LLM revolution has been a remarkable leap in all kinds of dictation technology - even the fastest, cheapest models are getting very good at understanding and processing speech. I've tested lot...",
+    "pubDate": "2026-07-28T08:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
     "title": "Hugging Face is being used to easily undress women and children",
     "link": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
     "summary": "Hugging Face is being used to make nonconsensual deepfakes, and the popular open-source AI model repository is doing very little to prevent it. That's according to a new report published by the European nonprofit AI Forensics, which found that seven out of the top nine image editing models hosted...",
     "pubDate": "2026-07-28T05:07:14-04:00",
     "source": "The Verge",
     "category": "tech"
+  },
+  {
+    "title": "工信部：将会同相关部门加快编制发布汽车企业供应商货款支付规范指引",
+    "link": "https://36kr.com/newsflashes/3915308230372993?f=rss",
+    "summary": "36氪获悉，7月27日，工业和信息化部办公厅、装备工业一司组织召开媒体座谈会，通报推动重点汽车企业缩短供应商账期有关情况。会议指出，2025年6月以来，工业和信息化部推动17家重点车企积极落实《保障中小企业款项支付条例》并发布“60天账期承诺”，指导汽车工业协会发布《汽车整车企业供应商账款规范支付倡议》，开通“重点车企践行账期承诺线上问题（建议）反映窗口”，多措并举推动缩短供应商账期。但少数车企仍存在延后起算时间、过程管理不规范等变相延长账期问题，需进一步督促改进。下一步，工业和信息化部将会同相关部门加快编制发布汽车企业供应商货款支付规范指引，并对变相延长账期的车企加强督促整改，对涉嫌违...",
+    "pubDate": "2026-07-28 20:57:29  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "热门中概股美股盘前多数上涨，京东涨超2%",
+    "link": "https://36kr.com/newsflashes/3915306173033856?f=rss",
+    "summary": "36氪获悉，热门中概股美股盘前多数上涨，截至发稿，京东、网易涨超2%，拼多多涨0.79%，理想汽车涨0.57%，蔚来涨0.43%，阿里巴巴涨0.22%，百度跌超1%，小鹏集团跌0.94%。",
+    "pubDate": "2026-07-28 20:55:24  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "美股大型科技股盘前涨跌不一，康宁跌超17%",
+    "link": "https://36kr.com/newsflashes/3915301377682817?f=rss",
+    "summary": "36氪获悉，美股大型科技股盘前涨跌不一，截至发稿，康宁跌超17%，闪迪、美光科技跌超6%，英特尔跌超4%，特斯拉跌0.54%，英伟达跌0.5%，微软、Meta涨超1%，亚马逊涨0.78%，苹果涨0.68%，谷歌涨0.4%。",
+    "pubDate": "2026-07-28 20:50:31  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "五粮液：肖浩辞任董事",
+    "link": "https://36kr.com/newsflashes/3915296768257672?f=rss",
+    "summary": "36氪获悉，五粮液公告，公司董事会近日收到董事肖浩的书面辞职报告。肖浩因工作变动，提请辞去公司第七届董事会董事、战略委员会委员职务（原定任期至公司第七届董事会任期届满之日止）。辞职后肖浩将不再担任公司及控股子公司任何职务。截至本公告披露日，肖浩未持有公司股份，不存在应当履行而未履行的承诺事项。",
+    "pubDate": "2026-07-28 20:45:50  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "“TabTin”完成6000万元天使轮融资",
+    "link": "https://36kr.com/newsflashes/3915291894836611?f=rss",
+    "summary": "36氪获悉，近日，上海摹范科技有限公司旗下的人和Agent协作平台“TabTin”完成6000万元天使轮融资，由字节跳动早期天使投资人领投，源洋资本担任独家财务顾问。本轮资金将用于深化人机协作体验、完善原生工作应用并拓展企业客户。",
+    "pubDate": "2026-07-28 20:40:52  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "苹果公司在美国推出设备升级租赁计划，iPhone每月租金17.99美元起",
+    "link": "https://36kr.com/newsflashes/3915270764850565?f=rss",
+    "summary": "苹果公司在美国推出设备升级租赁计划，iPhone每月租金17.99美元起，AppleWatch每月租金11.99美元起。iPhone/Watch可享受12-24个月租赁，Mac/iPad可享受24-36个月租赁。（财联社）",
+    "pubDate": "2026-07-28 20:34:33  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "代表称OPEC+拟9月完成最后一次增产后暂停上调配额",
+    "link": "https://36kr.com/newsflashes/3915271232351618?f=rss",
+    "summary": "7月28日，据报道，两位OPEC+代表透露，在9月完成最后一次增产后，OPEC+预计将暂停石油产量配额上调，并继续评估伊朗战争对全球原油供应快速变化的影响。这两位代表表示，OPEC+目前计划在8月2日举行的视频会议上批准一项协议，将9月石油生产配额上调18.8万桶/日。这将完成本轮增产计划，且今年内没有进一步增产安排。其中一位代表指出，这只是目前的计划，未来仍可能根据形势变化作出调整。（界面）",
+    "pubDate": "2026-07-28 20:30:47  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "燕东微：控股股东一致行动人拟1.5亿元-3亿元增持股份",
+    "link": "https://36kr.com/newsflashes/3915250986397058?f=rss",
+    "summary": "36氪获悉，燕东微公告，公司控股股东北京电控的一致行动人电控产投拟自本公告披露之日起12个月内，通过上海证券交易所系统以集中竞价方式增持公司股份，合计拟增持金额不低于人民币15000万元，不高于30000万元。",
+    "pubDate": "2026-07-28 20:19:09  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "立昂技术：拟募资不超2.55亿元，用于立昂云数据人工智能算力资源池项目等",
+    "link": "https://36kr.com/newsflashes/3915250409270665?f=rss",
+    "summary": "36氪获悉，立昂技术公告，公司发布2026年度以简易程序向特定对象发行股票预案，拟募集资金总额不超过2.55亿元，扣除发行费用后用于立昂云数据人工智能算力资源池项目及补充流动资金。",
+    "pubDate": "2026-07-28 20:15:35  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "亚马逊云服务与AI公司Recursive签署价值4.1亿美元多年期合作协议",
+    "link": "https://36kr.com/newsflashes/3915264169275015?f=rss",
+    "summary": "7月28日，亚马逊云服务（AWS）宣布与人工智能公司Recursive达成一项价值4.1亿美元的多年期协议。Recursive将指定AWS作为其云服务提供商，并在亚马逊云服务平台上运行其自动化AI研究系统。（界面）",
+    "pubDate": "2026-07-28 20:12:40  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "英伟达出资500亿美元租赁得州数据中心，该中心将采用其芯片",
+    "link": "https://36kr.com/newsflashes/3915247046405507?f=rss",
+    "summary": "英伟达签署最高价值500亿美元的巨型得州数据中心租赁协议。这项此前未对外披露的合作，再度引发市场关注：这家芯片巨头正不断深入参与AI基础设施融资环节。五位知情交易人士透露，这家市值接近5万亿美元的企业将整租数据中心开发商Hut 8在建的这座1吉瓦算力园区，园区内将部署数十万颗英伟达图形处理器。（新浪财经）",
+    "pubDate": "2026-07-28 20:10:04  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "波音第二季度核心每股亏损为0.76美元，预计亏损0.28美元",
+    "link": "https://36kr.com/newsflashes/3915237113539974?f=rss",
+    "summary": "波音公司第二季度营收245.6亿美元，预估为242.6亿美元；第二季度核心每股亏损为0.76美元，预计亏损0.28美元。波音第二季度调整后自由现金流6.31亿美元，市场预估负3.314亿美元。（财联社）",
+    "pubDate": "2026-07-28 20:03:02  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "葛兰素史克第二季度总销售额84亿英镑",
+    "link": "https://36kr.com/newsflashes/3915234451838338?f=rss",
+    "summary": "7月28日，葛兰素史克发布第二季度业绩报告。第二季度总销售额为84亿英镑，其中，专科药品销售额为38亿英镑，同比增长14%；疫苗销售额为23亿英镑，同比增长8%；普药销售额为23亿英镑，同比下降9%。第二季度核心营业利润为28亿英镑，核心每股收益为50.5便士。葛兰素史克预计2026全年销售额增长3%-5%，核心营业利润增长7%-9%，核心美股收益增长7%-9%。（界面）",
+    "pubDate": "2026-07-28 19:57:21  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "2026年上半年24家A股公司赴港上市",
+    "link": "https://36kr.com/newsflashes/3915231922197632?f=rss",
+    "summary": "《中国证券报》28日刊发文章《上半年24家A股公司赴港上市》。文章称，7月27日中国上市公司协会发布的6月统计月报显示，2026年上半年境内股票市场（以下简称“全市场”）共有24家A股公司赴港上市，募资总额超过1200亿港元，行业主要集中于新一代信息技术产业、生物产业。上半年末，境外主要市场中国概念上市公司1904家，其中，H股公司较年初增加51家。（新华社）",
+    "pubDate": "2026-07-28 19:50:47  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "科氪 | 定义AI睡眠健康新赛道 东莞数字人体与智慧睡眠创新联合体落地慕思",
+    "link": "https://36kr.com/p/3915239611739781?f=rss",
+    "summary": "7月27日，东莞市数字人体与智慧睡眠创新联合体揭牌暨工作推进会在慕思健康睡眠股份有限公司（以下简称“慕思”）总部举行。本次工作推进会由东莞市科学技术局、厚街镇人民政府指导，慕思、广东华中科技大学工业技术研究院联合主办，东莞市相关职能部门、顶尖高校、三甲医疗机构、产业链核心企业、投资机构及主流媒体代表约300人参会。 推进会同步举行聘任与授牌仪式，正式聘任中科院院士、华中科技大学副校长尹周平为东莞市数字人体与智慧睡眠创新联合体首席科学家，聘任慕思集团CTO陈文泽为行政总师。 官方图片 伴随AI、传感技术与临床医学的深度迭代，传统睡眠家居已突破单一硬件属性，迈入数字化、医疗级的智慧健康服务新...",
+    "pubDate": "2026-07-28 19:48:20  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "聚辰股份：重新向香港联交所递交H股发行及上市申请",
+    "link": "https://36kr.com/newsflashes/3915224685286785?f=rss",
+    "summary": "36氪获悉，聚辰股份公告，公司正在进行申请境外发行外资股（H股）并在香港联合交易所有限公司主板上市的相关工作。根据本次H股发行上市的时间安排，公司已于2026年7月28日向香港联交所重新递交了本次发行的申请，并于同日在香港联交所网站刊登了本次H股发行上市的申请资料。公司本次H股发行上市尚需取得中国证券监督管理委员会、香港证监会和香港联交所等有关监管机构、证券交易所的批准、核准或备案，并综合考虑市场情况以及其他因素方可实施，尚存在不确定性。",
+    "pubDate": "2026-07-28 19:43:17  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "氪星晚报｜Meta宣布与贝莱德达成战略合作，将在埃尔帕索开发数据中心；“国科超导”完成超亿元融资；我国启动人工智能大模型IPv6能力提升专项行动",
+    "link": "https://36kr.com/p/3913321294369924?f=rss",
+    "summary": "大公司： YouTube与NBC环球达成合作协议，将为美用户提供流媒体捆绑服务 7月27日，美国流媒体平台YouTube与媒体巨头NBC环球（NBCUniversal）宣布深化战略合作。根据双方达成的协议，自2027年初起，美国本土的YouTube Premium订阅用户将无需支付额外费用，直接获取NBC环球旗下流媒体平台Peacock Premium的会员权益。（新浪财经） Meta宣布与贝莱德达成战略合作，将在埃尔帕索开发数据中心 7月28日，Meta和贝莱德宣布成立合资企业，将在德克萨斯州埃尔帕索开发并拥有一处数据中心园区。其中，贝莱德管理的基金将持有该合资企业80%的权益，Met...",
+    "pubDate": "2026-07-28 19:39:56  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "ST豆神：签署重大诉讼和解协议暨债务重组",
+    "link": "https://36kr.com/newsflashes/3915214764643460?f=rss",
+    "summary": "36氪获悉，ST豆神公告，公司董事会审议通过签署重大诉讼、仲裁事项《和解协议》暨债务重组的议案。公司拟进行债务重组、与北京立思辰计算机技术有限公司、北京辰光融信技术有限公司、北京辰光融信企业管理中心（有限合伙）、北京辰正企业管理有限公司、潘凤岩签订《和解协议》，本次债务重组事项预计将对公司本期财务状况产生积极影响，经公司财务部门初步测算，预计本次债务重组收益约5670.21万元。",
+    "pubDate": "2026-07-28 19:38:18  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "长安汽车：向特定对象发行股票提交注册稿申请文件",
+    "link": "https://36kr.com/newsflashes/3915209738491270?f=rss",
+    "summary": "36氪获悉，长安汽车公告，公司向特定对象发行股票申请于2026年7月22日获深交所上市审核中心审核通过。公司会同中介机构对募集说明书等申请文件进行更新修订，并提交《向特定对象发行股票募集说明书（注册稿）》等文件。本次发行尚需获中国证监会同意注册方可实施，最终能否获批及时间不确定，公司将及时披露进展。",
+    "pubDate": "2026-07-28 19:34:08  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "天汽模：收购东实汽车股权获反垄断审查不实施进一步审查决定书",
+    "link": "https://36kr.com/newsflashes/3915203282539910?f=rss",
+    "summary": "36氪获悉，天汽模公告，公司拟通过发行股份及支付现金方式收购东实汽车科技集团股份有限公司60%股份。近日，公司收到国家市场监督管理总局出具的《经营者集中反垄断审查不实施进一步审查决定书》，决定对公司收购东实汽车股权案不实施进一步审查，从即日起可以实施集中。本次交易尚需经深交所审核通过及中国证监会予以注册等程序。",
+    "pubDate": "2026-07-28 19:29:39  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "机构今日买入新易盛等22股，卖出西安奕材8.71亿元",
+    "link": "https://36kr.com/newsflashes/3915200283317376?f=rss",
+    "summary": "盘后数据显示，7月28日龙虎榜中，共48只个股出现了机构的身影，有22只股票呈现机构净买入，26只股票呈现机构净卖出。当天机构净买入前三的股票分别是新易盛、中际旭创、多氟多，净买入金额分别是16.33亿元、11.48亿元、1.04亿元。当天机构净卖出前三的股票分别是西安奕材、源杰科技、禾元生物，净流出金额分别是8.71亿元、8.22亿元、3.81亿元。（第一财经）",
+    "pubDate": "2026-07-28 19:25:36  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "可口可乐第二季度可比每股收益0.97美元",
+    "link": "https://36kr.com/newsflashes/3915198660220037?f=rss",
+    "summary": "可口可乐7月28日公布2026年第二季度业绩，净营收增长7%至134亿美元，每股收益增长16%至1.03美元，可比每股收益增长11%至0.97美元。公司预计全年可比每股收益增长9％至10％，此前预计增长8％至9％。（界面）",
+    "pubDate": "2026-07-28 19:18:58  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "UCLA博士团队创业做人形机器人基础模型，拿下近5亿元天使++轮融资｜硬氪首发",
+    "link": "https://36kr.com/p/3913213962540164?f=rss",
+    "summary": "作者&nbsp;|&nbsp;黄楠 编辑&nbsp;|&nbsp;袁斯来 硬氪获悉，人形机器人基础模型公司德塔智能（Delta Intelligence）近日完成近5亿元天使++轮融资，本轮投资方包括多家上市公司产业方和头部财务投资机构。资金将主要用于人形机器人基础模型持续迭代，加快自研数采设备的量产与数据闭环建设，扩充核心研发团队，以推动技术在真实工业场景中的工程化落地与验证。 这也是公司成立半年内完成的第六轮融资，此前，投资方包括北京通研院、智元机器人、乐聚机器人、星海图等人形机器人主机厂，高瓴创投、元禾控股、复星锐正、华映资本、联想创投等财务机构，以及汽车、半导体领域资本。 德塔智...",
+    "pubDate": "2026-07-28 18:38:46  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "沃尔沃中国全面\"吉利化\"，首款超豪轿车对标尊界S800｜36氪独家",
+    "link": "https://36kr.com/p/3913637793059968?f=rss",
+    "summary": "从北京奔驰转战沃尔沃，段建军履新中国区总裁兼CEO尚不足百日，便已挂帅推进品牌首款D级轿车项目。 36氪从多个产业人士处获悉，沃尔沃正在筹备推出全新D级超豪华旗舰轿车，这款新车的内部代号为“561”。知情人士表示， 新车定位对标尊界S800，将超越在售S90车型，成为沃尔沃规格最高的轿车产品。 今年5月，段建军从北京奔驰转战沃尔沃，全面接管产研供销体系。过去13年间，他曾让奔驰S级与迈巴赫在中国D级轿车市场建立起近乎垄断的优势。 沃尔沃内部代号为“561”的D级轿车项目，是这位\"豪华车操盘手\"履新后的首场硬仗。这款车的成败，将影响他交给沃尔沃的第一份答卷成色。 36氪了解到，这款新车拟定...",
+    "pubDate": "2026-07-28 17:24:01  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
   },
   {
     "title": "传亚马逊正全面改革AI战略并重组团队",
@@ -1088,6 +1944,102 @@
     "category": "tech-cn"
   },
   {
+    "title": "Values in science go beyond politics",
+    "link": "https://www.nature.com/articles/d41586-026-02346-2",
+    "summary": "Nature, Published online: 28 July 2026; doi:10.1038/d41586-026-02346-2 Values in science go beyond politics",
+    "pubDate": "2026-07-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Deserts face unprecedented flash flooding",
+    "link": "https://www.nature.com/articles/d41586-026-02349-z",
+    "summary": "Nature, Published online: 28 July 2026; doi:10.1038/d41586-026-02349-z Deserts face unprecedented flash flooding",
+    "pubDate": "2026-07-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Use AI, but don’t mask it",
+    "link": "https://www.nature.com/articles/d41586-026-02347-1",
+    "summary": "Nature, Published online: 28 July 2026; doi:10.1038/d41586-026-02347-1 Use AI, but don’t mask it",
+    "pubDate": "2026-07-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Why some wool is wavy",
+    "link": "https://www.nature.com/articles/d41586-026-02104-4",
+    "summary": "Nature, Published online: 28 July 2026; doi:10.1038/d41586-026-02104-4 How crimps form in the coats of sheep, and the history of the word ‘ionosphere’, in this week’s pick from the Nature archive.",
+    "pubDate": "2026-07-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Conversational AI: align commercial incentives with public interests",
+    "link": "https://www.nature.com/articles/d41586-026-02348-0",
+    "summary": "Nature, Published online: 28 July 2026; doi:10.1038/d41586-026-02348-0 Conversational AI: align commercial incentives with public interests",
+    "pubDate": "2026-07-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Fertility clinics are offering young mitochondria in controversial fertility technique",
+    "link": "https://www.nature.com/articles/d41586-026-01935-5",
+    "summary": "Nature, Published online: 28 July 2026; doi:10.1038/d41586-026-01935-5 Researchers are alarmed that the procedure, which has not been rigorously studied, is advertised by clinics around the world.",
+    "pubDate": "2026-07-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "When physicians and AI work together, who is accountable? How to lay out medical liability",
+    "link": "https://www.nature.com/articles/d41586-026-02315-9",
+    "summary": "Nature, Published online: 28 July 2026; doi:10.1038/d41586-026-02315-9 A staging system based on how big a role AI has in patient care can help to identify who is responsible in cases in which care fails.",
+    "pubDate": "2026-07-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Inside the high-stakes race to develop an Ebola vaccine for an escalating outbreak",
+    "link": "https://www.nature.com/articles/d41586-026-02278-x",
+    "summary": "Nature, Published online: 28 July 2026; doi:10.1038/d41586-026-02278-x The University of Oxford has already vaccinated its first clinical-trial participant. The study’s lead scientist Teresa Lambe tells Nature how they were able to move so fast.",
+    "pubDate": "2026-07-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Medical AI has a measurement problem",
+    "link": "https://www.nature.com/articles/d41586-026-02125-z",
+    "summary": "Nature, Published online: 28 July 2026; doi:10.1038/d41586-026-02125-z The development of two medical AI assistants highlights an unnerving challenge: as the technology races ahead, what is the best way to evaluate what works?",
+    "pubDate": "2026-07-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "All living things emit a faint glow. Could this light be useful?",
+    "link": "https://www.nature.com/articles/d41586-026-02311-z",
+    "summary": "Nature, Published online: 28 July 2026; doi:10.1038/d41586-026-02311-z Ultra-weak ‘biophotons’ might be used to diagnose disease, or could even represent a new signalling mechanism in cells.",
+    "pubDate": "2026-07-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Led by the nose: a queen’s scent shapes naked mole rat society",
+    "link": "https://www.nature.com/articles/d41586-026-02286-x",
+    "summary": "Nature, Published online: 28 July 2026; doi:10.1038/d41586-026-02286-x Naked mole rats live in colonies characterized by having a single breeding queen. It emerges that a queen-associated chemical helps to maintain this reproductive hierarchy.",
+    "pubDate": "2026-07-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Consciousness research is having an AI moment. Will the hype help the field?",
+    "link": "https://www.nature.com/articles/d41586-026-02300-2",
+    "summary": "Nature, Published online: 28 July 2026; doi:10.1038/d41586-026-02300-2 The idea of AI sentience is drawing more focus to consciousness science. But some researchers aren’t sure that’s a good thing.",
+    "pubDate": "2026-07-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
     "title": "X Money is launching in the US starting today",
     "link": "https://www.theverge.com/tech/971649/x-money-launch-elon-musk",
     "summary": "X Money, a core part of Elon Musk's mission to turn X into an \"everything app,\" is rolling out starting today, 9to5Mac reports. The payment platform offers a digital wallet and peer-to-peer payments similar to Venmo, along with a metal Visa card users can emblazon with their X username. Other per...",
@@ -1110,5 +2062,21 @@
     "pubDate": "2026-07-27T15:53:50-04:00",
     "source": "The Verge",
     "category": "tech"
+  },
+  {
+    "title": "Daily briefing: The town heated by one big battery",
+    "link": "https://www.nature.com/articles/d41586-026-02355-1",
+    "summary": "Nature, Published online: 27 July 2026; doi:10.1038/d41586-026-02355-1 A sand battery can keep Pornainen, Finland, toasty for up to a week in winter. Plus, UK physics facilities face a funding threat and examine MAHA health claims under the microscope.",
+    "pubDate": "2026-07-27",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Daily briefing: The science of <i>The Odyssey</i>",
+    "link": "https://www.nature.com/articles/d41586-026-02345-3",
+    "summary": "Nature, Published online: 24 July 2026; doi:10.1038/d41586-026-02345-3 The tale gives us glimpses of the medicine and technology of the Homeric world. Plus, this year’s El Niño is set to be the largest on record and the boom in languages at the dawn of farming.",
+    "pubDate": "2026-07-24",
+    "source": "Nature",
+    "category": "science"
   }
 ]

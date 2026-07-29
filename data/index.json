@@ -8,6 +8,158 @@
     "category": "general"
   },
   {
+    "title": "派早报：微软发布网络安全模型 MAI-Cyber-1-Flash、美团发布 AI Agent 平台等",
+    "link": "https://sspai.com/post/112837",
+    "summary": "少数派的近期动态那个让你放松娱乐、拥抱心流、逃离纷扰或找回真我的角落，是如何构建起来的？「角落新声」征文活动火热征稿中你可能错过的好文章社区速递151|派友的六月好物盘点、携程被重罚热议和tomtoc ... 查看全文",
+    "pubDate": "Wed, 29 Jul 2026 08:39:00 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "Iran and US trade strikes, shattering brief lull in fighting",
+    "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
+    "summary": "US Central Command says it intercepted \"multiple\" ballistic missiles fired by Iran.",
+    "pubDate": "Wed, 29 Jul 2026 02:47:28 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Trump administration bans new Chinese humanoid robots",
+    "link": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
+    "summary": "The US and China are locked in a race to the lead the world in robotics and artificial intelligence.",
+    "pubDate": "Wed, 29 Jul 2026 02:30:50 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Hooray for the Sockets Interface",
+    "link": "https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/",
+    "summary": "Article URL: https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/ Comments URL: https://news.ycombinator.com/item?id=49092754 Points: 7 # Comments: 5",
+    "pubDate": "Wed, 29 Jul 2026 02:25:29 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
+    "link": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss",
+    "summary": "The two leaders sound encouraged after holding back-to-back bilaterals at the White House.",
+    "pubDate": "Wed, 29 Jul 2026 02:24:03 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects",
+    "link": "https://github.com/jagg-ix/zil-lean",
+    "summary": "Google Zanzibar datalog lang lets you describe concepts and express how they are related. I generalize it to DSL you can use on Lean4 (and other languages) this lets you represent a knowledge base you can construct, store and evaluate, have it under git and improve without big engines or relaying...",
+    "pubDate": "Wed, 29 Jul 2026 02:22:04 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Burnham invites Tories and Lib Dems to social care talks",
+    "link": "https://www.bbc.co.uk/news/articles/c1k1vgx08gko?at_medium=RSS&at_campaign=rss",
+    "summary": "In a speech, the PM is expected to say finding common ground across party lines will be key to fixing social care.",
+    "pubDate": "Wed, 29 Jul 2026 01:59:59 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
+    "link": "https://www.bbc.com/news/articles/cly8zng43npo",
+    "summary": "Article URL: https://www.bbc.com/news/articles/cly8zng43npo Comments URL: https://news.ycombinator.com/item?id=49092549 Points: 28 # Comments: 16",
+    "pubDate": "Wed, 29 Jul 2026 01:56:00 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+    "link": "https://learnvector.ai/",
+    "summary": "Article URL: https://learnvector.ai/ Comments URL: https://news.ycombinator.com/item?id=49092499 Points: 63 # Comments: 30",
+    "pubDate": "Wed, 29 Jul 2026 01:49:19 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The Papers: 'Workers face new tax' and 'Fury over Fifa plan'",
+    "link": "https://www.bbc.co.uk/news/articles/c0qvg23dne0o?at_medium=RSS&at_campaign=rss",
+    "summary": "\"New tax\" could fund social care shake-up and Fifa chief's World Cup \"sell-off\" plan lead Wednesday's papers.",
+    "pubDate": "Wed, 29 Jul 2026 01:12:58 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Audi has a new flagship designed with the US in mind: The 2027 Q9",
+    "link": "https://arstechnica.com/cars/2026/07/audi-has-a-new-flagship-designed-with-the-us-in-mind-the-2027-q9/",
+    "summary": "The new full-size flagship SUV starts at $87,700 when it goes on sale in Q4.",
+    "pubDate": "Wed, 29 Jul 2026 01:00:36 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Multiple Mouse Cursors in Wayland",
+    "link": "https://blinry.org/multi-seat-wayland/",
+    "summary": "Article URL: https://blinry.org/multi-seat-wayland/ Comments URL: https://news.ycombinator.com/item?id=49092112 Points: 33 # Comments: 14",
+    "pubDate": "Wed, 29 Jul 2026 00:59:37 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Polanski says guillotine re-post was mistake but refuses to apologise",
+    "link": "https://www.bbc.co.uk/news/articles/c89np278qwvo?at_medium=RSS&at_campaign=rss",
+    "summary": "The Green leader re-posted a photo of a man wearing a guillotine t-shirt and the name Nigel.",
+    "pubDate": "Wed, 29 Jul 2026 00:49:40 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Lightweight Spring Boot Monitoring Without Prometheus and Grafana",
+    "link": "https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html",
+    "summary": "Article URL: https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html Comments URL: https://news.ycombinator.com/item?id=49091895 Points: 16 # Comments: 2",
+    "pubDate": "Wed, 29 Jul 2026 00:32:08 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
+    "link": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
+    "summary": "In a new disclosure, OpenAI says its agent used exposed logins to gain access to at least four “publicly available services” in its unhinged quest to solve a test.",
+    "pubDate": "Wed, 29 Jul 2026 00:15:30 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "The Difference Between a Button and a Link",
+    "link": "https://unplannedobsolescence.com/blog/buttons-vs-links/",
+    "summary": "Article URL: https://unplannedobsolescence.com/blog/buttons-vs-links/ Comments URL: https://news.ycombinator.com/item?id=49091738 Points: 47 # Comments: 20",
+    "pubDate": "Wed, 29 Jul 2026 00:12:14 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Hubble: Open-source notetaking app for you and your agents",
+    "link": "https://www.hubble.md/",
+    "summary": "Article URL: https://www.hubble.md/ Comments URL: https://news.ycombinator.com/item?id=49091730 Points: 57 # Comments: 10",
+    "pubDate": "Wed, 29 Jul 2026 00:11:23 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+    "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+    "summary": "The deal is Cyera's third acquisition this year.",
+    "pubDate": "Wed, 29 Jul 2026 00:09:05 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU",
+    "link": "https://studio.academa.ai/",
+    "summary": "Grant Sanderson (3Blue1Brown) created Manim, the Python library he uses to make the math animations in his videos. We reimplemented Manim with the same Python API, but the implementation underneath is Rust, connected to Python through PyO3. The Rust code uses wgpu, so rendering happens on the GPU...",
+    "pubDate": "Wed, 29 Jul 2026 00:07:43 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "The Papers: 'Never again' and 'No 10 of the north'",
     "link": "https://www.bbc.co.uk/news/articles/cj4gy79x9g7o?at_medium=RSS&at_campaign=rss",
     "summary": "A major hospital maternity review and Burnham's mooted plans for prime minister lead Thursday's papers.",
@@ -806,157 +958,5 @@
     "pubDate": "Wed, 24 Jun 2026 14:40:31 -0500",
     "source": "Lobsters",
     "category": "tech"
-  },
-  {
-    "title": "As Messi turns 39, how he and Ronaldo keep breaking records",
-    "link": "https://www.bbc.co.uk/sport/articles/c74y97k5jqpo?at_medium=RSS&at_campaign=rss",
-    "summary": "Lionel Messi, 39, and Cristiano Ronaldo, 41, keep delivering on the world's biggest stage.",
-    "pubDate": "Wed, 24 Jun 2026 14:39:39 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "Meta plans to release AI-powered prediction market app, documents show",
-    "link": "https://www.npr.org/2026/06/24/nx-s1-5869486/meta-prediction-market-app-ai",
-    "summary": "The company is building an app separate from Facebook and Instagram where people can wager on the outcome of real-world events, using \"play money.\"",
-    "pubDate": "Wed, 24 Jun 2026 14:39:06 -0400",
-    "source": "NPR",
-    "category": "general"
-  },
-  {
-    "title": "Running Windows Games on a Hobby OS with Wine",
-    "link": "https://astral-os.org/posts/2026/04/03/wine-on-astral.html",
-    "summary": "Article URL: https://astral-os.org/posts/2026/04/03/wine-on-astral.html Comments URL: https://news.ycombinator.com/item?id=48660671 Points: 13 # Comments: 3",
-    "pubDate": "Wed, 24 Jun 2026 14:38:30 +0000",
-    "source": "Hacker News",
-    "category": "tech"
-  },
-  {
-    "title": "PR spam today looks like email spam in the early 2000s",
-    "link": "https://www.greptile.com/blog/prs-on-openclaw",
-    "summary": "Article URL: https://www.greptile.com/blog/prs-on-openclaw Comments URL: https://news.ycombinator.com/item?id=48660579 Points: 100 # Comments: 68",
-    "pubDate": "Wed, 24 Jun 2026 14:32:12 +0000",
-    "source": "Hacker News",
-    "category": "tech"
-  },
-  {
-    "title": "Slate Auto's truck builder goes live for its $25k electric pickup",
-    "link": "https://arstechnica.com/cars/2026/06/here-are-five-ways-you-could-build-a-slate-ev-from-25000-to-37000/",
-    "summary": "From a bare-bones pickup to a loaded, wrapped SUV, here's what some Slates will cost.",
-    "pubDate": "Wed, 24 Jun 2026 14:27:16 +0000",
-    "source": "Ars Technica",
-    "category": "tech"
-  },
-  {
-    "title": "King meets women's cricket team that is not allowed to exist",
-    "link": "https://www.bbc.co.uk/news/articles/c4gykxdn6gwo?at_medium=RSS&at_campaign=rss",
-    "summary": "King Charles shows his support for the Afghan women's cricket team, who are no longer allowed to play official games.",
-    "pubDate": "Wed, 24 Jun 2026 14:20:13 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "Microspeak elaborated: Isn't escrow just a release candidate by another name?",
-    "link": "https://devblogs.microsoft.com/oldnewthing/20260623-00/?p=112462",
-    "summary": "Comments",
-    "pubDate": "Wed, 24 Jun 2026 14:20:05 -0500",
-    "source": "Lobsters",
-    "category": "tech"
-  },
-  {
-    "title": "Show HN: Nub – A Bun-like all-in-one toolkit for Node.js",
-    "link": "https://github.com/nubjs/nub",
-    "summary": "Article URL: https://github.com/nubjs/nub Comments URL: https://news.ycombinator.com/item?id=48660267 Points: 23 # Comments: 5",
-    "pubDate": "Wed, 24 Jun 2026 14:14:18 +0000",
-    "source": "Hacker News",
-    "category": "tech"
-  },
-  {
-    "title": "45°C cooling design cuts data center water use to near zero",
-    "link": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
-    "summary": "Article URL: https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/ Comments URL: https://news.ycombinator.com/item?id=48660178 Points: 329 # Comments: 219",
-    "pubDate": "Wed, 24 Jun 2026 14:10:11 +0000",
-    "source": "Hacker News",
-    "category": "tech"
-  },
-  {
-    "title": "The Samsung 990 Pro SSD Is on Sale for the Lowest Price I’ve Seen in 2026",
-    "link": "https://www.wired.com/story/the-best-prime-day-deal-on-memory-2026/",
-    "summary": "These Prime Day specials on a Samsung SSD and Lexar SD card represent the best digital storage deals you're likely to find this year.",
-    "pubDate": "Wed, 24 Jun 2026 14:07:04 +0000",
-    "source": "Wired",
-    "category": "tech"
-  },
-  {
-    "title": "We got a sneak peek of the final space shuttle set to go on public display",
-    "link": "https://arstechnica.com/space/2026/06/november-launch-set-for-space-shuttle-endeavours-towering-display/",
-    "summary": "\"It is an incredible exhibit and incredible sight.\"",
-    "pubDate": "Wed, 24 Jun 2026 14:04:56 +0000",
-    "source": "Ars Technica",
-    "category": "tech"
-  },
-  {
-    "title": "A judge says the Kennedy Center must update him on its plans — and address that tarp",
-    "link": "https://www.npr.org/2026/06/24/nx-s1-5869578/kennedy-center-tarp",
-    "summary": "A federal judge has ordered the Kennedy Center to update him on programming and operational plans. But with most of the staff gone and many artists booked elsewhere, what shows would they present?",
-    "pubDate": "Wed, 24 Jun 2026 14:02:47 -0400",
-    "source": "NPR",
-    "category": "general"
-  },
-  {
-    "title": "If you want to cut your screen time, just get a Brick",
-    "link": "https://techcrunch.com/2026/06/24/if-you-want-to-cut-your-screen-time-just-get-a-brick/",
-    "summary": "After years of struggling to curb my screen time, apparently all I needed was a $59 hunk of plastic.",
-    "pubDate": "Wed, 24 Jun 2026 14:01:35 +0000",
-    "source": "TechCrunch",
-    "category": "tech"
-  },
-  {
-    "title": "3 days left to save up to $190 on your TechCrunch Founder Summit 2026 pass",
-    "link": "https://techcrunch.com/2026/06/24/3-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
-    "summary": "You have just 3 days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 before Early Bird rates end on June 26 at 11:59 p.m. PT. Register here.",
-    "pubDate": "Wed, 24 Jun 2026 14:00:00 +0000",
-    "source": "TechCrunch",
-    "category": "tech"
-  },
-  {
-    "title": "Valor Equity Partners looks to raise a $2.5B Fund VII, per Bloomberg",
-    "link": "https://techcrunch.com/2026/06/24/valor-equity-partners-looks-to-raise-a-2-5b-fund-vii-per-bloomberg/",
-    "summary": "New details have emerged about Valor's latest fund, which last year announced it was raising an unspecified amount of capital.",
-    "pubDate": "Wed, 24 Jun 2026 13:58:14 +0000",
-    "source": "TechCrunch",
-    "category": "tech"
-  },
-  {
-    "title": "GB's Evans out of Wimbledon qualifying as singles career ends",
-    "link": "https://www.bbc.co.uk/sport/tennis/articles/cr7x01ex5rzo?at_medium=RSS&at_campaign=rss",
-    "summary": "Dan Evans' singles career is over after losing to Tristan Schoolkate in the second round of Wimbledon qualifying.",
-    "pubDate": "Wed, 24 Jun 2026 13:55:16 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "Air conditioning creates political divide in France",
-    "link": "https://www.bbc.co.uk/news/articles/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss",
-    "summary": "France is being forced to re-think its longstanding reservations about air-conditioning as temperatures soar.",
-    "pubDate": "Wed, 24 Jun 2026 13:51:24 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "Qualcomm to Acquire Modular",
-    "link": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
-    "summary": "https://investor.qualcomm.com/news-events/press-releases/new... https://www.modular.com/blog/qualcomm-to-acquire-modular https://x.com/clattner_llvm/status/2069769232477192354 , https://xcancel.com/clattner_llvm/status/2069769232477192354 Comments URL: https://news.ycombinator.com/item?id=4865979...",
-    "pubDate": "Wed, 24 Jun 2026 13:49:16 +0000",
-    "source": "Hacker News",
-    "category": "tech"
-  },
-  {
-    "title": "Ben Stokes reveals 'highest pressure' of England captaincy",
-    "link": "https://www.bbc.co.uk/sport/cricket/articles/c7vy10p37p5o?at_medium=RSS&at_campaign=rss",
-    "summary": "Captain Ben Stokes admits England are under the “highest amount of pressure” since he and coach Brendon McCullum took charge four years ago.",
-    "pubDate": "Wed, 24 Jun 2026 13:43:51 GMT",
-    "source": "BBC News",
-    "category": "general"
   }
 ]

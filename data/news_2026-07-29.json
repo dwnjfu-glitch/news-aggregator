@@ -1,11 +1,283 @@
 [
   {
+    "title": "陕北看海，黄土难寻",
+    "link": "https://sspai.com/post/112761",
+    "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
+    "pubDate": "Wed, 29 Jul 2026 15:00:51 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "角落新声｜没有书房，也要给音乐留一个角落：聊聊我的黑胶「窝棚」",
+    "link": "https://sspai.com/post/112715",
+    "summary": "无论处在什么环境里，都别忘记：我们有听音乐的权利。 查看全文",
+    "pubDate": "Wed, 29 Jul 2026 11:00:01 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "ICE’s New Detention Center Contracts Declare State Laws ‘Shall Not Apply’",
+    "link": "https://www.wired.com/story/ices-new-detention-contracts-declare-state-law-shall-not-apply/",
+    "summary": "One day after a federal judge ordered an ICE detention center opened to state health inspectors, the agency posted new contract terms that would void state oversight at four facilities.",
+    "pubDate": "Wed, 29 Jul 2026 09:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "OpenAI says its rogue AI tried to hack other companies",
+    "link": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
+    "summary": "The out-of-control AI found four logins which allowed it to access multiple unnamed online services.",
+    "pubDate": "Wed, 29 Jul 2026 08:49:27 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "派早报：微软发布网络安全模型 MAI-Cyber-1-Flash、美团发布 AI Agent 平台等",
     "link": "https://sspai.com/post/112837",
     "summary": "少数派的近期动态那个让你放松娱乐、拥抱心流、逃离纷扰或找回真我的角落，是如何构建起来的？「角落新声」征文活动火热征稿中你可能错过的好文章社区速递151|派友的六月好物盘点、携程被重罚热议和tomtoc ... 查看全文",
     "pubDate": "Wed, 29 Jul 2026 08:39:00 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "Ticket prices set to rise by 15p as Heathrow able to recover runway project money",
+    "link": "https://www.bbc.co.uk/news/articles/cdx8ke9gpnko?at_medium=RSS&at_campaign=rss",
+    "summary": "UK airport gets green light to charge airlines more to use the hub, which is expected to mean higher fares for flyers.",
+    "pubDate": "Wed, 29 Jul 2026 08:22:53 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "BTS withdraw from Grammys, a month after Asian pop prize introduced",
+    "link": "https://www.bbc.co.uk/news/articles/clyjgyd0225o?at_medium=RSS&at_campaign=rss",
+    "summary": "All seven members of the band post a statement online, saying they will boycott the 2027 ceremony.",
+    "pubDate": "Wed, 29 Jul 2026 08:16:15 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Report on Jewish diaspora finds biggest rise in antisemitism in UK",
+    "link": "https://www.bbc.co.uk/news/articles/c4gd240eelmo?at_medium=RSS&at_campaign=rss",
+    "summary": "The report also says 2025 was the deadliest year for Jews living outside Israel in more than 30 years.",
+    "pubDate": "Wed, 29 Jul 2026 08:11:01 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Five things we've learned from first half of F1 season",
+    "link": "https://www.bbc.co.uk/sport/formula1/articles/clyj898j2p0o?at_medium=RSS&at_campaign=rss",
+    "summary": "BBC F1 correspondent Andrew Benson analyses the five key things we've learned from the 2026 season so far.",
+    "pubDate": "Wed, 29 Jul 2026 07:29:19 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Grealish misses Man City tour despite training return",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cdx8kx5941no?at_medium=RSS&at_campaign=rss",
+    "summary": "Jack Grealish will not make his return in a Manchester City shirt after being left out of the club's pre-season tour of Asia as he continues to recover from a foot injury.",
+    "pubDate": "Wed, 29 Jul 2026 07:26:32 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
+    "link": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
+    "summary": "Article URL: https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers Comments URL: https://news.ycombinator.com/item?id=49094346 Points: 25 # Comments: 1",
+    "pubDate": "Wed, 29 Jul 2026 07:18:24 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Uefa World Cup boycott may be raised over Fifa plan",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cvg7vglq9wpo?at_medium=RSS&at_campaign=rss",
+    "summary": "Uefa's 55 member associations will hold an emergency meeting this week to discuss Fifa's controversial proposals to sell stakes in its major competitions.",
+    "pubDate": "Wed, 29 Jul 2026 07:16:37 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Diomande's rapid and remarkable rise to Real Madrid",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cm2g3dd2jxko?at_medium=RSS&at_campaign=rss",
+    "summary": "Yan Diomande has quickly gone from being a relatively unknown winger to the brink of becoming Real Madrid's record signing.",
+    "pubDate": "Wed, 29 Jul 2026 06:28:17 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "'I thought I would die': Survivors describe the shock and horror of powerful Japan earthquake",
+    "link": "https://www.bbc.co.uk/news/articles/cvgw52l5kyyo?at_medium=RSS&at_campaign=rss",
+    "summary": "Rescue operations are ongoing following the 6.8-magnitude quake, as survivors wrestle with the shock.",
+    "pubDate": "Wed, 29 Jul 2026 06:07:26 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The athlete who has never held her Olympic medal",
+    "link": "https://www.bbc.co.uk/sport/weightlifting/articles/cn8nxg5rvvko?at_medium=RSS&at_campaign=rss",
+    "summary": "The story of Cameroon Olympic medallist Madias Ngake's remarkable journey from sleeping rough and seeking asylum to competing for England at Glasgow 2026.",
+    "pubDate": "Wed, 29 Jul 2026 05:23:46 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Jordan intercepts Iranian missiles as U.S. and Saudi Arabia strike militias in Iraq",
+    "link": "https://www.npr.org/2026/07/29/g-s1-136063/us-saudi-arabia-iran-iraq",
+    "summary": "Jordan intercepted five missiles launched from Iran, the country's military said, hours after the U.S. military said it had knocked down an Iranian missile barrage launched against American forces.",
+    "pubDate": "Wed, 29 Jul 2026 05:07:03 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Amelia Dimoldenberg: I wouldn't invite Andy Burnham on Chicken Shop Date - but I'd love a chat",
+    "link": "https://www.bbc.co.uk/news/articles/c8rng7pm212o?at_medium=RSS&at_campaign=rss",
+    "summary": "The YouTube star on helping young creatives, and who she wants (and doesn’t want) on her show.",
+    "pubDate": "Wed, 29 Jul 2026 05:02:05 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Thousands in Sudan forced to flee city over fears of new paramilitary attack",
+    "link": "https://www.bbc.co.uk/news/articles/c4gx399l0wyo?at_medium=RSS&at_campaign=rss",
+    "summary": "International leaders have issued warnings the RSF may be preparing to attack the city, raising fears of further atrocities being committed.",
+    "pubDate": "Wed, 29 Jul 2026 05:01:46 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "'Israeli settlers laid siege to our home': Inside a Palestinian village under weekly attack",
+    "link": "https://www.bbc.co.uk/news/articles/clyxgn37lg5o?at_medium=RSS&at_campaign=rss",
+    "summary": "A home on the edge of al-Mughayyir has become a weekly frontline in the battle for the occupied West Bank.",
+    "pubDate": "Wed, 29 Jul 2026 05:01:12 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Night terrors, flashbacks and panic attacks - former police reveal trauma",
+    "link": "https://www.bbc.co.uk/news/articles/c4gjqy7lrx5o?at_medium=RSS&at_campaign=rss",
+    "summary": "The Home Office says it will expand support for officers exposed to trauma from policing.",
+    "pubDate": "Wed, 29 Jul 2026 05:01:04 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
+    "link": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
+    "summary": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.",
+    "pubDate": "Wed, 29 Jul 2026 05:00:07 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "'Machines are collaborators' at this new museum of AI art",
+    "link": "https://www.npr.org/2026/07/29/nx-s1-5894941/ai-art-dataland-refik-anadol",
+    "summary": "\"What is beyond reality?\" asks artist Refik Anadol. His latest projects include Dataland, an immersive AI art museum in Los Angeles, and an installation at the Smithsonian in Washington, D.C.",
+    "pubDate": "Wed, 29 Jul 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Rand Paul released Fauci's pandemic-era 'diary.' Now they'll face off on Capitol Hill",
+    "link": "https://www.npr.org/2026/07/29/nx-s1-5910542/fauci-rand-paul-diary-coronavirus-origin-lab-leak-hearing",
+    "summary": "At a Senate hearing Wednesday, Anthony Fauci is likely to face questions from Sen. Rand Paul related to the origins of the COVID-19 pandemic. Here's what you need to know",
+    "pubDate": "Wed, 29 Jul 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "More Americans are going bankrupt. What does that mean?",
+    "link": "https://www.npr.org/2026/07/29/nx-s1-5896065/personal-bankruptcy-rates-rising",
+    "summary": "The bankruptcy rate has risen about 48% between 2022 and 2025, although it's still below pre-pandemic levels.",
+    "pubDate": "Wed, 29 Jul 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "As extreme heat grips the South and West, here's how to stay safe",
+    "link": "https://www.npr.org/2026/07/29/nx-s1-5910515/heat-dome-stroke-weather",
+    "summary": "Experts say immersion in cold water before an ambulance arrives can greatly increase the chances of heat stroke survival and reduce the risk of long-term complications.",
+    "pubDate": "Wed, 29 Jul 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "To win over working class voters, Democrats need to stop talking about democracy",
+    "link": "https://www.npr.org/2026/07/29/nx-s1-5905696/2026-midterm-elections-democrats-working-class",
+    "summary": "Working class voters have moved away from the Democratic Party. Winning them back is key to the party's future, a new reports shows. But first, the messaging has to change.",
+    "pubDate": "Wed, 29 Jul 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "The Federal Reserve faces a critical decision on interest rates",
+    "link": "https://www.npr.org/2026/07/29/nx-s1-5910558/federal-reserve-interest-rates-inflation",
+    "summary": "Policymakers at the Federal Reserve are meeting to discuss interest rates Wednesday. They're expected to hold rates steady, but there's a chance they could raise rates to combat stubborn inflation.",
+    "pubDate": "Wed, 29 Jul 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Braun Promo Codes: 15% Off July",
+    "link": "https://www.wired.com/story/braun-promo-code/",
+    "summary": "Unlock exclusive savings on Braun IPL, shavers, and grooming products. Find verified Braun promo codes and expert tips to maximize your discounts.",
+    "pubDate": "Wed, 29 Jul 2026 05:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "More Tailscale tricks for your jailbroken Kindle",
+    "link": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+    "summary": "Article URL: https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes Comments URL: https://news.ycombinator.com/item?id=49093569 Points: 165 # Comments: 49",
+    "pubDate": "Wed, 29 Jul 2026 04:58:46 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Morning news brief",
+    "link": "https://www.npr.org/2026/07/29/nx-s1-5901898/morning-news-brief",
+    "summary": "President Trump met with the leaders of Ukraine and Israel on Tuesday at the White House, heatwave threatens firefighters' hold on wildfires in France and Spain.",
+    "pubDate": "Wed, 29 Jul 2026 04:46:26 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Cracking Windows Open: Porting RADV to Win32",
+    "link": "https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html",
+    "summary": "Article URL: https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html Comments URL: https://news.ycombinator.com/item?id=49093435 Points: 42 # Comments: 9",
+    "pubDate": "Wed, 29 Jul 2026 04:30:47 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "User Interfaces of the Demo Scene",
+    "link": "https://www.datagubbe.se/scenegui/",
+    "summary": "Article URL: https://www.datagubbe.se/scenegui/ Comments URL: https://news.ycombinator.com/item?id=49093434 Points: 164 # Comments: 27",
+    "pubDate": "Wed, 29 Jul 2026 04:30:36 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
+    "link": "https://transformer-transformer.github.io/",
+    "summary": "Article URL: https://transformer-transformer.github.io/ Comments URL: https://news.ycombinator.com/item?id=49093232 Points: 50 # Comments: 2",
+    "pubDate": "Wed, 29 Jul 2026 03:52:29 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "France evacuates thousands as fires displace a third of a million in southwest Europe",
+    "link": "https://www.npr.org/2026/07/29/g-s1-136057/france-wildfires",
+    "summary": "French authorities ordered 4,000 more people evacuated from tourist sites along its Atlantic coast, widening what may be France's largest peacetime evacuation.",
+    "pubDate": "Wed, 29 Jul 2026 03:22:44 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Haitian TPS holders in South Florida brace for end of their legal status",
+    "link": "https://www.npr.org/2026/07/29/nx-s1-5910837/haiti-tps-florida-trump-immigration",
+    "summary": "Temporary protected status was given to Haitians after the 2010 quake because Haiti was deemed too dangerous for a safe return. In June, the Supreme Court allowed the Trump administration to end TPS.",
+    "pubDate": "Wed, 29 Jul 2026 02:56:37 -0400",
+    "source": "NPR",
+    "category": "general"
   },
   {
     "title": "Iran and US trade strikes, shattering brief lull in fighting",
@@ -120,6 +392,14 @@
     "category": "tech"
   },
   {
+    "title": "Writing Toy Software Is A Joy (2025)",
+    "link": "https://blog.jsbarretto.com/post/software-is-joy",
+    "summary": "Comments",
+    "pubDate": "Wed, 29 Jul 2026 00:14:46 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "The Difference Between a Button and a Link",
     "link": "https://unplannedobsolescence.com/blog/buttons-vs-links/",
     "summary": "Article URL: https://unplannedobsolescence.com/blog/buttons-vs-links/ Comments URL: https://news.ycombinator.com/item?id=49091738 Points: 47 # Comments: 20",
@@ -166,6 +446,14 @@
     "pubDate": "Tue, 28 Jul 2026 23:50:34 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Manganin: tools matter",
+    "link": "https://blog.manganin.dev/blog/tools-matter/",
+    "summary": "Comments",
+    "pubDate": "Tue, 28 Jul 2026 23:44:39 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "A Typo Landed an Innocent Gamer in Prison for 18 Months",
@@ -228,6 +516,14 @@
     "link": "https://www.bbc.co.uk/sport/football/articles/clyxgpkkp0mo?at_medium=RSS&at_campaign=rss",
     "summary": "Former Hearts forward Ryan Stevenson delivers a scathing verdict as Wouter Vrancken's reign begins with a chastening Champions League elimination.",
     "pubDate": "Tue, 28 Jul 2026 22:56:30 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "I turned down Love Island and won silver at the Commonwealth Games",
+    "link": "https://www.bbc.co.uk/news/articles/cg4dve90w90o?at_medium=RSS&at_campaign=rss",
+    "summary": "Katie Shanahan was offered the chance to appear on the dating show last year - but decided she wanted to inspire a new generation of young swimmers.",
+    "pubDate": "Tue, 28 Jul 2026 22:10:02 GMT",
     "source": "BBC News",
     "category": "general"
   },
@@ -312,6 +608,14 @@
     "category": "tech"
   },
   {
+    "title": "Villa offer glimpse into future despite friendly loss",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cg4dv0qyvzvo?at_medium=RSS&at_campaign=rss",
+    "summary": "Youngsters Brian Madjo and George Hemmings scored in Aston Villa's defeat to Real Sociedad.",
+    "pubDate": "Tue, 28 Jul 2026 20:47:11 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
     "link": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
     "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.",
@@ -332,6 +636,14 @@
     "link": "https://kobolt.github.io/article-264.html",
     "summary": "Comments",
     "pubDate": "Tue, 28 Jul 2026 20:41:06 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Lobste.rs on Spinel",
+    "link": "https://intertwingly.net/blog/2026/07/28/What-Happens-After-You-IPO.html",
+    "summary": "Comments",
+    "pubDate": "Tue, 28 Jul 2026 20:30:21 -0500",
     "source": "Lobsters",
     "category": "tech"
   },
@@ -486,6 +798,190 @@
     "pubDate": "Tue, 28 Jul 2026 11:56:05 -0500",
     "source": "Lobsters",
     "category": "tech"
+  },
+  {
+    "title": "SpaceX空头持仓超260亿美元，账面获利超70亿",
+    "link": "https://36kr.com/newsflashes/3916490361433473?f=rss",
+    "summary": "随着AI热潮高涨，市场泡沫忧虑升温，做空者看到了逆势押注的机会。其中，做空马斯克旗下SpaceX的交易收益尤为丰厚。市场研究公司S3 Partners的预测分析主管伊霍尔·杜萨尼夫斯基周二表示，自6月SpaceX首次公开募股以来，空头投资者已套利约73亿美元。（新浪财经）",
+    "pubDate": "2026-07-29 17:18:51  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "联电：将在台南新建晶圆厂，以满足AI需求",
+    "link": "https://36kr.com/newsflashes/3916489602198917?f=rss",
+    "summary": "联电7月29日宣布，将扩建新加坡厂区无尘室产能，并同步于台南科学园区展开新厂外壳工程。此项扩产计划，旨在满足客户近期需求。联电表示，将在台湾兴建一座全新晶圆厂房，作为未来第七期（P7）及第八期（P8）厂区基地。台南新厂将扩大公司在先进封装领域的布局。（界面）",
+    "pubDate": "2026-07-29 17:14:08  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "美邦股份：上半年净利润5106.74万元，同比增长41.32%",
+    "link": "https://36kr.com/newsflashes/3916489232362888?f=rss",
+    "summary": "36氪获悉，美邦股份披露半年报，公司上半年实现营业收入5.55亿元，同比增长14.34%；归属于上市公司股东的净利润5106.74万元，同比增长41.32%；基本每股收益0.38元。",
+    "pubDate": "2026-07-29 17:10:47  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "九部门：开展科技金融可信数据空间创新发展试点，鼓励有条件的地区加强企业收支流水数据开放利用",
+    "link": "https://36kr.com/newsflashes/3916498524515973?f=rss",
+    "summary": "36氪获悉，中国人民银行等九部门联合印发《关于加强科技金融领域数据开发利用的通知》。《通知》坚持加强科技金融领域数据开放共享和融合运用，支持科技信息使用机构规范运用科技公共数据，鼓励地方向科技型企业提供授权开放信息渠道，推广信息查询、联合建模等模式。开展科技金融可信数据空间创新发展试点，鼓励有条件的地区加强企业收支流水数据开放利用，搭建行业研究信息交流平台，实现科技金融领域数据资源跨域共享和高效对接。支持市场化征信机构建设科技型企业数据库，丰富征信产品和服务供给。",
+    "pubDate": "2026-07-29 17:08:19  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "九部门：引导金融机构依托科技金融领域数据库，打造特色的科技型企业风控投研模型",
+    "link": "https://36kr.com/newsflashes/3916498262699394?f=rss",
+    "summary": "36氪获悉，中国人民银行等九部门联合印发《关于加强科技金融领域数据开发利用的通知》。《通知》围绕完善数据赋能科技金融全链条，聚焦融资对接、智能风控、产品创新等环节，引导金融机构依托科技金融领域数据库，构建科技型企业数字信用画像，打造特色的科技型企业风控投研模型，开发契合细分行业企业融资需求的科技金融产品。鼓励金融机构与相关部门合作，运用交易集中度、交易对手分布、交易对手稳定性等数据，开展产业链资金流动分析，绘制重点产业链图谱，“一链一策”精准匹配金融资源。",
+    "pubDate": "2026-07-29 17:08:03  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "凯美特气：上半年净利润2192.14万元，同比下降60.75%",
+    "link": "https://36kr.com/newsflashes/3916488552820353?f=rss",
+    "summary": "36氪获悉，凯美特气披露半年报，公司上半年实现营业收入3.16亿元，同比增长1.67%；归属于上市公司股东的净利润2192.14万元，同比下降60.75%；基本每股收益0.0315元/股。",
+    "pubDate": "2026-07-29 17:07:05  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "西部矿业：上半年净利润41.69亿元，同比增长123%",
+    "link": "https://36kr.com/newsflashes/3916496576556419?f=rss",
+    "summary": "36氪获悉，西部矿业发布2026年半年度业绩快报，报告期内实现营业收入394.43亿元，同比增长25%；归属于上市公司股东的净利润41.69亿元，同比增长123%。",
+    "pubDate": "2026-07-29 17:06:20  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "四川长虹电子科技公司增资至2.52亿，增幅约48%",
+    "link": "https://36kr.com/newsflashes/3916470681021833?f=rss",
+    "summary": "36氪获悉，天眼查App显示，近日，四川长虹电子科技有限公司发生工商变更，注册资本由1.7亿人民币增至2.52亿人民币，增幅约48%。该公司成立于2008年7月，法定代表人为温刚，经营范围包括电子（气）物理设备及其他电子设备制造，信息系统集成服务，软件开发，制冷、空调设备制造等，由四川长虹电子控股集团有限公司、四川电子军工集团有限公司共同持股。",
+    "pubDate": "2026-07-29 17:02:51  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "韩国将召开紧急会议讨论市场形势，此前韩股连续两日触发熔断",
+    "link": "https://36kr.com/newsflashes/3916476052188547?f=rss",
+    "summary": "韩国将于当地时间7月29日晚间召开紧急会议，讨论股市暴跌后的市场形势，跌势已令投资者持仓市值蒸发数十亿美元。韩国议员柳东秀表示，会议将由财政部长具润哲主持，韩国主要金融监管部门负责人都将参加，会议定于当地时间下午6时开始。韩国Kospi指数较6月高点已暴跌约40%。SK海力士公布的业绩弱于预期后，加剧了市场跌势，并引发投资者对人工智能投资热潮的质疑，同时散户抛售加速。此次下跌导致韩国股市连续第二个交易日触发全市场熔断机制。（界面）",
+    "pubDate": "2026-07-29 16:58:24  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "扎克伯格：美国不应为了在竞赛中占据优势，而封禁中国AI模型",
+    "link": "https://36kr.com/newsflashes/3916473736015232?f=rss",
+    "summary": "据英国《金融时报》、路透社7月29日报道，美国元公司首席执行官扎克伯格在接受媒体采访时表示，美国不应为了在人工智能（AI）竞赛中占据优势，而封禁中国AI模型。（环球网）",
+    "pubDate": "2026-07-29 16:54:02  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "国联民生：司法拍卖竞得民生证券0.02%股份将成全资子公司",
+    "link": "https://36kr.com/newsflashes/3916472632454537?f=rss",
+    "summary": "36氪获悉，国联民生公告，2026年7月29日，公司通过司法拍卖竞得泛海控股持有的民生证券242.43万股股份（占总股本0.02%），成交价格509.11万元，并已收到《成交确认书》。交易尚需办理股份交割等手续，完成后，公司对民生证券持股将从99.98%升至100%，民生证券将成其全资子公司。",
+    "pubDate": "2026-07-29 16:50:53  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "美联储主席沃什或因多重考量在本次会议暂缓加息",
+    "link": "https://36kr.com/newsflashes/3916469934812806?f=rss",
+    "summary": "本周，美国联邦储备委员会将召开联邦公开市场委员会（FOMC）议息会议。尽管金融市场预测当前存在接近四成的加息概率，且美联储内部决策层面临分歧，但受宏观经济数据研判、内部政策评估进程以及复杂政治环境等多重因素交织影响，美联储主席凯文·沃什预计将在本次会议上维持现有利率水平不变。（新浪财经）",
+    "pubDate": "2026-07-29 16:47:09  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "济南科技创业投资集团增资至15.1亿，增幅约104%",
+    "link": "https://36kr.com/newsflashes/3916449220783745?f=rss",
+    "summary": "36氪获悉，天眼查App显示，近日，济南科技创业投资集团有限公司发生工商变更，新增济南工业投资控股集团有限公司为股东，同时，注册资本由7.4亿人民币增至约15.1亿人民币，增幅约104%。该公司成立于2001年4月，法定代表人为秦文，经营范围包括创业投资，私募股权投资基金管理、创业投资基金管理服务等，由济南高新财金投资有限公司及上述新增股东等共同持股。",
+    "pubDate": "2026-07-29 16:42:06  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "Anthropic首席执行官等多位AI大牛签署联名信，呼吁控制人工智能发展步伐",
+    "link": "https://36kr.com/newsflashes/3916455460679298?f=rss",
+    "summary": "超过1100名来自领先人工智能公司的高管及员工联名签署了一封公开信，呼吁美国政府 “支持国际社会共同打造技术与治理工具，以此对前沿自动化人工智能的发展节奏实施有序管控”。这封信于当地时间周二发布，并获得了Anthropic与OpenAI 的支持，签署者包括Anthropic首席执行官达里奥・阿莫代伊、OpenAI首席科学家雅各布・帕霍茨基、谷歌安全与对齐副总裁安卡・德拉根，以及Meta AI首席科学家赵晟佳。上周，在一场网络安全测试中，OpenAI模型突破内部测试系统，并入侵模型代码库平台 Hugging Face，引发人工智能行业从业人员警觉。（新浪财经）",
+    "pubDate": "2026-07-29 16:38:26  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "国产首颗OLED TDDI芯片量产",
+    "link": "https://36kr.com/newsflashes/3916467077836418?f=rss",
+    "summary": "36氪获悉，近日，集创北方自主研发的国内首颗OLED显示触控一体化（TDDI）芯片ICNA3611实现在国内知名品牌主流机型中的规模化量产。",
+    "pubDate": "2026-07-29 16:36:20  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "乘联分会：7月1-26日全国乘用车新能源市场零售73.8万辆，同比下降2%",
+    "link": "https://36kr.com/newsflashes/3916465434668421?f=rss",
+    "summary": "36氪获悉，乘联分会发布数据，7月1-26日，全国乘用车市场零售112.3万辆，同比去年7月同期下降18%，较上月同期下降13%，今年以来累计零售982.4万辆，同比下降20%；7月1-26日，全国乘用车新能源市场零售73.8万辆，同比去年7月同期下降2%，较上月同期下降10%，今年以来累计零售544.3万辆，同比下降13%；7月1-26日，全国乘用车市场新能源零售渗透率65.7%。",
+    "pubDate": "2026-07-29 16:34:39  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "虹软科技：实际控制人提议1亿元至1.5亿元回购股份",
+    "link": "https://36kr.com/newsflashes/3916454493400710?f=rss",
+    "summary": "36氪获悉，虹软科技公告，公司实际控制人、董事长、总经理HuiDeng提议公司使用自有资金以集中竞价交易方式回购股份，回购资金总额不低于1亿元(含)，不超过1.5亿元(含)，回购股份将用于员工持股计划或股权激励。",
+    "pubDate": "2026-07-29 16:34:28  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "甘肃能源：庆阳绿电聚合试点项目二期100万千瓦新能源项目获核准",
+    "link": "https://36kr.com/newsflashes/3916453580352897?f=rss",
+    "summary": "36氪获悉，甘肃能源公告，公司全资子公司酒汇公司所属甘肃电投庆阳新能源有限责任公司投资建设的甘肃庆阳东数西算产业园区绿电聚合试点项目二期工程100万千瓦新能源项目，近日获得庆阳市能源局核准批复。该项目装机容量达公司2025年末已发电控股装机容量的10%以上。项目存在进度未达预期及收益不达预期的风险，投资者需谨慎决策。",
+    "pubDate": "2026-07-29 16:31:30  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "AI智能浪潮重塑母婴赛道，吸牛裤如何实现 “智能育儿”？",
+    "link": "https://36kr.com/p/3916187215408776?f=rss",
+    "summary": "导语： 凌晨三点，新手爸妈第三次起身，摸黑查看宝宝尿裤有无侧漏、臀部是否闷出红疹。依靠经验熬夜看护的传统育儿模式，已是无数家庭的共同困扰。而随着 AI 技术产业化落地，这一育儿痛点迎来全新解法。 2022 年 ChatGPT 问世，拉开生成式 AI 商业化序幕。国内 AI 产业蓬勃发展，百模大战持续推进，AI 感知、物联网、大数据等技术日趋成熟，为实体产业智能化升级提供坚实支撑。 母婴作为刚需赛道，顺势拥抱智能变革。新锐品牌吸牛裤抢先布局 AI 智能尿裤赛道，精准捕捉行业变革风口，依托自研硬核技术，开辟贴身智能育儿新路径。 图片1 育儿需求 从“满足生存”转向“精准科学养护” 90、95...",
+    "pubDate": "2026-07-29 16:30:52  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "爱马仕二季度销售增长7%",
+    "link": "https://36kr.com/newsflashes/3916450014506377?f=rss",
+    "summary": "法国奢侈品集团爱马仕近日公布的第二季度业绩显示，该公司当季销售额达41亿欧元，按固定汇率计算同比增长7%，符合市场预期。从区域市场看，除中东地区外，所有市场在截至6月底的三个月内均实现增长。（新浪财经）",
+    "pubDate": "2026-07-29 16:28:50  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "山西省制造业振兴升级股权投资基金登记成立，出资额100.1亿",
+    "link": "https://36kr.com/newsflashes/3916448764931714?f=rss",
+    "summary": "36氪获悉，天眼查App显示，近日，山西省制造业振兴升级股权投资基金合伙企业（有限合伙）成立，执行事务合伙人为国投创新投资管理有限公司，出资额100.1亿人民币，经营范围为以私募基金从事股权投资、投资管理、资产管理等活动。合伙人信息显示，该基金由山西产投资本管理有限公司、山西建设投资集团有限公司、山西焦煤集团有限责任公司、山西潞安矿业（集团）有限责任公司、晋能控股集团有限公司等共同出资。",
+    "pubDate": "2026-07-29 16:24:36  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "华辰芯光完成超亿元融资，全栈技术能力突破高端激光芯片封锁",
+    "link": "https://36kr.com/p/3916108853521792?f=rss",
+    "summary": "文 | 张卓倩 编辑 | 袁斯来 近日，国内IDM激光芯片企业浙江华辰芯光技术有限公司（简称华辰芯光）宣布完成新一轮超亿元级人民币融资。本轮融资由同创伟业领投，张江垚坤、洪山资本跟投，部分老股东追投，该批资金将主要用于加强华辰芯光的多系列量产芯片可靠性测试能力建设。 华辰芯光坚定走高端光芯片研发发展路线，自公司成立之初就确立了“IDM（垂直整合制造）芯片制造模式”及“研发高可靠大功率单模通信激光芯片”的双轮驱动战略。通过长期技术攻关，逐步攻克高端光芯片的底层制造壁垒，其GaAs核心产品1000mW 974nm/976nm泵浦激光芯片已通过严格的内部测试，光电性能与可靠性可对标美国同级产品...",
+    "pubDate": "2026-07-29 13:38:46  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "在大模型的下一阶段议题上，我们找到了一家做持续学习的中国Neo Lab",
+    "link": "https://36kr.com/p/3916202023660929?f=rss",
+    "summary": "文｜王欣逸 编辑｜张雨忻 见到Mind Lab创始人陈锴杰，是在北京的晚上9点半，他已经见了一天的投资人。 陈锴杰是一位连续创业者，从杜克大学休学，做过AI互动故事平台MidReal，也推出了Personal Agent应用Macaron（马卡龙），上线当天就登顶了Product Hunt日榜；2025年10月，Mind Lab成立，团队约30余人，Mind Lab创始人Andrew Chen曾和姚顺雨共同发表FireAct论文，团队主要来自xAI、DeepMind、DeepSeek、字节跳动Seed、MIT和清华大学等企业与高校。他们以Neo Lab的形象再度出现在大众的视野里。 他们...",
+    "pubDate": "2026-07-29 12:10:36  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
   },
   {
     "title": "知情人士：市场监管总局将开展光伏行业价格合规指导活动",
@@ -678,6 +1174,14 @@
     "pubDate": "2026-07-29 07:30:00  +0800",
     "source": "36Kr",
     "category": "tech-cn"
+  },
+  {
+    "title": "Papers with open peer-review reports are less likely to be retracted",
+    "link": "https://www.nature.com/articles/d41586-026-02282-1",
+    "summary": "Nature, Published online: 29 July 2026; doi:10.1038/d41586-026-02282-1 Researchers say that transparent publishing practices could be associated with research quality, but more evidence is needed.",
+    "pubDate": "2026-07-29",
+    "source": "Nature",
+    "category": "science"
   },
   {
     "title": "The US is banning foreign robots",

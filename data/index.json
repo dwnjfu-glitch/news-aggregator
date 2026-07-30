@@ -120,6 +120,14 @@
     "category": "tech"
   },
   {
+    "title": "Ultrafast X-rays capture chemistry unfolding atom by atom",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260729010726.htm",
+    "summary": "Ultrafast X-rays revealed how a molecule converts absorbed light into motion in just trillionths of a second. Individual atoms recorded different stages of the process, opening a powerful new window into light-driven chemistry.",
+    "pubDate": "Wed, 29 Jul 2026 22:18:28 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "Salman Rushdie attacker convicted of terror offences",
     "link": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&at_campaign=rss",
     "summary": "Hadi Matar, 28, was convicted of attempting to help Hezbollah by attacking the British-Indian author.",
@@ -190,6 +198,14 @@
     "pubDate": "Wed, 29 Jul 2026 21:02:12 +0000",
     "source": "TechCrunch",
     "category": "tech"
+  },
+  {
+    "title": "AI reveals explosive bursts in bird evolution",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260729010709.htm",
+    "summary": "Songbirds appear to have evolved through rare explosions of change separated by long periods of slower development. Many of those bursts lined up with major climate shifts, suggesting that environmental upheaval can reshape life in powerful ways.",
+    "pubDate": "Wed, 29 Jul 2026 21:01:26 EDT",
+    "source": "Science Daily",
+    "category": "science"
   },
   {
     "title": "SalesPatriot (YC W25) Is Hiring FDEs",
@@ -940,22 +956,6 @@
     "link": "https://laurentiugabriel.github.io/token-town/",
     "summary": "Article URL: https://laurentiugabriel.github.io/token-town/ Comments URL: https://news.ycombinator.com/item?id=49097003 Points: 19 # Comments: 0",
     "pubDate": "Wed, 29 Jul 2026 13:05:17 +0000",
-    "source": "Hacker News",
-    "category": "tech"
-  },
-  {
-    "title": "BBC cancels Blankety Blank, Celebrity Mastermind and Live at the Apollo due to budget cuts",
-    "link": "https://www.bbc.co.uk/news/articles/clyx8j33k7zo?at_medium=RSS&at_campaign=rss",
-    "summary": "The corporation said it was \"incredibly proud\" of all three shows, but that it must make savings.",
-    "pubDate": "Wed, 29 Jul 2026 13:02:12 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "Handbook.md shows that long policy documents do not reliably govern agents",
-    "link": "https://arxiv.org/abs/2607.25398",
-    "summary": "Article URL: https://arxiv.org/abs/2607.25398 Comments URL: https://news.ycombinator.com/item?id=49096969 Points: 94 # Comments: 58",
-    "pubDate": "Wed, 29 Jul 2026 13:01:57 +0000",
     "source": "Hacker News",
     "category": "tech"
   }

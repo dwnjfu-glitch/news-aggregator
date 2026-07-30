@@ -96,6 +96,14 @@
     "category": "general"
   },
   {
+    "title": "C++ float-to-int conversion can be undefined behavior",
+    "link": "https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/",
+    "summary": "Comments",
+    "pubDate": "Wed, 29 Jul 2026 22:47:26 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
     "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
     "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
@@ -949,14 +957,6 @@
     "summary": "Article URL: https://arxiv.org/abs/2607.25398 Comments URL: https://news.ycombinator.com/item?id=49096969 Points: 94 # Comments: 58",
     "pubDate": "Wed, 29 Jul 2026 13:01:57 +0000",
     "source": "Hacker News",
-    "category": "tech"
-  },
-  {
-    "title": "DoorDash is building its own drone delivery business",
-    "link": "https://techcrunch.com/2026/07/29/doordash-is-building-its-own-drone-delivery-business/",
-    "summary": "DoorDash has received FAA approval to operate a commercial drone delivery service in the United States.",
-    "pubDate": "Wed, 29 Jul 2026 13:00:00 +0000",
-    "source": "TechCrunch",
     "category": "tech"
   }
 ]

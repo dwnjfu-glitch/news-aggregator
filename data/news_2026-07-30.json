@@ -368,6 +368,190 @@
     "category": "general"
   },
   {
+    "title": "Watch: Women's Open first-round highlights",
+    "link": "https://www.bbc.co.uk/iplayer/episode/m002zm99?at_medium=RSS&at_campaign=rss",
+    "summary": "Highlights of the opening day of the Women’s Open from Royal Lytham & St Annes.",
+    "pubDate": "Thu, 30 Jul 2026 20:30:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "MP Diane Abbott readmitted into Labour Party after suspension",
+    "link": "https://www.bbc.co.uk/news/articles/cy5dwd1p374o?at_medium=RSS&at_campaign=rss",
+    "summary": "Joani Reid, the MP for East Kilbride and Strathaven, will also be let back into Labour, a party spokesperson confirmed.",
+    "pubDate": "Thu, 30 Jul 2026 19:48:37 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Palestine Action ban to be reviewed by Supreme Court",
+    "link": "https://www.bbc.co.uk/news/articles/c87n321w9qlo?at_medium=RSS&at_campaign=rss",
+    "summary": "The UK's highest court gives Palestine Action's co-founder permission to appeal the government's proscription of the group under anti-terrorism legislation.",
+    "pubDate": "Thu, 30 Jul 2026 19:45:56 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
+    "link": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
+    "summary": "Friend, the AI wearable, can now talk to its users — for an enhanced price.",
+    "pubDate": "Thu, 30 Jul 2026 19:44:16 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Archbishop of Canterbury committed to £100m slavery fund",
+    "link": "https://www.bbc.co.uk/news/articles/cp9e03ymreyo?at_medium=RSS&at_campaign=rss",
+    "summary": "Dame Sarah Mullally has renewed her commitment to the fund on a visit to Cape Coast Castle in Ghana.",
+    "pubDate": "Thu, 30 Jul 2026 19:44:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+    "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+    "summary": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
+    "pubDate": "Thu, 30 Jul 2026 18:57:58 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "UEFA and its national associations will not participate in FIFA competitions",
+    "link": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
+    "summary": "Article URL: https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/ Comments URL: https://news.ycombinator.com/item?id=49113929 Points: 289 # Comments: 177",
+    "pubDate": "Thu, 30 Jul 2026 18:40:52 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Making Postgres queues scale",
+    "link": "https://www.dbos.dev/blog/making-postgres-queues-scale",
+    "summary": "Article URL: https://www.dbos.dev/blog/making-postgres-queues-scale Comments URL: https://news.ycombinator.com/item?id=49113913 Points: 50 # Comments: 2",
+    "pubDate": "Thu, 30 Jul 2026 18:39:32 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Florida plans to build air taxi pads using $200M intended for EV chargers",
+    "link": "https://techcrunch.com/2026/07/30/florida-plans-to-build-air-taxi-pads-using-200m-intended-for-ev-chargers/",
+    "summary": "Florida wants to use federal EV charger funds to build an air taxi network connecting golf courses, luxury apartment buildings, and airports.",
+    "pubDate": "Thu, 30 Jul 2026 18:38:12 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "What Would It Mean to See a New Color?",
+    "link": "https://www.newyorker.com/magazine/2026/08/03/what-would-it-mean-to-see-a-new-color",
+    "summary": "Article URL: https://www.newyorker.com/magazine/2026/08/03/what-would-it-mean-to-see-a-new-color Comments URL: https://news.ycombinator.com/item?id=49113864 Points: 8 # Comments: 0",
+    "pubDate": "Thu, 30 Jul 2026 18:36:23 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "So you want to use plants to reduce CO₂",
+    "link": "https://dynomight.net/plants/",
+    "summary": "Article URL: https://dynomight.net/plants/ Comments URL: https://news.ycombinator.com/item?id=49113801 Points: 38 # Comments: 19",
+    "pubDate": "Thu, 30 Jul 2026 18:31:02 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+    "link": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+    "summary": "We recently used DeepSeek V4 Flash as a teacher for finance tasks with GPT-OSS-120B. Distillation works well on this problem. At a constrained 8k token budget, our self-distilled 120B scores 83.61% on FinanceReasoning, above Kimi K3 (81.93%) and Inkling (65.13%). We released the 20B open weights....",
+    "pubDate": "Thu, 30 Jul 2026 18:13:06 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents",
+    "link": "https://github.com/yashmahajan10/llm-differential-privacy-gateway",
+    "summary": "Article URL: https://github.com/yashmahajan10/llm-differential-privacy-gateway Comments URL: https://news.ycombinator.com/item?id=49113543 Points: 8 # Comments: 0",
+    "pubDate": "Thu, 30 Jul 2026 18:08:48 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "LinkedIn adds a button to report AI-generated ‘slop’",
+    "link": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
+    "summary": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool.",
+    "pubDate": "Thu, 30 Jul 2026 18:05:21 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Show HN: Tally – check a spreadsheet's numbers against their source, in-browser",
+    "link": "https://tally.jiegou.ai/",
+    "summary": "Article URL: https://tally.jiegou.ai/ Comments URL: https://news.ycombinator.com/item?id=49113381 Points: 4 # Comments: 0",
+    "pubDate": "Thu, 30 Jul 2026 17:55:54 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
+    "link": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do?at_medium=RSS&at_campaign=rss",
+    "summary": "Romania, Bulgaria and Serbia are also grappling with the effects of a series of prolonged heatwaves and low rainfall.",
+    "pubDate": "Thu, 30 Jul 2026 17:55:24 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "CodePen 2.0",
+    "link": "https://chriscoyier.net/2026/07/30/codepen-2-0/",
+    "summary": "Article URL: https://chriscoyier.net/2026/07/30/codepen-2-0/ Comments URL: https://news.ycombinator.com/item?id=49113338 Points: 51 # Comments: 13",
+    "pubDate": "Thu, 30 Jul 2026 17:52:51 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic",
+    "link": "https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/",
+    "summary": "This week on Uncanny Valley, we discuss the open- vs. closed-source debate in AI, key players in White House AI policy, and how to stop your chatbot logs from showing up in search-engine results.",
+    "pubDate": "Thu, 30 Jul 2026 17:51:10 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Synthetic-user startup Simile raises $200M at $2B valuation 5 months after $100M Series A",
+    "link": "https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/",
+    "summary": "Add another member to the fast-and-furious AI unicorn club: Simile.",
+    "pubDate": "Thu, 30 Jul 2026 17:50:11 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Back to School Office Chair Deals 2026: $200 and Less",
+    "link": "https://www.wired.com/story/back-to-school-office-chair-deals-2026/",
+    "summary": "Here are the best back-to-school deals under $200 on comfy, ergonomic chairs for all-nighters and cram sessions",
+    "pubDate": "Thu, 30 Jul 2026 17:49:10 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Spotify launches ‘User Notes’ to let users add memories to songs",
+    "link": "https://techcrunch.com/2026/07/30/spotify-launches-user-notes-to-let-users-add-memories-to-songs/",
+    "summary": "Spotify says the new feature is designed to let users add personal captions to their favorite songs, such as noting why a track was added to a playlist or when they first discovered it",
+    "pubDate": "Thu, 30 Jul 2026 17:41:25 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "British Airways flight called mayday on approach to Heathrow",
+    "link": "https://www.bbc.co.uk/news/articles/cn8n1knkkz9o?at_medium=RSS&at_campaign=rss",
+    "summary": "The call was made on an Airbus A320 flying from Dusseldorf airport in Germany on 6 July following two stall warnings.",
+    "pubDate": "Thu, 30 Jul 2026 17:34:26 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
+    "link": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
+    "summary": "Article URL: https://www.bottlenecklabs.com/blog/autonomously-run-businesses Comments URL: https://news.ycombinator.com/item?id=49113059 Points: 170 # Comments: 101",
+    "pubDate": "Thu, 30 Jul 2026 17:31:07 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "App+1 | 免费、多功能的远程控制新选择：网易 UU 远程",
     "link": "https://sspai.com/post/112405",
     "summary": "从远程桌面到终端、端口映射和云电脑，网易 UU 远程帮你一站式搞定。 查看全文",
@@ -376,12 +560,300 @@
     "category": "tech-cn"
   },
   {
+    "title": "Why limited war with the US may suit Iran better than peace",
+    "link": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
+    "summary": "Iran may believe it can control its conflict carefully enough to keep pressure on the US while avoiding an all-out war.",
+    "pubDate": "Thu, 30 Jul 2026 17:26:01 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
+    "link": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
+    "summary": "The territory's leader said the influx is overwhelming resources and urged the Spanish government to intervene.",
+    "pubDate": "Thu, 30 Jul 2026 17:19:27 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Advancing the price-performance frontier with GPT‑5.6",
+    "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+    "summary": "Article URL: https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/ Comments URL: https://news.ycombinator.com/item?id=49112867 Points: 358 # Comments: 233",
+    "pubDate": "Thu, 30 Jul 2026 17:15:51 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "For the First Time, Zoox Can Charge People for Rides in Its Steering-Wheel-Free Robotaxis",
+    "link": "https://www.wired.com/story/zoox-becomes-the-first-steering-wheel-free-robotaxi-to-charge-for-rides-in-the-us/",
+    "summary": "The temporary exemption from federal safety standards will let Amazon’s Zoox launch a real, paid robotaxi service in Las Vegas.",
+    "pubDate": "Thu, 30 Jul 2026 17:06:13 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Read this before you buy that TV streaming stick",
+    "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+    "summary": "Article URL: https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/ Comments URL: https://news.ycombinator.com/item?id=49112744 Points: 240 # Comments: 109",
+    "pubDate": "Thu, 30 Jul 2026 17:04:53 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Rise Reforming (YC S26) Is Hiring",
+    "link": "https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer",
+    "summary": "Article URL: https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer Comments URL: https://news.ycombinator.com/item?id=49112683 Points: 0 # Comments: 0",
+    "pubDate": "Thu, 30 Jul 2026 17:00:21 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Chrome Needs Twice-a-Week Patching Thanks to AI Bug Hunting",
+    "link": "https://www.wired.com/story/chrome-needs-twice-a-week-patching-thanks-to-ai-bug-hunting-for-now/",
+    "summary": "The two Chrome updates in June patched more bugs than the 23 updates before them. Now, Google is ramping up its patching schedule thanks to AI-assisted vulnerability discovery.",
+    "pubDate": "Thu, 30 Jul 2026 17:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "European nations to boycott World Cup if Fifa goes ahead with investment plan",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
+    "summary": "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposals.",
+    "pubDate": "Thu, 30 Jul 2026 16:47:40 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Greens review social media operation as Polanski row rumbles on",
+    "link": "https://www.bbc.co.uk/news/articles/cz97ke8dn9wo?at_medium=RSS&at_campaign=rss",
+    "summary": "The Green Party is grappling with how to manage its social media following a controversial post by its leader.",
+    "pubDate": "Thu, 30 Jul 2026 16:42:21 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "How Olinia Turns Mexico's EV Ambition into Reality",
+    "link": "https://spectrum.ieee.org/mexico-olinia-car-electric-vehicle",
+    "summary": "Article URL: https://spectrum.ieee.org/mexico-olinia-car-electric-vehicle Comments URL: https://news.ycombinator.com/item?id=49112368 Points: 28 # Comments: 29",
+    "pubDate": "Thu, 30 Jul 2026 16:36:47 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Stacked PRs are now live on GitHub",
+    "link": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+    "summary": "Article URL: https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/ Comments URL: https://news.ycombinator.com/item?id=49112232 Points: 188 # Comments: 68",
+    "pubDate": "Thu, 30 Jul 2026 16:26:16 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "England captaincy could be what Root needs - Vaughan",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/ckg357xm0jlo?at_medium=RSS&at_campaign=rss",
+    "summary": "Former skipper Michael Vaughan says the England Test captaincy could be \"exactly what Joe Root needs\" after the 35-year-old is appointed to the role for a second time.",
+    "pubDate": "Thu, 30 Jul 2026 16:20:36 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Burnham says he told Trump UK will be pragmatic about North Sea oil",
+    "link": "https://www.bbc.co.uk/news/articles/c70gr75xzg5o?at_medium=RSS&at_campaign=rss",
+    "summary": "Andy Burnham says he told the US president he couldn't ignore North Sea resources when people are struggling.",
+    "pubDate": "Thu, 30 Jul 2026 16:19:08 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "How does the UK fight wildfires?",
+    "link": "https://www.bbc.co.uk/sounds/play/p0p137nd?at_medium=RSS&at_campaign=rss",
+    "summary": "Fast moving Suffolk wildfire \"is not yet under control\" as major incident declared.",
+    "pubDate": "Thu, 30 Jul 2026 16:13:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Okta buys AI security startup Permiso — source says for about $200M",
+    "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+    "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
+    "pubDate": "Thu, 30 Jul 2026 16:09:42 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Tesla made its 10 millionth EV",
+    "link": "https://techcrunch.com/2026/07/30/tesla-made-its-10-millionth-ev/",
+    "summary": "The milestone means Tesla is halfway to accomplishing one of the four core product goals Elon Musk has to hit to unlock his full $1 trillion pay package.",
+    "pubDate": "Thu, 30 Jul 2026 16:00:25 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "The New Friend AI Pendant Can Now Talk Back to You",
+    "link": "https://www.wired.com/story/the-friend-2-necklace-can-talk-back-to-you-now/",
+    "summary": "Avi Schiffmann has a new version of his controversial AI companion. It’s more expensive, and you can’t change its personality.",
+    "pubDate": "Thu, 30 Jul 2026 16:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Quantum computers outperform classical ones, with results you can trust",
+    "link": "https://arstechnica.com/science/2026/07/if-a-quantum-computer-outperforms-normal-ones-can-you-tell-if-its-right/",
+    "summary": "Three approaches to the issue of quantum results that can't be verified classically.",
+    "pubDate": "Thu, 30 Jul 2026 15:59:37 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Man impaled by a hiking pole treks 10 miles down mountain",
+    "link": "https://www.bbc.co.uk/news/videos/cvg0nlkmzewo?at_medium=RSS&at_campaign=rss",
+    "summary": "Instead of calling for a helicopter rescue, David Cifaldi hiked down Montana's Granite Peak with a hiking pole piercing his side.",
+    "pubDate": "Thu, 30 Jul 2026 15:47:09 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "When will fusion power startup Commonwealth Fusion Systems go public?",
+    "link": "https://techcrunch.com/2026/07/30/when-will-fusion-power-startup-commonwealth-fusion-systems-go-public/",
+    "summary": "There are fresh signs that fusion power startup Commonwealth Fusion Systems will list in the next two to three years.",
+    "pubDate": "Thu, 30 Jul 2026 15:45:36 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Meta says AI is making it easier to build new apps — and more are coming",
+    "link": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
+    "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way.",
+    "pubDate": "Thu, 30 Jul 2026 15:41:16 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Solving poker in custom WebGPU kernels",
+    "link": "https://phulin.me/blog/poker/",
+    "summary": "Article URL: https://phulin.me/blog/poker/ Comments URL: https://news.ycombinator.com/item?id=49111523 Points: 9 # Comments: 1",
+    "pubDate": "Thu, 30 Jul 2026 15:38:54 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Netflix lands global streaming deal for ‘The Walking Dead’",
+    "link": "https://techcrunch.com/2026/07/30/netflix-lands-global-streaming-deal-for-the-walking-dead/",
+    "summary": "Netflix just signed a massive new licensing agreement worth $500 million to bring The Walking Dead Universe to international markets.",
+    "pubDate": "Thu, 30 Jul 2026 15:27:08 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",
+    "link": "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/",
+    "summary": "Article URL: https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/ Comments URL: https://news.ycombinator.com/item?id=49111305 Points: 120 # Comments: 62",
+    "pubDate": "Thu, 30 Jul 2026 15:22:46 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
+    "link": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
+    "summary": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
+    "pubDate": "Thu, 30 Jul 2026 15:19:15 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Fusion power darling Commonwealth Fusion Systems raises another $1B",
+    "link": "https://techcrunch.com/2026/07/30/fusion-power-darling-commonwealth-fusion-systems-raises-another-1b/",
+    "summary": "Commonwealth Fusion Systems raised $1 billion as the startup moves toward its first commercial fusion power plant.",
+    "pubDate": "Thu, 30 Jul 2026 15:17:39 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+    "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+    "summary": "Article URL: https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/ Comments URL: https://news.ycombinator.com/item?id=49111237 Points: 347 # Comments: 317",
+    "pubDate": "Thu, 30 Jul 2026 15:15:48 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Challenging times ahead for Newcastle - Shearer",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cd0xvpmny55o?at_medium=RSS&at_campaign=rss",
+    "summary": "MOTD pundit and Newcastle United legend Alan Shearer explains why he is worried about what will happen next at his old club after the departure of manager Eddie Howe.",
+    "pubDate": "Thu, 30 Jul 2026 15:10:54 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The Economic Benefit of Refactoring",
+    "link": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
+    "summary": "Article URL: https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html Comments URL: https://news.ycombinator.com/item?id=49111176 Points: 138 # Comments: 61",
+    "pubDate": "Thu, 30 Jul 2026 15:10:27 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Gemini Robotics 2 Brings Google's AI Into the Physical World",
+    "link": "https://www.wired.com/story/google-gemini-can-control-humanoid-robots/",
+    "summary": "The latest version of Google DeepMind's AI model includes a significant jump into “physical AGI.” But plopping AI into the real world comes with risks.",
+    "pubDate": "Thu, 30 Jul 2026 15:04:22 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Forward-deployed engineers are the AI industry’s latest talent obsession",
+    "link": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
+    "summary": "A new study estimates only 2,000 U.S. engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale.",
+    "pubDate": "Thu, 30 Jul 2026 15:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Razer Huntsman V3 HE Review: Jumping on the Bandwagon",
+    "link": "https://www.wired.com/review/razer-huntsman-v3-hall-effect-keyboard/",
+    "summary": "Razer has finally caved and made its first Hall Effect gaming keyboard. I dug into its switches, features, and gaming performance to see if it was worth the wait.",
+    "pubDate": "Thu, 30 Jul 2026 15:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Show HN: Claude-account – switch Claude Code accounts without logging in again",
+    "link": "https://github.com/hamzarehmandeveloper/claude-account",
+    "summary": "I use separate Claude Code accounts for work and personal projects. Having to log out and go through the login flow every time I switched accounts became annoying, so I built a small CLI to solve it. The commands are intentionally simple: claude account add myworkaccount claude account add mypers...",
+    "pubDate": "Thu, 30 Jul 2026 14:58:59 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Paging Through a Parquet File in DuckDB: File_row_number or Offset?",
+    "link": "https://rusty.today/blog/paging-parquet-duckdb-file-row-number-vs-offset/",
+    "summary": "Article URL: https://rusty.today/blog/paging-parquet-duckdb-file-row-number-vs-offset/ Comments URL: https://news.ycombinator.com/item?id=49111006 Points: 36 # Comments: 3",
+    "pubDate": "Thu, 30 Jul 2026 14:58:07 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Why do parts of England and Wales keep falling into drought?",
+    "link": "https://www.bbc.co.uk/news/articles/c9d8gnx8w8qo?at_medium=RSS&at_campaign=rss",
+    "summary": "More than half of England and the whole of Wales has been declared to be in drought this week - the third such event over the past five years.",
+    "pubDate": "Thu, 30 Jul 2026 14:54:42 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "在流媒体时代，搭建一个专属于自己的「音乐探索系统」",
     "link": "https://sspai.com/post/112656",
     "summary": "信息过剩时代真正的难题，不是无法获得更多，而是不知道应该舍弃什么。——BrianEno（英国作曲家、音乐制作人和音乐理论家）前言过去的人找寻，乃至于更深层次地喜欢上某位音乐家或者某张专辑，是一件相对认 ... 查看全文",
     "pubDate": "Thu, 30 Jul 2026 14:53:18 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "New MCP specification addresses the main barrier to enterprise adoption",
+    "link": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
+    "summary": "Plus, a new policy for the AI protocol ensures features aren't removed suddenly.",
+    "pubDate": "Thu, 30 Jul 2026 14:53:07 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
   },
   {
     "title": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
@@ -416,6 +888,14 @@
     "category": "general"
   },
   {
+    "title": "std.Io.Writer.Allocating ate all my memory",
+    "link": "https://www.openmymind.net/std-io-writer-allocating-ate-my-memory/",
+    "summary": "Comments",
+    "pubDate": "Thu, 30 Jul 2026 14:19:14 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Drought declared across whole of Wales as conditions 'deteriorate'",
     "link": "https://www.bbc.co.uk/news/articles/c8jn1v37znvo?at_medium=RSS&at_campaign=rss",
     "summary": "Wales is on course for its driest July on record in almost 190 years.",
@@ -448,6 +928,22 @@
     "category": "tech"
   },
   {
+    "title": "The Trump administration wants $10 million more to cover its July Fourth celebrations",
+    "link": "https://www.npr.org/2026/07/30/nx-s1-5913172/freedom-250-july-fourth-10-million",
+    "summary": "Congress allocated $150 million for 250th birthday events. The Trump-backed group that planned the state fair and July 4th fireworks is asking for an additional $10 million in reimbursements.",
+    "pubDate": "Thu, 30 Jul 2026 13:47:57 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Are you choosing to stay single? We want to hear from you",
+    "link": "https://www.npr.org/2026/07/30/g-s1-136079/single-adult-solo-choice",
+    "summary": "Solo living, solo travel, and solo dining are all being embraced as more adults are choosing to remain single. Many Americans aren't interested in dating, and being single is a symbol of autonomy.",
+    "pubDate": "Thu, 30 Jul 2026 13:47:44 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "Greek police probe 'foul play' in death of woman found in suitcase",
     "link": "https://www.bbc.co.uk/news/articles/cy07w28jn5lo?at_medium=RSS&at_campaign=rss",
     "summary": "Elisabeth-Jane Ross's body was found in an abandoned building in the Kypseli district in Athens on 18 July.",
@@ -461,6 +957,14 @@
     "summary": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine.",
     "pubDate": "Thu, 30 Jul 2026 13:38:50 GMT",
     "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "European soccer leaders to boycott  the World Cup in an unprecedented step",
+    "link": "https://www.npr.org/2026/07/30/nx-s1-5913664/world-cup-fifa-uefa-gianni-infantino",
+    "summary": "In an unprecedented step, European soccer associations said they would boycott the World Cup unless FIFA reverses a controversial deal to sell minority stakes to the marquee soccer tournament.",
+    "pubDate": "Thu, 30 Jul 2026 13:38:38 -0400",
+    "source": "NPR",
     "category": "general"
   },
   {
@@ -501,6 +1005,14 @@
     "summary": "Article URL: https://mnot.net/blog/2020/for_the_users Comments URL: https://news.ycombinator.com/item?id=49109474 Points: 33 # Comments: 12",
     "pubDate": "Thu, 30 Jul 2026 13:07:53 +0000",
     "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Progress toward compiling Linux with gccrs",
+    "link": "https://lwn.net/SubscriberLink/1083202/f1ba926cd57ac5c5/",
+    "summary": "Comments",
+    "pubDate": "Thu, 30 Jul 2026 13:06:16 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -552,6 +1064,14 @@
     "category": "general"
   },
   {
+    "title": "GCC steering committee announces AI policy",
+    "link": "https://lwn.net/Articles/1086041/",
+    "summary": "Comments",
+    "pubDate": "Thu, 30 Jul 2026 12:47:22 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Thousands evacuated in Crete as Europe battles wildfires",
     "link": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
     "summary": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.",
@@ -573,6 +1093,14 @@
     "summary": "Newcastle United wanted to become one of the world's top clubs under their Saudi owners - but Eddie Howe's decision to leave is a sign of the troubles they are facing.",
     "pubDate": "Thu, 30 Jul 2026 12:31:22 GMT",
     "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Trump says he 'may' pull Blanche AG nomination temporarily",
+    "link": "https://www.npr.org/2026/07/30/g-s1-135784/todd-blanche-attorney-general-trump",
+    "summary": "The news comes as two key Republicans are withholding their support over concerns about the Justice Department's deal with President Trump.",
+    "pubDate": "Thu, 30 Jul 2026 12:30:58 -0400",
+    "source": "NPR",
     "category": "general"
   },
   {
@@ -710,6 +1238,14 @@
     "pubDate": "Thu, 30 Jul 2026 11:10:02 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Scaling NumPy on Free-Threaded Python",
+    "link": "https://labs.quansight.org/blog/scaling-numpy-on-free-threaded-python",
+    "summary": "Comments",
+    "pubDate": "Thu, 30 Jul 2026 11:08:56 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "少数派会员年度更新：把共同的热爱随身携带",
@@ -1328,6 +1864,86 @@
     "category": "general"
   },
   {
+    "title": "Samsung’s Galaxy Watch 9 is $40 off at Costco and comes with over $50 in freebies",
+    "link": "https://www.theverge.com/gadgets/973211/costco-galaxy-watch-9-preorder-costco-deal-sale",
+    "summary": "The Galaxy Watch 9 launches on August 7th, and not only does Costco have the best preorder incentives we’ve seen so far, the watch is also discounted. The deal includes the 40mm Watch 9 in cream or graphite, two wireless fast chargers for the watch, and a $50 Costco gift card, all for $339.99 — [...",
+    "pubDate": "2026-07-30T15:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "LinkedIn actually adds a ‘seems like AI slop’ button",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
+    "summary": "A lot of content on LinkedIn might seem like AI slop, and now, you'll be able to report those posts. As part of a series of updates to reduce the volume of AI slop on the platform, LinkedIn is introducing an actual button that lets you flag a post as something that \"Seems like AI [&#8230;]",
+    "pubDate": "2026-07-30T14:43:26-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Govee&#8217;s portable smart lamp is down to one of its best prices to date",
+    "link": "https://www.theverge.com/gadgets/973266/govee-table-lamp-classic-back-to-school-deal-sale",
+    "summary": "Buying multiple lamps for different rooms can get expensive. Govee’s rechargeable Table Lamp Classic gives you one lamp you can use throughout your home instead of getting one for every room, and right now it’s down to $59 ($21 off) at Amazon. That’s just $4 shy of the all-time low set during Pri...",
+    "pubDate": "2026-07-30T14:01:26-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "NASA’s Curiosity rover found a ‘sea of polygons’ on Mars",
+    "link": "https://www.theverge.com/science/973314/nasa-curiosity-rover-mars-polygons",
+    "summary": "The latest discovery from NASA's Curiosity Mars rover is a field of honeycomb-shaped polygons covering a Martian valley called Valle Grande. As Gizmodo reports, Curiosity has snapped pictures of the unusual terrain texture before, called polygonal fractures, each about 1.5 to 3 inches wide, but N...",
+    "pubDate": "2026-07-30T13:20:06-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Google DeepMind’s new AI model can control a robot’s entire body",
+    "link": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+    "summary": "Google DeepMind says the latest version of its Gemini Robotics AI model can \"control entire humanoid robots.\" While the previous model focused on controlling a humanoid robot's upper body, Gemini Robotics 2 now supports \"whole-body motions\" ranging from its feet to fingertips, according to an ann...",
+    "pubDate": "2026-07-30T13:18:45-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "ABC demands FCC drop its ‘punitive’ early license renewal of its stations",
+    "link": "https://www.theverge.com/policy/973289/abc-fcc-early-license-renewal-opposition",
+    "summary": "ABC filed its formal opposition to the Federal Communications Commission's effort to force it to submit to an early renewal of its broadcast station licenses, calling it an effort to chill the speech of broadcasters across the country. In a new filing with the FCC, ABC charges that the agency's w...",
+    "pubDate": "2026-07-30T13:08:14-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Google is working on Chrome updates that don’t require restarts",
+    "link": "https://www.theverge.com/tech/973174/google-chrome-update-no-restart",
+    "summary": "Google is working on a way to apply Chrome updates without requiring you to restart your browser. In a post on Thursday, Google outlines its approach to bug fixes in the age of AI, while noting that it's trying to make updates less disruptive by \"investing in 'dynamic patching' that will eliminat...",
+    "pubDate": "2026-07-30T13:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Pixel 11 Pro Fold design leaks ahead of Google launch event",
+    "link": "https://www.theverge.com/tech/973249/pixel-11-pro-fold-buds-watch-leaks-google-launch-event",
+    "summary": "Weeks ahead of Google's next Pixel hardware event, Leaker Evan Blass has shared what appear to be marketing renders of the unannounced Google Pixel 11 Pro Fold in a post on his Substack. The renders, if accurate, show that the new foldable will look fairly similar to last year's model - it has a ...",
+    "pubDate": "2026-07-30T12:57:39-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
+    "link": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
+    "summary": "Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million in funding to acquire friend.com, and plastered the NYC subway with ads promoting artificial companionship? Yeah well, if you didn't remember, Friend is back. And now, it's twice the price. This...",
+    "pubDate": "2026-07-30T12:33:32-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Best Buy is selling an RTX 5080 for more than the RTX 5090’s MSRP",
+    "link": "https://www.theverge.com/games/973173/asus-rog-rtx-5080-price-hike-best-buy",
+    "summary": "Best Buy has raised the price of the Asus ROG Astral RTX 5080 OC to $2,099 - the first time a major US retailer is directly selling an RTX 5080 for more than the $1,999 MSRP of the RTX 5090, VideoCardz reports. The ROG Astral RTX 5080 OC now costs 40 percent more than its [&#8230;]",
+    "pubDate": "2026-07-30T11:48:10-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
     "title": "Zoox can now charge for rides in its steering-wheel-free robotaxis",
     "link": "https://www.theverge.com/transportation/973099/zoox-amazon-nhtsa-robotaxi-approval",
     "summary": "Zoox just got permission to charge for robotaxi rides in its boxy, steering-wheel-less vehicles. On Thursday, the National Highway Traffic Safety Administration announced it has granted the Amazon-owned Zoox a temporary exemption, allowing it to deploy up to 2,500 vehicles annually over the next ...",
@@ -1894,6 +2510,30 @@
     "pubDate": "2026-07-30 07:50:17  +0800",
     "source": "36Kr",
     "category": "tech-cn"
+  },
+  {
+    "title": "Somatic mutations reveal the ontogeny of microglia in human aging",
+    "link": "https://www.nature.com/articles/s41586-026-10939-0",
+    "summary": "Nature, Published online: 30 July 2026; doi:10.1038/s41586-026-10939-0 Somatic mutations reveal the ontogeny of microglia in human aging",
+    "pubDate": "2026-07-30",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Author Correction: Sleep chart of biological ageing clocks in middle and late life",
+    "link": "https://www.nature.com/articles/s41586-026-10920-x",
+    "summary": "Nature, Published online: 30 July 2026; doi:10.1038/s41586-026-10920-x Author Correction: Sleep chart of biological ageing clocks in middle and late life",
+    "pubDate": "2026-07-30",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Fires in Europe are breaking records: here’s what the future holds",
+    "link": "https://www.nature.com/articles/d41586-026-02361-3",
+    "summary": "Nature, Published online: 30 July 2026; doi:10.1038/d41586-026-02361-3 Countries such as Spain and France can expect fire regimes more like those of California as climate change favours hot, dry conditions, scientists suggest.",
+    "pubDate": "2026-07-30",
+    "source": "Nature",
+    "category": "science"
   },
   {
     "title": "Job insecurity is chipping away at me and my cohort. Is it us, or the state of the economy?",

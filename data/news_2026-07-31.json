@@ -1,5 +1,13 @@
 [
   {
+    "title": "Private data in ATProto: Permissioned Data Proposal",
+    "link": "https://github.com/bluesky-social/proposals/tree/main/0016-permissioned-data",
+    "summary": "Comments",
+    "pubDate": "Thu, 30 Jul 2026 23:48:48 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "The Religion of Speed",
     "link": "https://graybeard.ing/the-religion-of-speed/",
     "summary": "Article URL: https://graybeard.ing/the-religion-of-speed/ Comments URL: https://news.ycombinator.com/item?id=49117284 Points: 32 # Comments: 10",
@@ -46,6 +54,14 @@
     "pubDate": "Thu, 30 Jul 2026 23:08:58 +0000",
     "source": "TechCrunch",
     "category": "tech"
+  },
+  {
+    "title": "Thames Water boss says leakage targets 'not realistic'",
+    "link": "https://www.bbc.co.uk/news/articles/c04kd3gl1gpo?at_medium=RSS&at_campaign=rss",
+    "summary": "Chris Weston said Thames wanted \"to do better\" but some of its targets were not achievable.",
+    "pubDate": "Thu, 30 Jul 2026 23:06:37 GMT",
+    "source": "BBC News",
+    "category": "general"
   },
   {
     "title": "'I pay £580 a month to live in a disused care home': Property guardians show us around",
@@ -240,6 +256,14 @@
     "category": "general"
   },
   {
+    "title": "App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图",
+    "link": "https://sspai.com/post/112730",
+    "summary": "也许在某个瞬间，你会发现：三千年的时间很长，但古人与我们之间，并没有想象中那么遥远。 查看全文",
+    "pubDate": "Fri, 31 Jul 2026 15:00:36 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
     "title": "简单有效的 E-cise，如何让我摆脱体态不良的「三件套」？",
     "link": "https://sspai.com/post/112833",
     "summary": "无论你的运动专项为何，E-cise 都可以构成一个很好的辅助和补充。 查看全文",
@@ -248,12 +272,260 @@
     "category": "tech-cn"
   },
   {
+    "title": "Asian nations join growing opposition to Fifa's controversial World Cup investment plan",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro?at_medium=RSS&at_campaign=rss",
+    "summary": "The Asian Football Confederation \"stands in solidarity\" with Uefa and Concacaf in opposing controversial Fifa proposals.",
+    "pubDate": "Fri, 31 Jul 2026 09:08:37 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The World Is Too Hot. El Niño Is Partly to Blame",
+    "link": "https://www.wired.com/story/world-heat-wave-el-nino-to-blame/",
+    "summary": "Heat waves are simultaneously hitting Europe, North America, and Asia, driven in part by the hot waters in the tropical Pacific—and climate change.",
+    "pubDate": "Fri, 31 Jul 2026 09:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "About 49,000 migrants enter Spanish enclave of Ceuta, officials say",
+    "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+    "summary": "This comes after thousands of migrants were reported to have illegally crossed into the territory on Thursday and Friday.",
+    "pubDate": "Fri, 31 Jul 2026 08:50:12 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "TikToker faces police probe over secret filming using 'smart glasses'",
+    "link": "https://www.bbc.co.uk/news/articles/c4g369y5k8ko?at_medium=RSS&at_campaign=rss",
+    "summary": "The \"content maker\" published videos of encounters with young women and a female Sikh shop worker where he talked of a plot to \"breed out the white race\".",
+    "pubDate": "Fri, 31 Jul 2026 08:50:03 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "AC Milan and Italy great Baresi dies aged 66",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss",
+    "summary": "AC Milan and Italy great Franco Baresi has died at the age of 66, the Italian club announces.",
+    "pubDate": "Fri, 31 Jul 2026 08:47:33 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "派早报：小米汽车举行 SKYNOMAD 小米澎程技术发布会等",
     "link": "https://sspai.com/post/112930",
     "summary": "CHERRY 樱桃发布 MW5500 PRO 8K 无线游戏鼠标，零刻推出 SEi13 AI / SEi14 AI 迷你主机等 查看全文",
     "pubDate": "Fri, 31 Jul 2026 08:37:53 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "BP puts North Sea business up for sale",
+    "link": "https://www.bbc.co.uk/news/articles/c62q7w003lro?at_medium=RSS&at_campaign=rss",
+    "summary": "The decision follows a review of BP's operations and is set to end 60 years of production in the region by the oil giant.",
+    "pubDate": "Fri, 31 Jul 2026 08:35:38 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Sainsbury's agrees to sell Argos for £120m",
+    "link": "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo?at_medium=RSS&at_campaign=rss",
+    "summary": "Under the terms of the deal, Argos will still operate in Sainsbury's shops, sell Habitat products, and offer Nectar points.",
+    "pubDate": "Fri, 31 Jul 2026 08:30:24 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The Premier League clubs fighting a World Cup hangover",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c87n3wydzjzo?at_medium=RSS&at_campaign=rss",
+    "summary": "Which Premier League clubs have carried the biggest World Cup workload?",
+    "pubDate": "Fri, 31 Jul 2026 08:08:23 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Bournemouth agree £26m fee for Benfica defender Silva",
+    "link": "https://www.bbc.co.uk/sport/football/articles/crr8r4zvj5jo?at_medium=RSS&at_campaign=rss",
+    "summary": "Bournemouth agree a deal worth up to almost £26m for Benfica centre-back Antonio Silva.",
+    "pubDate": "Fri, 31 Jul 2026 08:03:13 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Will Scottish Premiership return to two-team title tussle?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c4gjkne39l3o?at_medium=RSS&at_campaign=rss",
+    "summary": "A new Scottish Premiership season begins on Friday, but will anyone match Heart of Midlothian from last term and challenge Celtic and Rangers for the title?",
+    "pubDate": "Fri, 31 Jul 2026 07:39:33 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+    "link": "https://blog.google/security/chrome-stronger-with-every-update/",
+    "summary": "Article URL: https://blog.google/security/chrome-stronger-with-every-update/ Comments URL: https://news.ycombinator.com/item?id=49120097 Points: 17 # Comments: 14",
+    "pubDate": "Fri, 31 Jul 2026 07:29:22 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Courting controversy and befriending Trump - the story of Fifa boss Infantino",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cwyg5887vp3o?at_medium=RSS&at_campaign=rss",
+    "summary": "Gianni Infantino has clashed with unions and European football, but after 10 years as Fifa president he remains in a powerful position.",
+    "pubDate": "Fri, 31 Jul 2026 07:25:19 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "British man accused of spying on Cyprus RAF base for Iran",
+    "link": "https://www.bbc.co.uk/news/articles/ce853y7yq7yo?at_medium=RSS&at_campaign=rss",
+    "summary": "Rashad Sultanov, a UK-Azerbaijan national, was arrested in Cyprus on suspicion of spying on RAF Akrotiri.",
+    "pubDate": "Fri, 31 Jul 2026 06:42:16 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "DeepSeek-V4-Flash Update",
+    "link": "https://api-docs.deepseek.com/updates/",
+    "summary": "Article URL: https://api-docs.deepseek.com/updates/ Comments URL: https://news.ycombinator.com/item?id=49119559 Points: 199 # Comments: 83",
+    "pubDate": "Fri, 31 Jul 2026 06:08:36 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Show HN: Gander, an Android file viewer that asks for no permissions at all",
+    "link": "https://github.com/mokshablr/gander",
+    "summary": "Hi HN, I built an Android file viewer that opens PDF, Word, Excel, PowerPoint, images, video, audio, Markdown and code, and asks for no permissions at all. I have always been uneasy about opening files people send me. On Android you either install a 400 MB office suite and sign in or use a small ...",
+    "pubDate": "Fri, 31 Jul 2026 05:45:13 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
+    "link": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss",
+    "summary": "The YouTuber has been found guilty for two counts of assault over the 2024 incident in Perth.",
+    "pubDate": "Fri, 31 Jul 2026 05:21:18 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Show HN: What should the GUI for AI agents look like?",
+    "link": "https://marbleos.com/demo",
+    "summary": "Hi HN! We’re Akilan and Miguel, the creators of MarbleOS. The inspiration for Marble comes from the GUI work at Xerox PARC, the 1984 Macintosh, and later NeXTSTEP, which became the foundation for Mac OS X. Before GUIs, interacting with a computer was limited to strange terminal commands: C:\\> DIR...",
+    "pubDate": "Fri, 31 Jul 2026 05:17:29 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Elderly victim of 'cruel' carer can't be left alone after being 'traumatised'",
+    "link": "https://www.bbc.co.uk/news/articles/c75gr627qg9o?at_medium=RSS&at_campaign=rss",
+    "summary": "Louise Harris screamed \"I hope you die in your sleep... you horrible cow\" at Elizabeth Anne Shipton.",
+    "pubDate": "Fri, 31 Jul 2026 05:13:24 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "De Zerbi's 'ultra' roots and the Brescia connection at Spurs",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c1j15e0p17zo?at_medium=RSS&at_campaign=rss",
+    "summary": "Roberto de Zerbi says he was born an ultra, raised on the Brescia curva alongside his father - and he has carried those roots to north London.",
+    "pubDate": "Fri, 31 Jul 2026 05:12:54 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Satellite images show impact of heatwaves and drought on UK landscape",
+    "link": "https://www.bbc.co.uk/news/articles/ckgv657e1yko?at_medium=RSS&at_campaign=rss",
+    "summary": "BBC Verify's analysis indicates “vegetation stress” in many areas, which may affect wildlife and farming.",
+    "pubDate": "Fri, 31 Jul 2026 05:07:08 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Who's driving a bookmobile full of Epstein files? The quiz knows!",
+    "link": "https://www.npr.org/2026/07/31/g-s1-136290/epstein-trump-fauci-grammys-bts-news-quiz",
+    "summary": "Plus: scandalous Senate drama, Grammys drama and Homeric drama.",
+    "pubDate": "Fri, 31 Jul 2026 05:01:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Trump's noncitizen voter data remains a mystery. But the claims raise midterm fears",
+    "link": "https://www.npr.org/2026/07/31/nx-s1-5906708/trump-claim-noncitizens-midterms-election-interference-voter-rolls",
+    "summary": "Trump officials say they found 250,000 noncitizens on voter rolls in just four states. Those states don't know where the numbers came from, and some worry what the claims may portend for the midterms.",
+    "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "One Big Beautiful Bill cut healthcare funds. Now, Republicans have to sell the costs",
+    "link": "https://www.npr.org/2026/07/31/nx-s1-5870960/republican-ads-healthcare-medicaid-2026-midterms",
+    "summary": "Blanketing the airwaves with ads about healthcare, Republican candidates who voted to cut federal funding in the One Big Beautiful Bill Act are positioning themselves as advocates for lower costs.",
+    "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Democrats show divisions on Israel amid competitive midterm elections",
+    "link": "https://www.npr.org/2026/07/31/nx-s1-5896216/democrats-israel-congress-2026-midterm-elections",
+    "summary": "Democratic socialists are on the ballot in high profile races coming up in Michigan and Wisconsin, putting mainstream Democrats in a tough position when it comes to the issue of Israel and Gaza.",
+    "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "450k borrowers say they were ripped off. Their student loans are being erased",
+    "link": "https://www.npr.org/2026/07/31/nx-s1-5910885/student-loans-colleges-fraud-borrower-defense-education-department-trump",
+    "summary": "The borrowers say they were defrauded by their colleges, but the class-action lawsuit to erase their federal student loans has been tangled up in courts for years.",
+    "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "SelectBlinds Promo Codes & Coupons: Save on Custom Window Treatments",
+    "link": "https://www.wired.com/story/select-blinds-promo-code/",
+    "summary": "Redecorate your home for less with our expert tips on applying SelectBlinds coupons, maximizing holiday sales, and locking in new customer discounts.",
+    "pubDate": "Fri, 31 Jul 2026 05:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Alo Discount Code: Save on Activewear August 2026",
+    "link": "https://www.wired.com/story/alo-yoga-discount-code/",
+    "summary": "Refresh your workout wardrobe. Save on buttery-soft leggings, chic streetwear, and activewear essentials with verified Alo Yoga discount codes, free shipping, and loyalty program perks.",
+    "pubDate": "Fri, 31 Jul 2026 05:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Morning news brief",
+    "link": "https://www.npr.org/2026/07/31/nx-s1-5901900/morning-news-brief",
+    "summary": "President Trump says he may pull Todd Blanche's nomination, Trump says a deal has been made to disarm Hamas and withdraw Israeli forces from Gaza, the U.S. economy is growing, but at a slower pace.",
+    "pubDate": "Fri, 31 Jul 2026 04:49:30 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
+    "link": "https://github.com/openjdk/jdk/pull/31120",
+    "summary": "Article URL: https://github.com/openjdk/jdk/pull/31120 Comments URL: https://news.ycombinator.com/item?id=49119063 Points: 92 # Comments: 35",
+    "pubDate": "Fri, 31 Jul 2026 04:38:19 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
+    "link": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss",
+    "summary": "The plan - if successful - potentially removes the most significant obstacle to advancing the Trump-backed peace initiative in Gaza.",
+    "pubDate": "Fri, 31 Jul 2026 04:25:49 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The session you cannot take with you",
+    "link": "https://earendil.com/posts/session-portability/",
+    "summary": "Article URL: https://earendil.com/posts/session-portability/ Comments URL: https://news.ycombinator.com/item?id=49118781 Points: 272 # Comments: 56",
+    "pubDate": "Fri, 31 Jul 2026 03:47:59 +0000",
+    "source": "Hacker News",
+    "category": "tech"
   },
   {
     "title": "The bond market isn't buying what Fed Chair Warsh is selling",
@@ -272,10 +544,50 @@
     "category": "tech"
   },
   {
+    "title": "vLLM for Baidu Kunlun",
+    "link": "https://github.com/baidu/vLLM-Kunlun",
+    "summary": "Comments",
+    "pubDate": "Fri, 31 Jul 2026 03:01:26 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "\"the very foundation of modern academia has been blown to bits\"",
+    "link": "https://twitter.com/lemire/status/2082851447499088173",
+    "summary": "Article URL: https://twitter.com/lemire/status/2082851447499088173 Comments URL: https://news.ycombinator.com/item?id=49118474 Points: 23 # Comments: 6",
+    "pubDate": "Fri, 31 Jul 2026 02:54:02 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "At least 18 die after breach of border between Morocco and Spanish exclave of Ceuta",
+    "link": "https://www.npr.org/2026/07/31/g-s1-136507/morocco-spain-migration",
+    "summary": "At least 18 migrants have died trying to reach the Spanish exclave of Ceuta, where Spain deployed its military after thousands of people breached the border with Morocco and poured into the territory.",
+    "pubDate": "Fri, 31 Jul 2026 02:02:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Death toll from southwestern Japan quake climbs to 34",
+    "link": "https://www.npr.org/2026/07/31/g-s1-136503/japan-quake-death-toll",
+    "summary": "Searchers continued to work in the Kumamoto area, including at the site of the collapsed mall, where some of the most serious damage was recorded.",
+    "pubDate": "Fri, 31 Jul 2026 01:40:16 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "The Papers: 'Cruel summer' and 'Football's staying home'",
     "link": "https://www.bbc.co.uk/news/articles/cwyjgq583j7o?at_medium=RSS&at_campaign=rss",
     "summary": "Fires rage near nuclear plant in Suffolk and Uefa mulls World Cup boycott - Friday's papers.",
     "pubDate": "Fri, 31 Jul 2026 01:38:59 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Amazon and Apple just told us more about their AI plans - here are three things we learned",
+    "link": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&at_campaign=rss",
+    "summary": "Billions of dollars are being poured into a new wave of AI technology. But will it pay off?",
+    "pubDate": "Fri, 31 Jul 2026 01:31:50 GMT",
     "source": "BBC News",
     "category": "general"
   },
@@ -288,6 +600,14 @@
     "category": "general"
   },
   {
+    "title": "Drought conditions may worsen before improving as little rain in sight",
+    "link": "https://www.bbc.co.uk/weather/articles/cn5nk90ndl0o?at_medium=RSS&at_campaign=rss",
+    "summary": "Conditions in the most parched areas of the United Kingdom could worsen before they improve, according to the latest forecasts.",
+    "pubDate": "Fri, 31 Jul 2026 01:28:46 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
     "link": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
     "summary": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real organizations during third-party evaluations.",
@@ -296,11 +616,27 @@
     "category": "tech"
   },
   {
+    "title": "Trump announces a deal for Hamas to disarm, but many hurdles and uncertainty remain",
+    "link": "https://www.npr.org/2026/07/31/g-s1-136500/trump-hamas-gaza",
+    "summary": "President Trump says a deal has been reached for Hamas to disarm and Israel to withdraw its forces from Gaza. But many hurdles, conditions and long timelines remain to wind down the war in the Palestinian territory.",
+    "pubDate": "Fri, 31 Jul 2026 01:20:19 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "Anthropic says its own AI models breached three companies during security tests",
     "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
     "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
     "pubDate": "Fri, 31 Jul 2026 01:06:54 +0000",
     "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "How to speed up the Rust compiler in July 2026",
+    "link": "https://nnethercote.github.io/2026/07/31/how-to-speed-up-the-rust-compiler-in-july-2026.html",
+    "summary": "Comments",
+    "pubDate": "Fri, 31 Jul 2026 00:46:14 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -318,6 +654,214 @@
     "pubDate": "Fri, 31 Jul 2026 00:26:02 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "A question about a factorial operator",
+    "link": "https://lobste.rs/s/itp1nm/question_about_factorial_operator",
+    "summary": "I wrote an assembler that supports floating point values. One of the operators I implemented was factorial because a lot of Taylor series seem to use it to define various constants. So right now, I have .float -((2*3.14159265)**11)/11! I found a bug in the parsing such that (2+3)! doesn't parse (...",
+    "pubDate": "Fri, 31 Jul 2026 00:05:46 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "世贸组织：2026年第一季度全球货物贸易增长超出预期",
+    "link": "https://36kr.com/newsflashes/3919339044449667?f=rss",
+    "summary": "当地时间7月31日，世界贸易组织发布最新数据，2026年第一季度全球货物贸易增长超出预期。人工智能相关电子元件贸易大幅增长，抵消了中东战争在该季度最后一个月造成的负面影响。经季节性调整后，今年第一季度全球货物贸易量环比增长1.9%，同比增长3.2%。亚洲第一季度出口和进口同比分别增长12.9%和14.6%，主要受中国、新加坡、韩国、泰国等经济体推动。北美出口同比增长7%，进口同比下降10.7%。世贸组织预计下一季度的贸易数据将更全面地反映霍尔木兹海峡的贸易中断情况。（央视新闻）",
+    "pubDate": "2026-07-31 17:17:50  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "财政部：1-6月国有企业营业总收入402427.0亿元，同比下降2.0%",
+    "link": "https://36kr.com/newsflashes/3919336691478145?f=rss",
+    "summary": "36氪获悉，财政部发布2026年1-6月全国国有及国有控股企业经济运行情况。1-6月，国有企业营业总收入402427.0亿元，同比下降2.0%。1-6月，国有企业利润总额22475.8亿元，同比增长2.4%。1-6月，国有企业应交税费31874.7亿元，同比增长5.7%。6月末，国有企业资产负债率65.6%，同比上升0.5个百分点。",
+    "pubDate": "2026-07-31 17:15:27  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "工业和信息化部装备工业一司赴奇瑞、蔚来、江汽开展监督检查",
+    "link": "https://36kr.com/newsflashes/3919333884276359?f=rss",
+    "summary": "36氪获悉，7月30日至31日，为进一步规范汽车产业竞争秩序、提升汽车产品生产一致性和质量安全水平，工业和信息化部装备工业一司赴奇瑞汽车股份有限公司、蔚来汽车科技（安徽）有限公司、安徽江淮汽车集团股份有限公司开展道路机动车辆生产企业产品安全保障能力和生产一致性监督检查，重点检查企业智能网联汽车安全保障能力、设计开发及生产能力、生产一致性保证能力等生产准入条件保持情况，并现场随机抽取样车、动力电池等，转送至有关机构进行国家标准符合性等检验检测。下一步，工业和信息化部将会同相关部门深入开展道路机动车辆产品生产一致性和质量提升行动，进一步加强汽车产品“激进式”创新设计准入审查和测试验证有关管理...",
+    "pubDate": "2026-07-31 17:12:36  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "万科选举徐恩利为董事长",
+    "link": "https://36kr.com/newsflashes/3919333274037639?f=rss",
+    "summary": "7月31日，万科召开2026年第一次临时股东会，审议通过了董事会换届议案。新一届董事会第一次会议决议公告显示，选举徐恩利为公司董事长，续聘黄宇为公司总裁。万科方面表示，徐恩利长期从事企业管理工作，深耕房地产领域多年，并担任过A股、港股两地上市公司负责人，徐恩利与总裁黄宇的搭档组合，契合万科的企业特点和当前形势需要，有利于持续推进化险与发展。（证券时报）",
+    "pubDate": "2026-07-31 17:11:58  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "《国务院关于出境入境管理的规定》9月15日起施行",
+    "link": "https://36kr.com/newsflashes/3919327092780419?f=rss",
+    "summary": "36氪获悉，《国务院关于出境入境管理的规定》7月31日公布，自2026年9月15日起施行。规定共19条，旨在规范出境入境管理，保障出境入境人员合法权益，维护国家主权、安全、发展利益。规定主要体现四方面内容：一是健全出境安全风险防范制度，规定国务院外交、文化和旅游主管部门等及时公开发布国外安全提醒和旅游目的地安全风险提示等；二是明确出境入境申请要求，规定出境入境人员申请出境入境、停留居留的事由应当真实、合法等；三是完善出境入境限制措施，规定中国公民依法不准其出境、外国人依法不准其入境的情形；四是规范出境入境中介服务，规定对从事出境入境中介服务的机构和人员实行备案管理等。（新华社）",
+    "pubDate": "2026-07-31 17:05:41  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "CoreWeave迫于投资者反对，调整与Anthropic合约挂钩的债务安排",
+    "link": "https://36kr.com/newsflashes/3919284967337344?f=rss",
+    "summary": "CoreWeave 为争取投资者认购最新一笔规模26亿美元的贷款，做出重大让步。该笔贷款依托其与Anthropic达成的算力合作协议作为支撑，此事凸显华尔街对人工智能投融资热潮的热情正在消退。知情人士透露，经过一周认购需求低迷，这家云计算公司上调债务收益率至接近9.1%，同时增设对贷款人更有利的保护性条款，最终促成这笔融资落地。（新浪财经）",
+    "pubDate": "2026-07-31 16:59:43  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "开云的转折：在中国，做一个AI乐观派",
+    "link": "https://36kr.com/p/3919225763540611?f=rss",
+    "summary": "作者 |&nbsp; 谢芸子 黄绎达 编辑 | &nbsp;张帆 开云的转型初见成效。 7月28日，法国开云集团Kering发布2026年上半年财报，实现营收72.2亿欧元，可比口径下同比增长1%。 更关键的信号藏在第二季度——单季营收36.52亿欧元，同比增长2%。在中东局势仍不明朗、全球消费进入下行周期的情况下，开云实现三年来的首次单季度正增长。 其中，核心品牌古驰Gucci第二季度的营收14.1亿欧元，同比降幅从第一季度的8%收窄至2%，环比改善7个百分点，业绩修复程度高于市场预期。整个上半年，Gucci营收实现27.57亿欧元，经常性营业利润率17%，同比提升1个百分点。 其他品...",
+    "pubDate": "2026-07-31 16:58:59  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "天顺风能：签订约4.2-4.8亿美元船舶建造合同",
+    "link": "https://36kr.com/newsflashes/3919297736666760?f=rss",
+    "summary": "36氪获悉，天顺风能公告，海工板块全资子公司与国际知名船东下属子公司签署6艘114,000DWT成品油/原油两用油轮建造合同，合同金额约4.2-4.8亿美元（折合人民币约28.5-32.6亿元）。合同履行期较长，对当期利润不构成重大影响，但将有利于提高公司中长期市场竞争力和盈利能力。",
+    "pubDate": "2026-07-31 16:53:34  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "汇丰控股向黑石出售253亿美元澳大利亚贷款组合",
+    "link": "https://36kr.com/newsflashes/3919281493192325?f=rss",
+    "summary": "汇丰控股已同意将其澳大利亚抵押贷款组合出售给黑石集团管理的基金，交易规模约253亿美元（合360亿澳元），这是该行首席执行官乔治·埃尔赫德里推动全球重组战略的一部分。黑石集团周五表示，该交易为有史以来最大规模的住宅贷款组合交易，是其全球拓展私募信贷业务的一项标志性投资。（新浪财经）",
+    "pubDate": "2026-07-31 16:45:13  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "最前线｜创客工具赛道升温，国内首个Maker Tool行业联盟成立",
+    "link": "https://36kr.com/p/3919301778288261?f=rss",
+    "summary": "文｜张子怡 编辑｜袁斯来 随着3D打印、激光雕刻、桌面CNC等数字化制造工具逐渐从专业领域走向消费市场，一个过去相对小众的硬件赛道正加速成长。 前不久，全球支付平台PingPong联合产业链企业发起国内首个Maker Tool（创客工具）行业联盟，并发布《创客经济新纪元：Maker Tool行业全景解析白皮书》，希望通过产业协同、渠道和资金服务，推动中国创客工具品牌拓展海外市场。 Maker Tool通常指面向个人创客、教育机构和小型工作室的桌面数字化制造设备，涵盖3D打印机、桌面CNC、激光雕刻机、创意裁切设备等产品，是创客经济的重要基础设施。随着AI技术降低创作门槛，越来越多普通用户...",
+    "pubDate": "2026-07-31 16:40:43  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "ST金鸿顺：实控人刘栩被证监会立案调查",
+    "link": "https://36kr.com/newsflashes/3919254792138114?f=rss",
+    "summary": "36氪获悉，ST金鸿顺公告，公司关注到《证券日报》于2026年7月31日刊登关于公司实际控制人刘栩的《立案告知书送达公告》。因刘栩涉嫌信息披露违法违规，中国证监会江苏监管局依法对其立案，因多次联系未果，现公告送达《立案告知书》(0102026026号)，限30日内配合调查，逾期视为送达。公司此前于2026年6月26日收到证监会立案告知书，因公司涉嫌信息披露违法违规被立案。",
+    "pubDate": "2026-07-31 16:38:13  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "东山精密：已累计回购25.52万股",
+    "link": "https://36kr.com/newsflashes/3919279767743877?f=rss",
+    "summary": "36氪获悉，东山精密公告，截至2026年7月31日，公司通过回购专用证券账户以集中竞价方式已累计回购公司股份25.52万股，占万公司目前总股本的0.01393%，最高成交价为200.60元/股，最低成交价为192.20元/股，成交总金额为4999.48万元（不含交易费用）。",
+    "pubDate": "2026-07-31 16:34:30  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "湖南省金芙蓉中非经贸深度合作服务基金登记成立，出资额5亿",
+    "link": "https://36kr.com/newsflashes/3919256782925185?f=rss",
+    "summary": "36氪获悉，天眼查App显示，近日，湖南省金芙蓉中非经贸深度合作服务基金合伙企业（有限合伙）成立，执行事务合伙人为特发兴湘私募股权投资基金管理（深圳）有限公司，出资额5亿人民币，经营范围为以私募基金从事股权投资、投资管理、资产管理等活动。合伙人信息显示，该基金由湖南省金芙蓉产业引导基金合伙企业（有限合伙）、湖南兴湘新兴产业投资基金合伙企业（有限合伙）、华瓷股份、郴州市产发开发建设有限公司、长沙市产业投资基金合伙企业（有限合伙）等共同出资。",
+    "pubDate": "2026-07-31 16:29:03  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "创业这件事，你最关心的问题是什么？36氪想跟你聊一聊",
+    "link": "https://36kr.com/p/3919112515956355?f=rss",
+    "summary": "你的创业想法，值得被看见 有人在寻找新的增长机会，有人在重新思考商业模式；有人开始尝试新工具提升效率，也有人还在为融资、获客、团队管理等问题发愁。 我们发现，每位创业者关注的重点都不一样，但大家都在面对同一个问题： 未来，企业该如何更好地发展？ &nbsp; 为了更真实地了解创业者当下最关心的话题，36氪发起了一份 创业者需求调研 。这份问卷没有标准答案，也不是产品推广，而是希望听到创业者最真实的声音。 当然，我们也会关注一个绕不开的话题—— 人工智能正在如何影响创业。 但相比讨论\"AI到底有多火\"，我们更想知道的是： 它是否真的帮助企业提升了效率？ 创业者最希望AI解决哪些实际问题？ ...",
+    "pubDate": "2026-07-31 16:24:28  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "蚂蚁国际：其全球账户服务已被超过半数的中国大中型游戏厂商所采用",
+    "link": "https://36kr.com/newsflashes/3919264117714567?f=rss",
+    "summary": "36氪获悉，2026年ChinaJoy期间，蚂蚁国际宣布，其全球账户服务已被超过半数的中国大中型游戏厂商所采用，其中包括库洛游戏、完美世界、网易等行业头部；同时众多AI应用企业、短剧平台以及中小游戏开发工作室也已接入该服务。蚂蚁国际相关数据显示，中国数娱出海商户交易额在2026年上半年快速增长。",
+    "pubDate": "2026-07-31 16:22:34  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "四部门：严把股东准入关口，穿透识别金融机构主要股东、实际控制人和受益所有人",
+    "link": "https://36kr.com/newsflashes/3919278774087041?f=rss",
+    "summary": "36氪获悉，金融监督管理总局等四部门印发关于健全金融机构治理的实施意见。《实施意见》提出，严把股东准入关口。构建产业资本和金融资本“防火墙”，严禁违规跨业经营、杠杆率过高的企业或存在严重失信行为、重大违法违规记录的企业和个人成为金融机构主要股东或实际控制人。穿透识别金融机构主要股东、实际控制人和受益所有人，强化主要股东和实际控制人的报告义务，严禁隐瞒控制权关系、关联关系和一致行动关系，严防虚假出资、循环注资、抽逃资本。",
+    "pubDate": "2026-07-31 16:16:32  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "四部门：严惩违规占用资金、违规融资或担保、违规转移资产等行为 对重大问题依法依规实行终身问责",
+    "link": "https://36kr.com/newsflashes/3919277756526213?f=rss",
+    "summary": "36氪获悉，金融监督管理总局等四部门印发关于健全金融机构治理的实施意见。《实施意见》提出，提升监管有效性。严把董事、高级管理人员准入关口，提升其职业操守和专业素养。严防违法违规人员在金融行业内“带病流动”。加大稽查检查力度，严惩违法违规的金融机构、股东、实际控制人、董事、高级管理人员、金融从业人员，严惩违规占用资金、违规融资或担保、违规转移资产等行为，及时将会计师事务所等中介机构违法违规线索移送行业主管部门，对重大问题依法依规实行终身问责。推动国有金融机构健全以党内监督为主导，出资人监督、审计监督、职工民主监督等贯通协调的监督体系。强化“对监管的监管”，完善和落实监督问责机制。",
+    "pubDate": "2026-07-31 16:15:30  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "四部门：加强关联交易管理，强化关联方识别，规范对关联交易的审查和披露",
+    "link": "https://36kr.com/newsflashes/3919275622952323?f=rss",
+    "summary": "36氪获悉，金融监督管理总局等四部门印发关于健全金融机构治理的实施意见。《实施意见》提出，提升风险防控水平。推动金融机构建立健全全面风险管理体系，健全落实风险防控机制，持续提升风险识别、研判、评估、计量、监测、控制和缓释能力，源头防范化解、依法稳妥处置各类风险隐患，实现所属机构、业务、产品等风险防控全覆盖。加强关联交易管理，强化关联方识别，规范对关联交易的审查和披露。完善风险和资本并表管理。",
+    "pubDate": "2026-07-31 16:13:20  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "四部门：引导金融机构健全有利于可持续发展和战略目标实现的激励约束机制",
+    "link": "https://36kr.com/newsflashes/3919275378994823?f=rss",
+    "summary": "36氪获悉，金融监督管理总局等四部门印发关于健全金融机构治理的实施意见。《实施意见》提出，健全激励约束机制。推动完善对金融机构党委（党组）、董事会、经理层的分类考评体系。引导金融机构健全有利于可持续发展和战略目标实现的激励约束机制，平衡功能性和盈利性，实现经济责任和社会责任相统一。内部绩效考核要坚持收益与风险兼顾的原则，注重长周期考核，防止短期过度激励。支持符合条件的金融机构按规定探索建立中长期激励机制。优化薪酬分配结构，加大向基层一线倾斜力度。严格落实高级管理人员、关键岗位人员绩效薪酬延期支付和追索扣回制度。",
+    "pubDate": "2026-07-31 16:13:05  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "四部门：严格规范股东行为，严禁金融机构向股东及其关联方输送利益",
+    "link": "https://36kr.com/newsflashes/3919274965282185?f=rss",
+    "summary": "36氪获悉，金融监督管理总局等四部门印发关于健全金融机构治理的实施意见。《实施意见》提出，严格规范股东行为。金融机构股东应在公司治理框架下行使权利和履行义务，严禁滥用股东权利或违规干预金融机构经营管理活动。严禁金融机构向股东及其关联方输送利益。建立健全股东不当所得追回制度和风险责任事后追偿机制。保障中小股东对重大事项的知情、参与决策和监督等权利，董事、监事选举等重大事项要充分反映中小股东意见。",
+    "pubDate": "2026-07-31 16:12:39  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "最前线｜武汉建成全国首个超大城市全域低空遥感监测网络，146座无人机机场构建“城市智眼”",
+    "link": "https://36kr.com/p/3919271016263303?f=rss",
+    "summary": "文｜张子怡 编辑｜袁斯来 低空经济正从飞行器制造走向城市治理。 7月29日，武汉市测绘研究院联合大疆行业应用发布“城市智眼”低空无人机遥感监测体系建设成果。目前，武汉已建成146座无人值守机场，基本实现除禁飞区外全市5分钟无人机响应，成为全国首个实现超大城市全域覆盖的低空无人机遥感监测网络。 据了解，这套“城市智眼”系统由低空无人机监测网络、云控平台、AI算法库及行业应用组成，依托高精度低空空域时空信息格网，可实现机场智能调度、航线自动生成、障碍物智能规避等能力，支持“一键直飞”“接力续飞”“临时转飞”等自动化飞行模式。 与传统无人机巡检相比，低空基础设施的价值并不只是增加无人机数量，而...",
+    "pubDate": "2026-07-31 16:12:09  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "恒指收涨0.1%，恒生科技指数涨0.53%",
+    "link": "https://36kr.com/newsflashes/3919273080368771?f=rss",
+    "summary": "36氪获悉，恒指收涨0.1%，恒生科技指数涨0.53%；半导体、GEO领涨，智谱涨超14%，MINIMAX-W涨超13%，中际旭创、兆易创新涨超7%；食品饮料、石油石化跌幅居前，百威亚太跌超6%，农夫山泉跌超3%；南向资金净流出4.81亿港元。",
+    "pubDate": "2026-07-31 16:10:44  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "四部门联合发布22条措施 健全金融机构治理",
+    "link": "https://36kr.com/newsflashes/3919266501881220?f=rss",
+    "summary": "金融监管总局、中国人民银行、中国证监会、财政部近日联合发布《关于健全金融机构治理的实施意见》，提出22条措施。《实施意见》明确，到2029年，基本形成权责边界清晰、激励约束相容、风险管理严格、运转规范高效的金融机构治理机制，金融体系内在稳定性和抗风险能力明显增强，金融服务高质量发展质效明显提升。《实施意见》提出，健全防范大股东违规干预和内部人控制的治理机制，加强对股权和关联交易的穿透式监管，优化董事会结构，强化董事、高管等“关键少数”责任，完善激励约束机制，健全内控合规体系。《实施意见》要求，加强和改进金融监管，分级分类实施差异化监管，严惩违法违规行为，提高违法违规成本，完善风险监测预警...",
+    "pubDate": "2026-07-31 16:04:03  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "乐惠国际：向特定对象发行股票申请获证监会同意注册批复",
+    "link": "https://36kr.com/newsflashes/3919256105397638?f=rss",
+    "summary": "36氪获悉，乐惠国际公告，近日，公司收到中国证监会批复，同意公司向特定对象发行股票的注册申请。",
+    "pubDate": "2026-07-31 16:01:17  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "滴普科技首份半年报：AI业务收入增长209%，二季度已实现盈利",
+    "link": "https://36kr.com/p/3919137999957382?f=rss",
+    "summary": "AI在企业端的快速渗透正在被持续验证。 7月30日，企业级大模型AI应用解决方案商滴普科技发布上市后的首份中期业绩。2026年上半年，公司实现营业收入2.84亿元，同比增长115.0%。 分业务来看， 与AI应用直接相关的“DeepexiOS AI级企业操作系统平台解决方案”成为核心增长引擎 。该业务上半年实现收入2.26亿元，同比增长209.2%，收入占比由上年同期的55.3%提升至79.6%。相比之下，“FastData企业级数据智能解决方案”收入为5803.8万元，同比基本持平。公司收入结构进一步转向企业级AI应用倾斜。 利润端的改善同样值得关注 。公司披露， 2026年二季度实现...",
+    "pubDate": "2026-07-31 14:00:25  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
   },
   {
     "title": "恒指午间休盘跌0.11%，恒生科技指数涨0.7%",
@@ -502,6 +1046,14 @@
     "pubDate": "2026-07-31 07:48:40  +0800",
     "source": "36Kr",
     "category": "tech-cn"
+  },
+  {
+    "title": "How smallpox reached the Americas: first genomic evidence points to Europeans",
+    "link": "https://www.nature.com/articles/d41586-026-02366-y",
+    "summary": "Nature, Published online: 31 July 2026; doi:10.1038/d41586-026-02366-y Viral sequences from Chilean mummies confirm the disease was introduced from Europe.",
+    "pubDate": "2026-07-31",
+    "source": "Nature",
+    "category": "science"
   },
   {
     "title": "Tim Cook hints at iCloud Plus tier for AI power users",

@@ -16,6 +16,14 @@
     "category": "tech"
   },
   {
+    "title": "Premier league bans gambling sponsors",
+    "link": "https://www.footyheadlines.com/2646571793/betting-ban-takes-effect-no-more-gambling-sponsors-in-the-premier-league.html",
+    "summary": "Article URL: https://www.footyheadlines.com/2646571793/betting-ban-takes-effect-no-more-gambling-sponsors-in-the-premier-league.html Comments URL: https://news.ycombinator.com/item?id=49117266 Points: 140 # Comments: 46",
+    "pubDate": "Thu, 30 Jul 2026 23:40:59 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "Watch: Moment empty building collapses in New York",
     "link": "https://www.bbc.co.uk/news/videos/crl70g6ekleo?at_medium=RSS&at_campaign=rss",
     "summary": "Surveillance video shows the building – which was under construction – crumbling over and sending debris spilling onto a road.",
@@ -112,6 +120,14 @@
     "category": "tech"
   },
   {
+    "title": "Tim Cook passes the baton in Apple's Q3 2026 earnings call",
+    "link": "https://arstechnica.com/gadgets/2026/07/tim-cooks-last-earnings-call-strong-iphone-sales-but-memory-costs-loom-large/",
+    "summary": "The iPhone and Mac sold well, but memory costs threaten further price increases.",
+    "pubDate": "Thu, 30 Jul 2026 22:05:35 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
     "title": "Millions opposed military rule in Myanmar. Is their dream of a revolution over?",
     "link": "https://www.bbc.co.uk/news/articles/ckgd3k7xe39o?at_medium=RSS&at_campaign=rss",
     "summary": "Opponents of the junta hoped a revolution would remake Myanmar - but these are disheartening times.",
@@ -168,6 +184,30 @@
     "category": "tech"
   },
   {
+    "title": "Max-severity Exchange server flaw under active exploitation by Kremlin hackers",
+    "link": "https://arstechnica.com/security/2026/07/kremlin-hackers-are-exploiting-exchange-flaw-to-backdoor-unpatched-networks/",
+    "summary": "Exploits can give persistent server access that survives credential rotation and disk re-imaging.",
+    "pubDate": "Thu, 30 Jul 2026 20:57:22 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Trump FCC faces blowback in attempt to police speech on broadcast TV",
+    "link": "https://arstechnica.com/tech-policy/2026/07/trump-fccs-war-on-abc-slammed-by-both-conservatives-and-liberals/",
+    "summary": "\"Chilling message to all broadcasters: carry speech we don’t like at your peril.\"",
+    "pubDate": "Thu, 30 Jul 2026 20:48:47 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Iran struck Amazon data centers again amid widening war, satellites show",
+    "link": "https://arstechnica.com/gadgets/2026/07/satellites-spot-new-war-damage-to-amazon-data-centers-and-saudi-oil-site/",
+    "summary": "Satellites show burn scars and fires at AWS data centers and Saudi oil refinery.",
+    "pubDate": "Thu, 30 Jul 2026 20:45:39 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
     "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
     "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
     "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
@@ -200,11 +240,43 @@
     "category": "tech"
   },
   {
+    "title": "Just because a game is on disc doesn’t mean it will work in the future",
+    "link": "https://arstechnica.com/gaming/2026/07/the-disc-is-not-the-game-physical-releases-increasingly-require-extra-downloads/",
+    "summary": "DoesItPlay tracks the many \"physical\" games that don't work without the Internet.",
+    "pubDate": "Thu, 30 Jul 2026 20:12:50 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
     "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
     "link": "https://github.com/AminBlg/SimpleEnglish",
     "summary": "Article URL: https://github.com/AminBlg/SimpleEnglish Comments URL: https://news.ycombinator.com/item?id=49114639 Points: 237 # Comments: 85",
     "pubDate": "Thu, 30 Jul 2026 19:34:27 +0000",
     "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Chrome may get faster updates with no restart required",
+    "link": "https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/",
+    "summary": "The last two versions of Chrome have included more patches than the previous 23 combined.",
+    "pubDate": "Thu, 30 Jul 2026 19:26:56 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
+    "link": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
+    "summary": "Gemini Robotics 2 includes three models, but only one is publicly available right now.",
+    "pubDate": "Thu, 30 Jul 2026 17:58:02 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Space Force-backed mission does its best impression of Top Gun in orbit",
+    "link": "https://arstechnica.com/space/2026/07/space-force-backed-mission-does-its-best-impression-of-top-gun-in-orbit/",
+    "summary": "\"Dogfighting in space doesn’t quite have the drama of an aerial dogfight.\"",
+    "pubDate": "Thu, 30 Jul 2026 17:35:57 +0000",
+    "source": "Ars Technica",
     "category": "tech"
   },
   {
@@ -256,6 +328,22 @@
     "category": "general"
   },
   {
+    "title": "本月玩什么｜节奏天国、斯普拉遁 涂击队、刺客信条：黑旗 记忆重置",
+    "link": "https://sspai.com/post/112962",
+    "summary": "以上便是部分近期值得探讨的新游信息汇总，个人角度仅供参考。本文设有有奖互动环节：你有什么特别喜欢的操作系统模拟玩法的游戏吗？（我很喜欢《Uplink》）提前感谢你真诚的分享。>关注少数派小红书，感受精 ... 查看全文",
+    "pubDate": "Fri, 31 Jul 2026 18:49:07 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "本周看什么 | 最近值得一看的 10 部作品",
+    "link": "https://sspai.com/post/112961",
+    "summary": "📅本周新预告《银翼杀手2099》首支预告7月25日，剧集《银翼杀手2099》发布了首支预告，定档11月25日上线PrimeVideo。亨特·莎弗、杨紫琼主演，2099年的洛杉矶，擅用各种身份掩饰自己的 ... 查看全文",
+    "pubDate": "Fri, 31 Jul 2026 17:57:39 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
     "title": "App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图",
     "link": "https://sspai.com/post/112730",
     "summary": "也许在某个瞬间，你会发现：三千年的时间很长，但古人与我们之间，并没有想象中那么遥远。 查看全文",
@@ -264,12 +352,324 @@
     "category": "tech-cn"
   },
   {
+    "title": "Healey announces his first Budget will be on 28 October",
+    "link": "https://www.bbc.co.uk/news/articles/cjd4yz35x8go?at_medium=RSS&at_campaign=rss",
+    "summary": "The new chancellor pledged to move money and power out of Westminster, and into every postcode around Britain.",
+    "pubDate": "Fri, 31 Jul 2026 14:52:16 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Reddit is testing a new way to watch — and listen to — its viral posts",
+    "link": "https://techcrunch.com/2026/07/31/reddit-is-testing-a-new-way-to-watch-and-listen-to-its-viral-posts/",
+    "summary": "Reddit is developing a new video experience that lets users watch — or simply listen to — its most popular posts, taking inspiration from the viral TikTok videos that pair Reddit stories with gameplay or other footage. CEO Steve Huffman said the feature is already in the works and could begin tes...",
+    "pubDate": "Fri, 31 Jul 2026 14:49:21 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "This AI Assistant Wants to Make Up for Your Boyfriend's Incompetence",
+    "link": "https://www.wired.com/story/this-ai-assistants-whole-pitch-is-making-up-for-your-boyfriends-incompetence/",
+    "summary": "An ad for Orchid suggests the AI agent can fix relationship problems by simply doing everything for inconsiderate partners.",
+    "pubDate": "Fri, 31 Jul 2026 14:47:26 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+    "link": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
+    "summary": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
+    "pubDate": "Fri, 31 Jul 2026 14:47:11 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "England and Wales on course for driest July on record",
+    "link": "https://www.bbc.co.uk/weather/articles/cddjznv86p3o?at_medium=RSS&at_campaign=rss",
+    "summary": "Met Office records indicate England and Wales are likely to have their driest July since records began 190 years ago.",
+    "pubDate": "Fri, 31 Jul 2026 14:43:58 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "WhatsApp is testing a new folder for messages from large businesses",
+    "link": "https://techcrunch.com/2026/07/31/whatsapp-is-testing-a-new-folder-for-messages-from-large-businesses/",
+    "summary": "WhatsApp will automatically move messages from large businesses to a new folder a few hours after you receive them",
+    "pubDate": "Fri, 31 Jul 2026 14:39:43 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Chelsea fined £10m but avoid suspended points deduction",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c5ygz42gedno?at_medium=RSS&at_campaign=rss",
+    "summary": "Chelsea are fined £10m by the Football Association for breaching rules relating to payments to agents between 2009 and 2022.",
+    "pubDate": "Fri, 31 Jul 2026 14:29:20 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Burnham to revisit plan to curb jury trials",
+    "link": "https://www.bbc.co.uk/news/articles/ce3qjv945g7o?at_medium=RSS&at_campaign=rss",
+    "summary": "The prime minister says his \"instinct\" is to reverse plans by the last PM to limit jury trials in England and Wales.",
+    "pubDate": "Fri, 31 Jul 2026 14:28:51 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Hundreds escape Greek wildfire by sea as blazes continue across Europe",
+    "link": "https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o?at_medium=RSS&at_campaign=rss",
+    "summary": "Around 500 people, mostly tourists, are evacuated by boat from Agios Vasileios after becoming trapped.",
+    "pubDate": "Fri, 31 Jul 2026 14:26:07 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Detect Dark Matter's Mark from Your Backyard",
+    "link": "https://spectrum.ieee.org/dark-matter",
+    "summary": "Article URL: https://spectrum.ieee.org/dark-matter Comments URL: https://news.ycombinator.com/item?id=49123579 Points: 5 # Comments: 0",
+    "pubDate": "Fri, 31 Jul 2026 14:25:43 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Celtic reject West Ham Engels bid and confirm Johnston interest",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c3r04pdlw22o?at_medium=RSS&at_campaign=rss",
+    "summary": "Celtic reject a West Ham approach for Arne Engels while there is Everton interest in Alistair Johnston, manager Martin O'Neill confirms.",
+    "pubDate": "Fri, 31 Jul 2026 14:15:10 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Better to Beg Forgiveness",
+    "link": "https://pluralistic.net/2026/07/31/just-do-it/",
+    "summary": "Article URL: https://pluralistic.net/2026/07/31/just-do-it/ Comments URL: https://news.ycombinator.com/item?id=49123300 Points: 7 # Comments: 1",
+    "pubDate": "Fri, 31 Jul 2026 14:05:02 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "AI scammers outperform humans when it comes to building trust",
+    "link": "https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/",
+    "summary": "The AI chatbot was more effective at creating “exploitable trust” than the humans.",
+    "pubDate": "Fri, 31 Jul 2026 14:01:40 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Tesla reportedly might sell its China business ahead of a SpaceX merger",
+    "link": "https://techcrunch.com/2026/07/31/tesla-reportedly-might-sell-its-china-business-ahead-of-a-spacex-merger/",
+    "summary": "Tesla had already reportedly prepped for the idea in the event that Beijing invades Taiwan.",
+    "pubDate": "Fri, 31 Jul 2026 13:45:53 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Situational Awareness Down 67% in July in AI Stock Rout",
+    "link": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f",
+    "summary": "Article URL: https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f Comments URL: https://news.ycombinator.com/item?id=49122994 Points: 70 # Comments: 73",
+    "pubDate": "Fri, 31 Jul 2026 13:37:36 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Why women's football is first casualty of Fifa plans",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cp8xzl54wyzo?at_medium=RSS&at_campaign=rss",
+    "summary": "Fifa's president Gianni Infantino's plans will make women's football \"the first casualties\" according to former England defender Anita Asante.",
+    "pubDate": "Fri, 31 Jul 2026 13:25:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Moonshot built on 20k Nvidia chip cluster from Alibaba",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-31/moonshot-s-kimi-built-on-20-000-nvidia-chip-cluster-from-alibaba",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-07-31/moonshot-s-kimi-built-on-20-000-nvidia-chip-cluster-from-alibaba Comments URL: https://news.ycombinator.com/item?id=49122838 Points: 18 # Comments: 2",
+    "pubDate": "Fri, 31 Jul 2026 13:24:03 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Steelseries Arctis Nova Pro Omni Review: For Multisystem Gamers",
+    "link": "https://www.wired.com/review/steelseries-arctis-nova-pro-omni/",
+    "summary": "Its latest Pro headset can mix between four inputs and has improved wireless connectivity over the originals.",
+    "pubDate": "Fri, 31 Jul 2026 13:21:59 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Pathogenic review: Damn, it feels good to be a virus",
+    "link": "https://arstechnica.com/gaming/2026/07/pathogenic-review-damn-it-feels-good-to-be-a-virus/",
+    "summary": "The hot new roguelite twin-stick shooter lives up to the hype.",
+    "pubDate": "Fri, 31 Jul 2026 13:00:18 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Four climbers killed and six feared missing after avalanche hit Nirmal Purja's team",
+    "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+    "summary": "An American, a Chinese national, an Omani and five Nepalis are said to be part of the group feared missing or killed in Pakistan.",
+    "pubDate": "Fri, 31 Jul 2026 12:37:49 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Passenger on British Airways mayday flight describes fear and shout of 'I don't want to die'",
+    "link": "https://www.bbc.co.uk/news/articles/cn9n2v3lwr0o?at_medium=RSS&at_campaign=rss",
+    "summary": "Edward Killiwick was on the flight that issued a distress call, before it landed safely at Heathrow earlier this month.",
+    "pubDate": "Fri, 31 Jul 2026 12:19:20 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Ruby Central's Destructive Legacy",
+    "link": "https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/",
+    "summary": "Article URL: https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/ Comments URL: https://news.ycombinator.com/item?id=49122105 Points: 49 # Comments: 26",
+    "pubDate": "Fri, 31 Jul 2026 12:10:55 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Best Dyson Vacuums (2026): V15 Detect, Gen5Detect, PencilVac",
+    "link": "https://www.wired.com/gallery/best-dyson-vacuums/",
+    "summary": "Feeling the pull of a new clean machine? We’ll help you make sense of Dyson’s whirlwind vacuum lineup.",
+    "pubDate": "Fri, 31 Jul 2026 12:01:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
+    "link": "https://tasklet.ai/careers/customer-success-engineer",
+    "summary": "Article URL: https://tasklet.ai/careers/customer-success-engineer Comments URL: https://news.ycombinator.com/item?id=49122034 Points: 0 # Comments: 0",
+    "pubDate": "Fri, 31 Jul 2026 12:00:59 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers",
+    "link": "https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/",
+    "summary": "Ellis AI announced Thursday its emergence from stealth with $10 million in seed funding.",
+    "pubDate": "Fri, 31 Jul 2026 12:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "The End of an Era",
+    "link": "https://hughhowey.com/the-end-of-an-era/",
+    "summary": "Article URL: https://hughhowey.com/the-end-of-an-era/ Comments URL: https://news.ycombinator.com/item?id=49121980 Points: 216 # Comments: 238",
+    "pubDate": "Fri, 31 Jul 2026 11:51:46 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The Maxwell Conjecture Is False (GPT 5.6 Sol)",
+    "link": "https://arxiv.org/abs/2607.27197",
+    "summary": "Article URL: https://arxiv.org/abs/2607.27197 Comments URL: https://news.ycombinator.com/item?id=49121868 Points: 32 # Comments: 16",
+    "pubDate": "Fri, 31 Jul 2026 11:37:12 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "US admits 'unfortunate error' after mislabelling countries on map of Africa",
+    "link": "https://www.bbc.co.uk/news/articles/c89n0xykw2go?at_medium=RSS&at_campaign=rss",
+    "summary": "A State Department presentation at HIV conference put Ivory Coast in East Africa and made Nigeria landlocked.",
+    "pubDate": "Fri, 31 Jul 2026 11:30:04 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Southport killer charged with prison attacks and possessing weapon",
+    "link": "https://www.bbc.co.uk/news/articles/ckg3dr3lgjko?at_medium=RSS&at_campaign=rss",
+    "summary": "Axel Rudakubana, 19, is accused of attacking staff at HMP Belmarsh between May and October 2025.",
+    "pubDate": "Fri, 31 Jul 2026 11:03:17 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "How a Yale AI-cheating dispute became a 13-count federal lawsuit",
+    "link": "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
+    "summary": "A disputed exam, an unreliable detector, and one very late Apple Pages file.",
+    "pubDate": "Fri, 31 Jul 2026 11:00:52 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "6 Best Phones With Headphone Jacks (2026), Tested and Reviewed",
+    "link": "https://www.wired.com/gallery/best-headphone-jack-phones/",
+    "summary": "Headphone jacks are endangered, but they’re not gone. Here are our favorite smartphones that still let you plug and play.",
+    "pubDate": "Fri, 31 Jul 2026 11:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Daisy One Review: Comfy and Tactile Headphones",
+    "link": "https://www.wired.com/review/daisy-one/",
+    "summary": "The company’s first headphones look very stylish and have great tactile features but underwhelm on sound quality.",
+    "pubDate": "Fri, 31 Jul 2026 11:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Keeping cool without AC: Our readers share their tips",
+    "link": "https://www.npr.org/2026/07/31/g-s1-136442/extreme-heat-air-conditioning-keeping-cool",
+    "summary": "We asked our readers to tell us how they've fended off heat without the refrigerant blasts of an air conditioner. Here's what they shared.",
+    "pubDate": "Fri, 31 Jul 2026 10:44:47 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Rocket Report: New launch rule may limit environmental regulations, Falcon 9 to hit Moon",
+    "link": "https://arstechnica.com/space/2026/07/rocket-report-big-deals-for-us-launch-firms-rfa-one-debut-is-delayed/",
+    "summary": "\"America won the first Space Race, and we can do it again.\"",
+    "pubDate": "Fri, 31 Jul 2026 10:30:24 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "SJY Zeph Open-Back Headphones Review: Music Through Magnets",
+    "link": "https://www.wired.com/review/sjy-zeph-open-back-planar-magnetic-headphones/",
+    "summary": "SJY’s Zeph are brilliant wired headphones, using flippable earcups for two different takes on your favorite music.",
+    "pubDate": "Fri, 31 Jul 2026 10:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
     "title": "简单有效的 E-cise，如何让我摆脱体态不良的「三件套」？",
     "link": "https://sspai.com/post/112833",
     "summary": "无论你的运动专项为何，E-cise 都可以构成一个很好的辅助和补充。 查看全文",
     "pubDate": "Fri, 31 Jul 2026 10:21:28 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "The New Defcon Badges Pack a Unique Open Source Chip That Doubles as a Security Key",
+    "link": "https://www.wired.com/story/defcon-34-badge-baochip-andrew-bunnie-huang/",
+    "summary": "Created by legendary hardware hacker Andrew “bunnie” Huang, the badges for this year’s famed security conference aim to push the boundaries of security and transparency.",
+    "pubDate": "Fri, 31 Jul 2026 10:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Post-Quantum Certificates",
+    "link": "https://www.netmeister.org/blog/pqc-certs.html",
+    "summary": "Comments",
+    "pubDate": "Fri, 31 Jul 2026 09:49:22 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Methinks it is a weasel",
+    "link": "https://diatone.net/methinks",
+    "summary": "Comments",
+    "pubDate": "Fri, 31 Jul 2026 09:35:00 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "In Nebraska, Americans begin to lose Medicaid under Trump's work rules",
+    "link": "https://www.npr.org/2026/07/31/nx-s1-5913947/medicaid-trump-work-requirements-big-beautiful-bill-nebraska",
+    "summary": "Nebraska's Medicaid director, in an exclusive interview with nonprofit news organization Tradeoffs, said roughly 200 people will lose health coverage on Aug. 1.",
+    "pubDate": "Fri, 31 Jul 2026 09:22:40 -0400",
+    "source": "NPR",
+    "category": "general"
   },
   {
     "title": "Asian nations join growing opposition to Fifa's controversial World Cup investment plan",
@@ -286,6 +686,14 @@
     "pubDate": "Fri, 31 Jul 2026 09:00:00 +0000",
     "source": "Wired",
     "category": "tech"
+  },
+  {
+    "title": "Glasgow gets starring role in Spider-Man: Brand New Day film",
+    "link": "https://www.bbc.co.uk/news/articles/c78gngjz3p8o?at_medium=RSS&at_campaign=rss",
+    "summary": "Scotland's largest city doubles as New York in the latest installment of Marvel cinematic universe.",
+    "pubDate": "Fri, 31 Jul 2026 08:55:36 GMT",
+    "source": "BBC News",
+    "category": "general"
   },
   {
     "title": "About 49,000 migrants enter Spanish enclave of Ceuta, officials say",
@@ -310,6 +718,14 @@
     "pubDate": "Fri, 31 Jul 2026 08:47:33 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "what the double-fork?",
+    "link": "https://bower.sh/what-the-double-fork",
+    "summary": "Comments",
+    "pubDate": "Fri, 31 Jul 2026 08:46:11 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "派早报：小米汽车举行 SKYNOMAD 小米澎程技术发布会等",
@@ -352,11 +768,35 @@
     "category": "general"
   },
   {
+    "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+    "link": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga",
+    "summary": "Article URL: https://artificialanalysis.ai/models/deepseek-v4-flash-ga Comments URL: https://news.ycombinator.com/item?id=49120299 Points: 276 # Comments: 134",
+    "pubDate": "Fri, 31 Jul 2026 07:59:11 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Project-Specific clangd Configuration with a Temporary Shell",
+    "link": "https://felix-knorr.net/posts/2026-07-31-lsp-config.html",
+    "summary": "Comments",
+    "pubDate": "Fri, 31 Jul 2026 07:48:45 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Will Scottish Premiership return to two-team title tussle?",
     "link": "https://www.bbc.co.uk/sport/football/articles/c4gjkne39l3o?at_medium=RSS&at_campaign=rss",
     "summary": "A new Scottish Premiership season begins on Friday, but will anyone match Heart of Midlothian from last term and challenge Celtic and Rangers for the title?",
     "pubDate": "Fri, 31 Jul 2026 07:39:33 GMT",
     "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Trump announced a deal for Hamas to disarm. And, the U.S. economy slowed a bit",
+    "link": "https://www.npr.org/2026/07/31/g-s1-136527/up-first-newsletter-trump-hamas-israel-todd-blanche-us-economy",
+    "summary": "President Trump says a deal has been reached for Hamas to completely disarm and Israeli forces to withdraw from Gaza. And, the U.S. economy slowed some, but Americans continued to spend.",
+    "pubDate": "Fri, 31 Jul 2026 07:30:26 -0400",
+    "source": "NPR",
     "category": "general"
   },
   {
@@ -384,6 +824,14 @@
     "category": "general"
   },
   {
+    "title": "Go 1.27 interactive tour",
+    "link": "https://victoriametrics.com/blog/go-1-27/",
+    "summary": "Comments",
+    "pubDate": "Fri, 31 Jul 2026 06:15:54 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "DeepSeek-V4-Flash Update",
     "link": "https://api-docs.deepseek.com/updates/",
     "summary": "Article URL: https://api-docs.deepseek.com/updates/ Comments URL: https://news.ycombinator.com/item?id=49119559 Points: 199 # Comments: 83",
@@ -398,6 +846,22 @@
     "pubDate": "Fri, 31 Jul 2026 05:45:13 +0000",
     "source": "Hacker News",
     "category": "tech"
+  },
+  {
+    "title": "Stripe Just Wants a Number",
+    "link": "https://blog.exe.dev/billable-facts",
+    "summary": "Comments",
+    "pubDate": "Fri, 31 Jul 2026 05:36:22 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "The local girls preparing to take on Liverpool and Manchester United",
+    "link": "https://www.bbc.co.uk/news/articles/c98vjpn4vylo?at_medium=RSS&at_campaign=rss",
+    "summary": "Players at the fifth edition of the Girls' Super Cup NI say playing top teams is only making them better.",
+    "pubDate": "Fri, 31 Jul 2026 05:35:11 GMT",
+    "source": "BBC News",
+    "category": "general"
   },
   {
     "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
@@ -504,11 +968,27 @@
     "category": "general"
   },
   {
+    "title": "Thousands in France allowed to return home as Europe tackles wildfires and heatwave",
+    "link": "https://www.npr.org/2026/07/31/nx-s1-5913353/france-wildfires-bordeaux-europe-heatwave",
+    "summary": "Firefighters in the Gironde region of France said the situation had \"stabilized\", after a week of wildfires caused by a major heatwave across Europe.",
+    "pubDate": "Fri, 31 Jul 2026 04:45:07 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
     "link": "https://github.com/openjdk/jdk/pull/31120",
     "summary": "Article URL: https://github.com/openjdk/jdk/pull/31120 Comments URL: https://news.ycombinator.com/item?id=49119063 Points: 92 # Comments: 35",
     "pubDate": "Fri, 31 Jul 2026 04:38:19 +0000",
     "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Full flattening of nested data parallelism",
+    "link": "https://futhark-lang.org/blog/2026-07-31-full-flattening.html",
+    "summary": "Comments",
+    "pubDate": "Fri, 31 Jul 2026 04:37:01 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -662,6 +1142,230 @@
     "pubDate": "Fri, 31 Jul 2026 00:05:46 -0500",
     "source": "Lobsters",
     "category": "tech"
+  },
+  {
+    "title": "It’s time to panic about AI safety",
+    "link": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
+    "summary": "When the phrase \"OpenAI hacked Hugging Face\" has more or less entered mainstream culture, you know we have an AI problem. This week, we learned more about exactly how OpenAI's agent broke out of a sandbox and autonomously traversed the web, including a bunch of other supposedly secure web service...",
+    "pubDate": "2026-07-31T10:03:04-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Anthropic says Claude accidentally hacked real companies too",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
+    "summary": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing. The revelation comes days after rival OpenAI said one of its own models had breached developer platform Hugging Fa...",
+    "pubDate": "2026-07-31T09:41:17-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "D&#038;D is getting World of Warcraft and Star Wars crossovers",
+    "link": "https://www.theverge.com/games/973652/dnd-dungeons-dragons-world-of-warcraft-star-wars-universes-beyond",
+    "summary": "Dungeons &#38; Dragons is no stranger to franchise crossovers, and now it's kicking off its biggest multiverse initiative to date, starting with a World of Warcraft expansion. Wizards of the Coast (WotC) has announced that D&#38;D: World of Warcraft - a new sourcebook that brings Blizzard's Azero...",
+    "pubDate": "2026-07-31T08:31:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "This tattoo is permanent, pain-free, and might soon come in the mail",
+    "link": "https://www.theverge.com/tech/972466/cipherx-permanent-pain-free-tattoo-microdot-patches",
+    "summary": "The refurbished railway station in London I entered last week had none of the usual signs of being a tattoo studio. The walls were devoid of any art, and there were no reclining chairs or massage tables in the room. The only tattoo gun on the premises sat in a display case instead of buzzing [&#8...",
+    "pubDate": "2026-07-31T08:01:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Apple TV’s Cape Fear remake turns it into a paranoid tech thriller",
+    "link": "https://www.theverge.com/entertainment/973530/apple-tv-cape-fear-finale-technology",
+    "summary": "Cape Fear has always been a thriller about paranoia. And in 2026 there are few things less trustworthy than technology. Apple TV's recent remake of Cape Fear is \"inspired\" by the 1991 film of the same name (Martin Scorsese and Steven Spielberg even returned as executive producers on the project),...",
+    "pubDate": "2026-07-31T08:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Sony pushes forward with ditching discs, despite backlash",
+    "link": "https://www.theverge.com/tech/973621/sony-playstation-ending-discs-pushing-forward",
+    "summary": "Sony has received a lot of backlash from PlayStation fans since announcing that it's killing physical game disc production, but that hasn't swayed its decision. During Sony's latest earnings call, chief financial officer Lin Tao said that while the company \"put in a lot of thought and time\" when ...",
+    "pubDate": "2026-07-31T06:40:54-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "国务院国资委：深化央企“人工智能+”专项行动，因企制宜培育新兴产业和未来产业",
+    "link": "https://36kr.com/newsflashes/3919556554305154?f=rss",
+    "summary": "36氪获悉，7月31日，国务院国资委党委召开扩大会议。会议强调，要指导中央企业主动对接和带头落实好国家政策，抓住重点、主动作为，充分发挥引领带动作用，更好助推经济持续向新向优向好发展。要锚定全年目标不动摇，切实加强现场督导调研，把中央企业生产经营情况摸清摸透，找准痛点、对症下药，夯实企业高质量发展基础。要着力推进原始创新和关键核心技术攻关，以更大力度加强基础研究，深化央企“人工智能+”专项行动，因企制宜培育新兴产业和未来产业。要持续深化提质增效，做好重点领域内卷治理，推进全产业链、全价值链降本节支，增强经营创现能力和资本积累积聚能力，以“自身稳”带动“行业稳”。要坚决守住风险底线，有效发...",
+    "pubDate": "2026-07-31 20:59:06  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "热门中概股美股盘前普涨，阿里巴巴涨超2%",
+    "link": "https://36kr.com/newsflashes/3919553547038343?f=rss",
+    "summary": "36氪获悉，热门中概股美股盘前普涨，截至发稿，阿里巴巴涨超2%，拼多多涨0.61%，蔚来涨0.6%，理想汽车涨0.59%，百度涨0.33%，京东涨0.09%，小鹏汽车跌0.54%。",
+    "pubDate": "2026-07-31 20:56:03  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "美股大型科技股盘前多数上涨，亚马逊涨超10%",
+    "link": "https://36kr.com/newsflashes/3919549841321345?f=rss",
+    "summary": "36氪获悉，美股大型科技股盘前多数上涨，截至发稿，亚马逊涨超10%，英特尔涨超4%，谷歌涨超1%，英伟达涨0.9%，Meta涨0.89%，特斯拉涨0.67%，苹果跌近8%，微软跌0.09%。",
+    "pubDate": "2026-07-31 20:52:16  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "交大昂立：公司股票8月4日起实施其他风险警示，简称变更为“ST交昂”",
+    "link": "https://36kr.com/newsflashes/3919547923574152?f=rss",
+    "summary": "36氪获悉，交大昂立公告，公司于2026年7月31日收到中国证监会上海监管局下发的《行政处罚事先告知书》，根据相关规定，公司股票将被实施其他风险警示。公司股票将于2026年8月3日停牌。2026年8月4日起实施其他风险警示，实施后A股股票简称由“交大昂立”变更为“ST交昂”",
+    "pubDate": "2026-07-31 20:50:19  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "2026年7月总票房突破50亿",
+    "link": "https://36kr.com/newsflashes/3919538914258311?f=rss",
+    "summary": "36氪获悉，据灯塔专业版，截至7月31日，2026年7月总票房（含预售）突破50亿，《功夫女足》《八仙！》《蜘蛛侠：崭新之日》《小黄人与大怪兽》《四渡》位列7月票房榜前五。",
+    "pubDate": "2026-07-31 20:42:30  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "贝肯能源：控股股东将变更为极宁科技，股票将于8月3日复牌",
+    "link": "https://36kr.com/newsflashes/3919527719005827?f=rss",
+    "summary": "36氪获悉，贝肯能源公告，公司控股股东陈平贵及其配偶Anhua Sun与极宁科技签署股份转让协议，陈平贵拟转让11.65%股份给极宁科技，交易对价4.08亿元；Anhua Sun拟在限售期满后转让1.51%股份给极宁科技。完成后，极宁科技将持有13.16%股份，成为控股股东，实际控制人变更为潘涛。公司股票自2026年8月3日起复牌，本次事项尚存不确定性。",
+    "pubDate": "2026-07-31 20:39:43  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "2连板中国宝安：第一大股东在股票交易异常波动期间增持1.6%股份",
+    "link": "https://36kr.com/newsflashes/3919520686321287?f=rss",
+    "summary": "36氪获悉，中国宝安公告，公司股票连续2个交易日（7月30日、31日）收盘价涨幅偏离值累计超20%，属于异常波动。在公司股票交易异常波动期间，公司第一大股东承兴投资以集中竞价交易方式增持公司股份4127.08万股，占公司总股本的1.6001%。",
+    "pubDate": "2026-07-31 20:33:34  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "特朗普扬言将出台油价干预措施，雪佛龙与埃克森美孚利润大幅飙升",
+    "link": "https://36kr.com/newsflashes/3919514840231556?f=rss",
+    "summary": "埃克森美孚与雪佛龙公布二季度业绩，两家企业合计盈利265亿美元，依托特朗普主导的伊朗冲突引发原油与汽油价格暴涨实现获利。截至6月底的三个月内，雪佛龙净利润达122亿美元，同比激增四倍，创下其历史最高季度利润。埃克森美孚二季度净利润为145亿美元，较去年同期实现翻倍，也是自2022年油价飙升以来，该公司交出的最佳季度业绩。特朗普此前一直指责石油行业哄抬油价。6月末他在 “真实社交” 平台发文：“汽油零售商必须立刻下调油价！再不降价，麻烦就在眼前！”（新浪财经）",
+    "pubDate": "2026-07-31 20:26:34  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "艾伯维第二季度净营收169.9亿美元",
+    "link": "https://36kr.com/newsflashes/3919511680609665?f=rss",
+    "summary": "7月31日，艾伯维公布第二季度业绩报告。公司第二季度净营收为169.90亿美元，按报告基准增长10.2%，按运营基准增长9.5%；第二季度调整后稀释每股收益为3.65美元，同比增长22.9%。此外，艾伯维宣布达成收购Apogee Therapeutics的最终协议，将进一步深化公司免疫学产品组合。（界面）",
+    "pubDate": "2026-07-31 20:19:25  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "电投产融：山东莱阳核电项目获国务院常务会议核准",
+    "link": "https://36kr.com/newsflashes/3919516325949059?f=rss",
+    "summary": "36氪获悉，电投产融公告，公司获悉山东莱阳核电项目1、2号机组已获国务院常务会议核准。公司将成立国电投核电（莱阳）核能有限公司作为业主单位，负责项目投资、建设及运营管理。本期工程拟建设2台“国和一号”（CAP1400）非能动压水堆核电机组，单台机组额定功率1543MW。目前新项目公司尚未成立，由公司所属国电投莱阳核能有限公司继续推进前期及投资建设工作，各项施工准备工作正有序开展。",
+    "pubDate": "2026-07-31 20:18:11  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "上半年上海智能车载设备、机器人销售收入同比增长61.5%和17.5%",
+    "link": "https://36kr.com/newsflashes/3919510952291713?f=rss",
+    "summary": "从上海市税务局获悉，增值税发票数据显示，2026年上半年，上海经济运行延续稳中向好态势，传统产业稳健增长、筑牢经济基本盘，新兴产业加速崛起、激活增长新动能，科创投入持续加码、数字经济蓬勃发展，市场活力充分释放。其中，传统产业韧性凸显，民生消费领域持续回暖。发票数据显示，上半年，上海市食品制造等传统行业销售收入同比增长9.2%。同时，新兴产业保持快速增长，智能车载设备、机器人等行业销售收入同比分别增长61.5%、17.5%。（上证报）",
+    "pubDate": "2026-07-31 20:12:43  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "深交所：本周对138起证券异常交易行为采取了自律监管措施",
+    "link": "https://36kr.com/newsflashes/3919499607748224?f=rss",
+    "summary": "36氪获悉，深交所公告，2026年7月27日至7月31日，本所共对138起证券异常交易行为采取了自律监管措施，涉及盘中拉抬打压、虚假申报等异常交易情形。",
+    "pubDate": "2026-07-31 20:01:10  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "中国广核：惠州5号及6号机组建设获国务院核准",
+    "link": "https://36kr.com/newsflashes/3919487196982915?f=rss",
+    "summary": "36氪获悉，中国广核公告，公司子公司惠州第三核电的惠州5号及6号机组已获国务院核准，采用华龙一号2.0版核电技术，单台机组容量1217MW。目前正有序开展施工准备工作，待取得《核电厂建造许可证》后即可全面建设。",
+    "pubDate": "2026-07-31 19:54:32  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "欧盟8月2日起执行《人工智能法》相关规定，新增AI透明度要求",
+    "link": "https://36kr.com/newsflashes/3919473270812290?f=rss",
+    "summary": "欧盟委员会7月31日宣布，自8月2日起，欧盟委员会人工智能办公室将与各成员国主管部门共同开始执行《人工智能法》相关规定。同时，新的人工智能透明度要求也将正式生效，要求部分人工智能系统明确告知用户其正在与人工智能互动，以及相关内容是否由人工智能生成或修改。根据新规，聊天机器人等交互式人工智能系统必须向用户明确表明其人工智能身份，而非真人。利用人工智能生成或编辑的深度伪造图片、视频和音频等内容必须进行标识，由人工智能生成或修改的内容还需添加机器可识别标记，以便识别和追踪。欧盟委员会表示，这些措施旨在减少欺骗和操纵行为，帮助公众作出更加知情的判断，同时为企业提供更加明确的合规要求和实施路径。（...",
+    "pubDate": "2026-07-31 19:45:20  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "欧元区7月通胀率升至2.9%，能源涨价为主因",
+    "link": "https://36kr.com/newsflashes/3919471244324233?f=rss",
+    "summary": "欧盟统计局7月31日公布的初步数据显示，2026年7月欧元区通胀率按年率计算为2.9%，高于6月的2.8%。数据显示，7月欧元区能源价格同比上涨10.0%，显著高于6月的8.5%，是推高整体物价水平的主要因素；服务价格同比上涨3.3%，略高于6月的3.2%；非能源工业产品价格同比上涨0.9%，高于6月的0.7%。食品和烟酒价格同比上涨1.2%，低于6月的1.5%。剔除能源、食品和烟酒价格后，7月欧元区核心通胀率为2.5%，略高于6月的2.4%。（新华社）",
+    "pubDate": "2026-07-31 19:40:18  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "万华化学、兴发集团合资公司增资至7.5亿，增幅200%",
+    "link": "https://36kr.com/newsflashes/3919438329851526?f=rss",
+    "summary": "36氪获悉，天眼查App显示，近日，远安兴华磷化工有限公司发生工商变更，注册资本由2.5亿人民币增至7.5亿人民币，增幅200%。该公司成立于2024年7月，法定代表人为张昌，经营范围包括化工产品生产、化工产品销售等。股东信息显示，该公司由湖北兴发化工集团股份有限公司、万华化学集团股份有限公司共同持股。",
+    "pubDate": "2026-07-31 19:38:45  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "爱丽家居：股票交易严重异常波动，8月3日起停牌核查",
+    "link": "https://36kr.com/newsflashes/3919471423860359?f=rss",
+    "summary": "36氪获悉，爱丽家居公告，公司股票自7月21日至7月31日期间多次触及股票交易异常波动及严重异常波动情形，股价累计涨幅达135.77%。为维护投资者利益，公司股票将于8月3日开市起停牌，自披露核查公告后复牌。公司基本面未发生重大变化，但股价已严重偏离基本面，存在非理性炒作风险。",
+    "pubDate": "2026-07-31 19:32:30  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "铭普光磁：拟定增募资不超12.83亿元，用于高速光模块智能制造项目等",
+    "link": "https://36kr.com/newsflashes/3919459572608384?f=rss",
+    "summary": "36氪获悉，铭普光磁公告，拟向不超过35名特定投资者发行A股股票，募集资金总额不超过12.83亿元。扣除发行费用后的募集资金净额将用于高速光模块智能制造项目、高速光器件及高端无源器件产业化建设项目、高速光芯片智能制造项目及补充流动资金。",
+    "pubDate": "2026-07-31 19:30:22  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "华恒生物：实际控制人郭恒华因涉嫌非法吸收公众存款罪被批捕",
+    "link": "https://36kr.com/newsflashes/3919457775087238?f=rss",
+    "summary": "36氪获悉，华恒生物公告，公司收到公司实际控制人郭恒华家属通知，郭恒华因涉嫌非法吸收公众存款罪被检察机关批准逮捕。郭恒华目前未在公司担任董事或高级管理人员职务，上述事项不会对公司日常经营活动产生重大不利影响。公司各项经营管理工作由高管团队负责，且有明确的流程保障，公司董事及高级管理人员目前均正常履职。目前，公司业务正常开展，经营活动正常进行。公司将持续关注上述事项的进展情况，并严格按照有关法律、法规的规定和要求，及时履行信息披露义务。",
+    "pubDate": "2026-07-31 19:26:34  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "宏桥控股：拟定增募资不超120亿元 用于风电、光伏、铝深加工项目等",
+    "link": "https://36kr.com/newsflashes/3919442779549318?f=rss",
+    "summary": "36氪获悉，宏桥控股公告，拟定增募资不超过120亿元，扣除发行费用后拟用于风电项目（56.5亿元）、光伏项目（22.5亿元）、铝深加工项目（23亿元）及偿还银行贷款和补充流动资金（18亿元）。",
+    "pubDate": "2026-07-31 19:22:18  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "36氪独家｜曾爱玲入职B站担任AI视频生成业务负责人，向CEO陈睿汇报",
+    "link": "https://36kr.com/p/3910776673064073?f=rss",
+    "summary": "文｜王毓婵 兰杰 编辑｜乔芊 36氪独家获悉，曾爱玲入职哔哩哔哩（下称“B站”），担任AI视频生成业务负责人，向CEO陈睿汇报。 36氪就此事向B站方面求证，对方暂无回应。 曾爱玲 B站此前已公开表示，AI投入主要聚焦视频理解、视频推荐和辅助视频创作等方向。曾爱玲入职后，或将参与相关业务。 曾爱玲的个人主页显示，她曾在腾讯混元&amp;AI Lab团队和国际数字经济研究院（IDEA）工作三年，领导以人为中心的感知与生成研究团队。其后，她加入米哈游创始人蔡浩宇旗下AI公司Anuttacon，负责开发以人为中心的交互式多模态视频生成系统。这些模型使AI智能体能够感知、交互并生成实时、长时程的...",
+    "pubDate": "2026-07-31 18:27:38  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "氪星晚报 ｜Prada集团上半年营收增长16%，Miu Miu增速显著放缓；浪潮数据发布自研AI数据操作系统",
+    "link": "https://36kr.com/p/3919378312670857?f=rss",
+    "summary": "大公司： 途牛：8月中上旬或将迎新一轮客流高峰 36氪获悉，进入8月后，学生假期仍有充足余量，亲子游、避暑游、海滨海岛游等需求持续释放，预计将在8月中上旬迎来新一轮客流高峰。途牛截至目前最新预订数据显示，暑期后半程，上海、北京、成都、三亚、广州、南京、贵阳、杭州、重庆、青岛等目的地预计将成为途牛境内游用户更为热门的选择。 Prada集团上半年营收增长16%，Miu Miu增速显著放缓 2026年上半年，Prada集团营收按固定汇率计同比增长16%至30.48亿欧元（约合人民币237亿元），有机增长5%，其中第二季度增长7%。分品牌看，上半年Prada零售额同比增长3%，其中第二季度增速提...",
+    "pubDate": "2026-07-31 18:01:34  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
   },
   {
     "title": "世贸组织：2026年第一季度全球货物贸易增长超出预期",
@@ -1048,6 +1752,46 @@
     "category": "tech-cn"
   },
   {
+    "title": "Author Correction: Cucurbituril-based anion-conducting membranes with supramolecular nanopores",
+    "link": "https://www.nature.com/articles/s41586-026-10921-w",
+    "summary": "Nature, Published online: 31 July 2026; doi:10.1038/s41586-026-10921-w Author Correction: Cucurbituril-based anion-conducting membranes with supramolecular nanopores",
+    "pubDate": "2026-07-31",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "The physics of fizz: why some bubbles are louder than others",
+    "link": "https://www.nature.com/articles/d41586-026-02334-6",
+    "summary": "Nature, Published online: 31 July 2026; doi:10.1038/d41586-026-02334-6 A high-speed camera and underwater microphones help scientists to investigate a puzzle about bubbles.",
+    "pubDate": "2026-07-31",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "The power of ignorance and peering into the Milky Way: Books in brief",
+    "link": "https://www.nature.com/articles/d41586-026-02371-1",
+    "summary": "Nature, Published online: 31 July 2026; doi:10.1038/d41586-026-02371-1 Andrew Robinson reviews five of the best science picks.",
+    "pubDate": "2026-07-31",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Meat allergy is on the rise — what scientists want to know",
+    "link": "https://www.nature.com/articles/d41586-026-02362-2",
+    "summary": "Nature, Published online: 31 July 2026; doi:10.1038/d41586-026-02362-2 The allergy is caused by ticks, but researchers have much to learn about it.",
+    "pubDate": "2026-07-31",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "<b>The forensic traces that can help catch poachers — </b> July’s best science images",
+    "link": "https://www.nature.com/articles/d41586-026-02274-1",
+    "summary": "Nature, Published online: 31 July 2026; doi:10.1038/d41586-026-02274-1 The month’s sharpest science shots, selected by Nature’s photo team.",
+    "pubDate": "2026-07-31",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
     "title": "How smallpox reached the Americas: first genomic evidence points to Europeans",
     "link": "https://www.nature.com/articles/d41586-026-02366-y",
     "summary": "Nature, Published online: 31 July 2026; doi:10.1038/d41586-026-02366-y Viral sequences from Chilean mummies confirm the disease was introduced from Europe.",
@@ -1086,5 +1830,13 @@
     "pubDate": "2026-07-30T16:46:25-04:00",
     "source": "The Verge",
     "category": "tech"
+  },
+  {
+    "title": "Daily briefing: ‘Raygun’ AI can shrink or supersize proteins",
+    "link": "https://www.nature.com/articles/d41586-026-02420-9",
+    "summary": "Nature, Published online: 30 July 2026; doi:10.1038/d41586-026-02420-9 The tool can add, remove or swap protein subunits using similar steps to natural evolution. Plus, spin qubits are back in the quantum race and the drugs that could prevent long COVID.",
+    "pubDate": "2026-07-30",
+    "source": "Nature",
+    "category": "science"
   }
 ]

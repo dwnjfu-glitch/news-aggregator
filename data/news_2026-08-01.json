@@ -1,5 +1,77 @@
 [
   {
+    "title": "Highland glen sees first wild-born beavers in 400 years",
+    "link": "https://www.bbc.co.uk/news/articles/c4g6k44yk2yo?at_medium=RSS&at_campaign=rss",
+    "summary": "Conservationists believe there are at least two kits in Glen Affric following a release of 11 beavers.",
+    "pubDate": "Wed, 29 Jul 2026 05:16:22 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "'I'm Mandy Burnham' - Quaker chaplain is lookalike for new prime minister",
+    "link": "https://www.bbc.co.uk/news/articles/cd7lg29gvjyo?at_medium=RSS&at_campaign=rss",
+    "summary": "Emma Roberts is is \"leaning into\" the comparisons and has changed her name to \"Mandy Burnham\" on TikTok.",
+    "pubDate": "Tue, 28 Jul 2026 11:52:52 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Roman port dug up behind woman's home",
+    "link": "https://www.bbc.co.uk/news/articles/c3r085dwv8vo?at_medium=RSS&at_campaign=rss",
+    "summary": "The remains have been discovered beneath a paddock close to the Humber estuary in Brough.",
+    "pubDate": "Tue, 28 Jul 2026 11:33:49 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "「弯道超车」赛车入门指北：进站不只为换胎，策略里的那本时间账",
+    "link": "https://sspai.com/post/112701",
+    "summary": "真正的比赛往往不只发生在赛道上，也发生在每一次进站窗口打开的时候。 查看全文",
+    "pubDate": "Sat, 01 Aug 2026 12:54:31 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "Intensity, smiles & Lewandowski - inside Liverpool training under Iraola",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c6290e063yno?at_medium=RSS&at_campaign=rss",
+    "summary": "Liverpool's pre-season under Andoni Iraola is ramping up - and here is what we learned from the first open training session under their new boss.",
+    "pubDate": "Sat, 01 Aug 2026 07:42:28 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Ten advances in mathematics and theoretical computer science",
+    "link": "https://openai.com/index/ten-advances-in-mathematics/",
+    "summary": "Article URL: https://openai.com/index/ten-advances-in-mathematics/ Comments URL: https://news.ycombinator.com/item?id=49132058 Points: 62 # Comments: 46",
+    "pubDate": "Sat, 01 Aug 2026 07:37:44 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Ten Ways NAS Is Getting Enshitified",
+    "link": "https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/",
+    "summary": "Article URL: https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/ Comments URL: https://news.ycombinator.com/item?id=49131367 Points: 61 # Comments: 49",
+    "pubDate": "Sat, 01 Aug 2026 05:38:16 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+    "link": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
+    "summary": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
+    "pubDate": "Sat, 01 Aug 2026 05:01:56 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "What is Iran's Pickaxe Mountain and why does Trump say he wants to bomb it?",
+    "link": "https://www.bbc.co.uk/news/articles/c9w0ygrwrn5o?at_medium=RSS&at_campaign=rss",
+    "summary": "BBC Verify has spoken to experts and analysed satellite imagery to piece together what we know about the site, and the potential impact of a US strike.",
+    "pubDate": "Sat, 01 Aug 2026 05:01:19 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "The Papers: 'Spanish border crisis' and 'iron chancellor'",
     "link": "https://www.bbc.co.uk/news/articles/cdrvkzdpynyo?at_medium=RSS&at_campaign=rss",
     "summary": "The crossing of 60,000 migrants into the Spanish North African enclave of Ceuta from Morocco is featured prominently across Saturday's papers.",
@@ -13,6 +85,14 @@
     "summary": "Article URL: https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising Comments URL: https://news.ycombinator.com/item?id=49130756 Points: 35 # Comments: 8",
     "pubDate": "Sat, 01 Aug 2026 03:25:12 +0000",
     "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "I Fired My AI Assitant",
+    "link": "https://chreke.com/posts/i-fired-my-ai-assistant",
+    "summary": "Comments",
+    "pubDate": "Sat, 01 Aug 2026 03:22:15 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -36,6 +116,14 @@
     "link": "https://microsoft.github.io/flint-chart/",
     "summary": "Article URL: https://microsoft.github.io/flint-chart/ Comments URL: https://news.ycombinator.com/item?id=49130604 Points: 12 # Comments: 2",
     "pubDate": "Sat, 01 Aug 2026 02:45:09 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "A week in Matrix",
+    "link": "https://piegames.de/dumps/a-week-in-matrix/",
+    "summary": "Article URL: https://piegames.de/dumps/a-week-in-matrix/ Comments URL: https://news.ycombinator.com/item?id=49130295 Points: 63 # Comments: 33",
+    "pubDate": "Sat, 01 Aug 2026 01:35:53 +0000",
     "source": "Hacker News",
     "category": "tech"
   },
@@ -256,6 +344,14 @@
     "category": "tech"
   },
   {
+    "title": "marionette: deterministic simulation testing library",
+    "link": "https://github.com/sb2bg/marionette",
+    "summary": "Comments",
+    "pubDate": "Fri, 31 Jul 2026 21:20:59 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Reddit keeps its strange DMCA fight over Google search results alive",
     "link": "https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/",
     "summary": "Reddit advances lawsuit accusing Perplexity AI of conspiring with web scraper.",
@@ -400,12 +496,212 @@
     "category": "tech"
   },
   {
+    "title": "ST Rust drivers",
+    "link": "https://blog.st.com/rust-mems-drivers/",
+    "summary": "Comments",
+    "pubDate": "Fri, 31 Jul 2026 15:23:05 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "The most official water costs $120k a gallon",
+    "link": "https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/",
+    "summary": "Article URL: https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/ Comments URL: https://news.ycombinator.com/item?id=49124042 Points: 179 # Comments: 145",
+    "pubDate": "Fri, 31 Jul 2026 15:00:15 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Authorize, don't authenticate",
+    "link": "https://blog.marcua.net/2026/07/31/authorize-dont-authenticate.html",
+    "summary": "Article URL: https://blog.marcua.net/2026/07/31/authorize-dont-authenticate.html Comments URL: https://news.ycombinator.com/item?id=49123468 Points: 86 # Comments: 32",
+    "pubDate": "Fri, 31 Jul 2026 14:17:43 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
+    "link": "https://github.com/sqliteai/waste",
+    "summary": "Article URL: https://github.com/sqliteai/waste Comments URL: https://news.ycombinator.com/item?id=49123386 Points: 239 # Comments: 98",
+    "pubDate": "Fri, 31 Jul 2026 14:12:38 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The Democrats need to win Michigan… so why is it splitting the party?",
+    "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+    "summary": "A centrist and a left wing candidate go head to head in Michigan.",
+    "pubDate": "Fri, 31 Jul 2026 14:00:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "The Democrats need to win Michigan… so why is it splitting the party?",
     "link": "https://www.bbc.co.uk/sounds/play/w3ct8lzf?at_medium=RSS&at_campaign=rss",
     "summary": "A centrist and a left wing candidate go head to head in Michigan.",
     "pubDate": "Fri, 31 Jul 2026 14:00:00 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "金山办公WPS存储管理新版本上线",
+    "link": "https://36kr.com/newsflashes/3920632482491776?f=rss",
+    "summary": "7月31日，金山办公首次参展ChinaJoy，现场除展示独立AI办公Agent灵犀和面向研发场景的WPS Comate外，还设置了面向WPS用户的反馈区。同日，包含存储管理等多项更新的WPS新版本正式上线。围绕C盘存储管理，新版本主要带来了两方面改进。首先，WPS新增统一的“存储管理”入口，原本分散在不同位置的磁盘占用查看、缓存清理和存储路径调整等功能，被集中到同一页面。其次，安装路径可以分别设置。",
+    "pubDate": "2026-08-01 16:30:26  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "长三角多地发放结婚消费券",
+    "link": "https://36kr.com/newsflashes/3920617407196549?f=rss",
+    "summary": "在长三角部分地区，新人们除了能收到来自亲朋好友的祝福，还可能领到一份“官方随的份子”——结婚消费券。 浙江江山第二批结婚消费券定于8月19日当天启动发放，凡在七夕起一个月内登记的新人，每对可申领价值1000元的消费券。就在两个多月前的“520”，首批消费券同样引发了一波申领热潮。 长三角多地已先后试水。日前，浙江义乌市民政部门宣布再次延长结婚消费券活动时间，2026年10月底前，在当地登记结婚的新人均可申领价值1000元、由财政补贴的消费券。当地的结婚消费券发放活动2025年10月中旬启动，这已经是第二次延期。每对办理结婚登记的夫妻可领取10张“满200元减100元”满减券，用于婚礼婚庆...",
+    "pubDate": "2026-08-01 16:15:09  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "印度央行：印度引资举措吸引超400亿美元外资",
+    "link": "https://36kr.com/newsflashes/3920583946186368?f=rss",
+    "summary": "印度积极吸引海外资本，自6月以来已引入资金超400亿美元，充实印度央行外汇储备。当前国际原油价格走高，印度政策制定者正借此稳定卢比汇率。 印度央行周六公布的数据显示，截至7月31日，非居民外币存款吸纳资金规模达3672亿美元。叠加海外外币借款与境外商业借款流入资金，引资总额约410亿美元。印度央行行长桑杰・马尔霍特拉本周接受采访时向投资者安抚卢比前景。他表示，卢比近期走弱源于地缘冲突、美元走强以及新兴市场普遍波动，并非印度经济基本面出现恶化。",
+    "pubDate": "2026-08-01 16:00:06  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "美中贸委会会长：美国企业重视中国市场和对华合作",
+    "link": "https://36kr.com/newsflashes/3920583526526343?f=rss",
+    "summary": "当地时间7月31日，中国贸促会组织中国企业家代表团在华盛顿与美中贸易全国委员会及其会员企业交流座谈。中国贸促会会长任鸿斌、中国驻美国使馆经商处公参李勰、美中贸委会会长谭森等出席并发言。来自多个行业的中美企业代表参会并进行了积极沟通交流。美中贸委会会长谭森在接受媒体采访时表示，美国企业仍致力于在中国发展，重视中国市场，并希望加强与中国企业合作。",
+    "pubDate": "2026-08-01 15:45:40  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "部分美国企业换上中国大模型以降低成本",
+    "link": "https://36kr.com/newsflashes/3920583026929281?f=rss",
+    "summary": "从AlphaGo称霸围棋界到ChatGPT面世，美国在算法大模型领域积累了显著的先发优势。但近年中国大模型的崛起对AI格局有所冲击。美国《华尔街日报》等多家媒体提到，中国大模型独角兽月之暗面新一代开源大模型Kimi K3撼动资本市场，并称其与DeepSeek在2025年发布时引发的市场恐慌如出一辙，连马斯克都赞其“令人印象深刻”。一些大型美国公司也开始转向中国大模型。据美联社消息，加密货币交易所Coinbase表示，正在转向使用中国人工智能模型以降低成本。爱彼迎采用了阿里巴巴的Qwen模型，并称赞其“快速且便宜”。",
+    "pubDate": "2026-08-01 15:30:11  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "充电桩CCC认证自8月1日起开始强制实施",
+    "link": "https://36kr.com/newsflashes/3920582349974916?f=rss",
+    "summary": "8月1日起，市场监管总局（国家认监委）对电动汽车供电设备强制性产品认证（CCC认证）管理开始强制实施，通过开展防触电、短路保护、耐火耐燃等关键安全指标测试和企业现场质量保证能力、产品一致性检查，切实筑牢产品质量安全底线。随着我国新能源汽车的不断普及和发展，电动汽车供电设备（俗称充电桩）已经成为服务百姓出行需求的重要基础设施。8月1日起，未获得CCC认证的电动汽车供电设备，不得出厂、销售、进口或者在其他经营活动中使用。对于8月1日前已经投入运营的设备，经营者应当严格遵守《中华人民共和国产品质量法》《中华人民共和国消费者权益保护法》有关规定，保证其提供的商品或者服务符合保障人身、财产安全的要求。",
+    "pubDate": "2026-08-01 15:15:29  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "国际足联放弃“出售世界杯部分股权”计划，亚足联主席发声",
+    "link": "https://36kr.com/newsflashes/3920581725924742?f=rss",
+    "summary": "据法新社报道，对于国际足联决定“撤回”一项商业计划，放弃继续推进“出售世界杯部分股权”一事，亚足联主席萨尔曼8月1日在一份声明中表示“欢迎”。根据亚足联网站发布的声明，萨尔曼还称，希望今后任何可能会对全球足球运动产生影响的倡议，都将及时以透明且有意义的方式提交给各大洲足球联合会、国际足联理事会、成员协会及其他利益相关方进行讨论。",
+    "pubDate": "2026-08-01 15:00:51  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "岚图汽车：7月交付13189辆新车",
+    "link": "https://36kr.com/newsflashes/3920478712442503?f=rss",
+    "summary": "36氪获悉，8月1日，岚图汽车发布最新交付数据：7月交付13189辆，1-7月累计交付89453辆，同比增长31%。",
+    "pubDate": "2026-08-01 14:42:05  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "三天、十八场对谈、一个问题：ChinaJoy还只是游戏展吗？",
+    "link": "https://36kr.com/p/3920595518533250?f=rss",
+    "summary": "如果有个人在零几年走进刚刚开办的 ChinaJoy 展馆，看到玩家排队试玩、ShowGirl 站在《魔兽世界》展台前、Coser 在《最终幻想》的海报前合影，他大概不会怀疑，这就是一个关于游戏的展会。&nbsp; 因为他是对的，在看似遥远的2004年，中国游戏市场正处于蓬勃发展的阶段。首届 ChinaJoy，是当时国内屈指可数的大型游戏展会。&nbsp; 但二十年多后，如果有人走进2026 年的 ChinaJoy，还觉得它只是关于游戏，他大概会错过这个时代最值得看的一件事。&nbsp; 2026年，ChinaJoy 即将在7月底的上海举办第二十三届展会。&nbsp; 如今的 ChinaJ...",
+    "pubDate": "2026-08-01 14:37:32  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "吉尔吉斯斯坦与阿塞拜疆签署同盟关系条约",
+    "link": "https://36kr.com/newsflashes/3920436488678789?f=rss",
+    "summary": "据吉尔吉斯斯坦总统网站7月31日消息，吉总统扎帕罗夫当天在吉尔吉斯斯坦乔尔蓬阿塔市与来访的阿塞拜疆总统阿利耶夫签署同盟关系条约。扎帕罗夫当天与阿利耶夫举行会谈后向媒体发表声明。扎帕罗夫表示，两国签署同盟关系条约是元首会谈的一项重要成果，标志着双方合作进入新阶段。",
+    "pubDate": "2026-08-01 14:30:05  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "浙江实施人工智能OPC术语团体标准：由1名核心自然人主导",
+    "link": "https://36kr.com/newsflashes/3920435807923841?f=rss",
+    "summary": "由浙江省数字经济发展中心等编制的《人工智能OPC术语》团体标准2026年8月1日起实施，将人工智能OPC（One Person Company，一人公司）界定为由1名核心自然人主导控制，员工一般不超过10人，以AI技术研究、开发、应用或服务为主营业务的公司。",
+    "pubDate": "2026-08-01 14:15:22  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "鸿蒙智行月交付45046台",
+    "link": "https://36kr.com/newsflashes/3920418360569216?f=rss",
+    "summary": "鸿蒙智行：7月交付45,046台，1-7月累计交付28.6万台，同比增长13.7%。",
+    "pubDate": "2026-08-01 14:00:40  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "中国国家博物馆严正声明：从未在馆外开展扫码入群、信息采集活动",
+    "link": "https://36kr.com/newsflashes/3920419149573509?f=rss",
+    "summary": "中国国家博物馆网站7月31日发布公告称，近日，观众反映有社会人员冒用“国家博物馆工作人员”名义从事引导公众扫码，收集获取手机号码、身份证号码等个人信息的活动。对此，国家博物馆高度重视，特此发布严正声明：国家博物馆从未授权任何机构、个人在馆外公共场所开展扫码入群、信息采集等活动，凡是以国家博物馆名义进行的此类活动，均与国家博物馆无任何关联。上述行为严重侵犯了国家博物馆的合法权益，国家博物馆将依法保留追究相关组织及个人法律责任的权利。在此，国家博物馆特别提醒公众，提高安全防范意识，妥善保管个人信息，切勿轻易扫描来源不明的二维码。如发现有组织或个人以国家博物馆名义进行非法活动，请及时向相关执法...",
+    "pubDate": "2026-08-01 13:45:29  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "2025年地方养老基金投资收益率为5.76%",
+    "link": "https://36kr.com/newsflashes/3920417829416325?f=rss",
+    "summary": "全国社会保障基金理事会今天（1日）发布报告，2025年地方养老基金投资收益额1420.71亿元，投资收益率5.76%。自2016年12月受托运营以来，地方养老基金累计投资收益额5544.30亿元，年均投资收益率5.14%，超过年均保底收益率2.63%约2.51个百分点。报告指出，社保基金会坚持并持续丰富“长期投资、价值投资、责任投资”理念，审慎稳健开展投资运营管理，忠实履行好基金安全和保值增值主体责任。",
+    "pubDate": "2026-08-01 13:30:07  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "2026年上半年，浙江机场累计运输生鲜近4万吨",
+    "link": "https://36kr.com/newsflashes/3920417355558276?f=rss",
+    "summary": "据统计，上半年浙江省机场累计运输生鲜近4万吨，同比增长超26%，其中进出口生鲜近1.5万吨，同比增长超178%。作为核心枢纽，杭州机场上半年生鲜运输量约2.7万吨，同比增长超23%。",
+    "pubDate": "2026-08-01 13:15:38  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "中国—乌兹别克斯坦AEO互认安排正式实施",
+    "link": "https://36kr.com/newsflashes/3920416879062662?f=rss",
+    "summary": "今天（1日），中国与乌兹别克斯坦海关“经认证的经营者”（AEO）互认安排正式实施，两国贸易便利化水平将会进一步提升。AEO互认安排落地后，中国海关、乌兹别克斯坦海关在进口货物通关时，向互认的AEO企业提供多项便利措施：适用较低的进口货物查验率；对需要实货检查的货物给予优先检查；指定海关联络员，负责沟通处理项目成员在通关中遇到的问题；在国际贸易中断、恢复后优先通关。",
+    "pubDate": "2026-08-01 13:00:09  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "报道称OpenAI面临投资者担忧与竞争压力 IPO或推迟至明年",
+    "link": "https://36kr.com/newsflashes/3920415886061193?f=rss",
+    "summary": "据报道，OpenAI可能会将其IPO推迟到明年。参与相关讨论的人士透露，近几个月来，OpenAI的一些大投资者已私下对这家初创公司相对于其增长的现金消耗速度过快表示担忧，而其他投资者则通过向Anthropic投入资金来对冲他们对OpenAI的押注。与此同时，Anthropic的营收增长近期已超过OpenAI，其估值也是如此。据知情人士透露，Anthropic正在加速秋季IPO的计划，并已开始与潜在投资者会面，强调其相对于ChatGPT制造商所保持的领先优势。而最初希望抢在Anthropic之前上市，OpenAI现在可能会等到明年再IPO。",
+    "pubDate": "2026-08-01 12:45:09  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "快递外卖电动车须悬挂专用号牌 北京新规今起施行",
+    "link": "https://36kr.com/newsflashes/3920415204978310?f=rss",
+    "summary": "《北京市快递、外卖行业非机动车管理办法（试行）》正式施行。新规明确用于快递、外卖服务的电动自行车须登记并悬挂专用号牌，实行“专车专用”。停止用于快递外卖服务的，应在停用之日起30日内变更普通号牌。同时，新购置用于快递、外卖服务的电动自行车，应符合2024年版《电动自行车安全技术规范》国家标准并列入北京市产品目录。",
+    "pubDate": "2026-08-01 12:30:25  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "蔚来公司7月交付35934台，同比增长71%",
+    "link": "https://36kr.com/newsflashes/3920471544934019?f=rss",
+    "summary": "36氪获悉，2026年7月，蔚来公司交付新车35934台，同比增长71.0%。其中，蔚来品牌交付新车20008台，同比增长57.9%；乐道品牌交付新车10155台，同比增长69.9%；firefly萤火虫品牌交付新车5771台，同比增长143.9%。",
+    "pubDate": "2026-08-01 12:29:53  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
+  },
+  {
+    "title": "暑运过半 全国铁路累计发送旅客4.32亿人次",
+    "link": "https://36kr.com/newsflashes/3920387953897088?f=rss",
+    "summary": "记者今天（8月1日）从国铁集团获悉，为期两个月的铁路暑运自7月1日启动以来至7月31日，累计发送旅客4.32亿人次。进入暑运以来，成渝、京津冀、长三角、粤港澳大湾区客流集中。数据显示，截至7月31日，国铁北京局累计发送旅客3877.4万人次，国铁广州局累计发送旅客5892.5万人次。",
+    "pubDate": "2026-08-01 12:15:42  +0800",
+    "source": "36Kr",
+    "category": "tech-cn"
   },
   {
     "title": "韩国7月出口飙升至历史第二高 半导体出口同比暴增近180%",

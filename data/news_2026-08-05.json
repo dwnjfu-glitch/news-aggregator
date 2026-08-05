@@ -1,11 +1,451 @@
 [
   {
+    "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+    "link": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+    "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
+    "pubDate": "Wed, 05 Aug 2026 20:05:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Ex neo-Nazi activist withdraws as Tory election candidate",
+    "link": "https://www.bbc.co.uk/news/articles/cy4kx8n2vwxo?at_medium=RSS&at_campaign=rss",
+    "summary": "Kemi Badenoch says Joshua Bonehill-Paine will now advise the Conservatives on tackling extremism.",
+    "pubDate": "Wed, 05 Aug 2026 19:59:35 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Hank Green found the AI problem that YouTube labels can’t catch",
+    "link": "https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch/",
+    "summary": "\"Slop\" isn't the only problem.",
+    "pubDate": "Wed, 05 Aug 2026 19:51:40 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "University of Cambridge professor at centre of plagiarism row resigns",
+    "link": "https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss",
+    "summary": "Prof Jason Arday said he had \"concluded that the only way to bring this chapter to an end is to step away\".",
+    "pubDate": "Wed, 05 Aug 2026 19:45:56 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The Most Dangerous AI Hacking Techniques Still Have Humans in the Loop",
+    "link": "https://www.wired.com/story/the-most-dangerous-ai-hacking-techniques-still-have-human-input/",
+    "summary": "Security researcher James Kettle tried to push the limit of AI’s hacking abilities—and discovered how effective it can be when combined with human expertise.",
+    "pubDate": "Wed, 05 Aug 2026 19:42:12 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "SpaceX claims Starlink Mobile will be better than AT&T, T-Mobile, and Verizon",
+    "link": "https://arstechnica.com/tech-policy/2026/08/spacex-claims-starlink-mobile-will-be-better-than-att-t-mobile-and-verizon/",
+    "summary": "SpaceX won't build large cell towers but plans small base stations across US.",
+    "pubDate": "Wed, 05 Aug 2026 19:38:56 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "TikTok Says ‘Moderator Error’ Kept Perez Hilton Livestream Up",
+    "link": "https://www.wired.com/story/tiktok-says-moderator-error-kept-perez-hilton-livestream-on-platform/",
+    "summary": "The gossip blogger was on TikTok covered in what appeared to be blood and wielding a knifelike object before the platform cut his stream. He’s since been hospitalized.",
+    "pubDate": "Wed, 05 Aug 2026 19:35:22 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+    "link": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+    "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
+    "pubDate": "Wed, 05 Aug 2026 19:30:19 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "How Buttler became T20 cricket's run-scoring GOAT",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/c5ywjjnn0j5o?at_medium=RSS&at_campaign=rss",
+    "summary": "BBC Sport explores how Jos Buttler became the highest run-getter in men's T20 cricket.",
+    "pubDate": "Wed, 05 Aug 2026 19:25:02 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "This Atlantic hurricane season is looking like a dud, but there will be a price to pay",
+    "link": "https://arstechnica.com/science/2026/08/this-atlantic-hurricane-season-is-looking-like-a-dud-but-there-will-be-a-price-to-pay/",
+    "summary": "\"The models are forecasting something outside the envelope of anything we have ever observed.\"",
+    "pubDate": "Wed, 05 Aug 2026 19:19:04 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Muse Code and Muse Spark 1.2",
+    "link": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+    "summary": "Article URL: https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2 Comments URL: https://news.ycombinator.com/item?id=49187575 Points: 33 # Comments: 13",
+    "pubDate": "Wed, 05 Aug 2026 19:15:52 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Google's AI shakeup: DeepMind's Hassabis steps aside, senior scientists depart",
+    "link": "https://arstechnica.com/gadgets/2026/08/googles-ai-shakeup-deepminds-hassabis-steps-aside-senior-scientists-depart/",
+    "summary": "Google's AI brain drain continues.",
+    "pubDate": "Wed, 05 Aug 2026 19:05:58 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Ex-leader Hasina gambles on return to Bangladesh despite death penalty",
+    "link": "https://www.bbc.co.uk/news/articles/cvg9j8820v6o?at_medium=RSS&at_campaign=rss",
+    "summary": "The 78-year-old has been convicted of crimes against humanity over a deadly crackdown on a 2024 uprising.",
+    "pubDate": "Wed, 05 Aug 2026 19:02:06 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Sula: A Gemini protocol server written in Scryer Prolog",
+    "link": "https://sagredo.dev/projects/sula/",
+    "summary": "Article URL: https://sagredo.dev/projects/sula/ Comments URL: https://news.ycombinator.com/item?id=49187259 Points: 9 # Comments: 0",
+    "pubDate": "Wed, 05 Aug 2026 18:52:58 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Zed DeltaDB",
+    "link": "https://zed.dev/deltadb",
+    "summary": "Article URL: https://zed.dev/deltadb Comments URL: https://news.ycombinator.com/item?id=49187256 Points: 90 # Comments: 21",
+    "pubDate": "Wed, 05 Aug 2026 18:52:54 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "What happens if you put work into the second dimension?",
+    "link": "https://norbertkozsir.com/posts/work-in-the-second-dimension/",
+    "summary": "Article URL: https://norbertkozsir.com/posts/work-in-the-second-dimension/ Comments URL: https://news.ycombinator.com/item?id=49187084 Points: 6 # Comments: 0",
+    "pubDate": "Wed, 05 Aug 2026 18:39:31 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Youth protests have weakened Modi, Indian activist who went on hunger strike tells BBC",
+    "link": "https://www.bbc.co.uk/news/articles/cn7nkyr1j7ro?at_medium=RSS&at_campaign=rss",
+    "summary": "The \"cockroach\" movement was one of the biggest public displays of dissent against India's prime minister in years.",
+    "pubDate": "Wed, 05 Aug 2026 18:38:46 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Student loan repayment rates an 'unsustainable burden', chancellor told",
+    "link": "https://www.bbc.co.uk/news/articles/c5yed780epqo?at_medium=RSS&at_campaign=rss",
+    "summary": "More than 120 MPs and peers have asked John Healey to carry out an \"urgent review\" of repayments.",
+    "pubDate": "Wed, 05 Aug 2026 18:38:45 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Newcastle appoint Jaissle - what should fans expect?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cn4n0ypyx31o?at_medium=RSS&at_campaign=rss",
+    "summary": "Newcastle United appoint Matthias Jaissle, 38, as head coach to succeed Eddie Howe - but what will the German bring to the club?",
+    "pubDate": "Wed, 05 Aug 2026 18:32:43 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "AI Hacks Are Bad. AI Worms and Viruses Will Be Worse",
+    "link": "https://www.wired.com/story/ai-agents-could-act-like-computer-viruses-and-worms/",
+    "summary": "Chinese researchers have shown that AI models have the capacity to act like aggressive and adaptive computer viruses.",
+    "pubDate": "Wed, 05 Aug 2026 18:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Review: Spider-Man: Brand New Day reminds us that superhero movies can be good",
+    "link": "https://arstechnica.com/culture/2026/08/review-spider-man-brand-new-day-reminds-us-that-superhero-movies-can-be-good/",
+    "summary": "It's as much about grounded characters and well-timed emotional beats as CGI-filled action extravaganzas.",
+    "pubDate": "Wed, 05 Aug 2026 18:27:15 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
+    "link": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
+    "summary": "Without Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages.",
+    "pubDate": "Wed, 05 Aug 2026 18:19:51 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+    "link": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+    "summary": "Article URL: https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency Comments URL: https://news.ycombinator.com/item?id=49186762 Points: 70 # Comments: 13",
+    "pubDate": "Wed, 05 Aug 2026 18:18:56 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Show HN: ClickBench Playground – a playground for 110 database systems",
+    "link": "https://benchmark.clickhouse.com/playground/",
+    "summary": "I created it mostly for testing and exploration, but the main reason was that it became possible after previous work. Comments URL: https://news.ycombinator.com/item?id=49186732 Points: 3 # Comments: 1",
+    "pubDate": "Wed, 05 Aug 2026 18:17:35 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
+    "link": "https://arxiv.org/abs/2510.01395",
+    "summary": "Article URL: https://arxiv.org/abs/2510.01395 Comments URL: https://news.ycombinator.com/item?id=49186720 Points: 22 # Comments: 8",
+    "pubDate": "Wed, 05 Aug 2026 18:17:03 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Weeks into explosive diarrhea outbreak, sluggish CDC plans response team",
+    "link": "https://arstechnica.com/health/2026/08/report-cdc-finally-plans-formal-response-team-for-explosive-diarrhea-outbreak/",
+    "summary": "Reports of cases began in June, and the national tally is now nearing 23,000.",
+    "pubDate": "Wed, 05 Aug 2026 18:11:11 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Reddit aims to make ‘karma’ less important for first-time posters with shift to AI moderation tools",
+    "link": "https://techcrunch.com/2026/08/05/reddit-aims-to-make-karma-less-important-for-first-time-posters-with-shift-to-ai-moderation-tools/",
+    "summary": "Reddit is expanding its moderation tools and building stronger abuse prevention systems that it says could eventually reduce communities’ reliance on karma and account-age requirements, making it easier for legitimate newcomers to participate.",
+    "pubDate": "Wed, 05 Aug 2026 18:00:40 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Real Madrid make Vinicius Jr improved contract offer",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cx2dpejpv70o?at_medium=RSS&at_campaign=rss",
+    "summary": "Real Madrid make Vinicius Jr an improved contract offer as they look to keep the Brazil winger at the Bernabeu.",
+    "pubDate": "Wed, 05 Aug 2026 17:59:01 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Lucid Motors just delayed its affordable EV. Now what?",
+    "link": "https://techcrunch.com/2026/08/05/lucid-motors-just-delayed-its-affordable-ev-now-what/",
+    "summary": "The Cosmos EV is now slated for release in the second half of 2027. CEO Silvio Napoli said he's focused on getting the EV right, as well as its nearer-term robotaxi project with Uber and Nuro.",
+    "pubDate": "Wed, 05 Aug 2026 17:57:45 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
     "title": "196 张盗版碟，和我的游戏启蒙史",
     "link": "https://sspai.com/post/112831",
     "summary": "游戏首先要传播出去才会具备被用户接受和讨论的价值，那些曾经陪伴你我的盗版游戏，是否也为今天的你埋下过一颗种子？ 查看全文",
     "pubDate": "Wed, 05 Aug 2026 17:24:34 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "DHS Is Hiring Bounty Hunters to Find and Photograph Deported People’s Homes Abroad",
+    "link": "https://www.wired.com/story/dhs-is-hiring-bounty-hunters-to-find-and-photograph-deported-peoples-homes-abroad/",
+    "summary": "Homeland Security told immigrants that leaving the US would wipe out fines it claims they owe. Now it wants private investigators to find them in their home countries and collect.",
+    "pubDate": "Wed, 05 Aug 2026 17:24:01 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
+    "link": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+    "summary": "Article URL: https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data Comments URL: https://news.ycombinator.com/item?id=49185983 Points: 66 # Comments: 21",
+    "pubDate": "Wed, 05 Aug 2026 17:23:25 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Phishers are hijacking legitimate cloud infrastructure",
+    "link": "https://securelist.com/cloud-platforms-in-phishing/120832/",
+    "summary": "Article URL: https://securelist.com/cloud-platforms-in-phishing/120832/ Comments URL: https://news.ycombinator.com/item?id=49185931 Points: 26 # Comments: 6",
+    "pubDate": "Wed, 05 Aug 2026 17:20:25 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "After jacking up prices, Disney+ and Netflix consider offering free alternatives",
+    "link": "https://arstechnica.com/gadgets/2026/08/after-jacking-up-prices-disney-and-netflix-consider-offering-free-alternatives/",
+    "summary": "Disney is interested in \"price-sensitive\" streaming customers.",
+    "pubDate": "Wed, 05 Aug 2026 17:12:39 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Meet the eight startups pitching at Startup Battlefield Australia",
+    "link": "https://techcrunch.com/2026/08/05/meet-the-eight-startups-pitching-at-startup-battlefield-australia/",
+    "summary": "The applications are in, and the TechCrunch Startup Battlefield team made their decisions!",
+    "pubDate": "Wed, 05 Aug 2026 17:02:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "EVgo starts building Tesla Superchargers under license",
+    "link": "https://arstechnica.com/cars/2026/08/evgo-starts-building-tesla-superchargers-under-license/",
+    "summary": "The V4 Superchargers will show up in the Tesla nav app and have NACS and CCS1 plugs.",
+    "pubDate": "Wed, 05 Aug 2026 17:00:38 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "PSA: Apple’s Private Relay can leak your real IP address",
+    "link": "https://techcrunch.com/2026/08/05/psa-apples-private-relay-can-leak-your-real-ip-address/",
+    "summary": "A bug in how Apple implements its Private Relay feature, which in theory masks users’ IP addresses from the sites they visit, can reveal users’ real IP addresses.",
+    "pubDate": "Wed, 05 Aug 2026 16:52:29 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Celld: Self-hosted, distributed Durable Objects",
+    "link": "https://github.com/denoland/celld",
+    "summary": "Article URL: https://github.com/denoland/celld Comments URL: https://news.ycombinator.com/item?id=49185430 Points: 52 # Comments: 1",
+    "pubDate": "Wed, 05 Aug 2026 16:50:06 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
+    "link": "https://www.hyperprobe.co",
+    "summary": "Hi HN, this is Shailendra and Karan here. We are building a fast and safe way for coding agents to debug issues live in production. When prod breaks, it lets Cursor, Claude, and others drop virtual breakpoints or probes safely in your running code, and extract the exact variable values that logs ...",
+    "pubDate": "Wed, 05 Aug 2026 16:47:15 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "I’m leaving OpenAI to build telepathy",
+    "link": "https://naomibashkansky.com/blog/telepathy/",
+    "summary": "Article URL: https://naomibashkansky.com/blog/telepathy/ Comments URL: https://news.ycombinator.com/item?id=49185370 Points: 42 # Comments: 72",
+    "pubDate": "Wed, 05 Aug 2026 16:45:33 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "D-Wave shows off its new entry in quantum computing race",
+    "link": "https://arstechnica.com/science/2026/08/d-wave-on-rails-company-tests-entanglement-on-its-dual-rail-qubits/",
+    "summary": "Company noted for building quantum annealers now also making gate-based hardware.",
+    "pubDate": "Wed, 05 Aug 2026 16:37:07 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Stop sending me your errors",
+    "link": "https://kramkow.ski/article/2026/08/05/stop_sending_me_your_errors.html",
+    "summary": "Article URL: https://kramkow.ski/article/2026/08/05/stop_sending_me_your_errors.html Comments URL: https://news.ycombinator.com/item?id=49185215 Points: 17 # Comments: 0",
+    "pubDate": "Wed, 05 Aug 2026 16:35:30 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Woman arrested after four stabbed in central London",
+    "link": "https://www.bbc.co.uk/news/articles/cn0nk17881yo?at_medium=RSS&at_campaign=rss",
+    "summary": "A woman is arrested after four men are stabbed in central London, the Metropolitan Police said.",
+    "pubDate": "Wed, 05 Aug 2026 16:34:52 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
+    "link": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
+    "summary": "More than 50 offending image and video ads were published across Facebook, Instagram, Messenger, or Threads, according to Meta’s ad library data. Some ran as recently as this week.",
+    "pubDate": "Wed, 05 Aug 2026 16:26:36 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Discovery Loop",
+    "link": "https://www.discoveryloop.com/",
+    "summary": "Article URL: https://www.discoveryloop.com/ Comments URL: https://news.ycombinator.com/item?id=49184960 Points: 365 # Comments: 214",
+    "pubDate": "Wed, 05 Aug 2026 16:19:44 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+    "link": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+    "summary": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassa... https://www.reuters.com/business/google-shakes-up-ai-leaders... https://www.discoveryloop.com/ , https://news.ycombinator.com/item?id=49184960 https://twitter.com/JeffDean/status/2085034604172603724 , https://xcancel.com/JeffDean/sta...",
+    "pubDate": "Wed, 05 Aug 2026 16:05:31 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "El-Sayed's victory in Michigan sends tremors through Democratic Party",
+    "link": "https://www.bbc.co.uk/news/articles/cp309ng0xq1o?at_medium=RSS&at_campaign=rss",
+    "summary": "His win in Michigan sets up a high-stakes contest in November, testing a left-wing candidate's popularity in a swing state.",
+    "pubDate": "Wed, 05 Aug 2026 16:04:16 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Dr. Erica Schwartz confirmed as CDC director, filling a leadership vacuum",
+    "link": "https://www.npr.org/2026/08/05/nx-s1-5920379/cdc-director-confirmed-erica-schwartz",
+    "summary": "Schwartz takes command of a public health agency that has lost thousands of employees, amid layoffs, resignations and leadership turmoil.",
+    "pubDate": "Wed, 05 Aug 2026 16:00:24 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Google’s Top AI Brains Are Leaving to Launch Discovery Loop",
+    "link": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/",
+    "summary": "Jeff Dean and other high-profile Google executives have founded Discovery Loop, a startup that will seek AI-powered breakthroughs in everything from drug discovery to chip design.",
+    "pubDate": "Wed, 05 Aug 2026 16:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+    "link": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+    "summary": "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.",
+    "pubDate": "Wed, 05 Aug 2026 15:56:14 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Which PM punched John Simpson?",
+    "link": "https://www.bbc.co.uk/sounds/play/p0p2tdv2?at_medium=RSS&at_campaign=rss",
+    "summary": "Plus… what did Andy Burnham's wife say about his leadership bid?",
+    "pubDate": "Wed, 05 Aug 2026 15:47:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Charli XCX on lying, Love Island and life post-Brat",
+    "link": "https://www.bbc.co.uk/news/articles/cwylxg2jekdo?at_medium=RSS&at_campaign=rss",
+    "summary": "Charli XCX sits down with Radio 1's Jack Saunders to discuss the release of her new album.",
+    "pubDate": "Wed, 05 Aug 2026 15:46:34 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Hark previews its browser use agent for completing tasks",
+    "link": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
+    "summary": "Hark claims that its browser use agent is faster and cheaper than competition.",
+    "pubDate": "Wed, 05 Aug 2026 15:46:27 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "MAGA Is In Turmoil Over Tucker Carlson’s Possible 2028 Presidential Bid",
+    "link": "https://www.wired.com/story/maga-is-in-turmoil-over-tucker-carlsons-possible-2028-presidential-bid/",
+    "summary": "Joe Kent says that he and other anti–Donald Trump MAGA figures have formed a new movement. They want Tucker Carlson to run for the presidency in 2028.",
+    "pubDate": "Wed, 05 Aug 2026 15:30:21 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Google plans to kill Assistant on your phone on September 4",
+    "link": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/",
+    "summary": "Assistant will disappear, leaving only Gemini for voice control in the coming weeks.",
+    "pubDate": "Wed, 05 Aug 2026 15:30:02 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "The Valley of Webhooks",
+    "link": "https://weli.dev/blog/the-valley-of-webhooks/",
+    "summary": "Article URL: https://weli.dev/blog/the-valley-of-webhooks/ Comments URL: https://news.ycombinator.com/item?id=49184216 Points: 81 # Comments: 33",
+    "pubDate": "Wed, 05 Aug 2026 15:22:06 +0000",
+    "source": "Hacker News",
+    "category": "tech"
   },
   {
     "title": "Bookology：从藏书到笔记，打造你的私人阅读档案",
@@ -16,12 +456,52 @@
     "category": "tech-cn"
   },
   {
+    "title": "Zoox to start charging for robotaxi rides in Las Vegas",
+    "link": "https://techcrunch.com/2026/08/05/zoox-to-start-charging-for-robotaxi-rides-in-las-vegas/",
+    "summary": "This marks the official launch of Zoox's commercial operations.",
+    "pubDate": "Wed, 05 Aug 2026 15:06:42 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
+    "link": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
+    "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+    "pubDate": "Wed, 05 Aug 2026 15:05:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "See the Sun like never before with most detailed images yet",
+    "link": "https://www.bbc.co.uk/news/articles/c36d4376nd2o?at_medium=RSS&at_campaign=rss",
+    "summary": "New images and footage of the Sun show \"whirlpools\" of activity that it has not been possible to see before.",
+    "pubDate": "Wed, 05 Aug 2026 15:01:33 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Celtic boss O'Neill in hospital after 'small procedure'",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cz05n32n9vlo?at_medium=RSS&at_campaign=rss",
+    "summary": "Celtic manager Martin O'Neill remains in hospital after undergoing a \"small procedure\", the club announce.",
+    "pubDate": "Wed, 05 Aug 2026 14:58:25 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "Family 'devastated' by death of girl, 9, as man charged with murder",
     "link": "https://www.bbc.co.uk/news/articles/c235evj1r04o?at_medium=RSS&at_campaign=rss",
     "summary": "A 35-year old man has appeared in court charged with the murder of Minnie Merriman, who was found injured in Arbroath on Monday.",
     "pubDate": "Wed, 05 Aug 2026 14:50:09 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Oracle cut its Always Free ARM limits to 2 OCPU / 12GB, enforced Aug 18",
+    "link": "https://www.cnelecar.com/blog/oracle-always-free-arm-limits-cut-2026/",
+    "summary": "Article URL: https://www.cnelecar.com/blog/oracle-always-free-arm-limits-cut-2026/ Comments URL: https://news.ycombinator.com/item?id=49183750 Points: 149 # Comments: 103",
+    "pubDate": "Wed, 05 Aug 2026 14:46:36 +0000",
+    "source": "Hacker News",
+    "category": "tech"
   },
   {
     "title": "As Gen Z reconsiders dating apps, Tinder’s IRL events expand to dozens more cities",
@@ -128,6 +608,14 @@
     "category": "tech"
   },
   {
+    "title": "SpaceX spooks investors with debut earnings report",
+    "link": "https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/",
+    "summary": "Shares slide in pre-market trading even as group says its quarterly revenues nearly doubled.",
+    "pubDate": "Wed, 05 Aug 2026 13:59:17 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
     "title": "Cloudflare OS: an open platform for agents, apps, and work",
     "link": "https://blog.cloudflare.com/cloudflare-os/",
     "summary": "Article URL: https://blog.cloudflare.com/cloudflare-os/ Comments URL: https://news.ycombinator.com/item?id=49182996 Points: 77 # Comments: 40",
@@ -160,6 +648,14 @@
     "category": "tech"
   },
   {
+    "title": "Your Agentic Workflow's Cache Keepalive Costs 8x Too Much (v2: the interval frontier)",
+    "link": "https://blog.mempko.com/your-agentic-workflows-cache-keepalive-costs-8x-too-much-v2-the-interval-frontier/",
+    "summary": "Comments",
+    "pubDate": "Wed, 05 Aug 2026 13:52:56 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Misconduct proceedings against officer who shot Chris Kaba dropped",
     "link": "https://www.bbc.co.uk/news/articles/cvg0rmpydrmo?at_medium=RSS&at_campaign=rss",
     "summary": "Sir Mark Rowley welcomes the IOPC's decision but calls the accountability process \"disgraceful\".",
@@ -176,6 +672,14 @@
     "category": "general"
   },
   {
+    "title": "How Trump made an estimated $2.2 billion during the first year of his second term",
+    "link": "https://www.npr.org/2026/08/05/nx-s1-5919997/how-trump-made-an-estimated-2-2-billion-during-the-first-year-of-his-second-term",
+    "summary": "New York Times reporter Eric Lipton discusses his Pulitzer Prize-winning investigations into Trump's conflicts of interest and whether he's exploiting the power of the presidency for self-enrichment.",
+    "pubDate": "Wed, 05 Aug 2026 13:41:17 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "Painting with Gaussians",
     "link": "https://yogthos.net/posts/2026-08-03-splat-painter.html",
     "summary": "Article URL: https://yogthos.net/posts/2026-08-03-splat-painter.html Comments URL: https://news.ycombinator.com/item?id=49182695 Points: 6 # Comments: 0",
@@ -189,6 +693,14 @@
     "summary": "Article URL: https://build2.org/blog/faster-than-ninja.xhtml Comments URL: https://news.ycombinator.com/item?id=49182685 Points: 17 # Comments: 0",
     "pubDate": "Wed, 05 Aug 2026 13:33:25 +0000",
     "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The \"Disability Dongle\": Why Silicon Valley Hates Me and you",
+    "link": "https://sightlessscribbles.com/disability-dongle/",
+    "summary": "Comments",
+    "pubDate": "Wed, 05 Aug 2026 13:29:28 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -222,6 +734,14 @@
     "pubDate": "Wed, 05 Aug 2026 13:21:43 +0000",
     "source": "TechCrunch",
     "category": "tech"
+  },
+  {
+    "title": "Judge reluctantly dismisses case against Oath Keepers militia group over Jan. 6 riot",
+    "link": "https://www.npr.org/2026/08/05/g-s1-137440/judge-dismisses-lawsuit-oath-keepers",
+    "summary": "A judge has granted the Justice Department's bid to drop a landmark case against leaders of the Oath Keepers, as former prosecutors warn about the dangers of denying the violence of Jan. 6.",
+    "pubDate": "Wed, 05 Aug 2026 13:14:46 -0400",
+    "source": "NPR",
+    "category": "general"
   },
   {
     "title": "Lines to be first British woman in America's Cup team for 90 years",
@@ -272,11 +792,27 @@
     "category": "tech"
   },
   {
+    "title": "Uganda team manager has 'no idea' why boxers disappeared after Games",
+    "link": "https://www.bbc.co.uk/news/articles/c5yv2w14nk3o?at_medium=RSS&at_campaign=rss",
+    "summary": "Commonwealth Games chef de mission Godwin Kayangwe says he hopes the athletes will return home before their visas expire in October.",
+    "pubDate": "Wed, 05 Aug 2026 12:23:38 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "Traitors star Joe Marler to become BBC's first celebrity Gladiator",
     "link": "https://www.bbc.co.uk/news/articles/c39ep0eyk21o?at_medium=RSS&at_campaign=rss",
     "summary": "The former rugby star will be known as Mauler when the fourth series airs in 2027, the BBC confirmed.",
     "pubDate": "Wed, 05 Aug 2026 12:14:41 GMT",
     "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Pakistan's ruling party leads in Kashmir vote despite boycott call by banned group",
+    "link": "https://www.npr.org/2026/08/05/g-s1-137449/pakistans-ruling-party-leads-in-kashmir-vote-despite-boycott-call-by-banned-group",
+    "summary": "Candidates backed by twice-elected former Prime Minister Nawaz Sharif's Pakistan Muslim League-N party have won 24 of the 34 seats decided in the first two phases of voting, the election commission, said Wednesday.",
+    "pubDate": "Wed, 05 Aug 2026 12:06:06 -0400",
+    "source": "NPR",
     "category": "general"
   },
   {
@@ -312,11 +848,35 @@
     "category": "tech"
   },
   {
+    "title": "C++26: #embed",
+    "link": "https://www.sandordargo.com/blog/2026/08/05/cpp26-embed",
+    "summary": "Comments",
+    "pubDate": "Wed, 05 Aug 2026 11:28:57 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Under China's new 'unity' law, Tibetans fight to preserve language and culture",
+    "link": "https://www.npr.org/2026/08/05/g-s1-137436/under-chinas-new-unity-law-tibetans-fight-to-preserve-language-and-culture",
+    "summary": "A 73-year-old retired nurse's decision to learn to write Tibetan language offers a glimpse into how some embrace their language and cultural identity in Tibet.",
+    "pubDate": "Wed, 05 Aug 2026 11:26:43 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "Indian EV startup River raises $120M Series C to scale production, launch more models",
     "link": "https://techcrunch.com/2026/08/05/indian-ev-two-wheeler-startup-river-raises-120m-after-scaling-with-one-model/",
     "summary": "River plans to build a new factory, launch additional models from 2027, and target profitability as it scales production.",
     "pubDate": "Wed, 05 Aug 2026 11:26:00 +0000",
     "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "How Compiler Explorer Runs on AWS in 2026",
+    "link": "https://xania.org/202608/how-compiler-explorer-runs-on-aws",
+    "summary": "Comments",
+    "pubDate": "Wed, 05 Aug 2026 11:23:32 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -668,6 +1228,14 @@
     "link": "https://www.bbc.co.uk/news/articles/c5y0e4dx8w9o?at_medium=RSS&at_campaign=rss",
     "summary": "Kate Nash will perform at The Mac as part of the fringe programme for the Fleadh Cheoil na hÉireann",
     "pubDate": "Wed, 05 Aug 2026 05:13:04 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Apology after carer fed dog food to elderly woman by mistake",
+    "link": "https://www.bbc.co.uk/news/articles/cwyjn9yw97eo?at_medium=RSS&at_campaign=rss",
+    "summary": "The incident was among \"abysmal failures\" of care by a council contractor, an investigation finds.",
+    "pubDate": "Wed, 05 Aug 2026 05:07:43 GMT",
     "source": "BBC News",
     "category": "general"
   },
@@ -1296,6 +1864,78 @@
     "category": "tech"
   },
   {
+    "title": "The Global Story: Who is to blame for the chaos on Spain’s border?",
+    "link": "https://www.bbc.co.uk/sounds/play/w3ct8mhw?at_medium=RSS&at_campaign=rss",
+    "summary": "Spain faces a backlash from Europe, while Trump warns of an ‘invasion’",
+    "pubDate": "Tue, 04 Aug 2026 09:00:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Two of Ring&#8217;s latest video doorbells are a lot cheaper than usual",
+    "link": "https://www.theverge.com/gadgets/975723/ring-wired-doorbell-pro-battery-doorbell-plus-deal-sale",
+    "summary": "Ring&#8217;s Wired Doorbell Pro and Battery Doorbell Plus are two of the brand&#8217;s most well-rounded video doorbells, whether you&#8217;re looking for a hardwired model or one that runs on a battery. Right now, its Wired Doorbell Pro is down to $199 ($50 off) at Amazon and Best Buy, while the...",
+    "pubDate": "2026-08-05T13:53:43-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Uber CEO brushes off reports of a Waymo break-up",
+    "link": "https://www.theverge.com/transportation/975651/uber-ceo-earnings-waymo-partnership",
+    "summary": "After Uber and Waymo ended their partnership in Phoenix earlier this year, experts and robotaxi watchers wondered whether the companies' improbable bromance was fraying. Not so, Uber CEO Dara Khosrowshahi said today. The two companies are committed to continue working together in Atlanta and Aust...",
+    "pubDate": "2026-08-05T13:34:48-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Apple’s selling refurbished MacBook Neos with a $100 discount",
+    "link": "https://www.theverge.com/gadgets/975603/refurbished-apple-macbook-neo-google-wireless-charger-deal-sale",
+    "summary": "Apple’s most affordable laptop, the MacBook Neo, is available once again at its pre-price hike price. All four colors are currently discounted and available refurbished through the company, with the base 256GB model listed for $599 (usually $699 new), and the upgraded version with 512GB of storag...",
+    "pubDate": "2026-08-05T12:59:23-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Sure seems like Fenix Flexin used AI music generator Treblo",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
+    "summary": "We were pretty sure that Fenix Flexin's \"Rubberz\" was made using AI, but musician Medasin was confident that it was made using Treblo specifically. Now the company and a new detection tool seem to confirm it. On Monday, the company announced the open-source Treblo AI Music Classifier, which detec...",
+    "pubDate": "2026-08-05T12:57:25-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Google just announced a major shakeup of its top AI leadership",
+    "link": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
+    "summary": "Google is making some significant AI leadership changes, including a major shift for Google DeepMind leader Demis Hassabis. Hassabis will become the chair of Google DeepMind and the chief scientist at Alphabet, CEO Sundar Pichai announced on Wednesday. Hassabis will continue to lead Alphabet's Is...",
+    "pubDate": "2026-08-05T12:47:23-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "SpaceX is barely Space and mostly X",
+    "link": "https://www.theverge.com/science/975545/spacex-x-earnings-ai-data-centers-compute-space",
+    "summary": "Once, I had some questions about why SpaceX, Elon Musk's healthiest company, acquired xAI, his sickliest one. Now I have some questions about why we're calling the whole thing SpaceX. Look, what we have here, by revenue, is primarily a telecom company and a company that rents compute, according t...",
+    "pubDate": "2026-08-05T12:35:56-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Reddit is introducing a new moderator: AI",
+    "link": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform",
+    "summary": "Reddit is enlisting AI to help moderate new subreddits - and eventually the rest of site. The company is introducing automated moderation tools that rely on LLMs to help mods manage their communities, and it's expanding who can use those tools today ahead of a full launch later this year. The com...",
+    "pubDate": "2026-08-05T12:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Rogue AI agents created fake online identities in another hacking attempt",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking",
+    "summary": "Yet more rogue AI agents from OpenAI and Anthropic have been caught attempting to hack real targets online without permission. The discoveries add to a growing list of previously unknown incidents that have alarmed AI safety experts and intensified pressure for greater oversight of frontier syste...",
+    "pubDate": "2026-08-05T11:14:57-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
     "title": "Sunbird relaunched its iMessage app for Android users after three years away",
     "link": "https://www.theverge.com/tech/975563/imessage-android-sunbird",
     "summary": "Sunbird Messaging is back on the Google Play Store, offering Android users blue bubble privileges in iMessage complete with reactions and high quality videos for $2.99 a month. Apple and Google have made cross platform messaging better in recent years with support for RCS, but Android users can s...",
@@ -1366,6 +2006,270 @@
     "pubDate": "2026-08-05T02:50:19-04:00",
     "source": "The Verge",
     "category": "tech"
+  },
+  {
+    "title": "Thermally evaporated perovskite/silicon tandems via formamidinium eutectic",
+    "link": "https://www.nature.com/articles/s41586-026-10970-1",
+    "summary": "Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10970-1 Thermally evaporated perovskite/silicon tandems via formamidinium eutectic",
+    "pubDate": "2026-08-05",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Editorial Expression of Concern: Tumour exosome integrins determine organotropic metastasis",
+    "link": "https://www.nature.com/articles/s41586-026-10977-8",
+    "summary": "Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10977-8 Editorial Expression of Concern: Tumour exosome integrins determine organotropic metastasis",
+    "pubDate": "2026-08-05",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "<b>Junk plastic turns into high-value commodity with chemistry trick</b>",
+    "link": "https://www.nature.com/articles/d41586-026-02445-0",
+    "summary": "Nature, Published online: 05 August 2026; doi:10.1038/d41586-026-02445-0 Researchers untangle the chemistry behind turning PVC into high-grade motor lubricant — plus, how engineered yeast can help make a cancer drug.",
+    "pubDate": "2026-08-05",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "An expanded codebook of human transcription factor DNA-binding specificity",
+    "link": "https://www.nature.com/articles/s41586-026-10798-9",
+    "summary": "Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10798-9 Results from a panel of assays that analyse different aspects of DNA sequence specificity reveal more than 100 new motifs to aid the characterization of putative human transcription factors.",
+    "pubDate": "2026-08-05",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Ubiquitous Kelvin–Helmholtz instabilities driving plasma mixing on the Sun",
+    "link": "https://www.nature.com/articles/s41586-026-10871-3",
+    "summary": "Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10871-3 High-spatial-resolution observations of the solar photosphere reveal a far more complex and dynamic solar scene than previously observed and show that ubiquitous Kelvin–Helmholtz instabilities drive plasma mixing on the Sun.",
+    "pubDate": "2026-08-05",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "ZFP36L2 orchestrates stress-adaptive plasticity in regeneration and cancer",
+    "link": "https://www.nature.com/articles/s41586-026-10890-0",
+    "summary": "Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10890-0 The RNA-binding protein ZFP36L2 mediates stress-adaptive plasticity in intestinal regeneration and colorectal cancer metastasis.",
+    "pubDate": "2026-08-05",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "In situ particle-to-fibre transformation of hydrogels for 3D printing",
+    "link": "https://www.nature.com/articles/s41586-026-10883-z",
+    "summary": "Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10883-z A three-dimensional printing method transforms hydrogel particles into aligned microfibres during extrusion, creating structural anisotropy to accelerate muscle tissue regeneration.",
+    "pubDate": "2026-08-05",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Amygdala astrocyte primary cilium mechanisms contribute to stress behaviours",
+    "link": "https://www.nature.com/articles/s41586-026-10874-0",
+    "summary": "Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10874-0 Amygdala astrocyte primary cilia are disrupted during stress, and their restoration leads to improvements in stress-related behaviour in mice.",
+    "pubDate": "2026-08-05",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "A dependency map enhanced with next-generation 3D cancer models",
+    "link": "https://www.nature.com/articles/s41586-026-10843-7",
+    "summary": "Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10843-7 Integration of genome-scale CRISPR screening data from traditional cell lines and next-generation cancer models expands the representation of tumour subtypes and genomic alterations in The Cancer Dependency Map.",
+    "pubDate": "2026-08-05",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Upcycling of polyvinyl chloride into polyalphaolefin lubricants",
+    "link": "https://www.nature.com/articles/s41586-026-10867-z",
+    "summary": "Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10867-z A mild chemical process upcycles polyvinyl chloride waste into polyalphaolefin lubricants with tunable properties, offering an economical route to plastic recycling and improved carbon circularity.",
+    "pubDate": "2026-08-05",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "An entangling gate for dual-rail erasure qubits",
+    "link": "https://www.nature.com/articles/s41586-026-10822-y",
+    "summary": "Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10822-y A fast, low-error entangling gate for dual-rail cavity erasure qubits preserves a strong error hierarchy, advancing scalable quantum error correction with substantially improved fault-tolerant performance.",
+    "pubDate": "2026-08-05",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Encapsulation epitaxy of air-stable 2D superconductors for quantum circuits",
+    "link": "https://www.nature.com/articles/s41586-026-10865-1",
+    "summary": "Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10865-1 An ‘encapsulation epitaxy’ mechanism is used to grow air-stable, two-dimensional superconducting films at the interface of a 2D–3D hybrid substrate, holding promise for use in fabrication of superconducting quantum circuitry.",
+    "pubDate": "2026-08-05",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Stimulation modulates gene-linked cell assemblies in the human brain",
+    "link": "https://www.nature.com/articles/s41586-026-10879-9",
+    "summary": "Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10879-9 Stimulation of human cortex reorganizes neural assemblies and induces cell-type-specific gene regulatory programs, establishing an ex vivo framework that links stimulation parameters to circuit and transcriptional responses ...",
+    "pubDate": "2026-08-05",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "A compendium of next-generation patient-derived models for diverse cancers",
+    "link": "https://www.nature.com/articles/s41586-026-10806-y",
+    "summary": "Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10806-y The international collaboration of the Human Cancer Models Initiative presents a comprehensive resource of next-generation cancer models from 2,780 donors with 25 cancer types and integrated tumour–model genomic, transcripto...",
+    "pubDate": "2026-08-05",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Antigen presentation by CD40<sup>+</sup>MHC-II<sup>+</sup> astrocytes promotes CNS autoimmunity",
+    "link": "https://www.nature.com/articles/s41586-026-10860-6",
+    "summary": "Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10860-6 Astrocytes promote central nervous system (CNS) immunity through antigen presentation and activation of CD40 in astrocytes by CD40L expressed by CD4+ T cells in a model of experimental autoimmune encephalomyelitis.",
+    "pubDate": "2026-08-05",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "The Virtual Tissues foundation model resolves spatial proteomics across scales",
+    "link": "https://www.nature.com/articles/s41586-026-10884-y",
+    "summary": "Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10884-y Virtual Tissues (VirTues), a foundation model for spatial proteomics that captures tissue organization across scales, supports marker reconstruction, cell segmentation and typing, niche annotation, spatial biomarker discover...",
+    "pubDate": "2026-08-05",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Virus reactivation in acute and long COVID-19",
+    "link": "https://www.nature.com/articles/s41586-026-10740-z",
+    "summary": "Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10740-z Chronic reactivation of distinct herpesviruses and anelloviruses occur during acute and long COVID-19, and track with disease severity, inflammation and outcomes, revealing immune signatures with prognostic potential.",
+    "pubDate": "2026-08-05",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Uncovering the mechanism of female restitution in sugarcane hybrids",
+    "link": "https://www.nature.com/articles/s41586-026-10863-3",
+    "summary": "Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10863-3 Female restitution in interspecific sugarcane hybrids between Saccharum officinarum and Saccharum spontaneum arises from second division restitution, as haplotype-resolved F1 genomes reveal duplicated, partially recombined m...",
+    "pubDate": "2026-08-05",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Pseudogap in a Fermi–Hubbard quantum simulator",
+    "link": "https://www.nature.com/articles/s41586-026-10875-z",
+    "summary": "Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10875-z A cold-atom quantum simulator reveals the pseudogap metallic state in the Hubbard model, mapping its phase diagram and advancing understanding of doped Mott insulators and high-temperature superconductivity.",
+    "pubDate": "2026-08-05",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Membranolytic peptide programs immunogenic cell death for cancer therapy",
+    "link": "https://www.nature.com/articles/s41586-026-10899-5",
+    "summary": "Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10899-5 The synthetic-acid-responsive membranolytic peptide aMPC16-CA50 induces immunogenic membranolytic cell death in tumour cells, robustly potentiating immune checkpoint blockade therapy.",
+    "pubDate": "2026-08-05",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "A tumour-derived organoid biobank maps cancer gene dependencies",
+    "link": "https://www.nature.com/articles/s41586-026-10830-y",
+    "summary": "Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10830-y A clinically annotated multi-omic organoid resource with matched tumour samples from 256 patients across 5 cancers maps gene dependencies, reveals subtype-specific vulnerabilities and uncovers treatment-driven changes, expan...",
+    "pubDate": "2026-08-05",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "DCAF11-dependent molecular glue degrader activated by glutathionylation",
+    "link": "https://www.nature.com/articles/s41586-026-10873-1",
+    "summary": "Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10873-1 M12 is a metabolically activated molecular glue that recruits diverse proteins to DCAF11 for ubiquitin-mediated degradation, revealing a glutathione-dependent mechanism that broadens targeted protein degradation across multi...",
+    "pubDate": "2026-08-05",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "A cholinergic hub in the nucleus accumbens gates opioid-reward learning",
+    "link": "https://www.nature.com/articles/s41586-026-10887-9",
+    "summary": "Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10887-9 Cell-type-specific opioid blockade in accumbal cholinergic interneurons abolishes morphine-reward learning without impairing analgesia and decouples morphine-evoked dopamine elevations from acetylcholine dips, suggesting pro...",
+    "pubDate": "2026-08-05",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Vacuum birefringence and the polarized X-ray emission from a radio magnetar",
+    "link": "https://www.nature.com/articles/s41586-026-10859-z",
+    "summary": "Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10859-z Polarization measurements of the magnetar 1E 1547.0−5408 provide strong evidence that vacuum birefringence shapes X-ray propagation, offering an important observational test of quantum electrodynamics in extreme magnetic fie...",
+    "pubDate": "2026-08-05",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "An ancient mitochondrial program tunes translation to haem availability",
+    "link": "https://www.nature.com/articles/s41586-026-10885-x",
+    "summary": "Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10885-x An evolutionarily conserved mitochondrial haem-sensing mechanism that predates the emergence of haemoglobin-based oxygen transport could have therapeutic value in iron deficiency disorders.",
+    "pubDate": "2026-08-05",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "<i>FNIP1</i> variants are associated with favourable metabolism in 1 million humans",
+    "link": "https://www.nature.com/articles/s41586-026-10864-2",
+    "summary": "Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10864-2 The FNIP1 pathway has a role in human energy metabolism, and its inhibition is a potential therapeutic strategy in cardiometabolic disease.",
+    "pubDate": "2026-08-05",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Can empty space can interact with light — and even change its properties?",
+    "link": "https://www.nature.com/articles/d41586-026-02289-8",
+    "summary": "Nature, Published online: 05 August 2026; doi:10.1038/d41586-026-02289-8 Observations of a magnetized stellar core indicate that in an ultra-strong magnetic field, empty space can polarize light.",
+    "pubDate": "2026-08-05",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Maps of chromosomal regions crucial for cell division reveal high diversity",
+    "link": "https://www.nature.com/articles/d41586-026-02327-5",
+    "summary": "Nature, Published online: 05 August 2026; doi:10.1038/d41586-026-02327-5 Centromeres are regions of chromosomes that are required for cell division. Complete sequence characterization of centromeres from a diverse group of 65 individuals reveals dynamic and rapid patterns of mutational change, pr...",
+    "pubDate": "2026-08-05",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "More muscle, less belly fat: mutations to a gene are linked to wide-ranging benefits",
+    "link": "https://www.nature.com/articles/d41586-026-02438-z",
+    "summary": "Nature, Published online: 05 August 2026; doi:10.1038/d41586-026-02438-z Analysis of one million diverse genomes yields mutations associated with lower risk of diabetes, heart disease and other ‘cardiometabolic’ conditions.",
+    "pubDate": "2026-08-05",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "First poo transplant to treat food allergy in people has ‘exciting’ results",
+    "link": "https://www.nature.com/articles/d41586-026-02440-5",
+    "summary": "Nature, Published online: 05 August 2026; doi:10.1038/d41586-026-02440-5 Existing treatments for food allergy are limited.",
+    "pubDate": "2026-08-05",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "COVID can wake up a slew of dormant viruses inside you",
+    "link": "https://www.nature.com/articles/d41586-026-02443-2",
+    "summary": "Nature, Published online: 05 August 2026; doi:10.1038/d41586-026-02443-2 Reactivation of typically harmless anelloviruses, in particular, seems to be linked with developing long COVID, study finds.",
+    "pubDate": "2026-08-05",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Switching off the <i>FNIP1</i> gene protects against metabolic disease",
+    "link": "https://www.nature.com/articles/d41586-026-02391-x",
+    "summary": "Nature, Published online: 05 August 2026; doi:10.1038/d41586-026-02391-x A study of more than one million people shows that rare genetic variants that disrupt the FNIP1 gene are associated with a favourable metabolic profile and a roughly 60% lower risk of cardiometabolic disease than the general...",
+    "pubDate": "2026-08-05",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Neanderthal gene makes some modern humans taller and more muscular",
+    "link": "https://www.nature.com/articles/d41586-026-02439-y",
+    "summary": "Nature, Published online: 05 August 2026; doi:10.1038/d41586-026-02439-y The ancient genetic variant is most common in people of South and East Asian ancestry.",
+    "pubDate": "2026-08-05",
+    "source": "Nature",
+    "category": "science"
   },
   {
     "title": "Publisher Correction: Progressive plasticity during colorectal cancer metastasis",

@@ -16,12 +16,28 @@
     "category": "general"
   },
   {
+    "title": "python string literals are kinda funny",
+    "link": "https://sebsite.pw/w/20260806-pystrings.html",
+    "summary": "Comments",
+    "pubDate": "Wed, 05 Aug 2026 23:44:44 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Why phones on loudspeaker may become just another noise",
     "link": "https://www.bbc.co.uk/news/articles/c3d3nlmeee0o?at_medium=RSS&at_campaign=rss",
     "summary": "Playing music or videos out loud on your phone is bemoaned by many - but in the future, it might not seem so outlandish",
     "pubDate": "Wed, 05 Aug 2026 23:43:03 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Comu Fits a 144MHz CH32V203 RISC-V Board Inside a USB-A Port",
+    "link": "https://linuxgizmos.com/comu-fits-a-144mhz-ch32v203-risc-v-board-inside-a-usb-a-port/",
+    "summary": "Comments",
+    "pubDate": "Wed, 05 Aug 2026 23:42:01 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Reform UK pledges to jail bosses employing illegal workers",
@@ -132,6 +148,14 @@
     "link": "https://www.bbc.co.uk/news/videos/ckg9d2egn11o?at_medium=RSS&at_campaign=rss",
     "summary": "As weather events become more extreme, fake videos are being shared rapidly online, and it’s causing real world problems in China.",
     "pubDate": "Wed, 05 Aug 2026 22:00:32 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "I'd like Hundred to be longer - Salt",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/c20eg91xvd4o?at_medium=RSS&at_campaign=rss",
+    "summary": "Welsh Fire captain Phil Salt says ideally he would like The Hundred to be a week longer after his side played three matches in five days.",
+    "pubDate": "Wed, 05 Aug 2026 21:57:16 GMT",
     "source": "BBC News",
     "category": "general"
   },
@@ -312,6 +336,14 @@
     "category": "tech"
   },
   {
+    "title": "mote command",
+    "link": "https://pkg.go.dev/rsc.io/cmd/mote",
+    "summary": "Comments",
+    "pubDate": "Wed, 05 Aug 2026 18:58:56 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Symbolics OpenGenera to go free for non-commercial use",
     "link": "https://hachyderm.io/@gmpalter/117044268951603975",
     "summary": "Comments",
@@ -376,6 +408,14 @@
     "category": "tech"
   },
   {
+    "title": "TDS REVIEW | vivo TWS 5 Pro 降噪真无线耳机体验",
+    "link": "https://sspai.com/post/112916",
+    "summary": "这篇文章是TDSStudio在少数派上的第27篇文章，依然是全平台首发。在去年的年度企划之一「中价位TWS横评」中，vivo/iQOO的TWS5系列表现在多个方面都有优势，尤其是降噪综合能力的表现给人 ... 查看全文",
+    "pubDate": "Thu, 06 Aug 2026 15:00:00 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
     "title": "角落新声｜音乐，刻在时光里的私人地图",
     "link": "https://sspai.com/post/113017",
     "summary": "没什么特别的，但无处不在，刚刚好。 查看全文",
@@ -384,12 +424,196 @@
     "category": "tech-cn"
   },
   {
+    "title": "Afghan boxer accused of killing Scottish aid worker back in court",
+    "link": "https://www.bbc.co.uk/news/articles/cj6390k0e26o?at_medium=RSS&at_campaign=rss",
+    "summary": "Sharif Ahmadzai, who is 26 and from Afghanistan, faces charges of homicide with intent, robbery and weapons offences.",
+    "pubDate": "Thu, 06 Aug 2026 09:12:39 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "England recall Pope & Lawrence for Pakistan Tests but Bethell out",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/crl7911zk40o?at_medium=RSS&at_campaign=rss",
+    "summary": "Surrey duo Ollie Pope and Dan Lawrence are recalled to the England squad for the first two Tests against Pakistan.",
+    "pubDate": "Thu, 06 Aug 2026 09:00:42 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "派早报：华为发布尊界 MPV 及多款新品等",
     "link": "https://sspai.com/post/113110",
     "summary": "英伟达宣布 Alpamayo 2 Super AI 开放商用、NVM Express 发布十一项规范集更新等。 查看全文",
     "pubDate": "Thu, 06 Aug 2026 08:42:08 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "Raleigh owner starts insolvency proceedings",
+    "link": "https://www.bbc.co.uk/news/articles/c4gv45w4j8eo?at_medium=RSS&at_campaign=rss",
+    "summary": "Accell, based in the Netherlands, has owned the famous bike brand since 2012.",
+    "pubDate": "Thu, 06 Aug 2026 08:38:58 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "What I love about Django",
+    "link": "https://buttondown.com/blog/what-i-love-about-django",
+    "summary": "Article URL: https://buttondown.com/blog/what-i-love-about-django Comments URL: https://news.ycombinator.com/item?id=49193673 Points: 40 # Comments: 11",
+    "pubDate": "Thu, 06 Aug 2026 07:34:06 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Olympic champion curler Muirhead comes out of retirement",
+    "link": "https://www.bbc.co.uk/sport/articles/cwymv01lrn4o?at_medium=RSS&at_campaign=rss",
+    "summary": "Winter Olympic gold medallist Eve Muirhead revokes her retirement, saying being Team GB's chef de mission at this year's Games has inspired her to return to curling after four years away.",
+    "pubDate": "Thu, 06 Aug 2026 07:27:33 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Mourinho, Ferguson & search for new club - what next for Smalling?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c935ng33l36o?at_medium=RSS&at_campaign=rss",
+    "summary": "Snubbing university, genetics testing for supplements, Sir Alex Ferguson and Jose Mourinho - Chris Smalling is not your ordinary footballer.",
+    "pubDate": "Thu, 06 Aug 2026 07:06:54 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Let's all meet up in the Y2K",
+    "link": "https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/",
+    "summary": "Article URL: https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/ Comments URL: https://news.ycombinator.com/item?id=49193314 Points: 29 # Comments: 13",
+    "pubDate": "Thu, 06 Aug 2026 06:43:38 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "A wanted man - but would Liverpool's Gakpo be a good fit at Spurs?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c98vnel56q6o?at_medium=RSS&at_campaign=rss",
+    "summary": "The data behind Tottenham's interest in Liverpool forward Cody Gakpo and how he could fit into Roberto de Zerbi’s side.",
+    "pubDate": "Thu, 06 Aug 2026 05:36:11 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Michelin-star restaurant regains top hygiene score after previous one-star inspection",
+    "link": "https://www.bbc.co.uk/news/articles/c934wqk1w1vo?at_medium=RSS&at_campaign=rss",
+    "summary": "Ynyshir got a one-star food hygiene rating from inspectors but has since been restored to five stars.",
+    "pubDate": "Thu, 06 Aug 2026 05:11:29 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "PC Harper widow 'won't give up' early release fight",
+    "link": "https://www.bbc.co.uk/news/articles/cy0j7lee3y8o?at_medium=RSS&at_campaign=rss",
+    "summary": "Two men convicted of PC Andrew Harper's manslaughter could still be released from prison next year.",
+    "pubDate": "Thu, 06 Aug 2026 05:06:44 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
+    "link": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss",
+    "summary": "Blackened ships and smashed docks mark Russia's recent surge of attacks on Ukraine's coastline.",
+    "pubDate": "Thu, 06 Aug 2026 05:00:54 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Cashing in on SpaceX: 'Every chance I get, I'll sell a little more'",
+    "link": "https://www.bbc.co.uk/news/articles/cm2g0j3y339o?at_medium=RSS&at_campaign=rss",
+    "summary": "Andre Lavoie joined SpaceX in 2009 as an engineer, now he's looking to cash in his shares in the company.",
+    "pubDate": "Thu, 06 Aug 2026 05:00:54 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Car washes and vape shops can still sponsor skilled foreign workers despite visa changes",
+    "link": "https://www.bbc.co.uk/news/articles/cj639rx147eo?at_medium=RSS&at_campaign=rss",
+    "summary": "The rules were tightened in July 2025 to restrict the scheme mostly to graduate-level employees who would be earning at least £41,700.",
+    "pubDate": "Thu, 06 Aug 2026 05:00:13 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Young women tell BBC of rape, assault and harassment at Army training college for teenagers",
+    "link": "https://www.bbc.co.uk/news/articles/c3w07p7wqv1o?at_medium=RSS&at_campaign=rss",
+    "summary": "They say the incidents happened at the Army Foundation College in Harrogate when they were aged 17.",
+    "pubDate": "Thu, 06 Aug 2026 05:00:09 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The 'education gap' hiding behind picture-perfect Cornwall and Devon",
+    "link": "https://www.bbc.co.uk/news/articles/c39e7n8rvd2o?at_medium=RSS&at_campaign=rss",
+    "summary": "Behind the South West's postcard image, poverty and isolation are limiting opportunities for many young people.",
+    "pubDate": "Thu, 06 Aug 2026 05:00:03 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Celebrity culture is one thing. For TMZ, Congress is the new 'reality show'",
+    "link": "https://www.npr.org/2026/08/06/nx-s1-5922731/tmz-congress",
+    "summary": "TMZ is trading Hollywood gossip for Capitol Hill scoops with a new D.C. bureau, launched in April. The online tabloid's two-man crew has brought an unconventional reporting style to the Congress beat.",
+    "pubDate": "Thu, 06 Aug 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Gianni Infantino gets internal support at crisis meeting to remain as FIFA president",
+    "link": "https://www.npr.org/2026/08/06/nx-s1-5923233/infantino-crisis-meeting-fifa",
+    "summary": "FIFA said Wednesday it had apologized for errors made over Gianni Infantino's failed plan to sell stakes in the World Cup and that senior staff in attendance at a crisis meeting in Morocco \"reaffirmed their full support\" for his presidency.",
+    "pubDate": "Thu, 06 Aug 2026 04:52:16 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Crime Pays but Botany Doesn't",
+    "link": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
+    "summary": "Article URL: https://www.crimepaysbutbotanydoesnt.com/reading-list Comments URL: https://news.ycombinator.com/item?id=49192566 Points: 159 # Comments: 65",
+    "pubDate": "Thu, 06 Aug 2026 04:46:35 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Rihanna is 'in the studio', says partner A$AP Rocky",
+    "link": "https://www.bbc.co.uk/news/articles/c4gwvvw9k1xo?at_medium=RSS&at_campaign=rss",
+    "summary": "The singer, who last released a full album in 2016, is in the studio and \"cooking\", her partner said.",
+    "pubDate": "Thu, 06 Aug 2026 04:44:22 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Morning news brief",
+    "link": "https://www.npr.org/2026/08/06/nx-s1-5921225/morning-news-brief",
+    "summary": "Iran says it's close to a deal with Oman over navigation on the Strait of Hormuz, a look at the challenges both candidates for Michigan's U.S. Senate seat will face, Trump touts U.S. economy in Vegas.",
+    "pubDate": "Thu, 06 Aug 2026 04:43:07 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Fiddler Web Debugger in 2026",
+    "link": "https://textslashplain.com/2026/08/05/fiddler-in-2026/",
+    "summary": "Comments",
+    "pubDate": "Thu, 06 Aug 2026 04:17:43 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Senate committee set to vote on whether to hold Fauci in contempt of Congress",
+    "link": "https://www.npr.org/2026/08/06/nx-s1-5921383/anthony-fauci-contempt-of-congress-vote",
+    "summary": "Republicans on the Senate Homeland Security Committee want to hold Fauci in contempt of Congress after he refused to answer their questions about the government's response to the COVID-19 pandemic.",
+    "pubDate": "Thu, 06 Aug 2026 03:16:22 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "i wonder if you could make a useful DOS executable with just emoji",
+    "link": "https://oldbytes.space/@gloriouscow/117044736309312697",
+    "summary": "Comments",
+    "pubDate": "Thu, 06 Aug 2026 03:11:35 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Meta says AI model accessed the internet and hacked another firm",
@@ -408,11 +632,27 @@
     "category": "tech"
   },
   {
+    "title": "Finally adding recursive functions to Futhark",
+    "link": "https://futhark-lang.org/blog/2026-08-05-recursion.html",
+    "summary": "Comments",
+    "pubDate": "Thu, 06 Aug 2026 02:10:03 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Man extradited to UK and charged over alleged hit-and-run death of Keaton Slater",
     "link": "https://www.bbc.co.uk/news/articles/cvg8kd9q1plo?at_medium=RSS&at_campaign=rss",
     "summary": "A Latvian man charged with causing death by dangerous driving over the 2024 collision will appear in court on Thursday.",
     "pubDate": "Thu, 06 Aug 2026 01:39:49 GMT",
     "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Drone with explosives found at German airport, official sees 'new quality' of threat",
+    "link": "https://www.npr.org/2026/08/06/g-s1-137571/germany-drone-explosives-airport",
+    "summary": "Regional police and prosecutors said an airport employee discovered a drone near the airport's south runway with \"an unknown explosive device,\" and the object was examined by police",
+    "pubDate": "Thu, 06 Aug 2026 01:23:08 -0400",
+    "source": "NPR",
     "category": "general"
   },
   {
@@ -422,6 +662,14 @@
     "pubDate": "Thu, 06 Aug 2026 01:19:59 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "On building scalable control planes",
+    "link": "https://www.allthingsdistributed.com/2026/08/on-building-scalable-control-planes.html",
+    "summary": "Comments",
+    "pubDate": "Thu, 06 Aug 2026 00:41:02 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "UK papers: 'Plagiarism row professor resigns' and 'West End stab rampage'",

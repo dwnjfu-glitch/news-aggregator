@@ -1,5 +1,13 @@
 [
   {
+    "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
+    "link": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
+    "summary": "https://www.bbc.com/news/articles/c36d4376nd2o , https://archive.is/YDn6S Comments URL: https://news.ycombinator.com/item?id=49184355 Points: 160 # Comments: 33",
+    "pubDate": "Wed, 05 Aug 2026 15:33:23 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "Some of Doge's $110bn saving reports are wrong or lack evidence, US watchdog finds",
     "link": "https://www.bbc.co.uk/news/articles/cvg0rg9wmvlo?at_medium=RSS&at_campaign=rss",
     "summary": "A review of the body formerly charged with reducing government spending has found several issues with its calculations.",
@@ -192,6 +200,14 @@
     "category": "tech"
   },
   {
+    "title": "A shell exclamation mark is not for yelling. Be lazy",
+    "link": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
+    "summary": "Comments",
+    "pubDate": "Thu, 06 Aug 2026 20:18:25 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Suno hopes to go legit with watermarks for AI-generated music",
     "link": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
     "summary": "Suno plans watermarks and download limits to stop \"large-scale abuse.\"",
@@ -230,6 +246,14 @@
     "pubDate": "Thu, 06 Aug 2026 19:39:43 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "I got a 1998 CD-ROM world atlas running on Windows 11",
+    "link": "https://trevmex.com/post/824245295374303232/my-son-found-a-world-atlas-in-a-thrift-store-so-i",
+    "summary": "Comments",
+    "pubDate": "Thu, 06 Aug 2026 19:36:39 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Flock Highlighted Police Departments Using Its Tech. Now 4 Face Allegations of Misuse",
@@ -480,6 +504,14 @@
     "category": "tech"
   },
   {
+    "title": "A look at West Virginia after last year's massive ICE operation",
+    "link": "https://www.npr.org/2026/08/06/nx-s1-5863509/a-look-at-west-virginia-after-last-years-massive-ice-operation",
+    "summary": "Earlier this year ICE arrested 600 immigrants over a two week period. Most migrants had no criminal records and, since then, West Virginia has decided to not hold ICE detainees in their jails. A look at West Virginia post Operation Country Roads.",
+    "pubDate": "Thu, 06 Aug 2026 16:40:52 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "the web server deployment model breaks at hobby scale",
     "link": "https://w.on-t.work/web-deployment-model",
     "summary": "Comments",
@@ -704,12 +736,76 @@
     "category": "tech"
   },
   {
+    "title": "角落新声｜从合租到整租，我在客厅听见了自己的声音",
+    "link": "https://sspai.com/post/113144",
+    "summary": "当我坐下来，这个小角落就慢慢有了属于我的声音。 查看全文",
+    "pubDate": "Fri, 07 Aug 2026 10:15:51 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "派早报：Bose 发布新款 QuietComfort 头戴式耳机等",
+    "link": "https://sspai.com/post/113162",
+    "summary": "Black Forest Labs 正式推出 FLUX 3 视频生成模型，研究人员发现 iCloud Private Relay 存在 IP 泄露风险等。 查看全文",
+    "pubDate": "Fri, 07 Aug 2026 08:51:06 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "Four men arrested after violent disorder near Pontypool, police say",
+    "link": "https://www.bbc.co.uk/news/articles/cj63we48313o?at_medium=RSS&at_campaign=rss",
+    "summary": "Police say three men have been taken to hospital following the incident, two of whom are in critical condition.",
+    "pubDate": "Fri, 07 Aug 2026 02:18:47 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
+    "link": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
+    "summary": "Team evacuated a patient from McMurdo Station after landing plane in total darkness and temperature of -43°C.",
+    "pubDate": "Fri, 07 Aug 2026 02:07:46 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
+    "link": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
+    "summary": "Security researchers say that Kimi K3, an open-weight model from China, wandered off to the internet in an attempt to cheat on a test it was given.",
+    "pubDate": "Fri, 07 Aug 2026 01:16:55 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Two people convicted in relation to death of French streamer",
+    "link": "https://www.bbc.co.uk/news/articles/c8rnmdy4enpo?at_medium=RSS&at_campaign=rss",
+    "summary": "Raphaël Graven, 46, died in August 2025, with his death live broadcast on the streaming platform Kick.",
+    "pubDate": "Fri, 07 Aug 2026 00:51:40 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Sudan's invisible children - born in war with no legal identity",
+    "link": "https://www.bbc.co.uk/news/articles/cr7kldz4djno?at_medium=RSS&at_campaign=rss",
+    "summary": "Babies born as a result of rape are often unable to get a birth certificate, meaning a life-time of problems.",
+    "pubDate": "Fri, 07 Aug 2026 00:26:52 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "Arrests in Norfolk town as disorder continues for third night",
     "link": "https://www.bbc.co.uk/news/articles/c74g1gxvwlvo?at_medium=RSS&at_campaign=rss",
     "summary": "The arrests follow disorder linked to anti-immigration protests in the Norfolk market town.",
     "pubDate": "Fri, 07 Aug 2026 00:15:52 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Meta Ordered to Pay $942M to Address Harm to Kids from Social Media",
+    "link": "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7",
+    "summary": "Article URL: https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7 Comments URL: https://news.ycombinator.com/item?id=49204352 Points: 87 # Comments: 48",
+    "pubDate": "Fri, 07 Aug 2026 00:06:28 +0000",
+    "source": "Hacker News",
+    "category": "tech"
   },
   {
     "title": "Meta fined $567m in largest child safety ruling against social media giant",

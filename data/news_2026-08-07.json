@@ -56,6 +56,14 @@
     "category": "general"
   },
   {
+    "title": "Scientists rediscover lost Megalodon fossils—and reveal a 79-foot giant",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260805082500.htm",
+    "summary": "Several enormous Megalodon vertebrae thought to have been destroyed in 1989 were found sitting unnoticed on a museum shelf. Their analysis strengthens evidence that the giant shark could exceed 24 meters (79 feet) in length and live for nearly a century. Researchers also estimate that its newborn...",
+    "pubDate": "Thu, 06 Aug 2026 22:57:08 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "Trump again tries to limit US birthright citizenship with new executive orders",
     "link": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
     "summary": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship.",
@@ -166,6 +174,14 @@
     "pubDate": "Thu, 06 Aug 2026 21:35:00 +0000",
     "source": "Wired",
     "category": "tech"
+  },
+  {
+    "title": "Scientists discover a hidden brain shift that begins around age 50",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260806050700.htm",
+    "summary": "Beginning around age 50, the brain’s memory center appears to lose many of its longtime immune cells and replace them with more inflammatory ones. This surprising shift may help explain how normal aging sets the stage for Alzheimer’s disease and dementia.",
+    "pubDate": "Thu, 06 Aug 2026 21:32:54 EDT",
+    "source": "Science Daily",
+    "category": "science"
   },
   {
     "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
@@ -446,6 +462,14 @@
     "pubDate": "Thu, 06 Aug 2026 17:38:51 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "AI-generated vulnerability patches require human review",
+    "link": "https://1password.com/blog/why-ai-generated-patches-still-require-human-review",
+    "summary": "Comments",
+    "pubDate": "Thu, 06 Aug 2026 17:37:07 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "ChatGPT brings unlimited text chats to free users",
@@ -776,6 +800,294 @@
     "category": "tech"
   },
   {
+    "title": "With great power comes great responsibility",
+    "link": "https://www.bbc.co.uk/iplayer/episode/m001zpyp/spiderman-no-way-home?at_mid=mAky0efvnp&at_campaign=SpiderMan_No_Way_Home&at_medium=display_ad&at_campaign_type=owned&at_audience_id=SS&at_product=iplayer&at_brand=m001zpyp&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=SpiderMan_No_Way_Home&at_bbc_team=BBC",
+    "summary": "Before you go to the cinema, refresh your memory of Peter Parker's greatest challenge yet",
+    "pubDate": "Sun, 19 Jul 2026 16:34:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "本周看什么 | 最近值得一看的 10 部作品",
+    "link": "https://sspai.com/post/113191",
+    "summary": "📅本周新预告《生化危机：爆发夜》中字预告8月5日，电影《生化危机：爆发夜》发布了全新中字预告，将于9月18日在北美上映。扎克・克雷格（《凶器》《野蛮人》）执导，奥斯汀·艾布拉姆斯主演，一份双倍酬劳的郊 ... 查看全文",
+    "pubDate": "Fri, 07 Aug 2026 17:52:38 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "[限时优惠] 数据分析：用好 Excel 中的数据透视表",
+    "link": "https://sspai.com/post/113108",
+    "summary": "编注：本文为Microsoft365工具生值包内随附专属定制教程的免费试读内容。接上级经销商通知，微软将于本月提高Microsoft365订阅的供应成本，后续软件售价也将随之进行相应调整。为此，我们特 ... 查看全文",
+    "pubDate": "Fri, 07 Aug 2026 15:39:58 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "Madonna and Blur producer William Orbit dies aged 69",
+    "link": "https://www.bbc.co.uk/news/articles/cp9ej0el7veo?at_medium=RSS&at_campaign=rss",
+    "summary": "The British producer helped to reinvigorate Madonna's career and also worked with All Saints and U2.",
+    "pubDate": "Fri, 07 Aug 2026 13:42:46 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Jason Arday's Cambridge appointment to be part of wider senior hiring review",
+    "link": "https://www.bbc.co.uk/news/articles/c05q0nznq24o?at_medium=RSS&at_campaign=rss",
+    "summary": "Prof Priyamvada Gopal, who is part of the group, says Cambridge should not be \"marking its own homework\".",
+    "pubDate": "Fri, 07 Aug 2026 13:33:22 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "ByteDance trains massive AI model in bid to rival Anthropic",
+    "link": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
+    "summary": "TikTok owner training a model with 10 trillion parameters.",
+    "pubDate": "Fri, 07 Aug 2026 13:29:22 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "AI psychosis is the new leadership blind spot",
+    "link": "https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots",
+    "summary": "Article URL: https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots Comments URL: https://news.ycombinator.com/item?id=49210077 Points: 3 # Comments: 0",
+    "pubDate": "Fri, 07 Aug 2026 13:27:30 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Perimeter walls around pitches banned after Vigar death",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c74gwz54jedo?at_medium=RSS&at_campaign=rss",
+    "summary": "The Football Association has banned solid perimeter walls around pitches after a safety review following the death of former Arsenal youth player Billy Vigar.",
+    "pubDate": "Fri, 07 Aug 2026 13:24:10 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Why can't the Premier League attract the world's best players?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c4gw03rqwkwo?at_medium=RSS&at_campaign=rss",
+    "summary": "Vinicius Jr chose to stay at Real Madrid, but why does the Premier League rarely attract global superstars at their peak?",
+    "pubDate": "Fri, 07 Aug 2026 13:22:20 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The world's biggest solar telescope caught vortexes on the Sun's surface",
+    "link": "https://arstechnica.com/science/2026/08/the-worlds-biggest-solar-telescope-caught-vortexes-on-the-suns-surface/",
+    "summary": "We expected them to be there, but they had previously been too small to see.",
+    "pubDate": "Fri, 07 Aug 2026 13:20:46 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+    "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+    "summary": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
+    "pubDate": "Fri, 07 Aug 2026 13:18:33 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Two firms guilty over man killed by falling window",
+    "link": "https://www.bbc.co.uk/news/articles/cg5lgzdnem6o?at_medium=RSS&at_campaign=rss",
+    "summary": "Mick Ferris was hit by the glass which fell from a luxury tower block on London's Albert Embankment.",
+    "pubDate": "Fri, 07 Aug 2026 13:17:47 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Trump is losing his war on wind power",
+    "link": "https://arstechnica.com/science/2026/08/trump-is-losing-his-war-on-wind-power/",
+    "summary": "A court rules that a hold on all wind projects clearly violates the law.",
+    "pubDate": "Fri, 07 Aug 2026 12:58:04 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Radical Study Suggests Life on Earth Arose Twice",
+    "link": "https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice",
+    "summary": "Article URL: https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice Comments URL: https://news.ycombinator.com/item?id=49209572 Points: 9 # Comments: 1",
+    "pubDate": "Fri, 07 Aug 2026 12:45:08 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "U.S. economy lost 23,000 jobs in July, a sudden reversal",
+    "link": "https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138",
+    "summary": "Article URL: https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138 Comments URL: https://news.ycombinator.com/item?id=49209546 Points: 58 # Comments: 19",
+    "pubDate": "Fri, 07 Aug 2026 12:42:58 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Why is Everyone in Tech so sad?",
+    "link": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+    "summary": "Article URL: https://www.noemamag.com/why-is-everyone-in-tech-so-sad/ Comments URL: https://news.ycombinator.com/item?id=49209539 Points: 15 # Comments: 7",
+    "pubDate": "Fri, 07 Aug 2026 12:42:27 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "How a 90-second power outage sparked  chaos for rail commuters",
+    "link": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&at_campaign=rss",
+    "summary": "The incident raised questions about how a disrupted power supply can have such a widespread impact.",
+    "pubDate": "Fri, 07 Aug 2026 12:30:07 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+    "link": "https://techcrunch.com/2026/08/07/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+    "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+    "pubDate": "Fri, 07 Aug 2026 12:30:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Man City reject Barcelona's Rodri bid & in talks for Bouaddi",
+    "link": "https://www.bbc.co.uk/sport/articles/clyj1rgdnpxo?at_medium=RSS&at_campaign=rss",
+    "summary": "Manchester City reject £38m offer from Barcelona for Rodri and remain in talks for Lille midfielder Ayyoub Bouaddi.",
+    "pubDate": "Fri, 07 Aug 2026 12:20:52 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Why there is a row about standing up while drinking in central London",
+    "link": "https://www.bbc.co.uk/news/articles/c86nvjxlg9eo?at_medium=RSS&at_campaign=rss",
+    "summary": "Westminster Council is under fire as part of its plans to update a licensing policy. Why?",
+    "pubDate": "Fri, 07 Aug 2026 12:10:48 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Norway call for Infantino to resign as Mexico and Argentina back president",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c4g6l3gnv0go?at_medium=RSS&at_campaign=rss",
+    "summary": "The Norwegian Football Federation calls for Fifa president Gianni Infantino to resign after he attempted to sell off stakes in the World Cup.",
+    "pubDate": "Fri, 07 Aug 2026 12:04:25 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Emotional Guimaraes wanted to leave - Newcastle chief Wilson",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c0m7knennd3o?at_medium=RSS&at_campaign=rss",
+    "summary": "Newcastle United sporting director Ross Wilson says the club did not plan to sell Bruno Guimaraes, but their \"very emotional\" captain wanted to join Arsenal.",
+    "pubDate": "Fri, 07 Aug 2026 12:00:16 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Brothers jailed for killing man and injuring his son while racing cars home",
+    "link": "https://www.bbc.co.uk/news/articles/cx25ljkpz6ro?at_medium=RSS&at_campaign=rss",
+    "summary": "Abubakr Ben Yusaf and Umar Ben Yusaf were racing near Welshpool, Powys, in November 2024.",
+    "pubDate": "Fri, 07 Aug 2026 11:55:32 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Girl, 11, found dead after search at Midlothian beauty spot",
+    "link": "https://www.bbc.co.uk/news/articles/cm2gy5vpp9go?at_medium=RSS&at_campaign=rss",
+    "summary": "Emergency crews were called to Gore Water in Midlothian after the alarm was raised on Thursday afternoon.",
+    "pubDate": "Fri, 07 Aug 2026 11:53:17 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
+    "link": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
+    "summary": "Meta's total fine has raked up to $942 million in this case",
+    "pubDate": "Fri, 07 Aug 2026 11:40:37 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Best Webcams (2026): My Honest Take After Testing the Best",
+    "link": "https://www.wired.com/story/best-webcams/",
+    "summary": "I tested the best webcams across various prices to find the top option. Here’s what I learned.",
+    "pubDate": "Fri, 07 Aug 2026 11:32:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "The 5 Best Laptop Power Banks I've Personally Tested (2026)",
+    "link": "https://www.wired.com/story/best-laptop-power-banks/",
+    "summary": "These powerful, high-capacity portable batteries are the best ones when laptop charging is a priority. All have at least 20,000 mAh, enough to charge most laptops twice.",
+    "pubDate": "Fri, 07 Aug 2026 11:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Assistant referee Massey-Ellis retires to take FA role",
+    "link": "https://www.bbc.co.uk/sport/football/articles/crl7ed7gerzo?at_medium=RSS&at_campaign=rss",
+    "summary": "Assistant referee Sian Massey‑Ellis announces her retirement from officiating to take up a position with the Football Association.",
+    "pubDate": "Fri, 07 Aug 2026 11:26:23 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
+    "link": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
+    "summary": "The student says she feared never seeing her mother again after the attack killed five teachers.",
+    "pubDate": "Fri, 07 Aug 2026 11:17:59 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+    "link": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
+    "summary": "Article URL: https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/ Comments URL: https://news.ycombinator.com/item?id=49208535 Points: 7 # Comments: 0",
+    "pubDate": "Fri, 07 Aug 2026 11:00:35 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Remembering the pre-Google web, when search was an experiment",
+    "link": "https://arstechnica.com/gadgets/2026/08/remembering-the-pre-google-web-when-search-was-an-experiment/",
+    "summary": "\"Most people have completely forgotten how chaotic it really was.\"",
+    "pubDate": "Fri, 07 Aug 2026 11:00:06 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "3 Best Cheap Gaming Laptops (2026): Lenovo, MSI, Alienware",
+    "link": "https://www.wired.com/gallery/best-cheap-gaming-laptops/",
+    "summary": "As gaming laptop prices continue to rise, it’s increasingly difficult to find affordable options that aren’t terrible. Here are your best options based on performance and cost.",
+    "pubDate": "Fri, 07 Aug 2026 11:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+    "link": "https://blog.cloudflare.com/kitesurf/",
+    "summary": "Article URL: https://blog.cloudflare.com/kitesurf/ Comments URL: https://news.ycombinator.com/item?id=49208393 Points: 7 # Comments: 2",
+    "pubDate": "Fri, 07 Aug 2026 10:42:07 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Ranking the Best Smart Glasses: Meta, Viture, & More (2026)",
+    "link": "https://www.wired.com/gallery/best-smart-glasses/",
+    "summary": "This burgeoning wearable tech lets you talk to an AI assistant, listen to music, or check out a display screen from the comfort of your very own face.",
+    "pubDate": "Fri, 07 Aug 2026 10:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "The ‘Manosphere’ Isn’t a Movement. It’s a Multibillion-Dollar Grievance Industry",
+    "link": "https://www.wired.com/story/the-manosphere-isnt-a-movement-its-a-multibillion-dollar-grievance-industry/",
+    "summary": "Many young men are driven to resentment and are financially exploited as influencers sell them classes, pills, and the illusion of clout, a new report reveals.",
+    "pubDate": "Fri, 07 Aug 2026 10:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
+    "link": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
+    "summary": "Article URL: https://www.bbc.com/news/articles/c1e1vg0gjl5o Comments URL: https://news.ycombinator.com/item?id=49208314 Points: 480 # Comments: 453",
+    "pubDate": "Fri, 07 Aug 2026 10:28:55 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "角落新声｜从合租到整租，我在客厅听见了自己的声音",
     "link": "https://sspai.com/post/113144",
     "summary": "当我坐下来，这个小角落就慢慢有了属于我的声音。 查看全文",
@@ -784,12 +1096,108 @@
     "category": "tech-cn"
   },
   {
+    "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
+    "link": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
+    "summary": "WIRED spoke with Tucker Bryant, an artist and former Google employee who created ChatTJB to get people to reflect on the “strange moment” we’re in.",
+    "pubDate": "Fri, 07 Aug 2026 10:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Data breach investigation into Minnie Merriman's medical records",
+    "link": "https://www.bbc.co.uk/news/articles/cvg8n70jp2jo?at_medium=RSS&at_campaign=rss",
+    "summary": "Minnie Merriman, from West Yorkshire, died after being found seriously injured at an industrial estate in Arbroath.",
+    "pubDate": "Fri, 07 Aug 2026 09:59:23 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Ratio vs. Simply Good: Which Plastic-Free Coffee Maker Is Best?",
+    "link": "https://www.wired.com/story/plastic-free-coffee-makers/",
+    "summary": "Microplastics are in everything, especially your coffee. A new generation of plastic-free drip coffee brewers is trying to change this.",
+    "pubDate": "Fri, 07 Aug 2026 09:32:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "England footballer Ivan Toney charged with assault at Soho nightclub",
+    "link": "https://www.bbc.co.uk/news/articles/cpw9nz7qwyqo?at_medium=RSS&at_campaign=rss",
+    "summary": "The 30-year-old former Brentford striker is due to appear in court next month.",
+    "pubDate": "Fri, 07 Aug 2026 09:30:30 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Employers unexpectedly cut 23,000 jobs in a sign of a wilting labor market",
+    "link": "https://www.npr.org/2026/08/07/nx-s1-5924786/employers-economy-labor-jobs-federal-reserve",
+    "summary": "U.S. employers cut 23,000 jobs in July, and job gains for the two previous months were weaker than initially reported, according to a report Friday from the Labor Department.",
+    "pubDate": "Fri, 07 Aug 2026 09:10:10 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Vitamin C may fight cancer — but not the way scientists once thought",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260806050717.htm",
+    "summary": "Linus Pauling was widely mocked for claiming that vitamin C could fight cancer, especially after trials using vitamin C pills showed no benefit. Researchers now know that intravenous vitamin C reaches vastly higher concentrations and can behave more like an experimental cancer drug than an ordina...",
+    "pubDate": "Fri, 07 Aug 2026 09:02:16 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "派早报：Bose 发布新款 QuietComfort 头戴式耳机等",
     "link": "https://sspai.com/post/113162",
     "summary": "Black Forest Labs 正式推出 FLUX 3 视频生成模型，研究人员发现 iCloud Private Relay 存在 IP 泄露风险等。 查看全文",
     "pubDate": "Fri, 07 Aug 2026 08:51:06 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "Could Russia be involved in German airport drone-bomb?",
+    "link": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo?at_medium=RSS&at_campaign=rss",
+    "summary": "The BBC has seen evidence from previous cases that Russian-linked proxies not only handled drones and explosives, but also delivered them to Germany.",
+    "pubDate": "Fri, 07 Aug 2026 08:48:16 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "New autism therapy shows surprising benefits even in adult mice",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260805082508.htm",
+    "summary": "Blocking the glycine transporter SLC6A20 restored important brain signaling and improved social, communication, and repetitive behaviors in autism-related mouse models. The treatment also worked in human brain organoids and showed lasting effects in adult mice, suggesting the brain may remain mor...",
+    "pubDate": "Fri, 07 Aug 2026 08:38:30 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "UCLA scientists discover how to guide heat like light at room temperature",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260805082506.htm",
+    "summary": "Scientists have demonstrated that heat can move through a crystal in focused, wave-like rays at room temperature instead of spreading randomly. The breakthrough could make it possible to route heat around sensitive parts of next-generation chips and quantum devices.",
+    "pubDate": "Fri, 07 Aug 2026 08:22:48 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "A new vaccine could vanquish a major cause of deadly diarrheal disease",
+    "link": "https://www.npr.org/2026/08/07/g-s1-137456/diarrhea-disease-vaccine-childhood-deaths-shigella",
+    "summary": "Over 1 million people a year die from diarrheal disease. Nearly half are kids under age 5. A new vaccine in trials offers great hope.",
+    "pubDate": "Fri, 07 Aug 2026 07:36:33 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Scientists tracked 12 people in Antarctica for 10 months—what happened could shape future Mars missions",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260806050722.htm",
+    "summary": "A ten-month Antarctic experiment found that astronauts may struggle not only with loneliness but also with spending too much time around the same people. Frequent contact was linked to greater tension and mistrust, while the crew increasingly divided into cultural and language-based groups.",
+    "pubDate": "Fri, 07 Aug 2026 07:18:01 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Trump targets birthright citizenship. And, Iran aims to ban U.S. from Strait of Hormuz",
+    "link": "https://www.npr.org/2026/08/07/g-s1-137730/up-first-newsletter-trump-birthright-citizenship-iran-oman-strait-of-hormuz-anthony-fauci-mitch-mcconnell",
+    "summary": "President Trump says he has signed two new orders targeting birthright citizenship. And, Iran is aiming to ban U.S. ships from the Strait of Hormuz.",
+    "pubDate": "Fri, 07 Aug 2026 06:56:19 -0400",
+    "source": "NPR",
+    "category": "general"
   },
   {
     "title": "Norrie saves match point in superb Montreal fightback",
@@ -816,12 +1224,60 @@
     "category": "general"
   },
   {
+    "title": "Earth’s molten core suddenly reversed direction — and scientists don’t know why",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260806050713.htm",
+    "summary": "Earth’s molten iron core unexpectedly reversed direction beneath the Pacific, revealing a dramatic change in the hidden engine that creates our planet’s magnetic field. Satellite data suggest the surge is already weakening, raising the possibility that the deep-Earth upheaval is part of a mysteri...",
+    "pubDate": "Fri, 07 Aug 2026 06:24:52 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "39 moves across five countries - football's ultimate journeyman",
     "link": "https://www.bbc.co.uk/sport/football/articles/cdx7wq2r21yo?at_medium=RSS&at_campaign=rss",
     "summary": "As he prepares to manage in the FA Cup for the first time, Zeph Thomas tells BBC Sport about his extraordinary career path spanning 39 moves in 18 years.",
     "pubDate": "Fri, 07 Aug 2026 06:21:57 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Kalshi and Polymarket bets on clinical trials criticized as 'ghastly'",
+    "link": "https://www.npr.org/2026/08/07/nx-s1-5922530/patients-betting-kalshi-polymarket-clinical-trials",
+    "summary": "Researchers warn betting on clinical trials could incentivize insider trading and interfere with drug development. But Kalshi and Polymarket say they provide valuable information to patients.",
+    "pubDate": "Fri, 07 Aug 2026 06:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Everyone's talking about hormone therapy for menopause. Should I be on it?",
+    "link": "https://www.npr.org/2026/08/07/nx-s1-5922746/menopause-hormone-therapy-hrt-heart",
+    "summary": "For years, doctors advised against hormone therapy for women in the menopausal transition. Now everyone's talking about how great it is. Is it really a wonder drug that women should all be on?",
+    "pubDate": "Fri, 07 Aug 2026 06:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Divers find 162-year-old Guinness in shipwreck off the English coast",
+    "link": "https://www.bbc.co.uk/news/articles/cy4kx9zkd90o?at_medium=RSS&at_campaign=rss",
+    "summary": "Samples from the bottle have been sent for analysis, with researchers hoping to learn more about what the stout would have tasted like.",
+    "pubDate": "Fri, 07 Aug 2026 05:59:49 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "From constraint models to playable puzzle games",
+    "link": "https://zayenz.se/blog/post/constraint-generated-puzzle-games/",
+    "summary": "Comments",
+    "pubDate": "Fri, 07 Aug 2026 05:54:46 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Informing HTTP Extension Design with Data",
+    "link": "https://mnot.net/blog/2026/linting_the_web",
+    "summary": "Comments",
+    "pubDate": "Fri, 07 Aug 2026 05:39:24 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Who will leave Chelsea? How Blues could cut 41-man squad",
@@ -856,12 +1312,84 @@
     "category": "general"
   },
   {
+    "title": "Who or what is 'taking a step back from visibility'? The quiz knows",
+    "link": "https://www.npr.org/2026/08/07/g-s1-137559/space-book-reflecting-pool-tmz-vaccine-news-quiz",
+    "summary": "Plus, if you know what \"TMZ\" stands for, you'll get at least on question right this week!",
+    "pubDate": "Fri, 07 Aug 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Amid cost of living stress, many parents are supporting children well into adulthood",
+    "link": "https://www.npr.org/2026/08/07/nx-s1-5876223/cost-of-living-parents-adult-children-financial-support",
+    "summary": "Polls show most Americans think young adults today have it harder financially than past generations. A majority of parents help their grown children with expenses, even if it hurts their own finances.",
+    "pubDate": "Fri, 07 Aug 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Besieged Sudanese city faces relentless drone strikes and risk of mass atrocities, U.N. warns",
+    "link": "https://www.npr.org/2026/08/07/nx-s1-5921212/el-obeid-sudan-war",
+    "summary": "Hundreds of thousands of civilians in el-Obeid are being battered by relentless drone strikes and face critical water shortages and a worsening cholera outbreak, while women and girls are reporting high rates of sexual violence.",
+    "pubDate": "Fri, 07 Aug 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "When tragedy strikes, America's wildland firefighters ask, was it 'somebody that we loved?'",
+    "link": "https://www.npr.org/2026/08/07/nx-s1-5920418/firefighters-mourn-deaths-intense-wildfire-season",
+    "summary": "Deaths and close calls while fighting wildfires have strained an already on-edge workforce. They've also raised questions about policies and priorities amid an intense wildfire season.",
+    "pubDate": "Fri, 07 Aug 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "Why was Taiwan’s president evacuated in the middle of the night?",
     "link": "https://www.bbc.co.uk/news/videos/cly83vm923go?at_medium=RSS&at_campaign=rss",
     "summary": "President William Lai took part in an emergency evacuation drill as part of Taiwan military exercises preparing for a potential Chinese invasion.",
     "pubDate": "Fri, 07 Aug 2026 04:52:19 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Morning news brief",
+    "link": "https://www.npr.org/2026/08/07/nx-s1-5921269/morning-news-brief",
+    "summary": "Trump issues new orders to limit birthright citizenship, Iran shares details of an agreement with Oman to reopen Strait of Hormuz, Trump under pressure to find a breakthrough with Iran.",
+    "pubDate": "Fri, 07 Aug 2026 04:41:55 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "What are you doing this weekend?",
+    "link": "https://lobste.rs/s/ucaatd/what_are_you_doing_this_weekend",
+    "summary": "Feel free to tell what you plan on doing this weekend and even ask for help or feedback. Please keep in mind it’s more than OK to do nothing at all too!",
+    "pubDate": "Fri, 07 Aug 2026 04:38:13 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "What is a product?",
+    "link": "https://rogix.dev/what-is-a-product",
+    "summary": "Comments",
+    "pubDate": "Fri, 07 Aug 2026 04:36:35 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Wearable ultrasound patch boosts REM sleep without drugs or surgery",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260806050709.htm",
+    "summary": "A new wearable patch may help people reach REM sleep faster and remain there longer without medication or surgery. In a study of 28 participants, the device shortened the time to REM by 43 minutes and extended it by about 16 minutes. Researchers also observed signs of improved stress regulation a...",
+    "pubDate": "Fri, 07 Aug 2026 03:31:52 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Some ways to navigate through 'git blame' over time in GNU Emacs",
+    "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsGitBlameOverTime",
+    "summary": "Comments",
+    "pubDate": "Fri, 07 Aug 2026 03:25:17 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Four men arrested after violent disorder near Pontypool, police say",
@@ -894,6 +1422,14 @@
     "pubDate": "Fri, 07 Aug 2026 01:34:15 -0400",
     "source": "NPR",
     "category": "general"
+  },
+  {
+    "title": "The key to colonizing Mars may be hidden inside asteroids",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260805082504.htm",
+    "summary": "Metal-rich asteroids could one day become hardware stores for Mars, supplying the materials needed to build and repair a growing colony. A new analysis shows that carefully selected asteroids may be reachable with current spacecraft technology. Some could even provide the ingredients for making r...",
+    "pubDate": "Fri, 07 Aug 2026 01:29:22 EDT",
+    "source": "Science Daily",
+    "category": "science"
   },
   {
     "title": "Court orders Instagram and Facebook's Meta to pay $567M to address kids' mental health online",
@@ -944,6 +1480,14 @@
     "category": "general"
   },
   {
+    "title": "Scientists find unexpected life on Ötzi the Iceman’s 5,300-year-old body",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260806050721.htm",
+    "summary": "More than 5,000 years after his death, Ötzi the Iceman is still hosting a remarkable mix of ancient and modern microorganisms. Researchers separated microbes that lived in his body during his lifetime from those that arrived after his death, uncovering traces of his original gut bacteria and cold...",
+    "pubDate": "Fri, 07 Aug 2026 00:24:49 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "Arrests in Norfolk town as disorder continues for third night",
     "link": "https://www.bbc.co.uk/news/articles/c74g1gxvwlvo?at_medium=RSS&at_campaign=rss",
     "summary": "The arrests follow disorder linked to anti-immigration protests in the Norfolk market town.",
@@ -982,6 +1526,46 @@
     "pubDate": "Fri, 07 Aug 2026 00:05:43 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "The best classic slasher movie you&#8217;ll never watch",
+    "link": "https://www.theverge.com/entertainment/975850/teenage-sex-and-death-at-camp-miasma-production-design",
+    "summary": "Starting with the original in Camp Miasma in 1980, the horror franchise went on to have a long life. There were multiple sequels, spinoffs in the form of arcade cabinets and board games, and just about every kind of merchandise you can think of, from alarm clocks and lunch boxes to Halloween cost...",
+    "pubDate": "2026-08-07T08:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Why does Apple keep banning Telegram, but never X?",
+    "link": "https://www.theverge.com/tech/976405/apple-telegram-ban-x-app-store-violations",
+    "summary": "For roughly an hour this week, Telegram vanished from Apple's App Store. Even during that blip, it was a stunning absence for such a major app: an avenue of communication for more than 1 billion users around the world, used widely as a secure platform for people who live in countries under censor...",
+    "pubDate": "2026-08-07T07:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Trying to explain One Night Only&#8217;s tech-enforced sex dystopia",
+    "link": "https://www.theverge.com/entertainment/975917/one-night-only-sex-purge-movie-questions-tech",
+    "summary": "From the omnipresent One Night Only trailer, you'd be forgiven for thinking that the movie glosses over its terrifying and absurd premise - in otherwise normal modern New York, single people can only have sex one night a year - to deliver an entirely traditional romantic comedy. I'm here to repor...",
+    "pubDate": "2026-08-07T06:30:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Meta ordered to pay an additional $567 million in public nuisance ruling",
+    "link": "https://www.theverge.com/tech/976537/meta-new-mexico-cild-safety-fine-public-nuisance",
+    "summary": "Meta has been ordered to pay $567 million in the second phase of New Mexico's landmark child safety case, bringing total charges to nearly $1 billion for being a \"public nuisance.\" In a ruling published on Thursday, the Santa Fe district court found that Meta's platforms are a \"significant contri...",
+    "pubDate": "2026-08-07T05:10:01-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Briefing Chat: Is DNA repair the secret to a long life? Whales and mole rats offer tantalizing hints",
+    "link": "https://www.nature.com/articles/d41586-026-02488-3",
+    "summary": "Nature, Published online: 07 August 2026; doi:10.1038/d41586-026-02488-3 Nature staff discuss how animal studies are starting to uncover how DNA repair could prolong life, and how COVID-19 can reawaken dormant viruses.",
+    "pubDate": "2026-08-07",
+    "source": "Nature",
+    "category": "science"
   },
   {
     "title": "Trevor Noah is hosting Google’s Pixel 11 launch event",

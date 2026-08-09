@@ -32,12 +32,268 @@
     "category": "general"
   },
   {
+    "title": "我做了一个 Quote/0 看板，把 F1 赛程、积分和结果留在桌面",
+    "link": "https://sspai.com/post/113158",
+    "summary": "特别声明本文的项目构思、结构设计及相关素材整理均由人工完成。在产品开发与调试过程中，使用GPT-5.6Sol模型作为辅助工具，参与方案讨论、代码编写与问题排查。文章内容基于实际开发过程中的经验与记录， ... 查看全文",
+    "pubDate": "Sun, 09 Aug 2026 15:00:00 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "Fulham agree £30m fee for Southampton's Charles",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ce3qgzv43d3o?at_medium=RSS&at_campaign=rss",
+    "summary": "Fulham agree a deal worth up to £30m for Southampton midfielder Shea Charles, subject to a medical.",
+    "pubDate": "Sun, 09 Aug 2026 13:10:10 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
+    "link": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
+    "summary": "Article URL: https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html Comments URL: https://news.ycombinator.com/item?id=49231022 Points: 10 # Comments: 2",
+    "pubDate": "Sun, 09 Aug 2026 13:03:49 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "This former notorious red-light district is now one of the world’s top AI hubs",
+    "link": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
+    "summary": "More than 20 years ago, King's Cross was one of the seediest area's in London. Now it's sprouting something new.",
+    "pubDate": "Sun, 09 Aug 2026 13:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Amazon circumvents Gilroy community vote for AI data center",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window",
+    "summary": "Article URL: https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window Comments URL: https://news.ycombinator.com/item?id=49230954 Points: 17 # Comments: 3",
+    "pubDate": "Sun, 09 Aug 2026 12:52:10 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
+    "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+    "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+    "pubDate": "Sun, 09 Aug 2026 12:39:18 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Ancient Roman shipwreck discovered off Sicily coast",
+    "link": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
+    "summary": "Italy's culture minister says it is one of the most important underwater archaeological finds in years.",
+    "pubDate": "Sun, 09 Aug 2026 12:27:26 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Man Utd working on deal to sign Leicester teenager Page",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c5y4qpjqd7qo?at_medium=RSS&at_campaign=rss",
+    "summary": "Manchester United are working on a deal to sign Leicester teenager Louis Page.",
+    "pubDate": "Sun, 09 Aug 2026 12:13:59 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+    "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+    "summary": "Israel's PM says its military will not pull-out from Gaza until Hamas is \"genuinely\" disarmed.",
+    "pubDate": "Sun, 09 Aug 2026 12:12:10 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
+    "link": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
+    "summary": "Article URL: https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model Comments URL: https://news.ycombinator.com/item?id=49230550 Points: 11 # Comments: 8",
+    "pubDate": "Sun, 09 Aug 2026 11:46:28 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Reviving a four year old reMarkable 2",
+    "link": "https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html",
+    "summary": "Article URL: https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html Comments URL: https://news.ycombinator.com/item?id=49230514 Points: 30 # Comments: 15",
+    "pubDate": "Sun, 09 Aug 2026 11:39:25 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Everything You Do Is Being Recorded",
+    "link": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
+    "summary": "Article URL: https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/ Comments URL: https://news.ycombinator.com/item?id=49230477 Points: 62 # Comments: 41",
+    "pubDate": "Sun, 09 Aug 2026 11:30:48 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The Complicated Case of Passing On Your Digital Estate",
+    "link": "https://www.wired.com/story/digital-estate-planning-tips/",
+    "summary": "There’s no perfect way to transfer possession of your digital assets to your loved ones after you’re gone. But there are things you can do now to make the process easier for them.",
+    "pubDate": "Sun, 09 Aug 2026 11:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "4 Best Compression Boots: Therabody, Hyperice, and More (2026)",
+    "link": "https://www.wired.com/story/best-compression-boots/",
+    "summary": "Whether you’re training hard, traveling often, or dealing with poor circulation, these are the best compression boots for anyone looking for better muscle recovery.",
+    "pubDate": "Sun, 09 Aug 2026 11:04:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Mount Toba eruption doesn't seem like it could nearly kill our species",
+    "link": "https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/",
+    "summary": "The massive Toba eruption seems to have had little climate impact.",
+    "pubDate": "Sun, 09 Aug 2026 11:00:14 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How",
+    "link": "https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/",
+    "summary": "There are endless ways to record and transcribe your virtual meetings with AI. Here’s an option that’s free and open source.",
+    "pubDate": "Sun, 09 Aug 2026 10:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "CSS: The bomb inside your inbox",
+    "link": "https://portswigger.net/research/css-the-bomb-inside-your-inbox",
+    "summary": "Article URL: https://portswigger.net/research/css-the-bomb-inside-your-inbox Comments URL: https://news.ycombinator.com/item?id=49230066 Points: 39 # Comments: 10",
+    "pubDate": "Sun, 09 Aug 2026 10:17:52 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The Alpha 21264 CPU: NT's Greatest RISC (1998)",
+    "link": "https://halfhill.com/byte/1998-12_alpha.html",
+    "summary": "Article URL: https://halfhill.com/byte/1998-12_alpha.html Comments URL: https://news.ycombinator.com/item?id=49230022 Points: 26 # Comments: 12",
+    "pubDate": "Sun, 09 Aug 2026 10:06:37 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "TCL Note A1 Nxtpaper Review (2026): A Hybrid Tablet for Taking Notes and Watching Video",
+    "link": "https://www.wired.com/review/tcl-note-a1-nxtpaper-tablet/",
+    "summary": "TCL’s hybrid tablet-digital notebook tries to be the best of both worlds, and it mostly succeeds.",
+    "pubDate": "Sun, 09 Aug 2026 10:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "The 12 Best Anime to Watch if You Think You Hate Anime",
+    "link": "https://www.wired.com/story/the-12-best-anime-to-watch-if-you-think-you-hate-anime/",
+    "summary": "Japan’s strongest media export makes a solid case for your attention span. Here’s what to watch.",
+    "pubDate": "Sun, 09 Aug 2026 10:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Carrington makes 'white privilege' post after ejection",
+    "link": "https://www.bbc.co.uk/sport/basketball/articles/cd0x3dye57ko?at_medium=RSS&at_campaign=rss",
+    "summary": "Chicago Sky guard DiJonai Carrington is ejected from her side's defeat by Indiana Fever for committing a hard foul, before taking to social media to post \"white privilege\".",
+    "pubDate": "Sun, 09 Aug 2026 09:58:51 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "8 Best Workout Headphones & Earbuds: Beats, Bose, Apple (2026)",
+    "link": "https://www.wired.com/story/the-best-workout-headphones-and-earbuds/",
+    "summary": "Not every great pair of headphones belongs in the gym. These do, thanks to their secure fit, durable design, and impeccable sound.",
+    "pubDate": "Sun, 09 Aug 2026 09:37:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "These AI Barons Are Ready to Give Away Their Fortunes",
+    "link": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
+    "summary": "A new generation of philanthropists made rich by artificial intelligence are preparing to give away their vast wealth. What should we make of a multi-billion-dollar pinky promise?",
+    "pubDate": "Sun, 09 Aug 2026 09:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Frequent cannabis users wake up with their “stress hormone” already elevated",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260808234953.htm",
+    "summary": "Frequent cannabis users may wake up with unusually high levels of the stress hormone cortisol, suggesting their daily stress rhythms could be disrupted. Researchers say the finding raises questions about whether using cannabis for stress relief might, over time, interfere with the very system tha...",
+    "pubDate": "Sun, 09 Aug 2026 08:40:58 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Haunted by Hoover, Trump searches for an endgame in Iran",
+    "link": "https://www.npr.org/2026/08/09/nx-s1-5925960/trump-hoover-iran",
+    "summary": "President Trump is confronting a question that has haunted presidents throughout history: how a war - that has gone on longer than predicted - can reshape a presidency.",
+    "pubDate": "Sun, 09 Aug 2026 08:39:47 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "For decades, we were told to choose low-fat dairy. New research says otherwise",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260808234948.htm",
+    "summary": "Full-fat dairy may be healthier than conventional advice has suggested. In a 12-week study, adults who ate three servings a day showed no meaningful increases in weight, body fat, cholesterol, or insulin resistance. They also experienced improved blood pressure and consumed more calcium, protein,...",
+    "pubDate": "Sun, 09 Aug 2026 08:12:46 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "This rising painter reimagines Renaissance art in a cocoa plantation in Cameroon",
+    "link": "https://www.npr.org/2026/08/09/g-s1-137636/paintings-religious-renaissance-old-masters-marc-padeu-african-cameroon-artist",
+    "summary": "A new gallery show in London features the paintings of Marc Padeu, playing with themes from Renaissance art and bringing them to his homeland of Cameroon.",
+    "pubDate": "Sun, 09 Aug 2026 07:58:02 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "60,000-year-old ostrich eggshell engravings reveal a surprisingly sophisticated human mind",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260808235013.htm",
+    "summary": "More than 60,000 years ago, humans in southern Africa were engraving ostrich eggshells with intricate geometric patterns that appear far more organized than previously realized. Researchers found recurring grids, parallel lines, right angles, and repeated shapes, suggesting the designs followed d...",
+    "pubDate": "Sun, 09 Aug 2026 07:51:37 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Scientists discover bacteria that lock toxic uranium into a stable form",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260807035149.htm",
+    "summary": "Deep underground, bacteria may be capable of doing something remarkable: trapping toxic uranium before it spreads. When researchers fed microbes in uranium-contaminated mine water with glycerol, about 95% of the dissolved uranium disappeared within 130 days. The bacteria helped convert it into an...",
+    "pubDate": "Sun, 09 Aug 2026 07:30:17 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "What Software is Made Of (2015)",
+    "link": "https://siderea.dreamwidth.org/1219758.html",
+    "summary": "Try Internet Archive mirror if the website doesn't load. Comments",
+    "pubDate": "Sun, 09 Aug 2026 07:26:37 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "What are your favourite new kits for the coming season?",
     "link": "https://www.bbc.co.uk/sport/football/articles/c4g630klknjo?at_medium=RSS&at_campaign=rss",
     "summary": "BBC Sport have rounded up some of the best new kits released by clubs around the world over the summer - vote for your top 10",
     "pubDate": "Sun, 09 Aug 2026 07:22:01 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "There Are Magic Hexagons of Every Order",
+    "link": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
+    "summary": "Article URL: https://gukov.dev/math/2026/08/02/new-magic-hexagons.html Comments URL: https://news.ycombinator.com/item?id=49229174 Points: 86 # Comments: 16",
+    "pubDate": "Sun, 09 Aug 2026 07:19:58 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Chemists set electrons free and break a decades-old chemistry barrier",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260807035147.htm",
+    "summary": "Chemists have developed a catalyst that breaks a long-standing rule governing which molecules receive electrons during chemical reactions. By releasing electrons directly into solution, the technique could unlock reactions—and potentially useful new molecules—that were previously out of reach.",
+    "pubDate": "Sun, 09 Aug 2026 07:02:03 EDT",
+    "source": "Science Daily",
+    "category": "science"
   },
   {
     "title": "Sabalenka and Norrie exit Canadian Open in last 16",
@@ -48,11 +304,51 @@
     "category": "general"
   },
   {
+    "title": "ddisasm: A fast and accurate disassembler",
+    "link": "https://github.com/GrammaTech/ddisasm",
+    "summary": "Comments",
+    "pubDate": "Sun, 09 Aug 2026 06:28:08 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Money problems and broken dreams - why is it so hard to run a cycling team?",
     "link": "https://www.bbc.co.uk/sport/cycling/articles/c20d8redpyxo?at_medium=RSS&at_campaign=rss",
     "summary": "The Hess women's cycling team was owned by a rich benefactor with a background in high finance - so how did they end up failing to pay riders and staff?",
     "pubDate": "Sun, 09 Aug 2026 06:28:05 GMT",
     "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Dinosaurs became giants — so why did they never become tiny?",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260807035137.htm",
+    "summary": "Dinosaurs conquered the land at enormous sizes, but strangely, they almost never evolved into truly tiny animals. New research suggests that physiology alone can’t explain this missing miniature end of the dinosaur spectrum—and that early mammals may have been partly responsible. While dinosaurs ...",
+    "pubDate": "Sun, 09 Aug 2026 06:15:11 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Family 'devastated' as hit-and-run driver who killed boy, 13, to have early prison release",
+    "link": "https://www.bbc.co.uk/news/articles/cvgxjdlzy9xo?at_medium=RSS&at_campaign=rss",
+    "summary": "Harley Whiteman's sentence has been reduced as part of the UK government's early release scheme.",
+    "pubDate": "Sun, 09 Aug 2026 06:12:26 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Stray cats showing up at raves, gigs and pubs now have own merchandise",
+    "link": "https://www.bbc.co.uk/news/articles/c4g3wwdd0w4o?at_medium=RSS&at_campaign=rss",
+    "summary": "Fargo and Murphy are pulling in punters and even have their own range of merchandise.",
+    "pubDate": "Sun, 09 Aug 2026 06:05:19 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news",
+    "link": "https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news",
+    "summary": "Meanwhile, Iran has made new demands about the restart of negotiations and the reopening of the Strait of Hormuz, and the Pentagon is pressing the U.S. defense industry to accelerate production of weapons.",
+    "pubDate": "Sun, 09 Aug 2026 05:44:02 -0400",
+    "source": "NPR",
     "category": "general"
   },
   {
@@ -88,6 +384,14 @@
     "category": "tech"
   },
   {
+    "title": "Why MySpace fans want it back as relaunch hinted",
+    "link": "https://www.bbc.com/news/articles/c4g64152v71o",
+    "summary": "Article URL: https://www.bbc.com/news/articles/c4g64152v71o Comments URL: https://news.ycombinator.com/item?id=49228426 Points: 32 # Comments: 34",
+    "pubDate": "Sun, 09 Aug 2026 04:24:10 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "Illinois just told every operating system to start reporting your kid's age",
     "link": "https://itsfoss.com/news/illinois-age-verification-bill/",
     "summary": "Article URL: https://itsfoss.com/news/illinois-age-verification-bill/ Comments URL: https://news.ycombinator.com/item?id=49228350 Points: 67 # Comments: 34",
@@ -96,11 +400,27 @@
     "category": "tech"
   },
   {
+    "title": "Wine, beer, or spirits? Massive study finds a surprising health divide",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260808235008.htm",
+    "summary": "A study tracking more than 340,000 adults for over a decade found that heavy drinking increased the risk of death regardless of beverage type. At lower levels, however, the picture became more surprising: beer, cider, and spirits were linked to higher mortality, while wine was associated with low...",
+    "pubDate": "Sun, 09 Aug 2026 03:49:30 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "Retraction: The App Store Rejection of the Week That Was a Correct Rejection",
     "link": "https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week",
     "summary": "Thread for original post: https://news.ycombinator.com/item?id=49214863 Comments URL: https://news.ycombinator.com/item?id=49228166 Points: 138 # Comments: 11",
     "pubDate": "Sun, 09 Aug 2026 03:26:00 +0000",
     "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Tracking down a Zsh history data loss bug",
+    "link": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
+    "summary": "Comments",
+    "pubDate": "Sun, 09 Aug 2026 03:16:46 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -126,6 +446,14 @@
     "pubDate": "Sun, 09 Aug 2026 02:14:28 -0500",
     "source": "Lobsters",
     "category": "tech"
+  },
+  {
+    "title": "A 0.42-nanometer breakthrough could push transistors beyond silicon",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260808234943.htm",
+    "summary": "Atomically thin semiconductors could enable dramatically smaller and more efficient chips, but a stubborn problem at the boundary between materials has limited their performance. Researchers have now engineered that atomic interface to protect electron flow while still allowing extremely thin ins...",
+    "pubDate": "Sun, 09 Aug 2026 02:05:43 EDT",
+    "source": "Science Daily",
+    "category": "science"
   },
   {
     "title": "Investigating Power-Confluent Drawings for Network Visualization",
@@ -224,6 +552,14 @@
     "category": "general"
   },
   {
+    "title": "Scientists say just 7 days of meditation can rewire your brain",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260807235243.htm",
+    "summary": "An intensive seven-day meditation retreat triggered striking changes across the brain and body, including shifts tied to neuroplasticity, immunity, metabolism, and natural pain relief. Participants also showed brain connectivity patterns resembling those associated with psychedelic experiences, s...",
+    "pubDate": "Sat, 08 Aug 2026 23:50:35 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
     "link": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
     "summary": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank.",
@@ -270,6 +606,14 @@
     "pubDate": "Sat, 08 Aug 2026 23:23:30 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Stress can scramble your brain’s internal GPS, MRI study finds",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260807035151.htm",
+    "summary": "Stress may literally scramble the brain’s internal GPS. Researchers found that cortisol, a hormone released during stress, made people significantly worse at navigating a virtual environment and disrupted the precise activity of grid cells, specialized brain cells that help us understand where we...",
+    "pubDate": "Sat, 08 Aug 2026 23:21:50 EDT",
+    "source": "Science Daily",
+    "category": "science"
   },
   {
     "title": "Killed a month after his wedding - why PC Andrew Harper's death touched so many",
@@ -376,6 +720,14 @@
     "category": "general"
   },
   {
+    "title": "The dodo bird had a secret sensory world scientists are only now discovering",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260807035143.htm",
+    "summary": "CT scans of the world’s rarest dodo skulls suggest the extinct bird may have had a stronger sense of smell, a highly sensitive beak, and a lifestyle that extended into dawn and dusk. The discoveries are helping overturn centuries-old myths and reveal a far more complex animal than the famously “d...",
+    "pubDate": "Sat, 08 Aug 2026 20:19:12 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "DREI: WYSIWYG Emacs for HTML",
     "link": "https://speechcode.com/blog/drei",
     "summary": "Comments",
@@ -478,6 +830,22 @@
     "pubDate": "Fri, 07 Aug 2026 12:00:51 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Dropbox is a PC builder’s best friend",
+    "link": "https://www.theverge.com/tech/976092/pc-building-dropbox-backup",
+    "summary": "In 2018 I bet my reputation and self-worth on a huge crowdfunded game design project. It could have been a failure for many reasons, but the one I became most worried about was losing all of the work that was stored locally on my home-built PC - a scenario that would have left a lot [&#8230;]",
+    "pubDate": "2026-08-09T09:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "AI detectors are creating a new era of distrust",
+    "link": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Long before ChatGPT b...",
+    "pubDate": "2026-08-09T08:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
   },
   {
     "title": "X replaces its revenue-sharing program with ‘Original Content Rewards’",

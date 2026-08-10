@@ -24,6 +24,14 @@
     "category": "general"
   },
   {
+    "title": "'Not afraid to stay': The Canadians taking fighting wildfires into their own hands",
+    "link": "https://www.bbc.co.uk/news/articles/c20d89jxpqno?at_medium=RSS&at_campaign=rss",
+    "summary": "With wildfires now widespread and frequent, some rural residents in Canada are learning how to fight the flames themselves and protect their own homes.",
+    "pubDate": "Sun, 09 Aug 2026 23:02:39 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "Burnham brings forward ban on 'subscription traps' to ease cost of living",
     "link": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss",
     "summary": "The prime minister is embarking on a UK tour with a series of announcements aimed at easing living costs.",
@@ -38,6 +46,14 @@
     "pubDate": "Sun, 09 Aug 2026 23:01:26 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Undo/redo systems and collaborative editing (2024)",
+    "link": "https://dev.to/isaachagoel/you-dont-know-undoredo-4hol",
+    "summary": "Comments",
+    "pubDate": "Sun, 09 Aug 2026 22:40:35 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "'Spectacular' Game of Thrones stage spin-off opens at home of Shakespeare",
@@ -256,12 +272,204 @@
     "category": "tech"
   },
   {
+    "title": "写给「跑两步就喘」的你：调整跑步姿势，舒适开跑",
+    "link": "https://sspai.com/post/113115",
+    "summary": "从跑步姿势、呼吸节奏、运动强度入手，让跑步更舒服。 查看全文",
+    "pubDate": "Mon, 10 Aug 2026 15:00:00 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "我与Pixel 10 Pro的生活：写在Pixel 11系列手机发布前夕",
+    "link": "https://sspai.com/post/113202",
+    "summary": "喜欢，从来没有一个明确的定义。 查看全文",
+    "pubDate": "Mon, 10 Aug 2026 11:00:56 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "Crews tackle heathland fire that spread from van",
+    "link": "https://www.bbc.co.uk/news/articles/clye8l9422no?at_medium=RSS&at_campaign=rss",
+    "summary": "The fire spread to verges and trees after a vehicle caught fire on the A31 near Ringwood.",
+    "pubDate": "Mon, 10 Aug 2026 07:58:09 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "'Roll on 2027' as Fleadh 2026 in Belfast comes to an end",
+    "link": "https://www.bbc.co.uk/news/articles/c4gk74vpzxzo?at_medium=RSS&at_campaign=rss",
+    "summary": "The 2026 festival was being hosted in the city for the first time and ended on Sunday.",
+    "pubDate": "Mon, 10 Aug 2026 07:35:03 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "China evacuates one million from homes as massive storm arrives",
+    "link": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
+    "summary": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai.",
+    "pubDate": "Mon, 10 Aug 2026 07:23:54 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "派早报：央视曝光酒店评级标识消费陷阱",
     "link": "https://sspai.com/post/113268",
     "summary": "央视曝光酒店评级标识消费陷阱 《时代》网站展示仅 AI 可见广告 Edge 浏览器将禁用 Manifest V2 扩展 油价上涨致美国混动车需求激增 廉价手机壳存在毒性隐患 美国调查中国 AI 企业使用海外英伟达芯片 看看就行的小道消息 少数派的近期动态 你可能错过的好文章 查看全文",
     "pubDate": "Mon, 10 Aug 2026 07:08:03 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "The team behind Hodgkinson's golden rise and the hunt for a world record",
+    "link": "https://www.bbc.co.uk/sport/athletics/articles/cjwp3nnlgqpo?at_medium=RSS&at_campaign=rss",
+    "summary": "BBC Sport looks at the team behind Great Britain 800m star Keely Hodgkinson's golden rise and pursuit of a world record.",
+    "pubDate": "Mon, 10 Aug 2026 07:00:24 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Watch: Bungalow destroyed in explosion captured on camera",
+    "link": "https://www.bbc.co.uk/news/videos/c78gx85e05go?at_medium=RSS&at_campaign=rss",
+    "summary": "Footage also shows the home burning after the explosion, thought to have been caused by a gas leak.",
+    "pubDate": "Mon, 10 Aug 2026 06:24:52 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+    "link": "https://www.docker.com/products/docker-sandboxes/",
+    "summary": "Article URL: https://www.docker.com/products/docker-sandboxes/ Comments URL: https://news.ycombinator.com/item?id=49239751 Points: 124 # Comments: 77",
+    "pubDate": "Mon, 10 Aug 2026 06:02:38 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Space Agencies Are Trying to Keep Astronauts From Losing Their Sight",
+    "link": "https://www.wired.com/story/space-agencies-trying-stop-astronauts-losing-sight/",
+    "summary": "A device currently being used to help octogenarians do self-administered eye exams could be part of future space missions to monitor astronauts’ ocular health.",
+    "pubDate": "Mon, 10 Aug 2026 06:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "'Body in suitcase' found in Australia turns out to be lifelike doll",
+    "link": "https://www.bbc.co.uk/news/articles/clyqg4w3gz9o?at_medium=RSS&at_campaign=rss",
+    "summary": "Forensics revealed that the 'realistic' looking body was in fact not human.",
+    "pubDate": "Mon, 10 Aug 2026 05:16:40 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "How Liverpool are shaping up under Iraola",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cx27gkmed3wo?at_medium=RSS&at_campaign=rss",
+    "summary": "Four pre-season games is a very small sample, but Andoni Iraola is starting to put his stamp on Liverpool. So how are the Reds shaping up under their new boss?",
+    "pubDate": "Mon, 10 Aug 2026 05:15:18 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Risk of patient safety 'bonfire' with Health Bill changes, Lib Dems say",
+    "link": "https://www.bbc.co.uk/news/articles/c62e60m1jygo?at_medium=RSS&at_campaign=rss",
+    "summary": "The party says the government's plans to modernise the NHS risk another major hospital scandal.",
+    "pubDate": "Mon, 10 Aug 2026 05:01:50 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Tech leaders say AI means less work - their staff say they work up to 90 hours a week",
+    "link": "https://www.bbc.co.uk/news/articles/cvgx4yd1gl2o?at_medium=RSS&at_campaign=rss",
+    "summary": "Tech companies are not modelling their own claims of the technology giving people more free time.",
+    "pubDate": "Mon, 10 Aug 2026 05:00:32 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Travelodge staff gave domestic abuser key to his victim's room",
+    "link": "https://www.bbc.co.uk/news/articles/cvgx1v922p5o?at_medium=RSS&at_campaign=rss",
+    "summary": "A woman tells the BBC her attacker kicked her hotel room door \"off its hinges\" after reception gave him the key.",
+    "pubDate": "Mon, 10 Aug 2026 05:00:07 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The Philippines' big offshoring industry is growing despite AI",
+    "link": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai",
+    "summary": "Article URL: https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai Comments URL: https://news.ycombinator.com/item?id=49239226 Points: 37 # Comments: 34",
+    "pubDate": "Mon, 10 Aug 2026 04:35:24 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Auto mode is now the default in Claude Code",
+    "link": "https://claude.com/blog/auto-mode-default-in-claude-code",
+    "summary": "Article URL: https://claude.com/blog/auto-mode-default-in-claude-code Comments URL: https://news.ycombinator.com/item?id=49239021 Points: 174 # Comments: 162",
+    "pubDate": "Mon, 10 Aug 2026 03:50:00 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+    "link": "https://www.whodunnitai.com/",
+    "summary": "Hey HN! I'm excited to show off this really fun project I put together. I originally built this project 2-3 years ago, AI was already booming at the time, however voice AI agents were still very early. I loved my proof of concept at the time, but wasn't quite happy with it. I recently had the des...",
+    "pubDate": "Mon, 10 Aug 2026 03:18:40 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
+    "link": "https://github.com/shinyquagsire23/Klepton",
+    "summary": "Article URL: https://github.com/shinyquagsire23/Klepton Comments URL: https://news.ycombinator.com/item?id=49238818 Points: 55 # Comments: 6",
+    "pubDate": "Mon, 10 Aug 2026 03:12:48 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Toggles Considered Harmful",
+    "link": "https://ignorethecode.net/blog/2026/08/09/toggles_considered_harmful/",
+    "summary": "Comments",
+    "pubDate": "Mon, 10 Aug 2026 03:04:12 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Turn satellite imagery into a paper globe you fold yourself",
+    "link": "https://foldingglobes.com/",
+    "summary": "Article URL: https://foldingglobes.com/ Comments URL: https://news.ycombinator.com/item?id=49238735 Points: 45 # Comments: 10",
+    "pubDate": "Mon, 10 Aug 2026 02:57:38 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "an ambiguity in c89 which will never be fixed",
+    "link": "https://sebsite.pw/w/20260810-c89ambiguity.html",
+    "summary": "Comments",
+    "pubDate": "Mon, 10 Aug 2026 02:56:03 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "How do programming languages impact token efficiency and correctness?",
+    "link": "https://danluu.com/pl-tokens/",
+    "summary": "Comments",
+    "pubDate": "Mon, 10 Aug 2026 02:47:36 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Light/Dark/System Theme Setting Design",
+    "link": "https://vale.rocks/micros/20260810-0330",
+    "summary": "Comments",
+    "pubDate": "Mon, 10 Aug 2026 02:43:32 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "What Happened to HackerOne?",
+    "link": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
+    "summary": "Article URL: https://blog.teknogeek.io/posts/what-happened-to-hackerone/ Comments URL: https://news.ycombinator.com/item?id=49238561 Points: 191 # Comments: 75",
+    "pubDate": "Mon, 10 Aug 2026 02:23:17 +0000",
+    "source": "Hacker News",
+    "category": "tech"
   },
   {
     "title": "Alexandria Ocasio-Cortez freezing her eggs and hasn't 'ruled out' presidential run",
@@ -317,6 +525,14 @@
     "summary": "The Sun says \"jet bomb plotters\" are launching parole bids, as the Mirror carries a heatwave \"open water swimming\" warning.",
     "pubDate": "Mon, 10 Aug 2026 00:31:31 GMT",
     "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The view from the proving grounds for next-generation nuclear reactors, Atomic City, Idaho",
+    "link": "https://www.npr.org/2026/08/10/nx-s1-5884029/the-view-from-the-proving-grounds-for-next-generation-nuclear-reactors-atomic-city-idaho",
+    "summary": "A new generation of small nuclear reactors is poised to come online in the next few years. Public opinion remains split.",
+    "pubDate": "Mon, 10 Aug 2026 00:01:00 -0400",
+    "source": "NPR",
     "category": "general"
   },
   {

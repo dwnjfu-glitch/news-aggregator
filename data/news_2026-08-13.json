@@ -32,6 +32,14 @@
     "category": "general"
   },
   {
+    "title": "How should Futhark expose irregular arrays to the programmer?",
+    "link": "https://futhark-lang.org/blog/2026-08-12-flatmap.html",
+    "summary": "Comments",
+    "pubDate": "Wed, 12 Aug 2026 23:29:53 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "'If you're not conservative, don't come here': The town making missiles for Trump",
     "link": "https://www.bbc.co.uk/news/articles/cn0n8nd6645o?at_medium=RSS&at_campaign=rss",
     "summary": "The president's approval numbers may be down, but in this Tennessee town, his support is as strong as ever.",
@@ -264,6 +272,14 @@
     "category": "tech"
   },
   {
+    "title": "New indictment alleges Nick Reiner was lying in wait before killing parents Rob and Michele Reiner",
+    "link": "https://www.bbc.co.uk/news/articles/cx2l13p6g3vo?at_medium=RSS&at_campaign=rss",
+    "summary": "The allegation makes Reiner eligible for the death penalty - which has been paused in the state. Prosecutors have not said if they will pursue it.",
+    "pubDate": "Wed, 12 Aug 2026 20:36:18 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "Messi's most iconic moments as he ponders retirement",
     "link": "https://www.bbc.co.uk/sport/football/articles/c74x9zd83vlo?at_medium=RSS&at_campaign=rss",
     "summary": "As Lionel Messi considers his footballing future following the death of his father, BBC Sport looks back at some of his most iconic moments.",
@@ -408,6 +424,22 @@
     "category": "tech"
   },
   {
+    "title": "TDS REVIEW | 铁三角 ATH-SQ1TW2NC 降噪真无线耳机体验",
+    "link": "https://sspai.com/post/113338",
+    "summary": "SQ1TW2NC 的声音素质、编码配置和降噪综合能力，应该都算是在国内同价位甚至更低价位主流新产品面前不太拿得出手的水平，没有特别明显的功能层面的长板，但你会发现即使如此，它依然有一些点值得国内品牌学习。 查看全文",
+    "pubDate": "Thu, 13 Aug 2026 15:01:08 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "6 天时间丈量独库公路：我的平安骑行指南",
+    "link": "https://sspai.com/post/112873",
+    "summary": "如果你也想骑一次独库，希望这份来自普通骑行爱好者的实战记录，能让你出发前少踩一点坑。 查看全文",
+    "pubDate": "Thu, 13 Aug 2026 11:18:09 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
     "title": "派早报：荣耀发布 Robot Phone、Google 推出 Pixel 11 系列等",
     "link": "https://sspai.com/post/113385",
     "summary": "影石发布 Insta360 X6、SpaceXAI 推出 Grok Bot 等。 查看全文",
@@ -416,11 +448,115 @@
     "category": "tech-cn"
   },
   {
+    "title": "Streets evacuated after massive fire destroys homes",
+    "link": "https://www.bbc.co.uk/news/articles/c3d32np89z4o?at_medium=RSS&at_campaign=rss",
+    "summary": "Residents are evacuated after a large fire involving five homes in Caerphilly county.",
+    "pubDate": "Thu, 13 Aug 2026 07:34:46 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Swiatek into first final of her 'toughest season'",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/ckgdppv82ymo?at_medium=RSS&at_campaign=rss",
+    "summary": "Iga Swiatek will meet Elena Rybakina in the Canadian Open final after both players battled through their semi-finals in three sets.",
+    "pubDate": "Thu, 13 Aug 2026 07:24:28 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Messi plays for Inter Miami after father's death",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cz9722y1ee7o?at_medium=RSS&at_campaign=rss",
+    "summary": "Lionel Messi makes a substitute appearance for Inter Miami on Wednesday following the death of his father and hinting he may retire.",
+    "pubDate": "Thu, 13 Aug 2026 07:19:46 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Jones turns to geese to inspire Japan",
+    "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cgq5pk5gpyyo?at_medium=RSS&at_campaign=rss",
+    "summary": "Before their second Test against Australia, Eddie Jones reveals an interesting method he uses to coach Japan - watching videos of geese fly in formation.",
+    "pubDate": "Thu, 13 Aug 2026 06:37:23 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Polls open in Clacton by-election",
+    "link": "https://www.bbc.co.uk/news/articles/cp308xpwv34o?at_medium=RSS&at_campaign=rss",
+    "summary": "Voters will choose between 34 candidates - the most to stand in any British parliamentary election.",
+    "pubDate": "Thu, 13 Aug 2026 06:28:40 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Only wins can stop curfew hokey-cokey for England's 'grown adults'",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/czjl2pelp1go?at_medium=RSS&at_campaign=rss",
+    "summary": "England have scrapped their midnight curfew seven months after introducing it. Now, only wins will repair the reputational damage they have sustained, says Stephan Shemilt.",
+    "pubDate": "Thu, 13 Aug 2026 05:22:07 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+    "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
+    "summary": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
+    "pubDate": "Thu, 13 Aug 2026 04:55:58 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "ChatGPT Desktop (Codex Desktop) for Linux",
+    "link": "https://openai.com/codex/",
+    "summary": "Article URL: https://openai.com/codex/ Comments URL: https://news.ycombinator.com/item?id=49281916 Points: 38 # Comments: 17",
+    "pubDate": "Thu, 13 Aug 2026 04:53:41 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "BTS star V reveals hearing loss battle during livestream",
+    "link": "https://www.bbc.co.uk/news/articles/cx2v1893n3eo?at_medium=RSS&at_campaign=rss",
+    "summary": "The K-pop star says he has suffered hearing issues for over two years before revealing it publicly this week.",
+    "pubDate": "Thu, 13 Aug 2026 04:09:12 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "On Hacking",
+    "link": "https://stallman.org/articles/on-hacking.html",
+    "summary": "Comments",
+    "pubDate": "Thu, 13 Aug 2026 02:51:17 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Temperatures to soar to 38C as amber extreme heat warning comes into force",
     "link": "https://www.bbc.co.uk/weather/articles/ce85pj0e20po?at_medium=RSS&at_campaign=rss",
     "summary": "Heat will spike again on Thursday with a rare warning in place and more records set to tumble.",
     "pubDate": "Thu, 13 Aug 2026 02:31:39 GMT",
     "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "New indictment alleges Nick Reiner was lying in wait before killing his parents",
+    "link": "https://www.npr.org/2026/08/13/g-s1-138566/reiner-indictment",
+    "summary": "A grand jury has indicted Nick Reiner on murder charges in the killings of his parents, Rob Reiner and Michele Singer Reiner, and adds the allegation that he was lying in wait before attacking them.",
+    "pubDate": "Thu, 13 Aug 2026 02:21:25 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Millions crowd cities to see Spain's first total solar eclipse in over a century",
+    "link": "https://www.npr.org/2026/08/13/g-s1-138556/spain-solar-eclipse",
+    "summary": "As the sky darkened, gradually at first and then quickly, people broke into applause and cheered. It was the Spain's first total solar eclipse in more than a century.",
+    "pubDate": "Thu, 13 Aug 2026 02:04:38 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "3 men set for lethal injection on same day in Tennessee, Alabama and Oklahoma",
+    "link": "https://www.npr.org/2026/08/13/g-s1-138552/us-same-day-executions",
+    "summary": "Three men in Tennessee, Alabama and Oklahoma are scheduled for lethal injection Thursday in a rare convergence of executions on the same day in the U.S.",
+    "pubDate": "Thu, 13 Aug 2026 01:43:43 -0400",
+    "source": "NPR",
     "category": "general"
   },
   {
@@ -446,6 +582,14 @@
     "pubDate": "Thu, 13 Aug 2026 01:03:15 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "python's pre-declared constants are kinda weird",
+    "link": "https://sebsite.pw/w/20260801-pythonconstants.html",
+    "summary": "Comments",
+    "pubDate": "Thu, 13 Aug 2026 00:28:40 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",

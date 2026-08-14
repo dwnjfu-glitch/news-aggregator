@@ -504,6 +504,118 @@
     "category": "science"
   },
   {
+    "title": "Derailed Essex to London train leads to travel chaos",
+    "link": "https://www.bbc.co.uk/news/articles/cq561qvg7qgo?at_medium=RSS&at_campaign=rss",
+    "summary": "It has happened less than 24 hours after a train came off the tracks in East Sussex.",
+    "pubDate": "Fri, 14 Aug 2026 19:20:48 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
+    "link": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
+    "summary": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death.",
+    "pubDate": "Fri, 14 Aug 2026 19:20:43 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Trump asks Supreme Court to allow ballroom work to continue",
+    "link": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
+    "summary": "Forcing the US president to go \"hat-in-hand to Congress\" for permission would be \"dangerous\", the administration says.",
+    "pubDate": "Fri, 14 Aug 2026 19:05:22 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "What we know about the alleged Iranian hacks on U.S. water utilities",
+    "link": "https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/",
+    "summary": "Over the last couple of weeks, hackers have targeted and broken into the systems of several water plants in the United States. Here’s what we know and don’t know about this wave of attacks allegedly carried out by the Iranian government.",
+    "pubDate": "Fri, 14 Aug 2026 19:04:32 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Read-it-later app Pocket shut down down — here are the best alternatives",
+    "link": "https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/",
+    "summary": "Pocket users have until October 8, 2025, to export their saved articles and other items, including lists, archives, favorites, notes, and highlights.",
+    "pubDate": "Fri, 14 Aug 2026 18:58:15 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "'I shot Mr Thompson'- What it was like inside court as Mangione pleaded guilty",
+    "link": "https://www.bbc.co.uk/news/articles/c4gkyez7195o?at_medium=RSS&at_campaign=rss",
+    "summary": "It marked the first time a court had heard Mangione describe how he committed a crime that garnered worldwide attention.",
+    "pubDate": "Fri, 14 Aug 2026 18:54:58 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Show HN: Mole – Deep research agent for your terminal",
+    "link": "https://github.com/lajosdeme/mole",
+    "summary": "Doing research with agents is fun until they blow way past budget, jumble the sources, and don't even give you the best possible answer, just sound confident. And if you want to run some research task on local data - you have no idea where your data ends up after the prompt consumes it. So I buil...",
+    "pubDate": "Fri, 14 Aug 2026 18:52:48 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Show HN: Embed a real Linux terminal on your website",
+    "link": "https://sandbox.bio/training/embed",
+    "summary": "Article URL: https://sandbox.bio/training/embed Comments URL: https://news.ycombinator.com/item?id=49303027 Points: 9 # Comments: 6",
+    "pubDate": "Fri, 14 Aug 2026 18:51:27 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The American Sports Plutocracy Is Bullshit",
+    "link": "https://www.derekthompson.org/p/the-american-sports-plutocracy-is",
+    "summary": "Article URL: https://www.derekthompson.org/p/the-american-sports-plutocracy-is Comments URL: https://news.ycombinator.com/item?id=49302943 Points: 5 # Comments: 0",
+    "pubDate": "Fri, 14 Aug 2026 18:43:49 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Britain's Finlay Tarling dies in Volta a Portugal accident",
+    "link": "https://www.bbc.co.uk/sport/cycling/articles/ceqed1g3j48o?at_medium=RSS&at_campaign=rss",
+    "summary": "British cyclist Finlay Tarling dies at the age of 19 in a serious accident during the eighth stage of the Volta a Portugal.",
+    "pubDate": "Fri, 14 Aug 2026 18:40:14 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
+    "link": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
+    "summary": "Screen-sharing bug lets remote hackers log in without a password.",
+    "pubDate": "Fri, 14 Aug 2026 18:32:14 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
+    "link": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
+    "summary": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
+    "pubDate": "Fri, 14 Aug 2026 18:25:38 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "First test flight of largest all-electric aircraft used just $5 of electricity",
+    "link": "https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/",
+    "summary": "Airline-backed venture aims to develop a hybrid-electric commercial aircraft.",
+    "pubDate": "Fri, 14 Aug 2026 18:00:23 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Two dead after light aircraft crash",
+    "link": "https://www.bbc.co.uk/news/articles/cgjexn9qd54o?at_medium=RSS&at_campaign=rss",
+    "summary": "A plane travelling from England on Friday did not arrive at Caernarfon Airport as scheduled.",
+    "pubDate": "Fri, 14 Aug 2026 17:56:29 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "本周看什么 | 最近值得一看的 9 部作品",
     "link": "https://sspai.com/post/113459",
     "summary": "📅本周新预告《不存在的罪人》正式预告8月11日，电影《不存在的罪人》发布了正式预告，将于10月2日在北美上映。迈克尔·肖沃特执导，安妮·海瑟薇、达科塔·约翰逊、乔什·哈奈特主演，当红小说家留下未竟手稿 ... 查看全文",
@@ -512,12 +624,364 @@
     "category": "tech-cn"
   },
   {
+    "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+    "link": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+    "summary": "Judge warns pro se litigants are using chatbots wrong and getting desperate.",
+    "pubDate": "Fri, 14 Aug 2026 17:26:53 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Stephen Bear jailed over sex offender breaches",
+    "link": "https://www.bbc.co.uk/news/articles/c7vgymz71l4o?at_medium=RSS&at_campaign=rss",
+    "summary": "The TV personality posted in Brazil \"the police will not be able to catch\" him, a court hears.",
+    "pubDate": "Fri, 14 Aug 2026 17:22:36 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "State judge orders Kalshi to stop offering sports bets and other wagers",
+    "link": "https://arstechnica.com/tech-policy/2026/08/state-judge-orders-kalshi-to-stop-offering-sports-bets-and-other-wagers/",
+    "summary": "Kalshi ordered to stop offering bets in Washington, must implement geofencing.",
+    "pubDate": "Fri, 14 Aug 2026 17:13:14 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
+    "link": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
+    "summary": "\"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars.",
+    "pubDate": "Fri, 14 Aug 2026 17:03:54 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+    "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
+    "summary": "Two families have been trapped in their homes in the occupied West Bank for several days.",
+    "pubDate": "Fri, 14 Aug 2026 17:03:17 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "UK diplomats no longer get hardship bonus for being posted to Buenos Aires",
+    "link": "https://www.bbc.co.uk/news/articles/cly5p995ykko?at_medium=RSS&at_campaign=rss",
+    "summary": "Civil servants are entitled to extra money for working in difficult or dangerous cities around the world.",
+    "pubDate": "Fri, 14 Aug 2026 17:00:46 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+    "link": "https://arxiv.org/abs/2608.12700",
+    "summary": "Article URL: https://arxiv.org/abs/2608.12700 Comments URL: https://news.ycombinator.com/item?id=49301417 Points: 12 # Comments: 0",
+    "pubDate": "Fri, 14 Aug 2026 16:57:14 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Count Binface receives over a quarter of votes in Clacton by-election",
+    "link": "https://www.bbc.com/news/articles/ce97mm3vvemo",
+    "summary": "Article URL: https://www.bbc.com/news/articles/ce97mm3vvemo Comments URL: https://news.ycombinator.com/item?id=49301260 Points: 288 # Comments: 190",
+    "pubDate": "Fri, 14 Aug 2026 16:45:49 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
+    "link": "https://luacad.ad-si.com",
+    "summary": "LuaCAD models solids in Lua rather than the OpenSCAD language, with operator overloading for CSG (`a + b`, `a - b`, `a * b`). It ships with a CLI and a desktop app, including a preview area and a text editor. I've always been a big fan of OpenSCAD, but the SCAD language itself is unfortunately qu...",
+    "pubDate": "Fri, 14 Aug 2026 16:43:22 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Policy experts: Europe stuck between \"rock and a hard place\" on launch",
+    "link": "https://arstechnica.com/space/2026/08/policy-experts-europe-stuck-between-rock-and-a-hard-place-on-launch/",
+    "summary": "It turns out that the economics of rocket reuse are pretty, pretty good.",
+    "pubDate": "Fri, 14 Aug 2026 16:29:21 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Unforgetful is a new reminders app for people who can’t stop hitting snooze",
+    "link": "https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/",
+    "summary": "Unforgetful, the latest app from longtime indie developer Marco Arment, is designed to make reminders harder to ignore — or accidentally dismiss.",
+    "pubDate": "Fri, 14 Aug 2026 16:21:04 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Maximizing the value of your Claude Code sessions",
+    "link": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+    "summary": "Article URL: https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions Comments URL: https://news.ycombinator.com/item?id=49300800 Points: 72 # Comments: 41",
+    "pubDate": "Fri, 14 Aug 2026 16:15:21 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Google will now allow users to remove visible watermark from its AI generations",
+    "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+    "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+    "pubDate": "Fri, 14 Aug 2026 16:13:40 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "RustDesk now supports true unattended remote access on Wayland",
+    "link": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+    "summary": "Article URL: https://rustdesk.com/blog/unattended-remote-access-wayland/ Comments URL: https://news.ycombinator.com/item?id=49300759 Points: 115 # Comments: 49",
+    "pubDate": "Fri, 14 Aug 2026 16:12:52 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Ars Live recap: How can we stop publishers from killing their own games?",
+    "link": "https://arstechnica.com/gaming/2026/08/ars-live-recap-how-can-we-stop-publishers-from-killing-their-own-games/",
+    "summary": "The Stop Killing Games movement faces an uphill battle.",
+    "pubDate": "Fri, 14 Aug 2026 16:11:37 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "What Next For Nigel Farage After The Clacton By-Election?",
+    "link": "https://www.bbc.co.uk/sounds/play/p0p38lpy?at_medium=RSS&at_campaign=rss",
+    "summary": "The parliamentary standards investigation into Farage's £5m gift has reopened.",
+    "pubDate": "Fri, 14 Aug 2026 16:07:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "France's top court blocks social media ban for under-15s",
+    "link": "https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/",
+    "summary": "Article URL: https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/ Comments URL: https://news.ycombinator.com/item?id=49300671 Points: 144 # Comments: 81",
+    "pubDate": "Fri, 14 Aug 2026 16:06:49 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "RayforceDB – a pure C analytics database with a Lisp-like syntax",
+    "link": "https://rayforcedb.com/",
+    "summary": "Article URL: https://rayforcedb.com/ Comments URL: https://news.ycombinator.com/item?id=49300615 Points: 26 # Comments: 14",
+    "pubDate": "Fri, 14 Aug 2026 16:02:20 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Glastonbury festival organiser dismisses rumours that Madonna will headline in 2027",
+    "link": "https://www.bbc.co.uk/news/articles/cqjx1wdkn81o?at_medium=RSS&at_campaign=rss",
+    "summary": "Emily Eavis says the festival has booked its headliners, but the Queen of Pop is \"definitely not\" among them.",
+    "pubDate": "Fri, 14 Aug 2026 16:01:11 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Bezos-backed consortium buys a third of Liverpool FC",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cx2vj4l9wxyo?at_medium=RSS&at_campaign=rss",
+    "summary": "Liverpool's owners agree to sell about a third of the club to a consortium including billionaire Amazon founder Jeff Bezos - in a deal that values the Reds at more than £5bn.",
+    "pubDate": "Fri, 14 Aug 2026 16:00:16 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "AI by Hand",
+    "link": "https://www.byhand.ai/",
+    "summary": "Article URL: https://www.byhand.ai/ Comments URL: https://news.ycombinator.com/item?id=49300568 Points: 81 # Comments: 9",
+    "pubDate": "Fri, 14 Aug 2026 15:58:59 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Judge gives Google one week to fix \"anticompetitive\" app store download in Google Play",
+    "link": "https://arstechnica.com/gadgets/2026/08/google-ordered-to-make-it-easier-to-download-alternative-android-app-stores/",
+    "summary": "Third-party app stores are about to become more visible in Google Play.",
+    "pubDate": "Fri, 14 Aug 2026 15:46:40 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+    "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+    "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&...",
+    "pubDate": "Fri, 14 Aug 2026 15:43:28 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Google is making private AI practical with homomorphic encryption",
+    "link": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+    "summary": "Article URL: https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/ Comments URL: https://news.ycombinator.com/item?id=49300314 Points: 112 # Comments: 77",
+    "pubDate": "Fri, 14 Aug 2026 15:43:10 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "R-rated director's cut of X-Files film restores Chris Carter's original horror vision",
+    "link": "https://arstechnica.com/culture/2026/08/r-rated-directors-cut-of-x-files-film-restores-chris-carters-original-horror-vision/",
+    "summary": "Chris Carter chats with Ars about the film he originally wanted to make—and why it's more relevant than ever.",
+    "pubDate": "Fri, 14 Aug 2026 15:18:22 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Introducing Toast 1",
+    "link": "https://www.mixedbread.com/blog/toast-1",
+    "summary": "Article URL: https://www.mixedbread.com/blog/toast-1 Comments URL: https://news.ycombinator.com/item?id=49299746 Points: 127 # Comments: 38",
+    "pubDate": "Fri, 14 Aug 2026 15:07:57 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Seven books I keep close because I love them",
+    "link": "https://blog.plover.com/2026/08/02/",
+    "summary": "Article URL: https://blog.plover.com/2026/08/02/ Comments URL: https://news.ycombinator.com/item?id=49299675 Points: 198 # Comments: 89",
+    "pubDate": "Fri, 14 Aug 2026 15:03:26 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Taylor Farms' connections to Trump admin spurs probe into Cyclospora response",
+    "link": "https://arstechnica.com/health/2026/08/taylor-farms-connections-to-trump-admin-spurs-probe-into-cyclospora-response/",
+    "summary": "Senator Warren questions whether Taylor Farms' influence swayed Trump admin.",
+    "pubDate": "Fri, 14 Aug 2026 15:03:16 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Self-hosted web push Cloudflare Worker, works on iOS",
+    "link": "https://kukuroo.cc/",
+    "summary": "Article URL: https://kukuroo.cc/ Comments URL: https://news.ycombinator.com/item?id=49299667 Points: 44 # Comments: 15",
+    "pubDate": "Fri, 14 Aug 2026 15:03:12 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "你初高中时的书单里，总有本「东野圭吾」吧？",
     "link": "https://sspai.com/post/113416",
     "summary": "纪念并且感谢他为我们留下的推理世界。 查看全文",
     "pubDate": "Fri, 14 Aug 2026 15:00:00 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "Qwen 3.8 27B",
+    "link": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+    "summary": "Article URL: https://huggingface.co/Qwen/Qwen3.8-27B-FP8 Comments URL: https://news.ycombinator.com/item?id=49299605 Points: 525 # Comments: 353",
+    "pubDate": "Fri, 14 Aug 2026 15:00:00 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
+    "link": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
+    "summary": "Tim O’Reilly built a publishing empire that AI is helping to destroy. Yet he loves AI—as long as it’s open source.",
+    "pubDate": "Fri, 14 Aug 2026 15:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Apple proposes to take a 15% cut of purchases made outside the App Store",
+    "link": "https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/",
+    "summary": "Apple is asking a federal judge to allow it to charge commissions of up to 15% on purchases made through external links in iOS apps.",
+    "pubDate": "Fri, 14 Aug 2026 14:54:48 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Kog is going deeper to squeeze more inference out of GPUs",
+    "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+    "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
+    "pubDate": "Fri, 14 Aug 2026 14:50:11 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Chris Mason: Where does this unorthodox by-election victory leave Nigel Farage?",
+    "link": "https://www.bbc.co.uk/news/articles/cvgvjnyz8k7o?at_medium=RSS&at_campaign=rss",
+    "summary": "As expected, the Reform UK leader easily won the Clacton by-election but was nowhere to be seen after the result.",
+    "pubDate": "Fri, 14 Aug 2026 14:50:02 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Earth.nullschool.net",
+    "link": "https://earth.nullschool.net/",
+    "summary": "Article URL: https://earth.nullschool.net/ Comments URL: https://news.ycombinator.com/item?id=49299364 Points: 37 # Comments: 14",
+    "pubDate": "Fri, 14 Aug 2026 14:42:23 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Every Fucking Website (2020)",
+    "link": "https://lxe.github.io/everywebsite/",
+    "summary": "Article URL: https://lxe.github.io/everywebsite/ Comments URL: https://news.ycombinator.com/item?id=49299222 Points: 611 # Comments: 351",
+    "pubDate": "Fri, 14 Aug 2026 14:31:08 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+    "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+    "summary": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
+    "pubDate": "Fri, 14 Aug 2026 14:27:14 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
+    "link": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
+    "summary": "Article URL: https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0 Comments URL: https://news.ycombinator.com/item?id=49299102 Points: 37 # Comments: 5",
+    "pubDate": "Fri, 14 Aug 2026 14:22:39 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
+    "link": "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
+    "summary": "Article URL: https://heyjonny.dev/posts/rss-to-eink-newspaper/ Comments URL: https://news.ycombinator.com/item?id=49299081 Points: 84 # Comments: 34",
+    "pubDate": "Fri, 14 Aug 2026 14:21:18 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "How Americans deceive ourselves about slavery",
+    "link": "https://www.npr.org/2026/08/14/nx-s1-5928227/how-americans-deceive-ourselves-about-slavery",
+    "summary": "Clint Smith's How the Word Is Passed explores how slavery is — and isn't — taught. And Above Ground includes poems to his children about what their ancestors endured and escaped. He spoke with Fresh Air in 2021 and 2023.",
+    "pubDate": "Fri, 14 Aug 2026 14:13:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "RISC-V: They Should Have Known Better",
+    "link": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+    "summary": "Comments",
+    "pubDate": "Fri, 14 Aug 2026 14:12:53 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "We implemented the IPv8 Internet-Draft in the Linux Kernel, Musl Libc, and BGP",
+    "link": "https://goonhost.rocks/blog/implementing-ipv8-internet-draft",
+    "summary": "Comments",
+    "pubDate": "Fri, 14 Aug 2026 14:05:12 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+    "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+    "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
+    "pubDate": "Fri, 14 Aug 2026 14:05:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "ActivityPub Won by Being Boring",
+    "link": "https://o.ee/blog/activitypub-won-by-being-boring/",
+    "summary": "Comments",
+    "pubDate": "Fri, 14 Aug 2026 13:44:17 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
@@ -576,11 +1040,27 @@
     "category": "general"
   },
   {
+    "title": "As speed cameras spread to more states, so does the backlash from drivers",
+    "link": "https://www.npr.org/2026/08/14/nx-s1-5927506/speed-cameras-ticket-backlash",
+    "summary": "Millions of drivers across the country are encountering speed cameras for the first time, or will soon. Some don't like it, but advocates say there's clear evidence that cameras make roads safer.",
+    "pubDate": "Fri, 14 Aug 2026 12:54:58 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "A pivotal day for Chelsea, Man City and Fernandez - what's going on?",
     "link": "https://www.bbc.co.uk/sport/football/articles/c7vgyrl2573o?at_medium=RSS&at_campaign=rss",
     "summary": "Chelsea's deadline to Manchester City for an Enzo Fernandez bid is 17:00 BST on Friday - will the deal happen?",
     "pubDate": "Fri, 14 Aug 2026 12:40:33 GMT",
     "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Is there a summer COVID-19 surge this year? Yep, it's ramping up again",
+    "link": "https://www.npr.org/2026/08/14/nx-s1-5927115/summer-vaccine-covid-19-surge",
+    "summary": "Just like all previous summers since the pandemic began, COVID-19 cases are ticking up again, even while other health threats make more headlines.",
+    "pubDate": "Fri, 14 Aug 2026 12:37:54 -0400",
+    "source": "NPR",
     "category": "general"
   },
   {
@@ -622,6 +1102,22 @@
     "pubDate": "Fri, 14 Aug 2026 12:17:27 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Mangione pleads guilty in federal court, leaving fate of state trial uncertain",
+    "link": "https://www.npr.org/2026/08/14/nx-s1-5930700/mangione-federal-charges-guilty-plea",
+    "summary": "Mangione has pleaded guilty to stalking charges in connection with the death of Brian Thompson, a health care executive. A separate judge will decide the future of Mangione's state trial.",
+    "pubDate": "Fri, 14 Aug 2026 12:05:24 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Thunderbird’s Desktop Calendar Visual Redesign",
+    "link": "https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/",
+    "summary": "Comments",
+    "pubDate": "Fri, 14 Aug 2026 12:03:04 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Best Wireless Chargers (2026): My Picks After Testing 100+",
@@ -680,6 +1176,14 @@
     "category": "general"
   },
   {
+    "title": "Unexpected (to me) behaviour in Lisp sub-typing",
+    "link": "https://simondobson.org/2026/08/07/strange-behaviour-in-lisp-sub-typing/",
+    "summary": "Comments",
+    "pubDate": "Fri, 14 Aug 2026 11:08:17 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "VAR, timewasting and subs - new rules for the new season",
     "link": "https://www.bbc.co.uk/sport/football/articles/ce85pje4gyqo?at_medium=RSS&at_campaign=rss",
     "summary": "The 2026-27 season will feature an unprecedented number of new laws, mostly designed to tackle tempo disruption and make the game quicker.",
@@ -720,12 +1224,28 @@
     "category": "general"
   },
   {
+    "title": "Guilt-Driven Development",
+    "link": "https://markuseliasson.se/article/guilt-driven-development",
+    "summary": "Comments",
+    "pubDate": "Fri, 14 Aug 2026 10:54:54 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "App+1 | 把图标收进格子，DeskBox 让桌面整洁有序",
     "link": "https://sspai.com/post/112279",
     "summary": "DeskBox 让 Windows 桌面上散落的文件、待办和临时信息，都有一个顺手的位置。 查看全文",
     "pubDate": "Fri, 14 Aug 2026 10:54:21 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "We learned 5 important things about the economy this week",
+    "link": "https://www.npr.org/2026/08/14/nx-s1-5929422/inflation-spending-economy-groceries-gas",
+    "summary": "From inflation, to credit card debt, to who's actually doing the spending: These are key takeaways from this week in economic news.",
+    "pubDate": "Fri, 14 Aug 2026 10:47:15 -0400",
+    "source": "NPR",
+    "category": "general"
   },
   {
     "title": "These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI",
@@ -742,6 +1262,14 @@
     "pubDate": "Fri, 14 Aug 2026 10:44:30 +0000",
     "source": "TechCrunch",
     "category": "tech"
+  },
+  {
+    "title": "The Taliban has taken a terrible toll on the education of girls -- and boys as well",
+    "link": "https://www.npr.org/2026/08/14/g-s1-138584/taliban-afghanistan-boys-girls-education-school",
+    "summary": "Saturday marks the 5th anniversary of the current Taliban rule in Aghanistan. They've had a devastating impact on girls' education. A lesser told story is their impact on the education of boys.",
+    "pubDate": "Fri, 14 Aug 2026 10:41:22 -0400",
+    "source": "NPR",
+    "category": "general"
   },
   {
     "title": "Best Pixel 10 Cases and Accessories (2026): Mous, dbrand, Bellroy",
@@ -766,6 +1294,14 @@
     "pubDate": "Fri, 14 Aug 2026 10:23:08 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "There Is Still No Silver Bullet",
+    "link": "https://cekrem.github.io/posts/there-is-still-no-silver-bullet/",
+    "summary": "Comments",
+    "pubDate": "Fri, 14 Aug 2026 10:18:11 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them",
@@ -973,6 +1509,14 @@
     "summary": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
     "pubDate": "Fri, 14 Aug 2026 07:00:56 GMT",
     "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Sen. Ruben Gallego on handling of USS Lincoln conditions: 'That's not proper leadership'",
+    "link": "https://www.npr.org/2026/08/14/nx-s1-5930365/uss-abraham-lincoln-iran-navy-ruben-gallego",
+    "summary": "Lawmakers want answers from the Pentagon chief and the U.S. Navy about living conditions aboard the USS Lincoln. NPR's Michel Martin speaks with Democratic Sen. Ruben Gallego of Arizona.",
+    "pubDate": "Fri, 14 Aug 2026 06:47:19 -0400",
+    "source": "NPR",
     "category": "general"
   },
   {
@@ -1256,6 +1800,70 @@
     "category": "general"
   },
   {
+    "title": "Samsung has new Galaxy headphones in the works",
+    "link": "https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones",
+    "summary": "Strings of code in Samsung's Galaxy Wearable app hint at an upcoming pair of over-ear headphones that could compete with the AirPods Max, SamMobile reports. Samsung's reportedly referring to the headphones as the \"Galaxy H1,\" and SamMobile says they could launch sometime in 2027. That would make ...",
+    "pubDate": "2026-08-14T15:18:45-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "A RAMageddon guide to back-to-school laptop shopping",
+    "link": "https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school",
+    "summary": "If you’re a student looking for an affordable laptop, I have bad news and I have good news. The bad news is that computer prices are out of whack due to the ongoing RAM and storage crunch, making some a little pricier than they used to be and others wildly more expensive. The good news? [&#8230;]",
+    "pubDate": "2026-08-14T14:32:47-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Lamborghini’s flagship Revuelto levels up with SV trim",
+    "link": "https://www.theverge.com/transportation/979807/lamborghini-revuelto-sv-specs-performance",
+    "summary": "A lot of automakers talk about wanting to minimize or eliminate driver distractions so as to make the experience of driving more rewarding and safer overall. Lamborghini has a different strategy; it wants the driver to become one with their vehicle. This helps explain the storied super car maker'...",
+    "pubDate": "2026-08-14T14:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "The X-Files creator Chris Carter wanted to make a more horrific movie",
+    "link": "https://www.theverge.com/entertainment/979925/the-x-files-chris-carter-vrach-frankenshteyn-interview-hulu",
+    "summary": "The version of The X-Files: I Want to Believe that premiered in 2008 was not exactly the movie co-writer / director Chris Carter intended to make. Carter wanted to bring agents Mulder and Scully back to the big screen with a grisly story about faith and the supernatural. But executives at 20th Ce...",
+    "pubDate": "2026-08-14T14:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Google&#8217;s best new camera feature is only for the Pixel 11 series",
+    "link": "https://www.theverge.com/tech/980467/google-pixel-11-camera-looks-older-phones",
+    "summary": "Arguably the coolest new photo feature for the Pixel 11 lineup is Google's new Camera Looks, which process image data differently at the sensor level to produce photos that don't have that \"smartphone\" look. The result is new styles like \"Digi,\" which mimics the style of photos taken by older dig...",
+    "pubDate": "2026-08-14T13:34:14-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Mark Zuckerberg has an Instagzam",
+    "link": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
+    "summary": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't even look like it spells Instagram anymore. And we cannot figure out why Instagram decided to do...",
+    "pubDate": "2026-08-14T12:54:16-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
+    "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+    "summary": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator, Flow. When toggled off, Google will remove the \"sparkle\" watermark that appe...",
+    "pubDate": "2026-08-14T12:39:32-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "2025 GOTY Clair Obscur: Expedition 33 is down to $33",
+    "link": "https://www.theverge.com/gadgets/980261/clair-obscur-pixel-11-gaming-laptop-4k-bluray-deal-sale",
+    "summary": "For RPG fans who dig Persona-style turn-based action and who are pursuing games with original stories and fantastic tunes, look no further than Clair Obscur: Expedition 33. This praise might come off sounding weird, but I really like that Sandfall Interactive’s breakout hit isn’t overly long comp...",
+    "pubDate": "2026-08-14T10:50:25-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
     "title": "CMF hit the balance between cheap and good clip earbuds",
     "link": "https://www.theverge.com/tech/979928/cmf-clip-pro-review",
     "summary": "Clip earbuds are an exercise in compromise. It's an inherent aspect of their design - and physics. They can be more comfortable for people that don't like something jammed in their ear, but sound response suffers. Ambient awareness is great because you can easily hear the sound around you, which ...",
@@ -1294,6 +1902,22 @@
     "pubDate": "2026-08-14T04:40:13-04:00",
     "source": "The Verge",
     "category": "tech"
+  },
+  {
+    "title": "Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
+    "link": "https://www.nature.com/articles/s41586-026-11023-3",
+    "summary": "Nature, Published online: 14 August 2026; doi:10.1038/s41586-026-11023-3 Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
+    "pubDate": "2026-08-14",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Briefing Chat: Anthropic rolls out new AI watermark — will it make a difference?",
+    "link": "https://www.nature.com/articles/d41586-026-02562-w",
+    "summary": "Nature, Published online: 14 August 2026; doi:10.1038/d41586-026-02562-w Nature staff discuss what flagging AI content may mean for research integrity — plus, how people from different cultural backgrounds have the same ‘tickle hotspots’ on the body.",
+    "pubDate": "2026-08-14",
+    "source": "Nature",
+    "category": "science"
   },
   {
     "title": "Publisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding",

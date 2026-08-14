@@ -120,6 +120,14 @@
     "category": "general"
   },
   {
+    "title": "Speeding Up (small) Ruby Hashes",
+    "link": "https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html",
+    "summary": "Comments",
+    "pubDate": "Thu, 13 Aug 2026 21:57:22 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Heroic Leigh defence denies table-toppers Leeds",
     "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c20e24knlx0o?at_medium=RSS&at_campaign=rss",
     "summary": "Leigh Leopards ruin Leeds Rhinos' perfect home record in Super League this season and pick up a vital two points in their hunt for a top-six spot.",
@@ -312,6 +320,14 @@
     "category": "tech"
   },
   {
+    "title": "A long division story",
+    "link": "https://kolja.rs/algorithm-d",
+    "summary": "Comments",
+    "pubDate": "Thu, 13 Aug 2026 18:09:16 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Let's not call it \"tech debt,\" it's just \"mess\"",
     "link": "https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/",
     "summary": "Comments",
@@ -334,6 +350,14 @@
     "pubDate": "Thu, 13 Aug 2026 17:53:53 +0000",
     "source": "Ars Technica",
     "category": "tech"
+  },
+  {
+    "title": "Hit hard by the earthquake in western Colombia, the mayor of Cali gets to work",
+    "link": "https://www.npr.org/2026/08/13/nx-s1-5930188/around-the-clock-search-continues-to-reach-victims-of-the-7-4-earthquake-in-colombia",
+    "summary": "Search efforts continue though hopes are fading as teams dig for survivors from the 7.4 magnitude earthquake that killed more than 250 people.",
+    "pubDate": "Thu, 13 Aug 2026 17:39:19 -0400",
+    "source": "NPR",
+    "category": "general"
   },
   {
     "title": "The new Instagram logo is the perfect embodiment of AI slop",
@@ -392,6 +416,14 @@
     "category": "tech"
   },
   {
+    "title": "App+1 | 把图标收进格子，DeskBox 让桌面整洁有序",
+    "link": "https://sspai.com/post/112279",
+    "summary": "DeskBox 让 Windows 桌面上散落的文件、待办和临时信息，都有一个顺手的位置。 查看全文",
+    "pubDate": "Fri, 14 Aug 2026 10:54:21 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
     "title": "派早报：深度求索推出开源 Agent 框架 DeepSeek Harness 及配套插件生态",
     "link": "https://sspai.com/post/113434",
     "summary": "阿里千问开放平台上线菜鸟智能体，Brave 和 Firefox 浏览器宣布将继续支持 uBlock Origin 扩展程序等。 查看全文",
@@ -400,12 +432,140 @@
     "category": "tech-cn"
   },
   {
+    "title": "Why Books Don't Work: Constructivism over Transmissionism (2021)",
+    "link": "https://www.masterhowtolearn.com/2021-01-30-why-books-dont-work-constructivism-over-transmissionism/",
+    "summary": "Article URL: https://www.masterhowtolearn.com/2021-01-30-why-books-dont-work-constructivism-over-transmissionism/ Comments URL: https://news.ycombinator.com/item?id=49295666 Points: 5 # Comments: 1",
+    "pubDate": "Fri, 14 Aug 2026 07:31:01 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Watch: Video shows scale of devastation in Stourbridge",
+    "link": "https://www.bbc.co.uk/news/videos/cz7d50q40v3o?at_medium=RSS&at_campaign=rss",
+    "summary": "Multiple fires tore through the West Midlands on Thursday, with firefighters still working to control the blazes.",
+    "pubDate": "Fri, 14 Aug 2026 07:26:53 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "'Unprecedented' rains in Japan kill six people",
+    "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+    "summary": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
+    "pubDate": "Fri, 14 Aug 2026 07:00:56 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Rising golf star, 18, dies after brain haemorrhage",
+    "link": "https://www.bbc.co.uk/sport/golf/articles/cp8elkd2353o?at_medium=RSS&at_campaign=rss",
+    "summary": "Promising Australian golfer Jessica Bang dies at the age of 18 after suffering a brain haemorrhage as she prepared for a tournament in Thailand.",
+    "pubDate": "Fri, 14 Aug 2026 06:43:17 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "New Zealand break with Oceania Football Confederation to withdraw Infantino support",
+    "link": "https://www.bbc.co.uk/sport/football/articles/crl7wdkxdd7o?at_medium=RSS&at_campaign=rss",
+    "summary": "New Zealand break rank with Oceania's football governing body to become the latest nation to withdraw support for Fifa president Gianni Infantino.",
+    "pubDate": "Fri, 14 Aug 2026 06:19:11 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
+    "link": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
+    "summary": "Article URL: https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain Comments URL: https://news.ycombinator.com/item?id=49295238 Points: 5 # Comments: 0",
+    "pubDate": "Fri, 14 Aug 2026 06:09:04 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "'She was just Gaynor from up the road' - villagers ready for emotional Bonnie Tyler goodbye",
+    "link": "https://www.bbc.co.uk/news/articles/c1m12vny944o?at_medium=RSS&at_campaign=rss",
+    "summary": "The Totally Eclipse of the Heart star went global, but villagers felt they all knew her personally.",
+    "pubDate": "Fri, 14 Aug 2026 06:00:30 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Farage's by-election victory won't stop questions about finances",
+    "link": "https://www.bbc.co.uk/news/articles/cvgwz9delwwo?at_medium=RSS&at_campaign=rss",
+    "summary": "Nigel Farage triggered the Clacton by-election and the result was predictable - so what did he achieve?",
+    "pubDate": "Fri, 14 Aug 2026 05:22:27 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "GLM-5.3: Frontier Coding with Emergent Cyber Capabilities",
+    "link": "https://z.ai/blog/glm-5.3",
+    "summary": "Article URL: https://z.ai/blog/glm-5.3 Comments URL: https://news.ycombinator.com/item?id=49294997 Points: 315 # Comments: 114",
+    "pubDate": "Fri, 14 Aug 2026 05:19:59 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "How Maresca's Man City are shaping up compared with Guardiola side",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c70g7dx63geo?at_medium=RSS&at_campaign=rss",
+    "summary": "Enzo Maresca has the difficult task of following Pep Guardiola at Manchester City. BBC Sport analyses the new manager's style and tactics from the pre-season games so far.",
+    "pubDate": "Fri, 14 Aug 2026 05:16:06 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "NHS service admits data breach due to pager use",
+    "link": "https://www.bbc.co.uk/news/articles/clyj92j210do?at_medium=RSS&at_campaign=rss",
+    "summary": "The medical data of transplant patients from across the UK was sent over an unencrypted pager network.",
+    "pubDate": "Fri, 14 Aug 2026 05:12:44 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "How a major oil slick started washing up on Iran's beaches",
+    "link": "https://www.bbc.co.uk/news/articles/cr7kpdkg13zo?at_medium=RSS&at_campaign=rss",
+    "summary": "Experts tell BBC Verify pollution has spread from a ship attacked on 3 August and threatens vulnerable wildlife.",
+    "pubDate": "Fri, 14 Aug 2026 05:01:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "US says dozens of countries helped China dodge Trump's tariffs",
+    "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+    "summary": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
+    "pubDate": "Fri, 14 Aug 2026 03:09:48 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "US conducted mass spying campaign against leftwing and anti-ICE protesters",
     "link": "https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters",
     "summary": "Article URL: https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters Comments URL: https://news.ycombinator.com/item?id=49294199 Points: 13 # Comments: 0",
     "pubDate": "Fri, 14 Aug 2026 02:39:10 +0000",
     "source": "Hacker News",
     "category": "tech"
+  },
+  {
+    "title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln",
+    "link": "https://www.npr.org/2026/08/14/nx-s1-5931183/new-aircraft-carrier-heads-toward-mideast-after-reports-of-issues-on-long-deployed-uss-lincoln",
+    "summary": "The Pacific-based aircraft carrier USS George Washington has begun heading toward the Middle East as reports have emerged of mental health and supply issues aboard the long-deployed USS Abraham Lincoln.",
+    "pubDate": "Fri, 14 Aug 2026 02:31:29 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Judge dismisses Trump administration lawsuit alleging antisemitism at Harvard University",
+    "link": "https://www.npr.org/2026/08/14/g-s1-138721/trump-antisemitism-harvard",
+    "summary": "The decision from U.S. District Judge Richard G. Stearns said that President Donald Trump's administration failed to prove an ongoing violation of federal civil rights laws.",
+    "pubDate": "Fri, 14 Aug 2026 02:15:54 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Judge drops Nevada case against electors accused of forging certificate in 2020 election",
+    "link": "https://www.npr.org/2026/08/14/nx-s1-5931179/judge-drops-nevada-case-against-electors-accused-of-forging-certificate-in-2020-election",
+    "summary": "The dismissal marks the latest setback in swing states' efforts to prosecute fake electors who tried to keep Trump in the White House after he lost to Joe Biden in 2020.",
+    "pubDate": "Fri, 14 Aug 2026 01:42:35 -0400",
+    "source": "NPR",
+    "category": "general"
   },
   {
     "title": "The Papers: 'Houses burn and train derails on hottest day' and 'Britain on fire'",

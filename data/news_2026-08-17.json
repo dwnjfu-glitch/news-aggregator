@@ -16,6 +16,14 @@
     "category": "tech"
   },
   {
+    "title": "SIMD in the 90s: Programming Intel's Pentium MMX",
+    "link": "https://pikuma.com/blog/programming-intel-pentium-mmx-simd",
+    "summary": "Comments",
+    "pubDate": "Sun, 16 Aug 2026 23:43:41 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "'I want my brother back' - Tupac’s brother tells BBC murder trial won’t bring justice",
     "link": "https://www.bbc.co.uk/news/videos/cj4kglpl55lo?at_medium=RSS&at_campaign=rss",
     "summary": "The BBC's Shaimaa Khalil sat down with Mopreme Shakur ahead of the trial for his brother and late rapper's 1996 murder.",
@@ -38,6 +46,14 @@
     "pubDate": "Sun, 16 Aug 2026 23:14:47 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "SCM_RIGHTS API quirks (2019)",
+    "link": "https://gist.github.com/kentonv/bc7592af98c68ba2738f4436920868dc",
+    "summary": "Comments",
+    "pubDate": "Sun, 16 Aug 2026 23:12:33 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "What has been the impact of new owners on The Hundred?",
@@ -240,12 +256,188 @@
     "category": "tech"
   },
   {
+    "title": "当陶瓷水杯遇上像素屏：PixelMug 体验",
+    "link": "https://sspai.com/post/113448",
+    "summary": "如今，伴随着科技和生产力的发展，许多曾经只存在于科幻作品里的创意都逐渐变成了现实。各种新奇酷炫的产品，也开始在人们的刚需之外提供不一样的解法。尤其是那些无关「生产力」、单纯为了让生活变得更有意思的产品 ... 查看全文",
+    "pubDate": "Mon, 17 Aug 2026 13:55:17 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "成年人包里的唯一一支笔：模块笔入门导购",
+    "link": "https://sspai.com/post/113445",
+    "summary": "如果你的包里想带一支笔以备不时之需，这支笔应该就是你想要的。 查看全文",
+    "pubDate": "Mon, 17 Aug 2026 11:00:00 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "'Are you not entertained?' - Hunt enters stardom with iconic quadruple",
+    "link": "https://www.bbc.co.uk/sport/athletics/articles/clyqqxgrdqqo?at_medium=RSS&at_campaign=rss",
+    "summary": "Amy Hunt asserts herself as Great Britain's new track sensation after winning an unprecedented four gold medals at the European Athletics Championships.",
+    "pubDate": "Mon, 17 Aug 2026 07:02:43 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Ukrainian strikes kill six in Russia, acting governor says",
+    "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+    "summary": "A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says.",
+    "pubDate": "Mon, 17 Aug 2026 06:57:23 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "派早报：😭（放声大哭）成为最流行 emoji",
     "link": "https://sspai.com/post/113524",
     "summary": "😭（放声大哭）成为最流行 emoji 美国要求合作方在中美 AI 竞赛中「选边站」 ChatGPT 上线使用历史记录功能 美国政府敦促苹果不要购买中国内存芯片 uBlock Origin 放弃维护 Facebook 广告规则 索尼加速向娱乐业务转型 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
     "pubDate": "Mon, 17 Aug 2026 06:54:56 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "Post-mortems to take place after five boys killed in crash on wrong side of motorway",
+    "link": "https://www.bbc.co.uk/news/articles/ce8lx172kero?at_medium=RSS&at_campaign=rss",
+    "summary": "Three women and a child who were in a second car are being treated in hospital for serious injuries.",
+    "pubDate": "Mon, 17 Aug 2026 06:48:29 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Dutch GP in pictures as F1 prepares for Zandvoort farewell",
+    "link": "https://www.bbc.co.uk/sport/formula1/articles/c0l58802270o?at_medium=RSS&at_campaign=rss",
+    "summary": "A selection of images from the Dutch Grand Prix, as Zandvoort prepares to host a Formula 1 race for the final time.",
+    "pubDate": "Mon, 17 Aug 2026 06:31:36 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Five in Five: Football quiz No 1",
+    "link": "https://www.bbc.co.uk/sport/football/articles/clyq749qwl5o?at_medium=RSS&at_campaign=rss",
+    "summary": "Will you beat the clock by getting all five of today's answers in five minutes?",
+    "pubDate": "Mon, 17 Aug 2026 06:04:20 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "$12B of US ratepayers' money wasted on a modeling mistake in PJM",
+    "link": "https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted",
+    "summary": "Article URL: https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted Comments URL: https://news.ycombinator.com/item?id=49326825 Points: 24 # Comments: 7",
+    "pubDate": "Mon, 17 Aug 2026 05:22:49 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Linear Algebra Done Right – Sheldon Axler",
+    "link": "https://linear.axler.net/",
+    "summary": "Article URL: https://linear.axler.net/ Comments URL: https://news.ycombinator.com/item?id=49326816 Points: 24 # Comments: 7",
+    "pubDate": "Mon, 17 Aug 2026 05:21:34 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Hundreds attend emotional Cambridge vigil for Jason Arday",
+    "link": "https://www.bbc.co.uk/news/articles/cpw9997g85vo?at_medium=RSS&at_campaign=rss",
+    "summary": "Those who gathered were asked to remember how Arday made a \"difference in our lives and in the lives of those around us\".",
+    "pubDate": "Mon, 17 Aug 2026 05:17:24 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Brook on Test captaincy, batting and Wellington",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/cwyee152xeqo?at_medium=RSS&at_campaign=rss",
+    "summary": "In an exclusive interview, England's Harry Brook says he supports Joe Root taking the Test captaincy, addresses frustrations about his batting and describes the Wellington nightclub incident fallout.",
+    "pubDate": "Mon, 17 Aug 2026 05:15:45 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Why don't men talk about using weight-loss drugs?",
+    "link": "https://www.bbc.co.uk/news/articles/clype1kv210o?at_medium=RSS&at_campaign=rss",
+    "summary": "Some men say they feel ashamed of needing to use weight-loss injections as it seems like \"cheating\".",
+    "pubDate": "Mon, 17 Aug 2026 05:12:18 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Drugs, violence and racism: A week in Glasgow city centre",
+    "link": "https://www.bbc.co.uk/news/articles/ckgdej0xxgyo?at_medium=RSS&at_campaign=rss",
+    "summary": "The BBC investigation claims that parts of Scotland’s biggest city have become a no-go zone because of crime, homelessness and antisocial behaviour.",
+    "pubDate": "Mon, 17 Aug 2026 05:03:50 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Parents pushed to breaking point by Child Maintenance Service, BBC told",
+    "link": "https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss",
+    "summary": "Mothers, like Katy, describe battles to make ex-partners pay, while fathers say they have been wrongly charged thousands.",
+    "pubDate": "Mon, 17 Aug 2026 05:03:31 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "If Meta loses this trial, Instagram and Facebook could change forever",
+    "link": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
+    "summary": "US states are suing the social media giant to force an overhaul of its platforms for young users.",
+    "pubDate": "Mon, 17 Aug 2026 05:00:25 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Ebola outbreak in DR Congo becomes deadliest in its history",
+    "link": "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss",
+    "summary": "The outbreak was already the fastest growing on record, caused by a rare species of Ebola called Bundibugyo.",
+    "pubDate": "Mon, 17 Aug 2026 04:41:31 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "GIMP Development Update",
+    "link": "https://www.gimp.org/news/2026/08/16/dev-update-august-2026/",
+    "summary": "Article URL: https://www.gimp.org/news/2026/08/16/dev-update-august-2026/ Comments URL: https://news.ycombinator.com/item?id=49326156 Points: 28 # Comments: 0",
+    "pubDate": "Mon, 17 Aug 2026 03:08:47 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Strong gravitational lensing and microlensing of supernovae (2024)",
+    "link": "https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5",
+    "summary": "Article URL: https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5 Comments URL: https://news.ycombinator.com/item?id=49326071 Points: 9 # Comments: 1",
+    "pubDate": "Mon, 17 Aug 2026 02:55:20 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "What are you doing this week?",
+    "link": "https://lobste.rs/s/5p0kgt/what_are_you_doing_this_week",
+    "summary": "What are you doing this week? Feel free to share! Keep in mind it’s OK to do nothing at all, too.",
+    "pubDate": "Mon, 17 Aug 2026 02:30:46 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Ferrari's first ever electric car sold for record $40m",
+    "link": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
+    "summary": "The Luce's launch drew backlash from some commentators who said it broke from the brand's signature dramatic styling.",
+    "pubDate": "Mon, 17 Aug 2026 02:22:04 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Rain on way for UK with temperatures to drop to overnight lows of 3C in some places",
+    "link": "https://www.bbc.co.uk/weather/articles/cy8eevy3zzxo?at_medium=RSS&at_campaign=rss",
+    "summary": "After and exceptional summer of heatwaves and drought, the weather will turn wetter and cooler this week, as Simon King explains",
+    "pubDate": "Mon, 17 Aug 2026 02:08:56 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Agents in Orbs",
+    "link": "https://ampcode.com/news/agents-in-orbs",
+    "summary": "Comments",
+    "pubDate": "Mon, 17 Aug 2026 01:49:34 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "AGI-64 Brings Sierra Adventures to the Commodore 64",
@@ -256,10 +448,34 @@
     "category": "tech"
   },
   {
+    "title": "Trump orders Pentagon to scale back joint exercises with South Korea",
+    "link": "https://www.npr.org/2026/08/17/g-s1-138969/trump-exercises-south-korea",
+    "summary": "President Trump explained the decision by saying South Korea had declined to help with the \"denuclearization\" of Iran and he cited his good relationship with North Korea's leader.",
+    "pubDate": "Mon, 17 Aug 2026 01:21:39 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Prolly: A content-addressed ordered map built on prolly trees",
+    "link": "https://github.com/crabbuild/prolly",
+    "summary": "Article URL: https://github.com/crabbuild/prolly Comments URL: https://news.ycombinator.com/item?id=49325458 Points: 32 # Comments: 1",
+    "pubDate": "Mon, 17 Aug 2026 01:00:45 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "Rhombus 1.1 is now available",
     "link": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
     "summary": "Article URL: https://blog.racket-lang.org/2026/08/rhombus-v1.1.html Comments URL: https://news.ycombinator.com/item?id=49325384 Points: 15 # Comments: 6",
     "pubDate": "Mon, 17 Aug 2026 00:48:21 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Applying a photosynthetic process to treat “dry eye”",
+    "link": "https://www.science.org/content/blog-post/taking-tip-plants-eyes",
+    "summary": "Article URL: https://www.science.org/content/blog-post/taking-tip-plants-eyes Comments URL: https://news.ycombinator.com/item?id=49325304 Points: 38 # Comments: 7",
+    "pubDate": "Mon, 17 Aug 2026 00:35:29 +0000",
     "source": "Hacker News",
     "category": "tech"
   },
@@ -301,6 +517,14 @@
     "summary": "Article URL: https://brennan.day/webmaster-a-manifesto-for-everyone/ Comments URL: https://news.ycombinator.com/item?id=49325092 Points: 10 # Comments: 3",
     "pubDate": "Mon, 17 Aug 2026 00:04:14 +0000",
     "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "I’m hooked on Peak Design’s new City bags",
+    "link": "https://www.theverge.com/tech/980137/peak-design-city-line-review",
+    "summary": "It's just a hook, sewn into a bag, but I really, really like it. Peak Design is so proud of its clever integration that the San Francisco-based maker of camera gear gave it a name: BagLev, for its ability to keep its new City Line of bags levitated above the dirty ground. How many of [&#8230;]",
+    "pubDate": "2026-08-17T03:00:00-04:00",
+    "source": "The Verge",
     "category": "tech"
   },
   {

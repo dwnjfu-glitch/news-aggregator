@@ -1,11 +1,331 @@
 [
   {
+    "title": "社区速递 154 | AI 代码助手大乱斗、租房电钻组合与神奇实体卡片故事机",
+    "link": "https://sspai.com/post/113593",
+    "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ... 查看全文",
+    "pubDate": "Tue, 18 Aug 2026 17:01:31 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "线下活动 | 爵士律动唤醒动漫回忆：炒饭 Fried Rice 音乐分享签售会",
+    "link": "https://sspai.com/post/113564",
+    "summary": "二次元加爵士，你说有没有搞头？音乐人介绍炒饭（B站），本职是常驻波士顿的程序员社畜，同时也是多乐器演奏音乐人、B站UP主。炒饭没有专业科班学习经历，却凭兴趣及自学掌握了多种音乐技能，专辑音乐均为自己在 ... 查看全文",
+    "pubDate": "Tue, 18 Aug 2026 15:05:05 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "App+1 | 让任务栏更有用：WindowSill",
+    "link": "https://sspai.com/post/113438",
+    "summary": "屏幕不是注意力中心的地方可以塞下多少有用的东西呢？ 查看全文",
+    "pubDate": "Tue, 18 Aug 2026 14:30:00 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "Root calls on England to be 'good human beings'",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/c80n49j85dxo?at_medium=RSS&at_campaign=rss",
+    "summary": "Joe Root calls on his England players to be \"really good role models and human beings\" at the start of his second reign as Test captain.",
+    "pubDate": "Tue, 18 Aug 2026 13:18:11 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Deus Ex creator Warren Spector is retiring from game development",
+    "link": "https://www.videogameschronicle.com/news/its-just-not-as-much-fun-for-me-anymore-deus-ex-creator-warren-spector-is-retiring-from-game-development/",
+    "summary": "Article URL: https://www.videogameschronicle.com/news/its-just-not-as-much-fun-for-me-anymore-deus-ex-creator-warren-spector-is-retiring-from-game-development/ Comments URL: https://news.ycombinator.com/item?id=49345070 Points: 12 # Comments: 2",
+    "pubDate": "Tue, 18 Aug 2026 13:06:24 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Daniel Ek’s body-scanning startup Neko Health opens first US office, in New York",
+    "link": "https://techcrunch.com/2026/08/18/daniel-eks-body-scanning-startup-neko-health-opens-first-us-office-in-new-york/",
+    "summary": "The scanning and bloodwork health startup founded by Spotify's founder will officially launch in New York in about a month.",
+    "pubDate": "Tue, 18 Aug 2026 13:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Can the Upcoming ‘Expanse’ Game Avoid ‘Mass Effect’s’ Biggest Mistake?",
+    "link": "https://www.wired.com/story/the-upcoming-expanse-game-has-to-make-some-hard-choices/",
+    "summary": "The universe may never tell you if your choices mattered. Owlcat’s Osiris Reborn might not either.",
+    "pubDate": "Tue, 18 Aug 2026 13:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Ferguson shipyard to cut a quarter of its workforce",
+    "link": "https://www.bbc.co.uk/news/articles/c20e2qe1lqpo?at_medium=RSS&at_campaign=rss",
+    "summary": "The state-owned yard on the Clyde will lose 70 of its 283 staff through a voluntary redundancy process.",
+    "pubDate": "Tue, 18 Aug 2026 12:56:34 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Using the railway network as a flatbed scanner",
+    "link": "https://philo.gay/linecam/",
+    "summary": "Article URL: https://philo.gay/linecam/ Comments URL: https://news.ycombinator.com/item?id=49344825 Points: 26 # Comments: 1",
+    "pubDate": "Tue, 18 Aug 2026 12:43:54 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Officers told not to pursue car on wrong side of motorway before crash, says Ireland's police body",
+    "link": "https://www.bbc.co.uk/news/articles/cj036d6vj09o?at_medium=RSS&at_campaign=rss",
+    "summary": "The Garda Representative Association said officers were given a command to \"disengage\" with the car after it took \"evasive action\".",
+    "pubDate": "Tue, 18 Aug 2026 12:43:36 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "British couple on honeymoon killed in helicopter crash on Greek island",
+    "link": "https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&at_campaign=rss",
+    "summary": "The newlyweds, named as Alexander Cromie and Marie Ebert, were killed alongside their Greek pilot.",
+    "pubDate": "Tue, 18 Aug 2026 12:43:09 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Fairphone is now officially available in the United States",
+    "link": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
+    "summary": "Article URL: https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more Comments URL: https://news.ycombinator.com/item?id=49344811 Points: 16 # Comments: 1",
+    "pubDate": "Tue, 18 Aug 2026 12:42:53 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "One dead and hundreds ill in UK salmonella outbreak",
+    "link": "https://www.bbc.co.uk/news/articles/cqx7vp77g0jo?at_medium=RSS&at_campaign=rss",
+    "summary": "Most of the cases were in England in recent weeks, linked to eating imported eggs, experts believe.",
+    "pubDate": "Tue, 18 Aug 2026 12:28:29 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "How soon will the drought be over?",
+    "link": "https://www.bbc.co.uk/news/articles/c0kmlrkypjpo?at_medium=RSS&at_campaign=rss",
+    "summary": "Rain has returned to parts of the UK this week but is it enough to end the drought some regions are facing?",
+    "pubDate": "Tue, 18 Aug 2026 12:26:05 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Meta Files Patent for Facial Recognition, Automatic Recording of People",
+    "link": "https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/",
+    "summary": "Article URL: https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/ Comments URL: https://news.ycombinator.com/item?id=49344654 Points: 30 # Comments: 6",
+    "pubDate": "Tue, 18 Aug 2026 12:23:55 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "PM says he's not embarrassed about hoax message exchange",
+    "link": "https://www.bbc.co.uk/news/articles/c5y34zrg668o?at_medium=RSS&at_campaign=rss",
+    "summary": "The PM communicated with a person posing as Susie Wiles, the chief of staff to Donald Trump.",
+    "pubDate": "Tue, 18 Aug 2026 12:22:58 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
+    "link": "https://twitter.com/kuberwastaken/status/2089377982536388964",
+    "summary": "Article URL: https://twitter.com/kuberwastaken/status/2089377982536388964 Comments URL: https://news.ycombinator.com/item?id=49344643 Points: 23 # Comments: 8",
+    "pubDate": "Tue, 18 Aug 2026 12:22:58 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "National Television Awards pick first all-female shortlist for drama acting award",
+    "link": "https://www.bbc.co.uk/news/articles/crk53pr44kjo?at_medium=RSS&at_campaign=rss",
+    "summary": "The five-strong list features Ella Bruccoleri, Sheridan Smith, Ruth Jones, Vicky McClure and Judy Parfitt.",
+    "pubDate": "Tue, 18 Aug 2026 11:57:42 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Saudi-hosted Esports Nations Cup delayed to 2027 as Iran conflict continues",
+    "link": "https://www.bbc.co.uk/news/articles/cr7kdp2edk0o?at_medium=RSS&at_campaign=rss",
+    "summary": "Organisers say postponing the contest will allow them to lay on the event fans deserve.",
+    "pubDate": "Tue, 18 Aug 2026 11:41:54 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "OpenAI makes ChatGPT less 'human' for teens in new safety update",
+    "link": "https://www.bbc.co.uk/news/articles/czxqz91n5n8o?at_medium=RSS&at_campaign=rss",
+    "summary": "OpenAI insisted this was not in response to a particular issue with children believing ChatGPT to be alive.",
+    "pubDate": "Tue, 18 Aug 2026 11:26:26 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Serco employee charged with misconduct over sharing asylum seeker addresses",
+    "link": "https://www.bbc.co.uk/news/articles/cly8mpp9r8no?at_medium=RSS&at_campaign=rss",
+    "summary": "The 62-year-old man is charged with misconduct in public office and appears before magistrates.",
+    "pubDate": "Tue, 18 Aug 2026 11:10:45 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Why is feeding deer in the Royal Parks dangerous?",
+    "link": "https://www.bbc.co.uk/news/articles/cx2dz18gkk2o?at_medium=RSS&at_campaign=rss",
+    "summary": "From safety risks to photography tips, here is what you need to know about the deer in London's Royal Parks.",
+    "pubDate": "Tue, 18 Aug 2026 11:09:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "As temperatures get hotter, pesticides are more dangerous to farmworkers",
+    "link": "https://arstechnica.com/science/2026/08/as-temperatures-get-hotter-pesticides-are-more-dangerous-to-farmworkers/",
+    "summary": "Research shows heat amplifies the dangers of pesticides.",
+    "pubDate": "Tue, 18 Aug 2026 11:07:49 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Reach Capital raises $265M Fund V to back AI founders building to ‘expand human potential’",
+    "link": "https://techcrunch.com/2026/08/18/reach-capital-raises-265m-fund-v-to-back-ai-founders-building-to-expand-human-potential/",
+    "summary": "Reach Capital announced Tuesday an oversubscribed $265M Fund V.",
+    "pubDate": "Tue, 18 Aug 2026 11:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Fairphone is launching its latest repairable phone in the US too",
+    "link": "https://techcrunch.com/2026/08/18/fairphone-is-launching-its-latest-repairable-phone-in-the-us-too/",
+    "summary": "The Fairphone 6+ is priced at $649 and will be available on Amazon.",
+    "pubDate": "Tue, 18 Aug 2026 11:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Wetherspoons bans customers playing music from phones in pubs",
+    "link": "https://www.bbc.co.uk/news/articles/cnvnl8gy22lo?at_medium=RSS&at_campaign=rss",
+    "summary": "The pub chain says the decision follows complaints about \"other people's videos and amplified phone conversations\".",
+    "pubDate": "Tue, 18 Aug 2026 10:53:52 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "7月音乐精选：夏天赠予我们的 9张专辑",
     "link": "https://sspai.com/post/113454",
     "summary": "编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ... 查看全文",
     "pubDate": "Tue, 18 Aug 2026 10:52:11 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "Why Fernandez uncertainty has echoes of Isak saga",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cx2dzj2w25vo?at_medium=RSS&at_campaign=rss",
+    "summary": "Enzo Fernandez's possible Manchester City move is following the pattern of Alexander Isak's transfer last summer - and creating headaches for Chelsea.",
+    "pubDate": "Tue, 18 Aug 2026 10:46:17 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Einride strikes deal to add 500 Tesla Semis to its fleet",
+    "link": "https://techcrunch.com/2026/08/18/einride-strikes-deal-to-add-500-tesla-semis-to-its-fleet/",
+    "summary": "Einride will buy the Tesla Semis, which will be made to Amazon and other customers.",
+    "pubDate": "Tue, 18 Aug 2026 10:30:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Exclusive: You Can Finally Buy a Fairphone—a Sustainable, Repairable Smartphone—in the US",
+    "link": "https://www.wired.com/story/you-can-finally-buy-a-fairphone-a-sustainable-repairable-smartphone-in-the-us/",
+    "summary": "More than a decade after launching in Europe, the Netherlands company is now selling its repairable phones in the US, starting with the Fairphone (Gen 6+).",
+    "pubDate": "Tue, 18 Aug 2026 10:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Can AI Coexist With Privacy? Proton’s Andy Yen Says It Will Have To",
+    "link": "https://www.wired.com/story/the-big-interview-podcast-andy-yen-proton/",
+    "summary": "Proton’s CEO is a champion of encryption for everyone. So why is he going all in on un-encryptable AI?",
+    "pubDate": "Tue, 18 Aug 2026 10:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Google buys crashed airline Spirit's data at auction, because AI",
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+    "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962 Comments URL: https://news.ycombinator.com/item?id=49343559 Points: 238 # Comments: 136",
+    "pubDate": "Tue, 18 Aug 2026 10:13:28 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Premier League to publish verdicts on referee and VAR decisions",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c98v0mrerz2o?at_medium=RSS&at_campaign=rss",
+    "summary": "The Premier League will publish the judgements of its Key Match Incidents Panel for the first time this season.",
+    "pubDate": "Tue, 18 Aug 2026 10:00:14 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Detroit startup Grounded raises $5M to customize electric and gas-powered vans",
+    "link": "https://techcrunch.com/2026/08/18/detroit-startup-grounded-raises-5m-to-customize-electric-and-gas-powered-vans/",
+    "summary": "The company has shifted from making van-life builds to custom outfitting vehicles for small businesses, all while the EV landscape in the US changed dramatically.",
+    "pubDate": "Tue, 18 Aug 2026 10:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "The Cop Who Took On Flock",
+    "link": "https://www.wired.com/story/the-cop-who-took-on-flock/",
+    "summary": "After Noel Pichardo called out his city's embrace of Flock surveillance cameras, he was subjected to five internal affairs investigations in less than two years.",
+    "pubDate": "Tue, 18 Aug 2026 10:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Kanye West announces tour dates in Russia",
+    "link": "https://www.bbc.co.uk/news/articles/cd9w4v1nx93o?at_medium=RSS&at_campaign=rss",
+    "summary": "The musician would be the first major Western artist to play Russia since the invasion of Ukraine.",
+    "pubDate": "Tue, 18 Aug 2026 09:55:47 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "AI to help planes avoid climate-warming vapour trails",
+    "link": "https://www.bbc.co.uk/news/articles/c62em5lpvnjo?at_medium=RSS&at_campaign=rss",
+    "summary": "A new UK trial hopes to reduce the condensation trails from planes, which can trap heat in the Earth's atmosphere.",
+    "pubDate": "Tue, 18 Aug 2026 09:26:41 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Best Merino Wool Clothing (2026): Base Layers, Hoodies, Jackets",
+    "link": "https://www.wired.com/story/best-merino-wool-clothes/",
+    "summary": "Merino is one of the best fabrics you can wear. We explain the different blends, what “GSM” means, and how to care for your clothes.",
+    "pubDate": "Tue, 18 Aug 2026 09:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "The Powerful Chinese AI Model Experts Warned About Is Here",
+    "link": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/",
+    "summary": "Z.ai’s latest AI model release could help companies secure their systems—or find its way into the hands of hackers.",
+    "pubDate": "Tue, 18 Aug 2026 09:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
+    "link": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&at_campaign=rss",
+    "summary": "The former heavyweight boxing champion shares a child with the Heroes actress, who died on Sunday.",
+    "pubDate": "Tue, 18 Aug 2026 08:44:10 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Newcastle complete £30m move for Benfica's Dedic",
+    "link": "https://www.bbc.co.uk/sport/football/articles/czekzxd09zlo?at_medium=RSS&at_campaign=rss",
+    "summary": "Newcastle United sign defender Amar Dedic from Benfica for around £30m.",
+    "pubDate": "Tue, 18 Aug 2026 08:33:04 GMT",
+    "source": "BBC News",
+    "category": "general"
   },
   {
     "title": "派早报：阿里巴巴出售灵犀互娱，Linux 7.2 内核稳定版发布等",
@@ -16,6 +336,46 @@
     "category": "tech-cn"
   },
   {
+    "title": "Linux 7.3 improves performance when running out of vRAM",
+    "link": "https://pixelcluster.dev/VRAM-Overcommit/",
+    "summary": "Article URL: https://pixelcluster.dev/VRAM-Overcommit/ Comments URL: https://news.ycombinator.com/item?id=49342719 Points: 303 # Comments: 99",
+    "pubDate": "Tue, 18 Aug 2026 07:51:50 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "U.S. and Iran miss peace talks deadline. And, Alaska, Florida and Wyoming primaries",
+    "link": "https://www.npr.org/2026/08/18/g-s1-139072/up-first-newsletter-iran-south-korea-jared-kushner-florida-wyoming-alaska-primaries-luigi-mangione",
+    "summary": "The U.S. and Iran missed a deadline to begin peace talks this week. The monthslong war has depleted U.S. resources. And, what to know about Alaska's U.S. Senate seat primary.",
+    "pubDate": "Tue, 18 Aug 2026 07:40:35 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "How I browse the Web with uBlock (Hard Mode)",
+    "link": "https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html",
+    "summary": "Comments",
+    "pubDate": "Tue, 18 Aug 2026 07:30:18 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Rethinking Database Programming",
+    "link": "https://acadia.engineering/blog/rethinking-database-programming",
+    "summary": "Article URL: https://acadia.engineering/blog/rethinking-database-programming Comments URL: https://news.ycombinator.com/item?id=49342530 Points: 123 # Comments: 58",
+    "pubDate": "Tue, 18 Aug 2026 07:28:27 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Finger: Social network that never died",
+    "link": "https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/",
+    "summary": "Article URL: https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/ Comments URL: https://news.ycombinator.com/item?id=49342472 Points: 61 # Comments: 24",
+    "pubDate": "Tue, 18 Aug 2026 07:21:35 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "China censors public mourning as it holds former premier's funeral",
     "link": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss",
     "summary": "While hailing Zhu’s legacy, authorities are wary that the nostalgia could lead to criticisms of Xi’s rule.",
@@ -24,12 +384,28 @@
     "category": "general"
   },
   {
+    "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+    "link": "https://arxiv.org/pdf/2608.13759",
+    "summary": "High-performance GPU programming has traditionally forced a compromise between execution efficiency and memory safety. While Rust guarantees compile-time memory safety for host CPUs via its strict ownership model, applying these constraints to massively parallel GPU execution environments has pre...",
+    "pubDate": "Tue, 18 Aug 2026 07:16:41 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Could refreshed Odegaard be like a new signing?",
     "link": "https://www.bbc.co.uk/sport/football/articles/c2lq80lwwpdo?at_medium=RSS&at_campaign=rss",
     "summary": "The Arsenal captain had a hugely frustrating 2025-26 season despite leading his team to the title - but now appears fit and refreshed.",
     "pubDate": "Tue, 18 Aug 2026 07:14:06 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Tsampi BFT: Leaderless One-Round Voting with Parameterized Finality",
+    "link": "https://www.tsampi.com/tsampi-bft-1.1.pdf",
+    "summary": "Tsampi BFT is a leaderless Byzantine fault-tolerant state-replication protocol with one Vote round per Proposed Block and exact-lineage finality in as few as two later Blocks. Its dual-linked Vote chain records both Block-lineage causality and each Validator's endorsement order. Earlier Votes are...",
+    "pubDate": "Tue, 18 Aug 2026 07:10:59 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Manslaughter charge after man's dog bite death",
@@ -80,6 +456,22 @@
     "category": "general"
   },
   {
+    "title": "The grueling fight over who profits from AI music",
+    "link": "https://www.npr.org/sections/planet-money/2026/08/18/g-s1-138852/grueling-fight-over-who-profits-from-ai-music",
+    "summary": "AI can generate songs in seconds. But behind every AI track is a complicated question: Who should get paid? And, how? The fights have started.",
+    "pubDate": "Tue, 18 Aug 2026 06:30:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Haaland's main rivals for the Premier League Golden Boot",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cvgwjgxend0o?at_medium=RSS&at_campaign=rss",
+    "summary": "Erling Haaland will hope for a record-equalling fourth Golden Boot this season - but who could challenge him as the Premier League's top-scorer?",
+    "pubDate": "Tue, 18 Aug 2026 06:11:55 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "Five in Five: Football quiz No 2",
     "link": "https://www.bbc.co.uk/sport/football/articles/c4gw6k476elo?at_medium=RSS&at_campaign=rss",
     "summary": "Will you beat the clock by getting all five of today's answers in five minutes?",
@@ -92,6 +484,22 @@
     "link": "https://www.bbc.co.uk/sport/football/articles/c1l197j4gvro?at_medium=RSS&at_campaign=rss",
     "summary": "BBC Sport TV and radio commentators identify the players they think could be the breakout stars of the new Premier League season.",
     "pubDate": "Tue, 18 Aug 2026 05:49:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "In Portland, this soap box derby combines downhill speed with extreme pageantry",
+    "link": "https://www.npr.org/2026/08/18/nx-s1-5935518/portland-oregon-soap-box-derby-race-pdx",
+    "summary": "Soap box derbies send motorless cars down a steep incline. At one event, contestants make their cars look like cartoon characters, subway cars, food, and giant animals (among other outlandish shapes).",
+    "pubDate": "Tue, 18 Aug 2026 05:30:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Man who rates benches on Instagram finally finds his 10/10",
+    "link": "https://www.bbc.co.uk/news/articles/cp8x9lz0zp2o?at_medium=RSS&at_campaign=rss",
+    "summary": "Rate This Bench founder Sam Wilmot says his favourite bench is in a South Gloucestershire churchyard.",
+    "pubDate": "Tue, 18 Aug 2026 05:09:38 GMT",
     "source": "BBC News",
     "category": "general"
   },
@@ -120,6 +528,46 @@
     "category": "general"
   },
   {
+    "title": "Many recent grads say AI is making it harder to get a job. Economists aren't so sure",
+    "link": "https://www.npr.org/2026/08/18/nx-s1-5910677/recent-college-graduates-employment-job-artificial-intelligence",
+    "summary": "The unemployment rate for young adults with new degrees is higher than the rate for all workers, according to the New York Fed. Is AI the problem, or is it more complicated?",
+    "pubDate": "Tue, 18 Aug 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "This crowded Republican primary in Florida has drawn a unique cast of candidates",
+    "link": "https://www.npr.org/2026/08/18/nx-s1-5930699/florida-republican-19th-district-carpetbaggers",
+    "summary": "The GOP primary in Florida's 19th District includes candidates who are new to the state, candidates who've run for Congress before and two candidates who have received pardons from President Trump.",
+    "pubDate": "Tue, 18 Aug 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
+    "link": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
+    "summary": "A 29-year-old woman confided her suicidal thoughts to an AI chatbot — not to her therapist, not to her parents, not to her best friend. What can AI learn from her death?",
+    "pubDate": "Tue, 18 Aug 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Exercise intensity modulates interorgan communication and is associated with",
+    "link": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue",
+    "summary": "Article URL: https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue Comments URL: https://news.ycombinator.com/item?id=49341411 Points: 64 # Comments: 32",
+    "pubDate": "Tue, 18 Aug 2026 04:51:33 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Morning news brief",
+    "link": "https://www.npr.org/2026/08/18/nx-s1-5931251/morning-news-brief",
+    "summary": "Jared Kushner and Israel's prime minister meet in attempt to move Gaza ceasefire plan forward, U.S. focus on Iran draws key resources from Asia, voters head to the polls for primaries Tuesday.",
+    "pubDate": "Tue, 18 Aug 2026 04:41:19 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "Watch: What we learned from opening statements in Tupac murder trial",
     "link": "https://www.bbc.co.uk/news/videos/cevmw1pl9kvo?at_medium=RSS&at_campaign=rss",
     "summary": "The BBC's Shaimaa Khalil breaks down the key arguments as the long-awaited trial gets under way.",
@@ -133,6 +581,14 @@
     "summary": "Practices shifted from individuals buried in coffins to reusing sites for later mummy interments.",
     "pubDate": "Tue, 18 Aug 2026 04:00:40 +0000",
     "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Biboumi – XMPP gateway to IRC",
+    "link": "https://biboumi.codeberg.page/doc/",
+    "summary": "Comments",
+    "pubDate": "Tue, 18 Aug 2026 02:37:53 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -332,6 +788,14 @@
     "link": "https://actualbudget.org/",
     "summary": "Comments",
     "pubDate": "Mon, 17 Aug 2026 21:46:21 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Selective Applicative Functors",
+    "link": "https://blog.veritates.love/selective-applicatives-theoretical-basis",
+    "summary": "Comments",
+    "pubDate": "Mon, 17 Aug 2026 21:36:25 -0500",
     "source": "Lobsters",
     "category": "tech"
   },
@@ -624,6 +1088,158 @@
     "category": "general"
   },
   {
+    "title": "Polaroid’s new Pokémon collection captures memories, not Pikachus",
+    "link": "https://www.theverge.com/tech/981141/polaroid-pokemon-pikachu-now-go-generation-3-instant-camera-film",
+    "summary": "Polaroid announced a new collection of cameras, instant film, and accessories all featuring limited-edition designs to help celebrate the 30th anniversary of Pok&#233;mon. The new collection goes a little harder than Fujifilm's Pok&#233;mon collaboration from five years ago with the introduction ...",
+    "pubDate": "2026-08-18T09:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Firefox&#8217;s Smart Window promises a better AI browser",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+    "summary": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa. Smart Window can also now automatically suggest tab groups and show visual previews of pages you previously visited when you s...",
+    "pubDate": "2026-08-18T09:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Google&#8217;s Pet Memory forgot who my cats are",
+    "link": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
+    "summary": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters. But the barrage of notifications they send often means I miss important ones. So, when Google announced its new Pet Memory feature for Gemini ...",
+    "pubDate": "2026-08-18T08:01:29-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "The Verge Guide to Pets",
+    "link": "https://www.theverge.com/tech/975556/pets-tech-autofeeder-litter-robot-scale",
+    "summary": "Ah, the relationship between animals and the technology they can’t quite understand.&#160; Today, it seems like there’s a high-tech solution to every element of pet ownership, with devices on the market designed to keep pets fed, cleaned, watched over, and entertained. And if you have a pet you k...",
+    "pubDate": "2026-08-18T08:01:28-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "My parrot ate my keyboard",
+    "link": "https://www.theverge.com/tech/978402/parrot-ate-keyboard-protect",
+    "summary": "One of the great joys in life is having pets. The unconditional love, the snuggles, the excitement they show when you get home - these things add an emotional fulfillment to daily existence that can't be achieved in another way. I think everyone's life would be better with a pet (or two) in their...",
+    "pubDate": "2026-08-18T08:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Oops! My cat is an iPad kid",
+    "link": "https://www.theverge.com/tech/980226/cat-ipad-kid-pet-tech-games-youtube",
+    "summary": "Pets, like children, come with the responsibility to keep them happy, healthy, and mentally stimulated - obligations I readily committed to before getting my cat, Trevor. I work from home, so he's never lonely, and play with him using a mountain of toys at every opportunity outside of my working ...",
+    "pubDate": "2026-08-18T07:30:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "How I turned my fish tank high tech",
+    "link": "https://www.theverge.com/tech/978229/fish-tank-tech",
+    "summary": "When I was a kid, I owned two goldfish that eventually outgrew the size of their tank. At the time, I didn't realize just how much actually goes into having fish and keeping them healthy. I've learned a lot over the past couple of years while keeping nano fish - a group of five celestial [&#8230;]",
+    "pubDate": "2026-08-18T07:15:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Fairphone’s latest repairable phone is going on sale in the US",
+    "link": "https://www.theverge.com/tech/980876/fairphone-6-plus-us-t-mobile-amazon",
+    "summary": "The Fairphone 6 Plus is a minor hardware refresh, but a major launch for the company: It's the first phone that Fairphone is selling directly in the US. It's on sale now for $649.99, available through Fairphone's website and Amazon, and is sold unlocked with support for both T-Mobile and AT&#38;T...",
+    "pubDate": "2026-08-18T07:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Elon Musk made flying even worse so Palantir could profit",
+    "link": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
+    "summary": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's 330,000 square mile, nine-state airspace sector. Two days earlier, on August 4th, President Donald Trump departed th...",
+    "pubDate": "2026-08-18T07:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "ChatGPT is getting a dedicated mode for teens",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
+    "summary": "OpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof. The launch comes amid mounting public scrutiny over how AI tools affect younger users, as other platforms implement their own age checks and teen-specific prot...",
+    "pubDate": "2026-08-18T07:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Heatwaves expose weak links in food systems",
+    "link": "https://www.nature.com/articles/d41586-026-02577-3",
+    "summary": "Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-02577-3 Heatwaves expose weak links in food systems",
+    "pubDate": "2026-08-18",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Treat biological databases as infrastructure, not projects",
+    "link": "https://www.nature.com/articles/d41586-026-02575-5",
+    "summary": "Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-02575-5 Treat biological databases as infrastructure, not projects",
+    "pubDate": "2026-08-18",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Europe must adapt to live with megafires",
+    "link": "https://www.nature.com/articles/d41586-026-02578-2",
+    "summary": "Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-02578-2 Europe must adapt to live with megafires",
+    "pubDate": "2026-08-18",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Asia’s longevity gains must be translated into better health",
+    "link": "https://www.nature.com/articles/d41586-026-02576-4",
+    "summary": "Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-02576-4 Asia’s longevity gains must be translated into better health",
+    "pubDate": "2026-08-18",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "How to get the most out of an informational interview",
+    "link": "https://www.nature.com/articles/d41586-026-01932-8",
+    "summary": "Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-01932-8 These informal meetings can help you to explore new career opportunities, but there is a knack to getting them right.",
+    "pubDate": "2026-08-18",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Will you be wearing an exoskeleton in ten years? The tech that could change how we move",
+    "link": "https://www.nature.com/articles/d41586-026-02527-z",
+    "summary": "Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-02527-z Robotic supports were once designed for clinical use, but researchers are now developing cheaper, smaller devices aimed at everyone — from people with ageing knees to 20-somethings seeking to climb mountains.",
+    "pubDate": "2026-08-18",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Mathematics holds the secret to ‘ladder-proof’ knitting",
+    "link": "https://www.nature.com/articles/d41586-026-02466-9",
+    "summary": "Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-02466-9 A topological description of ‘knittability’ can be used to design yarn patterns that are resistant to unravelling.",
+    "pubDate": "2026-08-18",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Five ways 3D printing is improving lab work",
+    "link": "https://www.nature.com/articles/d41586-026-02535-z",
+    "summary": "Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-02535-z As 3D printers become cheaper and easier to work with, researchers are finding new ways to incorporate the technology in their studies.",
+    "pubDate": "2026-08-18",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "How the Middle East can become a hub for sustainable aviation fuels",
+    "link": "https://www.nature.com/articles/d41586-026-02531-3",
+    "summary": "Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-02531-3 Building on the region’s oil infrastructure, investment funds and shipping corridors, Gulf nations can thrive in the clean-energy economy.",
+    "pubDate": "2026-08-18",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
     "title": "Reddit’s AI is turning posts into podcasts and short videos",
     "link": "https://www.theverge.com/tech/981289/reddit-ai-text-video-posts",
     "summary": "Reddit is trying out a new way for people to take in content on Reddit: by turning text posts into audio / video content. As part of an experiment, some posts are being adapted into videos that use AI voices to read the text of the main post and some comments. The video highlights the [&#8230;]",
@@ -646,5 +1262,13 @@
     "pubDate": "2026-08-17T15:27:49-04:00",
     "source": "The Verge",
     "category": "tech"
+  },
+  {
+    "title": "Daily briefing: Narcolepsy drug could kick off an Ozempic-style moment for the brain",
+    "link": "https://www.nature.com/articles/d41586-026-02589-z",
+    "summary": "Nature, Published online: 17 August 2026; doi:10.1038/d41586-026-02589-z Emerging treatments known as orexin agonists show wide-ranging promise similar to that of GLP-1 receptor agonists. Plus, postdocs protest in Argentina and the highest-resolution image ever of the Sun’s photosphere.",
+    "pubDate": "2026-08-17",
+    "source": "Nature",
+    "category": "science"
   }
 ]

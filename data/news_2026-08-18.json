@@ -1,11 +1,307 @@
 [
   {
+    "title": "Show HN: PantheonGPU – GPU health testing and AI workload benchmarking",
+    "link": "https://pantheongpu.com/",
+    "summary": "Hi HN, I built PantheonGPU because I wanted a better way to answer a simple question: is this GPU actually healthy and performing the way it should? A GPU can show normal temperatures and utilization and still be underperforming, unstable under certain workloads, or have memory, PCIe, or configur...",
+    "pubDate": "Tue, 18 Aug 2026 18:47:51 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Garmin Watches Are Up to $250 Off Right Now On Amazon (2026)",
+    "link": "https://www.wired.com/story/garmin-deals-august-2026/",
+    "summary": "Save $250 off the Garmin Fenix 8, plus discounts on other popular fitness trackers from the brand.",
+    "pubDate": "Tue, 18 Aug 2026 18:42:17 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
+    "link": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
+    "summary": "The ChatGPT maker says its upcoming Astra model may have reached “critical” cyber capabilities, prompting it to halt a significant number of training runs while it tightens internal safeguards.",
+    "pubDate": "Tue, 18 Aug 2026 18:33:11 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Global borrowing costs hit fresh highs on oil, AI and inflation",
+    "link": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&at_campaign=rss",
+    "summary": "Interest rates on long-term US, UK, German and Japanese government debt have soared.",
+    "pubDate": "Tue, 18 Aug 2026 18:20:08 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Rodri ready for 'excitement again' after Barca complete £65m deal",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c2k7w3vwv5yo?at_medium=RSS&at_campaign=rss",
+    "summary": "Barcelona sign Spain midfielder Rodri, the player of the 2026 World Cup, from Manchester City after a trophy-laden seven years with the Premier League club.",
+    "pubDate": "Tue, 18 Aug 2026 18:14:01 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "How does IKEA come up with names for its products?",
+    "link": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+    "summary": "Article URL: https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html Comments URL: https://news.ycombinator.com/item?id=49349984 Points: 52 # Comments: 26",
+    "pubDate": "Tue, 18 Aug 2026 18:11:53 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Turbovec – Google's TurboQuant for vector search in Rust",
+    "link": "https://github.com/RyanCodrai/turbovec",
+    "summary": "Article URL: https://github.com/RyanCodrai/turbovec Comments URL: https://news.ycombinator.com/item?id=49349898 Points: 42 # Comments: 8",
+    "pubDate": "Tue, 18 Aug 2026 18:07:21 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "OpenAI institutes new safeguards after Hugging Face breach",
+    "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+    "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
+    "pubDate": "Tue, 18 Aug 2026 18:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Aston Villa agree deal for West Ham's Wan-Bissaka",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cgr7vvpkw0eo?at_medium=RSS&at_campaign=rss",
+    "summary": "Aston Villa agree to sign West Ham defender Aaron Wan-Bissaka on an initial loan deal with an obligation to buy at the end of the season.",
+    "pubDate": "Tue, 18 Aug 2026 17:56:13 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
+    "link": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss",
+    "summary": "Lindsay Clancy has admitted killing her daughter and two sons but has pleaded not guilty to murder, saying she was experiencing postpartum psychosis.",
+    "pubDate": "Tue, 18 Aug 2026 17:54:46 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21",
+    "link": "https://techcrunch.com/2026/08/18/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
+    "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
+    "pubDate": "Tue, 18 Aug 2026 17:31:01 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Show HN: macOS data protection keychain for Electron apps",
+    "link": "https://github.com/biw/keychain-store",
+    "summary": "Hey HN, I've been working on Hansel [1] (an encrypted personal data store you can query with agents), and there wasn't a good way to use the modern macOS Data Protection Keychain. Electron's safeStorage [2] uses the legacy file-based keychain, which allows other apps/agents to query it with the `...",
+    "pubDate": "Tue, 18 Aug 2026 17:25:19 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
+    "link": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
+    "summary": "Article URL: https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban Comments URL: https://news.ycombinator.com/item?id=49349147 Points: 148 # Comments: 162",
+    "pubDate": "Tue, 18 Aug 2026 17:24:53 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Etched’s valuation doubles to $21B in a month",
+    "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+    "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
+    "pubDate": "Tue, 18 Aug 2026 17:21:58 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Earthquake rocks Spain's historic Granada, injuring three",
+    "link": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
+    "summary": "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has temporarily closed.",
+    "pubDate": "Tue, 18 Aug 2026 17:15:39 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Apple overhauls its EU App Store fees, loosens rules for alternative app stores",
+    "link": "https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/",
+    "summary": "Apple is simplifying its EU App Store fees, replacing its per-install fee with a 5% commission for apps distributed outside the App Store and making it easier for developers to operate alternative app marketplaces.",
+    "pubDate": "Tue, 18 Aug 2026 17:12:13 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "And then the men with guns tell you to do it anyway",
+    "link": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
+    "summary": "Article URL: https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/ Comments URL: https://news.ycombinator.com/item?id=49348912 Points: 29 # Comments: 1",
+    "pubDate": "Tue, 18 Aug 2026 17:11:28 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Claude Code May–August 2026 weekly limits promotion",
+    "link": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+    "summary": "Article URL: https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion Comments URL: https://news.ycombinator.com/item?id=49348751 Points: 214 # Comments: 160",
+    "pubDate": "Tue, 18 Aug 2026 17:02:15 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "社区速递 154 | AI 代码助手大乱斗、租房电钻组合与神奇实体卡片故事机",
     "link": "https://sspai.com/post/113593",
     "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ... 查看全文",
     "pubDate": "Tue, 18 Aug 2026 17:01:31 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "Peacock raises prices by 18 percent after becoming profitable",
+    "link": "https://arstechnica.com/gadgets/2026/08/peacock-raises-prices-by-18-percent-after-becoming-profitable/",
+    "summary": "Peacock's quarterly profitability isn't guaranteed.",
+    "pubDate": "Tue, 18 Aug 2026 16:42:30 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Root's great challenge to finish captaincy story",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/cd69881454vo?at_medium=RSS&at_campaign=rss",
+    "summary": "Joe Root has an unexpected chance to address some unfinished business as England captain, but it is one of the biggest challenges of his stellar career.",
+    "pubDate": "Tue, 18 Aug 2026 16:41:31 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Diesel Margins Top $100 a Barrel to Reach Record High as Supply Crunch Grows",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-18/diesel-margins-top-100-a-barrel-to-reach-record-high-as-supply-crunch-grows",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-18/diesel-margins-top-100-a-barrel-to-reach-record-high-as-supply-crunch-grows Comments URL: https://news.ycombinator.com/item?id=49348356 Points: 46 # Comments: 16",
+    "pubDate": "Tue, 18 Aug 2026 16:40:07 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Comcast adds motion sensing to millions of its newer routers, with a privacy catch",
+    "link": "https://techcrunch.com/2026/08/18/comcast-adds-motion-sensing-to-millions-of-its-newer-routers-with-a-privacy-catch/",
+    "summary": "A new feature added to Comcast's newest routers can detect if there is motion is inside your home without needing traditional motion sensors.",
+    "pubDate": "Tue, 18 Aug 2026 16:39:05 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "The United States is about to wake up to the threat from China's space program",
+    "link": "https://arstechnica.com/space/2026/08/the-united-states-is-about-to-wake-up-to-the-threat-from-chinas-space-program/",
+    "summary": "One big question: Will China assert territorial rights where its rover explores?",
+    "pubDate": "Tue, 18 Aug 2026 16:30:07 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Snooker player Graeme Dott goes on trial over child abuse allegations",
+    "link": "https://www.bbc.co.uk/news/articles/cn0njnw6rdgo?at_medium=RSS&at_campaign=rss",
+    "summary": "The 2006 world champion is accused of lewd and libidinous behaviour towards a girl and a boy in Glasgow and South Lanarkshire.",
+    "pubDate": "Tue, 18 Aug 2026 16:28:26 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Superpowers, Not Superintelligence",
+    "link": "https://bond.now/news/superpowers-not-superintelligence",
+    "summary": "Article URL: https://bond.now/news/superpowers-not-superintelligence Comments URL: https://news.ycombinator.com/item?id=49348152 Points: 25 # Comments: 27",
+    "pubDate": "Tue, 18 Aug 2026 16:27:41 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
+    "link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+    "summary": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
+    "pubDate": "Tue, 18 Aug 2026 16:19:10 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Premier League chief says Fifa self-destructed over World Cup plan",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cgjeqez58wno?at_medium=RSS&at_campaign=rss",
+    "summary": "Premier League chief executive Richard Masters has criticised Fifa president Gianni Infantino's World Cup sell-off plan, saying the organisation has \"pressed the self-destruct button\" by delivering \"a self-inflicted wound\".",
+    "pubDate": "Tue, 18 Aug 2026 16:18:37 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Prevent scheme not helping children fixated with violence, children's commissioner says",
+    "link": "https://www.bbc.co.uk/news/articles/c4gkd08dp7po?at_medium=RSS&at_campaign=rss",
+    "summary": "Growing numbers of children referred to the government's counter-terror programme are not suitable for it and need help, Dame Rachel de Souza warns.",
+    "pubDate": "Tue, 18 Aug 2026 16:09:01 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Fairphone's latest repairable phone is finally available in the US for $650",
+    "link": "https://arstechnica.com/gadgets/2026/08/fairphone-brings-the-repairable-fairphone-gen-6-to-the-us/",
+    "summary": "Fairphone sells components like the USB port and screen, all swappable with a single torx driver.",
+    "pubDate": "Tue, 18 Aug 2026 16:05:00 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Bluesky says its recent outage was caused by another DDoS attack",
+    "link": "https://techcrunch.com/2026/08/18/bluesky-says-its-recent-outage-was-caused-by-another-ddos-attack/",
+    "summary": "This is the latest large-scale DDoS attack to hit the social networking site this year.",
+    "pubDate": "Tue, 18 Aug 2026 15:59:48 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Ford hopes this Hypercar will be its next Le Mans winner",
+    "link": "https://arstechnica.com/cars/2026/08/ford-hopes-this-hypercar-will-be-its-next-le-mans-winner/",
+    "summary": "The American automaker returns to the top category of endurance racing next year.",
+    "pubDate": "Tue, 18 Aug 2026 15:52:50 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Tarling death shows risks of smaller races - Vaughters",
+    "link": "https://www.bbc.co.uk/sport/cycling/articles/cddjv2jn846o?at_medium=RSS&at_campaign=rss",
+    "summary": "Riders are risking their lives in races where organisers battle huge costs, and cycling's governing body \"cannot keep traffic off the roads\", according to former rider and team boss Jonathan Vaughters.",
+    "pubDate": "Tue, 18 Aug 2026 15:52:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Viral Disneyland Content Creator Defends Her ‘Special Friendship’ With Peter Pan",
+    "link": "https://www.wired.com/story/viral-disneyland-content-creator-defends-her-special-friendship-with-peter-pan/",
+    "summary": "Disney superfan Toni Kulusich has been accused of stalking her favorite character, sparking discourse about boundaries with park actors. She tells WIRED the backlash is unfair.",
+    "pubDate": "Tue, 18 Aug 2026 15:50:29 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Russia Threatens The UK (Again)",
+    "link": "https://www.bbc.co.uk/sounds/play/p0p4z12v?at_medium=RSS&at_campaign=rss",
+    "summary": "Threat comes after British-made drones were used in recent Ukrainian strikes in Russia.",
+    "pubDate": "Tue, 18 Aug 2026 15:50:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Teenage Sex and Death at Camp Miasma takes pains to deliver a slasher fan’s dream",
+    "link": "https://arstechnica.com/culture/2026/08/teenage-sex-and-death-at-camp-miasma-takes-pains-to-deliver-a-slasher-fans-dream/",
+    "summary": "Matte paintings—not CGI—warp a world designed to hit a nerve for slasher fans.",
+    "pubDate": "Tue, 18 Aug 2026 15:36:47 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Show HN: Openleetcode – local LeetCode runner where tests live in the repo",
+    "link": "https://github.com/therepanic/openleetcode",
+    "summary": "You write a standard solution, just like on LeetCode, and run it through the CLI. It identifies the problem by ID or title, executes your code against local test cases, and shows the result. It currently supports around 1.4k problems and multiple languages, including Python, C++, Rust, Java, Go, ...",
+    "pubDate": "Tue, 18 Aug 2026 15:30:40 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Peacock is raising prices across all of its streaming plans",
+    "link": "https://techcrunch.com/2026/08/18/peacock-is-raising-prices-across-all-of-its-streaming-plans/",
+    "summary": "\"These price changes allow Peacock to continue to create the best experience for its viewers, remain competitive in the marketplace, and deliver unique content across all genres,\" the company wrote on a support page.",
+    "pubDate": "Tue, 18 Aug 2026 15:26:31 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
   },
   {
     "title": "线下活动 | 爵士律动唤醒动漫回忆：炒饭 Fried Rice 音乐分享签售会",
@@ -16,12 +312,132 @@
     "category": "tech-cn"
   },
   {
+    "title": "X-rays add new twist to narwhal's spiral tusk",
+    "link": "https://arstechnica.com/science/2026/08/x-rays-add-new-twist-to-narwhals-spiral-tusk/",
+    "summary": "New study finds that the tusks have not one but two spirals, twisting in opposite directions.",
+    "pubDate": "Tue, 18 Aug 2026 15:00:51 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Code-native generation of highly programmable 3D assets (2026)",
+    "link": "https://arxiv.org/abs/2607.22738",
+    "summary": "Article URL: https://arxiv.org/abs/2607.22738 Comments URL: https://news.ycombinator.com/item?id=49346538 Points: 36 # Comments: 35",
+    "pubDate": "Tue, 18 Aug 2026 14:54:44 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Meta Ran Ads for an App That Promised to Nudify Female Politicians",
+    "link": "https://www.wired.com/story/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
+    "summary": "One advertisement featured a pornographic video with a deepfake closely resembling a prominent US politician. Apple removed the app from the App Store after an inquiry from WIRED.",
+    "pubDate": "Tue, 18 Aug 2026 14:45:33 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
     "title": "App+1 | 让任务栏更有用：WindowSill",
     "link": "https://sspai.com/post/113438",
     "summary": "屏幕不是注意力中心的地方可以塞下多少有用的东西呢？ 查看全文",
     "pubDate": "Tue, 18 Aug 2026 14:30:00 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "Babies born under sugar rationing grew into adults with lower cancer risk",
+    "link": "https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873",
+    "summary": "Article URL: https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873 Comments URL: https://news.ycombinator.com/item?id=49345843 Points: 177 # Comments: 37",
+    "pubDate": "Tue, 18 Aug 2026 14:06:50 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Anthro Energy breaks ground on factory that could pave the road to solid-state batteries",
+    "link": "https://techcrunch.com/2026/08/18/anthro-energy-breaks-ground-on-factory-that-could-pave-the-road-to-solid-state-batteries/",
+    "summary": "Battery materials startup Anthro Energy has broken ground on a Louisville factory to make electrolytes, including those for solid-state batteries.",
+    "pubDate": "Tue, 18 Aug 2026 14:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Warp’s new system is an out-of-the-box software factory for AI development",
+    "link": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+    "summary": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible.",
+    "pubDate": "Tue, 18 Aug 2026 14:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+    "link": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+    "summary": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
+    "pubDate": "Tue, 18 Aug 2026 13:50:30 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Perplexity’s free AI offer left it with millions more users in India",
+    "link": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+    "summary": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.",
+    "pubDate": "Tue, 18 Aug 2026 13:45:40 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Earl Spencer to 'tell the truth' about his sister Princess Diana in new book",
+    "link": "https://www.bbc.co.uk/news/articles/cx25z3rkrrgo?at_medium=RSS&at_campaign=rss",
+    "summary": "Swan Song: Diana, My Sister is due to be released in the UK next month, nearly 30 years after she died.",
+    "pubDate": "Tue, 18 Aug 2026 13:45:03 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Buss trying to block her siblings' sale of family stake in Lakers",
+    "link": "https://www.bbc.co.uk/sport/basketball/articles/c5yvdz79w11o?at_medium=RSS&at_campaign=rss",
+    "summary": "Los Angeles Lakers governor Jeanie Buss is trying to stop her siblings' sale of the family's remaining stake in the NBA franchise.",
+    "pubDate": "Tue, 18 Aug 2026 13:39:42 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "'Profits won.' The child safety trial against Meta kicks off in federal court",
+    "link": "https://www.npr.org/2026/08/18/nx-s1-5935458/meta-child-safety-social-media-addiction-trial-opening",
+    "summary": "Opening arguments are underway in a trial that pits four states against the company that owns Facebook and Instagram. They allege that Meta knew its products could hook kids — and lied about the danger.",
+    "pubDate": "Tue, 18 Aug 2026 13:39:29 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
+    "link": "https://opensource.posit.co/resources/cheatsheets/polars/",
+    "summary": "Article URL: https://opensource.posit.co/resources/cheatsheets/polars/ Comments URL: https://news.ycombinator.com/item?id=49345476 Points: 114 # Comments: 17",
+    "pubDate": "Tue, 18 Aug 2026 13:38:23 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Apple’s new macOS update reportedly contains a video of AirPods with a camera",
+    "link": "https://techcrunch.com/2026/08/18/apples-new-macos-update-reportedly-contains-a-video-of-airpods-with-a-camera/",
+    "summary": "A video in a MacOS Tahoe release candidate version shows a user wearing AirPods, looking at a book, and talking to Siri.",
+    "pubDate": "Tue, 18 Aug 2026 13:28:51 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "The Amazon tax",
+    "link": "https://seths.blog/2026/08/the-amazon-tax/",
+    "summary": "Article URL: https://seths.blog/2026/08/the-amazon-tax/ Comments URL: https://news.ycombinator.com/item?id=49345263 Points: 569 # Comments: 398",
+    "pubDate": "Tue, 18 Aug 2026 13:22:38 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Fixing a bricked Framework laptop",
+    "link": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
+    "summary": "Article URL: https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/ Comments URL: https://news.ycombinator.com/item?id=49345220 Points: 253 # Comments: 162",
+    "pubDate": "Tue, 18 Aug 2026 13:18:40 +0000",
+    "source": "Hacker News",
+    "category": "tech"
   },
   {
     "title": "Root calls on England to be 'good human beings'",
@@ -32,11 +448,35 @@
     "category": "general"
   },
   {
+    "title": "Kakoune code editor",
+    "link": "https://kakoune.org/",
+    "summary": "Comments",
+    "pubDate": "Tue, 18 Aug 2026 13:16:56 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Brazil's President Lula hails oil discovery near Amazon river",
+    "link": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
+    "summary": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon.",
+    "pubDate": "Tue, 18 Aug 2026 13:13:54 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "Deus Ex creator Warren Spector is retiring from game development",
     "link": "https://www.videogameschronicle.com/news/its-just-not-as-much-fun-for-me-anymore-deus-ex-creator-warren-spector-is-retiring-from-game-development/",
     "summary": "Article URL: https://www.videogameschronicle.com/news/its-just-not-as-much-fun-for-me-anymore-deus-ex-creator-warren-spector-is-retiring-from-game-development/ Comments URL: https://news.ycombinator.com/item?id=49345070 Points: 12 # Comments: 2",
     "pubDate": "Tue, 18 Aug 2026 13:06:24 +0000",
     "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
+    "link": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
+    "summary": "Secret parameter allowed hackers to steal passwords when a target clicked on a link.",
+    "pubDate": "Tue, 18 Aug 2026 13:00:04 +0000",
+    "source": "Ars Technica",
     "category": "tech"
   },
   {
@@ -152,10 +592,34 @@
     "category": "general"
   },
   {
+    "title": "Mojo is now open source",
+    "link": "https://www.modular.com/blog/mojo-open-source",
+    "summary": "Comments",
+    "pubDate": "Tue, 18 Aug 2026 11:34:21 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "OpenAI makes ChatGPT less 'human' for teens in new safety update",
     "link": "https://www.bbc.co.uk/news/articles/czxqz91n5n8o?at_medium=RSS&at_campaign=rss",
     "summary": "OpenAI insisted this was not in response to a particular issue with children believing ChatGPT to be alive.",
     "pubDate": "Tue, 18 Aug 2026 11:26:26 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "S. Korea stresses US alliance amid confusion over Trump drill cut",
+    "link": "https://www.npr.org/2026/08/18/g-s1-139096/s-korea-stresses-us-alliance-amid-confusion-over-trump-drill-cut",
+    "summary": "Lee's comments Tuesday come as many South Koreans remain baffled and concerned about U.S. President Donald Trump's abrupt order to \"substantially reduce\" military exercises with South Korea.",
+    "pubDate": "Tue, 18 Aug 2026 11:19:40 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "From jumpers to slug pellets - how British wool is back in demand",
+    "link": "https://www.bbc.co.uk/news/articles/c8xnkjwdn5wo?at_medium=RSS&at_campaign=rss",
+    "summary": "An increased demand in wool has meant prices have increased more than 70% in the last year.",
+    "pubDate": "Tue, 18 Aug 2026 11:18:39 GMT",
     "source": "BBC News",
     "category": "general"
   },
@@ -288,12 +752,28 @@
     "category": "general"
   },
   {
+    "title": "What software do you use daily in 2026?",
+    "link": "https://lobste.rs/s/ttxwdz/what_software_do_you_use_daily_2026",
+    "summary": "There was a similar thread here six years ago, and I'm curious how people's daily setups have changed since then. What does the software side of your daily setup look like in 2026? Operating system, desktop environment or window manager, terminal, shell, editor, browser, and any other tools you c...",
+    "pubDate": "Tue, 18 Aug 2026 09:31:11 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "AI to help planes avoid climate-warming vapour trails",
     "link": "https://www.bbc.co.uk/news/articles/c62em5lpvnjo?at_medium=RSS&at_campaign=rss",
     "summary": "A new UK trial hopes to reduce the condensation trails from planes, which can trap heat in the Earth's atmosphere.",
     "pubDate": "Tue, 18 Aug 2026 09:26:41 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Why I reimplemented LVM (with worse guarantees)",
+    "link": "https://depot.dev/blog/why-i-reimplemented-lvm",
+    "summary": "Comments",
+    "pubDate": "Tue, 18 Aug 2026 09:08:36 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Best Merino Wool Clothing (2026): Base Layers, Hoodies, Jackets",
@@ -398,6 +878,14 @@
     "pubDate": "Tue, 18 Aug 2026 07:14:06 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Shading Motion",
+    "link": "https://blog.maximeheckel.com/posts/shading-motion/",
+    "summary": "Comments",
+    "pubDate": "Tue, 18 Aug 2026 07:11:07 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Tsampi BFT: Leaderless One-Round Voting with Parameterized Finality",
@@ -564,6 +1052,14 @@
     "link": "https://www.npr.org/2026/08/18/nx-s1-5931251/morning-news-brief",
     "summary": "Jared Kushner and Israel's prime minister meet in attempt to move Gaza ceasefire plan forward, U.S. focus on Iran draws key resources from Asia, voters head to the polls for primaries Tuesday.",
     "pubDate": "Tue, 18 Aug 2026 04:41:19 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Jason Arday's rise and fall tells a larger story about academia, a critic says",
+    "link": "https://www.npr.org/2026/08/18/nx-s1-5935396/britain-cambridge-professor-jason-arday-hiring-questions",
+    "summary": "What can academia learn from Jason Arday's rise and fall? Atlantic staff writer and former academic Tyler Austin Harper weighs the questions his story left behind.",
+    "pubDate": "Tue, 18 Aug 2026 04:41:14 -0400",
     "source": "NPR",
     "category": "general"
   },
@@ -1088,6 +1584,70 @@
     "category": "general"
   },
   {
+    "title": "Samsung’s Galaxy Buds 3 Pro are almost half off today",
+    "link": "https://www.theverge.com/gadgets/981525/galaxy-buds-3-pro-dji-pocket-deal-sale",
+    "summary": "If you’re looking for a feature-packed pair of earbuds that won’t break your wallet, Best Buy has the Samsung Galaxy Buds 3 Pro on sale for $139.99. That’s $40 lower than the current Amazon price, and a big discount from their original retail price of $249.99. These well-equipped earbuds feature ...",
+    "pubDate": "2026-08-18T13:47:04-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "PlayStation&#8217;s wireless gaming speakers launch in November",
+    "link": "https://www.theverge.com/tech/981562/sony-playstation-pulse-elevate-wireless-gaming-speakers-launch-date-preorder",
+    "summary": "Sony's Pulse Elevate wireless gaming speakers are launching on November 12th and will cost $219.99, the company announced on Tuesday. Announced nearly a year ago, the speakers are compatible with a PS5, PlayStation Portal, PC, and Mac, and they include \"studio-inspired planar magnetic drivers\" th...",
+    "pubDate": "2026-08-18T13:18:57-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Apple squashes EU beef with new App Store rules",
+    "link": "https://www.theverge.com/tech/981504/apple-app-store-eu-rules-core-technology-commission",
+    "summary": "Apple is once again overhauling App Store rules in the European Union, which the company says will resolve its \"disagreements with the Commission over business terms and alternative distribution.\" As part of the changes, every developer that distributes apps will be moved to a single set of busin...",
+    "pubDate": "2026-08-18T12:48:26-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Tesla is finally launching the Cybercab — let’s hope it’s ready",
+    "link": "https://www.theverge.com/transportation/981398/tesla-cybercab-launch-robotaxi-fsd-safe-ready",
+    "summary": "The Tesla Cybercab, that golden two-seater central to Elon Musk's robo-supremacist ambitions, is finally nearing it's public launch. Whether or not the no-steering wheel and no-pedal vehicle is actually ready for public roads, let alone customers, remains very much in doubt. According to The Info...",
+    "pubDate": "2026-08-18T12:26:29-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Peacock is raising prices by up to $3",
+    "link": "https://www.theverge.com/streaming/981418/peacock-price-increase-august-2026",
+    "summary": "Peacock is raising prices across its streaming plans once again, with the company's cheapest ad-supported Select tier going from $7.99 to $8.99 / month, as reported earlier by Variety. The Premium plan with ads is increasing from $10.99 to $12.99 / month, while the ad-free Premium Plus plan is ge...",
+    "pubDate": "2026-08-18T10:11:39-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Coyote vs. Acme is even funnier because Warner Bros. Discovery tried to kill it",
+    "link": "https://www.theverge.com/entertainment/981131/coyote-vs-acme-david-zaslac-warner-bros-discovery",
+    "summary": "There's an argument to be made that people wouldn't be all that interested in Coyote vs. Acme if it weren't for the way David Zaslav tried to kill it. By trying to shelve the project, Warner Bros. Discovery only drew attention to its habit of disappearing nearly completed movies in order to cash ...",
+    "pubDate": "2026-08-18T09:35:35-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Comcast is turning millions of its routers into motion detectors",
+    "link": "https://www.theverge.com/news/981381/comcast-xfinity-shield-wifi-motion-sensing",
+    "summary": "Comcast is bringing Wi-Fi motion sensing to millions of routers that are already in customers' homes, turning the devices into activity monitors. A new update to the Xfinity Internet app, arriving today, August 18th, enables the feature on compatible Xfinity routers at no extra cost. Announced as...",
+    "pubDate": "2026-08-18T09:30:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "ABC sues the FCC over Trump and Carr&#8217;s campaign of threats",
+    "link": "https://www.theverge.com/streaming/981392/abc-fcc-broadcast-license-lawsuit",
+    "summary": "ABC is suing the Federal Communications Commission over claims the agency \"waged a retaliatory campaign\" against its networks over the content they broadcast. In a lawsuit filed in federal court on Tuesday, ABC and its parent company Disney accuse the FCC of \"punishing ABC for its speech\" by thre...",
+    "pubDate": "2026-08-18T09:27:43-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
     "title": "Polaroid’s new Pokémon collection captures memories, not Pikachus",
     "link": "https://www.theverge.com/tech/981141/polaroid-pokemon-pikachu-now-go-generation-3-instant-camera-film",
     "summary": "Polaroid announced a new collection of cameras, instant film, and accessories all featuring limited-edition designs to help celebrate the 30th anniversary of Pok&#233;mon. The new collection goes a little harder than Fujifilm's Pok&#233;mon collaboration from five years ago with the introduction ...",
@@ -1166,6 +1726,22 @@
     "pubDate": "2026-08-18T07:00:00-04:00",
     "source": "The Verge",
     "category": "tech"
+  },
+  {
+    "title": "Scientific expedition makes the best of bad weather",
+    "link": "https://www.nature.com/articles/d41586-026-02381-z",
+    "summary": "Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-02381-z Researchers grapple with the causes of evolution, and a sea voyage is blighted by storms, in our weekly dip into Nature’s archive.",
+    "pubDate": "2026-08-18",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "A revolutionary stem-cell therapy must proceed responsibly to achieve its full potential",
+    "link": "https://www.nature.com/articles/d41586-026-02524-2",
+    "summary": "Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-02524-2 It is 20 years since induced pluripotent stem cells shook biomedicine. Public trust must be retained now that clinical trials are well under way.",
+    "pubDate": "2026-08-18",
+    "source": "Nature",
+    "category": "science"
   },
   {
     "title": "Heatwaves expose weak links in food systems",

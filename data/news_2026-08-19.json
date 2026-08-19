@@ -1,11 +1,267 @@
 [
   {
+    "title": "iOS 27 测试版近期动向，还有 Apple 产品新消息",
+    "link": "https://sspai.com/post/113618",
+    "summary": "7月20日至今，Apple陆续发布了iOS27的DeveloperBeta4、5、6三个测试版本。随着9月秋季发布会的渐进，iOS27距离正式版的发布越来越近。今天，我们就来一起看看这三个Beta版本 ... 查看全文",
+    "pubDate": "Wed, 19 Aug 2026 17:39:05 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "《控制》新作体验：新怪谈游戏的祖师爷，又杀回来了",
+    "link": "https://sspai.com/post/113588",
+    "summary": "本文首发于「游研社」，作者@亚锌，少数派经授权转载，仅对排版略作调整。阅读原文在ChinaJoy期间，我参与了Remedy举办的《控制：共振》闭门试玩会。其实在开始前，我除了战斗部分之外，还非常期待本 ... 查看全文",
+    "pubDate": "Wed, 19 Aug 2026 15:20:08 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "CareCloud confirms 3.7M patients had their medical records stolen in data breach",
+    "link": "https://techcrunch.com/2026/08/19/carecloud-confirms-3-7m-patients-had-their-medical-records-stolen-in-data-breach/",
+    "summary": "The cyberattack at CareCloud resulted in one of the largest reported data breaches in the U.S. healthcare industry this year.",
+    "pubDate": "Wed, 19 Aug 2026 13:04:10 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Jury discharged in Palestine Action Elbit raid trial",
+    "link": "https://www.bbc.co.uk/news/articles/c2dk657dky1o?at_medium=RSS&at_campaign=rss",
+    "summary": "The jury at the Old Bailey is discharged after 37 hours of deliberations.",
+    "pubDate": "Wed, 19 Aug 2026 13:03:50 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
+    "link": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
+    "summary": "The man is alleged to have been one of the scuba divers who planted explosives on the pipelines in 2022.",
+    "pubDate": "Wed, 19 Aug 2026 12:47:53 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
+    "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+    "summary": "The five-year-old spent hours on the phone to paramedics before her body was recovered days later in Gaza City in 2024.",
+    "pubDate": "Wed, 19 Aug 2026 12:41:46 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "'Everyone wants clarity' over Man City charges, says Arsenal chief",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c1416keng1po?at_medium=RSS&at_campaign=rss",
+    "summary": "Arsenal's chief executive Richard Garlick speaks out on the case against Manchester City and the more than 100 alleged breaches of the Premier League's financial rules.",
+    "pubDate": "Wed, 19 Aug 2026 12:30:11 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Geolocating a random island using geometry and CUDA programming",
+    "link": "https://yassa9.github.io/osint/gralhix-004/",
+    "summary": "Article URL: https://yassa9.github.io/osint/gralhix-004/ Comments URL: https://news.ycombinator.com/item?id=49360545 Points: 36 # Comments: 10",
+    "pubDate": "Wed, 19 Aug 2026 12:19:52 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Thunderstorm warnings issued for parts of UK with flash flooding expected",
+    "link": "https://www.bbc.co.uk/news/articles/c0m7e9ym747o?at_medium=RSS&at_campaign=rss",
+    "summary": "Warnings for northern England, eastern Scotland and Northern Ireland will come into force later on Wednesday.",
+    "pubDate": "Wed, 19 Aug 2026 12:09:47 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Double murder investigation launched over two deaths in Glasgow",
+    "link": "https://www.bbc.co.uk/news/articles/cz645358021o?at_medium=RSS&at_campaign=rss",
+    "summary": "The bodies of Paul Lafferty and Gary Beaton were found in a flat in Patrick's Chancellor Street on Sunday.",
+    "pubDate": "Wed, 19 Aug 2026 12:00:33 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
+    "link": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+    "summary": "It's the data, stupid.",
+    "pubDate": "Wed, 19 Aug 2026 12:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "You can Venmo your college tuition, for some reason",
+    "link": "https://techcrunch.com/2026/08/19/you-can-venmo-your-college-tuition-for-some-reason/",
+    "summary": "Kids these days don't know how good they have it.",
+    "pubDate": "Wed, 19 Aug 2026 12:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "GrapheneOS in 2027 available on high-end Motorola phones",
+    "link": "https://grapheneos.social/@GrapheneOS/117078064184215730",
+    "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117078064184215730 Comments URL: https://news.ycombinator.com/item?id=49360242 Points: 158 # Comments: 66",
+    "pubDate": "Wed, 19 Aug 2026 11:46:58 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Christian metal band Demon Hunter sue Netflix over KPop Demon Hunters",
+    "link": "https://www.bbc.co.uk/news/articles/c2dk64d10rko?at_medium=RSS&at_campaign=rss",
+    "summary": "The band say they face \"an existential crisis\" after the success of the K-pop-inspired Netflix film.",
+    "pubDate": "Wed, 19 Aug 2026 11:30:40 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Inflation is heating up but don't expect another crisis",
+    "link": "https://www.bbc.co.uk/news/articles/cj63jr5r09zo?at_medium=RSS&at_campaign=rss",
+    "summary": "Rising living costs could heap pressure on PM Andy Burnham though it depends what happens in the coming months.",
+    "pubDate": "Wed, 19 Aug 2026 11:27:39 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The US inmate convicted in 1950 who was spared execution eight times",
+    "link": "https://www.bbc.co.uk/news/articles/c98vr7ql2vdo?at_medium=RSS&at_campaign=rss",
+    "summary": "Francis Smith was one of a growing number of elderly people who are incarcerated.",
+    "pubDate": "Wed, 19 Aug 2026 11:22:09 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "OpenAI slows down training after its AI carried out hack",
+    "link": "https://www.bbc.co.uk/news/articles/c235dmndylzo?at_medium=RSS&at_campaign=rss",
+    "summary": "The ChatGPT-maker said training will be slowed for two weeks while it puts the upgrades in place.",
+    "pubDate": "Wed, 19 Aug 2026 11:19:12 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Trainline, Virgin Atlantic and RED Driving School investigated over 'drip pricing'",
+    "link": "https://www.bbc.co.uk/news/articles/cwyjqe62574o?at_medium=RSS&at_campaign=rss",
+    "summary": "The consumer watchdog said they were trying to find out if the three companies were not showing full prices upfront to customers.",
+    "pubDate": "Wed, 19 Aug 2026 11:08:42 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "I Tried a Window-Cleaning Robot: Do Not Recommend",
+    "link": "https://www.wired.com/story/window-cleaning-robots-are-kinda-terrible/",
+    "summary": "I tested the top-of-the-line Ecovacs Winbot W2S Omni window-cleaning robot on my Victorian home, and it was an unmitigated disaster.",
+    "pubDate": "Wed, 19 Aug 2026 11:08:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "‘Your Excel Skills Suck’: The Power Users Turning Spreadsheets Into a Spectator Sport",
+    "link": "https://www.wired.com/story/your-excel-skills-suck-the-power-users-turning-spreadsheets-into-a-spectator-sport/",
+    "summary": "Data and finance professionals are competing in Excel obstacle courses—amassing huge followings and keeping the Microsoft program relevant.",
+    "pubDate": "Wed, 19 Aug 2026 11:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
     "title": "App+1 | Inkive：把纸质书上划好的线存进 Obsidian",
     "link": "https://sspai.com/post/111936",
     "summary": "让纸书上的划线，回到你的数字笔记里。 查看全文",
     "pubDate": "Wed, 19 Aug 2026 10:54:52 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "We Bought a $500 Counterfeit Rolex So Good, Even Rolex Didn’t Spot It",
+    "link": "https://www.wired.com/story/we-bought-a-counterfeit-rolex-so-good-even-rolex-didnt-spot-it/",
+    "summary": "The replica watch industry is in its “super clone” era. Following tips from murky internet forums, we bought three budget fakes that were good enough to pass as real—but ultimately disposable.",
+    "pubDate": "Wed, 19 Aug 2026 10:45:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Dell XPS 13 vs. MacBook Neo: A Surprising Upset",
+    "link": "https://www.wired.com/story/macbook-neo-vs-dell-xps-13/",
+    "summary": "The Dell XPS 13 and MacBook Neo are both premium-feeling laptops with only 8 GB of RAM. Which $700 laptop is the better buy?",
+    "pubDate": "Wed, 19 Aug 2026 10:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "There’s a Very Simple Reason Why You Love the Slate Truck",
+    "link": "https://www.wired.com/story/theres-a-very-simple-reason-why-you-love-the-slate-truck/",
+    "summary": "The car world is filled with designers still obsessed with shoehorning sex into their rides. Slate went a different route, and it’s why people are smitten with the charming electric pickup.",
+    "pubDate": "Wed, 19 Aug 2026 10:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Air Theremin – a browser theremin you play by waving at your webcam",
+    "link": "https://theremin.bizibah.com/",
+    "summary": "Article URL: https://theremin.bizibah.com/ Comments URL: https://news.ycombinator.com/item?id=49359425 Points: 88 # Comments: 41",
+    "pubDate": "Wed, 19 Aug 2026 10:15:00 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+    "link": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
+    "summary": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.",
+    "pubDate": "Wed, 19 Aug 2026 10:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Reverse-Lookup Service Exposed Millions of Photos of People’s Faces",
+    "link": "https://www.wired.com/story/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces/",
+    "summary": "The people-search tool ClarityCheck says its reverse image search service is “private and secure”—but it left a database containing more than 9 million image files exposed.",
+    "pubDate": "Wed, 19 Aug 2026 10:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Man Utd close on deal for Brighton's Baleba",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c2k7ev41nnvo?at_medium=RSS&at_campaign=rss",
+    "summary": "Manchester United are in talks to sign Cameroon international Carlos Baleba having reignited their interest in the midfielder.",
+    "pubDate": "Wed, 19 Aug 2026 09:50:55 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Hot or Not Built the Internet We’re Still Swiping Through",
+    "link": "https://www.wired.com/story/hot-or-not-built-the-internet-were-still-swiping-through/",
+    "summary": "The early website Hot or Not taught its users to rank people at scale. Twenty-six years later, dating apps are trying to escape the culture the site helped create.",
+    "pubDate": "Wed, 19 Aug 2026 09:45:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "New Zealand great Tui joins Trailfinders",
+    "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cd69dj304wxo?at_medium=RSS&at_campaign=rss",
+    "summary": "World Cup-winning New Zealand international Ruby Tui, 34, signs a one-year deal with Trailfinders Women.",
+    "pubDate": "Wed, 19 Aug 2026 09:36:15 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Jump in energy bills drives UK inflation to highest rate for four months",
+    "link": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
+    "summary": "A 2.9% rise in inflation had been widely expected by economists, with Chancellor John Healey saying the Iran war “continues to impact prices here at home”.",
+    "pubDate": "Wed, 19 Aug 2026 09:02:03 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
+    "link": "https://www.wired.com/story/flock-safety-os-investigate/",
+    "summary": "Flock’s surveillance cameras have already sparked outrage. WIRED reconstructed its next-generation AI system, already in use by some police, to confirm it goes much further than tracking license plates.",
+    "pubDate": "Wed, 19 Aug 2026 09:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Tennis player Nick Kyrgios suspended after testing positive for cocaine",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/c4g612r12yno?at_medium=RSS&at_campaign=rss",
+    "summary": "Nick Kyrgios is provisionally suspended from tennis after testing positive for cocaine.",
+    "pubDate": "Wed, 19 Aug 2026 08:38:37 GMT",
+    "source": "BBC News",
+    "category": "general"
   },
   {
     "title": "派早报：iQOO 发布手机新品、闪极举行 Loomos AI 眼镜发布会等",
@@ -16,12 +272,132 @@
     "category": "tech-cn"
   },
   {
+    "title": "Coffee drinkers have less fat, more muscle, and surprising hormone differences",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260819041228.htm",
+    "summary": "Coffee drinkers may be getting more than an energy boost. A Finnish study found that people who drank more coffee tended to have less total and abdominal fat, more muscle, and healthier metabolic markers despite having similar BMIs. Higher coffee intake was also linked to lower levels of certain ...",
+    "pubDate": "Wed, 19 Aug 2026 08:30:05 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, appeal court told",
+    "link": "https://www.bbc.co.uk/news/articles/czjlxenlgkko?at_medium=RSS&at_campaign=rss",
+    "summary": "Erin Patterson's defence team appeal against her conviction for killing relatives with a beef Wellington laced with toxic mushrooms.",
+    "pubDate": "Wed, 19 Aug 2026 08:25:03 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Scientists turn probiotic bacteria into tiny drug factories for pancreatic cancer",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260816044830.htm",
+    "summary": "Engineered probiotic bacteria were able to infiltrate pancreatic tumors, stimulate cancer-fighting immune cells, and slow tumor growth in animal studies. Even more strikingly, the treatment worked better when combined with chemotherapy, radiation, or immunotherapy.",
+    "pubDate": "Wed, 19 Aug 2026 08:10:13 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Why I still hand write my commit messages",
+    "link": "https://www.jvt.me/posts/2026/08/17/hand-write-commits/",
+    "summary": "Comments",
+    "pubDate": "Wed, 19 Aug 2026 08:01:00 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Tiny quantum engines reveal useful energy hiding in “waste heat”",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260819041222.htm",
+    "summary": "A tiny machine made from just an atom and particles of light may sound impossibly simple, but it raises a surprisingly difficult question: what counts as heat, and what energy can still do useful work? University of Basel researchers have developed a theoretical framework that brings quantum phys...",
+    "pubDate": "Wed, 19 Aug 2026 07:49:52 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "The Mojo language (by Modular, now Qualcomm) is now open-source",
+    "link": "https://www.modular.com/blog/modcon-announcements",
+    "summary": "Article URL: https://www.modular.com/blog/modcon-announcements Comments URL: https://news.ycombinator.com/item?id=49358327 Points: 120 # Comments: 44",
+    "pubDate": "Wed, 19 Aug 2026 07:47:19 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Aiki Alpha 2 Released",
+    "link": "https://decuser.github.io/posts/aiki-alpha-2-release/",
+    "summary": "Comments",
+    "pubDate": "Wed, 19 Aug 2026 07:43:32 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Pollen has a surprising problem — and honeybees have found a way around it",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260819041237.htm",
+    "summary": "Honeybees can apparently detect when their food has the wrong balance of essential nutrients and adjust how much they eat to avoid potentially harmful excesses. They also transform pollen into remarkably well-balanced “baby food” for their larvae, revealing a sophisticated nutritional strategy hi...",
+    "pubDate": "Wed, 19 Aug 2026 07:25:45 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "U.S. delays 50% tariff on Canadian imports. And, takeaways from Florida's primaries",
+    "link": "https://www.npr.org/2026/08/19/g-s1-139173/up-first-newsletter-florida-primary-canada-tariffs-trump-meta-trial",
+    "summary": "President Trump has announced that the U.S. is delaying a 50% tariff on Canadian imports after reaching a deal. And, how progressive Democrats fared in Florida's primary elections yesterday.",
+    "pubDate": "Wed, 19 Aug 2026 07:14:31 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "I won FPL last season - here are my five best tips",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c3ekq87e214o?at_medium=RSS&at_campaign=rss",
+    "summary": "Want to win your Fantasy Premier League mini-league but need some expert advice? Here are some tips from last season's champion Erik Ibsen.",
+    "pubDate": "Wed, 19 Aug 2026 07:11:05 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "λλ: A Programming Language for Silicon Photonics",
+    "link": "https://dl.acm.org/doi/10.1145/3789240.3829151",
+    "summary": "Article URL: https://dl.acm.org/doi/10.1145/3789240.3829151 Comments URL: https://news.ycombinator.com/item?id=49357501 Points: 48 # Comments: 12",
+    "pubDate": "Wed, 19 Aug 2026 06:09:16 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "Antonelli - the boy 'born in a garage' who started driving on dad's lap",
     "link": "https://www.bbc.co.uk/sport/formula1/articles/c0rdvxdwwwwo?at_medium=RSS&at_campaign=rss",
     "summary": "Kimi Antonelli was a natural driver at the age of three, according to his dad. Here's how he went on to lead the F1 drivers' championship at the age of 19.",
     "pubDate": "Wed, 19 Aug 2026 06:06:58 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "How India's blocking of a film exposing real-life police abuses backfired",
+    "link": "https://www.npr.org/2026/08/19/g-s1-138787/how-indias-blocking-of-a-film-exposing-real-life-police-abuses-backfired",
+    "summary": "When Indian authorities scrubbed the biopic of activist Jaswant Singh Khalra, local villagers and activists turned its censorship into a grassroots movement.",
+    "pubDate": "Wed, 19 Aug 2026 06:02:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Striking hospital employees sound alarm over workplace violence",
+    "link": "https://www.npr.org/2026/08/19/nx-s1-5930385/nurses-strike-hospital-workplace-violence-patient-attacks",
+    "summary": "In addition to pay, striking hospital workers say patient violence is an issue. Hospital workers are seven times more likely to be injured at work due to violent acts than the general working population.",
+    "pubDate": "Wed, 19 Aug 2026 06:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "This 23-foot crocodylian may have ruled South America’s food chain",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260819041226.htm",
+    "summary": "Miocene South America was packed with giant prey—and the predators hunting them were just as spectacular. Fossil bite marks suggest crocodylians, especially the enormous Purussaurus neivensis, were more important predators than mammals in this ancient tropical ecosystem. At around seven meters lo...",
+    "pubDate": "Wed, 19 Aug 2026 05:55:34 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "HTML Can Do That",
+    "link": "https://chrisburnell.com/html-can-do-that/",
+    "summary": "Comments",
+    "pubDate": "Wed, 19 Aug 2026 05:55:29 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "South Korea shortens war games with US, citing Washington request",
@@ -40,6 +416,14 @@
     "category": "general"
   },
   {
+    "title": "Congo's Ebola outbreak reaches 5,000 cases as it outpaces response efforts",
+    "link": "https://www.npr.org/2026/08/19/g-s1-139164/congo-ebola-outbreak",
+    "summary": "Government data showed the outbreak had so far recorded 5,021 cases, including 2,378 deaths. The outbreak has infected and killed more people at a greater speed than any other outbreak in history.",
+    "pubDate": "Wed, 19 Aug 2026 05:29:40 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "How will your club fare? Phil McNulty's Premier League predictions",
     "link": "https://www.bbc.co.uk/sport/football/articles/c5ye50qz7yqo?at_medium=RSS&at_campaign=rss",
     "summary": "How will your club fare in the 2026-27 Premier League? BBC chief football writer Phil McNulty makes his annual predictions.",
@@ -48,10 +432,34 @@
     "category": "general"
   },
   {
+    "title": "Liquid Types as a behavioural sandbox for agents",
+    "link": "https://wiki.alcidesfonseca.com/blog/aeonbox-logical-guardrails-for-agents/",
+    "summary": "Comments",
+    "pubDate": "Wed, 19 Aug 2026 05:16:54 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Families' agonising search for answers as thousands still missing in Gaza",
     "link": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&at_campaign=rss",
     "summary": "Ten months after a ceasefire was declared, thousands of Palestinians in Gaza are still reported missing.",
     "pubDate": "Wed, 19 Aug 2026 05:04:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Feeling restless? Level up your life by starting a side quest",
+    "link": "https://www.npr.org/2026/08/19/nx-s1-5936241/feeling-restless-level-up-your-life-start-side-quest",
+    "summary": "Feeling restless in life? Level up your main quest with an activity that has no other purpose than to add whimsy to your life. Play experts share tips on how to find the perfect side quest.",
+    "pubDate": "Wed, 19 Aug 2026 05:02:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "'I'm not sure who I am' - Bake Off winner in shock after bipolar diagnosis",
+    "link": "https://www.bbc.co.uk/news/articles/c04k6x4nywlo?at_medium=RSS&at_campaign=rss",
+    "summary": "Georgina Grasso said she is taking some time to understand bipolar disorder after receiving her diagnosis.",
+    "pubDate": "Wed, 19 Aug 2026 05:01:37 GMT",
     "source": "BBC News",
     "category": "general"
   },
@@ -72,12 +480,76 @@
     "category": "general"
   },
   {
+    "title": "Ovarian cancer and menopause at 19 mean I can't have kids, but it's changed me for the better",
+    "link": "https://www.bbc.co.uk/news/articles/cy9wn7w4982o?at_medium=RSS&at_campaign=rss",
+    "summary": "Enlli Thompson's symptoms were dismissed until a scan revealed a cyst in her pelvis.",
+    "pubDate": "Wed, 19 Aug 2026 05:00:06 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Elbridge who? How the name of a forgotten founder lives on in the word 'gerrymander'",
+    "link": "https://www.npr.org/2026/08/19/nx-s1-5930301/gerrymandering-elbridge-gerry-redistricting",
+    "summary": "Elbridge Gerry was an important early figure in the American Revolution, but his decision to approve a \"gerrymandered\" state legislative map inadvertently won him lasting infamy.",
+    "pubDate": "Wed, 19 Aug 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Why more than 400,000 kids are on waitlists for federal childcare assistance",
+    "link": "https://www.npr.org/2026/08/19/nx-s1-5920326/childcare-assistance-waitlists",
+    "summary": "The Child Care and Development Fund, the U.S. government's main source of funding to help low-income families pay for childcare, serves over 1.6 million children in a typical month.",
+    "pubDate": "Wed, 19 Aug 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "15 states have laws that allow corporal punishment in schools. Here's where, and why",
+    "link": "https://www.npr.org/2026/08/19/nx-s1-5803505/school-corporal-punishment-policy-tracker",
+    "summary": "There is broad consensus among psychologists that corporal punishment can be harmful to children, but the U.S. has no federal laws banning it in public schools.",
+    "pubDate": "Wed, 19 Aug 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "16 mummies and a dog reveal a hidden order inside an ancient Egyptian tomb",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260819041218.htm",
+    "summary": "A tomb in Egypt’s Theban Necropolis reveals a surprisingly organized story of burial, reuse, and changing beliefs spanning hundreds of years. Researchers found 16 mummified people, the remains of at least four more, and a mummified dog, with burials ranging from wealthy individuals laid in coffin...",
+    "pubDate": "Wed, 19 Aug 2026 04:57:10 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Breast cancer is surging among Asian American women — and scientists don’t know why",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260815064829.htm",
+    "summary": "Breast cancer is rising rapidly among Asian American women, with some of the most alarming increases occurring in younger women and in aggressive or advanced cancers. Researchers say screening alone can't explain the surge, suggesting important risk factors may still be undiscovered.",
+    "pubDate": "Wed, 19 Aug 2026 04:13:02 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
     "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
     "summary": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods.",
     "pubDate": "Wed, 19 Aug 2026 03:56:35 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Israel strikes an air base in Syria to prevent Turkish troops from deploying",
+    "link": "https://www.npr.org/2026/08/19/nx-s1-5937400/israel-strikes-syria",
+    "summary": "Israel struck an air base in northwest Syria early Tuesday, saying it aimed to prevent Turkish troops from deploying there. Turkey, which has close ties with the Syrian government and has been providing assistance to Syria's military.",
+    "pubDate": "Wed, 19 Aug 2026 03:51:59 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Japanese scientists use tiny silver particles to make DNA assembly up to 5x more efficient",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260816044842.htm",
+    "summary": "Silver nanoparticles can precisely slice DNA and create longer “sticky ends,” helping genetic fragments join up to five times more efficiently than conventional methods. The breakthrough could eventually simplify the construction of large DNA sequences for gene therapies, cancer vaccines, enginee...",
+    "pubDate": "Wed, 19 Aug 2026 03:46:13 EDT",
+    "source": "Science Daily",
+    "category": "science"
   },
   {
     "title": "Suspended Reform UK member vows to fight to remain in party",
@@ -109,6 +581,14 @@
     "summary": "Article URL: https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/ Comments URL: https://news.ycombinator.com/item?id=49355968 Points: 74 # Comments: 16",
     "pubDate": "Wed, 19 Aug 2026 02:41:50 +0000",
     "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "a filename when none exists",
+    "link": "https://daniel.haxx.se/blog/2024/08/19/a-filename-when-none-exists/",
+    "summary": "Comments",
+    "pubDate": "Wed, 19 Aug 2026 02:29:33 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -536,12 +1016,28 @@
     "category": "tech"
   },
   {
+    "title": "Widely prescribed blood pressure drugs linked to 33% higher kidney risk in type 2 diabetes",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260816044844.htm",
+    "summary": "A widely prescribed blood pressure drug was associated with a 33% higher risk of serious kidney problems in people with type 2 diabetes, even when they were already taking kidney-protective medications. The surprising finding is prompting researchers to question whether DCCBs are always the safes...",
+    "pubDate": "Tue, 18 Aug 2026 18:45:38 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "Alibaba's TSMC-Built 5nm RISC-V Chip, XuanTie C950, Now Runs Qwen-3.8 27B Model Natively, Unlocking Massive Vertical Integration Tailwinds",
     "link": "https://wccftech.com/alibabas-tsmc-built-5nm-risc-v-chip-xuantie-c950-now-runs-qwen-3-8-27b-model-natively-unlocking-massive-vertical-integration-tailwinds/",
     "summary": "Comments",
     "pubDate": "Tue, 18 Aug 2026 18:39:30 -0500",
     "source": "Lobsters",
     "category": "tech"
+  },
+  {
+    "title": "Tiny robots powered by light can hunt down and collect bacteria",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260816044850.htm",
+    "summary": "Researchers have built microscopic, light-driven robots that can rapidly navigate through liquid, collect bacteria, and deposit them in chosen locations. These tiny “cleaners” could open new possibilities for manipulating cells and microbes with remarkable precision.",
+    "pubDate": "Tue, 18 Aug 2026 18:21:50 EDT",
+    "source": "Science Daily",
+    "category": "science"
   },
   {
     "title": "Disney sues FCC and its chair, escalating fight against Trump's chief censor",
@@ -640,12 +1136,108 @@
     "category": "tech"
   },
   {
+    "title": "Scientists discover a natural Arctic cloud factory missing from climate models",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260816044839.htm",
+    "summary": "A newly discovered Arctic process can dramatically boost the number of particles that help form clouds. Near melting sea ice, sunlight reacts with chemicals released by the ocean, algae, and ice, causing cloud-seeding particles to multiply by as much as 50 times in a day. Because the active ice-e...",
+    "pubDate": "Tue, 18 Aug 2026 13:34:33 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "dgit: Git forge on Durable Objects",
     "link": "https://github.com/littledivy/dgit",
     "summary": "Demo site: https://git.littledivy.com/ Comments",
     "pubDate": "Tue, 18 Aug 2026 12:41:01 -0500",
     "source": "Lobsters",
     "category": "tech"
+  },
+  {
+    "title": "Mysterious waves sweeping across your brain may help turn sensory chaos into what you see",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260816044827.htm",
+    "summary": "Traveling electrical waves sweeping across the brain may help determine what we notice, predict what comes next, and construct our internal picture of the world. Researchers now argue that these waves aren't just background activity—they could be a core computational engine behind perception and ...",
+    "pubDate": "Tue, 18 Aug 2026 12:40:57 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Amazon seemingly leaked Jason Statham’s entire Mutiny movie",
+    "link": "https://www.theverge.com/entertainment/981943/amazon-prime-video-mutiny-movie-leak",
+    "summary": "Jason Statham's upcoming film Mutiny is set to hit theaters on August 21st, but for at least an hour today it was available to stream in full on the US version of Amazon Prime Video. My colleague Dominic Preston was able to verify that all 1 hour and 35 minutes of the movie was available [&#8230;]",
+    "pubDate": "2026-08-19T08:32:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Nvidia’s new financial strategy does not compute",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
+    "summary": "April - 1805 Napoleon is master of Europe Only the British fleet stands before him Compute is now an asset class I see it is once again time to talk financial innovation. Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR are all working with Nvidia to put together $500 billion in ...",
+    "pubDate": "2026-08-19T08:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "The women’s soccer league trying to fix fantasy sports",
+    "link": "https://www.theverge.com/entertainment/981880/womens-super-league-wsl-fantasy-league-app",
+    "summary": "Most fantasy sports leagues suffer the same problem: retention. Leagues play out over monthslong seasons, require regular attention, and can punish players severely for missing even a single week. I've started Fantasy Premier League (FPL) multiple times, but never finished a season. That's a prob...",
+    "pubDate": "2026-08-19T08:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Amazon’s drones will soon deliver to nearly 500 US cities and towns",
+    "link": "https://www.theverge.com/tech/981908/amazon-prime-air-drone-delivery-us-expansion",
+    "summary": "Amazon says its drone delivery service will reach \"nearly 500 cities and towns in the United States\" by the end of this year, increasing its coverage by six times compared to the current footprint. Prime Air deliveries will soon be launched in the Chicago, Illinois; Syracuse, New York; Cleveland,...",
+    "pubDate": "2026-08-19T07:53:27-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "The everyday tech I use to track my corgi",
+    "link": "https://www.theverge.com/gadgets/981143/airtag-corgi-pet-tech-tracking",
+    "summary": "The Apple AirTag may be a jack-of-all-trades - people use it for keeping track of keys, suitcases, backpacks, purses - but I think the most logical use case for it, by far, is keeping track of your pet. I attach it to my corgi Jelly's collar via a matching silicone holder. Have I ever once [&#8230;]",
+    "pubDate": "2026-08-19T07:30:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Framework gave its 12-inch laptop some hardware upgrades",
+    "link": "https://www.theverge.com/gadgets/981894/framework-laptop-12-update-intel-core-linux-availability",
+    "summary": "Framework has refreshed its 12-inch convertible laptop, introducing Intel's latest Core Series 3 processors, expanded hardware customizations, and a pre-built Linux option. The cheapest pre-built base configuration for the Framework Laptop 12 now starts at $699 - $100 less than the previous versi...",
+    "pubDate": "2026-08-19T06:14:26-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Twenty-two easy ways to power up your lab meetings",
+    "link": "https://www.nature.com/articles/d41586-026-02037-y",
+    "summary": "Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02037-y Scientists share help and advice on how they got their research discussions flowing.",
+    "pubDate": "2026-08-19",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "South Africa’s scientists must register with official body or risk prison, according to draft law",
+    "link": "https://www.nature.com/articles/d41586-026-02516-2",
+    "summary": "Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02516-2 Many researchers are unaware of an upcoming law that will require them to register with a regulatory body, as is the case for engineers and healthcare professonals.",
+    "pubDate": "2026-08-19",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Screening babies’ genomes could save lives. Here’s how it would work",
+    "link": "https://www.nature.com/articles/d41586-026-02528-y",
+    "summary": "Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02528-y Massive genomic newborn-screening studies are under way all over the globe. But questions about scalability, feasibility and net benefit remain.",
+    "pubDate": "2026-08-19",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Delisted",
+    "link": "https://www.nature.com/articles/d41586-026-02410-x",
+    "summary": "Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02410-x Called to account.",
+    "pubDate": "2026-08-19",
+    "source": "Nature",
+    "category": "science"
   },
   {
     "title": "SteelSeries’ comfy wireless gaming headset is nearly half off",

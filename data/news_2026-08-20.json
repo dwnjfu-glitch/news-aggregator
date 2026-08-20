@@ -8,6 +8,22 @@
     "category": "general"
   },
   {
+    "title": "Goroutines 101: A basic walkthrough",
+    "link": "https://func25.dev/posts/go-goroutines-basics/",
+    "summary": "Comments",
+    "pubDate": "Wed, 19 Aug 2026 23:52:18 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Celtic find value in 'special' Duran - but does ambition reach further still?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cn0n6k42803o?at_medium=RSS&at_campaign=rss",
+    "summary": "Now that the Champions League money may be nigh, we will get to see the scale of Celtic's ambition, asks Tom English?",
+    "pubDate": "Wed, 19 Aug 2026 23:34:09 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
     "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
     "summary": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
@@ -80,6 +96,14 @@
     "category": "tech"
   },
   {
+    "title": "AI-designed “intrabodies” could unlock new treatments for Alzheimer’s, Parkinson’s and MND",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260819041242.htm",
+    "summary": "Researchers have developed a new way to turn ordinary antibodies into tiny disease-fighting molecules that can work inside human cells, potentially opening new paths for treating Alzheimer’s, Parkinson’s, Huntington’s disease, and motor neurone disease.",
+    "pubDate": "Wed, 19 Aug 2026 22:01:27 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
     "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
     "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
@@ -94,6 +118,14 @@
     "pubDate": "Wed, 19 Aug 2026 21:48:24 +0000",
     "source": "TechCrunch",
     "category": "tech"
+  },
+  {
+    "title": "MIT physicists discover electrons rebuilding like ice inside a quantum material",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260819041231.htm",
+    "summary": "MIT physicists found that two electronic phases inside the same quantum material emerge through surprisingly different mechanisms—one smoothly and the other in expanding pockets resembling growing ice crystals. The discovery could help explain how exotic properties such as superconductivity and m...",
+    "pubDate": "Wed, 19 Aug 2026 21:32:04 EDT",
+    "source": "Science Daily",
+    "category": "science"
   },
   {
     "title": "Duran stars as Celtic ease to comfortable win over LASK",
@@ -142,6 +174,14 @@
     "pubDate": "Wed, 19 Aug 2026 20:45:55 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Researchers reveal deeper workings of brain’s information hub",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260819041224.htm",
+    "summary": "The brain has a remarkably flexible system for handling uncertainty and changing situations. Researchers found that the frontoparietal cortex constantly shifts how it communicates with other brain regions depending on what information is needed to make a decision. Rather than simply becoming more...",
+    "pubDate": "Wed, 19 Aug 2026 20:38:34 EDT",
+    "source": "Science Daily",
+    "category": "science"
   },
   {
     "title": "DFlash 2: Keep Drafting Parallel",
@@ -230,6 +270,14 @@
     "pubDate": "Wed, 19 Aug 2026 19:45:15 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "A mother’s age can shape her offspring without changing their DNA",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260819041220.htm",
+    "summary": "Scientists have found evidence that the effects of a mother’s age on her offspring may be driven by reversible changes in gene activity rather than permanent DNA damage. The discovery raises the fascinating possibility that biological information from mothers, grandmothers, and even great-grandmo...",
+    "pubDate": "Wed, 19 Aug 2026 19:44:38 EDT",
+    "source": "Science Daily",
+    "category": "science"
   },
   {
     "title": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
@@ -392,12 +440,204 @@
     "category": "tech"
   },
   {
+    "title": "From managing your nerves to collecting your results - everything you need to know",
+    "link": "https://www.bbc.co.uk/bitesize/articles/zjbn47h?at_medium=RSS&at_campaign=rss",
+    "summary": "If you've taken your GCSE exams in the summer here is a guide to what you need to know about GCSE results day in 2026 and tips for your next steps after school.",
+    "pubDate": "Thu, 22 Aug 2024 06:00:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "「务实且高效」的日系次旗舰：夏普 AQUOS R9 评测",
+    "link": "https://sspai.com/post/113497",
+    "summary": "在 R9 身上，我竟依稀能感到夏普正在谋求一种仰望星空和脚踏实地间的精妙平衡。 查看全文",
+    "pubDate": "Thu, 20 Aug 2026 10:41:31 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
     "title": "派早报：石头发布 A30 Pro Steam 3.0 洗地机、Framework 升级 Laptop 12 笔记本",
     "link": "https://sspai.com/post/113638",
     "summary": "哈浮 VERSA 飞行口袋云台相机发布，OpenAI 回应少量 Codex 用户调用 GPT-5.6 系列 AI 模型误删文件问题等。 查看全文",
     "pubDate": "Thu, 20 Aug 2026 08:46:04 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "At least 12 killed in Kyiv as Ukraine grapples with air defence shortages",
+    "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+    "summary": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
+    "pubDate": "Thu, 20 Aug 2026 07:19:40 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Travelodge boss steps down after security issues in rooms",
+    "link": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
+    "summary": "Jo Boydell had been criticised for the company's handling of issues with its safety and security.",
+    "pubDate": "Thu, 20 Aug 2026 07:17:13 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Verstappen extends Red Bull deal to 2030",
+    "link": "https://www.bbc.co.uk/sport/formula1/articles/c20j3j2mnpxo?at_medium=RSS&at_campaign=rss",
+    "summary": "Four-time world champion Max Verstappen signs a contract extension with Red Bull, keeping him with the Formula One team until 2030.",
+    "pubDate": "Thu, 20 Aug 2026 07:09:34 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Mushroom killer must stay in jail forever for 'truly dreadful' crime, appeal court told",
+    "link": "https://www.bbc.co.uk/news/articles/ckg3j3yn4exo?at_medium=RSS&at_campaign=rss",
+    "summary": "Prosecutors say Erin Patterson's sentence was \"manifestly inadequate\" as it allows for the possibility of parole.",
+    "pubDate": "Thu, 20 Aug 2026 07:08:35 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Five in Five: Football quiz No 4",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c5yr3w58qnlo?at_medium=RSS&at_campaign=rss",
+    "summary": "Will you beat the clock by getting all five of today's answers in five minutes?",
+    "pubDate": "Thu, 20 Aug 2026 06:19:41 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Windows brings out the Rorschach test in everyone",
+    "link": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
+    "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803 Comments URL: https://news.ycombinator.com/item?id=49371006 Points: 38 # Comments: 4",
+    "pubDate": "Thu, 20 Aug 2026 06:16:40 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Four workers dead after being hit by train in Japan",
+    "link": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
+    "summary": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
+    "pubDate": "Thu, 20 Aug 2026 06:02:10 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Which supplements do athletes take and why?",
+    "link": "https://www.bbc.co.uk/sport/articles/cpd7pwx0233o?at_medium=RSS&at_campaign=rss",
+    "summary": "There is a long list of supplements taken by elite athletes in the pursuit of marginal gains - what do they take and why?",
+    "pubDate": "Thu, 20 Aug 2026 05:52:21 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "How do the 9-1 GCSE grade boundaries work in England?",
+    "link": "https://www.bbc.co.uk/news/articles/czrynxzvjneo?at_medium=RSS&at_campaign=rss",
+    "summary": "The previous alphabetical system has been replaced in England, but is still used in Wales and Northern Ireland.",
+    "pubDate": "Thu, 20 Aug 2026 05:33:02 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "What to do if you're unhappy with your grades",
+    "link": "https://www.bbc.co.uk/news/articles/c1jxjk6g1l2o?at_medium=RSS&at_campaign=rss",
+    "summary": "Your full guide to this year's GCSE exams in England, Wales and Northern Ireland.",
+    "pubDate": "Thu, 20 Aug 2026 05:32:33 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Premier League predictions 2026-27: BBC Sport pundits pick their top four",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cp8edryd7plo?at_medium=RSS&at_campaign=rss",
+    "summary": "We ask 26 BBC Sport football pundits to predict who will win the 2026-27 Premier League title, and which clubs will finish in the top four.",
+    "pubDate": "Thu, 20 Aug 2026 05:24:16 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Aguero and Shearer star in best opening-round debuts",
+    "link": "https://www.bbc.co.uk/sport/football/videos/cwyl718g865o?at_medium=RSS&at_campaign=rss",
+    "summary": "BBC Sport takes a look at some of the Premier League's greatest opening-day debuts, including Alan Shearer's Blackburn blinder and Michu's Swansea screamers.",
+    "pubDate": "Thu, 20 Aug 2026 05:22:10 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Captured Ukrainian-born soldiers tell BBC why they fought for Russia",
+    "link": "https://www.bbc.co.uk/news/articles/cn9nr195drzo?at_medium=RSS&at_campaign=rss",
+    "summary": "Men born in Ukraine who fought for Russia are tried for treason, but at a prisoner of war camp in western Ukraine, many believe they were defending their homeland.",
+    "pubDate": "Thu, 20 Aug 2026 05:01:24 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?",
+    "link": "https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621",
+    "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621 Comments URL: https://news.ycombinator.com/item?id=49370440 Points: 43 # Comments: 12",
+    "pubDate": "Thu, 20 Aug 2026 04:42:02 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Key moments from Harry and Meghan's years since leaving UK",
+    "link": "https://www.bbc.co.uk/news/videos/cn8ndp8m9ddo?at_medium=RSS&at_campaign=rss",
+    "summary": "The Duke and Duchess of Sussex are planning to move back to the UK, BBC News understands.",
+    "pubDate": "Thu, 20 Aug 2026 04:07:28 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Trump vows tougher economic measures on Iran and supporting countries",
+    "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+    "summary": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
+    "pubDate": "Thu, 20 Aug 2026 03:22:57 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Prince Harry and Meghan are returning to the U.K. with their children",
+    "link": "https://www.npr.org/2026/08/20/nx-s1-5939320/harry-meghan-return-uk",
+    "summary": "Prince Harry and his wife, Meghan, have decided to return to the United Kingdom for an extended stay starting this fall, but they won't resume their roles as working members of the royal family.",
+    "pubDate": "Thu, 20 Aug 2026 02:17:42 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Giant whales move into Greenland waters as ice disappears",
+    "link": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
+    "summary": "Melting sea ice from climate change has opened up the region for giant whales to undertake \"feeding frenzies\".",
+    "pubDate": "Thu, 20 Aug 2026 02:05:20 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Harry and Meghan are experts in surprise - but is their UK return forever?",
+    "link": "https://www.bbc.co.uk/news/articles/cqjxn9j410vo?at_medium=RSS&at_campaign=rss",
+    "summary": "The sudden decision to return leaves lots of questions for the Duke and Duchess of Sussex and Royal Family.",
+    "pubDate": "Thu, 20 Aug 2026 02:00:51 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Israeli military launches criminal probes into killings of 5-year-old and paramedics",
+    "link": "https://www.npr.org/2026/08/20/nx-s1-5939310/israeli-military-criminal-probes",
+    "summary": "Israel's military on Wednesday announced its first criminal investigations into troop conduct in Gaza, focusing on the killings of 5-year-old Hind Rajab and her family and of 15 Palestinian paramedics.",
+    "pubDate": "Thu, 20 Aug 2026 01:50:53 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Parsing IP addresses in C# at crazy speeds",
+    "link": "https://lemire.me/blog/2026/08/19/parsing-ip-addresses-in-c-at-crazy-speeds/",
+    "summary": "Comments",
+    "pubDate": "Thu, 20 Aug 2026 01:40:47 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Turns are Better than Radians (2022)",
+    "link": "https://www.computerenhance.com/p/turns-are-better-than-radians",
+    "summary": "Article URL: https://www.computerenhance.com/p/turns-are-better-than-radians Comments URL: https://news.ycombinator.com/item?id=49369408 Points: 153 # Comments: 63",
+    "pubDate": "Thu, 20 Aug 2026 01:29:12 +0000",
+    "source": "Hacker News",
+    "category": "tech"
   },
   {
     "title": "Prince Harry and Meghan moving back to UK",
@@ -440,6 +680,14 @@
     "category": "general"
   },
   {
+    "title": "Understanding the limitations of Pubsub systems",
+    "link": "https://dl.acm.org/doi/pdf/10.1145/3713082.3730397",
+    "summary": "Comments",
+    "pubDate": "Thu, 20 Aug 2026 00:24:48 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "'Harry's coming home' and 'Day trip tragedy'",
     "link": "https://www.bbc.co.uk/news/articles/c7vgp03rr15o?at_medium=RSS&at_campaign=rss",
     "summary": "News of the Duke and Duchess of Sussex's plan to move back to the UK is prominent across Thursday's papers.",
@@ -461,6 +709,14 @@
     "summary": "Article URL: https://arxiv.org/abs/2007.13664 Comments URL: https://news.ycombinator.com/item?id=49368828 Points: 7 # Comments: 1",
     "pubDate": "Thu, 20 Aug 2026 00:05:12 +0000",
     "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Poisoned Postgres connection pools",
+    "link": "https://planetscale.com/blog/postgres-poisoned-connection-pools",
+    "summary": "Comments",
+    "pubDate": "Thu, 20 Aug 2026 00:00:50 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {

@@ -1,5 +1,21 @@
 [
   {
+    "title": "An action-revenge thriller steeped in mythology, starring Dev Patel",
+    "link": "https://www.bbc.co.uk/iplayer/episode/m0030fhy?at_mid=FzlbY7YSBK&at_campaign=Monkey_Man&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m0030fhy&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Monkey_Man&at_bbc_team=BBC",
+    "summary": "One small ember can burn down everything. Dev Patel’s thriller steeped in mythology",
+    "pubDate": "Thu, 20 Aug 2026 00:19:47 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Busby, Shankly and Stein: The makers of modern football",
+    "link": "https://www.bbc.co.uk/iplayer/episode/m002x9vh/the-three-kings?at_mid=v9gNCwjokG&at_campaign=The_Three_Kings&at_medium=display_ad&at_campaign_type=owned&at_nation=SCT&at_audience_id=SS&at_product=iplayer&at_brand=m002x9vh&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Three_Kings&at_bbc_team=BBC",
+    "summary": "iPlayer's most added watchlist pick",
+    "pubDate": "Sun, 31 May 2026 05:00:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "The Papers: 'Pain beyond words' and 'Graduates face worst job market'",
     "link": "https://www.bbc.co.uk/news/articles/cgr7reynpdyo?at_medium=RSS&at_campaign=rss",
     "summary": "Photographs of the two police officers killed in a crash on Saturday morning lead several front pages on Monday.",
@@ -64,6 +80,14 @@
     "category": "general"
   },
   {
+    "title": "Scientists discover a real-life “dragon” and name it after Syrax",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260823015005.htm",
+    "summary": "Scientists discovered a small, yellowish mountain horned dragon in Thailand and named it Acanthosaura syrax after a dragon from House of the Dragon. Found only in a narrow band of high-elevation forest, the distinctive new species could become a flagship for protecting its rare mountain habitat.",
+    "pubDate": "Sun, 23 Aug 2026 23:11:22 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "How easy is it to find an NHS dentist? It depends where you live",
     "link": "https://www.bbc.co.uk/news/articles/c9v4w77d9m8o?at_medium=RSS&at_campaign=rss",
     "summary": "Nearly 600 practices in England have withdrawn from NHS dentistry over the last 10 years, as the service heads towards a two-tier system.",
@@ -78,6 +102,14 @@
     "pubDate": "Sun, 23 Aug 2026 23:07:10 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Gut bacteria may unlock a hidden benefit of vegetables",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260822015145.htm",
+    "summary": "Gut bacteria can transform nitrate and plant-based iron from vegetables and other foods into protective molecules that may benefit the heart and metabolism. In experimental models, higher levels of these compounds were linked to lower blood pressure, better blood sugar control, healthier blood ve...",
+    "pubDate": "Sun, 23 Aug 2026 22:48:52 EDT",
+    "source": "Science Daily",
+    "category": "science"
   },
   {
     "title": "Clark holds off McIlroy fightback to win BMW Championship",
@@ -248,12 +280,292 @@
     "category": "tech"
   },
   {
+    "title": "派评 | 近期值得关注的 App",
+    "link": "https://sspai.com/post/113795",
+    "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀 查看全文",
+    "pubDate": "Mon, 24 Aug 2026 17:52:01 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "Windows On ARM 原生应用少？你可以试试这些改造方法",
+    "link": "https://sspai.com/prime/story/create-your-own-windows-apps",
+    "summary": "相比大家熟知的基于Intel或AMD处理器的传统x86架构Windows，不少人以为WindowsonARM是近几年的新产物。事实上，微软早在2012年就曾通过WindowsRT尝试探索ARM设备，但 ... 查看全文 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文。",
+    "pubDate": "Mon, 24 Aug 2026 16:28:26 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "AI 助力改造非智能升降桌：智能升降、语音控制、多端联动……",
+    "link": "https://sspai.com/post/113563",
+    "summary": "把非智能的双电机升降桌，改成我梦想中的智能升降中枢。 查看全文",
+    "pubDate": "Mon, 24 Aug 2026 15:14:08 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "Snooker champion Graeme Dott guilty of child sex abuse",
+    "link": "https://www.bbc.co.uk/news/articles/c0lr80rk0dno?at_medium=RSS&at_campaign=rss",
+    "summary": "The former world champion was found guilty of lewd and libidinous behaviour towards a girl and boy.",
+    "pubDate": "Mon, 24 Aug 2026 13:28:12 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "UK missiles offer may help Ukraine - but they are not what Zelensky needs most",
+    "link": "https://www.bbc.co.uk/news/articles/cy8zxqn57z3o?at_medium=RSS&at_campaign=rss",
+    "summary": "UK Prime Minister Andy Burnham is handing over blueprints so Kyiv can build its own long-range missiles.",
+    "pubDate": "Mon, 24 Aug 2026 12:51:10 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Victims describe 'house of terror' abuse by mother, grandmother and stepfather",
+    "link": "https://www.bbc.co.uk/news/articles/c20jxky3ggro?at_medium=RSS&at_campaign=rss",
+    "summary": "Shirley Freeman, Julia Stephen and David McColl's victims were beaten, starved and psychologically tormented.",
+    "pubDate": "Mon, 24 Aug 2026 12:38:14 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Sharing dangerous driving videos is 'truly reprehensible', PM says",
+    "link": "https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss",
+    "summary": "His comments come as the government urged TikTok and other social media firms to remove wrong-way driving videos.",
+    "pubDate": "Mon, 24 Aug 2026 12:28:16 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "New Zealand to introduce bill for under-16s social media ban",
+    "link": "https://www.bbc.co.uk/news/articles/cj068q7qj19o?at_medium=RSS&at_campaign=rss",
+    "summary": "The government faces opposition to its proposals from MPs who believe a ban will not work.",
+    "pubDate": "Mon, 24 Aug 2026 12:17:34 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "London Zoo animals hop on scales for weigh-in",
+    "link": "https://www.bbc.co.uk/news/articles/c4gld7dj6ljo?at_medium=RSS&at_campaign=rss",
+    "summary": "Kiwi the Capybara is among animals getting their annual health check while data is gathered and shared.",
+    "pubDate": "Mon, 24 Aug 2026 11:43:10 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "快捷指令 | 让特定 app 小点声：在 iPhone 上实现独立音量控制",
     "link": "https://sspai.com/post/112983",
     "summary": "有些 app 总是太吵，有些又总嫌声音不够大；既然 iOS 还没有提供真正的应用独立音量，不妨用快捷指令让 iPhone 自动记住每个 app 该有多大声。 查看全文",
     "pubDate": "Mon, 24 Aug 2026 11:30:44 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "Birdfy Nest Duo Review: My Own Private Nature Documentary",
+    "link": "https://www.wired.com/review/birdfy-nest-duo/",
+    "summary": "With two cameras and built-in climate sensors, the Birdfy Nest Duo let me watch an entire nesting season unfold.",
+    "pubDate": "Mon, 24 Aug 2026 11:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Boks drop Feinberg-Mngomezulu to bench for All Blacks rematch",
+    "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cg7k90y8j9no?at_medium=RSS&at_campaign=rss",
+    "summary": "Sacha Feinberg-Mngomezulu pays for an indifferent showing in South Africa's series opener against New Zealand, as the fly-half drops to the Springbok bench.",
+    "pubDate": "Mon, 24 Aug 2026 11:24:25 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Toddler with sun allergy can play in daylight thanks to UV window film",
+    "link": "https://www.bbc.co.uk/news/articles/c3053n15r78o?at_medium=RSS&at_campaign=rss",
+    "summary": "Two-year-old Mollie Murray from Montrose has a rare genetic disorder that makes her extremely sensitive to ultraviolet light",
+    "pubDate": "Mon, 24 Aug 2026 11:21:26 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Fans suffer firework burns and eye injuries in Eredivisie",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cr50n2d4rj0o?at_medium=RSS&at_campaign=rss",
+    "summary": "Dutch side SC Cambuur says fans were left with \"burns, hearing damage and eye injuries\" after Feyenoord supporters threw fireworks during Sunday's Eredivisie match.",
+    "pubDate": "Mon, 24 Aug 2026 11:13:53 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The Kindle Accessories I Never Want to Read Without (2026)",
+    "link": "https://www.wired.com/story/best-kindle-accessories/",
+    "summary": "Looking to better protect your Kindle or add a little personality to your favorite e-reader? From cases and covers to page turners and even charms, this is the guide for you.",
+    "pubDate": "Mon, 24 Aug 2026 11:09:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo",
+    "link": "https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/",
+    "summary": "The Unibook is a weird entry-level laptop for people with patience.",
+    "pubDate": "Mon, 24 Aug 2026 11:00:01 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "The Best Home Theater Projectors in 2026: XGIMI, Hisense, Leica, and More",
+    "link": "https://www.wired.com/story/best-home-theater-projector/",
+    "summary": "Home theater projectors are getting better and better, and have quickly become my favorite way to enjoy movies.",
+    "pubDate": "Mon, 24 Aug 2026 11:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Graduate job vacancies drop by almost 50% in a year, survey suggests",
+    "link": "https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss",
+    "summary": "Job site Adzuna said the number of graduate vacancies was the lowest since 2016",
+    "pubDate": "Mon, 24 Aug 2026 10:55:47 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Dutch broadcaster Avrotros pulls out of  2027 Eurovision Song Contest",
+    "link": "https://www.bbc.co.uk/news/articles/c1kx3m2z332o?at_medium=RSS&at_campaign=rss",
+    "summary": "It says contest can no longer be considered neutral while a participating country remains involved in a large-scale military conflict.",
+    "pubDate": "Mon, 24 Aug 2026 10:54:22 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
+    "link": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
+    "summary": "Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes.",
+    "pubDate": "Mon, 24 Aug 2026 10:40:22 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+    "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+    "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
+    "pubDate": "Mon, 24 Aug 2026 10:39:23 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Forget Meta Ray-Bans. These Dorky-Looking Virtual Display Glasses Are Way More Useful",
+    "link": "https://www.wired.com/story/all-work-and-some-play-in-a-virtual-display/",
+    "summary": "Tethered display glasses are truly practical face computers. They trade bulky spatial computing for simplicity: Plug in, recline, and get a massive screen right in front of your nose.",
+    "pubDate": "Mon, 24 Aug 2026 10:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "DeChambeau proud of what LIV has achieved",
+    "link": "https://www.bbc.co.uk/sport/golf/articles/cx2z9yl1gdno?at_medium=RSS&at_campaign=rss",
+    "summary": "Bryson DeChambeau says he is \"proud\" of what LIV Golf has achieved with the breakaway league facing questions about its future following the final event of the season in Indianapolis.",
+    "pubDate": "Mon, 24 Aug 2026 10:20:10 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Race Across the World star Jo Gardiner dies aged 61 one year after son's death",
+    "link": "https://www.bbc.co.uk/news/articles/ce3r1nwrxpwo?at_medium=RSS&at_campaign=rss",
+    "summary": "Former TV contestant, Jo Gardiner, 61, dies of cancer one year after her son's death in a crash.",
+    "pubDate": "Mon, 24 Aug 2026 10:13:58 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Esports World Cup ends with surprise win for China-based team",
+    "link": "https://www.bbc.co.uk/news/articles/cew9lxpjjq2o?at_medium=RSS&at_campaign=rss",
+    "summary": "AG.AL claim the overall title and $7m (£5.1m) top prize at the third Esports World Cup in Paris.",
+    "pubDate": "Mon, 24 Aug 2026 10:01:32 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The Best Multiuse Air Purifier for Home in 2026: BlueAir, Rabbit Air, Dreame",
+    "link": "https://www.wired.com/story/best-multi-use-air-purifiers/",
+    "summary": "These WIRED-tested dual-purpose air purifiers also function as heaters, fans, art pieces, and more, offering the best of both worlds.",
+    "pubDate": "Mon, 24 Aug 2026 10:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "'Half my business will be gone' - firms in Canada and US fear trade war",
+    "link": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss",
+    "summary": "Business owners in both countries are navigating uncertainty and worry as the tit-for-tat import taxes ratchet up.",
+    "pubDate": "Mon, 24 Aug 2026 09:47:22 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
+    "link": "https://www.wired.com/story/teachers-deepfake-ai-students-content/",
+    "summary": "The deepfake epidemic in schools is affecting more than students. Four teachers tell WIRED about becoming targets of sexualized, AI-generated content—and how difficult it was to find accountability.",
+    "pubDate": "Mon, 24 Aug 2026 09:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Common medications may change your gut for years",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260824065605.htm",
+    "summary": "Common medications may reshape the gut microbiome long after the last dose is taken. In a study of more than 2,500 people, researchers found lasting microbial changes linked not only to antibiotics, but also to antidepressants, beta-blockers, acid-reducing drugs, and benzodiazepines. Some effects...",
+    "pubDate": "Mon, 24 Aug 2026 09:14:50 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "NASA’s New Space Telescope Is Poised to Discover Hidden Facets of the Universe",
+    "link": "https://www.wired.com/story/nasa-nancy-grace-roman-space-telescope-hidden-facets-of-universe/",
+    "summary": "The Nancy Grace Roman Space Telescope is expected to discover as many as 200,000 new planets and reveal details about the elusive nature of dark matter and dark energy.",
+    "pubDate": "Mon, 24 Aug 2026 09:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Bird flu is spreading. Your backyard feeder could make it worse",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260824065519.htm",
+    "summary": "Backyard bird feeders could become unexpected hotspots for H5N1 as Australia’s bird flu outbreak spreads, bringing species together in ways that rarely occur naturally. Experts say stopping feeding is safest, while smaller amounts of food, no hand-feeding, and careful cleaning can reduce the danger.",
+    "pubDate": "Mon, 24 Aug 2026 08:49:08 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Treasury Secretary Scott Bessent to unveil new economic sanctions on Iran",
+    "link": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
+    "summary": "The Trump administration calls this \"economic D-Day\" on Iran. Iran vows to respond to fresh sanctions in a \"seismic manner.\"",
+    "pubDate": "Mon, 24 Aug 2026 08:26:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "A ghostly ribbon of stars reveals hidden dark matter",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260823015000.htm",
+    "summary": "A faint ribbon of stars around a distant galaxy has become the first globular cluster stellar stream ever identified beyond the Milky Way. Because the stars trace the galaxy’s gravity, researchers used the stream to estimate how much invisible dark matter surrounds it and how that matter is distr...",
+    "pubDate": "Mon, 24 Aug 2026 08:19:34 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "A tiny “rainbow on a chip” could help supercharge 6G networks",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260823014946.htm",
+    "summary": "Researchers have created a tiny chip that produces a stable “rainbow” of light capable of generating multiple high-frequency signals at once, potentially boosting the speed and capacity of future 6G networks. Its extreme precision could also make it valuable for quantum timing, navigation, radar,...",
+    "pubDate": "Mon, 24 Aug 2026 08:07:31 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Too much or too little sleep may make your body age faster",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260823094156.htm",
+    "summary": "Both too little and too much sleep may be linked to faster aging throughout the body. Researchers analyzing 23 biological aging clocks found the lowest aging levels among people sleeping about 6.4 to 7.8 hours per day. Short or long sleep was also associated with numerous conditions affecting the...",
+    "pubDate": "Mon, 24 Aug 2026 07:31:44 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "U.S. to detail new economic pressures on Iran. And, Canada to impose tariffs on U.S.",
+    "link": "https://www.npr.org/2026/08/24/g-s1-139736/up-first-newsletter-iran-economic-pressures-canada-tariffs-trump-visa-ban",
+    "summary": "Today, Treasury Secretary Scott Bessent is set to announce details on new economic pressures on Iran. And, Canada has vowed to impose retaliatory tariffs against the U.S.",
+    "pubDate": "Mon, 24 Aug 2026 07:27:44 -0400",
+    "source": "NPR",
+    "category": "general"
   },
   {
     "title": "派早报：九家车企召回近 430 万辆不易识别应急拉手汽车",
@@ -264,6 +576,22 @@
     "category": "tech-cn"
   },
   {
+    "title": "Alonso 'always thinking' but Arbeloa becoming boss 'a surprise' - Benitez",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ckge725zy1zo?at_medium=RSS&at_campaign=rss",
+    "summary": "Former Liverpool manager Rafael Benitez on his former players Xabi Alonso and Alvaro Arbeloa who face each other as managers on Monday when Fulham host Chelsea.",
+    "pubDate": "Mon, 24 Aug 2026 06:59:58 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Control and complexity: tension in systems design",
+    "link": "https://ferd.ca/control-and-complexity-tension-in-systems-design.html",
+    "summary": "Comments",
+    "pubDate": "Mon, 24 Aug 2026 06:58:18 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Maradona's 'Hand of God' ball sells for £2.5m",
     "link": "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o?at_medium=RSS&at_campaign=rss",
     "summary": "The football with which Diego Maradona scored his famous 'hand of God' goal in the 1986 World Cup quarter-final victory over England is sold at auction.",
@@ -272,11 +600,43 @@
     "category": "general"
   },
   {
+    "title": "Screen time at ages 1 and 6 may matter more than parents realize",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260823094152.htm",
+    "summary": "More screen time during infancy and around the start of school was linked to poorer academic performance and weaker working memory years later. The findings suggest that early childhood may contain particularly sensitive windows when screen habits can have longer-lasting effects.",
+    "pubDate": "Mon, 24 Aug 2026 06:31:15 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Scientists just imaged the hidden quantum shape of a molecule",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260822015213.htm",
+    "summary": "Researchers have found a way to create a complete 3D image of a molecule’s wavefunction, one of quantum mechanics’ most fundamental yet elusive features. By combining advanced photoelectron measurements with newly designed algorithms, the University of Göttingen team reconstructed the molecular o...",
+    "pubDate": "Mon, 24 Aug 2026 05:55:19 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Emacs 31.1 released",
+    "link": "https://lists.gnu.org/archive/html/info-gnu-emacs/2026-08/msg00004.html",
+    "summary": "Comments",
+    "pubDate": "Mon, 24 Aug 2026 05:52:27 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "China probes use of formaldehyde to keep cabbages fresh",
     "link": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss",
     "summary": "Using the carcinogen to preserve food is prohibited in China, the world's largest producer of cabbages.",
     "pubDate": "Mon, 24 Aug 2026 05:40:48 GMT",
     "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Washington, D.C.'s first IndyCar race packed the National Mall",
+    "link": "https://www.npr.org/2026/08/24/nx-s1-5939827/washington-d-c-s-first-indycar-race-packed-the-national-mall",
+    "summary": "IndyCar drivers zoomed past some of the nation's most famous landmarks this weekend. They faced novel challenges on an unconventional route.",
+    "pubDate": "Mon, 24 Aug 2026 05:36:13 -0400",
+    "source": "NPR",
     "category": "general"
   },
   {
@@ -304,12 +664,68 @@
     "category": "general"
   },
   {
+    "title": "In candid interviews, National Guard members speak out about D.C. deployment",
+    "link": "https://www.npr.org/2026/08/24/nx-s1-5939973/national-guard-members-washington-dc-deployment",
+    "summary": "As President Trump's deployment of the National Guard to Washington, D.C., enters its second year, three guard members who served many months on the mission share their reactions with NPR.",
+    "pubDate": "Mon, 24 Aug 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Tiny, Untyped Monads (2024)",
+    "link": "https://text.marvinborner.de/2024-11-18-00.html",
+    "summary": "Comments",
+    "pubDate": "Mon, 24 Aug 2026 04:56:57 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Sean Grayson, former deputy convicted of killing Sonya Massey, dies in prison, lawyer says",
+    "link": "https://www.npr.org/2026/08/24/g-s1-139734/sonya-massey-convicted-deputy",
+    "summary": "Sean Grayson, a former Illinois sheriff's deputy whose fatal shooting of Sonya Massey inside her home became a flashpoint over police use of force, died Sunday while serving a 20-year prison sentence.",
+    "pubDate": "Mon, 24 Aug 2026 04:53:36 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Morning news brief",
+    "link": "https://www.npr.org/2026/08/24/nx-s1-5939834/morning-news-brief",
+    "summary": "Treasury secretary to detail new round of economic pressure on Iran, Iran warns of 'seismic' retaliation if U.S. follow through with economic threat, Canada vows to impose retaliatory tariffs on U.S.",
+    "pubDate": "Mon, 24 Aug 2026 04:46:05 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "3 constraints before I build anything",
+    "link": "https://jordanlord.co.uk/blog/3-constraints/",
+    "summary": "Comments",
+    "pubDate": "Mon, 24 Aug 2026 04:43:23 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "What are you doing this week?",
+    "link": "https://lobste.rs/s/lo28ad/what_are_you_doing_this_week",
+    "summary": "What are you doing this week? Feel free to share! Keep in mind it’s OK to do nothing at all, too.",
+    "pubDate": "Mon, 24 Aug 2026 04:40:30 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
     "link": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss",
     "summary": "The former skippers say it is \"basic decency\" for Pakistan to comply with a court-ordered medical assessment.",
     "pubDate": "Mon, 24 Aug 2026 03:55:35 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Building certgrep.sh: a free certificate transparency search engine",
+    "link": "https://haveibeensquatted.com/blog/building-certgrep",
+    "summary": "Comments",
+    "pubDate": "Mon, 24 Aug 2026 03:40:45 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Your executable is a SQLite database",
@@ -336,6 +752,14 @@
     "category": "general"
   },
   {
+    "title": "NASA is about to launch a powerful new eye on the universe",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260823094140.htm",
+    "summary": "NASA’s Roman Space Telescope has been cleared for final launch preparations ahead of a targeted August 30 liftoff aboard SpaceX’s Falcon Heavy. The powerful new observatory will probe cosmic expansion, the history of the universe, and distant exoplanets.",
+    "pubDate": "Mon, 24 Aug 2026 00:45:05 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "Families of two police officers killed in crash say they were heroes",
     "link": "https://www.bbc.co.uk/news/articles/c4gvgy3de37o?at_medium=RSS&at_campaign=rss",
     "summary": "PC Matthew Blades and PC Tom Clough died after a car, whose five occupants were also killed, collided with their vehicle.",
@@ -352,12 +776,68 @@
     "category": "general"
   },
   {
+    "title": "Trump to award Congressional Space Medal of Honor to Artemis II astronauts",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260823094138.htm",
+    "summary": "The Artemis II crew will receive the Congressional Space Medal of Honor after becoming the first humans in more than 50 years to travel beyond the Moon. Their 10-day Orion mission also carried them farther into space than anyone in history.",
+    "pubDate": "Mon, 24 Aug 2026 00:25:30 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "Rain to return this week with chance of thunderstorms and flooding",
     "link": "https://www.bbc.co.uk/weather/articles/czxex6xg75ro?at_medium=RSS&at_campaign=rss",
     "summary": "Some much-needed rainfall is forecast through the coming week and will be welcome for places that have seen exceptionally dry and hot weather for much of the summer.",
     "pubDate": "Mon, 24 Aug 2026 00:05:28 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "De-Googled GrapheneOS is coming to Motorola’s foldables next year",
+    "link": "https://www.theverge.com/tech/983714/grapheneos-motorola-razr-fold-ultra-support-pixel-11",
+    "summary": "GrapheneOS, an open source version of Android that prioritizes security and privacy, has detailed its plans for supporting Motorola smartphones. Official support is set to arrive next year, starting with traditional flagships, before rolling out to Motorola's foldable phones and perhaps cheaper m...",
+    "pubDate": "2026-08-24T07:37:53-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Humanoid robots smash Usain Bolt&#8217;s 100-meter record",
+    "link": "https://www.theverge.com/tech/983688/world-humanoid-robot-games-sprint-record-2026",
+    "summary": "The 9.58-second 100-meter dash record set by Usain Bolt in 2009 has been outpaced by Chinese robots participating at the World Humanoid Robot Games in Beijing. In a preliminary heat on Saturday, Tiangong Ultra, made by the Beijing Humanoid Robot Innovation &#8203;Center, ran the distance in 9.39 ...",
+    "pubDate": "2026-08-24T05:10:40-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "The exoskeletons are coming (to a store near you)",
+    "link": "https://www.nature.com/articles/d41586-026-02641-y",
+    "summary": "Nature, Published online: 24 August 2026; doi:10.1038/d41586-026-02641-y Technology to help people walk, run and jump is moving rapidly from labs to hiking trails.",
+    "pubDate": "2026-08-24",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Frontier-technology markets are too narrow — here’s how to widen them",
+    "link": "https://www.nature.com/articles/d41586-026-02572-8",
+    "summary": "Nature, Published online: 24 August 2026; doi:10.1038/d41586-026-02572-8 Governments need to keep their procurement processes as open as possible, or they will face risks of technological lock-in down the line.",
+    "pubDate": "2026-08-24",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Patient’s own mitochondria injected into eyes in attempt to restore vision",
+    "link": "https://www.nature.com/articles/d41586-026-02616-z",
+    "summary": "Nature, Published online: 24 August 2026; doi:10.1038/d41586-026-02616-z Injection of a person’s own mitochondria into the retina was safe but had only a temporary effect on restoring vision.",
+    "pubDate": "2026-08-24",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Can AI ever be conscious? The question stems from a misconception",
+    "link": "https://www.nature.com/articles/d41586-026-02571-9",
+    "summary": "Nature, Published online: 24 August 2026; doi:10.1038/d41586-026-02571-9 A book outlines how the fields of artificial intelligence, psychology and philosophy have neglected a key aspect of consciousness: the body.",
+    "pubDate": "2026-08-24",
+    "source": "Nature",
+    "category": "science"
   },
   {
     "title": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",

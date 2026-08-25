@@ -1,5 +1,13 @@
 [
   {
+    "title": "App+1｜ArkFlow：满足你的卡面收集癖，给信用卡做个卡面墙",
+    "link": "https://sspai.com/post/112442",
+    "summary": "你会把它当成一个金融账户，还是一件属于自己人生的收藏品？ 查看全文",
+    "pubDate": "Tue, 25 Aug 2026 11:13:35 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
     "title": "派早报：阿里云视频生成模型 Wan3.0 上线，小米发布三款玄戒芯片等",
     "link": "https://sspai.com/post/113813",
     "summary": "少数派的近期动态新一季少数派会员启航，更新权益，更多惊喜，还有实体纪念卡。点击了解能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互的DotSkill已上线。点击了解你可能错过的文章快 ... 查看全文",
@@ -8,12 +16,156 @@
     "category": "tech-cn"
   },
   {
+    "title": "Burnham refuses to rule out tax rises in autumn Budget",
+    "link": "https://www.bbc.co.uk/news/articles/cj06818jgzlo?at_medium=RSS&at_campaign=rss",
+    "summary": "Experts have warned that he and Chancellor John Healey will have little room to manoeuvre in their first Budget.",
+    "pubDate": "Tue, 25 Aug 2026 06:40:33 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Is Mercedes' 2026 dominance over? F1 Q&A",
+    "link": "https://www.bbc.co.uk/sport/formula1/articles/c3v0v4951k6o?at_medium=RSS&at_campaign=rss",
+    "summary": "BBC Sport F1 correspondent Andrew Benson answers your latest questions after the Dutch Grand Prix.",
+    "pubDate": "Tue, 25 Aug 2026 06:35:52 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "'Change is necessary' - players unite against Fifa",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cy4zl2mz9rko?at_medium=RSS&at_campaign=rss",
+    "summary": "A number of current and former footballers unite against Fifa president Gianni Infantino, stating that \"change is necessary\" at the global governing body.",
+    "pubDate": "Tue, 25 Aug 2026 06:31:19 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Omega Just Released a Mini Moonwatch",
+    "link": "https://www.wired.com/story/omega-just-released-a-mini-moonwatch/",
+    "summary": "Say hello to a revamped collection of perfectly proportioned 38-mm Speedmasters.",
+    "pubDate": "Tue, 25 Aug 2026 06:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Songs created by AI banned from Australia's music charts",
+    "link": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
+    "summary": "The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.",
+    "pubDate": "Tue, 25 Aug 2026 04:54:01 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Show HN: Screen memory without screenshots, just text to Markdown",
+    "link": "https://github.com/dragthelake/ambient-context",
+    "summary": "It's a macOS menu bar app that reads the text of your focused window every few seconds through the Accessibility API. No screenshots, no video, or OCR. It writes plain markdown, one file per day, into a folder you choose. Point Claude Code (or anything with file access) at the folder and ask \"wha...",
+    "pubDate": "Tue, 25 Aug 2026 04:33:24 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Volcanoes that made history",
+    "link": "https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history",
+    "summary": "Article URL: https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history Comments URL: https://news.ycombinator.com/item?id=49428972 Points: 3 # Comments: 0",
+    "pubDate": "Tue, 25 Aug 2026 04:09:43 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "UK drone factories may face attacks from 'unknown sources', says Kremlin adviser",
+    "link": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss",
+    "summary": "The comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukraine.",
+    "pubDate": "Tue, 25 Aug 2026 04:06:34 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Data Centers Are Driving an Alarming Gas Power Expansion in the US",
+    "link": "https://www.wired.com/story/us-data-centers-drive-gas-power-expansion/",
+    "summary": "There’s no clearer sign of the data center boom than rampant gas projects that have been proposed or that are already under construction.",
+    "pubDate": "Tue, 25 Aug 2026 04:01:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Headlong: A Microharness for Persistent Agents",
+    "link": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+    "summary": "Article URL: https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents Comments URL: https://news.ycombinator.com/item?id=49428882 Points: 40 # Comments: 15",
+    "pubDate": "Tue, 25 Aug 2026 03:54:19 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "India’s Airbound bags $37M to take on trucks with rocket-like drones",
+    "link": "https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/",
+    "summary": "Airbound's ultra-lightweight approach to drone delivery has attracted backing from Greenoaks, DoorDash, and Silicon Valley investor Lachy Groom.",
+    "pubDate": "Tue, 25 Aug 2026 03:30:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "SiFive's First Server Platform",
+    "link": "https://chipsandcheese.com/p/sifives-first-server-platform",
+    "summary": "Article URL: https://chipsandcheese.com/p/sifives-first-server-platform Comments URL: https://news.ycombinator.com/item?id=49428638 Points: 29 # Comments: 6",
+    "pubDate": "Tue, 25 Aug 2026 03:06:26 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Thomson Reuters Launches Its Own Frontier Model",
+    "link": "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model",
+    "summary": "Article URL: https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model Comments URL: https://news.ycombinator.com/item?id=49428318 Points: 87 # Comments: 34",
+    "pubDate": "Tue, 25 Aug 2026 02:11:39 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "French tourist dies in Death Valley after car gets stuck in mud",
+    "link": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss",
+    "summary": "The 68-year-old man was found dead in California's salt flats amid 116°F (46.6C) heat.",
+    "pubDate": "Tue, 25 Aug 2026 02:08:57 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "How Universities Should Prepare Founders",
     "link": "https://paulgraham.com/prepare.html",
     "summary": "Article URL: https://paulgraham.com/prepare.html Comments URL: https://news.ycombinator.com/item?id=49428121 Points: 6 # Comments: 0",
     "pubDate": "Tue, 25 Aug 2026 01:40:39 +0000",
     "source": "Hacker News",
     "category": "tech"
+  },
+  {
+    "title": "Was modern art a CIA psy-op? (2020)",
+    "link": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
+    "summary": "Article URL: https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/ Comments URL: https://news.ycombinator.com/item?id=49428080 Points: 65 # Comments: 70",
+    "pubDate": "Tue, 25 Aug 2026 01:35:00 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Indonesians brave choking smoke to pray for rain as country battles wildfires",
+    "link": "https://www.npr.org/2026/08/25/nx-s1-5944062/indonesia-battles-wildfires",
+    "summary": "Huge blazes in central and western regions of Indonesia have scorched wide areas of forests and peatland, creating a choking haze that blanketed some cities.",
+    "pubDate": "Tue, 25 Aug 2026 01:24:16 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "The UK will help Ukraine make long-range missiles by sharing classified tech information",
+    "link": "https://www.npr.org/2026/08/25/nx-s1-5944059/the-uk-will-help-ukraine-make-long-range-missiles-by-sharing-classified-tech-information",
+    "summary": "Burnham, who was in Kyiv for Ukraine's Independence Day, said defense firm MBDA will release details on U.K.-made parts for the SCALP missile to Ukraine to help the country assemble the weapons.",
+    "pubDate": "Tue, 25 Aug 2026 01:14:03 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "US set for largest mass visa revocation in history targeting up to 200,000 foreigners, officials say",
+    "link": "https://www.npr.org/2026/08/25/nx-s1-5944058/us-largest-mass-visa-revocation-200-000-foreigners",
+    "summary": "The Trump administration is preparing to revoke the business and tourism visas of up to 200,000 foreigners who have applied for or are currently seeking asylum status in the United States.",
+    "pubDate": "Tue, 25 Aug 2026 00:56:29 -0400",
+    "source": "NPR",
+    "category": "general"
   },
   {
     "title": "What languages are agent skills written in?",
@@ -197,6 +349,14 @@
     "summary": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.",
     "pubDate": "Mon, 24 Aug 2026 21:45:53 +0000",
     "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "POP-2000, a lingua-franca POP-2 dialect",
+    "link": "https://hitogata.neocities.org/POP-2000",
+    "summary": "Comments",
+    "pubDate": "Mon, 24 Aug 2026 21:44:14 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {

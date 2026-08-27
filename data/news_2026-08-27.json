@@ -8,6 +8,14 @@
     "category": "tech"
   },
   {
+    "title": "Scientists may have finally caught “empty” space changing light",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260826055445.htm",
+    "summary": "A magnetar with an astonishingly powerful magnetic field may have revealed a quantum effect predicted by Werner Heisenberg nearly 90 years ago. Its light shows signs that supposedly empty space is altering how the light travels, potentially providing the first evidence of vacuum birefringence.",
+    "pubDate": "Wed, 26 Aug 2026 23:52:13 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "Zohran and the Short Link",
     "link": "https://iamwillwang.com/notes/zohran-and-the-short-link/",
     "summary": "Article URL: https://iamwillwang.com/notes/zohran-and-the-short-link/ Comments URL: https://news.ycombinator.com/item?id=49457512 Points: 200 # Comments: 73",
@@ -208,6 +216,14 @@
     "category": "tech"
   },
   {
+    "title": "NASA just used satellites and debris to navigate without GPS",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260826055450.htm",
+    "summary": "NASA has successfully tested a system that allows satellites to navigate without GPS by using other spacecraft and debris as landmarks in orbit. In just three days, FALCON also improved the known orbits of more than 200 space objects completely autonomously.",
+    "pubDate": "Wed, 26 Aug 2026 19:27:35 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "Actinide is first startup to produce high-assay low-enriched uranium (HALEU)",
     "link": "https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu",
     "summary": "Article URL: https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu Comments URL: https://news.ycombinator.com/item?id=49454419 Points: 162 # Comments: 79",
@@ -288,6 +304,518 @@
     "category": "tech"
   },
   {
+    "title": "Dolly Parton's most iconic BBC moments and timeless hits",
+    "link": "https://www.bbc.co.uk/iplayer/episode/m0013wts/dolly-parton-at-the-bbc?at_mid=0xrp395ZuL&at_campaign=Dolly_Parton_at_BBC&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m0013wts&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Dolly_Parton_at_BBC&at_bbc_team=BBC",
+    "summary": "Look back at her greatest moments with hits such as Jolene, 9 to 5 and Islands in the Stream",
+    "pubDate": "Wed, 26 Aug 2026 00:10:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Anthropic's new hardware standard lets AI agents control the physical world",
+    "link": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+    "summary": "Standardized driver interface aims to let devices talk to AI and each other.",
+    "pubDate": "Thu, 27 Aug 2026 22:15:43 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "What we know after the big Grand Theft Auto 6 preview",
+    "link": "https://www.bbc.co.uk/news/articles/c3d7exngd5no?at_medium=RSS&at_campaign=rss",
+    "summary": "The official look at the blockbuster video game leaves fans and critics impressed.",
+    "pubDate": "Thu, 27 Aug 2026 22:10:05 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "'Cowboy builders' targeted in new government clampdown",
+    "link": "https://www.bbc.co.uk/news/articles/cx2z44982e4o?at_medium=RSS&at_campaign=rss",
+    "summary": "A database of trusted tradespeople and a system to protect customers' money is being launched by the government next month.",
+    "pubDate": "Thu, 27 Aug 2026 21:44:02 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Rape and sex offence specialists on all police forces by 2027, PM says",
+    "link": "https://www.bbc.co.uk/news/articles/c1e577l5g99o?at_medium=RSS&at_campaign=rss",
+    "summary": "The plans for forces in England and Wales had been scheduled to be rolled out by summer 2029, but have been brought forward.",
+    "pubDate": "Thu, 27 Aug 2026 21:30:39 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "6 Takeaways From the GTA VI Extended Look",
+    "link": "https://www.wired.com/story/5-takeaways-from-the-gta-vi-extended-look/",
+    "summary": "Grand Theft Auto VI is nigh. Here’s what the developer revealed about its highly anticipated game.",
+    "pubDate": "Thu, 27 Aug 2026 21:30:28 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Show HN: We built open OpenRouter that turns usage into a better model",
+    "link": "https://github.com/experientiallabs/experiential",
+    "summary": "Hi HN, we built an open source model gateway. It's a single place to manage our own self hosted, frontier, and open source models in one place. It’s is rust native, built for concurrency, and implements all the config quirks across models and providers (streaming formats, tool calls, model parame...",
+    "pubDate": "Thu, 27 Aug 2026 21:18:35 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "AI Agents Are Hacking Systems. Could That Push the US and China to Cooperate?",
+    "link": "https://www.wired.com/story/ai-agents-hacking-systems-could-push-the-us-and-china-to-cooperate/",
+    "summary": "This week on “Uncanny Valley,” senior writer Will Knight talks his recent visit to China and the future of AI collaboration.",
+    "pubDate": "Thu, 27 Aug 2026 21:08:34 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Trump signs order to rename Lake Ontario as Lake America",
+    "link": "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss",
+    "summary": "Trump's order comes after the trade talks between the US and Canada collapsed late last week.",
+    "pubDate": "Thu, 27 Aug 2026 21:07:05 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Clean-up of illegal waste supersite costs taxpayers £6m",
+    "link": "https://www.bbc.co.uk/news/articles/cvgyx45zzwgo?at_medium=RSS&at_campaign=rss",
+    "summary": "The bill for clearing the dump in Oxfordshire has been covered by taxpayers.",
+    "pubDate": "Thu, 27 Aug 2026 21:00:48 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "King 'heartbroken' by deadly Nepal flash floods",
+    "link": "https://www.bbc.co.uk/news/articles/c4gvx54ppn5o?at_medium=RSS&at_campaign=rss",
+    "summary": "Some 33 people from the UK are missing, including a 13-year-old girl and 14-year-old boy.",
+    "pubDate": "Thu, 27 Aug 2026 20:52:31 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
+    "link": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/",
+    "summary": "xAI accused of training Grok on real and AI-generated child pornography.",
+    "pubDate": "Thu, 27 Aug 2026 20:52:31 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Meta Paid $17B – Gets to Write Safety Rules for Other SocMedia Platform",
+    "link": "https://www.techdirt.com/2026/08/26/meta-just-paid-nearly-17-billion-to-make-sure-it-gets-to-write-the-kid-safety-rules-for-every-other-social-media-platform/",
+    "summary": "Article URL: https://www.techdirt.com/2026/08/26/meta-just-paid-nearly-17-billion-to-make-sure-it-gets-to-write-the-kid-safety-rules-for-every-other-social-media-platform/ Comments URL: https://news.ycombinator.com/item?id=49470949 Points: 49 # Comments: 5",
+    "pubDate": "Thu, 27 Aug 2026 20:41:51 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Jury deliberating in trial of Lindsay Clancy, US woman accused of killing her children",
+    "link": "https://www.bbc.co.uk/news/articles/c33keeyyv70o?at_medium=RSS&at_campaign=rss",
+    "summary": "Prosecutors argued Clancy made a calculated decision to murder the children, while the defence argued that she was suffering from postpartum psychosis.",
+    "pubDate": "Thu, 27 Aug 2026 20:39:16 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "'Mortified' McInnes takes responsibility for Rangers' European exit",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c4gvxw90428o?at_medium=RSS&at_campaign=rss",
+    "summary": "Manager Derek McInnes says he takes \"full responsibility\" for Rangers' \"embarrassing\" Conference League exit at the hands of Jablonec.",
+    "pubDate": "Thu, 27 Aug 2026 20:23:59 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Rivian’s CFO is leaving the company",
+    "link": "https://techcrunch.com/2026/08/27/rivians-cfo-is-leaving-the-company/",
+    "summary": "Claire McDonough is stepping down on October 30 to pursue a new opportunity, the company said in a filing on Thursday.",
+    "pubDate": "Thu, 27 Aug 2026 20:23:10 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Bluesky adds an ‘algorithmic opt-out’ feature for those who don’t want to go viral",
+    "link": "https://techcrunch.com/2026/08/27/bluesky-adds-an-algorithmic-opt-out-feature-for-those-who-dont-want-to-go-viral/",
+    "summary": "Sometimes people just want to post to their followers, Bluesky says.",
+    "pubDate": "Thu, 27 Aug 2026 20:15:26 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "GOP heads to Supreme Court after losing case over TV election ad prices",
+    "link": "https://arstechnica.com/tech-policy/2026/08/gop-heads-to-supreme-court-after-losing-case-over-tv-election-ad-prices/",
+    "summary": "GOP campaign committees want quick ruling before election ads ramp up next week.",
+    "pubDate": "Thu, 27 Aug 2026 20:06:10 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Buried in Meta’s $18B settlement is a legal pass on kids’ data",
+    "link": "https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/",
+    "summary": "Meta’s settlement with 29 states allows it to retain certain data from children under 13 to train and test age-detection models, highlighting a privacy trade-off built into the deal.",
+    "pubDate": "Thu, 27 Aug 2026 20:04:26 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Sports Direct founder Mike Ashley attacks Burnham's 'populist' High Street plans",
+    "link": "https://www.bbc.co.uk/news/articles/cn74mm2jz8jo?at_medium=RSS&at_campaign=rss",
+    "summary": "In a letter, the entrepreneur accuses the prime minister of \"jumping on 'everyday fixes' or bandwagons\" with his latest cost of living and retail policies.",
+    "pubDate": "Thu, 27 Aug 2026 20:03:34 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
+    "link": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
+    "summary": "Nvidia is nabbing critical infrastructure for open models as interest grows.",
+    "pubDate": "Thu, 27 Aug 2026 19:55:22 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "YouTube now lets creators tag Amazon products and earn commissions from purchases",
+    "link": "https://techcrunch.com/2026/08/27/youtube-now-lets-creators-tag-amazon-products-and-earn-commissions-from-purchases/",
+    "summary": "The update turns product recommendations into a more direct revenue stream for creators, and for Amazon, the move puts its massive online marketplace inside one of the most popular video platforms.",
+    "pubDate": "Thu, 27 Aug 2026 19:54:28 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+    "link": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+    "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
+    "pubDate": "Thu, 27 Aug 2026 19:52:52 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Google Engineer Accused of Polymarket Insider Trading Says He Was Just Gambling",
+    "link": "https://www.wired.com/story/google-engineer-accused-of-polymarket-insider-trading-says-he-was-just-gambling/",
+    "summary": "Michele Spagnuolo was arrested for alleged insider trading on Polymarket, but the Switzerland-based engineer says he was simply gambling—activity that is beyond the reach of US commodities law.",
+    "pubDate": "Thu, 27 Aug 2026 19:12:39 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Werro edges closer to 800m mark as world records fall in Zurich",
+    "link": "https://www.bbc.co.uk/sport/athletics/articles/cgmrvyjn1nvo?at_medium=RSS&at_campaign=rss",
+    "summary": "European champion Audrey Werro came tantalisingly close to downing the oldest outdoor world record in athletics, finishing a little more than four tenths of a second off Jarmila Kratochvilova's 800m mark.",
+    "pubDate": "Thu, 27 Aug 2026 19:09:26 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "AI industry says Trump plans to tax chips in the “single dumbest way imaginable”",
+    "link": "https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/",
+    "summary": "Tech industry is perplexed by Trump’s plan to win AI race by taxing data centers.",
+    "pubDate": "Thu, 27 Aug 2026 18:57:08 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "France relaxes strict cheese-making rules after prolonged drought",
+    "link": "https://www.bbc.co.uk/news/articles/c980e36dd5do?at_medium=RSS&at_campaign=rss",
+    "summary": "Makers of some of France's most famous cheeses get waivers on where herds graze due to the lack of grass.",
+    "pubDate": "Thu, 27 Aug 2026 18:29:38 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Chelsea agree £7.5m fee for Villa's Martinez",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c1j4r033wxzo?at_medium=RSS&at_campaign=rss",
+    "summary": "Chelsea agree a £7.5m fee to sign Aston Villa goalkeeper Emiliano Martinez.",
+    "pubDate": "Thu, 27 Aug 2026 18:28:09 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Labor Day 2026 Deals Got Me a Complete Starter Tool Kit for Under $375",
+    "link": "https://www.wired.com/story/labor-day-2026-home-tool-kit-essentials/",
+    "summary": "I combed through the Labor Day sales to find the power tools and other essentials that cover nearly every household repair.",
+    "pubDate": "Thu, 27 Aug 2026 18:25:30 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Autism mutations drive neurodevelopmental pathology",
+    "link": "https://www.science.org/doi/10.1126/science.ady4523",
+    "summary": "Article URL: https://www.science.org/doi/10.1126/science.ady4523 Comments URL: https://news.ycombinator.com/item?id=49469098 Points: 66 # Comments: 78",
+    "pubDate": "Thu, 27 Aug 2026 18:23:43 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "A Georgia Cop Used Flock to Track 2 Other Cops: His Ex and Her Friend",
+    "link": "https://www.wired.com/story/a-georgia-cop-used-flock-to-track-2-other-cops-his-ex-and-her-friend/",
+    "summary": "After an affair with a fellow police officer ended, a Georgia cop used Flock to track her movements—and those of a man whose vehicle often showed up near hers, internal investigation records show.",
+    "pubDate": "Thu, 27 Aug 2026 18:12:17 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Allan Little: I met dangerously fanatical Mladić early in Bosnian war",
+    "link": "https://www.bbc.co.uk/news/articles/cgl744j0ww1o?at_medium=RSS&at_campaign=rss",
+    "summary": "BBC special correspondent Allan Little met the \"Butcher of Bosnia\" in the early months of the Bosnian war.",
+    "pubDate": "Thu, 27 Aug 2026 18:12:01 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "This Is How Anthropic Thinks AI Agents Should Navigate the Physical World",
+    "link": "https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/",
+    "summary": "The potential for AI to automate scientific research and manufacturing must be balanced with new risks, Anthropic says.",
+    "pubDate": "Thu, 27 Aug 2026 18:06:52 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Previewing the Model Hardware Standard",
+    "link": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+    "summary": "Article URL: https://www.anthropic.com/news/model-hardware-standard-research-preview Comments URL: https://news.ycombinator.com/item?id=49468834 Points: 54 # Comments: 26",
+    "pubDate": "Thu, 27 Aug 2026 18:04:50 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Gemini-3.5-Transcribe",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+    "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/ Comments URL: https://news.ycombinator.com/item?id=49468818 Points: 77 # Comments: 21",
+    "pubDate": "Thu, 27 Aug 2026 18:03:42 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Show HN: Voronoi Go",
+    "link": "https://voronoigo.com/",
+    "summary": "I posted once before but wanted to share again because a lot has changed. There's now a fairly strong bot to play against (contributed by a community member) and also correspondence games. The combination of these things helps a bit in finding people to play against. Comments URL: https://news.yc...",
+    "pubDate": "Thu, 27 Aug 2026 18:03:37 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "新玩意 250｜少数派的编辑们最近买了啥？",
+    "link": "https://sspai.com/post/113905",
+    "summary": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@小葵：超大号封闭式猫砂盆参 ... 查看全文",
+    "pubDate": "Thu, 27 Aug 2026 18:00:05 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "Smith & Cox help England to 248-9 on truncated day one",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/cddv00z4609o?at_medium=RSS&at_campaign=rss",
+    "summary": "Jamie Smith and Jordan Cox battle difficult conditions and an improved Pakistan performance to take England to a competitive total on the opening day of the second Test.",
+    "pubDate": "Thu, 27 Aug 2026 17:54:31 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "ATF declares ‘major incident’ as ransomware gang claims hack",
+    "link": "https://techcrunch.com/2026/08/27/atf-declares-major-incident-as-ransomware-gang-claims-hack/",
+    "summary": "The ATF is the latest federal government agency in recent years to notify Congress of a \"major incident\" involving its cybersecurity.",
+    "pubDate": "Thu, 27 Aug 2026 17:54:23 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "We found a division by zero bug in FFmpeg with a vibecoded fuzzer",
+    "link": "https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290",
+    "summary": "Article URL: https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290 Comments URL: https://news.ycombinator.com/item?id=49468642 Points: 132 # Comments: 99",
+    "pubDate": "Thu, 27 Aug 2026 17:53:40 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "M5Stack Launches PaperMono",
+    "link": "https://shop.m5stack.com/blogs/news/m5stack-launches-papermono-a-compact-e-ink-development-terminal-for-connected-projects",
+    "summary": "Article URL: https://shop.m5stack.com/blogs/news/m5stack-launches-papermono-a-compact-e-ink-development-terminal-for-connected-projects Comments URL: https://news.ycombinator.com/item?id=49468593 Points: 73 # Comments: 25",
+    "pubDate": "Thu, 27 Aug 2026 17:50:57 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The role of climate change in the Nepal floods",
+    "link": "https://www.npr.org/2026/08/27/nx-s1-5946703/the-role-of-climate-change-in-the-nepal-floods",
+    "summary": "The deadly flash floods in Nepal are not a surprise to many scientists. Glacial melt is accelerating because of climate change, putting millions of people at risk.",
+    "pubDate": "Thu, 27 Aug 2026 17:43:57 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+    "link": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+    "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
+    "pubDate": "Thu, 27 Aug 2026 17:43:24 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Man City and Aston Villa to face holders PSG in Champions League",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c5ywxxll10jo?at_medium=RSS&at_campaign=rss",
+    "summary": "European champions Paris St-Germain will face Premier League duo Manchester City and Aston Villa in the league phase of this season's Champions League.",
+    "pubDate": "Thu, 27 Aug 2026 17:32:55 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The iconic T-38 jets flown by astronauts just got a spiffy new look",
+    "link": "https://arstechnica.com/space/2026/08/nasa-t-38-astronaut-training-jet-gets-new-artemis-look/",
+    "summary": "\"Everyone wants to take that aircraft up now...\"",
+    "pubDate": "Thu, 27 Aug 2026 17:26:25 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Netflix Failed at Video Games. Now It’s Trying to Promote Them",
+    "link": "https://www.wired.com/story/netflix-failed-at-video-games-now-its-trying-to-promote-them/",
+    "summary": "Netflix has walked back plans to put AAA games on its streaming platform. Instead, it's pivoting to marketing highly anticipated titles like Grand Theft Auto VI.",
+    "pubDate": "Thu, 27 Aug 2026 17:25:30 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+    "link": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+    "summary": "Article URL: https://blog.cloudflare.com/dns-cache-memory-optimization-1111/ Comments URL: https://news.ycombinator.com/item?id=49468083 Points: 376 # Comments: 107",
+    "pubDate": "Thu, 27 Aug 2026 17:17:57 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Gemini Omni 1.1 Flash",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
+    "summary": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/ Comments URL: https://news.ycombinator.com/item?id=49467922 Points: 161 # Comments: 115",
+    "pubDate": "Thu, 27 Aug 2026 17:06:32 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Google’s new Fitbit Air brings Pokémon Sleep to your wrist",
+    "link": "https://techcrunch.com/2026/08/27/googles-new-fitbit-air-brings-pokemon-sleep-to-your-wrist/",
+    "summary": "Google teamed up with the Pokémon Company to introduce a special-edition Fitbit Air that works with the Pokémon Sleep app.",
+    "pubDate": "Thu, 27 Aug 2026 17:05:45 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Bild AI (YC W25) is hiring product and AI engineers",
+    "link": "https://www.bild.ai/jobs",
+    "summary": "Article URL: https://www.bild.ai/jobs Comments URL: https://news.ycombinator.com/item?id=49467837 Points: 0 # Comments: 0",
+    "pubDate": "Thu, 27 Aug 2026 17:00:14 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Fashion startup Atorie raises $9.5M to bring consumers luxury goods without the markup",
+    "link": "https://techcrunch.com/2026/08/27/fashion-startup-atorie-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/",
+    "summary": "Shoppers can visit the Atorie website and buy handbags or clothes made from the same material — and coming from the same factory — that manufacturers use in high-end goods.",
+    "pubDate": "Thu, 27 Aug 2026 17:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Hoomanely’s building a smart feeding bowl and an AI platform to help owners spot when their pup is sick",
+    "link": "https://techcrunch.com/2026/08/27/hoomanelys-building-a-smart-feeding-bowl-and-an-ai-platform-to-help-owners-spot-when-their-pup-is-sick/",
+    "summary": "Hoomanely has developed a smart bowl to measure and record dogs' feeding data, then tells owners if behaviors change.",
+    "pubDate": "Thu, 27 Aug 2026 16:53:50 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "OpenAI Is Developing a ‘Persistent’ AI Agent",
+    "link": "https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/",
+    "summary": "Code reviewed by WIRED reveals the company is developing a feature that enables Codex to continue working proactively until it is “put to sleep.”",
+    "pubDate": "Thu, 27 Aug 2026 16:52:42 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "RFK Jr. goes full anti-vaccine bananas over two measles deaths—one was a newborn",
+    "link": "https://arstechnica.com/health/2026/08/rfk-jr-spews-anti-vaccine-rubbish-as-newborn-revealed-to-have-died-from-measles/",
+    "summary": "Kennedy and his allies have a history of downplaying vaccine-preventable deaths.",
+    "pubDate": "Thu, 27 Aug 2026 16:36:16 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Watch: Tracing the deadly path of the Nepal-Tibet flash flood",
+    "link": "https://www.bbc.co.uk/news/videos/cp80m87pez3o?at_medium=RSS&at_campaign=rss",
+    "summary": "BBC Verify traces the path of the destructive Nepal-Tibet flash flood using verified video.",
+    "pubDate": "Thu, 27 Aug 2026 16:13:39 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Has Social Media For Children Just Changed Forever?",
+    "link": "https://www.bbc.co.uk/sounds/play/p0p64vfj?at_medium=RSS&at_campaign=rss",
+    "summary": "Tech giant Meta will pay up to $18billion to settle claims its platforms harm children",
+    "pubDate": "Thu, 27 Aug 2026 16:04:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Helicopter pilot describes what he's seen rescuing people in Nepal",
+    "link": "https://www.npr.org/2026/08/27/nx-s1-5946443/helicopter-pilot-describes-what-hes-seen-rescuing-people-in-nepal",
+    "summary": "Andy Thapa is a charter and rescue pilot for a Nepali helicopter company. He's been rescuing people stranded by the catastrophic flooding, and carrying them to safety.",
+    "pubDate": "Thu, 27 Aug 2026 16:01:44 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Optimus Prime and Eeyore voice actor Peter Cullen dies",
+    "link": "https://www.bbc.co.uk/news/articles/c15844gwe0wo?at_medium=RSS&at_campaign=rss",
+    "summary": "Cullen voiced the heroic Optimus Prime in the Transformers TV series and then the Hollywood films.",
+    "pubDate": "Thu, 27 Aug 2026 16:00:12 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+    "link": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+    "summary": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process.",
+    "pubDate": "Thu, 27 Aug 2026 16:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Small Models Have Arrived",
+    "link": "https://calv.info/small-models-have-arrived",
+    "summary": "Article URL: https://calv.info/small-models-have-arrived Comments URL: https://news.ycombinator.com/item?id=49466917 Points: 361 # Comments: 162",
+    "pubDate": "Thu, 27 Aug 2026 15:56:58 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Suica, Japan's First IC Transit Card",
+    "link": "https://www.tokyodev.com/articles/the-story-of-suica",
+    "summary": "Article URL: https://www.tokyodev.com/articles/the-story-of-suica Comments URL: https://news.ycombinator.com/item?id=49466894 Points: 151 # Comments: 118",
+    "pubDate": "Thu, 27 Aug 2026 15:55:12 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Show HN: Watches user sessions, finds bugs that matter, and fixes them",
+    "link": "https://github.com/opslane/opslane",
+    "summary": "Hey HN, I’m Abhishek. I'm building Opslane, an open-source agent that identifies user-facing issues and investigates them. It only creates a PR if it can verify the fix. Demo: https://youtu.be/ccuOTYQMeYg Docs: https://docs.opslane.com At my last job at Robinhood, we used to do a quarterly bug ba...",
+    "pubDate": "Thu, 27 Aug 2026 15:45:16 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Engineered yeast for converting plastic and biomass compounds into food",
+    "link": "https://acs.digitellinc.com/live/37/session/586399",
+    "summary": "Article URL: https://acs.digitellinc.com/live/37/session/586399 Comments URL: https://news.ycombinator.com/item?id=49466622 Points: 59 # Comments: 41",
+    "pubDate": "Thu, 27 Aug 2026 15:40:04 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Why did 1,000 world citizens bury their underpants?",
+    "link": "https://arstechnica.com/science/2026/08/why-did-1000-swiss-citizens-bury-their-underpants/",
+    "summary": "Study: Land use is the biggest factor in determining decomposition rates of organic cotton underpants.",
+    "pubDate": "Thu, 27 Aug 2026 15:39:42 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
     "title": "日常使用 Linux 的第六个年头，这些经验希望能打消你的顾虑",
     "link": "https://sspai.com/post/89194",
     "summary": "不知不觉，我日常使用 Linux 已经有第 6 个年头了。一个词概括，「舒适」。 查看全文",
@@ -296,12 +824,332 @@
     "category": "tech-cn"
   },
   {
+    "title": "Teacher guilty of indecent assaults against two pupils",
+    "link": "https://www.bbc.co.uk/news/articles/c70d4wd43e4o?at_medium=RSS&at_campaign=rss",
+    "summary": "Sally-Anne Bowen, 65, was convicted at Harrow Crown Court of seven counts of indecent assault.",
+    "pubDate": "Thu, 27 Aug 2026 15:14:26 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The mechanics of the Nepali flash flood",
+    "link": "https://www.economist.com/science-and-technology/2026/08/27/the-terrifying-mechanics-of-the-nepali-flash-flood",
+    "summary": "Article URL: https://www.economist.com/science-and-technology/2026/08/27/the-terrifying-mechanics-of-the-nepali-flash-flood Comments URL: https://news.ycombinator.com/item?id=49466188 Points: 56 # Comments: 14",
+    "pubDate": "Thu, 27 Aug 2026 15:13:26 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Decompiling a Nintendo 64 game in 84 days",
+    "link": "https://blog.chrislewis.au/decompiling-a-nintendo-64-game-in-84-days/",
+    "summary": "Article URL: https://blog.chrislewis.au/decompiling-a-nintendo-64-game-in-84-days/ Comments URL: https://news.ycombinator.com/item?id=49466006 Points: 153 # Comments: 72",
+    "pubDate": "Thu, 27 Aug 2026 15:01:11 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "This former PG&E engineer is building a ‘Google Maps for the underground’",
+    "link": "https://techcrunch.com/2026/08/27/this-former-pge-engineer-is-building-a-google-maps-for-the-underground/",
+    "summary": "The startup just raised a $26 million Series A to grow its customer base and help reduce red tape for utility and construction work.",
+    "pubDate": "Thu, 27 Aug 2026 15:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
+    "link": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
+    "summary": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”",
+    "pubDate": "Thu, 27 Aug 2026 14:56:52 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Trump directs federal government to rename Lake Ontario to Lake America",
+    "link": "https://www.npr.org/2026/08/27/g-s1-140583/trump-lake-ontario-america",
+    "summary": "President Trump signed an executive order on Thursday directing the federal government to rename Lake Ontario amid an escalating trade dispute with Canada .",
+    "pubDate": "Thu, 27 Aug 2026 14:53:17 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Panic passes Trump tariff refunds back to the Playdate customers who paid them",
+    "link": "https://arstechnica.com/gaming/2026/08/panic-refunds-illegal-tariffs-customers-paid-on-its-playdate-gaming-handheld/",
+    "summary": "\"It just felt like the right thing to do.\"",
+    "pubDate": "Thu, 27 Aug 2026 14:53:17 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Launching Route 53 Files",
+    "link": "https://www.daemonology.net/blog/2026-08-27-Launching-Route-53-Files.html",
+    "summary": "Article URL: https://www.daemonology.net/blog/2026-08-27-Launching-Route-53-Files.html Comments URL: https://news.ycombinator.com/item?id=49465732 Points: 89 # Comments: 33",
+    "pubDate": "Thu, 27 Aug 2026 14:45:23 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Uefa preparing criminal legal action against Infantino",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cx2zl5kwlxjo?at_medium=RSS&at_campaign=rss",
+    "summary": "Uefa is pursuing criminal proceedings against Fifa president Gianni Infantino over the scrapped plan to sell off stakes in the World Cup.",
+    "pubDate": "Thu, 27 Aug 2026 14:42:09 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Hold up, there’s a new Twitter in town",
+    "link": "https://techcrunch.com/2026/08/27/hold-up-theres-a-new-twitter-in-the-town/",
+    "summary": "Former Twitter trademark counsel Stephen Coates said in a LinkedIn post that the company is not trying to re-create Twitter.",
+    "pubDate": "Thu, 27 Aug 2026 14:40:22 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Sprains, pain, and whiplash: Waymo and Zoox test drivers are getting hurt as robotaxis scale",
+    "link": "https://techcrunch.com/2026/08/27/sprains-pain-and-whiplash-waymo-and-zoox-test-drivers-are-getting-hurt-as-robotaxis-scale/",
+    "summary": "Test drivers for Waymo and Zoox sustained more than two dozen injuries in 2024 and 2025 from hard braking or other sudden movements made by the autonomous vehicles, according to a TechCrunch review of data submitted to OSHA.",
+    "pubDate": "Thu, 27 Aug 2026 14:36:37 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Australian police arrest two over TeamPCP hacks targeting Mercor, OpenAI, and others",
+    "link": "https://techcrunch.com/2026/08/27/australian-police-arrest-two-over-teampcp-hacks-targeting-mercor-openai-and-others/",
+    "summary": "The arrests come after a wave of cyberattacks earlier this year targeting tech companies that rely on high-profile and widely used open source software.",
+    "pubDate": "Thu, 27 Aug 2026 14:27:52 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "AI’s memory crunch is coming for Android apps",
+    "link": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
+    "summary": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory.",
+    "pubDate": "Thu, 27 Aug 2026 14:27:04 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Traders brought Central American cacao to Georgia 1,000 years ago",
+    "link": "https://arstechnica.com/science/2026/08/traders-brought-central-american-cacao-to-georgia-1000-years-ago/",
+    "summary": "\"We built this city on good cacao\" does have a nice ring to it.",
+    "pubDate": "Thu, 27 Aug 2026 14:22:42 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Blake Lively awarded $400,000 of $8m she claimed for legal fees in Baldoni battle",
+    "link": "https://www.bbc.co.uk/news/articles/c0lrwlzrk86o?at_medium=RSS&at_campaign=rss",
+    "summary": "A judge awards less than Lively requested to cover her legal fees to fight a defamation case he filed.",
+    "pubDate": "Thu, 27 Aug 2026 14:18:31 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "507 Mechanical Movements",
+    "link": "https://507movements.com/",
+    "summary": "Book (1868): https://archive.org/details/fivehundredseven00browiala Comments URL: https://news.ycombinator.com/item?id=49465169 Points: 419 # Comments: 63",
+    "pubDate": "Thu, 27 Aug 2026 14:08:18 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Here’s all the times AI has gone rogue and hacked other companies",
+    "link": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
+    "summary": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
+    "pubDate": "Thu, 27 Aug 2026 14:01:42 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
+    "link": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
+    "summary": "227 install commands were found in corporate docs pointing at code nobody owns.",
+    "pubDate": "Thu, 27 Aug 2026 14:00:13 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "How much of a problem is AI’s water use?",
+    "link": "https://arstechnica.com/ai/2026/08/how-much-of-a-problem-is-ais-water-use/",
+    "summary": "AI’s water footprint is growing, but location and cooling technology make a difference.",
+    "pubDate": "Thu, 27 Aug 2026 13:57:08 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "The monstrous crimes of Ratko Mladic, the 'Butcher of Bosnia'",
+    "link": "https://www.bbc.co.uk/news/articles/c2q05wzlx5xo?at_medium=RSS&at_campaign=rss",
+    "summary": "The Bosnian Serb commander led a campaign of ethnic cleansing during the Bosnian conflict.",
+    "pubDate": "Thu, 27 Aug 2026 13:48:09 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Understanding useMemo and useCallback",
+    "link": "https://www.joshwcomeau.com/react/usememo-and-usecallback/",
+    "summary": "Comments",
+    "pubDate": "Thu, 27 Aug 2026 13:37:56 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "What the Meta settlement means for the UK, and other questions after the deal",
+    "link": "https://www.bbc.co.uk/news/articles/cg49q4xydq0o?at_medium=RSS&at_campaign=rss",
+    "summary": "Other social media firms are yet to respond, while the debate from campaigners is far from over.",
+    "pubDate": "Thu, 27 Aug 2026 13:24:03 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The stakes are high as Kevin Warsh is set to give his first major speech as Fed Chair",
+    "link": "https://www.npr.org/2026/08/27/nx-s1-5945044/federal-reserve-kevin-warsh-jackson-hole-wyoming-bond-markets",
+    "summary": "The stakes are high as Fed Chair Kevin Warsh prepares to give a speech on Friday at the annual gathering of economists and central bankers in Jackson Hole, Wyoming.",
+    "pubDate": "Thu, 27 Aug 2026 13:01:36 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
+    "link": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
+    "summary": "Called Plaud One, these adopt the simple bare-bones style of Apple's AirPods, and can record calls, while their case can be used to record in-person conversations or take notes.",
+    "pubDate": "Thu, 27 Aug 2026 13:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Alienware AW3926QW Review: 39 Inches of Gaming Glory",
+    "link": "https://www.wired.com/review/alienware-aw3926qw-gaming-monitor/",
+    "summary": "Alienware’s latest gaming monitor explores a new size and resolution for ultrawide monitors, and I have a feeling PC gamers are going to love it.",
+    "pubDate": "Thu, 27 Aug 2026 13:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
+    "link": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+    "summary": "Without authorization, 1,200 OpenAI agents conspired among themselves to game a test.",
+    "pubDate": "Thu, 27 Aug 2026 12:58:59 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Float Bloat: vector serialization gone wrong",
+    "link": "https://bonsai.io/blog/float-bloat/",
+    "summary": "Comments",
+    "pubDate": "Thu, 27 Aug 2026 12:12:50 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Dame Jenni Murray died days after car crash, inquest hears",
+    "link": "https://www.bbc.co.uk/news/articles/cm27y2dx7pwo?at_medium=RSS&at_campaign=rss",
+    "summary": "The former presenter of BBC Radio 4 Woman's Hour died earlier this year, eight days after the collision.",
+    "pubDate": "Thu, 27 Aug 2026 11:52:28 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "UNIX V4 workshop at Low Resource Computing",
+    "link": "https://github.com/thaliaarchi/unix-v4-demo/blob/main/README.md",
+    "summary": "Comments",
+    "pubDate": "Thu, 27 Aug 2026 11:43:34 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
+    "link": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+    "summary": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
+    "pubDate": "Thu, 27 Aug 2026 11:35:59 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Bentley takes us for a ride in its new EV, the Torcal",
+    "link": "https://arstechnica.com/cars/2026/08/an-ev-that-sounds-like-a-6-75-l-v8-a-ride-in-the-bentley-torcal/",
+    "summary": "The electric Torcal will be Bentley's entry model and cost less than a Bentayga.",
+    "pubDate": "Thu, 27 Aug 2026 11:30:09 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Symmetries in boolean scans",
+    "link": "https://ap29600.github.io/boolean_scans.html",
+    "summary": "Comments",
+    "pubDate": "Thu, 27 Aug 2026 11:12:37 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Best Posture Correctors for Better Body Alignment (2026)",
+    "link": "https://www.wired.com/gallery/posture-correctors/",
+    "summary": "You’re hunched over your desk and phone for hours. I rounded up gadgets, a DIY trick, and even some yoga advice to help you straighten up.",
+    "pubDate": "Thu, 27 Aug 2026 11:05:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
     "title": "来自 1997 年的迷你笔记本电脑，东芝 Libretto 50M 怀旧手记",
     "link": "https://sspai.com/post/113222",
     "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
     "pubDate": "Thu, 27 Aug 2026 11:01:42 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "A biopic, a coffee brand and dog treats among Dolly Parton's business projects still to come",
+    "link": "https://www.bbc.co.uk/news/articles/c9dwy750jpdo?at_medium=RSS&at_campaign=rss",
+    "summary": "\"Dolly worked up until the day she died,\" her manager says, as her upcoming projects are revealed.",
+    "pubDate": "Thu, 27 Aug 2026 11:00:10 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Submit Your Questions: The Great Data Center Backlash",
+    "link": "https://www.wired.com/story/livestream-the-great-data-center-backlash/",
+    "summary": "You have questions about data centers, and WIRED has answers. Join our livestream on September 10 and our panel of experts will tell you everything you need to know.",
+    "pubDate": "Thu, 27 Aug 2026 11:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Top Gear to return to TV four years after Flintoff crash, BBC confirms",
+    "link": "https://www.bbc.co.uk/news/articles/clym7yrdk29o?at_medium=RSS&at_campaign=rss",
+    "summary": "The show was \"rested\" after co-host Andrew Flintoff was injured in a crash during filming in 2022.",
+    "pubDate": "Thu, 27 Aug 2026 10:57:12 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "A Million Kakapos",
+    "link": "https://blog.mempko.com/a-million-kakapos/",
+    "summary": "Comments",
+    "pubDate": "Thu, 27 Aug 2026 10:41:58 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Stop Touching Your Keyboard. Use This AI-Powered Microphone Instead",
+    "link": "https://www.wired.com/story/relay-q-voice-to-text-ai-app/",
+    "summary": "The Relay Q, due next year, is the latest attempt to reposition voice as the most seamless method for human-computer interaction.",
+    "pubDate": "Thu, 27 Aug 2026 10:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "The Server Called Paranoia: Defend Autistici/Inventati Before September 25",
+    "link": "https://cavallette.noblogs.org/2026/08/10083/2",
+    "summary": "Comments",
+    "pubDate": "Thu, 27 Aug 2026 10:20:00 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Watch: How the collapse of a glacier caused such devastation",
+    "link": "https://www.bbc.co.uk/news/videos/ckgxnrg8j19o?at_medium=RSS&at_campaign=rss",
+    "summary": "At least 270 people have died in the massive flash floods, while more than 800 others are missing.",
+    "pubDate": "Thu, 27 Aug 2026 10:17:45 GMT",
+    "source": "BBC News",
+    "category": "general"
   },
   {
     "title": "The Best Google Pixel Phones of 2026: Comparison, Features, and Accessories",
@@ -336,6 +1184,14 @@
     "category": "general"
   },
   {
+    "title": "Ratko Mladic, ex-Bosnian Serb warlord who oversaw atrocities, has died at 84",
+    "link": "https://www.npr.org/2026/08/27/nx-s1-5946375/ratko-mladic-dead",
+    "summary": "Ratko Mladic was one of the most notorious figures of a war that killed over 100,000 people in the 1990s. He commanded his troops to \"scorch the brains\" of the Bosnian Muslims and boasted of being a \"Serbian God.\"",
+    "pubDate": "Thu, 27 Aug 2026 09:32:43 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "Residents need to feel safe after deadly crash and fire near Middlesbrough, council leader says",
     "link": "https://www.bbc.co.uk/news/articles/ckgvnjpv1l0o?at_medium=RSS&at_campaign=rss",
     "summary": "Teesside MPs and a council leader say communities need to feel safe after the incidents over the past week.",
@@ -358,6 +1214,14 @@
     "pubDate": "Thu, 27 Aug 2026 09:19:40 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "AI searched 100 million possibilities and found a cheaper way to 3D-print a NASA rocket alloy",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260827010504.htm",
+    "summary": "Researchers used AI to search through more than 100 million possible settings for 3D-printing a high-performance NASA alloy. After only 40 experiments, the system identified six successful configurations, including one that worked at a record-low 500 watts. That could allow GRCop-42, currently di...",
+    "pubDate": "Thu, 27 Aug 2026 09:08:01 EDT",
+    "source": "Science Daily",
+    "category": "science"
   },
   {
     "title": "Delap joins Forest for £50m bidding to rebuild career",
@@ -384,12 +1248,28 @@
     "category": "general"
   },
   {
+    "title": "“I jumped from my chair” – Astronomers spot Betelgeuse’s hidden companion",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260827010514.htm",
+    "summary": "Astronomers have captured their clearest image yet of Betelgeuse’s long-suspected companion, potentially ending a search that lasted about 100 years. The surprisingly massive hidden star could help explain Betelgeuse’s changing brightness and may influence its future supernova.",
+    "pubDate": "Thu, 27 Aug 2026 08:43:27 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "The Dutch are filling gas wells with cement",
     "link": "https://www.siliconcontinent.com/p/the-dutch-are-filling-gas-wells-with",
     "summary": "Article URL: https://www.siliconcontinent.com/p/the-dutch-are-filling-gas-wells-with Comments URL: https://news.ycombinator.com/item?id=49461608 Points: 21 # Comments: 18",
     "pubDate": "Thu, 27 Aug 2026 08:28:31 +0000",
     "source": "Hacker News",
     "category": "tech"
+  },
+  {
+    "title": "Your dislike of eating bugs may be 9,000 years old",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260827010516.htm",
+    "summary": "Ancient teeth and human DNA are revealing a surprising history of insect eating. Modern humans in northern Eurasia appear to have eaten insects only occasionally, while Neanderthals may have consumed them much more regularly. Populations near the tropics also retained genes that make insect exosk...",
+    "pubDate": "Thu, 27 Aug 2026 08:18:38 EDT",
+    "source": "Science Daily",
+    "category": "science"
   },
   {
     "title": "Liverpool close in on £120m deal for PSG's Barcola",
@@ -400,12 +1280,28 @@
     "category": "general"
   },
   {
+    "title": "Eating more ultra-processed foods may raise prostate cancer risk by 30%",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260826055457.htm",
+    "summary": "Ultra-processed foods make up a huge share of the American diet, and new research suggests they may carry another serious health risk for men. In a nationally representative study of more than 17,000 U.S. men, those who ate more ultra-processed foods, including soft drinks, packaged snacks, cerea...",
+    "pubDate": "Thu, 27 Aug 2026 07:52:35 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "派早报：Apple 调整妙控键盘的键帽符号、闪迪推出宝可梦纪念款产品等",
     "link": "https://sspai.com/post/113873",
     "summary": "OpenAI 发布 ChatGPT Admin 插件、Commodore 推出《赛博朋克 2077》主题复古电脑等。 查看全文",
     "pubDate": "Thu, 27 Aug 2026 07:33:04 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "The real cause of most wildfires? People",
+    "link": "https://www.npr.org/2026/08/27/nx-s1-5944328/the-real-cause-of-most-wildfires-people",
+    "summary": "More than three quarters of all wildfires in the U.S. are caused by human behavior including accidents, negligence and arson.",
+    "pubDate": "Thu, 27 Aug 2026 07:30:00 -0400",
+    "source": "NPR",
+    "category": "general"
   },
   {
     "title": "'The flood took everything': Survivors describe horror",
@@ -424,6 +1320,30 @@
     "category": "general"
   },
   {
+    "title": "Meta reaches $17B settlement. And, nuclear regulator to abandon radiation safety rule",
+    "link": "https://www.npr.org/2026/08/27/g-s1-140414/up-first-newsletter-meta-settlement-mail-in-voting-nrc-regulations-nepal-tibet-flooding",
+    "summary": "Meta and the states that sued the company have agreed to a $17 billion settlement. And, nuclear regulators are preparing to abandon a decades-old radiation safety rule.",
+    "pubDate": "Thu, 27 Aug 2026 07:02:41 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Rwandans love their milk bars. The health minister wishes they'd drink a little less",
+    "link": "https://www.npr.org/2026/08/27/g-s1-139914/milk-rwanda-milk-bar",
+    "summary": "A big glass of moo juice — no, make that several glasses a day — is common in Rwanda. Is that too much of a good thing?",
+    "pubDate": "Thu, 27 Aug 2026 06:54:44 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Floods kill nearly 400 people in Nepal and Tibet, with 90 Americans among the missing",
+    "link": "https://www.npr.org/2026/08/27/nx-s1-5946309/nepal-tibet-deadly-floods",
+    "summary": "Many of the missing are foreign tourists after deadly floods hit the Nepal-Tibet border, sweeping away entire villages.",
+    "pubDate": "Thu, 27 Aug 2026 06:50:35 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "Key moments from Lindsay Clancy's five-week trial over children's killings",
     "link": "https://www.bbc.co.uk/news/articles/cg7mlmg475go?at_medium=RSS&at_campaign=rss",
     "summary": "Closing arguments are about to start in a trial which has drawn global attention to the rare condition postpartum psychosis.",
@@ -432,12 +1352,36 @@
     "category": "general"
   },
   {
+    "title": "Vitamin C won’t prevent most colds, but it may do one small thing",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260827010507.htm",
+    "summary": "The belief that huge doses of vitamin C can ward off colds was popularized more than 50 years ago by Nobel Prize winner Linus Pauling. Since then, larger studies have found that vitamin C does not prevent most people from catching a cold, although regularly taking it may make severe symptoms slig...",
+    "pubDate": "Thu, 27 Aug 2026 06:38:30 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Please stop flooding our projects with AI slop to furnish your CV",
+    "link": "https://neilalexander.dev/2026/06/30/flooding-contributions.html",
+    "summary": "Comments",
+    "pubDate": "Thu, 27 Aug 2026 06:36:05 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Nvidia closes in on Hugging Face acquisition",
     "link": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
     "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
     "pubDate": "Thu, 27 Aug 2026 06:32:51 +0000",
     "source": "TechCrunch",
     "category": "tech"
+  },
+  {
+    "title": "A mysterious cosmic hum may come from 13-billion-year-old dark stars",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260827010457.htm",
+    "summary": "Today’s mysterious gravitational-wave background may preserve clues about how the Universe’s first supermassive black holes formed. Descendants of hypothetical Dark Stars could be responsible for a major portion of the signal, offering a surprising new way to investigate cosmic dawn and dark matter.",
+    "pubDate": "Thu, 27 Aug 2026 06:26:04 EDT",
+    "source": "Science Daily",
+    "category": "science"
   },
   {
     "title": "Watson to face fellow Briton Dart for US Open spot",
@@ -470,6 +1414,14 @@
     "pubDate": "Thu, 27 Aug 2026 06:00:00 +0000",
     "source": "Wired",
     "category": "tech"
+  },
+  {
+    "title": "Scientists switch on a strange new form of magnetism in an ultrathin material",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260826055454.htm",
+    "summary": "Scientists have found a surprising way to potentially switch on an unusual form of magnetism in ruthenium dioxide, a material that normally appears nonmagnetic. When the material was made into an ultrathin film only a few atomic layers thick and placed under strain, its electrons developed patter...",
+    "pubDate": "Thu, 27 Aug 2026 05:23:20 EDT",
+    "source": "Science Daily",
+    "category": "science"
   },
   {
     "title": "Clash over Germany's Nazi past as far-right AfD poised for election breakthrough",
@@ -560,6 +1512,14 @@
     "category": "tech"
   },
   {
+    "title": "324-million-year-old fossil reveals how insects conquered land",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260827010455.htm",
+    "summary": "Ancient fossils suggest insects conquered land through a long amphibious phase rather than making an abrupt jump from water to dry ground. A newly identified 324-million-year-old species still carried paddle-like abdominal limbs, revealing an evolutionary bridge between aquatic ancestors and mode...",
+    "pubDate": "Thu, 27 Aug 2026 03:22:34 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "Why Meta's settlement could be an 'inflection point' for reining in Big Tech",
     "link": "https://www.npr.org/2026/08/27/nx-s1-5945278/meta-settlement-child-safety-big-tech",
     "summary": "2026 has already brought a wave of setbacks for social media giants as pressure grows on Big Tech from regulators and lawmakers around the world.",
@@ -592,6 +1552,14 @@
     "category": "general"
   },
   {
+    "title": "Smart nanoparticles light up brain cancer and destroy what surgery misses",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260826060617.htm",
+    "summary": "Scientists created smart nanoparticles that can both illuminate hidden glioblastoma cells during surgery and destroy microscopic cancer left behind afterward. In mice, the treatment prevented recurrence and led to 100% survival at 60 days, though it has not yet been tested in humans.",
+    "pubDate": "Thu, 27 Aug 2026 01:52:48 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "Laion Big Video Dataset",
     "link": "https://projects.laion.ai/bvd/",
     "summary": "Article URL: https://projects.laion.ai/bvd/ Comments URL: https://news.ycombinator.com/item?id=49458478 Points: 64 # Comments: 17",
@@ -614,6 +1582,14 @@
     "pubDate": "Thu, 27 Aug 2026 01:12:55 +0000",
     "source": "Hacker News",
     "category": "tech"
+  },
+  {
+    "title": "Scientists discover a brain “brake” that can shut down chronic pain",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260826055442.htm",
+    "summary": "Researchers discovered a brain-based “brake” that can shut down chronic nerve pain in mice by calming an overactive pain circuit. Targeting this system more precisely could one day lead to powerful pain relief without affecting opioid receptors throughout the entire body.",
+    "pubDate": "Thu, 27 Aug 2026 00:46:20 EDT",
+    "source": "Science Daily",
+    "category": "science"
   },
   {
     "title": "How to See the Partial Lunar Eclipse and Blood Moon on August 27",
@@ -640,6 +1616,134 @@
     "category": "tech"
   },
   {
+    "title": "Meta addresses ‘pervert glasses’ reputation with a privacy fix and a new marketing campaign",
+    "link": "https://www.theverge.com/tech/985851/meta-privacy-loophole-fix-marketing-campaign",
+    "summary": "Meta is updating its AI-powered smart glasses to close a loophole that allowed wearers to keep recording after covering the front-facing LED. Alex Himel, Meta's vice president of augmented reality, writes in a post on Threads that \"the camera will now stop working if the light is covered during a...",
+    "pubDate": "2026-08-27T17:37:45-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "GTA VI looks just as great as we could hope for",
+    "link": "https://www.theverge.com/games/983941/grand-theft-auto-vi-gta-netflix-extended-look",
+    "summary": "Netflix and Rockstar Games finally debuted their \"extended look\" at Grand Theft Auto VI. It showed that the new game looks to keep much of the spirit of GTA - exploration, driving, crimes, shooting, and cinematic story scenes. But everything just looks much better than previous entries, with impr...",
+    "pubDate": "2026-08-27T15:49:57-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Google’s AI note-taking app now allows you to interact with books",
+    "link": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
+    "summary": "Google's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased. The new \"Expert Intelligence\" feature allows you to bring titles from Google Play Books directly into Gemini Notebook, which means you can ask questions about the material, as well as generate ...",
+    "pubDate": "2026-08-27T15:30:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Google tells Android app developers to cool it on memory use, or else",
+    "link": "https://www.theverge.com/tech/985679/google-play-android-17-memory-limit",
+    "summary": "Google will start policing memory-hungry Android apps as a direct response to the RAM crisis. Spotted by TechCrunch, the company yesterday published a memo addressing the Play Store's role in enforcing new memory-usage restrictions. The post emphasizes the importance of meeting new memory usage l...",
+    "pubDate": "2026-08-27T14:33:11-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Speedo’s new smart goggles module can track all four swim strokes",
+    "link": "https://www.theverge.com/gadgets/985650/speedo-iq-vanquisher-goggles-module",
+    "summary": "Speedo is launching a removable smart module for its Vanquisher goggles that can analyze a swimmer's performance across all four swim strokes: freestyle, backstroke, breaststroke, and butterfly. The new Speedo iQ system uses swim-specific sensors to analyze head movement in the water, time breath...",
+    "pubDate": "2026-08-27T12:18:51-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
+    "summary": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate goals some of its biggest players have spent years chasing. Almost immediately, Huang dismissed the coveted milestone as \"senseless.\" He's right. For the su...",
+    "pubDate": "2026-08-27T12:15:52-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Sony finally has a cheaper OLED to compete with midrange Samsung and LG TVs",
+    "link": "https://www.theverge.com/tech/985363/sony-releases-cheaper-bravia-6-oled-tv",
+    "summary": "After unexpectedly showing up on a wall-mounting compatibility chart on Sony's site back in June, the company has announced the Sony Bravia 6 OLED TV. The TV sits below its other OLED TVs - the Bravia 8 and Bravia 8 II - as well as its Bravia 9 II and Bravia 7 II RGB LED [&#8230;]",
+    "pubDate": "2026-08-27T12:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Americans are cheering for vigilantes who take down Flock cameras",
+    "link": "https://www.theverge.com/tech/985155/flock-camera-destruction-vigilantes",
+    "summary": "Americans have declared war on Flock cameras. They've protested them, damaged them, and destroyed them. This is only the beginning. The spontaneous and decentralized nature of the vigilante protests is also what makes them difficult to suppress. There isn't a uniform method of disruption; people ...",
+    "pubDate": "2026-08-27T11:49:47-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Google launches Pokémon Sleep special-edition Fitbit Air",
+    "link": "https://www.theverge.com/gadgets/985584/google-fitbit-air-pokemon-sleep",
+    "summary": "The latest special-edition of Google's Fitbit Air is inspired by the Pok&#233;mon Sleep game, with a \"Sleepy Blue\" band emblazoned with a snoozing Pikachu. It's not exactly Snorlax blue, but matches the classic blue and gold of a Pok&#233;mon card pretty closely. The special-edition is available ...",
+    "pubDate": "2026-08-27T10:58:33-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "A solution to the mystery of the missing neutrinos",
+    "link": "https://www.nature.com/articles/d41586-026-02628-9",
+    "summary": "Nature, Published online: 27 August 2026; doi:10.1038/d41586-026-02628-9 Lecture preparations prompt a scientist to poke holes in the ‘gallium anomaly’.",
+    "pubDate": "2026-08-27",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Animal-microbe partnerships date back to the dawn of complex life",
+    "link": "https://www.nature.com/articles/d41586-026-02629-8",
+    "summary": "Nature, Published online: 27 August 2026; doi:10.1038/d41586-026-02629-8 Geochemical clues hint that worm-like creatures in the Ediacaran period benefited from symbiosis with bacteria.",
+    "pubDate": "2026-08-27",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "‘Robot Olympics’ reveal humanoids' rapid progress — but hurdles remain",
+    "link": "https://www.nature.com/articles/d41586-026-02713-z",
+    "summary": "Nature, Published online: 27 August 2026; doi:10.1038/d41586-026-02713-z Humanoid robots broke records at sporting events such as sprints, but struggled at practical tasks such as hammering nails.",
+    "pubDate": "2026-08-27",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Glacier collapse caused Nepal’s deadly flash flood — a sign of things to come?",
+    "link": "https://www.nature.com/articles/d41586-026-02716-w",
+    "summary": "Nature, Published online: 27 August 2026; doi:10.1038/d41586-026-02716-w Global warming is making high-altitude regions unstable, and could trigger more frequent landslides and floods.",
+    "pubDate": "2026-08-27",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Women face bans on research underground — here’s how to modernize the system",
+    "link": "https://www.nature.com/articles/d41586-026-02679-y",
+    "summary": "Nature, Published online: 27 August 2026; doi:10.1038/d41586-026-02679-y In many countries, female engineers are barred from entering deep mines to carry out studies. Differentiating risks can increase access while protecting safety.",
+    "pubDate": "2026-08-27",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "The Roman telescope is about to take planet-hunting to the next level",
+    "link": "https://www.nature.com/articles/d41586-026-02662-7",
+    "summary": "Nature, Published online: 27 August 2026; doi:10.1038/d41586-026-02662-7 NASA’s Nancy Grace Roman Space Telescope, set to launch shortly, could find 40 times the number of distant worlds as have been detected so far.",
+    "pubDate": "2026-08-27",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Why are El Niños getting stronger? 1000-year-coral record points to climate change",
+    "link": "https://www.nature.com/articles/d41586-026-02717-9",
+    "summary": "Nature, Published online: 27 August 2026; doi:10.1038/d41586-026-02717-9 A reconstruction of Pacific Ocean sea surface temperatures adds to the evidence that human-caused warming is boosting El Niño events.",
+    "pubDate": "2026-08-27",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
     "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
     "link": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
     "summary": "Nvidia's predicting it will pull in $108 billion in revenue within just a few months. It wouldn't be the first company to rake in over $100 billion in quarterly revenue - Amazon, Apple, and Alphabet have repeatedly reached the milestone. Nvidia said in its latest earnings report that it brought i...",
@@ -654,5 +1758,21 @@
     "pubDate": "2026-08-26T17:36:06-04:00",
     "source": "The Verge",
     "category": "tech"
+  },
+  {
+    "title": "Daily briefing: Celebrating Dolly Parton’s contributions to science",
+    "link": "https://www.nature.com/articles/d41586-026-02719-7",
+    "summary": "Nature, Published online: 26 August 2026; doi:10.1038/d41586-026-02719-7 Parton helped to fund Moderna’s early-stage vaccine research, among other philanthropic projects. Plus, causes and treatments for depression, and how AI-detection tools are pushing back against slop.",
+    "pubDate": "2026-08-26",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Daily briefing: Billion-dollar machine aims to set a fusion-energy record",
+    "link": "https://www.nature.com/articles/d41586-026-02673-4",
+    "summary": "Nature, Published online: 25 August 2026; doi:10.1038/d41586-026-02673-4 The push to develop fusion energy, how China is changing the shape of global health and why scientists are putting marmots on OnlyFans.",
+    "pubDate": "2026-08-25",
+    "source": "Nature",
+    "category": "science"
   }
 ]

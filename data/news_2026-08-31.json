@@ -1,5 +1,21 @@
 [
   {
+    "title": "How to build a diffusion language model",
+    "link": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
+    "summary": "Article URL: https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/ Comments URL: https://news.ycombinator.com/item?id=49503956 Points: 139 # Comments: 17",
+    "pubDate": "Sun, 30 Aug 2026 23:41:32 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Matrox: Graphics for Professionals",
+    "link": "https://www.abortretry.fail/p/matrox",
+    "summary": "Article URL: https://www.abortretry.fail/p/matrox Comments URL: https://news.ycombinator.com/item?id=49503934 Points: 152 # Comments: 53",
+    "pubDate": "Sun, 30 Aug 2026 23:39:35 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "GB's Samuel earns first win at a Grand Slam - but 'nervous' Norrie beaten",
     "link": "https://www.bbc.co.uk/sport/tennis/articles/c8045eyd84mo?at_medium=RSS&at_campaign=rss",
     "summary": "British qualifier Toby Samuel breaks more new ground with a dominant victory over Tomas Machac on his US Open debut.",
@@ -30,6 +46,14 @@
     "pubDate": "Sun, 30 Aug 2026 23:02:43 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "“I just chose words carefully”",
+    "link": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+    "summary": "Article URL: https://unsung.aresluna.org/i-just-chose-words-carefully/ Comments URL: https://news.ycombinator.com/item?id=49503601 Points: 1006 # Comments: 267",
+    "pubDate": "Sun, 30 Aug 2026 22:49:48 +0000",
+    "source": "Hacker News",
+    "category": "tech"
   },
   {
     "title": "World number one Scheffler claims second Fedex Cup title",
@@ -96,12 +120,388 @@
     "category": "general"
   },
   {
+    "title": "本月玩什么｜Big Walk、潜龙谍影 大师合辑 Vol. 2",
+    "link": "https://sspai.com/post/114043",
+    "summary": "在多人联机游戏里， 你都跟同伴一起创造过怎样的回忆？ 查看全文",
+    "pubDate": "Mon, 31 Aug 2026 18:48:43 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "派评 | 近期值得关注的 App",
+    "link": "https://sspai.com/post/114041",
+    "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀 查看全文",
+    "pubDate": "Mon, 31 Aug 2026 18:05:00 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "家庭饮品 DIY 指南（四）：奶昔、柠檬和茶系列配方",
+    "link": "https://sspai.com/prime/story/",
+    "summary": "往期文章：（一）工欲善其事，必先利其器（二）常用液体物料推荐（三）：常用固体物料推荐从这篇开始正式进入配方介绍及制作阶段，这里会有很多配料之前没提到过，会单独讲一下。尽力帮助大家在家也能做出好喝的夏日 ... 查看全文 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文。",
+    "pubDate": "Mon, 31 Aug 2026 17:09:27 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "屏幕之外，桌面之上：走过十年，明基探索了一束光的更多可能",
+    "link": "https://sspai.com/post/114027",
+    "summary": "查看全文",
+    "pubDate": "Mon, 31 Aug 2026 14:57:03 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "Sir Mel Stride replaced as shadow chancellor as Conservatives reshuffle top team",
+    "link": "https://www.bbc.co.uk/news/articles/cp8026xlm35o?at_medium=RSS&at_campaign=rss",
+    "summary": "Andrew Griffith will take over the role as part of Kemi Badenoch's shadow cabinet reshuffle.",
+    "pubDate": "Mon, 31 Aug 2026 13:57:07 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Midnight matches and money disputes - why is tennis schedule such a headache?",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/cly7kglvn7xo?at_medium=RSS&at_campaign=rss",
+    "summary": "BBC Sport explores the ongoing dispute over scheduling issues and late-night finishes at tennis' Grand Slam events.",
+    "pubDate": "Mon, 31 Aug 2026 13:10:24 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Barcola joins Liverpool from PSG in £123m move",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c9qrj4p58j4o?at_medium=RSS&at_campaign=rss",
+    "summary": "Liverpool complete the signing of France forward Bradley Barcola from Paris St-Germain for a fee worth up to £123m.",
+    "pubDate": "Mon, 31 Aug 2026 13:01:22 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Meeting notetaker Circleback adds a free tier to attract more customers",
+    "link": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
+    "summary": "Circleback is also introducing new pricing plans starting from $14 per month",
+    "pubDate": "Mon, 31 Aug 2026 12:56:46 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "One dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
+    "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
+    "summary": "\"It was a beautiful day - and then people were screaming,\" one hiker tells the BBC, as 15 people are missing.",
+    "pubDate": "Mon, 31 Aug 2026 12:55:25 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+    "link": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+    "summary": "Article URL: https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/ Comments URL: https://news.ycombinator.com/item?id=49508982 Points: 50 # Comments: 53",
+    "pubDate": "Mon, 31 Aug 2026 12:41:22 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Early release scheme could see dangerous criminals released, Conservatives warn",
+    "link": "https://www.bbc.co.uk/news/articles/ckgwxx0dg05o?at_medium=RSS&at_campaign=rss",
+    "summary": "The warning comes after the prime minister said some prisoners serving indefinite sentences could be freed to increase prison capacity.",
+    "pubDate": "Mon, 31 Aug 2026 12:20:45 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Show HN: SlideOps, slides from a repo that flag when they drift from the code",
+    "link": "https://github.com/glukicov/slideops",
+    "summary": "Article URL: https://github.com/glukicov/slideops Comments URL: https://news.ycombinator.com/item?id=49508735 Points: 5 # Comments: 1",
+    "pubDate": "Mon, 31 Aug 2026 12:15:10 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Man City sign Palmeiras winger Allan for £34m",
+    "link": "https://www.bbc.co.uk/sport/football/articles/crer89qjgydo?at_medium=RSS&at_campaign=rss",
+    "summary": "Manchester City complete the signing of winger Allan Elias from Palmeiras in a deal worth up to £34.2m.",
+    "pubDate": "Mon, 31 Aug 2026 12:00:06 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Business groups urge Swinney to scrap 'ineffective' food price cap plan",
+    "link": "https://www.bbc.co.uk/news/articles/c2l80j2rdlxo?at_medium=RSS&at_campaign=rss",
+    "summary": "More than 20 organisations have written a joint letter to John Swinney urging him to scrap his plan for a legal cap on some food and drink prices.",
+    "pubDate": "Mon, 31 Aug 2026 11:56:50 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The trial of Lindsay Clancy has gripped the US for weeks - here's what the jury must consider",
+    "link": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss",
+    "summary": "Jurors have five options before them as they decide the fate of the former nurse charged with killing her three children.",
+    "pubDate": "Mon, 31 Aug 2026 11:53:21 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Search continues for 18 passengers after ferry capsized in northern Cyprus",
+    "link": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&at_campaign=rss",
+    "summary": "Eight people have died after the ferry started taking on water shortly after setting off for Turkey.",
+    "pubDate": "Mon, 31 Aug 2026 11:41:05 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The Universe as a Minified Bundle",
+    "link": "https://andrewarrow.dev/2026/moons/2/day/9/the-universe-as-a-minified-bundle/",
+    "summary": "Article URL: https://andrewarrow.dev/2026/moons/2/day/9/the-universe-as-a-minified-bundle/ Comments URL: https://news.ycombinator.com/item?id=49508367 Points: 10 # Comments: 6",
+    "pubDate": "Mon, 31 Aug 2026 11:24:30 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Agent Memory as a File Format",
+    "link": "https://calpaterson.com/memoryfields.html",
+    "summary": "Article URL: https://calpaterson.com/memoryfields.html Comments URL: https://news.ycombinator.com/item?id=49508317 Points: 58 # Comments: 37",
+    "pubDate": "Mon, 31 Aug 2026 11:17:25 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "A CVE Dispute",
+    "link": "https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/",
+    "summary": "Article URL: https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/ Comments URL: https://news.ycombinator.com/item?id=49508290 Points: 101 # Comments: 19",
+    "pubDate": "Mon, 31 Aug 2026 11:13:17 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Driven & hungry Rashford a Man Utd asset - Maguire",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c24j71ep0lno?at_medium=RSS&at_campaign=rss",
+    "summary": "Manchester United defender Harry Maguire is backing Marcus Rashford to make a big impact at the club this season.",
+    "pubDate": "Mon, 31 Aug 2026 11:00:17 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Why Food Keeps Making Everybody Sick This Summer",
+    "link": "https://www.wired.com/story/why-salmonella-cyclospora-make-americans-sick/",
+    "summary": "While Trump administration cuts have contributed to the epidemic of foodborne illnesses this summer, there are also deeper issues that make the American food supply chain susceptible to parasites and bacteria outbreaks.",
+    "pubDate": "Mon, 31 Aug 2026 11:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
     "title": "全球仅剩三位数的物种，科学家却连一个准数都数不出来",
     "link": "https://sspai.com/post/113827",
     "summary": "门前大桥下游过勺嘴鹬，快来快来数一数……这究竟怎么数呀？ 查看全文",
     "pubDate": "Mon, 31 Aug 2026 10:53:32 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "Malleable software = solid bases and custom code",
+    "link": "https://www.mdubakov.me/malleable-software-solid-bases-custom-code/",
+    "summary": "Article URL: https://www.mdubakov.me/malleable-software-solid-bases-custom-code/ Comments URL: https://news.ycombinator.com/item?id=49508059 Points: 35 # Comments: 7",
+    "pubDate": "Mon, 31 Aug 2026 10:36:43 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "You Know Who Really Hates AI? Insurance Claims Adjusters",
+    "link": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
+    "summary": "Of the Glassdoor reviews from claims adjusters that mentioned AI, a staggering 98 percent were negative. “AI is just a tool,” one person tells WIRED. “It should never be given the keys.”",
+    "pubDate": "Mon, 31 Aug 2026 10:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Once a village, now barren land - BBC in the valley devastated by floods",
+    "link": "https://www.bbc.co.uk/news/videos/c0m3197yxzmo?at_medium=RSS&at_campaign=rss",
+    "summary": "The BBC reports from Sano Barkhu, a village overlooking the town of Syfrubesi, which was destroyed by the Nepal flooding.",
+    "pubDate": "Mon, 31 Aug 2026 10:20:08 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "South African airline defends low-altitude aerial stunt over packed stadium",
+    "link": "https://www.bbc.co.uk/news/articles/c3rew8jqny5o?at_medium=RSS&at_campaign=rss",
+    "summary": "Airlink says the manoeuvre with two planes in close formation involved careful and precise planning.",
+    "pubDate": "Mon, 31 Aug 2026 10:18:07 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Popular sweeteners may leave effects that last for generations",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260830000019.htm",
+    "summary": "Two widely used zero-calorie sweeteners, sucralose and stevia, may have effects that linger far longer than the sweet taste itself. In mice, researchers found that both sweeteners altered the gut microbiome, reduced beneficial compounds produced by gut bacteria, and changed the activity of genes ...",
+    "pubDate": "Mon, 31 Aug 2026 10:04:01 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Pocket's AI made my game ideas real. Now Meta controls the results.",
+    "link": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
+    "summary": "Interactive mobile \"gizmos\" are easy to make, hard to share outside Meta's platform.",
+    "pubDate": "Mon, 31 Aug 2026 10:00:34 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "The 9 Best MagSafe Phone Grips for Your Butter Fingers (2026)",
+    "link": "https://www.wired.com/gallery/best-magsafe-grips/",
+    "summary": "Keep your phone firmly in hand and add some personality with these comfortable, durable, and nifty smartphone grips.",
+    "pubDate": "Mon, 31 Aug 2026 10:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "ATM Flaws Reveal Key Weaknesses in the Software Supply Chain",
+    "link": "https://www.wired.com/story/atm-flaws-reveal-key-weaknesses-in-the-software-supply-chain/",
+    "summary": "A security researcher discovered nine vulnerabilities impacting ATM encryption and authentication software. But the problems extend far beyond your local cash machine.",
+    "pubDate": "Mon, 31 Aug 2026 10:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "OpenShot 4.0: Record, Edit, and Color Like Never Before",
+    "link": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
+    "summary": "Article URL: https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/ Comments URL: https://news.ycombinator.com/item?id=49507822 Points: 268 # Comments: 77",
+    "pubDate": "Mon, 31 Aug 2026 09:59:05 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The startling 1960s theory that Stonehenge was a prehistoric computer",
+    "link": "https://www.bbc.com/culture/article/20260828-the-startling-1960s-theory-that-stonehenge-was-a-prehistoric-computer",
+    "summary": "Article URL: https://www.bbc.com/culture/article/20260828-the-startling-1960s-theory-that-stonehenge-was-a-prehistoric-computer Comments URL: https://news.ycombinator.com/item?id=49507810 Points: 22 # Comments: 24",
+    "pubDate": "Mon, 31 Aug 2026 09:57:34 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "One injection could keep osteoarthritis drugs working for weeks",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260829235947.htm",
+    "summary": "Scientists have created an injectable gel that can remain inside arthritic joints for weeks, slowly releasing medication while also improving lubrication. The approach could make it easier to deliver disease-modifying drugs directly where they are needed while limiting exposure elsewhere in the b...",
+    "pubDate": "Mon, 31 Aug 2026 09:52:45 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Your waist size may reveal health risks BMI misses",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260829035208.htm",
+    "summary": "A simple waist measurement may be nearly as effective as more complicated methods for detecting unhealthy levels of body fat. Researchers also found that BMI alone missed many people with obesity, suggesting waist size could provide an important warning sign.",
+    "pubDate": "Mon, 31 Aug 2026 09:43:59 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Interviewing IBM's Christian Zoellin and Christian Jacobi",
+    "link": "https://chipsandcheese.com/p/hot-chips-2026-interviewing-ibms",
+    "summary": "Article URL: https://chipsandcheese.com/p/hot-chips-2026-interviewing-ibms Comments URL: https://news.ycombinator.com/item?id=49507657 Points: 7 # Comments: 0",
+    "pubDate": "Mon, 31 Aug 2026 09:31:41 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Scientists discover two superconducting states hiding as one",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260828005222.htm",
+    "summary": "Scientists have uncovered hidden complexity inside two ultrathin superconductors that seemed much simpler than they really are. Niobium diselenide and tantalum disulfide appeared to have a single superconducting state, but highly sensitive measurements revealed that each actually contains two str...",
+    "pubDate": "Mon, 31 Aug 2026 09:29:42 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Dolly Parton laid to rest alongside husband in Nashville",
+    "link": "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss",
+    "summary": "A private family funeral is held for the singer who died on Tuesday at the age of 80.",
+    "pubDate": "Mon, 31 Aug 2026 09:24:50 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "A “quantum bath” puts quantum entanglement on autopilot",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260830000002.htm",
+    "summary": "Physicists have demonstrated a new way to entangle distant quantum bits without the constant measurements and active control normally required. The team created a “quantum bath,” a shared environment filled with correlated microwave photons that automatically pushes separated qubits into an entan...",
+    "pubDate": "Mon, 31 Aug 2026 09:08:37 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "State of the Map 2026: OpenStreetMap conference",
+    "link": "https://povesham.wordpress.com/2026/08/30/state-of-the-map-2026-openstreetmap-conference/",
+    "summary": "Article URL: https://povesham.wordpress.com/2026/08/30/state-of-the-map-2026-openstreetmap-conference/ Comments URL: https://news.ycombinator.com/item?id=49507280 Points: 11 # Comments: 0",
+    "pubDate": "Mon, 31 Aug 2026 08:57:35 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Scientists challenge a 70-year-old “lizard brain” myth",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260829235958.htm",
+    "summary": "A long-standing picture of brain evolution as newer, rational layers stacked on top of an ancient “lizard brain” may be deeply misleading. Researchers found that evolution instead appears to balance two competing styles of brain wiring, expanding one while shrinking the other depending on what an...",
+    "pubDate": "Mon, 31 Aug 2026 08:53:45 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Any user process can escalate to root",
+    "link": "https://www.vesto.me/2026/08/31/any-process-escalate-root.html",
+    "summary": "Comments",
+    "pubDate": "Mon, 31 Aug 2026 08:46:41 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Fossil feet may be misleading scientists about human evolution",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260829235942.htm",
+    "summary": "Wild monkeys in West Africa can climb vertical tree trunks using foot flexibility scientists did not realize they possessed. The discovery challenges a key assumption about what the last common ancestor of humans and chimpanzees looked like and how it moved.",
+    "pubDate": "Mon, 31 Aug 2026 08:38:26 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "On not becoming a cyborg",
+    "link": "https://nolanlawson.com/2026/08/31/on-not-becoming-a-cyborg/",
+    "summary": "Comments",
+    "pubDate": "Mon, 31 Aug 2026 08:33:40 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Study: Blue light impairs the eye's ability to distinguish fine detail most",
+    "link": "https://research.uga.edu/news/blue-light-has-a-surprising-effect-on-your-eyes-study-finds/",
+    "summary": "Article URL: https://research.uga.edu/news/blue-light-has-a-surprising-effect-on-your-eyes-study-finds/ Comments URL: https://news.ycombinator.com/item?id=49507121 Points: 30 # Comments: 16",
+    "pubDate": "Mon, 31 Aug 2026 08:33:01 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The big moves to watch out for before football's transfer window closes",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c7v433lejveo?at_medium=RSS&at_campaign=rss",
+    "summary": "BBC Sport's football experts pick out the standout transfers that could go through before Tuesday's 23:00 BST English deadline.",
+    "pubDate": "Mon, 31 Aug 2026 08:12:39 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Nepal's hesitance to accept foreign help for flood relief under scrutiny",
+    "link": "https://www.npr.org/2026/08/31/nx-s1-5949971/nepals-hesitance-help-flood",
+    "summary": "A group of the country's private sector power producers says Nepali authorities lost crucial time in rescuing hundreds of people trapped in hydropower tunnels.",
+    "pubDate": "Mon, 31 Aug 2026 07:50:17 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Privilege escalation from IIS AppPool to NT Authority/SYSTEM",
+    "link": "https://www.mannulinux.org/2026/08/Privilege-escalation-from-IIS-AppPool-to-NT-AuthoritySYSTEM-via-AD-CS-RPC-endpoint.html",
+    "summary": "Comments",
+    "pubDate": "Mon, 31 Aug 2026 07:36:17 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "U.S., Venezuela strike oil deal. And, the staggering hidden toll of U.S. heat deaths",
+    "link": "https://www.npr.org/2026/08/31/g-s1-141187/up-first-newsletter-venezuela-oil-iran-war-house-government-funding-grand-canyon-flash-flooding",
+    "summary": "The U.S. and Venezuela have entered into an oil deal. And, NPR spent two years tracking heat-related deaths and found that people in the U.S. are dying from heat more than the official counts show.",
+    "pubDate": "Mon, 31 Aug 2026 07:20:15 -0400",
+    "source": "NPR",
+    "category": "general"
   },
   {
     "title": "派早报：GTA 6 引发请假玩游戏热潮",
@@ -112,12 +512,76 @@
     "category": "tech-cn"
   },
   {
+    "title": "Scientists find why the liver may not heal even after you stop drinking",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260831015205.htm",
+    "summary": "Alcohol-related liver disease may trap damaged liver cells in a regenerative limbo, preventing the organ from rebuilding itself even after drinking stops. Researchers linked the problem to inflammation-driven RNA errors and identified a pathway that could potentially be targeted to restore liver ...",
+    "pubDate": "Mon, 31 Aug 2026 06:43:38 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "VibeCoded AI-Slop License v1.0",
+    "link": "https://gist.github.com/NicolasCARPi/3fd349ed1ed52ae6b835d5364cda4cd6",
+    "summary": "Comments",
+    "pubDate": "Mon, 31 Aug 2026 06:40:14 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Russia's jet-powered drones bring empty Kyiv supermarket shelves and rattle Ukrainians",
+    "link": "https://www.npr.org/2026/08/31/g-s1-141181/russia-ukraine-war",
+    "summary": "Russian forces relentlessly battered Kyiv and cities in the region around the Ukrainian capital for a fifth straight day, leaving some supermarket shelves bare after repeated strikes on warehouses.",
+    "pubDate": "Mon, 31 Aug 2026 06:24:25 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Attacks flare between the U.S. and Iran after a monthlong pause",
+    "link": "https://www.npr.org/2026/08/31/g-s1-141175/attacks-flare-us-iran",
+    "summary": "U.S. threats erupt into attacks in the Strait of Hormuz, and Iran retaliates against U.S. targets in the United Arab Emirates and Jordan in the first exchange of fire since July 29.",
+    "pubDate": "Mon, 31 Aug 2026 06:04:30 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "uv: Deduplicate all files in the wheel cache",
+    "link": "https://github.com/astral-sh/uv/pull/21327",
+    "summary": "Article URL: https://github.com/astral-sh/uv/pull/21327 Comments URL: https://news.ycombinator.com/item?id=49506142 Points: 118 # Comments: 50",
+    "pubDate": "Mon, 31 Aug 2026 06:03:02 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "July in Servo: more platforms, faster canvas, web fonts in SVG, and more",
+    "link": "https://servo.org/blog/2026/08/31/july-in-servo/",
+    "summary": "Comments",
+    "pubDate": "Mon, 31 Aug 2026 05:55:09 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Could Cargo's scheduler be better?",
+    "link": "https://spirali.github.io/blog/cargo-scheduler/",
+    "summary": "Comments",
+    "pubDate": "Mon, 31 Aug 2026 05:50:09 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "US and Iran trade strikes for first time in weeks",
     "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
     "summary": "Iran says the attack on Larak Island, the first known US strikes since late July, killed two people and injured two others.",
     "pubDate": "Mon, 31 Aug 2026 05:49:37 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "NASA’s Roman Space Telescope launches to reveal the Universe’s darkest secrets",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260831035213.htm",
+    "summary": "NASA’s Roman Space Telescope has launched on a million mile journey to L2, where it will scan huge portions of the cosmos for clues about dark matter, dark energy, and distant worlds. With survey speeds roughly 1,000 times faster than Hubble and a torrent of 1.4 terabytes of data per day, Roman c...",
+    "pubDate": "Mon, 31 Aug 2026 05:23:21 EDT",
+    "source": "Science Daily",
+    "category": "science"
   },
   {
     "title": "Robinson's rhythmical action reminiscent of McGrath - Agnew",
@@ -133,6 +597,54 @@
     "summary": "Ukraine says Russia is deliberately attacking its culture, after strikes on publishers and churches.",
     "pubDate": "Mon, 31 Aug 2026 05:01:12 GMT",
     "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Hit shows from Edinburgh's Fringe festival are coming to America. Here are our top picks",
+    "link": "https://www.npr.org/2026/08/31/nx-s1-5949346/edinburgh-fringe-scotland-best-shows-coming-to-america",
+    "summary": "The annual \"anything goes\" performing arts festival featured more than 4,200 performances this year. These are the ones we're still talking about.",
+    "pubDate": "Mon, 31 Aug 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Why too many women are prescribed antibiotics for UTIs they don't have",
+    "link": "https://www.npr.org/2026/08/31/nx-s1-5947249/infection-uti-bladder-antibiotics-hormone-menopause",
+    "summary": "A recent study found that many women treated for recurrent UTIs didn't have UTIs at all. Instead, their symptoms were caused by hormonally driven inflammation and pelvic floor dysfunction.",
+    "pubDate": "Mon, 31 Aug 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Singapore is scrambling to stabilize birth rates. Experts see lessons for the U.S.",
+    "link": "https://www.npr.org/2026/08/31/nx-s1-5944260/singapore-initiative-declining-birthrates",
+    "summary": "Singapore has unveiled a national initiative built entirely around its collapsing birth rate. Some demographers say the plan includes policy ideas that could help American parents.",
+    "pubDate": "Mon, 31 Aug 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "The U.S. Venezuela oil deal won't lower your gas prices. Here's what you need to know",
+    "link": "https://www.npr.org/2026/08/31/nx-s1-5949407/us-venezuelan-oil-deal",
+    "summary": "The Trump administration announced a deal Friday to develop a vast amount of Venezuela's oil reserves, with the U.S. taking a majority stake. Energy experts say there are many reasons to be skeptical.",
+    "pubDate": "Mon, 31 Aug 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "NPR spent 2 years tracking deaths from heat. We found a staggering hidden toll",
+    "link": "https://www.npr.org/2026/08/31/nx-s1-5724225/heat-wave-death-toll-tracker",
+    "summary": "An NPR investigation found that people in the U.S. are dying from heat much more often than official counts show. We explore the reasons why — and how lives can be saved.",
+    "pubDate": "Mon, 31 Aug 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Morning news brief",
+    "link": "https://www.npr.org/2026/08/31/nx-s1-5946754/morning-news-brief",
+    "summary": "Trump says U.S. struck a deal to take control of 65 billion barrels of Venezuelan oil, U.S. and Iran resume exchanging strikes, funding at the top of the agenda as House reconvenes.",
+    "pubDate": "Mon, 31 Aug 2026 04:49:20 -0400",
+    "source": "NPR",
     "category": "general"
   },
   {
@@ -176,6 +688,14 @@
     "category": "tech"
   },
   {
+    "title": "Executable Emoji",
+    "link": "https://martypc.blogspot.com/2026/08/executable-emoji.html",
+    "summary": "Comments",
+    "pubDate": "Mon, 31 Aug 2026 02:06:50 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Patel to be replaced by Tugendhat as shadow foreign secretary",
     "link": "https://www.bbc.co.uk/news/articles/cn5d7ry053eo?at_medium=RSS&at_campaign=rss",
     "summary": "Kemi Badenoch is expected to carry out a wider reshuffle of her front bench team following high-profile departures.",
@@ -198,6 +718,22 @@
     "pubDate": "Mon, 31 Aug 2026 01:47:54 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Understanding ChatGPT Work",
+    "link": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+    "summary": "Article URL: https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/ Comments URL: https://news.ycombinator.com/item?id=49504625 Points: 248 # Comments: 136",
+    "pubDate": "Mon, 31 Aug 2026 01:28:22 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Rocky planets may have formed just 100 million years after the Big Bang",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260828082345.htm",
+    "summary": "Rocky planets may have been able to start forming just 100 million years after the Big Bang, thanks to enormous early supernovae that scattered planet-building elements across space. Simulations found enough solid material and water around a young star to suggest that Earth-like worlds could have...",
+    "pubDate": "Mon, 31 Aug 2026 01:00:01 EDT",
+    "source": "Science Daily",
+    "category": "science"
   },
   {
     "title": "'Like fighting a dinosaur': Sydney woman recalls how she punched shark during attack",
@@ -240,6 +776,14 @@
     "category": "general"
   },
   {
+    "title": "Scientists discover diamonds can generate electricity",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260829035223.htm",
+    "summary": "Diamond was thought to be incapable of producing electricity through mechanical deformation, but ultrathin flexible diamond membranes have now shown a strong and repeatable piezoelectric effect. The unexpected discovery could open the door to diamond-powered sensors, tiny energy systems, and self...",
+    "pubDate": "Mon, 31 Aug 2026 00:13:53 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "How the US-Canada trade war is being felt on both sides of the border",
     "link": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&at_campaign=rss",
     "summary": "The US-Canada trade war is being felt on both sides of the border.",
@@ -254,6 +798,70 @@
     "pubDate": "Mon, 31 Aug 2026 00:01:00 -0400",
     "source": "NPR",
     "category": "general"
+  },
+  {
+    "title": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
+    "link": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
+    "summary": "Today, I’m talking with New York Governor Kathy Hochul, and I’ll just warn you — this episode moves really fast. It’s an election year, after all, with a shocking amount of tech policy at stake, and Governor Hochul has taken strong positions on almost every major tech issue there is. For example,...",
+    "pubDate": "2026-08-31T10:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "ChatGPT to face tougher regulation in the EU",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+    "summary": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union. That's because ChatGPT is now considered a Very Large Online Search Engine under the EU's Digital Services Act, a set of la...",
+    "pubDate": "2026-08-31T09:27:36-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Instagram cracks down on AI accounts pretending to be human",
+    "link": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
+    "summary": "Instagram is finally taking steps to address the rise of fake AI-influencer accounts that have gotten harder to spot. It's also renaming the \"AI creator\" label to \"AI-generated profile\" to make it clear when a profile features an AI-generated person that's not a real human being. \"We've heard tha...",
+    "pubDate": "2026-08-31T09:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Scale of snakebites estimated globally",
+    "link": "https://www.nature.com/articles/d41586-026-02642-x",
+    "summary": "Nature, Published online: 31 August 2026; doi:10.1038/d41586-026-02642-x Using available data and modelling to assess the incidence of snakebites and associated deaths provides information needed for efforts to tackle this public-health concern.",
+    "pubDate": "2026-08-31",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "What’s your lab’s archetype? The answer could inform how you use AI",
+    "link": "https://www.nature.com/articles/d41586-026-02543-z",
+    "summary": "Nature, Published online: 31 August 2026; doi:10.1038/d41586-026-02543-z A white paper gives research groups four priority models, each of which uses artificial intelligence differently.",
+    "pubDate": "2026-08-31",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Order from disorder: do we need a new law of physics?",
+    "link": "https://www.nature.com/articles/d41586-026-02685-0",
+    "summary": "Nature, Published online: 31 August 2026; doi:10.1038/d41586-026-02685-0 A radical proposal that evolutionary pressures apply to atoms as much as animals should provoke scientific debate.",
+    "pubDate": "2026-08-31",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "The leap second is dead. Long live the leap hour?",
+    "link": "https://www.nature.com/articles/d41586-026-02669-0",
+    "summary": "Nature, Published online: 31 August 2026; doi:10.1038/d41586-026-02669-0 Fear of a possible ‘negative’ leap second is accelerating plans to abolish the practice.",
+    "pubDate": "2026-08-31",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Why are rich people so pessimistic? What the numbers say",
+    "link": "https://www.nature.com/articles/d41586-026-02687-y",
+    "summary": "Nature, Published online: 31 August 2026; doi:10.1038/d41586-026-02687-y Optimism about the future can seem in short supply nowadays, but people’s age, where they live and their expectations have a lot to do with it.",
+    "pubDate": "2026-08-31",
+    "source": "Nature",
+    "category": "science"
   },
   {
     "title": "AI models are being used to track zoonotic diseases. Will they prevent the next pandemic?",

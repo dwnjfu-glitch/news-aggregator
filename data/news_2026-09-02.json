@@ -1,11 +1,323 @@
 [
   {
+    "title": "‘I'd be the last to know’: Stars of The Gentlemen react to Meghan reports",
+    "link": "https://www.bbc.co.uk/news/articles/c05rg7mj2p1o?at_medium=RSS&at_campaign=rss",
+    "summary": "The world premiere for series 2 of the Netflix drama took place on Wednesday night in London.",
+    "pubDate": "Wed, 02 Sep 2026 21:00:25 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Democrats Have a Plan to Force Trump’s Associates to Cooperate With Investigations",
+    "link": "https://www.wired.com/story/democrats-have-a-plan-to-force-trumps-associates-to-cooperate-with-investigations/",
+    "summary": "Donald Trump’s West Wing renovations and DC arch could be on the chopping block, should Democrats win the midterms—they could also be leverage.",
+    "pubDate": "Wed, 02 Sep 2026 21:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Fury calls Joshua a 'coward' as wait for announcement continues",
+    "link": "https://www.bbc.co.uk/sport/boxing/articles/cx2zg14qzryo?at_medium=RSS&at_campaign=rss",
+    "summary": "Tyson Fury says Anthony Joshua is a \"coward\" as the pair face a tense wait to see whether their long-awaited all-British heavyweight blockbuster can be agreed.",
+    "pubDate": "Wed, 02 Sep 2026 20:55:37 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Burnham pressed on economy at first PMQs as borrowing costs surge",
+    "link": "https://www.bbc.co.uk/news/articles/cn9wv7pene2o?at_medium=RSS&at_campaign=rss",
+    "summary": "The PM said his government would be \"grounded in fiscal responsibility\" as he faced Kemi Badenoch at Prime Minister's Questions for the first time.",
+    "pubDate": "Wed, 02 Sep 2026 20:43:06 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+    "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+    "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+    "pubDate": "Wed, 02 Sep 2026 20:19:14 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Watch: Trump 'happy' that Prince Harry and Meghan left the US",
+    "link": "https://www.bbc.co.uk/news/videos/c33k72m7x11o?at_medium=RSS&at_campaign=rss",
+    "summary": "President Donald Trump said he was not a fan of the couple and added that they treated the Royal Family with \"great disrespect\".",
+    "pubDate": "Wed, 02 Sep 2026 20:15:29 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "MapQuest is now the No. 1 US app after bucking Trump’s ‘Lake America’ renaming",
+    "link": "https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/",
+    "summary": "The once-dominant mapping app has surged to the top of Apple’s U.S. App Store after refusing to adopt Trump’s “Lake America” name, drawing more than half of its 2026 U.S. downloads in just six days.",
+    "pubDate": "Wed, 02 Sep 2026 20:12:41 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Watch: Jury still unable to reach unanimous decision in Lindsay Clancy case",
+    "link": "https://www.bbc.co.uk/news/videos/cy8z32v7130o?at_medium=RSS&at_campaign=rss",
+    "summary": "For a second time in two days, jurors told the judge they could not agree on a verdict in the murder trial.",
+    "pubDate": "Wed, 02 Sep 2026 20:12:32 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Altair Basic Interpreter Source Code (1975) [pdf]",
+    "link": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
+    "summary": "Article URL: https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf Comments URL: https://news.ycombinator.com/item?id=49541754 Points: 7 # Comments: 0",
+    "pubDate": "Wed, 02 Sep 2026 20:08:22 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "I wanna live an NPC life",
+    "link": "https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/",
+    "summary": "Article URL: https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/ Comments URL: https://news.ycombinator.com/item?id=49541519 Points: 57 # Comments: 32",
+    "pubDate": "Wed, 02 Sep 2026 19:52:53 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "AI Agents and the Refactoring That Never Happens",
+    "link": "https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/",
+    "summary": "Article URL: https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/ Comments URL: https://news.ycombinator.com/item?id=49541496 Points: 22 # Comments: 21",
+    "pubDate": "Wed, 02 Sep 2026 19:51:39 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Fable 5.1 World Modeling",
+    "link": "https://github.com/PhiloLabs/fable51-worlds",
+    "summary": "Article URL: https://github.com/PhiloLabs/fable51-worlds Comments URL: https://news.ycombinator.com/item?id=49541458 Points: 39 # Comments: 8",
+    "pubDate": "Wed, 02 Sep 2026 19:49:01 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Wary of Artemis IV timeline, NASA is changing lunar spacesuit design",
+    "link": "https://arstechnica.com/space/2026/09/wary-of-artemis-iv-timeline-nasa-is-changing-lunar-spacesuit-design/",
+    "summary": "\"Requirements are being adjusted to reflect near-term mission needs.\"",
+    "pubDate": "Wed, 02 Sep 2026 19:37:08 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "It sure looks like hackers breached a major ID card verification service",
+    "link": "https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/",
+    "summary": "An identity theft search site claimed to have more than 150 million driver's license photos stolen from an ID verification service. The crime site has now shut down.",
+    "pubDate": "Wed, 02 Sep 2026 19:35:09 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Muse Spark 1.3",
+    "link": "https://developer.meta.com/ai/models/muse-spark/",
+    "summary": "Article URL: https://developer.meta.com/ai/models/muse-spark/ Comments URL: https://news.ycombinator.com/item?id=49541256 Points: 177 # Comments: 96",
+    "pubDate": "Wed, 02 Sep 2026 19:35:04 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Introducing Muse Spark 1.3",
+    "link": "https://research.meta.ai/blog/introducing-muse-spark-1-3",
+    "summary": "Article URL: https://research.meta.ai/blog/introducing-muse-spark-1-3 Comments URL: https://news.ycombinator.com/item?id=49541149 Points: 51 # Comments: 10",
+    "pubDate": "Wed, 02 Sep 2026 19:25:47 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Delivery Hero board backs Uber’s $15B takeover bid",
+    "link": "https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid/",
+    "summary": "If approved, the combined company would become one of the largest food delivery platforms in the world.",
+    "pubDate": "Wed, 02 Sep 2026 19:25:35 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "'Below the dignity of the office': Canadian officials condemn Pete Hegseth cadet post",
+    "link": "https://www.bbc.co.uk/news/articles/clyk32nr1emo?at_medium=RSS&at_campaign=rss",
+    "summary": "The US Defence Secretary is facing criticism for his apparent online mocking of members of Canada's cadet programme.",
+    "pubDate": "Wed, 02 Sep 2026 19:20:50 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Olympic champion Davis-Woodhall 'lucky to be alive' after car crash",
+    "link": "https://www.bbc.co.uk/sport/athletics/articles/cwyzdvrrz3yo?at_medium=RSS&at_campaign=rss",
+    "summary": "Olympic long jump champion Tara Davis-Woodhall says she is \"lucky and blessed to be alive\" after being involved in a car crash.",
+    "pubDate": "Wed, 02 Sep 2026 19:18:45 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Stars of The Gentlemen react to Meghan rumours",
+    "link": "https://www.bbc.co.uk/news/videos/c17jqvzdvqjo?at_medium=RSS&at_campaign=rss",
+    "summary": "The stars of Netflix's The Gentlemen season two reacted to the swirling rumours that Meghan, Duchess of Sussex may be joining the cast.",
+    "pubDate": "Wed, 02 Sep 2026 18:55:24 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Using Cloudflare Workers and reCAPTCHA v3 for a Static Site Contact Form",
+    "link": "https://nooshu.com/blog/2026/03/09/using-cloudflare-workers-and-recaptcha-v3-for-a-static-site-contact-form/",
+    "summary": "Article URL: https://nooshu.com/blog/2026/03/09/using-cloudflare-workers-and-recaptcha-v3-for-a-static-site-contact-form/ Comments URL: https://news.ycombinator.com/item?id=49540574 Points: 13 # Comments: 3",
+    "pubDate": "Wed, 02 Sep 2026 18:43:30 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Qantas Airbus A380 catastrophic engine failure in 2010 (2023)",
+    "link": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
+    "summary": "Article URL: https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7 Comments URL: https://news.ycombinator.com/item?id=49540565 Points: 30 # Comments: 9",
+    "pubDate": "Wed, 02 Sep 2026 18:42:41 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
+    "link": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
+    "summary": "The US government wrote a letter in support of OpenAI’s argument that training AI on others' intellectual property is fair use.",
+    "pubDate": "Wed, 02 Sep 2026 18:41:02 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "What famous scenes are in the epic Bayeux Tapestry?",
+    "link": "https://www.bbc.co.uk/news/videos/ce8xyjd65e1o?at_medium=RSS&at_campaign=rss",
+    "summary": "The 70m (230ft) tapestry, which tells the story of the Norman Conquest and the Battle of Hastings in 1066, will be on display the British Museum.",
+    "pubDate": "Wed, 02 Sep 2026 18:40:57 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Embedded Rust RTOS vs. C RTOS",
+    "link": "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/",
+    "summary": "Article URL: https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/ Comments URL: https://news.ycombinator.com/item?id=49540415 Points: 33 # Comments: 12",
+    "pubDate": "Wed, 02 Sep 2026 18:32:24 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "ICE Plans to Pay $5 Million to Create National Voting Database",
+    "link": "https://www.wired.com/story/ice-plans-to-pay-5-million-to-create-national-voting-database/",
+    "summary": "As part of a broader DHS surge to investigate alleged voter fraud, ICE has announced it plans to pay up to $5 million to create what amounts to a federal voter database.",
+    "pubDate": "Wed, 02 Sep 2026 18:32:01 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
+    "link": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
+    "summary": "A startup called Mostik has a wild new approach to combining the capabilities of AI models.",
+    "pubDate": "Wed, 02 Sep 2026 18:20:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+    "link": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
+    "summary": "Google's Pro model updates are seemingly paused, but there's yet another Gemini Flash today.",
+    "pubDate": "Wed, 02 Sep 2026 18:13:54 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
+    "link": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
+    "summary": "Trump’s secret reviews of frontier AI models may hide corruption, lawsuit says.",
+    "pubDate": "Wed, 02 Sep 2026 17:58:33 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "I Don't Have a Smartphone",
+    "link": "https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html",
+    "summary": "Article URL: https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html Comments URL: https://news.ycombinator.com/item?id=49539872 Points: 175 # Comments: 167",
+    "pubDate": "Wed, 02 Sep 2026 17:51:29 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "折叠屏 iPhone、新款 HomePod…… Apple 发布会有哪些看点？",
     "link": "https://sspai.com/post/114084",
     "summary": "上周，Apple公布了今年秋季发布会的时间和主题，这场名为「Surpriseandshine」的发布会将于北京时间9月10日凌晨一点在ApplePark举行。与过去两年的秋季发布会不同，今年的「科技春 ... 查看全文",
     "pubDate": "Wed, 02 Sep 2026 17:40:56 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
+    "link": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
+    "summary": "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday.",
+    "pubDate": "Wed, 02 Sep 2026 17:33:45 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Netherlands moves billions in gold to London in 'crisis preparedness' move",
+    "link": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&at_campaign=rss",
+    "summary": "The Dutch central bank removes some of its gold reserves from the US and Canada, saying it is because of \"increasing geopolitical unrest\".",
+    "pubDate": "Wed, 02 Sep 2026 17:21:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Paint.net 5.2 alpha now runs on Linux",
+    "link": "https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739/",
+    "summary": "Article URL: https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739/ Comments URL: https://news.ycombinator.com/item?id=49539389 Points: 146 # Comments: 118",
+    "pubDate": "Wed, 02 Sep 2026 17:18:39 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+    "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+    "summary": "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications, product reviews,&#160;and even insurance claims, leaving platforms and users alike scrambling to ...",
+    "pubDate": "Wed, 02 Sep 2026 17:18:13 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "X shifts US creator payouts from Stripe to X Money",
+    "link": "https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/",
+    "summary": "X says U.S. creator payouts will now be handled through its X Money payments service, a change that appears to replace the previous Stripe-powered payout system.",
+    "pubDate": "Wed, 02 Sep 2026 17:12:27 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+    "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+    "summary": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use globally,\" the brief reads.",
+    "pubDate": "Wed, 02 Sep 2026 17:09:06 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "South African airline behind daring  stadium stunt cancels next flyby, regulator says",
+    "link": "https://www.bbc.co.uk/news/articles/c2e0r4nwg30o?at_medium=RSS&at_campaign=rss",
+    "summary": "The civil aviation authority says it is also investigating last Saturday's aerial display.",
+    "pubDate": "Wed, 02 Sep 2026 16:58:59 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Enhanced geothermal notches another win as Google buys 400 MW from Fervo",
+    "link": "https://techcrunch.com/2026/09/02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo/",
+    "summary": "Fervo's deal with Google could expand to 1 gigawatt of geothermal power, enough to supply a very large AI data center in Utah.",
+    "pubDate": "Wed, 02 Sep 2026 16:54:23 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Uber to cut over 3,000 jobs in major global restructuring",
+    "link": "https://www.bbc.co.uk/news/articles/cp3ky2w4y9no?at_medium=RSS&at_campaign=rss",
+    "summary": "The company says cutting roles would make its operations \"simpler and faster\".",
+    "pubDate": "Wed, 02 Sep 2026 16:51:49 GMT",
+    "source": "BBC News",
+    "category": "general"
   },
   {
     "title": "US court rules Google will not have to sell ad exchange after losing antitrust case",
@@ -56,6 +368,14 @@
     "category": "tech"
   },
   {
+    "title": "The IRS slashed its staff. One result? More taxes going uncollected",
+    "link": "https://www.npr.org/2026/09/02/nx-s1-5954022/irs-tax-collection-job-reductions",
+    "summary": "The IRS slashed its auditing staff last year — but the move may have backfired as tax collections from enforcement efforts plummeted, an Inspector General report shows.",
+    "pubDate": "Wed, 02 Sep 2026 15:56:58 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "Show HN: Aura – a Rust agent that investigates and fixes production incidents",
     "link": "https://github.com/mezmo/aura",
     "summary": "We run a SaaS that handles petabytes of data. Our SRE team experimented with using claude, openclaw, langchain, etc. within our incident response workflows. We struggled with overflowing context, lethal trifecta vectors, hallucinations, and burned a lot of frontier tokens mostly on easy work. App...",
@@ -72,10 +392,26 @@
     "category": "tech"
   },
   {
+    "title": "A jury in Malta acquits a businessman in the killing of reporter Daphne Caruana Galizia",
+    "link": "https://www.npr.org/2026/09/02/nx-s1-5954420/daphne-caruana-galizia-case-yorgen-fenech-acquitted-malta",
+    "summary": "Investigative journalist Daphne Caruana Galizia had written extensively about suspected corruption in political and business circles in Malta. She was killed by a car bomb in 2017, at age 53.",
+    "pubDate": "Wed, 02 Sep 2026 15:48:18 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
     "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/ Comments URL: https://news.ycombinator.com/item?id=49538007 Points: 60 # Comments: 12",
     "pubDate": "Wed, 02 Sep 2026 15:44:06 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "SteamdDB Joins Nexus Mods",
+    "link": "https://www.nexusmods.com/news/15597",
+    "summary": "Article URL: https://www.nexusmods.com/news/15597 Comments URL: https://news.ycombinator.com/item?id=49537738 Points: 85 # Comments: 47",
+    "pubDate": "Wed, 02 Sep 2026 15:25:55 +0000",
     "source": "Hacker News",
     "category": "tech"
   },
@@ -128,6 +464,14 @@
     "category": "tech"
   },
   {
+    "title": "Let's build a compressor from scratch",
+    "link": "https://ochagavia.nl/blog/lets-build-a-compressor-from-scratch/",
+    "summary": "Comments",
+    "pubDate": "Wed, 02 Sep 2026 14:54:21 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Farage tells BBC 'we live in a complainants' society' after questions over Reform funding",
     "link": "https://www.bbc.co.uk/news/articles/cd6857j2v1qo?at_medium=RSS&at_campaign=rss",
     "summary": "The Reform UK leader said a \"whole ecosystem\" didn't want \"new kids on the block succeeding\".",
@@ -152,6 +496,14 @@
     "category": "tech"
   },
   {
+    "title": "Google avoids a breakup of its ad tech business",
+    "link": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
+    "summary": "https://archive.ph/rlAbY https://www.reuters.com/legal/litigation/google-defeats-us-b... Comments URL: https://news.ycombinator.com/item?id=49537131 Points: 124 # Comments: 54",
+    "pubDate": "Wed, 02 Sep 2026 14:46:16 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "Lords call for AI 'kill switch' powers in UK",
     "link": "https://www.bbc.co.uk/news/articles/cn9wv80j9w9o?at_medium=RSS&at_campaign=rss",
     "summary": "Its backers say it would provide a \"vital safety net\" against runaway AI systems such as those from OpenAI and Anthropic.",
@@ -173,6 +525,22 @@
     "summary": "Burnham's exchanges with Kemi Badenoch slipped into familiar territory of trading barbs, writes Alex Forsyth.",
     "pubDate": "Wed, 02 Sep 2026 14:26:39 GMT",
     "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The holy grail of nixpkgs: version ranges",
+    "link": "https://fzakaria.com/2026/09/01/the-holy-grail-of-nixpkgs-version-ranges",
+    "summary": "Comments",
+    "pubDate": "Wed, 02 Sep 2026 14:22:37 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "New Jersey asks Supreme Court to resolve fight over Kalshi's future",
+    "link": "https://www.npr.org/2026/09/02/nx-s1-5954230/supreme-court-prediction-markets-kalshi-new-jersey",
+    "summary": "If the high court accepts the petition, it would tee up a case with sweeping implications for prediction markets, an industry that has unleashed billions of dollars of betting across nearly every aspect of modern life.",
+    "pubDate": "Wed, 02 Sep 2026 14:17:19 -0400",
+    "source": "NPR",
     "category": "general"
   },
   {
@@ -213,6 +581,14 @@
     "summary": "Article URL: https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/ Comments URL: https://news.ycombinator.com/item?id=49536375 Points: 151 # Comments: 82",
     "pubDate": "Wed, 02 Sep 2026 13:59:59 +0000",
     "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Goroutine Leak Profiles",
+    "link": "https://go.dev/blog/goroutine-leak-profiles",
+    "summary": "Comments",
+    "pubDate": "Wed, 02 Sep 2026 13:50:17 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -262,6 +638,14 @@
     "pubDate": "Wed, 02 Sep 2026 13:20:11 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Static Allocation, Constant Work",
+    "link": "https://matklad.github.io/2026/09/02/static-allocation-constant-work.html",
+    "summary": "Comments",
+    "pubDate": "Wed, 02 Sep 2026 13:19:13 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "A Note from LWN",
@@ -336,6 +720,14 @@
     "category": "tech"
   },
   {
+    "title": "Dependent if expressions without dependent types",
+    "link": "https://haskellforall.com/2026/09/dependent-if-expressions",
+    "summary": "Comments",
+    "pubDate": "Wed, 02 Sep 2026 12:52:36 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Pub's 'beloved' manager stabbed to death in Germany",
     "link": "https://www.bbc.co.uk/news/articles/ckgw8e8p0ngo?at_medium=RSS&at_campaign=rss",
     "summary": "Rebecca Bullock, 31, was attacked at Rosenheim station on Sunday.",
@@ -406,6 +798,14 @@
     "pubDate": "Wed, 02 Sep 2026 12:08:31 -0400",
     "source": "NPR",
     "category": "general"
+  },
+  {
+    "title": "Revisiting Joel's Test - exe.dev blog",
+    "link": "https://blog.exe.dev/revisiting-joel",
+    "summary": "Comments",
+    "pubDate": "Wed, 02 Sep 2026 12:07:41 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
@@ -1360,6 +1760,62 @@
     "category": "general"
   },
   {
+    "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+    "summary": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\" It has the same introductory pricing as 3.7 Flash, $0.75 pe...",
+    "pubDate": "2026-09-02T16:11:40-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Here are some of REI’s best Labor Day sale deals",
+    "link": "https://www.theverge.com/gadgets/988398/rei-labor-day-sale-deal-2026",
+    "summary": "Summer is winding down, but REI’s Labor Day sale is here to help save you some bucks on gear that’ll let you get the most out of your upcoming outdoor expeditions. There are many, many discounts, from men’s and women’s clothing and REI Co-op gear to equipment for camping and hiking and more. The ...",
+    "pubDate": "2026-09-02T14:56:59-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "1Password wades into a right-wing mess after funding a Linux project",
+    "link": "https://www.theverge.com/tech/988536/1password-dhh-linux-controversy",
+    "summary": "1Password faced immediate backlash from customers this week over a $300,000 pledge in support of a Linux distro created by David Heinemeier Hansson, who has regularly published overtly racist blog posts that include comments calling for deportation of ethnic minorities in Europe. The popular pass...",
+    "pubDate": "2026-09-02T14:48:14-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Amazon’s AI assistant can now spot fake emails from the company",
+    "link": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
+    "summary": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company. With the update, you can ask Alexa for Shopping about a message you received, and it will use AI to ...",
+    "pubDate": "2026-09-02T13:52:56-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Range Rover’s new EV looks just like a regular Range Rover — that’s refreshing",
+    "link": "https://www.theverge.com/transportation/988232/range-rover-electric-range-battery-specs",
+    "summary": "I think automakers are finally getting the memo. Rather than try to reinvent the wheel with its new electric vehicle, Range Rover just made one that looks nearly identical to its lineup of gas-powered SUVs. They didn't try to pass off some sleek, spaceship-looking pod as a Range Rover. Sometimes ...",
+    "pubDate": "2026-09-02T13:01:08-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "The best tech and gadgets announced at IFA so far",
+    "link": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
+    "summary": "The doors to Europe's largest consumer tech show haven't opened to the public yet, but there's already plenty of news coming out of IFA 2026 in Berlin, Germany. If you're already struggling to keep up with what has been announced, here are some of the best new gadgets and upgrades from the show -...",
+    "pubDate": "2026-09-02T12:43:50-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+    "summary": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing. As details about the model trickle out, researchers are warning it \"may be the single worst development for AI se...",
+    "pubDate": "2026-09-02T12:40:50-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
     "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
     "link": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
     "summary": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from The New York Times and seeks to recoup ...",
@@ -1494,6 +1950,22 @@
     "pubDate": "2026-09-02T02:00:00-04:00",
     "source": "The Verge",
     "category": "tech"
+  },
+  {
+    "title": "Functional chimeric mRNAs encode proteins in mammalian immunity",
+    "link": "https://www.nature.com/articles/s41586-026-10982-x",
+    "summary": "Nature, Published online: 02 September 2026; doi:10.1038/s41586-026-10982-x Inflammation induces interchromosomal DNA interactions that bring parent genes into close proximity, facilitating the formation of chimeric mRNAs that encode physiologically relevant, functional proteins.",
+    "pubDate": "2026-09-02",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Anxious or outgoing? Huge study links ‘Big Five’ personality traits to genetic variants",
+    "link": "https://www.nature.com/articles/d41586-026-02761-5",
+    "summary": "Nature, Published online: 02 September 2026; doi:10.1038/d41586-026-02761-5 Researchers identify more than 1,200 personality-linked genetic variants, with effects largely independent of family background.",
+    "pubDate": "2026-09-02",
+    "source": "Nature",
+    "category": "science"
   },
   {
     "title": "Author Correction: Endocannabinoids facilitate reward engagement through retrograde gain control",

@@ -1,0 +1,426 @@
+[
+  {
+    "title": "Lua-async",
+    "link": "https://neovim.io/doc/user/lua-async/",
+    "summary": "Comments",
+    "pubDate": "Thu, 03 Sep 2026 23:44:04 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "'I lost my savings after a job interview scam'",
+    "link": "https://www.bbc.co.uk/news/articles/crk3xd8j3k5o?at_medium=RSS&at_campaign=rss",
+    "summary": "Jobseekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.",
+    "pubDate": "Thu, 03 Sep 2026 23:41:49 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "From cake to pizza: How to get the best birthday freebies (and why there's a catch)",
+    "link": "https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo?at_medium=RSS&at_campaign=rss",
+    "summary": "Cake, coffee, make-up and burgers are just some of the free things you can get on your birthday.",
+    "pubDate": "Thu, 03 Sep 2026 23:25:45 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Kyrgios given one-month ban for positive cocaine test",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/c4gj0x5z10go?at_medium=RSS&at_campaign=rss",
+    "summary": "Nick Kyrgios is eligible to return to tennis after accepting a one-month ban for testing positive for cocaine.",
+    "pubDate": "Thu, 03 Sep 2026 23:23:20 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
+    "link": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
+    "summary": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
+    "pubDate": "Thu, 03 Sep 2026 23:00:15 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "5 Best Video Doorbell Cameras (2026): Subscription-Free, Video, and More",
+    "link": "https://www.wired.com/gallery/best-video-doorbells/",
+    "summary": "Never miss a delivery. These WIRED-tested picks will help you keep tabs on your front door from anywhere.",
+    "pubDate": "Thu, 03 Sep 2026 22:48:55 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "GLP-1s are being linked to fewer serious infections, including TB",
+    "link": "https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796",
+    "summary": "https://web.archive.org/web/20260903235256/https://gizmodo.c... Comments URL: https://news.ycombinator.com/item?id=49558086 Points: 90 # Comments: 44",
+    "pubDate": "Thu, 03 Sep 2026 22:37:31 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Oura files to go public",
+    "link": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/",
+    "summary": "The ring maker says that its business has shown significant revenue growth over the past year.",
+    "pubDate": "Thu, 03 Sep 2026 22:35:41 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "AI tools that take notes for GPs could miss vital information, study suggests",
+    "link": "https://www.bbc.co.uk/news/articles/cy0zylpdveqo?at_medium=RSS&at_campaign=rss",
+    "summary": "Researchers said the tools - which record consultations - could miss vital things like a patient's facial expressions or emotional state.",
+    "pubDate": "Thu, 03 Sep 2026 22:32:09 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Transplanted pig kidney works in US man's body for record 271 days",
+    "link": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
+    "summary": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
+    "pubDate": "Thu, 03 Sep 2026 22:31:23 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Transplanted Pig Kidney Still Working After a Record-Setting 9 Months in a Patient",
+    "link": "https://www.wired.com/story/pig-kidney-transplant-working-after-record-setting-9-months/",
+    "summary": "Gene-edited pig kidneys could offer a lifeline to patients stuck waiting for a human donor.",
+    "pubDate": "Thu, 03 Sep 2026 22:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "US investigating if missile hit Iran wedding, Vance says",
+    "link": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
+    "summary": "The Iranian Red Crescent Society (IRCS) said shrapnel from a missile hit the ceremony and killed four people on Tuesday.",
+    "pubDate": "Thu, 03 Sep 2026 22:19:59 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Tesla is asking people if they want to buy and run Cybercab fleets",
+    "link": "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/",
+    "summary": "The company published a form on its website Thursday soliciting info from people who are interested in \"Cybercab fleet vehicle purchasing.\"",
+    "pubDate": "Thu, 03 Sep 2026 22:18:30 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them",
+    "link": "https://arstechnica.com/health/2026/09/reports-rfk-jr-ordered-measles-deaths-deletion-cdc-still-secretly-counts-them/",
+    "summary": "CDC staff had already accepted the measles death reports when RFK Jr. meddled.",
+    "pubDate": "Thu, 03 Sep 2026 22:13:50 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
+    "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+    "summary": "ChatGPT, Claude, and Grok all suffered outages at nearly the exact same time for reasons that remain murky.",
+    "pubDate": "Thu, 03 Sep 2026 21:56:21 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Prediction Market Betting Is Getting People Banned and Arrested",
+    "link": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
+    "summary": "This week on Uncanny Valley, we dig into the latest prediction market buzz, Flock’s AI-powered police search tool, and how tech bros don’t know how to talk about “rouge” AI agents",
+    "pubDate": "Thu, 03 Sep 2026 21:48:24 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+    "link": "https://armature.tech/blog/which-tools-coding-agents-install",
+    "summary": "Article URL: https://armature.tech/blog/which-tools-coding-agents-install Comments URL: https://news.ycombinator.com/item?id=49557206 Points: 138 # Comments: 51",
+    "pubDate": "Thu, 03 Sep 2026 21:20:34 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "'I was seeing spots' - third seed Auger-Aliassime stunned in New York",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/cy0zxxk3y62o?at_medium=RSS&at_campaign=rss",
+    "summary": "Third seed Felix Auger-Aliassime says he was \"dizzy and seeing spots\" in a surprise second-round loss to Karen Khachanov at the US Open.",
+    "pubDate": "Thu, 03 Sep 2026 21:20:31 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "WebDev intro course: what small changes towards progressive enhancement?",
+    "link": "https://lobste.rs/s/nr3ucr/webdev_intro_course_what_small_changes",
+    "summary": "For $REASONS, I ended up in control (probably temporarily) of a rather introductory «Web Development» course with a bit of HTML/CSS/JS/Docker that I plan (and promised) to keep in a mostly recognisable shape. I do want to add more reminders that progressive enhancement is good, though; and I ask ...",
+    "pubDate": "Thu, 03 Sep 2026 21:11:32 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Xbox imposes harsh new time limits for Game Pass game streaming",
+    "link": "https://arstechnica.com/gaming/2026/09/xbox-imposes-harsh-new-time-limits-for-game-pass-game-streaming/",
+    "summary": "Over 1 million Game Pass subscribers will have to pay more for their heavy streaming use.",
+    "pubDate": "Thu, 03 Sep 2026 21:10:59 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "150 research primates got diarrhea, flooding lab with priceless vaccine data",
+    "link": "https://arstechnica.com/health/2026/09/150-research-primates-got-diarrhea-flooding-lab-with-priceless-vaccine-data/",
+    "summary": "Researchers now have clear new targets and insights for developing a Shigella vaccine.",
+    "pubDate": "Thu, 03 Sep 2026 20:14:48 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "The Trump administration still aims to make state citizenship lists ahead of midterms",
+    "link": "https://www.npr.org/2026/09/03/nx-s1-5955822/voting-citizenship-lists-dhs-uscis-lawsuit",
+    "summary": "The Trump administration is taking the unprecedented step of creating lists of adult citizens who are eligible to vote in each state – but will not meet its own deadline 60 days before Election Day.",
+    "pubDate": "Thu, 03 Sep 2026 19:59:35 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Leon Black defies subpoena to testify in Epstein inquiry and sues House panel",
+    "link": "https://www.npr.org/2026/09/03/nx-s1-5955643/leon-black-jeffrey-epstein-lawsuit",
+    "summary": "The billionaire investor is under two subpoenas from the House Oversight Committee. But in his lawsuit, Black says the panel doesn't have the authority to compel him to share nondisclosure agreements.",
+    "pubDate": "Thu, 03 Sep 2026 18:19:02 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "An image only some users can see",
+    "link": "https://d.erenrich.net/apple.avif",
+    "summary": "Try opening in different browser FF v Chrome. Or phone v desktop. Same image file but only sometimes renders. Comments",
+    "pubDate": "Thu, 03 Sep 2026 16:44:17 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "NES dumping over audio",
+    "link": "https://mathstodon.xyz/@JordiGH/117209252363385093",
+    "summary": "Comments",
+    "pubDate": "Thu, 03 Sep 2026 16:40:36 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "simple is not small",
+    "link": "https://jyn.dev/simple-is-not-the-same-as-small/",
+    "summary": "Comments",
+    "pubDate": "Thu, 03 Sep 2026 16:24:19 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Weekly quiz: What has been named TikTok's song of the summer in the UK?",
+    "link": "https://www.bbc.co.uk/news/articles/cr4v2d2q4w5o?at_medium=RSS&at_campaign=rss",
+    "summary": "How much attention did you pay to what happened in the world over the past seven days?",
+    "pubDate": "Thu, 03 Sep 2026 16:20:31 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Show HN: Reactor Atlas",
+    "link": "https://reactoratlas.com",
+    "summary": "Hi HN, I'm a nuclear engineer and tech entrepreneur. After working for 3 years in the National Atomic Energy Commision (CNEA) in HPC software for nuclear simulations, I co-founded ratherlabs.com, a software company providing blockchain solutions for startups. Rather Labs business reached ~6 milli...",
+    "pubDate": "Thu, 03 Sep 2026 12:33:01 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "在 16:10 屏幕普及的当下，聊聊那台最后的 4:3 版 ThinkPad T61p",
+    "link": "https://sspai.com/post/113990",
+    "summary": "在 2026 年用一台 4:3 屏幕的 ThinkPad 是一种什么体验？ 查看全文",
+    "pubDate": "Fri, 04 Sep 2026 11:25:29 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "派早报：OpenAI 发布 GPT-6 Astra 模型、Meta 发布 Muse Spark 1.3 模型等",
+    "link": "https://sspai.com/post/114164",
+    "summary": "Anthropic 升级 Claude Code 及 Cowork，微软调整 Xbox Cloud Gaming 商业模式等。 查看全文",
+    "pubDate": "Fri, 04 Sep 2026 08:47:49 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "Argentina threatens to sanction oil firms as tensions heighten in Falklands dispute with UK",
+    "link": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
+    "summary": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
+    "pubDate": "Fri, 04 Sep 2026 04:56:56 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Watch: Moment workers are rescued from Nepal tunnel",
+    "link": "https://www.bbc.co.uk/news/videos/cnvl5e6vy8eo?at_medium=RSS&at_campaign=rss",
+    "summary": "Rescuers pull two people from a hydropower tunnel more than a week after a massive flash flood devastated the Nepal-China border.",
+    "pubDate": "Fri, 04 Sep 2026 04:45:54 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The sameness problem behind those unappetizing AI-generated menus",
+    "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+    "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
+    "pubDate": "Fri, 04 Sep 2026 04:21:03 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Grep beats LSP? Why coding agents ignore your fancier tools",
+    "link": "https://www.agentconnect.md/blog/grep-beat-lsp-harness/",
+    "summary": "Article URL: https://www.agentconnect.md/blog/grep-beat-lsp-harness/ Comments URL: https://news.ycombinator.com/item?id=49560260 Points: 27 # Comments: 10",
+    "pubDate": "Fri, 04 Sep 2026 03:40:26 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "A Mysterious Kidney Disease Has Arrived in Texas",
+    "link": "https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/",
+    "summary": "Article URL: https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/ Comments URL: https://news.ycombinator.com/item?id=49559992 Points: 32 # Comments: 27",
+    "pubDate": "Fri, 04 Sep 2026 02:54:16 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Tesla’s Make-or-Break Cybercab Had a Quiet Debut",
+    "link": "https://www.wired.com/story/tesla-cybercab-had-a-quiet-debut/",
+    "summary": "An invite-only event in Austin, Texas, kept online fans in the dark for hours.",
+    "pubDate": "Fri, 04 Sep 2026 02:53:44 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "From Hookswitch to Grave",
+    "link": "https://computer.rip/2026-06-14-hookswitch-to-grave.html",
+    "summary": "Article URL: https://computer.rip/2026-06-14-hookswitch-to-grave.html Comments URL: https://news.ycombinator.com/item?id=49559901 Points: 12 # Comments: 0",
+    "pubDate": "Fri, 04 Sep 2026 02:40:12 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Could robots be the future of theme parks?",
+    "link": "https://www.bbc.co.uk/news/videos/cdr7g3vdl58o?at_medium=RSS&at_campaign=rss",
+    "summary": "Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits.",
+    "pubDate": "Fri, 04 Sep 2026 02:02:02 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Project Xanadu: Even More Hindsight",
+    "link": "https://gwern.net/xanadu",
+    "summary": "Article URL: https://gwern.net/xanadu Comments URL: https://news.ycombinator.com/item?id=49559522 Points: 42 # Comments: 5",
+    "pubDate": "Fri, 04 Sep 2026 01:45:23 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The Papers: 'Foreign donations sting' and 'Argentina threat to Falklands'",
+    "link": "https://www.bbc.co.uk/news/articles/c5yml8lxx2ko?at_medium=RSS&at_campaign=rss",
+    "summary": "Reform UK alleged 'foreign donations sting' and Argentine president's looming 'threat' over Falklands are the papers' top stories.",
+    "pubDate": "Fri, 04 Sep 2026 01:27:12 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Volkswagen board approves plan to cut another 50,000 jobs",
+    "link": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
+    "summary": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 by 2030.",
+    "pubDate": "Fri, 04 Sep 2026 01:20:32 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Watch: Inside court as Lindsay Clancy's lawyer asks judge to remove juror",
+    "link": "https://www.bbc.co.uk/news/videos/c36l7jwjg1no?at_medium=RSS&at_campaign=rss",
+    "summary": "The jury now faces a seventh day of deliberations in the triple-murder trial.",
+    "pubDate": "Fri, 04 Sep 2026 00:55:45 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Weekend heat for parts of UK before more rain next week",
+    "link": "https://www.bbc.co.uk/weather/articles/c5yepd098wyo?at_medium=RSS&at_campaign=rss",
+    "summary": "Parts of the UK will experience a short-lived surge of heat this weekend as hotter air from Europe moves in. Temperatures widely will be above 20C, with a peak of 27C in the south.",
+    "pubDate": "Fri, 04 Sep 2026 00:52:06 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+    "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+    "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+    "pubDate": "Fri, 04 Sep 2026 00:48:42 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "'Miracle' eagle with broken wing spotted back above Scottish coast",
+    "link": "https://www.bbc.co.uk/news/articles/crerw2nj81zo?at_medium=RSS&at_campaign=rss",
+    "summary": "A sea eagle that confounded experts by surviving with a broken wing has been spotted back above Scotland's west coast.",
+    "pubDate": "Fri, 04 Sep 2026 00:46:54 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Wikipedia Workers Unionize for the First Time",
+    "link": "https://www.wired.com/story/wikipedia-workers-vote-on-whether-to-unionize/",
+    "summary": "More than 200 people in roles such as engineering, finance, and communications will now be represented by the Communications Workers of America.",
+    "pubDate": "Fri, 04 Sep 2026 00:40:06 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "'Gromit was nearly a cat!': Secrets from 50 years of Aardman",
+    "link": "https://www.bbc.co.uk/news/articles/cn8ell3dngno?at_medium=RSS&at_campaign=rss",
+    "summary": "Aardman turns 50 with stories of cat-like Gromit, silent Shaun and Chicken Run's Oscar legacy.",
+    "pubDate": "Fri, 04 Sep 2026 00:34:18 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Girl group Katseye are missing two members, but their tour still dazzles",
+    "link": "https://www.bbc.co.uk/news/articles/cqxv49z84ppo?at_medium=RSS&at_campaign=rss",
+    "summary": "Reduced but resilient, girl group Katseye received a hero's welcome in London.",
+    "pubDate": "Fri, 04 Sep 2026 00:19:53 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Body parts used for ancient Egyptian artworks traced to surprising source",
+    "link": "https://www.nature.com/articles/d41586-026-02739-3",
+    "summary": "Nature, Published online: 04 September 2026; doi:10.1038/d41586-026-02739-3 Coffin decorations and wall paintings were made with tissue from a broad range of organisms.",
+    "pubDate": "2026-09-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control",
+    "link": "https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40",
+    "summary": "Officially, Nvidia's controversial DLSS 5 AI rendering was supposed to launch this evening with only a single game, only on Nvidia's latest RTX 50 GPUs, and with developers in full control of their artistic vision. But unofficially, modders have already ported a leaked version of DLSS 5 to run on...",
+    "pubDate": "2026-09-03T21:49:25-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "The unusually muted Tesla Cybercab launch",
+    "link": "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk",
+    "summary": "At a private, closed-door event in Austin, Texas today, Tesla officially launched its gilded car of the future: the Cybercab. It's a huge milestone for Elon Musk, who has been hyping the imminent arrival of driverless cars for years and has bet the future of his company on AI, autonomous vehicles...",
+    "pubDate": "2026-09-03T20:25:06-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Steve Ballmer got suspended by the NBA because of a podcast and a jumbotron corruption scandal",
+    "link": "https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out",
+    "summary": "Last September, Steve Ballmer insisted in an ESPN interview that the Clippers weren't involved in a shady-looking $28 million endorsement deal for his star player, Kawhi Leonard, that involved no actual endorsing. Now, the former Microsoft CEO has been suspended by the NBA for a year, while the l...",
+    "pubDate": "2026-09-03T19:37:37-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "You can watch the coolant flow inside Ugreen’s liquid-cooled power bank",
+    "link": "https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling",
+    "summary": "Does your power bank have \"CryoPulse technology\" or a \"Cyber Window\"? If you disappointingly answered \"no\" to both, you might want to consider upgrading to Ugreen's new MagFlow Pro Magnetic Power Bank. It's available starting today for $149.99, which puts it on the really expensive end of power b...",
+    "pubDate": "2026-09-03T18:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  }
+]

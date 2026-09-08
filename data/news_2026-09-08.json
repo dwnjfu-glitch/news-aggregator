@@ -16,12 +16,396 @@
     "category": "tech-cn"
   },
   {
+    "title": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul",
+    "link": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/",
+    "summary": "A landmark announcement by the frontier AI lab has been overshadowed by accusations of impropriety.",
+    "pubDate": "Tue, 08 Sep 2026 16:42:05 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Prince George attends first day at Eton College",
+    "link": "https://www.bbc.co.uk/news/videos/clyjdgvzg0yo?at_medium=RSS&at_campaign=rss",
+    "summary": "The 13 year old was dropped off at the all-boys boarding school by his parents, Prince William and Princess Catherine of Wales.",
+    "pubDate": "Tue, 08 Sep 2026 16:32:06 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+    "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+    "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
+    "pubDate": "Tue, 08 Sep 2026 16:20:31 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Young Americans have never witnessed a functioning foreign policy",
+    "link": "https://www.ft.com/content/2e97fb28-24cf-4ab0-89b1-454b4f97cdbc",
+    "summary": "Article URL: https://www.ft.com/content/2e97fb28-24cf-4ab0-89b1-454b4f97cdbc Comments URL: https://news.ycombinator.com/item?id=49612430 Points: 20 # Comments: 3",
+    "pubDate": "Tue, 08 Sep 2026 16:15:08 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Irish Open will feel 'different' with Trump visit",
+    "link": "https://www.bbc.co.uk/sport/golf/articles/c86x0lzld74o?at_medium=RSS&at_campaign=rss",
+    "summary": "Rory McIlroy admits this year's Irish Open will feel like a \"different\" spectacle given US President Donald Trump's anticipated visit during the tournament.",
+    "pubDate": "Tue, 08 Sep 2026 16:13:33 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Why I'm Not Excited About the Graphene OS and Motorola Partnership",
+    "link": "https://podcast.switchedtolinux.com/@tehankorage/episodes/why-im-not-excited-about-the-graphene-os-and-motorola-partnership",
+    "summary": "Article URL: https://podcast.switchedtolinux.com/@tehankorage/episodes/why-im-not-excited-about-the-graphene-os-and-motorola-partnership Comments URL: https://news.ycombinator.com/item?id=49612327 Points: 12 # Comments: 1",
+    "pubDate": "Tue, 08 Sep 2026 16:07:04 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Here’s Samsung’s Advice for Apple and Its Upcoming Folding iPhone",
+    "link": "https://www.wired.com/story/samsung-advice-for-apple-and-its-upcoming-folding-iphone/",
+    "summary": "The competition is “absolutely welcome” by the pioneering Korean giant, but Samsung warns that the device’s “weight” is crucial.",
+    "pubDate": "Tue, 08 Sep 2026 16:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Sabotage suspect held in Germany after spate of attacks on power grid",
+    "link": "https://www.bbc.co.uk/news/articles/cy5zw56lnx3o?at_medium=RSS&at_campaign=rss",
+    "summary": "The suspect had reportedly claimed responsibility for attacks on electricity substations in letters.",
+    "pubDate": "Tue, 08 Sep 2026 15:57:06 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "C*: Unifying Programming and Verification in C",
+    "link": "https://arxiv.org/abs/2504.02246",
+    "summary": "Article URL: https://arxiv.org/abs/2504.02246 Comments URL: https://news.ycombinator.com/item?id=49612191 Points: 14 # Comments: 6",
+    "pubDate": "Tue, 08 Sep 2026 15:56:56 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Iceland summons US ambassador over Trump's stars and stripes map",
+    "link": "https://www.bbc.co.uk/news/articles/c93ek32pqd2o?at_medium=RSS&at_campaign=rss",
+    "summary": "Trump's territorial ambitions have repeatedly strained relations with neighbouring countries.",
+    "pubDate": "Tue, 08 Sep 2026 15:55:19 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Why Has The UK Government Changed Its Approach to Israel?",
+    "link": "https://www.bbc.co.uk/sounds/play/p0p8l9mf?at_medium=RSS&at_campaign=rss",
+    "summary": "UK imposes sanctions on Israeli settlements in the West Bank.",
+    "pubDate": "Tue, 08 Sep 2026 15:55:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Lindsay Clancy's lawyer hopes for deal with prosecutors after mistrial",
+    "link": "https://www.bbc.co.uk/news/articles/czrz6gxp033o?at_medium=RSS&at_campaign=rss",
+    "summary": "Kevin Reddington also asked Trump to pardon Clancy a pardon, during his appearance on Good Morning America.",
+    "pubDate": "Tue, 08 Sep 2026 15:44:18 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "US police fear Meta smart glasses could be used to secretly record them",
+    "link": "https://www.theguardian.com/technology/2026/sep/08/us-law-enforcement-meta-smart-glasses",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/sep/08/us-law-enforcement-meta-smart-glasses Comments URL: https://news.ycombinator.com/item?id=49611946 Points: 54 # Comments: 39",
+    "pubDate": "Tue, 08 Sep 2026 15:39:49 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers",
+    "link": "https://www.bbc.co.uk/news/articles/cvgy6gd228vo?at_medium=RSS&at_campaign=rss",
+    "summary": "Palestinians strongly back a ban on settlement goods, but Israel's government says it is a \"big mistake\".",
+    "pubDate": "Tue, 08 Sep 2026 15:36:34 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Kane among three of England's World Cup stars to make Ballon d'Or shortlist",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c62m82qqm87o?at_medium=RSS&at_campaign=rss",
+    "summary": "Bayern Munich striker Harry Kane is one of three England players nominated for the 2026 Ballon d'Or alongside Jude Bellingham and Declan Rice.",
+    "pubDate": "Tue, 08 Sep 2026 15:27:09 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Ports denied request to land 120 migrants in RNLI boats",
+    "link": "https://www.bbc.co.uk/news/articles/cm27v3743mno?at_medium=RSS&at_campaign=rss",
+    "summary": "The King's Harbour Master and Southampton Port both declined to allow migrants ashore on Sunday.",
+    "pubDate": "Tue, 08 Sep 2026 15:26:05 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Google’s revived nuclear power plant gets $1.9B loan from US government",
+    "link": "https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/",
+    "summary": "Google said it would bring an Iowa nuclear power plant back from the dead. Now, the plant's owner is getting a $1.9B loan from the U.S. Energy Department.",
+    "pubDate": "Tue, 08 Sep 2026 15:25:35 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Borrowers expecting mortgage rates to drop have hopes dashed",
+    "link": "https://www.bbc.co.uk/news/articles/c770v7y63r0o?at_medium=RSS&at_campaign=rss",
+    "summary": "Major lenders have raised rates on new deals in recent days, leaving many borrowers needing to make a decision.",
+    "pubDate": "Tue, 08 Sep 2026 15:19:43 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Disappointed Optimists",
+    "link": "https://cwodtke.com/disappointed-optimists/",
+    "summary": "Article URL: https://cwodtke.com/disappointed-optimists/ Comments URL: https://news.ycombinator.com/item?id=49611549 Points: 23 # Comments: 2",
+    "pubDate": "Tue, 08 Sep 2026 15:13:56 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+    "link": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+    "summary": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
+    "pubDate": "Tue, 08 Sep 2026 15:04:09 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Reverse engineering the 2008 LogiCola, a logic drill program",
+    "link": "https://logicola.org/blog/the-new-logicola",
+    "summary": "Article URL: https://logicola.org/blog/the-new-logicola Comments URL: https://news.ycombinator.com/item?id=49611329 Points: 13 # Comments: 0",
+    "pubDate": "Tue, 08 Sep 2026 15:00:43 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "一日一技｜我的 Windows 11 头像会动，你也可以",
     "link": "https://sspai.com/post/114312",
     "summary": "Where's everyone going? Bingo? 查看全文",
     "pubDate": "Tue, 08 Sep 2026 15:00:00 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "Google DeepMind Releases AlphaGenome Atlas",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+    "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/ Comments URL: https://news.ycombinator.com/item?id=49611251 Points: 148 # Comments: 28",
+    "pubDate": "Tue, 08 Sep 2026 14:55:45 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "ZX Spectrum: Experimenting with 1-Bit Sound",
+    "link": "https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/",
+    "summary": "Article URL: https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/ Comments URL: https://news.ycombinator.com/item?id=49611230 Points: 36 # Comments: 12",
+    "pubDate": "Tue, 08 Sep 2026 14:54:29 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
+    "link": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
+    "summary": "Article URL: https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/ Comments URL: https://news.ycombinator.com/item?id=49611128 Points: 50 # Comments: 24",
+    "pubDate": "Tue, 08 Sep 2026 14:49:19 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The two Christian saints who are the Buddha",
+    "link": "https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/",
+    "summary": "Article URL: https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/ Comments URL: https://news.ycombinator.com/item?id=49611051 Points: 78 # Comments: 17",
+    "pubDate": "Tue, 08 Sep 2026 14:44:25 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "DHS 'Predictive Policing' Unit Is Analyzing Americans' Financial Habits",
+    "link": "https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/",
+    "summary": "Article URL: https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/ Comments URL: https://news.ycombinator.com/item?id=49610988 Points: 148 # Comments: 51",
+    "pubDate": "Tue, 08 Sep 2026 14:40:30 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Russo and Greenwood nominated for Ballon d'Or",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cpd01d9je5zo?at_medium=RSS&at_campaign=rss",
+    "summary": "England stars Alessia Russo and Alex Greenwood are among 30 players nominated for the women's Ballon d'Or.",
+    "pubDate": "Tue, 08 Sep 2026 14:40:01 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Paramount Caught Using 'Astroturf' Group to Drum Up Fake Support for Merger",
+    "link": "https://www.techdirt.com/2026/09/08/paramount-caught-using-astroturf-group-to-drum-up-fake-support-for-merger/",
+    "summary": "Article URL: https://www.techdirt.com/2026/09/08/paramount-caught-using-astroturf-group-to-drum-up-fake-support-for-merger/ Comments URL: https://news.ycombinator.com/item?id=49610900 Points: 125 # Comments: 38",
+    "pubDate": "Tue, 08 Sep 2026 14:33:52 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "I was fired from The Voice - I didn't want to leave, says Sir Tom Jones",
+    "link": "https://www.bbc.co.uk/news/articles/c70dx3z9956o?at_medium=RSS&at_campaign=rss",
+    "summary": "The Welsh singer has appeared as an on-off coach on the competition since it premiered in 2012.",
+    "pubDate": "Tue, 08 Sep 2026 14:21:55 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "England different from when Pietersen left - Root",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/cr4vex3rpz2o?at_medium=RSS&at_campaign=rss",
+    "summary": "Joe Root says the England team is \"very different\" to the one Kevin Pietersen was sacked from in 2014, after the former batter joined the coaching staff of the white-ball side.",
+    "pubDate": "Tue, 08 Sep 2026 14:18:17 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Mistral raises €3B as sovereign AI becomes big business",
+    "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+    "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
+    "pubDate": "Tue, 08 Sep 2026 14:17:48 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "AlphaGenome Atlas predictive map of every DNA letter change in the human genome",
+    "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+    "summary": "Article URL: https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/ Comments URL: https://news.ycombinator.com/item?id=49610641 Points: 27 # Comments: 2",
+    "pubDate": "Tue, 08 Sep 2026 14:14:15 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "A hacker stole $340M in a crypto heist, then returned most of it",
+    "link": "https://techcrunch.com/2026/09/08/a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of-it/",
+    "summary": "The latest heist is one of the largest thefts of cryptocurrency to date.",
+    "pubDate": "Tue, 08 Sep 2026 14:11:29 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch",
+    "link": "https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/",
+    "summary": "Bluecore Energy announced Tuesday an oversubscribed $50 million seed round — just months after raising a $10 million pre-seed and coming out of stealth.",
+    "pubDate": "Tue, 08 Sep 2026 14:10:17 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "LibreOffice breaks download records after declaring it has no AI features",
+    "link": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
+    "summary": "Article URL: https://manualdousuario.net/en/libreoffice-download-record-no-ai/ Comments URL: https://news.ycombinator.com/item?id=49610538 Points: 525 # Comments: 165",
+    "pubDate": "Tue, 08 Sep 2026 14:05:57 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Richard Kelly on Donnie Darko at 25: ‘It’s a Miracle That Any Movie Gets Made’",
+    "link": "https://www.wired.com/story/richard-kelly-donnie-darko-25th-anniversary-interview/",
+    "summary": "The director discusses his debut novel, staying true to an artistic vision, and the absurd line of dialogue from Donnie Darko he believes will find its way into his obituary.",
+    "pubDate": "Tue, 08 Sep 2026 14:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "EV batteries last longer than drivers feared",
+    "link": "https://arstechnica.com/cars/2026/09/ev-batteries-last-longer-than-drivers-feared/",
+    "summary": "Study suggests used vehicles can retain about 90% of original usable battery capacity after 150,000 km.",
+    "pubDate": "Tue, 08 Sep 2026 13:56:38 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "England up in reading, maths and science rankings as Scotland and Wales fall behind",
+    "link": "https://www.bbc.co.uk/news/articles/cvgy6n0l4rdo?at_medium=RSS&at_campaign=rss",
+    "summary": "The latest Pisa report also warned of a global decline in teenagers' reading skills.",
+    "pubDate": "Tue, 08 Sep 2026 13:53:13 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "DaVinci Resolve 21.1",
+    "link": "https://www.blackmagicdesign.com/media/release/20260908-03",
+    "summary": "Article URL: https://www.blackmagicdesign.com/media/release/20260908-03 Comments URL: https://news.ycombinator.com/item?id=49610181 Points: 197 # Comments: 80",
+    "pubDate": "Tue, 08 Sep 2026 13:36:53 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Renoir paintings worth millions stolen in French museum heist",
+    "link": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss",
+    "summary": "It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight.",
+    "pubDate": "Tue, 08 Sep 2026 13:35:28 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Show HN: Copperhead – Hardware as Fast as Software",
+    "link": "https://copperhead.sh/",
+    "summary": "Article URL: https://copperhead.sh/ Comments URL: https://news.ycombinator.com/item?id=49610059 Points: 122 # Comments: 46",
+    "pubDate": "Tue, 08 Sep 2026 13:26:45 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Mac Allister 'sad' at no Liverpool contract offer",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cvgy0542qjvo?at_medium=RSS&at_campaign=rss",
+    "summary": "Liverpool midfielder Alexis Mac Allister says he is \"very sad\" not to have been offered a new deal by the club and had \"options\" to leave in the summer.",
+    "pubDate": "Tue, 08 Sep 2026 13:01:12 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Poseidon Aerospace lands $60M ahead of first pilotless test flight",
+    "link": "https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/",
+    "summary": "The startup is trying to rethink the economics of cargo aircraft by removing pilots from the equation entirely.",
+    "pubDate": "Tue, 08 Sep 2026 13:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "With another huge infusion of cash, Stoke Space goes even bigger",
+    "link": "https://arstechnica.com/space/2026/09/stoke-space-sets-debut-launch-target-reveals-plans-for-larger-rocket/",
+    "summary": "The space economy will grow exactly as fast as we can launch rockets.",
+    "pubDate": "Tue, 08 Sep 2026 12:29:18 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "British designer Paul Smith: 'Nobody cares how good you used to be in fashion'",
+    "link": "https://www.bbc.co.uk/news/videos/cp3kl3g2wjqo?at_medium=RSS&at_campaign=rss",
+    "summary": "The celebrated British fashion designer invited BBC News to his office to talk about his career and a rubber chicken.",
+    "pubDate": "Tue, 08 Sep 2026 12:14:06 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "FreeBSD 14.5-Release",
+    "link": "https://www.freebsd.org/releases/14.5R/announce/",
+    "summary": "Article URL: https://www.freebsd.org/releases/14.5R/announce/ Comments URL: https://news.ycombinator.com/item?id=49609174 Points: 24 # Comments: 0",
+    "pubDate": "Tue, 08 Sep 2026 12:04:04 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Meta Failed to Catch Hundreds of AI Child Abuse Ads. Some Included Images of Real Kids",
+    "link": "https://www.wired.com/story/meta-failed-to-catch-hundreds-of-ai-child-abuse-ads-some-included-images-of-real-kids/",
+    "summary": "Images of real children—including a member of a European royal family—were used to create some of the 350 ads containing child sexual abuse. Lawmakers say they plan to investigate.",
+    "pubDate": "Tue, 08 Sep 2026 12:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Monty Don to leave Gardeners' World after more than 20 years",
+    "link": "https://www.bbc.co.uk/news/articles/c74ew4402kxo?at_medium=RSS&at_campaign=rss",
+    "summary": "The presenter said it had been \"deeply rewarding\" but added that \"now is the right time for a change\".",
+    "pubDate": "Tue, 08 Sep 2026 11:43:32 GMT",
+    "source": "BBC News",
+    "category": "general"
   },
   {
     "title": "Nottingham attacks victim's death 'potentially preventable'",
@@ -72,6 +456,14 @@
     "category": "tech"
   },
   {
+    "title": "Serving Web from volatile Dial-up IP",
+    "link": "https://blog.mro.name/2026/09/web-from-dial-up/",
+    "summary": "Comments",
+    "pubDate": "Tue, 08 Sep 2026 10:49:10 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "At least two people dead after Russian strikes on Kyiv",
     "link": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
     "summary": "Air raid alerts and sounds of explosions rang out in Ukraine's capital as Russian forces launched drone strikes early on Tuesday.",
@@ -104,6 +496,14 @@
     "category": "general"
   },
   {
+    "title": "Scientists discover a powerful new antivenom hidden in rattlesnake blood",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260907201605.htm",
+    "summary": "Researchers discovered that combinations of toxin-blocking proteins naturally found in rattlesnake blood can powerfully neutralize venom from several dangerous snake species. In lab tests, the mixtures were about 10 times more potent than a current commercial antivenom, pointing toward a new gene...",
+    "pubDate": "Tue, 08 Sep 2026 09:54:56 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "Why getting your hands dirty is good for you",
     "link": "https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks",
     "summary": "Article URL: https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks Comments URL: https://news.ycombinator.com/item?id=49608023 Points: 47 # Comments: 23",
@@ -128,11 +528,35 @@
     "category": "tech"
   },
   {
+    "title": "Your personality may be more genetic than scientists realized",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260907201554.htm",
+    "summary": "More than 1,200 genetic variants have been linked to the Big Five personality traits, and many of the same variants are also associated with health, longevity, careers, income, and everyday habits. The findings reveal a surprisingly wide genetic connection between personality and life outcomes wh...",
+    "pubDate": "Tue, 08 Sep 2026 09:40:34 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "UK's third-biggest taxpayer to leave for Greece",
     "link": "https://www.bbc.co.uk/news/articles/cvgynjlzk8zo?at_medium=RSS&at_campaign=rss",
     "summary": "Chris Rokos plans to open an office in Athens, reports say, and was ranked third in the Sunday Times's list of the UK's top taxpayers.",
     "pubDate": "Tue, 08 Sep 2026 09:33:35 GMT",
     "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The Depths of JavaScript: Minesweeper in 247 Bytes",
+    "link": "https://yui.dev/blog/minesweeper-in-247-bytes",
+    "summary": "Comments",
+    "pubDate": "Tue, 08 Sep 2026 09:33:25 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Australian social media users to be offered choice to opt out of algorithms",
+    "link": "https://www.npr.org/2026/09/08/g-s1-142311/australian-social-media-users-to-be-offered-choice-to-opt-out-of-algorithms",
+    "summary": "A government statement said on Tuesday social media platforms would be required to send a notification to new and existing users offering them a choice over their default feed.",
+    "pubDate": "Tue, 08 Sep 2026 09:24:00 -0400",
+    "source": "NPR",
     "category": "general"
   },
   {
@@ -144,6 +568,14 @@
     "category": "general"
   },
   {
+    "title": "U.K. accuses Israeli settlers of 'ethnic cleansing' in West Bank and bans their goods",
+    "link": "https://www.npr.org/2026/09/08/nx-s1-5961044/uk-occcupied-west-bank-goods-israel",
+    "summary": "France, Canada and other countries joined the U.K. in banning goods from Israeli settlements in the occupied West Bank. Israel said it would close the British Consulate among other measures.",
+    "pubDate": "Tue, 08 Sep 2026 09:05:20 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "Forget the Mediterranean diet, I'm eating only food from Shetland for a month",
     "link": "https://www.bbc.co.uk/news/articles/c74ewj1kdyro?at_medium=RSS&at_campaign=rss",
     "summary": "Dr Alex Armitage is eating only food grown, reared or caught locally during September.",
@@ -152,11 +584,35 @@
     "category": "general"
   },
   {
+    "title": "Whatever happened to the Taliban threat: 'We will flog the women'?",
+    "link": "https://www.npr.org/2026/09/08/g-s1-142038/taliban-afghanistan-public-flogging",
+    "summary": "In 2024, the ruling Taliban pledged to use flogging as well as stoning to punish people for not following certain of their precepts — committing adultery, running secret schools for girls. Have they followed through?",
+    "pubDate": "Tue, 08 Sep 2026 09:01:58 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "Stoke Space raises another billion to rival SpaceX at re-flying rockets",
     "link": "https://techcrunch.com/2026/09/08/stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets/",
     "summary": "Stoke has \"completed the initial closing\" of a $1B Series E round intended to help it reach orbit and prepare a new, larger rocket for operations.",
     "pubDate": "Tue, 08 Sep 2026 09:00:00 +0000",
     "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Ozempic and Wegovy may have an unexpected mental health benefit",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260907201601.htm",
+    "summary": "Semaglutide, the drug behind Ozempic and Wegovy, may have benefits that extend well beyond weight loss and diabetes. In a large Swedish study of nearly 15,000 people with bipolar disorder, its use was linked to a 21% lower risk of psychiatric hospitalization. Researchers think effects on inflamma...",
+    "pubDate": "Tue, 08 Sep 2026 08:59:00 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Switching Password Managers in 2026",
+    "link": "https://rmondello.com/2026/09/07/switching-password-managers-2026/",
+    "summary": "Comments",
+    "pubDate": "Tue, 08 Sep 2026 08:55:09 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -176,6 +632,22 @@
     "category": "tech"
   },
   {
+    "title": "Giant new dinosaur discovered beneath construction site in Brazil",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260907201603.htm",
+    "summary": "Scientists have identified a giant new dinosaur from Brazil that reached about 20 meters long and lived 120 million years ago. Its surprising evolutionary ties to a Spanish dinosaur suggest its ancestors crossed ancient land connections between Europe, Africa, and South America.",
+    "pubDate": "Tue, 08 Sep 2026 08:42:29 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Scientists observe Einstein’s gravity in the quantum world for the first time",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260907201552.htm",
+    "summary": "Physicists have directly observed a long-predicted quantum effect of gravity, putting one of Einstein’s foundational ideas to a striking new test. Using ultracold atoms, researchers split an atom’s quantum wave so that one part was held in place while the other fell freely under gravity, then reu...",
+    "pubDate": "Tue, 08 Sep 2026 08:09:21 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "派早报：华为举办 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会等",
     "link": "https://sspai.com/post/114307",
     "summary": "少数派的近期动态全新iPhone发布在即，来与少数派一起看Apple发布会口袋先知新版本1.3.3上线，你可以自定义任何你想展示的屏幕效果。了解更多能让AI助手通过自然语言指令直接与您的Quote/0 ... 查看全文",
@@ -184,10 +656,42 @@
     "category": "tech-cn"
   },
   {
+    "title": "CERN's migration path from CentOS Linux to Debian",
+    "link": "https://lwn.net/SubscriberLink/1092512/0772b817c369632b/",
+    "summary": "Comments",
+    "pubDate": "Tue, 08 Sep 2026 08:07:26 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "The American “cheetah” wasn’t a cheetah at all",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260907201558.htm",
+    "summary": "The extinct “American cheetah” was not really a cheetah at all, but a puma relative with an unexpectedly flexible lifestyle. Fossils from the Yukon suggest northern populations survived partly by eating fish, possibly including salmon, while southern cats hunted on land.",
+    "pubDate": "Tue, 08 Sep 2026 07:58:27 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "GOP to host unusual midterm convention. And, Canada's retaliatory tariffs take effect",
     "link": "https://www.npr.org/2026/09/08/g-s1-142302/up-first-newsletter-trumpapalooza-amazon-cargo-plane-crash-canada-tariffs",
     "summary": "Republicans are aiming to get voters to turn out for the midterms with an unconventional convention. And, Canada's retaliatory tariffs on the U.S. went into effect at midnight.",
     "pubDate": "Tue, 08 Sep 2026 07:20:05 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Scientists find a new weakness in treatment-resistant prostate cancer",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260904000324.htm",
+    "summary": "Researchers have found a potential way to attack prostate cancers that evade treatment by changing their cellular identity. Combining two types of drugs reversed many of these changes and sharply slowed tumor growth in preclinical experiments, offering a possible new strategy for aggressive, trea...",
+    "pubDate": "Tue, 08 Sep 2026 06:46:38 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Chrystia Freeland negotiated with Trump. Now she's watching a trade war unfold",
+    "link": "https://www.npr.org/2026/09/08/nx-s1-5955613/chrystia-freeland-canada-us-trade-war-tariffs",
+    "summary": "Chrystia Freeland understands the U.S.-Canada relationship from her time at the negotiating table. Here's what she sees now.",
+    "pubDate": "Tue, 08 Sep 2026 06:46:03 -0400",
     "source": "NPR",
     "category": "general"
   },
@@ -376,6 +880,14 @@
     "category": "tech"
   },
   {
+    "title": "Early statin use linked to 15% lower dementia risk",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260901070520.htm",
+    "summary": "Starting statins soon after a type 2 diabetes diagnosis may do more than protect the heart. In a nationwide Danish study of more than 132,000 people, those who began statin treatment within a year of diagnosis had a 15% lower relative risk of developing dementia over 10 years compared with those ...",
+    "pubDate": "Tue, 08 Sep 2026 03:37:21 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "Gauff's dominant win completes stacked US Open last eight",
     "link": "https://www.bbc.co.uk/sport/tennis/articles/crk368k4e42o?at_medium=RSS&at_campaign=rss",
     "summary": "Coco Gauff powers past teenage star Iva Jovic as the top six seeds reach the US Open women's quarter-finals for the first time in 28 years.",
@@ -389,6 +901,14 @@
     "summary": "Article URL: https://danluu.com/agentic-testing/ Comments URL: https://news.ycombinator.com/item?id=49605246 Points: 21 # Comments: 1",
     "pubDate": "Tue, 08 Sep 2026 02:58:16 +0000",
     "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Finite-time blowup with smooth forcing for 3D incompressible Euler, Boussinesq, and IPM",
+    "link": "https://mastodon.social/@tristanbuckmaster/117233413705701198",
+    "summary": "Comments",
+    "pubDate": "Tue, 08 Sep 2026 02:43:27 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -536,6 +1056,30 @@
     "category": "general"
   },
   {
+    "title": "MIT scientists develop injectable “mini livers” that work inside the body",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260903064249.htm",
+    "summary": "MIT engineers have developed injectable “mini livers” designed to help support people whose failing livers can no longer perform essential jobs. Instead of replacing the damaged organ, the approach injects liver cells together with tiny hydrogel spheres and supportive cells, creating a pocket of ...",
+    "pubDate": "Sun, 06 Sep 2026 23:20:45 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Scientists find a way to slash computer memory energy use by orders of magnitude",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260906170132.htm",
+    "summary": "Scientists have devised a new way to switch magnetic computer memory while using far less energy than today's leading technologies. By mathematically optimizing the pulses used to flip digital bits, the method could reduce energy consumption by several orders of magnitude. Simulations suggest it ...",
+    "pubDate": "Sun, 06 Sep 2026 21:14:19 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Antarctica gained a record 695 billion tons of ice. Scientists found the surprising reason",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260906170128.htm",
+    "summary": "East Antarctica gained an astonishing 695 billion tons of ice between 2021 and 2023, temporarily slowing Antarctica’s long-term decline. Researchers found that warming thousands of miles away in the tropical ocean altered atmospheric circulation and funneled moisture toward the continent, trigger...",
+    "pubDate": "Sun, 06 Sep 2026 18:54:05 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "Catching Crumbs from the Table (2000)",
     "link": "https://www.nature.com/articles/35014679",
     "summary": "https://web.archive.org/web/20150719010624/http://www.nature... https://www.scribd.com/document/893921964/CHIANG-Catching-Cr... Comments URL: https://news.ycombinator.com/item?id=49584053 Points: 16 # Comments: 5",
@@ -624,12 +1168,28 @@
     "category": "tech"
   },
   {
+    "title": "Doctors saved this rare monkey from amputation. Months later, she gave birth",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260906170145.htm",
+    "summary": "A critically endangered roloway monkey has given birth just months after surgeons performed an unusual operation that saved her foot from amputation. Her new daughter, Lagertha, is an important addition to a species believed to number fewer than 2,000 in the wild.",
+    "pubDate": "Mon, 07 Sep 2026 22:09:10 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
     "link": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
     "summary": "Article URL: https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/ Comments URL: https://news.ycombinator.com/item?id=49602699 Points: 146 # Comments: 59",
     "pubDate": "Mon, 07 Sep 2026 20:32:55 +0000",
     "source": "Hacker News",
     "category": "tech"
+  },
+  {
+    "title": "Scientists discover a hidden immune signal that helps spinal cords regrow",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260906170136.htm",
+    "summary": "A surprising immune system signal may help explain why zebrafish can regenerate damaged spinal cords so effectively. Researchers found that certain neutrophils release Il-4, which calms harmful inflammation and allows injured nerve fibers to grow again. Without these cells, healing stalled, but a...",
+    "pubDate": "Mon, 07 Sep 2026 20:31:34 EDT",
+    "source": "Science Daily",
+    "category": "science"
   },
   {
     "title": "Emacs Bedrock 2.0",
@@ -646,6 +1206,14 @@
     "pubDate": "Mon, 07 Sep 2026 19:50:16 -0500",
     "source": "Lobsters",
     "category": "tech"
+  },
+  {
+    "title": "Common dry-cleaning chemical linked to triple the risk of liver scarring",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260906170149.htm",
+    "summary": "A chemical commonly used in dry cleaning and found in some household products may be an overlooked threat to liver health. Researchers found that people with detectable levels of tetrachloroethylene (PCE) in their blood were three times more likely to have significant liver fibrosis, a dangerous ...",
+    "pubDate": "Mon, 07 Sep 2026 19:05:24 EDT",
+    "source": "Science Daily",
+    "category": "science"
   },
   {
     "title": "The Dataflow Model Revisited",
@@ -672,11 +1240,139 @@
     "category": "tech"
   },
   {
+    "title": "Scientists say love follows hidden mathematical rules",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260906170140.htm",
+    "summary": "Could math help explain why some relationships survive life’s inevitable stresses while others slowly fall apart? Researchers have spent decades developing mathematical models that treat romantic feelings as changing systems, revealing patterns in attraction, emotional reactions, conflict, and re...",
+    "pubDate": "Mon, 07 Sep 2026 04:58:31 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "A War of 1812 soldier buried his own arm. His real story is even stranger",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260906170138.htm",
+    "summary": "A rediscovered memoir reveals that celebrated War of 1812 veteran Shadrack Byfield was far more rebellious and troubled than history has portrayed, battling chronic pain, poverty, authorities, and even rivals at his local chapel. The soldier who buried his own amputated arm and invented a custom ...",
+    "pubDate": "Mon, 07 Sep 2026 04:26:02 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Cialis linked to higher glaucoma risk in large study",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260906170134.htm",
+    "summary": "A large study of nearly 74,000 men suggests that long-term use of tadalafil, best known as Cialis, may be linked to a higher risk of glaucoma and other eye pressure problems. Men prescribed the drug for urinary symptoms caused by an enlarged prostate were 22% more likely to develop glaucoma, 32% ...",
+    "pubDate": "Mon, 07 Sep 2026 03:03:04 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Your gut microbiome may be more contagious than scientists thought",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260906170129.htm",
+    "summary": "Scientists have found evidence that some gut bacterial populations can spread rapidly between people and across continents, suggesting the microbiome may be more transmissible than previously thought. The research also revealed hidden bacterial groups associated with aging, colorectal cancer, inf...",
+    "pubDate": "Mon, 07 Sep 2026 02:34:24 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "An important step towards detecting fractons in quantum spin liquids",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260903064222.htm",
+    "summary": "A more realistic quantum model has revealed evidence that strange, nearly immobile quasiparticles called fractons could exist in solid materials. Their inability to move freely could make them promising building blocks for unusually robust quantum information storage.",
+    "pubDate": "Mon, 07 Sep 2026 01:45:36 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Cancer cases could surge 67% worldwide by 2050",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260906170142.htm",
+    "summary": "Cancer is becoming an even larger global health threat, with nearly 21 million people diagnosed and 9.8 million dying from the disease in 2024. New estimates suggest about 1 in 5 people worldwide will develop cancer during their lifetime, while cases could climb by 67% to 34 million by 2050 simpl...",
+    "pubDate": "Mon, 07 Sep 2026 01:05:57 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "Some more thoughts on random_page_cost",
     "link": "https://vondra.me/posts/some-more-thoughts-on-random-page-cost/",
     "summary": "Article URL: https://vondra.me/posts/some-more-thoughts-on-random-page-cost/ Comments URL: https://news.ycombinator.com/item?id=49570189 Points: 13 # Comments: 0",
     "pubDate": "Fri, 04 Sep 2026 21:05:24 +0000",
     "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Tesla Cybercab doesn’t have any manual controls — but it does have a virtual joystick",
+    "link": "https://www.theverge.com/transportation/991400/tesla-cybercab-virtual-joystick-manual-control",
+    "summary": "The Tesla Cybercab is notable for what it lacks, namely a steering wheel and pedal. By design, there is no way for this vehicle to be manually controlled - or so we thought. Less than a week after the Cybercab was officially launched in Austin, Texas, some riders have discovered the Cybercab's se...",
+    "pubDate": "2026-09-08T12:06:56-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "The White House pulls its racist Tetris clone",
+    "link": "https://www.theverge.com/games/991451/white-house-pulls-racist-tetris-clone",
+    "summary": "The White House has taken down its racist Tetris ripoff days after launching a website dedicated to \"arcade games,\" as spotted earlier by Kotaku. The Tetris clone, called \"Build the Wall,\" involved stacking different-sized blocks to prevent a \"zombie border siege.\" It's not clear why the White Ho...",
+    "pubDate": "2026-09-08T12:00:51-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Pusheen’s first game is coming to Apple Arcade",
+    "link": "https://www.theverge.com/games/991398/pusheen-apple-arcade-game",
+    "summary": "Pusheen is getting her first game, and it will appear exclusively on Apple Arcade. Launching October 1st, Pusheen's Place lets you collect and care for more than 100 Pusheens as you play minigames and decorate rooms for Pusheenicorn, Pancake Pusheen, and other variations of the cartoon cat. In th...",
+    "pubDate": "2026-09-08T11:07:13-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "JBL’s soundbar with detachable rear speakers is over $300 off",
+    "link": "https://www.theverge.com/gadgets/991261/jbl-soundbar-detachable-speakers-final-fantasy-deal-sale",
+    "summary": "A lot of people are split between getting a nice all-in-one soundbar or spending more for an option that includes rear satellites for immersive surround sound. JBL’s Bar 700 Mark 2 system is one of the most unique options available, shipping with two modular speakers that charge when docked to th...",
+    "pubDate": "2026-09-08T11:03:07-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Nintendo’s Ocarina of Time remake launches in November",
+    "link": "https://www.theverge.com/games/991218/zelda-ocarina-of-time-remake-release-date-trailer",
+    "summary": "Link's next adventure now has a release date. During a Legend of Zelda stream for the franchise's 40th anniversary, Nintendo announced that the upcoming Ocarina of Time remake for the Switch 2 is launching on November 5th. The release date makes Ocarina of Time one of just a few big-budget titles...",
+    "pubDate": "2026-09-08T10:26:02-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "A word with a woman who’s trying to pull off a crossbody phone strap",
+    "link": "https://www.theverge.com/tech/990849/crossbody-phone-strap-style",
+    "summary": "Oh, this thing? It's just a crossbody strap. It's a fun and youthful way to carry your phone. It's all the rage with Europeans and young people. I love it, and I definitely don't feel weird and self-conscious using it. Plus, it's great to have a $700 investment dangling near your waist while you ...",
+    "pubDate": "2026-09-08T10:04:37-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "SteelSeries’ pro-grade, wireless Xbox controller sure is expensive",
+    "link": "https://www.theverge.com/games/990263/steelseries-aeon-pro-xbox-pc-controller-price-features",
+    "summary": "SteelSeries is a household name for many gamers, but not when it comes to controllers. Instead of easing into the conversation with reasonably-priced console and PC controllers to build trust, it's kicking down the door with the $259.99 Aeon Pro wireless controller for Xbox and PC, which is now a...",
+    "pubDate": "2026-09-08T10:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Microsoft breaks another patch Tuesday record",
+    "link": "https://www.theverge.com/tech/991178/microsoft-patch-tuesday-record-breaking-ai-notepad",
+    "summary": "Engineers at Microsoft typically enjoy a quieter summer to take vacations and spend time with family, as is common at many companies. But this year, the season has been unusually busy for Windows and security engineers, thanks to new AI models that are discovering software vulnerabilities at a ra...",
+    "pubDate": "2026-09-08T10:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Google’s Atlas of the human genome could pave the way for new treatments",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
+    "summary": "Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research and ultimately paving the way for new treatments for diseases. The platform, called AlphaGenome Atlas...",
+    "pubDate": "2026-09-08T10:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "The Legend of Zelda 40th Anniversary Direct: All the news and trailers",
+    "link": "https://www.theverge.com/games/991265/the-legend-of-zelda-40th-anniversary-direct",
+    "summary": "The Legend of Zelda franchise turns 40 this year, and Nintendo has some news in store. The company is airing a Zelda-themed Direct on September 8th at 10AM ET (it&#8217;s actually the first of two news-filled events), which is expected to last around 30 minutes and, according to Nintendo, will in...",
+    "pubDate": "2026-09-08T09:50:00-04:00",
+    "source": "The Verge",
     "category": "tech"
   },
   {
@@ -694,6 +1390,30 @@
     "pubDate": "2026-09-08T03:00:00-04:00",
     "source": "The Verge",
     "category": "tech"
+  },
+  {
+    "title": "The Kelvin scale’s creator William Thomson made many scientific advances",
+    "link": "https://www.nature.com/articles/d41586-026-02722-y",
+    "summary": "Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02722-y A physics pioneer who provided a new way to describe temperature, and the value of studying fossilized tracks in this week’s pick from the Nature archive.",
+    "pubDate": "2026-09-08",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "The World Bank is right to prioritize reproducibility",
+    "link": "https://www.nature.com/articles/d41586-026-02678-z",
+    "summary": "Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02678-z The development bank and others are starting to publish and verify the raw data and code accompanying their research-based reports and papers. Other agencies should do the same.",
+    "pubDate": "2026-09-08",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "DeepMind’s new genome ‘atlas’ charts effects of all 9 billion human gene mutations",
+    "link": "https://www.nature.com/articles/d41586-026-02835-4",
+    "summary": "Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02835-4 AI model AlphaGenome forecasts the consequences of altering every single DNA letter in the human genome.",
+    "pubDate": "2026-09-08",
+    "source": "Nature",
+    "category": "science"
   },
   {
     "title": "Author Correction: Contrasting roles of histone 3 lysine 27 demethylases in acute lymphoblastic leukaemia",

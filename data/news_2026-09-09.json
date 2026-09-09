@@ -1,5 +1,341 @@
 [
   {
+    "title": "A Year After Charlie Kirk's Death, Turning Point Plans to Spend Big on the Midterms",
+    "link": "https://www.wired.com/story/a-year-after-charlie-kirks-death-turning-point-plans-to-spend-big-on-the-midterms/",
+    "summary": "Turning Point will spend tens of millions on ads and turnout, sources say, with a focus on New Hampshire, Arizona, and Nevada.",
+    "pubDate": "Wed, 09 Sep 2026 21:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Apple’s new CEO is reviving a Steve Jobs strategy from 25 years ago",
+    "link": "https://techcrunch.com/2026/09/09/apples-new-ceo-is-reviving-a-steve-jobs-strategy-from-25-years-ago/",
+    "summary": "John Ternus made the case in his first keynote as Apple CEO that the iPhone isn't going anywhere.",
+    "pubDate": "Wed, 09 Sep 2026 20:58:09 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+    "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+    "summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
+    "pubDate": "Wed, 09 Sep 2026 20:24:48 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "BBC drops Drag Race UK after eight series",
+    "link": "https://www.bbc.co.uk/news/articles/cq63816e60lo?at_medium=RSS&at_campaign=rss",
+    "summary": "Future series will no longer be broadcast on BBC Three as the show moves to a streaming platform owned by its production company.",
+    "pubDate": "Wed, 09 Sep 2026 20:16:38 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
+    "link": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
+    "summary": "US urges AI firms to ID, then secretly switch, Chinese users to less-capable models.",
+    "pubDate": "Wed, 09 Sep 2026 20:06:28 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+    "link": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+    "summary": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
+    "pubDate": "Wed, 09 Sep 2026 20:03:43 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Apple's new boss starts with big gamble on costly first folding iPhone",
+    "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
+    "summary": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
+    "pubDate": "Wed, 09 Sep 2026 20:00:33 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "There are new shiny iPhones, so Apple is making you pay more for older models",
+    "link": "https://techcrunch.com/2026/09/09/there-are-new-shiny-iphones-so-apple-is-making-you-pay-more-for-older-models/",
+    "summary": "Apple is raising the price of its existing iPhone models by $100, including iPhone 16, iPhone 17, and iPhone Air.",
+    "pubDate": "Wed, 09 Sep 2026 19:56:18 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Apple's long-rumored foldable becomes reality with the $2,000 iPhone Duo",
+    "link": "https://arstechnica.com/gadgets/2026/09/apples-long-rumored-foldable-becomes-reality-with-the-2000-iphone-duo/",
+    "summary": "Apple's first foldable can be yours next month.",
+    "pubDate": "Wed, 09 Sep 2026 19:42:00 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "When it comes to Beatles references, scientists can't let it be",
+    "link": "https://arstechnica.com/science/2026/09/scientists-really-love-to-reference-the-beatles-in-their-work/",
+    "summary": "New study detects 3,200 references to Beatles song titles and lyrics in academic papers.",
+    "pubDate": "Wed, 09 Sep 2026 19:31:55 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "The hinge for Apple’s new foldable phone was built with AI",
+    "link": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
+    "summary": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
+    "pubDate": "Wed, 09 Sep 2026 19:21:48 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Everything Apple Announced: iPhone Duo, iPhone 18 Pro, Apple Watch, AirPods 5",
+    "link": "https://www.wired.com/story/everything-apple-announced-september-2026/",
+    "summary": "The company’s September event introduced Apple’s first ever foldable iPhone, along with new iPhone 18 Pro models, updates to the Apple Watch, some AirPods, and more advances to Siri AI.",
+    "pubDate": "Wed, 09 Sep 2026 19:21:18 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Apple Doesn’t Want You to Worry About the New Apple Watch’s Listening Features",
+    "link": "https://www.wired.com/story/apple-doesnt-want-you-to-worry-about-the-new-apple-watchs-listening-features/",
+    "summary": "The new Apple Watch includes several “intelligent” listening features that have privacy and security baked in. But the protections can’t change the facts of what the tools do.",
+    "pubDate": "Wed, 09 Sep 2026 19:14:26 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "'An injustice' or 'righting a wrong': British Jews debate sanctions move",
+    "link": "https://www.bbc.co.uk/news/articles/c9dw048lp9zo?at_medium=RSS&at_campaign=rss",
+    "summary": "The UK's decision to sanction trade with illegal settlements has prompted a range of opinion among the British Jewish community.",
+    "pubDate": "Wed, 09 Sep 2026 19:12:52 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Lawsuit: Amazon refused to give pregnant workers bathroom breaks and chairs",
+    "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/",
+    "summary": "Four women sue Amazon, say company denied basic accommodations and fired them.",
+    "pubDate": "Wed, 09 Sep 2026 19:09:20 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Tate brothers to remain in US jail as they fight extradition to UK",
+    "link": "https://www.bbc.co.uk/news/articles/cp849rlrrmlo?at_medium=RSS&at_campaign=rss",
+    "summary": "A federal judge denied them bail, saying the dual US-UK citizens' wealth and frequent international travel \"constitute quintessential flight risks\".",
+    "pubDate": "Wed, 09 Sep 2026 19:09:13 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Apple Watch’s new feature listens to your chats and recaps them",
+    "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-feature-listens-to-your-chats-and-recaps-them/",
+    "summary": "The Siri Recap feature is similar to other note-taking apps like Granola.",
+    "pubDate": "Wed, 09 Sep 2026 19:08:59 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "UK Lawmakers Are Freaking Out Over AI’s Summer of Chaos",
+    "link": "https://www.wired.com/story/uk-lawmakers-are-scrambling-in-response-to-ai-summer-of-chaos/",
+    "summary": "As AI agents go rogue and fears of superintelligence grow, politicians are raising the alarm over its potential harm to human existence.",
+    "pubDate": "Wed, 09 Sep 2026 19:07:42 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Apple debuts $129 AirPods 5 with better noise cancellation and transparency mode",
+    "link": "https://arstechnica.com/gadgets/2026/09/apple-debuts-129-airpods-5-with-better-noise-cancellation-and-transparency-mode/",
+    "summary": "AirPods 5 with noise cancellation is cheaper than its predecessor.",
+    "pubDate": "Wed, 09 Sep 2026 18:58:24 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Apple starts preorders for Watch Series 12, Ultra 4 with new Health Sensing System",
+    "link": "https://arstechnica.com/gadgets/2026/09/apple-watch-series-12-ultra-4-have-wearables-most-accurate-heart-rate-sensing/",
+    "summary": "New Apple Intelligence features, too.",
+    "pubDate": "Wed, 09 Sep 2026 18:47:07 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "The quick guide to fall vaccines and when you should get them",
+    "link": "https://arstechnica.com/health/2026/09/what-to-know-about-covid-and-flu-shots-as-rfk-jr-s-chaos-drags-on/",
+    "summary": "Here are the evidence-based recommendations and this year's vaccine rollout.",
+    "pubDate": "Wed, 09 Sep 2026 18:39:36 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Harvey hits $15.5B valuation, months after reaching $11B",
+    "link": "https://techcrunch.com/2026/09/09/harvey-hits-15-5b-valuation-months-after-reaching-11b/",
+    "summary": "The legal AI startup and VC darling has nearly doubled its valuation in nine months.",
+    "pubDate": "Wed, 09 Sep 2026 18:34:24 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Man charged with assisting Russian intelligence service",
+    "link": "https://www.bbc.co.uk/news/articles/c7v4l9vy8m6o?at_medium=RSS&at_campaign=rss",
+    "summary": "Joshua Cammidge will appear in court on Thursday accused of two offences under the National Security Act.",
+    "pubDate": "Wed, 09 Sep 2026 18:31:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "I Let an AI Agent Hack All My Gadgets—and I’d Do It Again",
+    "link": "https://www.wired.com/story/i-used-ai-to-hack-my-home-network/",
+    "summary": "After I removed the safety guardrails from a powerful open-source model, it found vulnerabilities in my household devices and hacked into a PC. But it also told me how to make everything a lot more secure.",
+    "pubDate": "Wed, 09 Sep 2026 18:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Air traffic failure was avoidable, says transport secretary",
+    "link": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
+    "summary": "Heidi Alexander orders an investigation into the glitch that caused more than 2,000 flight cancellations.",
+    "pubDate": "Wed, 09 Sep 2026 18:21:16 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
+    "link": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
+    "summary": "The update uses Apple Intelligence to make better sense of your health data.",
+    "pubDate": "Wed, 09 Sep 2026 18:16:29 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "iPhone Duo",
+    "link": "https://www.apple.com/iphone-duo/",
+    "summary": "Article URL: https://www.apple.com/iphone-duo/ Comments URL: https://news.ycombinator.com/item?id=49630931 Points: 534 # Comments: 1171",
+    "pubDate": "Wed, 09 Sep 2026 18:15:43 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "England humble hapless Pakistan on opening day of final Test",
+    "link": "https://www.bbc.co.uk/sport/cricket/videos/clyer832nx8o?at_medium=RSS&at_campaign=rss",
+    "summary": "England took early control of the third and final Test against Pakistan after a day of dominance with bat and ball, closing the day on 156-4, giving the home side a lead of 23 at stumps, after earlier bowling Pakistan out for 133 at Edgbaston.",
+    "pubDate": "Wed, 09 Sep 2026 18:12:18 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day",
+    "link": "https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day/",
+    "summary": "Most notably, Apple is taking aim at the growing wave of AI wearables with new \"Audio Intelligence\" features that let you rewind moments and remember details from daily conversations.",
+    "pubDate": "Wed, 09 Sep 2026 18:08:46 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Apple has a new way prove your iPhone photos aren’t AI slop",
+    "link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
+    "summary": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
+    "pubDate": "Wed, 09 Sep 2026 18:08:35 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Apple shows off AirPods 5 with improved active noise cancellation",
+    "link": "https://techcrunch.com/2026/09/09/apple-shows-off-airpods-5-with-improved-active-noise-cancellation/",
+    "summary": "The AirPods 5 support better noise cancellation, Siri AI, and offer volume controls on the stem.",
+    "pubDate": "Wed, 09 Sep 2026 18:06:40 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Apple unveils its first foldable, the iPhone Duo",
+    "link": "https://techcrunch.com/2026/09/09/apple-unveils-its-first-foldable-the-iphone-duo/",
+    "summary": "Unlike early iterations of foldables, which looked like vertical slabs, Apple adopted a wider form factor that could aid in a better aspect ratio while watching videos when the device is unfolded.",
+    "pubDate": "Wed, 09 Sep 2026 17:58:14 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
+    "link": "https://github.com/OtoDock/oto-dock",
+    "summary": "Hi HN, I am Dimitris. This is a company OS that I built and use to run my business and anyone can install it and self host it for free. Think of it as Claude Code, Cowork and the cloud sessions in one self hosted application. It is a Multi-tenant application by design where many people can collab...",
+    "pubDate": "Wed, 09 Sep 2026 17:57:55 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Apple Debuts the iPhone Duo, Its First Folding iPhone",
+    "link": "https://www.wired.com/story/apple-debuts-the-iphone-duo-its-first-folding-iphone/",
+    "summary": "The iPhone with a folding screen is the first radical redesign of Apple’s flagship handset in years. The iPhone Duo will cost $1,999 when it arrives in October.",
+    "pubDate": "Wed, 09 Sep 2026 17:57:45 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Apple Watch Ultra 4",
+    "link": "https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/",
+    "summary": "Article URL: https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/ Comments URL: https://news.ycombinator.com/item?id=49630583 Points: 60 # Comments: 93",
+    "pubDate": "Wed, 09 Sep 2026 17:56:57 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Apple Watch Series 12",
+    "link": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
+    "summary": "Article URL: https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/ Comments URL: https://news.ycombinator.com/item?id=49630566 Points: 145 # Comments: 147",
+    "pubDate": "Wed, 09 Sep 2026 17:56:17 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Apple Watch Series 12 and Apple Watch Ultra 4: Ceramic, Specs, Release Date",
+    "link": "https://www.wired.com/story/apple-watch-series-12-apple-watch-ultra-4/",
+    "summary": "Apple’s latest smartwatches—the Apple Watch Series 12 and Ultra 4—get a faster chip, expanded health tracking, and new Siri capabilities. Plus, the ceramic finish is back.",
+    "pubDate": "Wed, 09 Sep 2026 17:43:38 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "AirPods 5",
+    "link": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+    "summary": "Article URL: https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/ Comments URL: https://news.ycombinator.com/item?id=49630253 Points: 251 # Comments: 209",
+    "pubDate": "Wed, 09 Sep 2026 17:39:24 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Apple's iPhone 18 Pro adds variable camera aperture and a more powerful chip",
+    "link": "https://arstechnica.com/gadgets/2026/09/apples-iphone-18-pro-adds-variable-camera-aperture-and-a-more-powerful-chip/",
+    "summary": "There's also a new thermal management system, reducing overheating.",
+    "pubDate": "Wed, 09 Sep 2026 17:38:53 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
+    "link": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
+    "summary": "The company also argued that its on-device models offer consumers more privacy.",
+    "pubDate": "Wed, 09 Sep 2026 17:36:05 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "RNLI volunteer targeted online and branded 'traitor' after Portsmouth protests",
+    "link": "https://www.bbc.co.uk/news/articles/cly47p5vk63o?at_medium=RSS&at_campaign=rss",
+    "summary": "Lifeboat crew member wrongly identified as having helped small boat migrants speaks to BBC Verify.",
+    "pubDate": "Wed, 09 Sep 2026 17:33:27 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "iPhone 18 Pro and iPhone 18 Pro Max",
+    "link": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+    "summary": "Article URL: https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/ Comments URL: https://news.ycombinator.com/item?id=49630151 Points: 170 # Comments: 131",
+    "pubDate": "Wed, 09 Sep 2026 17:33:20 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "我一定会回来……吗？小手用户与 iPhone 17 Pro Max 的一年",
     "link": "https://sspai.com/post/114366",
     "summary": "为啥那么多人喜欢大手机呢？既然上了 70 mm 我都握不住，要不买个 Pro Max 试试？ 查看全文",
@@ -8,11 +344,75 @@
     "category": "tech-cn"
   },
   {
+    "title": "Apple launches iPhone 18 Pro with upgraded camera",
+    "link": "https://techcrunch.com/2026/09/09/apple-launches-iphone-18-pro-with-upgraded-camera/",
+    "summary": "Apple's new iPhone 18 Pro lineup upgrades the camera and comes in burgundy.",
+    "pubDate": "Wed, 09 Sep 2026 17:26:05 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+    "link": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+    "summary": "Article URL: https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3 Comments URL: https://news.ycombinator.com/item?id=49630026 Points: 109 # Comments: 52",
+    "pubDate": "Wed, 09 Sep 2026 17:24:28 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Growing proof that autonomous cars save lives",
+    "link": "https://spectrum.ieee.org/are-self-driving-cars-safe",
+    "summary": "Article URL: https://spectrum.ieee.org/are-self-driving-cars-safe Comments URL: https://news.ycombinator.com/item?id=49629886 Points: 83 # Comments: 121",
+    "pubDate": "Wed, 09 Sep 2026 17:14:59 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+    "link": "https://arxiv.org/abs/2609.09153",
+    "summary": "Article URL: https://arxiv.org/abs/2609.09153 Comments URL: https://news.ycombinator.com/item?id=49629868 Points: 32 # Comments: 6",
+    "pubDate": "Wed, 09 Sep 2026 17:13:52 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Popular navigation apps unlikely to ditch Mercator maps despite UN resolution",
+    "link": "https://arstechnica.com/gadgets/2026/09/un-correct-the-map-resolution-wont-change-mercator-map-use-in-navigation-apps/",
+    "summary": "UN-backed Equal Earth map has educational value but won’t alter navigation apps.",
+    "pubDate": "Wed, 09 Sep 2026 17:11:46 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Google picks Finland for its largest single investment in Europe",
+    "link": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
+    "summary": "The US tech giant says the €13bn data centre project will create tens of thousands of jobs.",
+    "pubDate": "Wed, 09 Sep 2026 17:06:48 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
+    "link": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
+    "summary": "\"We really do earnestly believe AI could kill all humans!\"",
+    "pubDate": "Wed, 09 Sep 2026 16:59:40 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
     "title": "DOJ wants more answers on Fox’s $22B Roku deal",
     "link": "https://techcrunch.com/2026/09/09/doj-wants-more-answers-on-foxs-22b-roku-deal/",
     "summary": "Fox’s $22 billion plan to buy Roku has hit a new hurdle. The Justice Department sent Fox and Roku what’s known as a “second request” on Tuesday, asking the companies to turn over more data and documents as it takes a closer look at the deal. That’s a fairly standard step in a major antitrust [&#8...",
     "pubDate": "Wed, 09 Sep 2026 16:44:21 +0000",
     "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Prime Video releases full trailer for Mike Flanagan's Carrie",
+    "link": "https://arstechnica.com/culture/2026/09/prime-video-releases-full-trailer-for-mike-flanagans-carrie/",
+    "summary": "\"All I ever wanted was to go to school.\"",
+    "pubDate": "Wed, 09 Sep 2026 16:40:45 +0000",
+    "source": "Ars Technica",
     "category": "tech"
   },
   {
@@ -24,12 +424,44 @@
     "category": "general"
   },
   {
+    "title": "Google's AI genome system evaluates every possible one-base change",
+    "link": "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/",
+    "summary": "Most one-base changes to the human genome do nothing, but a few are significant.",
+    "pubDate": "Wed, 09 Sep 2026 16:34:18 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Mother demands answers, weeks after black woman found hanging from Mississippi tree",
+    "link": "https://www.bbc.co.uk/news/articles/ckgwydke178o?at_medium=RSS&at_campaign=rss",
+    "summary": "Her demands for information about what happened to Tasia Fortune have been echoed by shocked locals.",
+    "pubDate": "Wed, 09 Sep 2026 16:33:49 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "You Can Now Destroy Flock Cameras for Cash in GTA V",
     "link": "https://www.wired.com/story/you-can-now-destroy-flock-cameras-for-cash-in-gta-v/",
     "summary": "A new GTA mod lets you smash and shoot Flock’s automatic license plate readers around the fictional Los Santos.",
     "pubDate": "Wed, 09 Sep 2026 16:30:00 +0000",
     "source": "Wired",
     "category": "tech"
+  },
+  {
+    "title": "'It's been a nightmare': Passengers face airport chaos after air traffic issue",
+    "link": "https://www.bbc.co.uk/news/articles/c4gk6lre2g7o?at_medium=RSS&at_campaign=rss",
+    "summary": "Thousands are still stranded as people describe sleeping on floors and \"carnage\" in baggage reclaim halls.",
+    "pubDate": "Wed, 09 Sep 2026 16:24:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Is This The Biggest Row Between Israel And The UK?",
+    "link": "https://www.bbc.co.uk/sounds/play/p0p8r4wp?at_medium=RSS&at_campaign=rss",
+    "summary": "What counter-measures has Israel taken against the UK?",
+    "pubDate": "Wed, 09 Sep 2026 16:13:00 GMT",
+    "source": "BBC News",
+    "category": "general"
   },
   {
     "title": "Eiffel Tower employees strike after female staff removed",
@@ -52,6 +484,14 @@
     "link": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/",
     "summary": "Article URL: https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/ Comments URL: https://news.ycombinator.com/item?id=49628704 Points: 52 # Comments: 14",
     "pubDate": "Wed, 09 Sep 2026 16:01:41 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Understanding the recent DDoS attack against Read the Docs",
+    "link": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/",
+    "summary": "Article URL: https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/ Comments URL: https://news.ycombinator.com/item?id=49628614 Points: 112 # Comments: 40",
+    "pubDate": "Wed, 09 Sep 2026 15:55:53 +0000",
     "source": "Hacker News",
     "category": "tech"
   },
@@ -104,11 +544,27 @@
     "category": "tech"
   },
   {
+    "title": "DIFF: A Relational Interface for Large-Scale Data Explanation",
+    "link": "https://andrewxiwu.github.io/public/papers/2019/macrobase-sql-VLDB2019.pdf",
+    "summary": "Abstract: A range of explanation engines assist data analysts by performing feature selection over increasingly high-volume and high-dimensional data, grouping and highlighting commonalities among data points. While useful in diverse tasks such as user behavior analytics, opera- tional event proc...",
+    "pubDate": "Wed, 09 Sep 2026 15:42:24 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Bomb Sense",
     "link": "https://danboland.net/2021/07/15/bomb-sense.html",
     "summary": "Article URL: https://danboland.net/2021/07/15/bomb-sense.html Comments URL: https://news.ycombinator.com/item?id=49628367 Points: 4 # Comments: 0",
     "pubDate": "Wed, 09 Sep 2026 15:40:19 +0000",
     "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Efficient and accurate systems for querying unstructured data",
+    "link": "https://stacks.stanford.edu/file/fk030tb6783/thesis-augmented.pdf",
+    "summary": "Comments",
+    "pubDate": "Wed, 09 Sep 2026 15:38:35 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -264,6 +720,22 @@
     "category": "tech"
   },
   {
+    "title": "What will our economic future look like?",
+    "link": "https://www.anthropic.com/institute/econ-scenarios",
+    "summary": "Article URL: https://www.anthropic.com/institute/econ-scenarios Comments URL: https://news.ycombinator.com/item?id=49626373 Points: 120 # Comments: 193",
+    "pubDate": "Wed, 09 Sep 2026 13:38:23 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "ID design and primary keys",
+    "link": "https://anchorsandlinks.com/posts/primary-keys/",
+    "summary": "Comments",
+    "pubDate": "Wed, 09 Sep 2026 13:31:44 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "'We were raped and exploited by a drug gang as teenagers', women tell BBC of their ordeal",
     "link": "https://www.bbc.co.uk/news/videos/c05revv9nvro?at_medium=RSS&at_campaign=rss",
     "summary": "Four women have chosen to waive their anonymity and speak publicly to the BBC documentary, Britain's Forgotten Girls, about how they were targeted by criminals when they were children.",
@@ -349,6 +821,30 @@
     "summary": "If you want to manufacture in space—and bring the products back again—there&#8217;s a limited set of options: Wait to go to the International Space Station, or partner with a handful of start-ups launching spacecraft that spend time in orbit before they return to Earth. But the vehicle that goes ...",
     "pubDate": "Wed, 09 Sep 2026 12:30:00 +0000",
     "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Reigning Miss Austria beauty queen dies aged 22",
+    "link": "https://www.bbc.co.uk/news/articles/c046r1z9ln4o?at_medium=RSS&at_campaign=rss",
+    "summary": "Tributes have been paid to Lucia Sisic, who had a lifelong experience with a heart condition.",
+    "pubDate": "Wed, 09 Sep 2026 12:25:37 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Pakistan in 'disarray' as England take seven wickets in first session",
+    "link": "https://www.bbc.co.uk/sport/cricket/videos/cevw2n88r8wo?at_medium=RSS&at_campaign=rss",
+    "summary": "England make stunning start to their third and final Test against Pakistan by taking seven wickets in the opening session on the first day at Edgbaston, leaving the tourists 100-7 at lunch.",
+    "pubDate": "Wed, 09 Sep 2026 12:20:19 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "I Don’t Want to Interact With Stochastic Parrots",
+    "link": "https://ploum.net/2026-09-09-ai_policy.html",
+    "summary": "Comments",
+    "pubDate": "Wed, 09 Sep 2026 12:18:32 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -533,6 +1029,14 @@
     "summary": "Article URL: https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy Comments URL: https://news.ycombinator.com/item?id=49624163 Points: 57 # Comments: 28",
     "pubDate": "Wed, 09 Sep 2026 10:25:41 +0000",
     "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "A Design Space Exploration of Async/Await",
+    "link": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+    "summary": "Comments",
+    "pubDate": "Wed, 09 Sep 2026 10:22:32 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -1392,6 +1896,86 @@
     "category": "general"
   },
   {
+    "title": "Read the Apple document explaining how new listening features still protect your privacy",
+    "link": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
+    "summary": "At Wednesday's iPhone Duo launch event, Apple announced a handful of new Siri AI Audio Intelligence features, including Siri Recap, Live Rewind, Sound Recognition, and Music Recognition. Alongside its announcement, Apple released a document laying out how it plans to balance AI \"ambient listening...",
+    "pubDate": "2026-09-09T16:44:43-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "How the new Apple Watches compare to the last-gen models",
+    "link": "https://www.theverge.com/gadgets/990508/apple-watch-series-12-ultra-4-spec-comparison",
+    "summary": "Apple rolled out the Apple Watch Series 12 and Apple Watch Ultra 4 at the \"Surprise and shine\" event. The new watches feature sizable improvements to the health sensors and tracking, plus the ability to recite audio transcriptions and summaries, plus a ceramic case option for the Series 12. Despi...",
+    "pubDate": "2026-09-09T16:42:51-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Verge staffers react to the iPhone Duo: What we love and don’t love",
+    "link": "https://www.theverge.com/tech/992830/apple-iphone-duo-foldable-verge-staffers-react",
+    "summary": "Apple has just announced its first foldable iPhone, the iPhone Duo. The new phone has a 5.4-inch outer screen and a 7.6-inch inner screen, two back cameras, Touch ID for authentication, an IP68 rating, and all sorts of slick software tricks to make iOS feel more at home on the new device. Preorde...",
+    "pubDate": "2026-09-09T15:45:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
+    "link": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
+    "summary": "Apple is launching a new way to prove that the picture you took isn't manipulated by AI. A new feature, called \"Reference Image,\" will arrive with the iPhone 18 Pro lineup later this month and is supposed to use the device's new camera sensor to \"sign every pixel it sees.\" The iPhone 18 Pro and [...",
+    "pubDate": "2026-09-09T15:30:12-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "iPhone 18 Pro and Pro Max: Our first hands-on impressions",
+    "link": "https://www.theverge.com/tech/986400/apple-iphone-18-pro-max-hands-on-impressions-september-2026-event",
+    "summary": "We've just gotten our hands on the iPhone 18 Pro and Pro Max at Apple Park following the company's \"Surprise and shine\" presentation. The new phones look quite similar to the previous iPhone 17 Pro lineup, keeping the same general design, aluminum body, and screen sizes. The 18 Pro lineup comes i...",
+    "pubDate": "2026-09-09T15:26:36-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Hands-on with the new Apple Watch Series 12 and Apple Watch Ultra 4",
+    "link": "https://www.theverge.com/tech/992568/apple-watch-hands-on-series-12-ultra-4",
+    "summary": "After Apple wrapped up its \"Surprise and shine\" event today, we were able to get a look at the new Apple Watch Series 12 and Ultra 4. Both of the new watches launch September 18th, with preorders available starting today. The Apple Watch Series 12 once again starts at $399 for the aluminum case o...",
+    "pubDate": "2026-09-09T14:53:48-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Here’s how the new iPhone 18 Pro stacks up to the last-gen models",
+    "link": "https://www.theverge.com/tech/988501/iphone-18-pro-max-spec-comparison-features",
+    "summary": "Apple's release cadence for the latest iPhones is unusual. It'll start with the 18 Pro models, then with the foldable iPhone Duo releasing in October for $1,999. It hasn't confirmed when its base iPhone 18 model will launch. So this post is focused just on the new the 18 Pro and the 18 Pro Max. [...",
+    "pubDate": "2026-09-09T14:53:43-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Hands-on with the foldable iPhone Duo",
+    "link": "https://www.theverge.com/tech/991236/iphone-foldable-hands-on-first-impressions",
+    "summary": "The first foldable iPhone is finally here, and following its announcement, we got the chance to try the phone for ourselves. We've long been told that Apple would make a foldable iPhone once the tech was good enough - has it been worth the wait? It definitely feels like something different. The i...",
+    "pubDate": "2026-09-09T14:38:40-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Apple is raising iPhone prices by $100 on all of its old models",
+    "link": "https://www.theverge.com/tech/992551/apple-iphone-17-17e-air-price-increase",
+    "summary": "Following Apple's \"Surprise and shine\" event that saw the announcement of the iPhone Duo and the iPhone 18 Pro, the company increased the price on all of its last-gen iPhones that are still available for purchase. The iPhone 16 sold for $699 just last week, and now it's up to $799. The iPhone 17E...",
+    "pubDate": "2026-09-09T14:30:24-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Apple iPhone Duo launch event: The 5 biggest announcements",
+    "link": "https://www.theverge.com/tech/991965/apple-iphone-duo-launch-event-biggest-announcements",
+    "summary": "Apple just wrapped up its first iPhone launch event with CEO John Ternus at the helm, and it did not disappoint. We got a look at Apple's long-rumored foldable iPhone Duo, along with the next generation of AirPods and the Apple Watch. Here's a roundup of all the biggest announcements from the eve...",
+    "pubDate": "2026-09-09T14:24:59-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
     "title": "Ocarina of Time remake physical preorders are $10 off at Walmart",
     "link": "https://www.theverge.com/gadgets/992221/ocarina-of-time-remaster-corsair-scimitar-deal-sale",
     "summary": "Nintendo announced a variety of new titles at its September livestream, but among the most talked-about is the remastered The Legend of Zelda: Ocarina of Time for Switch 2. Walmart has the physical copy of the upcoming game available for preorder for just $59.88, which is $10 lower than the physi...",
@@ -1486,6 +2070,30 @@
     "pubDate": "2026-09-09T01:26:53-04:00",
     "source": "The Verge",
     "category": "tech"
+  },
+  {
+    "title": "AI model predicts which breast-cancer drugs work best",
+    "link": "https://www.nature.com/articles/d41586-026-02845-2",
+    "summary": "Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02845-2 Model trained on millions of protein measurements can gauge drug effectiveness in tissue samples taken from people with triple-negative breast cancer.",
+    "pubDate": "2026-09-09",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Popular open-science platform to stop hosting data and code amid funding concerns",
+    "link": "https://www.nature.com/articles/d41586-026-02598-y",
+    "summary": "Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02598-y Changes to the Open Science Framework’s policies will come into effect in November, forcing researchers to reconsider their workflows.",
+    "pubDate": "2026-09-09",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Hello Equal Earth: what the UN’s new world map will change",
+    "link": "https://www.nature.com/articles/d41586-026-02820-x",
+    "summary": "Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02820-x What the UN vote to ditch the Mercator projection means for education, navigation and public perception.",
+    "pubDate": "2026-09-09",
+    "source": "Nature",
+    "category": "science"
   },
   {
     "title": "Highly efficient base editing at <i>PCSK9</i> and normal human embryo development",

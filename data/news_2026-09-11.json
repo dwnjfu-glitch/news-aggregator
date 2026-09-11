@@ -1,5 +1,13 @@
 [
   {
+    "title": "Americast",
+    "link": "https://www.bbc.co.uk/sounds/play/p0p8tlxb?at_medium=RSS&at_campaign=rss",
+    "summary": "And journalist Peter Bergen on his interview with Bin Laden before 9/11",
+    "pubDate": "Wed, 09 Sep 2026 20:20:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "Does your partner's snoring keep you up? It could be impacting your health",
     "link": "https://www.bbc.co.uk/news/articles/c62jnyn2n2do?at_medium=RSS&at_campaign=rss",
     "summary": "Sleeping next to a snorer could be having a negative effect on your health, experts tell the BBC.",
@@ -14,6 +22,14 @@
     "pubDate": "Thu, 10 Sep 2026 23:28:42 +0000",
     "source": "Wired",
     "category": "tech"
+  },
+  {
+    "title": "New hurricane season record as 'historic' El Niño leaves Atlantic eerily quiet",
+    "link": "https://www.bbc.co.uk/weather/articles/cwyzq4538j3o?at_medium=RSS&at_campaign=rss",
+    "summary": "The Atlantic hurricane season has reached its climatological peak, but a strong El Niño means no hurricanes have formed this year.",
+    "pubDate": "Thu, 10 Sep 2026 23:22:33 GMT",
+    "source": "BBC News",
+    "category": "general"
   },
   {
     "title": "Ukraine's fortress cities under fire as Russia bids to seize rest of Donbas",
@@ -56,6 +72,14 @@
     "category": "general"
   },
   {
+    "title": "'Do I have to turn this gig down?': Female DJs describe harassment behind the decks",
+    "link": "https://www.bbc.co.uk/news/articles/crr4j00q44zo?at_medium=RSS&at_campaign=rss",
+    "summary": "Female DJs describe their experiences of safety and the wider issue of sexism in the nightlife scene.",
+    "pubDate": "Thu, 10 Sep 2026 23:02:28 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "Nine coding harnesses vs. your laptop",
     "link": "https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74",
     "summary": "Article URL: https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74 Comments URL: https://news.ycombinator.com/item?id=49651221 Points: 16 # Comments: 0",
@@ -78,6 +102,14 @@
     "pubDate": "Thu, 10 Sep 2026 22:41:17 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Models Don't Go Rogue",
+    "link": "https://mail.cyberneticforests.com/models-dont-go-rogue/",
+    "summary": "Comments",
+    "pubDate": "Thu, 10 Sep 2026 22:37:10 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
@@ -133,6 +165,14 @@
     "summary": "Judge tosses lawsuits, says plaintiffs didn't allege any real privacy violation.",
     "pubDate": "Thu, 10 Sep 2026 20:55:29 +0000",
     "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "DiffOS is For Freedom",
+    "link": "https://www.diffos.org/",
+    "summary": "Comments",
+    "pubDate": "Thu, 10 Sep 2026 20:04:25 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -216,12 +256,244 @@
     "category": "general"
   },
   {
+    "title": "Star-studded, iconic, Oscar-winning mafia epic",
+    "link": "https://www.bbc.co.uk/iplayer/episode/m000qf0f/the-godfather?at_mid=DhnFk1hhg0&at_campaign=The_Godfather&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m000qf0f&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Godfather&at_bbc_team=BBC&at_creation=Film",
+    "summary": "Directed by Francis Ford Coppola and starring Al Pacino, Marlon Brando and Diane Keaton",
+    "pubDate": "Sun, 30 Aug 2026 23:51:30 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "本周看什么 | 最近值得一看的 7 部作品",
+    "link": "https://sspai.com/post/114458",
+    "summary": "📅本周新预告《哥斯拉-0.0》正式预告9月8日，电影《哥斯拉-0.0》发布了正式预告，将于11月3日在日本上映、11月6日在北美上映。山崎贵回归担任导演、编剧和特效总监，神木隆之介、滨边美波回归出演， ... 查看全文",
+    "pubDate": "Fri, 11 Sep 2026 18:02:49 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事",
+    "link": "https://sspai.com/post/114449",
+    "summary": "新品尚未发货，我们继续整理了一些发布会中未提及的细节，不妨一起来看看有没有你感兴趣的。 查看全文",
+    "pubDate": "Fri, 11 Sep 2026 16:30:00 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "「正常」已是不易：聊聊不那么标新立异的理想 i6",
+    "link": "https://sspai.com/post/113605",
+    "summary": "如果你想买一辆能够长期持有、同时又足够「正常」的新能源车，我还是非常推荐去试试理想 i6。 查看全文",
+    "pubDate": "Fri, 11 Sep 2026 14:50:20 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
     "title": "新 iPhone 配件精选：多种组合一次配齐",
     "link": "https://sspai.com/post/114414",
     "summary": "iPhone18Pro/ProMax即将开售，这次我们围绕新iPhone准备了几种常用配件，并整理成了五种配件组合，覆盖机身防护、充电、数据连接和磁吸支撑。其中，日常防护组合优惠29元，防护充电组合优 ... 查看全文",
     "pubDate": "Fri, 11 Sep 2026 12:00:00 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "Israel says it has destroyed major underground Hezbollah base",
+    "link": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
+    "summary": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey.",
+    "pubDate": "Fri, 11 Sep 2026 11:34:07 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Hull City footballer in crash near training ground",
+    "link": "https://www.bbc.co.uk/news/articles/cn8m2p4dmjro?at_medium=RSS&at_campaign=rss",
+    "summary": "Premier League winger Sorba Thomas's Land Rover overturns in Cottingham.",
+    "pubDate": "Fri, 11 Sep 2026 11:33:22 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The Waymo effect: how AI is quietly making research less collaborative",
+    "link": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+    "summary": "Article URL: https://www.researchagenda.news/articles/the-waymo-effect.html Comments URL: https://news.ycombinator.com/item?id=49656496 Points: 25 # Comments: 2",
+    "pubDate": "Fri, 11 Sep 2026 11:17:50 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "RTK reports token savings, but our cost benchmarks disagree",
+    "link": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
+    "summary": "Article URL: https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/ Comments URL: https://news.ycombinator.com/item?id=49656471 Points: 12 # Comments: 3",
+    "pubDate": "Fri, 11 Sep 2026 11:15:13 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Polanski selected as Green Party candidate for Starmer's former seat",
+    "link": "https://www.bbc.co.uk/news/articles/cqxvzpg82yvo?at_medium=RSS&at_campaign=rss",
+    "summary": "The Green Party leader said the party is the \"underdog\" in Holborn and St Pancras but \"can win\".",
+    "pubDate": "Fri, 11 Sep 2026 11:06:46 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "He’s One of Just 50 People With Olive Garden’s Lifetime Pasta Pass. You Choose What He Eats Next",
+    "link": "https://www.wired.com/story/this-man-has-a-cult-internet-following-over-his-olive-garden-lifetime-pasta-pass/",
+    "summary": "Braden Sinclair has turned his love affair with the restaurant chain into an interactive trove of dietary data.",
+    "pubDate": "Fri, 11 Sep 2026 11:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
+    "link": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
+    "summary": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex.",
+    "pubDate": "Fri, 11 Sep 2026 10:50:04 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Claude is no longer available for minors",
+    "link": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+    "summary": "Article URL: https://support.claude.com/en/articles/15171100-age-assurance-on-claude Comments URL: https://news.ycombinator.com/item?id=49656225 Points: 64 # Comments: 83",
+    "pubDate": "Fri, 11 Sep 2026 10:48:00 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "I Fixed a Tractor Using John Deere’s Self-Repair Service. Farmers Aren’t Sold on It",
+    "link": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
+    "summary": "The agricultural machine manufacturer has a subscription service that lets owners repair their own equipment. Why is barely anybody using it?",
+    "pubDate": "Fri, 11 Sep 2026 10:45:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "The Trump Alien ‘Disclosure Speech’ Rumors Are Reaching a Fever Pitch",
+    "link": "https://www.wired.com/story/the-trump-alien-disclosure-speech-rumors-are-reaching-a-fever-pitch/",
+    "summary": "The US government has been sharing more information about UFOs. That's fueling excitement over the possibility of the president announcing that humans are not alone.",
+    "pubDate": "Fri, 11 Sep 2026 10:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Resist \"AI\"",
+    "link": "https://ronjeffries.com/articles/-v026/x/t/",
+    "summary": "Article URL: https://ronjeffries.com/articles/-v026/x/t/ Comments URL: https://news.ycombinator.com/item?id=49656033 Points: 39 # Comments: 34",
+    "pubDate": "Fri, 11 Sep 2026 10:19:59 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "AI boom helps drive surprise UK growth in July",
+    "link": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
+    "summary": "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.",
+    "pubDate": "Fri, 11 Sep 2026 10:17:28 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "How 9/11 Made Everyone a Conspiracy Theorist",
+    "link": "https://www.wired.com/story/conspiracy-how-9-11-broke-americas-brain/",
+    "summary": "Crackpot theories were once the stuff of shortwave radio, but September 11 unleashed the Age of Alex Jones.",
+    "pubDate": "Fri, 11 Sep 2026 10:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "I was in the epicentre - I'm so lucky to have lived",
+    "link": "https://www.bbc.co.uk/news/articles/clyr0e5dgj8o?at_medium=RSS&at_campaign=rss",
+    "summary": "Paul Berriff says his life expectancy has been cut short because of being buried under rubble.",
+    "pubDate": "Fri, 11 Sep 2026 09:34:41 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The US and Mexico Announce They’re Teaming Up Against Drones",
+    "link": "https://www.wired.com/story/us-and-mexico-announce-teaming-up-against-drones/",
+    "summary": "The new joint operation uses laser-based technology capable of detecting, tracking, and disabling commercial drones linked to human and drug trafficking.",
+    "pubDate": "Fri, 11 Sep 2026 09:15:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "My experience of tragedy gave me a second family",
+    "link": "https://www.bbc.co.uk/news/articles/c3d7pmxgrz5o?at_medium=RSS&at_campaign=rss",
+    "summary": "Louise Rayner is still friends with the wife and children of Bob Lawrence, who died in South Tower.",
+    "pubDate": "Fri, 11 Sep 2026 09:14:19 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Bed at 6:45am - US Open semi-finalists fight effects of late-night finishes",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/crk3jjp2l35o?at_medium=RSS&at_campaign=rss",
+    "summary": "New York is known as the city that never sleeps. But that comes at a price for US Open stars - including men's semi-finalists Ben Shelton and Alexander Zverev.",
+    "pubDate": "Fri, 11 Sep 2026 09:09:59 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Samsung Galaxy S26 FE Review: Same as Before, but for More Money",
+    "link": "https://www.wired.com/review/samsung-galaxy-s26-fe/",
+    "summary": "Samsung is resting on its laurels with the midrange S26 FE, with an unwelcome price bump and only a new processor to show for it.",
+    "pubDate": "Fri, 11 Sep 2026 09:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
+    "link": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
+    "summary": "A combination of rapid advances, recursive self-improvement, and agentic swarms are genuinely “spooking people” inside big labs.",
+    "pubDate": "Fri, 11 Sep 2026 09:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Five dead and dozens injured in coach crash in Swiss Alps",
+    "link": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
+    "summary": "The tourist coach was carrying dozens of Dutch passengers when it overturned in the south-eastern Swiss Alps.",
+    "pubDate": "Fri, 11 Sep 2026 08:54:20 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Cherenkov Radiation - traveling faster than light",
+    "link": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
+    "summary": "Article URL: http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation Comments URL: https://news.ycombinator.com/item?id=49655286 Points: 95 # Comments: 54",
+    "pubDate": "Fri, 11 Sep 2026 08:42:04 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Neijuan",
+    "link": "https://en.wikipedia.org/wiki/Neijuan",
+    "summary": "Article URL: https://en.wikipedia.org/wiki/Neijuan Comments URL: https://news.ycombinator.com/item?id=49655176 Points: 52 # Comments: 16",
+    "pubDate": "Fri, 11 Sep 2026 08:26:56 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Hall signs new contract with Newcastle until 2031",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ce9e3d5exp8o?at_medium=RSS&at_campaign=rss",
+    "summary": "Newcastle United defender Lewis Hall signs a new contract with the club that runs until 2031.",
+    "pubDate": "Fri, 11 Sep 2026 08:00:07 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Man loses case to claw back $369,000 he spent on lavish gifts for ex-girlfriend",
+    "link": "https://www.bbc.co.uk/news/articles/clyqxgzynk7o?at_medium=RSS&at_campaign=rss",
+    "summary": "Singapore's High Court rules in the woman's favour, with the judge saying the man \"willingly\" showered her with gifts, even before they got together.",
+    "pubDate": "Fri, 11 Sep 2026 07:59:26 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "CSS Curiosities of the Past",
+    "link": "https://vale.rocks/posts/css-relics",
+    "summary": "Article URL: https://vale.rocks/posts/css-relics Comments URL: https://news.ycombinator.com/item?id=49654962 Points: 17 # Comments: 6",
+    "pubDate": "Fri, 11 Sep 2026 07:57:17 +0000",
+    "source": "Hacker News",
+    "category": "tech"
   },
   {
     "title": "派早报：商务部回应美国 AI 蒸馏指控",
@@ -232,10 +504,130 @@
     "category": "tech-cn"
   },
   {
+    "title": "Philippine rescuers board ferry 40 hours after blaze began",
+    "link": "https://www.bbc.co.uk/news/articles/c9dwx97pl5no?at_medium=RSS&at_campaign=rss",
+    "summary": "Thick, toxic fumes and extreme temperatures pose a challenge to rescuers who have boarded the ship.",
+    "pubDate": "Fri, 11 Sep 2026 06:33:15 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "As Trump dominates convention, some Republicans quietly ask who comes next",
+    "link": "https://www.bbc.co.uk/news/articles/c2l8xvvw95no?at_medium=RSS&at_campaign=rss",
+    "summary": "The convention offered a stark reminder that the Trump era is heading toward its final chapter, the BBC's Washington correspondent Daniel Bush writes.",
+    "pubDate": "Fri, 11 Sep 2026 06:10:59 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "US diesel prices soar past $6 a gallon, deepening strain for hauling everyday goods",
+    "link": "https://www.npr.org/2026/09/11/g-s1-142842/us-diesel-6-a-gallon",
+    "summary": "Diesel prices in the U.S. has hit yet another record, soaring past $6 a gallon on average as Washington's war with Iran disrupts the world's flow of fuel",
+    "pubDate": "Fri, 11 Sep 2026 06:04:04 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "GPT‑Live‑1 in the API",
+    "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api/",
+    "summary": "Article URL: https://openai.com/index/introducing-gpt-live-1-in-the-api/ Comments URL: https://news.ycombinator.com/item?id=49653985 Points: 38 # Comments: 32",
+    "pubDate": "Fri, 11 Sep 2026 05:45:19 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "I was weeks from marrying a violent serial rapist - my loved ones saved my life",
+    "link": "https://www.bbc.co.uk/news/articles/crk3j0eyl2po?at_medium=RSS&at_campaign=rss",
+    "summary": "Amy, not her real name, has told the BBC how her family and friends sent crucial evidence to police which led to the arrest of rapist Christopher Malcolm.",
+    "pubDate": "Fri, 11 Sep 2026 05:20:12 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "I watched as a hijacked plane flew over my home - moments later my wife was killed",
+    "link": "https://www.bbc.co.uk/news/articles/c8e31lwnz9ro?at_medium=RSS&at_campaign=rss",
+    "summary": "A quarter of a century since the 9/11 attacks, Charles Wolf reflects on his wife's final moments.",
+    "pubDate": "Fri, 11 Sep 2026 05:09:10 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Will you get $5,000 to do the news quiz? No. But will it be fun? Maybe",
+    "link": "https://www.npr.org/2026/09/11/g-s1-142657/will-you-get-5-000-to-do-the-news-quiz-no-but-will-it-be-fun-maybe",
+    "summary": "Plus: donkeys, maps, art, iPhones and more!",
+    "pubDate": "Fri, 11 Sep 2026 05:01:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "On the 25th anniversary of 9/11, a divided U.S. gathers to remember and grieve",
+    "link": "https://www.npr.org/2026/09/11/nx-s1-5961366/9-11-memorial-events",
+    "summary": "The U.S. marks the 25th anniversary of 9/11. Events will honor those lost, at a time when Americans are divided about the meaning and legacy of the terrorist attacks.",
+    "pubDate": "Fri, 11 Sep 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "They cleaned up ground zero. Now many are hiding from ICE",
+    "link": "https://www.npr.org/2026/09/11/nx-s1-5965553/ground-zero-sept-11-undocumented-immigrants",
+    "summary": "After 9/11, thousands of rescue and cleanup crews went to work at ground zero. They were exposed to toxic debris and experienced psychological trauma. Today, many say they live in fear of deportation.",
+    "pubDate": "Fri, 11 Sep 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Empty seats, socialism and Trump dominate the Republican midterm convention",
+    "link": "https://www.npr.org/2026/09/11/nx-s1-5962848/republican-convention-trump-dividend-vance-midterms",
+    "summary": "The two day Republican convention in Dallas showcased the party's biggest asset in trying to win competitive midterm races and its greatest obstacle: President Trump.",
+    "pubDate": "Fri, 11 Sep 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "The U.S.-Canada trade war is creating a headache for auto-parts makers",
+    "link": "https://www.npr.org/2026/09/11/nx-s1-5961530/canada-trade-war-auto-parts-supply-chain",
+    "summary": "For decades, the U.S. and Canadian auto supply chains have been tightly woven together. The trade war is threatening to unravel a complex system.",
+    "pubDate": "Fri, 11 Sep 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "From DOGE to space lasers, Alex Gibney peels back the many layers of Elon Musk",
+    "link": "https://www.npr.org/2026/09/11/nx-s1-5962167/alex-gibney-elon-musk-documentary-review",
+    "summary": "In the Oscar-winning filmmaker's latest documentary, director Alex Gibney investigates the rise of Elon Musk and says what's behind Musk's success are distressing truths.",
+    "pubDate": "Fri, 11 Sep 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "These Michigan swing voters are bracing for higher prices from trade war with Canada",
+    "link": "https://www.npr.org/2026/09/11/nx-s1-5963884/michigan-focus-groups-canada-trump-tariffs",
+    "summary": "President Trump's tariff standoff with Canada is rankling some key voters ahead of this year's midterm elections.",
+    "pubDate": "Fri, 11 Sep 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Trump administration allows TPS to continue for Salvadorans – for now",
+    "link": "https://www.npr.org/2026/09/11/nx-s1-5963930/tps-salvadorans-immgiration",
+    "summary": "The Trump administration declined this week to terminate TPS for Salvadorans, even though it has done so for people from other countries like Haiti and Syria. But it also hasn't said whether it will extend the protection in the future.",
+    "pubDate": "Fri, 11 Sep 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "Rayner defends pause to local council overhaul",
     "link": "https://www.bbc.co.uk/news/articles/cwyz9jlqrj4o?at_medium=RSS&at_campaign=rss",
     "summary": "The cabinet minister tells the BBC she wanted to ensure the plans could survive potential legal actions.",
     "pubDate": "Fri, 11 Sep 2026 04:51:05 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The man who bought an island, hired hitmen and throttled a theatregoer",
+    "link": "https://www.bbc.co.uk/news/articles/cvgy8v5dk5po?at_medium=RSS&at_campaign=rss",
+    "summary": "Malcolm Potier is beginning his third spell in jail after attacking the woman at a Queen musical.",
+    "pubDate": "Fri, 11 Sep 2026 04:44:49 GMT",
     "source": "BBC News",
     "category": "general"
   },
@@ -256,6 +648,14 @@
     "category": "general"
   },
   {
+    "title": "Brother of Muslim policeman killed in attacks 'disappointed' by calls for Mamdani to sit out memorial",
+    "link": "https://www.bbc.co.uk/news/videos/ce8e67l4330o?at_medium=RSS&at_campaign=rss",
+    "summary": "Zeshan Hamdani speaks out after push back against New York Mayor Zohran Mamdani, who is Muslim, attending 9/11 events.",
+    "pubDate": "Fri, 11 Sep 2026 04:10:24 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "Exercise intensity is associated with cardiometabolic health",
     "link": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2",
     "summary": "Article URL: https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2 Comments URL: https://news.ycombinator.com/item?id=49653328 Points: 19 # Comments: 3",
@@ -264,12 +664,28 @@
     "category": "tech"
   },
   {
+    "title": "Why Houthi gains in Yemen could push gas prices even higher",
+    "link": "https://www.npr.org/2026/09/11/nx-s1-5966379/houthi-gains-gas-prices",
+    "summary": "A Houthi advance along Yemen's Red Sea coast could help push gas prices up even more as the Iran-backed group also launches attacks on Saudi Arabia's oil facilities",
+    "pubDate": "Fri, 11 Sep 2026 03:32:27 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "Princess Diana's 'revenge dress' goes up for auction",
     "link": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
     "summary": "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December.",
     "pubDate": "Fri, 11 Sep 2026 03:15:46 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Reverse engineering an ASIC",
+    "link": "https://kjartanvandriel.github.io/asic/",
+    "summary": "Comments",
+    "pubDate": "Fri, 11 Sep 2026 03:06:09 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
@@ -366,6 +782,22 @@
     "pubDate": "Fri, 11 Sep 2026 00:09:38 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Insta360 launches a single-lens Osmo Pocket rival you can actually buy in the US",
+    "link": "https://www.theverge.com/gadgets/993837/insta360-luna-pro-steadicam-gimbal-release-price-specs",
+    "summary": "Insta360's first compact steadycam, the Luna Ultra, made a splash this year by beating DJI to launch with two lenses. Now it's followed the Ultra with a slightly stripped back Pro model, which drops to one lens but has a unique advantage: It can shoot vertical video in 4K. Plus, unlike DJI's Osmo...",
+    "pubDate": "2026-09-11T07:07:24-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Apple addresses iPhone Duo copycats",
+    "link": "https://www.theverge.com/tech/993795/apple-addresses-iphone-duo-copycats",
+    "summary": "Apple was far from the first company to announce a passport-shaped folding phone this year, but that doesn't mean it wasn't copied. As my colleague Dom Preston already explained, it's almost impossible to keep product development secret when Apple and its competitors all share the same global sup...",
+    "pubDate": "2026-09-11T06:02:58-04:00",
+    "source": "The Verge",
+    "category": "tech"
   },
   {
     "title": "Slack can now vibe-code interactive charts and reports inside chats",

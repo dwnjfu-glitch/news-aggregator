@@ -32,12 +32,172 @@
     "category": "general"
   },
   {
+    "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+    "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+    "summary": "Amodei's call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+    "pubDate": "Sat, 12 Sep 2026 15:37:39 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Norris takes Madrid pole with 'gorgeous' lap",
+    "link": "https://www.bbc.co.uk/sport/formula1/articles/c8r60g7nrn6o?at_medium=RSS&at_campaign=rss",
+    "summary": "Lando Norris takes a superb pole position for McLaren at the Spanish Grand Prix, beating Mercedes' Kimi Antonelli and Red Bull's Max Verstappen.",
+    "pubDate": "Sat, 12 Sep 2026 15:32:57 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Rival protests in Portsmouth as face masks banned",
+    "link": "https://www.bbc.co.uk/news/articles/cn450jwvw9do?at_medium=RSS&at_campaign=rss",
+    "summary": "Rival demonstrators march through Portsmouth as new police powers come into force.",
+    "pubDate": "Sat, 12 Sep 2026 15:31:56 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Reform receives second £36m donation in two days as crypto investor matches record",
+    "link": "https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss",
+    "summary": "Christopher Harborne says he has equalled a donation from Ben Delo - the single largest gift to a UK political party.",
+    "pubDate": "Sat, 12 Sep 2026 15:13:40 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Nvidia is the central bank of AI",
+    "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+    "summary": "Article URL: https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai Comments URL: https://news.ycombinator.com/item?id=49673098 Points: 31 # Comments: 9",
+    "pubDate": "Sat, 12 Sep 2026 15:08:27 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "French officials investigate if malicious act caused train derailment",
+    "link": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
+    "summary": "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured.",
+    "pubDate": "Sat, 12 Sep 2026 15:05:53 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "England in better place than start of summer - Root",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/c0klpz5k383o?at_medium=RSS&at_campaign=rss",
+    "summary": "Captain Joe Root says England are in a better place at the end of their tumultuous summer and is impressed by how they have handled the chaos.",
+    "pubDate": "Sat, 12 Sep 2026 15:04:42 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Teen boy rescued after days adrift in Alaskan waters",
+    "link": "https://www.bbc.co.uk/news/articles/c7907l5nyddo?at_medium=RSS&at_campaign=rss",
+    "summary": "The 15-year-old boy was rescued while the other two passengers from the capsized fishing vessel, his brother and cousin, died.",
+    "pubDate": "Sat, 12 Sep 2026 15:03:14 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南",
     "link": "https://sspai.com/post/114461",
     "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
     "pubDate": "Sat, 12 Sep 2026 15:00:00 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "Revolut confirms customer data breach through fake government requests",
+    "link": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+    "summary": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.",
+    "pubDate": "Sat, 12 Sep 2026 14:40:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "We Must Pace the Frontier",
+    "link": "https://darioamodei.com/post/we-must-pace-the-frontier",
+    "summary": "Article URL: https://darioamodei.com/post/we-must-pace-the-frontier Comments URL: https://news.ycombinator.com/item?id=49672510 Points: 129 # Comments: 143",
+    "pubDate": "Sat, 12 Sep 2026 14:10:49 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Compiler Can Undo Your Security Checks",
+    "link": "https://davidbombal.com/your-compiler-can-undo-your-security-checks/",
+    "summary": "Article URL: https://davidbombal.com/your-compiler-can-undo-your-security-checks/ Comments URL: https://news.ycombinator.com/item?id=49672474 Points: 13 # Comments: 13",
+    "pubDate": "Sat, 12 Sep 2026 14:07:58 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "A Mathematical Framework for Transformer Circuits (2021)",
+    "link": "https://transformer-circuits.pub/2021/framework/index.html",
+    "summary": "Article URL: https://transformer-circuits.pub/2021/framework/index.html Comments URL: https://news.ycombinator.com/item?id=49672365 Points: 31 # Comments: 3",
+    "pubDate": "Sat, 12 Sep 2026 13:56:58 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "My last six months at Evernote",
+    "link": "https://alexkras.com/my-last-six-months-at-evernote-after-bending-spoons-took-over/",
+    "summary": "Article URL: https://alexkras.com/my-last-six-months-at-evernote-after-bending-spoons-took-over/ Comments URL: https://news.ycombinator.com/item?id=49672342 Points: 19 # Comments: 14",
+    "pubDate": "Sat, 12 Sep 2026 13:54:19 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "LLMs are real, AI is fake",
+    "link": "https://pluralistic.net/2026/09/12/god-in-the-box/",
+    "summary": "Article URL: https://pluralistic.net/2026/09/12/god-in-the-box/ Comments URL: https://news.ycombinator.com/item?id=49672281 Points: 45 # Comments: 17",
+    "pubDate": "Sat, 12 Sep 2026 13:47:28 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Record heatwaves in France set to make champagne stronger",
+    "link": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&at_campaign=rss",
+    "summary": "Winemakers can produce bubbly up to 15% ABV following an unusual harvest that produced sweeter grapes.",
+    "pubDate": "Sat, 12 Sep 2026 13:00:32 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Overshoot: The World Is Hitting Point of No Return on Climate",
+    "link": "https://e360.yale.edu/features/1.5-degrees-tipping-points",
+    "summary": "Article URL: https://e360.yale.edu/features/1.5-degrees-tipping-points Comments URL: https://news.ycombinator.com/item?id=49671460 Points: 10 # Comments: 0",
+    "pubDate": "Sat, 12 Sep 2026 12:03:42 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Fuck it, make it anyway",
+    "link": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
+    "summary": "Article URL: https://www.joelotter.com/posts/2026/09/make-it-anyway/ Comments URL: https://news.ycombinator.com/item?id=49671329 Points: 353 # Comments: 289",
+    "pubDate": "Sat, 12 Sep 2026 11:42:32 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+    "link": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
+    "summary": "Article URL: https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/ Comments URL: https://news.ycombinator.com/item?id=49671159 Points: 65 # Comments: 32",
+    "pubDate": "Sat, 12 Sep 2026 11:13:38 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "10 Best Standing Desks Worth Buying in 2026",
+    "link": "https://www.wired.com/gallery/best-standing-desks/",
+    "summary": "Take your home office to new heights with our favorite motorized standing desks.",
+    "pubDate": "Sat, 12 Sep 2026 11:08:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "I spent $4,000 on a robot dog from China",
+    "link": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
+    "summary": "Unitree might be the world’s most important robotics company.",
+    "pubDate": "Sat, 12 Sep 2026 11:00:53 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
   },
   {
     "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
@@ -64,12 +224,44 @@
     "category": "general"
   },
   {
+    "title": "xkcd-font: The xkcd font",
+    "link": "https://github.com/ipython/xkcd-font",
+    "summary": "Comments",
+    "pubDate": "Sat, 12 Sep 2026 10:39:00 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Who really needs a heart calcium scan?",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260911214254.htm",
+    "summary": "A 10-year study of more than 6,000 adults found that popular coronary calcium scans may add little to standard heart disease risk estimates for many people. But for patients with borderline or intermediate risk, the scans could make a meaningful difference by revealing who is actually more likely...",
+    "pubDate": "Sat, 12 Sep 2026 10:33:54 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
     "link": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
     "summary": "Plus: The US disrupts the internet’s biggest black market, a Conti ransomware hacker gets prison time, Meta fails to stop AI-generated videos of child abuse.",
     "pubDate": "Sat, 12 Sep 2026 10:30:00 +0000",
     "source": "Wired",
     "category": "tech"
+  },
+  {
+    "title": "ICE always tastes better when it trickles! (2013)",
+    "link": "https://webrtchacks.com/trickle-ice/",
+    "summary": "Comments",
+    "pubDate": "Sat, 12 Sep 2026 10:12:38 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Tiny sound waves could help solve a major quantum computing problem",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260911214245.htm",
+    "summary": "Researchers at Harvard have demonstrated a way to protect quantum information using microscopic sound waves. By continuously surrounding a diamond-based qubit with mechanical vibrations, they extended its coherence time by roughly threefold. The same phonons could eventually both transmit and pro...",
+    "pubDate": "Sat, 12 Sep 2026 10:08:20 EDT",
+    "source": "Science Daily",
+    "category": "science"
   },
   {
     "title": "Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donation",
@@ -96,11 +288,51 @@
     "category": "tech"
   },
   {
+    "title": "Scientists find Ozempic may slow aging itself",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260911214238.htm",
+    "summary": "Semaglutide helped older healthy mice live longer while improving memory, muscle function, blood sugar control, and several biological signs of aging. Its effects went beyond those seen with calorie restriction, raising the possibility that GLP-1 drugs could tap into a separate biological pathway...",
+    "pubDate": "Sat, 12 Sep 2026 09:52:50 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "I made a build profiler to understand Bun’s compile times",
+    "link": "https://lalitm.com/post/buildprof/",
+    "summary": "Comments",
+    "pubDate": "Sat, 12 Sep 2026 09:48:24 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Base84 deserves a place in file names",
+    "link": "https://00f.net/2026/09/09/base84/",
+    "summary": "Comments",
+    "pubDate": "Sat, 12 Sep 2026 09:38:51 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Researchers find a Wordle strategy that wins 99% of the time",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260911204910.htm",
+    "summary": "Researchers at Binghamton University have developed a mathematical strategy that can solve Wordle with a 99% success rate. Instead of simply guessing words packed with common letters or choosing the most likely answer, the method uses Shannon entropy, a measure from information theory, to identif...",
+    "pubDate": "Sat, 12 Sep 2026 09:35:56 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "You Don’t Have a Right to Safe Drinking Water, Trump-Appointed Judge Rules",
     "link": "https://www.wired.com/story/you-dont-have-right-to-safe-drinking-water-trump-appointed-judge-rules/",
     "summary": "And if your tap water is undrinkable, you have no “constitutional right to truthful information” about it.",
     "pubDate": "Sat, 12 Sep 2026 09:30:00 +0000",
     "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Solod 0.4: Better C interop",
+    "link": "https://antonz.org/solod-0.4/",
+    "summary": "Comments",
+    "pubDate": "Sat, 12 Sep 2026 09:14:24 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -120,11 +352,27 @@
     "category": "general"
   },
   {
+    "title": "'People are still afraid of those three letters': Fighting the stigma of HIV",
+    "link": "https://www.npr.org/2026/09/12/g-s1-142404/hiv-aids-brazil-stigma",
+    "summary": "That's a quote from former rugby star Gareth Thomas, who is HIV positive. At the International AIDS Conference in Rio this year, he spoke out about the isolation and discrimination tied to the virus.",
+    "pubDate": "Sat, 12 Sep 2026 09:03:20 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial",
     "link": "https://www.bbc.co.uk/news/articles/c1kx0jje18wo?at_medium=RSS&at_campaign=rss",
     "summary": "The Chicago rapper was arrested in 2024 and accused of involvement in a shooting that killed the cousin of rival rapper Quando Rondo.",
     "pubDate": "Sat, 12 Sep 2026 08:04:16 GMT",
     "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "OPINION: 25 years on, a nation still mourns",
+    "link": "https://www.npr.org/2026/09/12/nx-s1-5958560/opinion-25-years-on-a-nation-still-mourns",
+    "summary": "A moment to remember those lost in the 9/11 terrorist attacks 25 years ago yesterday.",
+    "pubDate": "Sat, 12 Sep 2026 08:00:00 -0400",
+    "source": "NPR",
     "category": "general"
   },
   {
@@ -136,12 +384,28 @@
     "category": "tech"
   },
   {
+    "title": "Linux Zoom Client Proactively Reads X11 Clipboard",
+    "link": "https://hachyderm.io/@simontatham/117201594980991062",
+    "summary": "Comments",
+    "pubDate": "Sat, 12 Sep 2026 07:38:53 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "A cancer survivor hoped to work — then she lost her Medicaid disability coverage",
     "link": "https://www.npr.org/2026/09/12/nx-s1-5966884/insurance-coverage-cancer-disability-medicaid",
     "summary": "As state governments grapple with how to determine who's sick enough to be excused from new Medicaid work requirements, some families are already struggling with what illnesses guarantee health coverage because of a disability.",
     "pubDate": "Sat, 12 Sep 2026 07:00:00 -0400",
     "source": "NPR",
     "category": "general"
+  },
+  {
+    "title": "fresh: Terminal based IDE & text editor: easy, powerful and fast",
+    "link": "https://github.com/sinelaw/fresh",
+    "summary": "Comments",
+    "pubDate": "Sat, 12 Sep 2026 06:59:21 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Garcia v Benn - welterweight world title fight predictions",
@@ -158,6 +422,14 @@
     "pubDate": "Sat, 12 Sep 2026 06:55:14 -0400",
     "source": "NPR",
     "category": "general"
+  },
+  {
+    "title": "How Trail of Bits helps verify the integrity of your Signal chats",
+    "link": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
+    "summary": "Comments",
+    "pubDate": "Sat, 12 Sep 2026 06:28:29 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Signed instead of Rashford, Gordon is proving worth at Barca",
@@ -432,6 +704,14 @@
     "category": "tech"
   },
   {
+    "title": "Scientists find a way to break pancreatic cancer’s protective shield",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260911003856.htm",
+    "summary": "Researchers found that blocking IL1RAP could disrupt a powerful inflammatory network that helps pancreatic cancer survive treatment. In preclinical experiments, the approach reduced tumor-protecting cells and fibrosis while boosting the activity of cancer-fighting T cells. That could make chemoth...",
+    "pubDate": "Fri, 11 Sep 2026 22:34:24 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "Glitzy innovations but Duplantis still wins - new Ultimate Championship begins",
     "link": "https://www.bbc.co.uk/sport/athletics/articles/c05r94l4j9go?at_medium=RSS&at_campaign=rss",
     "summary": "The Ultimate Championship is posed as something different in athletics, but some things stay the same - pole vault star Armand Duplantis taking centre stage.",
@@ -488,12 +768,28 @@
     "category": "general"
   },
   {
+    "title": "Mercury’s surface reveals a surprisingly fiery past",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260911003854.htm",
+    "summary": "Scientists have discovered that Mercury’s surface contains far less silicon dioxide than previously thought, pointing to an unexpectedly hot volcanic past. The finding suggests ancient lava may have originated from deeper, more extensively melted parts of the planet’s mantle.",
+    "pubDate": "Fri, 11 Sep 2026 21:28:22 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "Passenger train derails in France leaving at least 44 injured",
     "link": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
     "summary": "France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy.",
     "pubDate": "Fri, 11 Sep 2026 21:25:32 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Forgotten Woodlands",
+    "link": "https://storymaps.arcgis.com/stories/9b790daf22ba4e87836f467abb1c7e49",
+    "summary": "Article URL: https://storymaps.arcgis.com/stories/9b790daf22ba4e87836f467abb1c7e49 Comments URL: https://news.ycombinator.com/item?id=49665549 Points: 28 # Comments: 9",
+    "pubDate": "Fri, 11 Sep 2026 21:21:04 +0000",
+    "source": "Hacker News",
+    "category": "tech"
   },
   {
     "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
@@ -590,6 +886,38 @@
     "pubDate": "Fri, 11 Sep 2026 05:24:35 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "LG responds to TV spying allegations",
+    "link": "https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations",
+    "summary": "Earlier this week, Gamers Nexus, Level1Techs, and independent security researchers detailed some alarming findings about how LG's TVs are logging and uploading data on its users. Now the company is pushing back against those allegations, saying that \"Some recent media coverage may have contribute...",
+    "pubDate": "2026-09-12T11:19:44-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Trump is giving data centers a pass to pollute",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
+    "summary": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are urging - perhaps futilely - the president to adop...",
+    "pubDate": "2026-09-12T10:41:27-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Laika’s stop-motion fantasy Wildwood looks so smooth",
+    "link": "https://www.theverge.com/entertainment/994314/tiff-2026-wildwood-stuffed-julian",
+    "summary": "Due to a scheduling mishap, I was only able to check out two movies on my second day at the Toronto International Film Festival - but I did manage to get an early look at and some fascinating details on one of my most anticipated films this year. Even if you don't know the name [&#8230;]",
+    "pubDate": "2026-09-12T09:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Where to preorder the iPhone 18 Pro and Pro Max",
+    "link": "https://www.theverge.com/gadgets/988337/iphone-18-pro-max-preorder-buy",
+    "summary": "The iPhone 18 Pro and 18 Pro Max are almost here. Announced at Apple's September 2026 \"Sunrise and shine\" event alongside the iPhone Duo and other new gear, the two upgraded phones feature the faster A20 Pro processor with more GPU power as well as more neural cores for AI-related tasks, plus som...",
+    "pubDate": "2026-09-12T08:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
   },
   {
     "title": "OpenAI just wants to win",

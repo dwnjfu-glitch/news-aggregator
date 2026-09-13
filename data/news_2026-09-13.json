@@ -32,6 +32,38 @@
     "category": "general"
   },
   {
+    "title": "Russia struck train near Poland border shortly after Boris Johnson and top European officials passed through",
+    "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+    "summary": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+    "pubDate": "Sun, 13 Sep 2026 16:33:57 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+    "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+    "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
+    "pubDate": "Sun, 13 Sep 2026 16:30:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "TechCrunch Mobility: Lyft has entered the robotaxi chat",
+    "link": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/",
+    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation, and now, more than ever, the role AI is playing in it.",
+    "pubDate": "Sun, 13 Sep 2026 16:04:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Europe's big names shine in Solheim Cup win over US",
+    "link": "https://www.bbc.co.uk/sport/golf/articles/c0m3pnlyl9vo?at_medium=RSS&at_campaign=rss",
+    "summary": "Charley Hull gets the ball rolling as Europe's big guns finally came to the fore in Sunday's singles as they wrestled the Solheim Cup back from the United States with a 15½-12½ victory at Bernardus Golf Club in the Netherlands.",
+    "pubDate": "Sun, 13 Sep 2026 15:54:44 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "搭建自己的 HomeLab（一）：聊聊我的硬件清单",
     "link": "https://sspai.com/post/113880",
     "summary": "作为系列的第一篇，这里想把三件事讲清楚：什么是 HomeLab、我为什么愿意折腾它、以及这套东西需要哪些硬件、它们大概又要花多少钱。系列其他文章的目录放在文末。 查看全文",
@@ -40,12 +72,156 @@
     "category": "tech-cn"
   },
   {
+    "title": "Trump doubles down on united Ireland comments on day two of visit",
+    "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+    "summary": "The US president was speaking at the Irish Open on Sunday and said \"many people agree\" with his comments.",
+    "pubDate": "Sun, 13 Sep 2026 15:42:50 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Libraries Run Rust Inside Python (With PyO3)",
+    "link": "https://belderbos.dev/blog/how-libraries-run-rust-inside-python/",
+    "summary": "Article URL: https://belderbos.dev/blog/how-libraries-run-rust-inside-python/ Comments URL: https://news.ycombinator.com/item?id=49685037 Points: 13 # Comments: 9",
+    "pubDate": "Sun, 13 Sep 2026 15:24:05 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Predictive intelligence to anticipate anything.",
+    "link": "https://prior.chat/",
+    "summary": "Article URL: https://prior.chat/ Comments URL: https://news.ycombinator.com/item?id=49684879 Points: 6 # Comments: 8",
+    "pubDate": "Sun, 13 Sep 2026 15:11:22 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Antonelli wins as Norris loses out under virtual safety car",
+    "link": "https://www.bbc.co.uk/sport/formula1/articles/c5yeln1j175o?at_medium=RSS&at_campaign=rss",
+    "summary": "Mercedes' Kimi Antonelli wins the Spanish Grand Prix after McLaren's Lando Norris loses out because of the bad timing of a virtual safety car.",
+    "pubDate": "Sun, 13 Sep 2026 15:10:42 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Police searching for six men over anti-migrant protest in Portsmouth",
+    "link": "https://www.bbc.co.uk/news/articles/c158p587w4no?at_medium=RSS&at_campaign=rss",
+    "summary": "Force releases images of individuals it wants to speak to after disorder at Eastney Marina on 6 September.",
+    "pubDate": "Sun, 13 Sep 2026 15:03:52 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Cpak – OCI application package format for Linux desktops, servers and devices",
+    "link": "https://cpak.it/",
+    "summary": "Article URL: https://cpak.it/ Comments URL: https://news.ycombinator.com/item?id=49684778 Points: 5 # Comments: 1",
+    "pubDate": "Sun, 13 Sep 2026 15:02:56 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Andy Burnham among Great North Run finishers",
+    "link": "https://www.bbc.co.uk/news/articles/cew9n2j47ygo?at_medium=RSS&at_campaign=rss",
+    "summary": "This year's event sees 63,000 people take on the half marathon - including the prime minister.",
+    "pubDate": "Sun, 13 Sep 2026 14:54:40 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
+    "link": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
+    "summary": "Article URL: https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment Comments URL: https://news.ycombinator.com/item?id=49684393 Points: 105 # Comments: 29",
+    "pubDate": "Sun, 13 Sep 2026 14:28:36 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
+    "link": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
+    "summary": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community.",
+    "pubDate": "Sun, 13 Sep 2026 14:25:56 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "CUDA for AMD on Windows",
+    "link": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
+    "summary": "Article URL: https://github.com/Speedstu/CUDA-for-AMD-Windows Comments URL: https://news.ycombinator.com/item?id=49684356 Points: 25 # Comments: 2",
+    "pubDate": "Sun, 13 Sep 2026 14:25:13 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "In pictures: Thousands flock to Radio 2 in the Park in Stirling",
+    "link": "https://www.bbc.co.uk/news/articles/c23x1j420keo?at_medium=RSS&at_campaign=rss",
+    "summary": "The event, featuring a host of bands, singers and Radio 2 DJs is taking place at the foot of Stirling Castle.",
+    "pubDate": "Sun, 13 Sep 2026 14:21:01 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Making Startups Powerful",
+    "link": "https://paulgraham.com/powerful.html",
+    "summary": "Article URL: https://paulgraham.com/powerful.html Comments URL: https://news.ycombinator.com/item?id=49684196 Points: 12 # Comments: 4",
+    "pubDate": "Sun, 13 Sep 2026 14:09:53 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Key symbols we lost to time, pt. 1: The PC side",
+    "link": "https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-1-the-pc-side/",
+    "summary": "Article URL: https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-1-the-pc-side/ Comments URL: https://news.ycombinator.com/item?id=49684101 Points: 34 # Comments: 6",
+    "pubDate": "Sun, 13 Sep 2026 14:00:44 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "US embassy child abuse images suspect flown from UK before police interview",
+    "link": "https://www.bbc.co.uk/news/articles/c4gjw1j1eq7o?at_medium=RSS&at_campaign=rss",
+    "summary": "The individual worked at the US embassy in Vauxhall, south London, had diplomatic protection, despite not being a diplomat.",
+    "pubDate": "Sun, 13 Sep 2026 13:31:18 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "US Customs supervisor busted for stealing hardware from Homeland Security PCs",
+    "link": "https://www.tomshardware.com/pc-components/us-customs-supervisor-busted-for-stealing-core-i7-cpus-ram-and-hard-drives-from-homeland-security-pcs-stolen-tech-swapped-with-inferior-hardware-and-cashed-out-on-newegg",
+    "summary": "Article URL: https://www.tomshardware.com/pc-components/us-customs-supervisor-busted-for-stealing-core-i7-cpus-ram-and-hard-drives-from-homeland-security-pcs-stolen-tech-swapped-with-inferior-hardware-and-cashed-out-on-newegg Comments URL: https://news.ycombinator.com/item?id=49683729 Points: 79 ...",
+    "pubDate": "Sun, 13 Sep 2026 13:24:28 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Fusion power startups find new partners in the defense world",
+    "link": "https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/",
+    "summary": "Fusion startups are inking defense-related deals, reigniting the relationship between fusion and national security that might have gone dormant, but never completely disappeared.",
+    "pubDate": "Sun, 13 Sep 2026 13:15:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Why is the x86 undefined instruction called ud2? Why 2?",
+    "link": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
+    "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689 Comments URL: https://news.ycombinator.com/item?id=49683262 Points: 43 # Comments: 12",
+    "pubDate": "Sun, 13 Sep 2026 12:30:15 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "Reform's £72m donations 'entirely in line with law', Jenrick says",
     "link": "https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&at_campaign=rss",
     "summary": "The government is trying to change the law on donations to UK political parties from British expats.",
     "pubDate": "Sun, 13 Sep 2026 12:05:43 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
+    "link": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
+    "summary": "Article URL: https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet Comments URL: https://news.ycombinator.com/item?id=49683033 Points: 70 # Comments: 19",
+    "pubDate": "Sun, 13 Sep 2026 12:01:52 +0000",
+    "source": "Hacker News",
+    "category": "tech"
   },
   {
     "title": "Will Reform Have To Give Their Mega Donations Back?",
@@ -80,6 +256,22 @@
     "category": "general"
   },
   {
+    "title": "what if my git host were a static site generator?",
+    "link": "https://char.lt/blog/2026/09/sorcery-repo-viewer/",
+    "summary": "Comments",
+    "pubDate": "Sun, 13 Sep 2026 11:10:06 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "I fixed a tractor using John Deere’s self-repair service. Farmers aren’t sold on it.",
+    "link": "https://arstechnica.com/gadgets/2026/09/i-fixed-a-tractor-using-john-deeres-self-repair-service-farmers-arent-sold-on-it/",
+    "summary": "The manufacturer has a service that lets owners repair their own equipment.",
+    "pubDate": "Sun, 13 Sep 2026 11:00:41 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
     "title": "Man charged with concealing identity at protest",
     "link": "https://www.bbc.co.uk/news/articles/c5yjln213jeo?at_medium=RSS&at_campaign=rss",
     "summary": "Anti-migrant demonstrators marched in Portsmouth on Saturday, and a counter-protest was also held.",
@@ -104,12 +296,28 @@
     "category": "tech"
   },
   {
+    "title": "Golang developers should try Odin",
+    "link": "https://rm4n0s.github.io/posts/2-go-devs-should-learn-odin/",
+    "summary": "Comments",
+    "pubDate": "Sun, 13 Sep 2026 10:23:41 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Coway Airmega Halo Review: Is Your Air Really Clean?",
     "link": "https://www.wired.com/review/coway-airmega-halo/",
     "summary": "Coway’s new Airmega Halo runs quietly and clears visible smoke quickly, but its air-quality readings weren’t always reassuring.",
     "pubDate": "Sun, 13 Sep 2026 10:05:00 +0000",
     "source": "Wired",
     "category": "tech"
+  },
+  {
+    "title": "Actor Tatyana Ali is advocating for Black and Indigenous maternal health",
+    "link": "https://www.npr.org/2026/09/13/nx-s1-5966885/birth-black-and-indigenous-maternal-health",
+    "summary": "Actor Tatyana Ali says her healing journey after a traumatic childbirth has inspired her advocacy for Black maternal health, including support for midwives, doulas and other birth workers.",
+    "pubDate": "Sun, 13 Sep 2026 10:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
   },
   {
     "title": "AI Agents Are Thirsty for Power",
@@ -120,11 +328,35 @@
     "category": "tech"
   },
   {
+    "title": "Scientists find a new layer of Alzheimer’s hidden in the genome",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260912220051.htm",
+    "summary": "Scientists found that the 3D organization of DNA is disrupted in several types of brain cells affected by Alzheimer’s disease, altering how important genes are switched on and off. The discovery reveals a previously underexplored layer of the disease that could open new paths for understanding an...",
+    "pubDate": "Sun, 13 Sep 2026 09:56:06 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "With a Better Understanding of Physics, We Could Predict Volcanic Eruptions",
     "link": "https://www.wired.com/story/physics-predict-volcanic-eruptions/",
     "summary": "“There’s no reason we can’t think that, at some point in the future, we can have volcano forecasts that are like weather forecasts.”",
     "pubDate": "Sun, 13 Sep 2026 09:30:00 +0000",
     "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Physicists can’t agree on how the Universe works",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260912220041.htm",
+    "summary": "A massive worldwide survey of physicists has revealed surprisingly little agreement about some of the universe’s biggest mysteries. No majority backed the standard cosmological model, a leading explanation for dark matter, or any single theory of quantum gravity. One area of stronger agreement st...",
+    "pubDate": "Sun, 13 Sep 2026 09:15:56 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Stabilizing Rust's never type",
+    "link": "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/",
+    "summary": "Comments",
+    "pubDate": "Sun, 13 Sep 2026 09:00:18 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -136,11 +368,75 @@
     "category": "general"
   },
   {
+    "title": "Most men don’t know dairy is linked to prostate cancer risk",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260911214259.htm",
+    "summary": "Most men may be missing an important dietary clue about prostate cancer. A new survey found that only 20% knew research has linked dairy consumption with increased prostate cancer risk, while 66% said they would consider avoiding dairy after learning about the connection. Studies have also associ...",
+    "pubDate": "Sun, 13 Sep 2026 08:58:06 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "Homebrew 7.0.0",
     "link": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
     "summary": "Article URL: https://brew.sh/2026/09/13/homebrew-7.0.0/ Comments URL: https://news.ycombinator.com/item?id=49681545 Points: 97 # Comments: 34",
     "pubDate": "Sun, 13 Sep 2026 08:41:17 +0000",
     "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Session Context — what a web page knows about you",
+    "link": "https://sessioncontext.org",
+    "summary": "Comments",
+    "pubDate": "Sun, 13 Sep 2026 08:36:10 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Global warming is breaking a 400-year climate link between two oceans",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260912220029.htm",
+    "summary": "The Indian and Pacific oceans have been climatically linked for centuries, but scientists say that connection is now breaking down in an exceptional way. Ancient climate records suggest volcanoes disrupted the relationship in the past, while today human-caused warming appears to be driving a much...",
+    "pubDate": "Sun, 13 Sep 2026 08:18:05 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Politics chat: Trump's $5,000 promise to voters, Vance invokes Charlie Kirk",
+    "link": "https://www.npr.org/2026/09/13/nx-s1-5964863/politics-chat-trumps-5-000-promise-to-voters-vance-invokes-charlie-kirk",
+    "summary": "Following the midterm convention in Dallas, President Trump's $5,000 campaign promise has generated attention, but not belief. And, Vice President JD Vance characterizes Democrats as extremists.",
+    "pubDate": "Sun, 13 Sep 2026 08:04:27 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Scientists are building a microscope powered by a quantum computer",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260912220038.htm",
+    "summary": "Scientists are combining an electron microscope with a quantum computer to squeeze far more information from each electron. The approach could reveal faint details with fewer electrons, helping protect fragile samples that conventional microscopy can damage.",
+    "pubDate": "Sun, 13 Sep 2026 08:03:59 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "After Math",
+    "link": "https://terrytao.wordpress.com/2026/09/12/after-math/",
+    "summary": "Comments",
+    "pubDate": "Sun, 13 Sep 2026 07:59:09 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "NASA-backed scientists turn plastic waste into edible cookies",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260912220033.htm",
+    "summary": "Scientists have engineered yeast to turn PET plastic and agricultural waste into ingredients for protein-rich, 3D-printed cookies called µBites. Developed partly for NASA’s Deep Space Food Challenge, the system can produce proteins, fats, vitamins, and even vanilla flavoring from waste materials....",
+    "pubDate": "Sun, 13 Sep 2026 07:54:36 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Being lazy in C++",
+    "link": "https://cpp-rendering.io/being-lazy-in-c/",
+    "summary": "Comments",
+    "pubDate": "Sun, 13 Sep 2026 07:50:15 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -160,6 +456,14 @@
     "category": "general"
   },
   {
+    "title": "Physicists discover a hidden “curveball” in quantum light",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260912220025.htm",
+    "summary": "Researchers have experimentally demonstrated the optical Magnus effect for the first time, revealing that a tightly focused laser interacts most strongly with an atom slightly away from the beam’s center. The unexpected shift is similar to the physics that makes a spinning table tennis ball curve...",
+    "pubDate": "Sun, 13 Sep 2026 07:22:01 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "Watch what you say: Apple opens the door to a nightmare world of always-listening tech",
     "link": "https://this.weekinsecurity.com/watch-what-you-say-apple-opens-the-door-to-a-nightmare-world-of-always-listening-tech/",
     "summary": "Comments",
@@ -174,6 +478,14 @@
     "pubDate": "Sun, 13 Sep 2026 07:00:00 -0400",
     "source": "NPR",
     "category": "general"
+  },
+  {
+    "title": "AI uncovers hidden Ozempic side effects across 400,000 Reddit posts",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260912222856.htm",
+    "summary": "AI analysis of 400,000 Reddit posts found that users of drugs such as Ozempic, Wegovy, Mounjaro, and Zepbound reported unexpected symptoms including menstrual changes, chills, hot flashes, and fatigue. Researchers cannot say the medications caused these problems, but the patterns may reveal overl...",
+    "pubDate": "Sun, 13 Sep 2026 06:46:19 EDT",
+    "source": "Science Daily",
+    "category": "science"
   },
   {
     "title": "Don't call yourself an artisanal programmer",
@@ -366,6 +678,14 @@
     "pubDate": "Sat, 12 Sep 2026 23:43:52 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
+    "link": "https://github.com/FeralFirmware/TailTalk/",
+    "summary": "Article URL: https://github.com/FeralFirmware/TailTalk/ Comments URL: https://news.ycombinator.com/item?id=49678423 Points: 44 # Comments: 11",
+    "pubDate": "Sat, 12 Sep 2026 23:43:31 +0000",
+    "source": "Hacker News",
+    "category": "tech"
   },
   {
     "title": "Tom Felton: I'm so excited to see Rupert Grint play Ron Weasley again",
@@ -590,6 +910,22 @@
     "pubDate": "Sat, 12 Sep 2026 11:04:06 EDT",
     "source": "Science Daily",
     "category": "science"
+  },
+  {
+    "title": "Waymo pulls over, calls cops on riders with a ghost gun",
+    "link": "https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun",
+    "summary": "Two people were arrested in San Fransico while riding around in a Waymo robotaxi after the cab pulled over and called the cops on them. The riders were juveniles in possession of a loaded AR-style ghost gun and were taken to a juvenile hall. While the police report did not specify who was operati...",
+    "pubDate": "2026-09-13T10:28:12-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Your Mother Your Mother Your Mother will make you forget all about Marvel’s Blade disaster",
+    "link": "https://www.theverge.com/entertainment/994393/your-mother-your-mother-your-mother-review-tiff-2026",
+    "summary": "Marvel's mishandling of its Blade reboot will likely go down as one of the studio's biggest mistakes. There was a great actor in place to play the vampire hunter (Mahershala Ali), and a promising director set to take over the reins (Bassam Tariq). In retrospect, though, the disappointing demise o...",
+    "pubDate": "2026-09-13T09:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
   },
   {
     "title": "Your car is selling your data",

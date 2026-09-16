@@ -1,11 +1,291 @@
 [
   {
+    "title": "Noise wants to help everyday people  become paid content creators",
+    "link": "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/",
+    "summary": "Marketing platform Noise is on a mission to help anyone with a smart phone make money from their content.",
+    "pubDate": "Wed, 16 Sep 2026 21:35:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Pulley, a Carta rival, is shutting down",
+    "link": "https://techcrunch.com/2026/09/16/pulley-a-carta-rival-is-shutting-down/",
+    "summary": "Cap table management platform Pulley, backed by General Catalyst, Stripe, and Founders Fund, announced that it's closing shop in December.",
+    "pubDate": "Wed, 16 Sep 2026 21:23:19 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
+    "link": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
+    "summary": "Group plans to be largely out of commission for several weeks.",
+    "pubDate": "Wed, 16 Sep 2026 21:08:14 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+    "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+    "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
+    "pubDate": "Wed, 16 Sep 2026 21:07:24 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Washington Won't Be Regulating AI Anytime Soon",
+    "link": "https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/",
+    "summary": "Even with mounting concerns about AI models going rogue, legislation appears unlikely, and the White House is outright opposed to oversight.",
+    "pubDate": "Wed, 16 Sep 2026 21:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+    "link": "https://arxiv.org/abs/2609.16338",
+    "summary": "Article URL: https://arxiv.org/abs/2609.16338 Comments URL: https://news.ycombinator.com/item?id=49732931 Points: 22 # Comments: 0",
+    "pubDate": "Wed, 16 Sep 2026 20:59:24 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Painful endgame for Gray as stale Hibs slump",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c3qjk2nev7r8o?at_medium=RSS&at_campaign=rss",
+    "summary": "A club hero, David Gray ends his time as Hibs head coach not to the sound of euphoria from fans, but to the sound of a support collectively exhaling in relief, writes Tom English.",
+    "pubDate": "Wed, 16 Sep 2026 20:53:10 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "'Grief can colour memory': Palace responds after Earl Spencer's claim in Diana book",
+    "link": "https://www.bbc.co.uk/news/articles/c8e3rk47r4ego?at_medium=RSS&at_campaign=rss",
+    "summary": "Diana's brother claimed the then-Prince of Wales said she would be forgotten \"soon enough\" days after her death.",
+    "pubDate": "Wed, 16 Sep 2026 20:46:30 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Lionsgate releases a new trailer for Sunrise on the Reaping",
+    "link": "https://arstechnica.com/culture/2026/09/haymitch-gets-a-backstory-in-sunrise-on-the-reaping-trailer/",
+    "summary": "Also: Laika Studios debuts a stunning full-length trailer for its stop-motion feature, Wildwood .",
+    "pubDate": "Wed, 16 Sep 2026 20:44:41 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Not just Proton: Getting to know Valve's new SteamOS compatibility layers",
+    "link": "https://arstechnica.com/gaming/2026/09/not-just-proton-getting-to-know-valves-new-steamos-compatibility-layers/",
+    "summary": "New system-level tools bring Arm chipsets, Android APKs into the Steam ecosystem.",
+    "pubDate": "Wed, 16 Sep 2026 20:23:16 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+    "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+    "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
+    "pubDate": "Wed, 16 Sep 2026 20:12:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+    "link": "https://mimo.xiaomi.com/rl/",
+    "summary": "Article URL: https://mimo.xiaomi.com/rl/ Comments URL: https://news.ycombinator.com/item?id=49732270 Points: 104 # Comments: 28",
+    "pubDate": "Wed, 16 Sep 2026 20:09:18 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "US House votes to hold billionaire Epstein associate Leon Black in contempt",
+    "link": "https://www.bbc.co.uk/news/articles/c62l8g8qlr0ko?at_medium=RSS&at_campaign=rss",
+    "summary": "Black - who had business ties to Epstein - declined to appear and provide documents related to the convicted sex offender.",
+    "pubDate": "Wed, 16 Sep 2026 19:59:57 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "X will now let US users trade via Cashtags",
+    "link": "https://techcrunch.com/2026/09/16/x-will-now-let-u-s-users-trade-via-cashtags/",
+    "summary": "The move closes the gap between the market discussions taking place on the timeline, and the market itself.",
+    "pubDate": "Wed, 16 Sep 2026 19:57:22 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "A Deal Hunter’s Guide to Amazon Prime Big Deal Days (2026)",
+    "link": "https://www.wired.com/story/amazon-prime-day-october-2026-tips/",
+    "summary": "Before Amazon’s October sale begins, learn how to investigate prices and track products like a pro.",
+    "pubDate": "Wed, 16 Sep 2026 19:45:41 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "California may gut state net neutrality law to comply with Trump admin demand",
+    "link": "https://arstechnica.com/tech-policy/2026/09/california-may-gut-state-net-neutrality-law-to-comply-with-trump-admin-demand/",
+    "summary": "Trump admin broadband grants forbid states from enforcing net neutrality laws.",
+    "pubDate": "Wed, 16 Sep 2026 19:36:44 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Automattic’s interim CEO and legal chief signed reciprocal severance deals during Mullenweg’s brief ouster",
+    "link": "https://techcrunch.com/2026/09/16/automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster/",
+    "summary": "CFO Mark Davies and legal chief Andy Missan signed each other’s severance agreements while Matt Mullenweg was on leave, providing a year of salary and additional equity vesting if their departures qualify for the benefits.",
+    "pubDate": "Wed, 16 Sep 2026 19:35:29 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "How good are frontier models at physics?",
+    "link": "https://arxiv.org/abs/2609.13009",
+    "summary": "Article URL: https://arxiv.org/abs/2609.13009 Comments URL: https://news.ycombinator.com/item?id=49731620 Points: 39 # Comments: 12",
+    "pubDate": "Wed, 16 Sep 2026 19:19:08 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Researchers swap in human brain cells for a mouse's cortex",
+    "link": "https://arstechnica.com/science/2026/09/researchers-swap-in-human-brain-cells-for-a-mouses-cortex/",
+    "summary": "The results are only a slight improvement over missing the entire brain structure.",
+    "pubDate": "Wed, 16 Sep 2026 19:08:34 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Former Waymo CFO jumps to self-driving startup Wayve",
+    "link": "https://techcrunch.com/2026/09/16/former-waymo-cfo-jumps-to-self-driving-startup-wayve/",
+    "summary": "Elisa de Martel, who left her position as chief financial officer at Alphabet's autonomous vehicle company Waymo in January, will be based out of Silicon Valley.",
+    "pubDate": "Wed, 16 Sep 2026 19:02:49 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "I Trained a Fly’s Brain to Generate WIRED Story Ideas",
+    "link": "https://www.wired.com/story/i-trained-a-fly-on-wired-story-ideas/",
+    "summary": "I used an open-source map of a fruit fly’s brain to vibe code a website called PitchFly. Its headline suggestions were delightfully bananas.",
+    "pubDate": "Wed, 16 Sep 2026 19:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Accurate Models of AMD Matrix Cores",
+    "link": "https://arxiv.org/abs/2609.14845",
+    "summary": "Article URL: https://arxiv.org/abs/2609.14845 Comments URL: https://news.ycombinator.com/item?id=49731360 Points: 42 # Comments: 5",
+    "pubDate": "Wed, 16 Sep 2026 18:56:05 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Body found in search for missing three-year-old Noah Woods",
+    "link": "https://www.bbc.co.uk/news/articles/cm93v1573vqro?at_medium=RSS&at_campaign=rss",
+    "summary": "Police divers discover child's body in a pond after Noah went missing from a playground on Tuesday.",
+    "pubDate": "Wed, 16 Sep 2026 18:50:09 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+    "link": "https://rohanbansal.com/qorl",
+    "summary": "Article URL: https://rohanbansal.com/qorl Comments URL: https://news.ycombinator.com/item?id=49731285 Points: 220 # Comments: 35",
+    "pubDate": "Wed, 16 Sep 2026 18:50:00 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Hear why Science Corp CEO Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/16/hear-why-science-corp-ceo-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/",
+    "summary": "At this year's Disrupt, Science Corp CEO Max Hodak will present a vision for screen-free interfaces that can even offer medical help. Register before September 25 to save up to $200 on your pass.",
+    "pubDate": "Wed, 16 Sep 2026 18:45:35 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Scientists develop new method for deciphering ancient scrolls",
+    "link": "https://arstechnica.com/science/2026/09/why-researchers-made-their-own-model-herculaneum-scrolls/",
+    "summary": "Even a handheld XRF scanner is sufficient to determine most promising scrolls for further analysis.",
+    "pubDate": "Wed, 16 Sep 2026 18:43:23 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Vectorized and performance-portable Quicksort (2022)",
+    "link": "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html",
+    "summary": "Article URL: https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html Comments URL: https://news.ycombinator.com/item?id=49731054 Points: 153 # Comments: 24",
+    "pubDate": "Wed, 16 Sep 2026 18:31:35 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+    "link": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+    "summary": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
+    "pubDate": "Wed, 16 Sep 2026 18:25:25 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "The Specialized Diverge Pro 4 makes rough gravel your playground",
+    "link": "https://arstechnica.com/reviews/2026/09/the-specialized-diverge-pro-4-makes-rough-gravel-your-playground/",
+    "summary": "The Diverge Pro 4 is happiest when the road gets ugly.",
+    "pubDate": "Wed, 16 Sep 2026 18:11:53 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Verstappen passes 100 amateur karters in 14 laps in exhibition race",
+    "link": "https://www.bbc.co.uk/sport/formula1/articles/c50m3k7jk82jo?at_medium=RSS&at_campaign=rss",
+    "summary": "Four-time F1 world champion Max Verstappen passes 100 amateur drivers in just 14 laps in an exhibition go-kart race at Silverstone.",
+    "pubDate": "Wed, 16 Sep 2026 18:11:19 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Hackers publish thousands of drivers’ data after breaching Florida motor vehicle database",
+    "link": "https://techcrunch.com/2026/09/16/hackers-publish-thousands-of-drivers-data-after-breaching-florida-motor-vehicle-database/",
+    "summary": "The ShinyHunters gang leaked the files online after saying the Florida state agency did not pay their ransom demand.",
+    "pubDate": "Wed, 16 Sep 2026 18:00:54 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "British soldier who died in Ukraine road accident named by MoD",
+    "link": "https://www.bbc.co.uk/news/articles/c5n4k0npdyj4o?at_medium=RSS&at_campaign=rss",
+    "summary": "Tributes have been paid to Major Paul Wilks, who was described as a \"gifted leader\".",
+    "pubDate": "Wed, 16 Sep 2026 17:34:18 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "探秘柬埔寨，千年吴哥窟",
     "link": "https://sspai.com/post/114454",
     "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
     "pubDate": "Wed, 16 Sep 2026 17:33:41 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "You'd expect homeowners to save their stuff. Federal policy pays them to leave it",
+    "link": "https://www.npr.org/2026/09/16/g-s1-143708/video-houses-collapse-north-carolina-ocean",
+    "summary": "NPR dug into the upside-down world of FEMA flood insurance in coastal areas, and found many homeowners have no financial choice but to let their homes collapse.",
+    "pubDate": "Wed, 16 Sep 2026 17:20:59 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "House holds billionaire Leon Black in contempt of Congress",
+    "link": "https://www.npr.org/2026/09/16/nx-s1-5954258/house-holds-billionaire-leon-black-in-contempt-of-congress",
+    "summary": "The House of Representatives has held billionaire Leon Black in contempt of Congress after he refused to provide additional information on his relationship with convicted sex offender Jeffrey Epstein.",
+    "pubDate": "Wed, 16 Sep 2026 17:12:27 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "It’s OK to tell ICE their actions will haunt them, judge rules in speech fight",
+    "link": "https://arstechnica.com/tech-policy/2026/09/its-ok-to-tell-ice-their-actions-will-haunt-them-judge-rules-in-speech-fight/",
+    "summary": "Man wins fight to block ICE threat over off-the-cuff angry email.",
+    "pubDate": "Wed, 16 Sep 2026 17:06:06 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
   },
   {
     "title": "Your AI agents can now control your Google Home devices",
@@ -16,12 +296,44 @@
     "category": "tech"
   },
   {
+    "title": "Training Text-to-Image Models 3.6× Faster",
+    "link": "https://www.linum.ai/field-notes/jit-ddt",
+    "summary": "Article URL: https://www.linum.ai/field-notes/jit-ddt Comments URL: https://news.ycombinator.com/item?id=49729816 Points: 12 # Comments: 1",
+    "pubDate": "Wed, 16 Sep 2026 16:58:13 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "'It's a miracle' - fireball crash victim Millroy praises rescuer Hartog",
     "link": "https://www.bbc.co.uk/sport/motorsport/articles/cvlyl5p7kl0no?at_medium=RSS&at_campaign=rss",
     "summary": "British racing driver Ollie Millroy says it is a \"miracle I'm alive\" after fellow driver Loek Hartog \"did everything right\" when saving him from his blazing car.",
     "pubDate": "Wed, 16 Sep 2026 16:57:52 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Trump administration plans ideological warning signs for Smithsonian",
+    "link": "https://www.npr.org/2026/09/16/nx-s1-5971420/trump-administration-smithsonian-warning-signs",
+    "summary": "The Interior Secretary says the move is necessary to combat what he calls ideological bias.",
+    "pubDate": "Wed, 16 Sep 2026 16:55:54 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "The 'burnerverse' exploiting young women in college",
+    "link": "https://www.npr.org/2026/09/16/nx-s1-5971222/the-burnerverse-exploiting-young-women-in-college",
+    "summary": "Wired reporter EJ Dickson speaks with NPR's Juana Summers about an online community that targets and harasses young women with their own nonconsensual, sexually explicit images.",
+    "pubDate": "Wed, 16 Sep 2026 16:50:17 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Iran strikes on Amazon data centers caused permanent loss of customer data",
+    "link": "https://arstechnica.com/gadgets/2026/09/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data/",
+    "summary": "War damage to data centers exceeded what AWS services are designed to withstand.",
+    "pubDate": "Wed, 16 Sep 2026 16:40:11 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
   },
   {
     "title": "Gray sacked by Hibs after six league games",
@@ -70,6 +382,14 @@
     "pubDate": "Wed, 16 Sep 2026 16:13:55 +0000",
     "source": "Hacker News",
     "category": "tech"
+  },
+  {
+    "title": "EU rolls out red carpet to Canada to become its first 'associate member'",
+    "link": "https://www.npr.org/2026/09/16/nx-s1-5971043/eu-canada-carney-tariffs-trump",
+    "summary": "The European Union's top official backs the Canadian prime minister's push for his country to become the bloc's first \"associate member,\" as Brussels seeks to deepen ties amid pressure from the U.S.",
+    "pubDate": "Wed, 16 Sep 2026 16:08:27 -0400",
+    "source": "NPR",
+    "category": "general"
   },
   {
     "title": "Why an escalating Saudi oil crisis could drive up prices everywhere",
@@ -216,6 +536,14 @@
     "category": "tech"
   },
   {
+    "title": "The DeepMind Institute",
+    "link": "https://institute.deepmind.com/",
+    "summary": "Article URL: https://institute.deepmind.com/ Comments URL: https://news.ycombinator.com/item?id=49727659 Points: 102 # Comments: 33",
+    "pubDate": "Wed, 16 Sep 2026 14:32:11 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "Amazon gives its workers a raise of $1 per hour",
     "link": "https://techcrunch.com/2026/09/16/amazon-gives-its-workers-a-raise-of-1-per-hour/",
     "summary": "Amazon's investment in these raises comes out to over $1.5 billion, or about 0.06% of its $2.68 trillion market cap.",
@@ -229,6 +557,22 @@
     "summary": "Article URL: https://agentlien.github.io/texture/ Comments URL: https://news.ycombinator.com/item?id=49727592 Points: 23 # Comments: 4",
     "pubDate": "Wed, 16 Sep 2026 14:28:28 +0000",
     "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "A warning about 'model welfare'",
+    "link": "https://mustafa-suleyman.ai/a-warning-about-model-welfare",
+    "summary": "Article URL: https://mustafa-suleyman.ai/a-warning-about-model-welfare Comments URL: https://news.ycombinator.com/item?id=49727580 Points: 161 # Comments: 408",
+    "pubDate": "Wed, 16 Sep 2026 14:27:47 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Style Guide for Online Hypertext (1992)",
+    "link": "https://www.w3.org/Provider/Style/",
+    "summary": "Comments",
+    "pubDate": "Wed, 16 Sep 2026 14:26:10 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -296,6 +640,14 @@
     "category": "tech"
   },
   {
+    "title": "Congress is under pressure to act on AI — here's what that could look like",
+    "link": "https://www.npr.org/2026/09/16/nx-s1-5969933/congress-ai-regulation",
+    "summary": "Lawmakers are expressing broader willingness to regulate AI development, but the path forward may not be a quick one.",
+    "pubDate": "Wed, 16 Sep 2026 13:32:44 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "SK Hynix reportedly in talks with Intel to build memory chips in US",
     "link": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
     "summary": "SK Hynix told TechCrunch the company hasn't finalized any plans or arrangements yet.",
@@ -310,6 +662,22 @@
     "pubDate": "Wed, 16 Sep 2026 13:22:16 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "DOJ charges Russian agents with plotting attacks, including in US",
+    "link": "https://www.npr.org/2026/09/16/g-s1-143590/us-justice-department-russian-operatives-attacks",
+    "summary": "The indictment says the defendants belong to a network that \"is one arm of the Russian Federation's apparatus used to carry out external attacks\" worldwide.",
+    "pubDate": "Wed, 16 Sep 2026 13:19:49 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Introducing GNOME 51",
+    "link": "https://release.gnome.org/51/",
+    "summary": "Comments",
+    "pubDate": "Wed, 16 Sep 2026 13:05:43 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "A tumultuous congressional primary season closes with record departures and defeats",
@@ -360,6 +728,14 @@
     "category": "general"
   },
   {
+    "title": "Unicode 18.0.0",
+    "link": "https://www.unicode.org/versions/Unicode18.0.0/",
+    "summary": "Comments",
+    "pubDate": "Wed, 16 Sep 2026 12:38:31 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "EU chief backs plan for Canada to become 'associate member'",
     "link": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
     "summary": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.",
@@ -373,6 +749,14 @@
     "summary": "Article URL: https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model Comments URL: https://news.ycombinator.com/item?id=49725800 Points: 106 # Comments: 35",
     "pubDate": "Wed, 16 Sep 2026 12:19:55 +0000",
     "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "OSRS Wiki and RuneLite are increasingly under strain from low-effort AI development",
+    "link": "https://oldschool.runescape.wiki/w/User:Cook_Me_Plox/OSRS_Wiki_and_RuneLite_are_increasingly_under_strain_from_low-effort_AI_development",
+    "summary": "Comments",
+    "pubDate": "Wed, 16 Sep 2026 12:18:03 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -912,6 +1296,14 @@
     "category": "tech"
   },
   {
+    "title": "Watch: BBC crew catch thieves in act while filming shoplifting report",
+    "link": "https://www.bbc.co.uk/news/videos/cmq5xyq78gp1o?at_medium=RSS&at_campaign=rss",
+    "summary": "BBC crew catch thieves in act while filming shoplifting report.",
+    "pubDate": "Wed, 16 Sep 2026 06:13:05 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "Senators question Trump's picks for top health positions, including surgeon general",
     "link": "https://www.npr.org/2026/09/16/nx-s1-5968780/trump-rfk-jr-health-nomination-surgeon-general",
     "summary": "On Wednesday, the Senate committee on health holds a confirmation hearing for three top health officials, including surgeon general. Dr. Nicole Saphier is President Trump's third attempt to nominate a surgeon general.",
@@ -1312,6 +1704,14 @@
     "category": "tech"
   },
   {
+    "title": "AWS says it can't restore some data from mideast facilities struck by Iran",
+    "link": "https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d",
+    "summary": "https://archive.is/Ay7RJ Comments URL: https://news.ycombinator.com/item?id=49719249 Points: 56 # Comments: 17",
+    "pubDate": "Tue, 15 Sep 2026 21:41:42 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "Scientists reversed biological age in older adults in just 4 weeks",
     "link": "https://www.sciencedaily.com/releases/2026/09/260915100000.htm",
     "summary": "Older adults who changed the balance of fat, carbohydrates, and animal protein in their diets showed signs of reduced biological age after just four weeks. The strongest result appeared in participants eating an omnivorous, lower-fat, higher-carbohydrate diet.",
@@ -1350,6 +1750,14 @@
     "pubDate": "Tue, 15 Sep 2026 19:25:48 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "The Siberian Ice Maiden and the Scythian World",
+    "link": "https://patrickwyman.substack.com/p/the-siberian-ice-maiden-and-the-scythian",
+    "summary": "Article URL: https://patrickwyman.substack.com/p/the-siberian-ice-maiden-and-the-scythian Comments URL: https://news.ycombinator.com/item?id=49717298 Points: 39 # Comments: 1",
+    "pubDate": "Tue, 15 Sep 2026 19:09:09 +0000",
+    "source": "Hacker News",
+    "category": "tech"
   },
   {
     "title": "Learning to solve hard problems in RL for LLMs by never giving up",
@@ -1416,12 +1824,60 @@
     "category": "tech"
   },
   {
+    "title": "How big are factorials?",
+    "link": "https://eli.thegreenplace.net/2026/how-big-are-factorials/",
+    "summary": "Article URL: https://eli.thegreenplace.net/2026/how-big-are-factorials/ Comments URL: https://news.ycombinator.com/item?id=49712185 Points: 71 # Comments: 30",
+    "pubDate": "Tue, 15 Sep 2026 13:25:38 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "An undercover reporter investigates what some on the far right in the UK really look like",
     "link": "https://www.bbc.co.uk/sounds/play/p0p8l8sf?at_medium=RSS&at_campaign=rss",
     "summary": "An undercover reporter investigates what some on the far right in the UK really look like",
     "pubDate": "Tue, 08 Sep 2026 15:44:00 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+    "link": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
+    "summary": "Christopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among filmgoers. But a new retelling of the story made entirely with AI is so bad that it might just make viewers hate the original tale altogether. The new film, c...",
+    "pubDate": "2026-09-16T16:59:13-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "The AI data center e-waste problem is huge — and getting bigger",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+    "summary": "E-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fill 23 million shipping containers - roughly enough 40-foot containers to circle the world six times if lined up in a row. It's a significantly higher estimate of AI's e-waste th...",
+    "pubDate": "2026-09-16T16:40:46-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Resident Evil is a comedy first and a thrilling nightmare second",
+    "link": "https://www.theverge.com/entertainment/996416/resident-zach-cregger-review",
+    "summary": "When Paul W.S. Anderson's Resident Evil hit theaters in 2002, video game movies were largely seen as a niche. Films like Mortal Kombat and Tomb Raider had proven that big-screen game adaptations could be successful, but the commercial and critical failure of projects like the 1993 Super Mario Bro...",
+    "pubDate": "2026-09-16T14:45:35-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Walmart takes a bite off the cost of Metroid Ravenous physical preorders",
+    "link": "https://www.theverge.com/gadgets/996379/metroid-ravenous-preorder-deal-sale",
+    "summary": "The Metroid series is going back to its 2D roots again with Metroid Ravenous for the Nintendo Switch 2, the first side-scrolling game in the series since 2021’s Metroid Dread for the Nintendo Switch. If you’re already excited enough to consider preordering, you can save $10 on the physical versio...",
+    "pubDate": "2026-09-16T14:20:38-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Apple might make servers again to cash in on the AI rush",
+    "link": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
+    "summary": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has largely left enterprise machines to other manufacturers since. But the growing demand for compute power as the AI in...",
+    "pubDate": "2026-09-16T13:20:29-04:00",
+    "source": "The Verge",
+    "category": "tech"
   },
   {
     "title": "Your ‘health age’ is fake",
@@ -1494,6 +1950,14 @@
     "pubDate": "2026-09-16T04:54:46-04:00",
     "source": "The Verge",
     "category": "tech"
+  },
+  {
+    "title": "Why most  stars don’t have outbursts like our Sun’s",
+    "link": "https://www.nature.com/articles/d41586-026-02833-6",
+    "summary": "Nature, Published online: 16 September 2026; doi:10.1038/d41586-026-02833-6 A strong magnetic field can disrupt a star’s ability to produce the fountains of matter called coronal mass ejections.",
+    "pubDate": "2026-09-16",
+    "source": "Nature",
+    "category": "science"
   },
   {
     "title": "Inflection points and transitions in Alzheimer’s disease",

@@ -1,5 +1,13 @@
 [
   {
+    "title": "Scientists find a hidden health advantage in black and green rice",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260916232523.htm",
+    "summary": "Scientists found that black and green Japanese rice contain unusual, potentially beneficial fats and may be digested more slowly than ordinary white rice. The combination could make these colorful varieties promising ingredients for foods designed to support blood sugar and metabolic health.",
+    "pubDate": "Wed, 16 Sep 2026 23:52:12 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "New hope for breast cancer patients as life-extending drug now on NHS in England",
     "link": "https://www.bbc.co.uk/news/articles/c60qx4v825glo?at_medium=RSS&at_campaign=rss",
     "summary": "Enhertu, which can give patients an extra seven months to live on average, has been prescribed in Scotland for more than two years and is available.",
@@ -86,6 +94,14 @@
     "pubDate": "Wed, 16 Sep 2026 23:06:39 +0000",
     "source": "Hacker News",
     "category": "tech"
+  },
+  {
+    "title": "Hidden “immune organ” in the skull may help fight brain cancer",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260915232134.htm",
+    "summary": "Scientists discovered a hidden “immune organ” inside the skull that acts as a rapid first responder against brain cancer in mice. Strengthening this local immune defense improved tumor rejection and survival, raising the possibility of new treatments that target the skull directly.",
+    "pubDate": "Wed, 16 Sep 2026 22:43:01 EDT",
+    "source": "Science Daily",
+    "category": "science"
   },
   {
     "title": "US automakers could soon be forced to include AM radio for free",
@@ -200,6 +216,14 @@
     "category": "general"
   },
   {
+    "title": "Why .tar.gz files can't be combined with cat",
+    "link": "https://alexwlchan.net/2026/cat-confusion/",
+    "summary": "Comments",
+    "pubDate": "Wed, 16 Sep 2026 17:55:11 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Committee investigating Epstein holds billionaire Leon Black in contempt of Congress",
     "link": "https://www.npr.org/2026/09/16/nx-s1-5954258/leon-black-jeffrey-epstein-contempt-congress",
     "summary": "Billionaire investor Leon Black refused to appear before the committee investigating convicted sex offender Jeffrey Epstein for a deposition. Now it's up to the Department of Justice whether to pursue criminal charges.",
@@ -232,12 +256,196 @@
     "category": "tech"
   },
   {
+    "title": "Lucasart's Afterlife",
+    "link": "https://togameforlife.wordpress.com/2023/12/09/on-lucasarts-afterlife/",
+    "summary": "Article URL: https://togameforlife.wordpress.com/2023/12/09/on-lucasarts-afterlife/ Comments URL: https://news.ycombinator.com/item?id=49719751 Points: 38 # Comments: 18",
+    "pubDate": "Tue, 15 Sep 2026 22:30:30 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The engineering behind the US Strategic Petroleum Reserve",
+    "link": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
+    "summary": "Article URL: https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve Comments URL: https://news.ycombinator.com/item?id=49719596 Points: 219 # Comments: 88",
+    "pubDate": "Tue, 15 Sep 2026 22:15:25 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "城市漫步指南｜威海初秋，看海玩沙",
+    "link": "https://sspai.com/post/114557",
+    "summary": "9 月刚开渔，避开暑假，正是玩沙吃海鲜的好时节。而威海，胶东半岛尖端上的海滨小城，有历史厚重的一面，也有现代休闲的一面。多留几天给它，会有很丰富的度假体验。 查看全文",
+    "pubDate": "Thu, 17 Sep 2026 17:47:28 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "具透 | macOS 27 正式版来了，这些是你值得了解新细节",
+    "link": "https://sspai.com/post/114643",
+    "summary": "除了只支持 Apple Silicon，macOS 27 Golden Gate 还有这些变化。 查看全文",
+    "pubDate": "Thu, 17 Sep 2026 15:00:00 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "Family claims dead man was not 'Putney pusher'",
+    "link": "https://www.bbc.co.uk/news/articles/ckg59nq6y990o?at_medium=RSS&at_campaign=rss",
+    "summary": "The family of Nicholas Brandram have insisted he was not the so-called \"Putney pusher\".",
+    "pubDate": "Thu, 17 Sep 2026 11:57:21 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "一个小创意的诞生：BeatBox 雪漫天外壳定制指南",
     "link": "https://sspai.com/post/114451",
     "summary": "今年早些时候，在少数派 × 飞傲联名 CD 机盖板设计大赛中，不少朋友都参与设计了自己的 CD 机盖板，但如何才能把它们制作出来呢？ 查看全文",
     "pubDate": "Thu, 17 Sep 2026 11:11:01 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "River home to 500 crocodiles chosen as Olympic rowing venue",
+    "link": "https://www.bbc.co.uk/sport/olympics/articles/cqvgy1m9z4k8o?at_medium=RSS&at_campaign=rss",
+    "summary": "A river that is home to about 500 saltwater crocodiles is given the OK to host Olympic and Paralympic rowing and canoeing events at the 2032 Brisbane Games.",
+    "pubDate": "Thu, 17 Sep 2026 11:05:29 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Iran school bombing: grounds to believe US was behind atrocity, UN finds",
+    "link": "https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack",
+    "summary": "Article URL: https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack Comments URL: https://news.ycombinator.com/item?id=49739018 Points: 39 # Comments: 2",
+    "pubDate": "Thu, 17 Sep 2026 11:00:35 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Comp AI sets eyes on a continuously agentic future for security and compliance",
+    "link": "https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/",
+    "summary": "Comp AI, a cybersecurity and compliance startup, announced a $34 million Series A round led by Roo Capital and Grand Ventures.",
+    "pubDate": "Thu, 17 Sep 2026 11:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Soundboks Rider Party Speaker Review: Loud and Durable",
+    "link": "https://www.wired.com/review/soundboks-rider/",
+    "summary": "I’m genuinely afraid to go full-volume on the Soundboks Rider, which is built like a party-ready tank.",
+    "pubDate": "Thu, 17 Sep 2026 11:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "People Are Pissed Off and Ready to Own Their Shit",
+    "link": "https://www.wired.com/story/people-are-pissed-off-and-ready-to-own-their-shit/",
+    "summary": "A grassroots live tour by YouTuber Louis Rossmann highlights growing resistance to companies that keep people from controlling their devices.",
+    "pubDate": "Thu, 17 Sep 2026 11:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Ninth woman's body found as South African police investigate string of deaths",
+    "link": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
+    "summary": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid.",
+    "pubDate": "Thu, 17 Sep 2026 10:40:31 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "I sent 200 LinkedIn messages and got a job: How to nail networking",
+    "link": "https://www.bbc.co.uk/news/articles/c9vgyd02mdvno?at_medium=RSS&at_campaign=rss",
+    "summary": "From coffee chats to LinkedIn messages, here's how to network your way to your next job.",
+    "pubDate": "Thu, 17 Sep 2026 10:37:43 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Better Vector Search for Long Documents: Chunking Inside Manticore Search",
+    "link": "https://manticoresearch.com/blog/auto-chunking/",
+    "summary": "Article URL: https://manticoresearch.com/blog/auto-chunking/ Comments URL: https://news.ycombinator.com/item?id=49738766 Points: 17 # Comments: 0",
+    "pubDate": "Thu, 17 Sep 2026 10:30:52 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "‘Fast & Furious’ Takes a Victory Lap With a Ferociously Fun Roller Coaster",
+    "link": "https://www.wired.com/story/fast-and-furious-roller-coaster/",
+    "summary": "Vin Diesel, the star of the series, didn’t make a planned appearance at the grand opening of its dynamite new theme park ride. But it didn’t stop his fans from having a good time.",
+    "pubDate": "Thu, 17 Sep 2026 10:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Six-time Grand Slam doubles champion Joe Salisbury retires",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/c617j8qdk2v8o?at_medium=RSS&at_campaign=rss",
+    "summary": "Former world number one doubles player and six-time Grand Slam doubles champion Joe Salisbury retires from professional tennis.",
+    "pubDate": "Thu, 17 Sep 2026 10:29:52 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The EU Wants to Break Up Kids and Their Chatbots",
+    "link": "https://www.wired.com/story/the-eu-wants-to-break-up-kids-and-their-chatbots/",
+    "summary": "ChatGPT, Character.ai, and Snapchat’s My AI will all be in the crosshairs as the AI Kids Act aims to strip minor-facing chatbots of all the things that make people love them.",
+    "pubDate": "Thu, 17 Sep 2026 10:06:50 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "EU announces plan to restrict social media access for under-15s",
+    "link": "https://www.bbc.co.uk/news/articles/c3j4jz8vpz1xo?at_medium=RSS&at_campaign=rss",
+    "summary": "Under the plans, only children over 15 would be able to set up their own social media accounts.",
+    "pubDate": "Thu, 17 Sep 2026 10:00:14 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Hundreds of Election Deniers Will Be on the Ballot This November",
+    "link": "https://www.wired.com/story/hundreds-of-election-deniers-will-be-on-the-ballot-this-november/",
+    "summary": "197 election deniers are running for Congress or statewide office in 43 states. Many of them are seeking roles that would put them in charge of voting for the 2028 presidential election.",
+    "pubDate": "Thu, 17 Sep 2026 10:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Traumatised Smith says he was 'thrown to wolves' over 'sandpapergate'",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/c6e9e4nzd597o?at_medium=RSS&at_campaign=rss",
+    "summary": "Australia batter Steve Smith says he is still traumatised by the aftermath of the ball-tampering scandal in 2018 and still gets flashbacks.",
+    "pubDate": "Thu, 17 Sep 2026 09:31:54 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The Trump Administration Sends a New Signal to Alien Disclosure Whistleblowers",
+    "link": "https://www.wired.com/story/trump-defense-department-sends-alien-disclosure-signal/",
+    "summary": "The Defense Department issued a legal waiver authorizing current and former personnel to share unidentified anomalous phenomena–related classified information, but it doesn’t extend to other agencies.",
+    "pubDate": "Thu, 17 Sep 2026 09:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Flock Once Touted Its Cameras as ‘Made in the USA.’ Now It’s Not So Clear",
+    "link": "https://www.wired.com/story/flock-once-touted-its-cameras-as-made-in-the-usa-now-its-not-so-clear/",
+    "summary": "Flock reveals little about where its license plate readers are assembled, but the answer could have geopolitical and cybersecurity implications.",
+    "pubDate": "Thu, 17 Sep 2026 09:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "How an Aston Villa fringe player became Europe's most prolific scorer",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cvj64wg0lgeyo?at_medium=RSS&at_campaign=rss",
+    "summary": "No player in Europe's top five leagues has scored more goals than Donyell Malen since his Roma debut in January - BBC Sport examines his transformation.",
+    "pubDate": "Thu, 17 Sep 2026 08:30:23 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "GLM Built Its Own Inference Infrastructure",
+    "link": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+    "summary": "Article URL: https://z.ai/blog/glm-built-its-inference-infrastructure Comments URL: https://news.ycombinator.com/item?id=49737922 Points: 107 # Comments: 76",
+    "pubDate": "Thu, 17 Sep 2026 08:27:09 +0000",
+    "source": "Hacker News",
+    "category": "tech"
   },
   {
     "title": "派早报：佳能发布 EOS R8 Mark II、GPT-5.5 即将下线等",
@@ -248,10 +456,90 @@
     "category": "tech-cn"
   },
   {
+    "title": "One Year of Sponsored Servo Development",
+    "link": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
+    "summary": "Article URL: https://servo.org/blog/2026/09/15/one-year-of-sponsorship/ Comments URL: https://news.ycombinator.com/item?id=49737849 Points: 136 # Comments: 55",
+    "pubDate": "Thu, 17 Sep 2026 08:13:54 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "'Everybody was as one': Rector reflects on search effort for Noah Woods",
+    "link": "https://www.bbc.co.uk/news/articles/cqzrz03pvd43o?at_medium=RSS&at_campaign=rss",
+    "summary": "The Reverend Chris Willis says the public reaction has been a \"thread of positivity\" in the sadness.",
+    "pubDate": "Thu, 17 Sep 2026 08:13:34 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Real Madrid keen on Man Utd forward Gabriel, 15",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c3x2zryzpw27o?at_medium=RSS&at_campaign=rss",
+    "summary": "Real Madrid have a strong interest in signing 15-year-old Manchester United forward JJ Gabriel.",
+    "pubDate": "Thu, 17 Sep 2026 07:52:32 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "OpenAI Model Misalignment Report",
+    "link": "https://openai.com/index/model-misalignment-reporting-framework/",
+    "summary": "Article URL: https://openai.com/index/model-misalignment-reporting-framework/ Comments URL: https://news.ycombinator.com/item?id=49737503 Points: 72 # Comments: 44",
+    "pubDate": "Thu, 17 Sep 2026 07:21:19 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The Fed raises interest rates. And, EU proposes Canada become an 'associate member'",
+    "link": "https://www.npr.org/2026/09/17/g-s1-143783/up-first-newsletter-federal-reserve-interest-rates-gas-prices-war-canada-european-union",
+    "summary": "The Federal Reserve has raised interest rates for the first time in years. And, the European Union has proposed that Canada become its first-ever \"associate member.\"",
+    "pubDate": "Thu, 17 Sep 2026 06:54:18 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Pressure on global chokepoints drives Asia's increased use of Arctic Trade Routes",
+    "link": "https://www.npr.org/2026/09/17/g-s1-143712/pressure-on-global-chokepoints-drives-asias-increased-use-of-arctic-trade-routes",
+    "summary": "Asian nations began pilot voyages over a decade ago to find routes to Europe and the Middle East that were faster and less vulnerable to chokepoints. The ongoing war has added impetus to those efforts.",
+    "pubDate": "Thu, 17 Sep 2026 06:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "'My mother apologised': A survivor's journey after genital mutilation",
+    "link": "https://www.bbc.co.uk/news/articles/cq770k5rrg7po?at_medium=RSS&at_campaign=rss",
+    "summary": "Sara Kahsai was 29 when she found out she had FGM as a baby.",
+    "pubDate": "Thu, 17 Sep 2026 05:33:18 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "A team that offered hope... then, four months later, Hamas attacked Israel",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cp3rl709p7xo?at_medium=RSS&at_campaign=rss",
+    "summary": "Can the potential of a golden generation of Israel's footballers, in sport and society, be realised?",
+    "pubDate": "Thu, 17 Sep 2026 05:23:59 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Boy abducted by mum has renewed 'sense of purpose'",
+    "link": "https://www.bbc.co.uk/news/articles/cm790rxl8wvpo?at_medium=RSS&at_campaign=rss",
+    "summary": "Alex Batty, who vanished aged 11 in 2017, says a new job has given him renewed purpose.",
+    "pubDate": "Thu, 17 Sep 2026 05:14:53 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "Mum's Facebook kidney plea prompts 'mind-blowing' gift from total stranger",
     "link": "https://www.bbc.co.uk/news/articles/ck4gl6v10029o?at_medium=RSS&at_campaign=rss",
     "summary": "A woman has undergone a lifesaving transplant after receiving a kidney from a stranger who saw her post on social media.",
     "pubDate": "Thu, 17 Sep 2026 05:06:33 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Balaclava boys on electric bikes: How to tackle the problem?",
+    "link": "https://www.bbc.co.uk/news/articles/cmdx0jzzpd89o?at_medium=RSS&at_campaign=rss",
+    "summary": "The sight of masked young men on electric bikes or motorcycles is becoming increasingly familiar - what can be done about it?",
+    "pubDate": "Thu, 17 Sep 2026 05:04:52 GMT",
     "source": "BBC News",
     "category": "general"
   },
@@ -269,6 +557,30 @@
     "summary": "The inquiry has been running for more than three and a half years but has yet to publish any findings.",
     "pubDate": "Thu, 17 Sep 2026 05:03:20 GMT",
     "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Why reshaping memories may hold the key to raising self-esteem",
+    "link": "https://www.npr.org/2026/09/17/nx-s1-5971141/boost-self-worth-self-esteem",
+    "summary": "In a new book, psychologist Marisa Franco explains why it's good to feel good about yourself — and shares a helpful memory technique that we've turned into a printable worksheet.",
+    "pubDate": "Thu, 17 Sep 2026 05:02:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "I expected better from Google",
+    "link": "https://www.minitap.ai/blog/i-expected-better-from-google",
+    "summary": "Comments",
+    "pubDate": "Thu, 17 Sep 2026 05:01:13 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "D.C. airspace is complicated. Experts say Trump's arch would add one more risk",
+    "link": "https://www.npr.org/2026/09/17/nx-s1-5950462/trump-arch-dca-planes-safety-concerns-faa",
+    "summary": "The Trump administration wants to build its 250-foot arch near one of the country's busiest runways. The FAA will determine whether that poses a hazard. But independent experts already have concerns.",
+    "pubDate": "Thu, 17 Sep 2026 05:01:00 -0400",
+    "source": "NPR",
     "category": "general"
   },
   {
@@ -296,11 +608,59 @@
     "category": "general"
   },
   {
+    "title": "People's houses are collapsing into the ocean. FEMA gives them no other option",
+    "link": "https://www.npr.org/2026/09/17/nx-s1-5844642/fema-homes-collapse-ocean-climate-north-carolina-maine",
+    "summary": "Waterfront homes are collapsing along the coast. Homeowners generally have plenty of warning before their house buckles. So why aren't most houses removed, or at least emptied, before they fall?",
+    "pubDate": "Thu, 17 Sep 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Pediatricians raise the alarm on the effect of Trump's immigration crackdown on kids",
+    "link": "https://www.npr.org/2026/09/17/nx-s1-5953989/immigration-crackdown-children-medical-care",
+    "summary": "The Trump administration has been pursuing a quiet immigration crackdown strategy: limiting access to health care and public services. The American Academy of Pediatrics is sounding the alarm about the impact on children.",
+    "pubDate": "Thu, 17 Sep 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "A Sikh truck driver is stabbed amid a rise in anti-South Asian rhetoric",
+    "link": "https://www.npr.org/2026/09/17/nx-s1-5971866/truck-driver-attack-wyoming-sikh-south-asian",
+    "summary": "The driver said he was shaken by a violent encounter at a rest stop, which he described as unprovoked.",
+    "pubDate": "Thu, 17 Sep 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Big questions - and key logistical details - loom ahead of China-U.S. summit",
+    "link": "https://www.npr.org/2026/09/17/nx-s1-5971293/trump-xi-summit-china",
+    "summary": "Despite the lingering questions, China remains optimistic about the summit.",
+    "pubDate": "Thu, 17 Sep 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
     "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
     "summary": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
     "pubDate": "Thu, 17 Sep 2026 05:00:00 +0000",
     "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Morning news brief",
+    "link": "https://www.npr.org/2026/09/17/nx-s1-5966387/morning-news-brief",
+    "summary": "The Fed raises interest rates for the first time in three years, protests over rising gas prices are being held around the world, Canada's prime minister speaks to European Parliament.",
+    "pubDate": "Thu, 17 Sep 2026 04:45:53 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Cloudflare/Security-Audit-Skill",
+    "link": "https://github.com/cloudflare/security-audit-skill",
+    "summary": "Article URL: https://github.com/cloudflare/security-audit-skill Comments URL: https://news.ycombinator.com/item?id=49736466 Points: 88 # Comments: 16",
+    "pubDate": "Thu, 17 Sep 2026 04:36:55 +0000",
+    "source": "Hacker News",
     "category": "tech"
   },
   {
@@ -352,6 +712,14 @@
     "category": "tech"
   },
   {
+    "title": "OpenAI flags new concerning AI behavior, to track model misalignment regularly",
+    "link": "https://www.npr.org/2026/09/17/g-s1-143774/openai-concerning-ai-behavior",
+    "summary": "OpenAI has disclosed six reports on unexpected or concerning behavior in artificial-intelligence models. This includes models acting without authorization or evading oversight.",
+    "pubDate": "Thu, 17 Sep 2026 02:44:49 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "UK prosecutors file for extradition of the Tate brothers from the US",
     "link": "https://www.bbc.co.uk/news/articles/c6d79z7ez7r4o?at_medium=RSS&at_campaign=rss",
     "summary": "The brothers are facing a total of 59 charges in the UK, including rape. Both men deny any wrongdoing.",
@@ -381,6 +749,22 @@
     "summary": "Article URL: https://www.bbc.com/news/articles/c60m3k28j81mo Comments URL: https://news.ycombinator.com/item?id=49735367 Points: 16 # Comments: 12",
     "pubDate": "Thu, 17 Sep 2026 01:33:10 +0000",
     "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "New mesothelioma drug turns cancer’s own defenses against it",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260915232136.htm",
+    "summary": "Scientists are testing a counterintuitive way to fight mesothelioma, an aggressive asbestos-linked cancer with few effective treatments. A new experimental mesothelioma drug kills cancer cells by disabling PRX3, an antioxidant defense that tumors use to survive intense oxidative stress. In an ear...",
+    "pubDate": "Thu, 17 Sep 2026 01:11:51 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "XApp — Apps that work everywhere",
+    "link": "https://xapp-project.org/",
+    "summary": "Comments",
+    "pubDate": "Thu, 17 Sep 2026 01:00:53 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -424,12 +808,36 @@
     "category": "general"
   },
   {
+    "title": "NASA’s New Horizons spots signs of liquid nitrogen flowing on Pluto",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260916232525.htm",
+    "summary": "Scientists have found the first evidence that liquid may have flowed across Pluto’s surface in the recent past. Dark features on the enormous Sputnik Planitia glacier appear consistent with liquid nitrogen rising through cracks from deep beneath the ice. Computer models show that nitrogen could m...",
+    "pubDate": "Thu, 17 Sep 2026 00:02:29 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "At least seven months of relentless rain needed to end drought, research shows",
     "link": "https://www.bbc.co.uk/weather/articles/cqvgy1lejp7ro?at_medium=RSS&at_campaign=rss",
     "summary": "Almost 75% of England remains in drought following an exceptionally dry spring and summer.",
     "pubDate": "Thu, 17 Sep 2026 00:01:29 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Anne Hathaway and Jessica Chastain star in a psychological thriller",
+    "link": "https://www.bbc.co.uk/iplayer/episode/m00304nj?at_mid=j1DqZnRRaM&at_campaign=Mothers_Instinct&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m00304nj&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Film&at_bbc_team=BBC&at_creation=Mothers_Instinct",
+    "summary": "It's the only thing you can trust. A friendship forged in motherhood is broken by a loss",
+    "pubDate": "Fri, 14 Aug 2026 23:41:38 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "OpenAI maths bombshell sparks debate about who gets credit in age of AI",
+    "link": "https://www.nature.com/articles/d41586-026-02910-w",
+    "summary": "Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02910-w Controversy around OpenAI’s claim to have solved the Navier–Stokes problem highlights how researchers could be inadvertently sharing — and absorbing— ideas through chatbots.",
+    "pubDate": "2026-09-17",
+    "source": "Nature",
+    "category": "science"
   },
   {
     "title": "The streamers are fighting over Halloween",

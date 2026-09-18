@@ -312,12 +312,276 @@
     "category": "tech"
   },
   {
+    "title": "A weight off Igor Thiago's shoulders - Brentford v Chelsea ratings",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cm046x9l6d6po?at_medium=RSS&at_campaign=rss",
+    "summary": "Brentford climb to third in the Premier League with a 2-0 victory over Chelsea - here are BBC Sport's player ratings.",
+    "pubDate": "Fri, 18 Sep 2026 20:57:06 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Senior Engineers Are the Next DRAM Shortage",
+    "link": "https://blog.herlein.com/post/build-another-engineer/",
+    "summary": "Article URL: https://blog.herlein.com/post/build-another-engineer/ Comments URL: https://news.ycombinator.com/item?id=49759970 Points: 13 # Comments: 2",
+    "pubDate": "Fri, 18 Sep 2026 20:40:25 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Automattic names interim CFO after exec departures",
+    "link": "https://techcrunch.com/2026/09/18/automattic-names-interim-cfo-after-exec-departures/",
+    "summary": "Jeremy Klaperman, the CFO of the company's WordPress VIP Enterprise business unit, will act as CFO for the time being.",
+    "pubDate": "Fri, 18 Sep 2026 20:25:22 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
+    "link": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/",
+    "summary": "Angle Health has grown to 5,000 customers and become profitable, by helping small businesses get \"level-funded\" health insurance.",
+    "pubDate": "Fri, 18 Sep 2026 20:24:33 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "World model companies are keeping a lot of secrets",
+    "link": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+    "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+    "pubDate": "Fri, 18 Sep 2026 20:18:14 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Korea raises data breach fines to 10% of revenue",
+    "link": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
+    "summary": "Article URL: https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899 Comments URL: https://news.ycombinator.com/item?id=49759466 Points: 138 # Comments: 34",
+    "pubDate": "Fri, 18 Sep 2026 20:02:54 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Apple Watch Ultra 4 Review: The Series 12 Is Closing the Gap",
+    "link": "https://www.wired.com/review/apple-watch-ultra-4/",
+    "summary": "The Ultra 4 gets smarter about health tracking and lasts longer between charges. But for most people, the Series 12 gets close enough.",
+    "pubDate": "Fri, 18 Sep 2026 19:36:48 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Here’s How an AI Slowdown Could Actually Be Enforced",
+    "link": "https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/",
+    "summary": "Even if big AI companies agree to a pause, ensuring that nobody tries to sneak ahead could prove tricky.",
+    "pubDate": "Fri, 18 Sep 2026 19:21:09 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
+    "link": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
+    "summary": "FAA plans for AI tool to help manage DC air traffic before a nationwide rollout.",
+    "pubDate": "Fri, 18 Sep 2026 19:20:50 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "McIlroy in mix heading into weekend at Wentworth",
+    "link": "https://www.bbc.co.uk/sport/golf/articles/c94gm0gg6mm7o?at_medium=RSS&at_campaign=rss",
+    "summary": "Rory McIlroy stays in contention with a five-under 67 to sit four strokes behind second-round leader Ryan Gerard at the BMW PGA Championship at Wentworth.",
+    "pubDate": "Fri, 18 Sep 2026 19:05:25 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+    "link": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+    "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117282080803799576 Comments URL: https://news.ycombinator.com/item?id=49758736 Points: 226 # Comments: 103",
+    "pubDate": "Fri, 18 Sep 2026 19:03:09 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The Implications of Linguistic Illegibility for LLM Security",
+    "link": "https://arxiv.org/abs/2609.02852",
+    "summary": "Article URL: https://arxiv.org/abs/2609.02852 Comments URL: https://news.ycombinator.com/item?id=49758689 Points: 26 # Comments: 11",
+    "pubDate": "Fri, 18 Sep 2026 19:00:06 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Is the Kennedy Center losing 'hundreds of millions of dollars'?",
+    "link": "https://www.bbc.co.uk/news/videos/cqy4zw4xr717o?at_medium=RSS&at_campaign=rss",
+    "summary": "Records in 2024 show the venue had a surplus of millions of dollars once contributions and grants had been factored in.",
+    "pubDate": "Fri, 18 Sep 2026 18:56:17 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Cache-to-Cache: Direct Semantic Communication Between Large Language Models",
+    "link": "https://arxiv.org/abs/2510.03215",
+    "summary": "Article URL: https://arxiv.org/abs/2510.03215 Comments URL: https://news.ycombinator.com/item?id=49758615 Points: 39 # Comments: 8",
+    "pubDate": "Fri, 18 Sep 2026 18:55:35 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Saving another 100TB of RAM",
+    "link": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+    "summary": "Article URL: https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/ Comments URL: https://news.ycombinator.com/item?id=49758580 Points: 81 # Comments: 15",
+    "pubDate": "Fri, 18 Sep 2026 18:51:46 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+    "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+    "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
+    "pubDate": "Fri, 18 Sep 2026 18:49:30 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Xcode 27.1 Beta Release Notes",
+    "link": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
+    "summary": "Article URL: https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes Comments URL: https://news.ycombinator.com/item?id=49758419 Points: 73 # Comments: 38",
+    "pubDate": "Fri, 18 Sep 2026 18:39:31 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Border agents can search cellphones without a warrant or reasonable suspicion",
+    "link": "https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/",
+    "summary": "Article URL: https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/ Comments URL: https://news.ycombinator.com/item?id=49758028 Points: 121 # Comments: 76",
+    "pubDate": "Fri, 18 Sep 2026 18:08:32 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+    "link": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+    "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
+    "pubDate": "Fri, 18 Sep 2026 17:59:53 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
     "title": "本周看什么 | 最近值得一看的 9 部作品",
     "link": "https://sspai.com/post/114716",
     "summary": "📅本周新预告《哆啦A梦大雄的蒸汽时间车》首支特报9月15日，动画电影《哆啦A梦大雄的蒸汽时间车》发布了特报影像，定档2027年3月5日在日本上映。本作为《哆啦A梦》电影系列第46部作品，森山瑠潮执导， ... 查看全文",
     "pubDate": "Fri, 18 Sep 2026 17:58:55 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar",
+    "link": "https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/",
+    "summary": "FCC rejects concerns about repressive governments buying influence over CBS owner.",
+    "pubDate": "Fri, 18 Sep 2026 17:57:41 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
+    "link": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
+    "summary": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross.",
+    "pubDate": "Fri, 18 Sep 2026 17:57:30 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Finding the cells that put our brain to sleep",
+    "link": "https://arstechnica.com/science/2026/09/finding-the-cells-that-put-our-brain-to-sleep/",
+    "summary": "Rare cells with widespread connectivity seem to be able to trigger sleep.",
+    "pubDate": "Fri, 18 Sep 2026 17:49:50 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "In India, the new iPhone can arrive faster than a pizza",
+    "link": "https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza/",
+    "summary": "Availability of Apple's iPhone 18 Pro series turned patchy within hours of its debut on India's quick-commerce apps.",
+    "pubDate": "Fri, 18 Sep 2026 17:45:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
+    "link": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+    "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
+    "pubDate": "Fri, 18 Sep 2026 17:33:50 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Watch: Voting under way in Russian election tightly controlled by Kremlin",
+    "link": "https://www.bbc.co.uk/news/videos/cw23xzjjn7p2o?at_medium=RSS&at_campaign=rss",
+    "summary": "Russia's parliamentary elections are under way, the first since the full-scale invasion of Ukraine in 2022.",
+    "pubDate": "Fri, 18 Sep 2026 17:33:01 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "US government website used Chinese model the FBI called \"malicious\"",
+    "link": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
+    "summary": "The Federal Register website briefly used an open source Chinese AI search tool.",
+    "pubDate": "Fri, 18 Sep 2026 17:28:50 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "US Military had close call after using AI for hallucinated intelligence report",
+    "link": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+    "summary": "Article URL: https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship Comments URL: https://news.ycombinator.com/item?id=49757520 Points: 287 # Comments: 231",
+    "pubDate": "Fri, 18 Sep 2026 17:28:01 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Joby Aviation’s 3,100-mile autonomous flight signals its push beyond electric air taxis",
+    "link": "https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis/",
+    "summary": "An aircraft equipped with Joby Aviation's autonomy technology flew across the United States without a human pilot taking control at any point.",
+    "pubDate": "Fri, 18 Sep 2026 17:26:41 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
+    "link": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
+    "summary": "Since taking control in 1965, Buffett grew a struggling textile mill into a global conglomerate.",
+    "pubDate": "Fri, 18 Sep 2026 17:15:02 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
+    "link": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o?at_medium=RSS&at_campaign=rss",
+    "summary": "O'Leary described his choice of language as \"careless\" and said \"it won't happen again\".",
+    "pubDate": "Fri, 18 Sep 2026 17:10:58 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
+    "link": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
+    "summary": "A week after an Anthropic researcher&#8217;s doomsday warning rattled the AI world, the company&#8217;s CEO Dario Amodei has&#160;outlined his plan to “pace the frontier”&#160;of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic cou...",
+    "pubDate": "Fri, 18 Sep 2026 17:09:56 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+    "link": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
+    "summary": "Article URL: https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/ Comments URL: https://news.ycombinator.com/item?id=49757050 Points: 116 # Comments: 36",
+    "pubDate": "Fri, 18 Sep 2026 16:54:18 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Men lose appeal for harassing BBC journalist over A Very British Cult documentary",
+    "link": "https://www.bbc.co.uk/news/articles/cv1j4k34ze07o?at_medium=RSS&at_campaign=rss",
+    "summary": "Kristofer Deichler, Jatinder Kamra and Sukhraj Singh were given community service and restraining orders for their harassment of Catrin Nye.",
+    "pubDate": "Fri, 18 Sep 2026 16:53:23 GMT",
+    "source": "BBC News",
+    "category": "general"
   },
   {
     "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
@@ -333,6 +597,14 @@
     "summary": "Uefa and Concacaf issue a joint statement calling on Fifa to pay $10m from its cash reserves to each of the 211 member associations.",
     "pubDate": "Fri, 18 Sep 2026 16:26:56 GMT",
     "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Trump says he is banning CNN, MS NOW and Politico from the White House",
+    "link": "https://www.npr.org/2026/09/18/g-s1-144112/trump-ban-cnn-msnow-politico-white-house-media",
+    "summary": "The president chalked the ban up to what he called unfavorable coverage, and he threatened that bans on other media companies could be coming.",
+    "pubDate": "Fri, 18 Sep 2026 16:15:53 -0400",
+    "source": "NPR",
     "category": "general"
   },
   {
@@ -408,6 +680,14 @@
     "category": "tech"
   },
   {
+    "title": "Vale, code-like linting for prose",
+    "link": "https://vale.sh",
+    "summary": "Comments",
+    "pubDate": "Fri, 18 Sep 2026 15:38:52 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
     "link": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
     "summary": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
@@ -456,12 +736,44 @@
     "category": "tech"
   },
   {
+    "title": "Why an American football game played the Canadian national anthem",
+    "link": "https://www.bbc.co.uk/news/articles/cj5ydk2y0gg2o?at_medium=RSS&at_campaign=rss",
+    "summary": "The field in Buffalo was decked out with the flags of both countries, as tensions simmer and a trade war escalates.",
+    "pubDate": "Fri, 18 Sep 2026 15:14:40 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "Russian hybrid attacks against Europe intensifying, says Macron",
     "link": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
     "summary": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
     "pubDate": "Fri, 18 Sep 2026 15:14:35 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "When Trump and Xi meet they will discuss AI. 'Track Two' talks are already buzzing",
+    "link": "https://www.npr.org/2026/09/18/nx-s1-5971481/trump-xi-meeting-ai-track-two-talks",
+    "summary": "An informal network of dialogues at think tanks and universities is bringing together experts from the U.S. and China to talk about the shared perils of AI — and possible paths forward.",
+    "pubDate": "Fri, 18 Sep 2026 15:14:15 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Syrian regime planned American journalist's kidnapping for weeks",
+    "link": "https://www.npr.org/2026/09/18/nx-s1-5974166/assad-austin-tice-kidnapping-bbc-embedded",
+    "summary": "New reporting finds the abduction of journalist Austin Tice was planned by the Syrian government for weeks.",
+    "pubDate": "Fri, 18 Sep 2026 15:13:52 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Our brain evolved from two primitive nervous systems that merged: Study",
+    "link": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
+    "summary": "https://archive.is/1CFX9 https://med.stanford.edu/news/all-news/2026/09/two-separate-... Comments URL: https://news.ycombinator.com/item?id=49755533 Points: 66 # Comments: 40",
+    "pubDate": "Fri, 18 Sep 2026 15:12:07 +0000",
+    "source": "Hacker News",
+    "category": "tech"
   },
   {
     "title": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
@@ -536,6 +848,14 @@
     "category": "general"
   },
   {
+    "title": "The Bikeshed email — PHKs Bikeshed",
+    "link": "https://phk.freebsd.dk/sagas/bikeshed/",
+    "summary": "Comments",
+    "pubDate": "Fri, 18 Sep 2026 14:46:10 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "North Korean nuclear test sets off years of earthquakes",
     "link": "https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes",
     "summary": "https://archive.is/xjmvA Comments URL: https://news.ycombinator.com/item?id=49755160 Points: 51 # Comments: 39",
@@ -548,6 +868,22 @@
     "link": "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/",
     "summary": "Article URL: https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/ Comments URL: https://news.ycombinator.com/item?id=49755095 Points: 15 # Comments: 0",
     "pubDate": "Fri, 18 Sep 2026 14:41:02 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "sudo and OpenDoas timestamp files (2020)",
+    "link": "https://π.duncano.de/sudo-doas-timestamp-files",
+    "summary": "Comments",
+    "pubDate": "Fri, 18 Sep 2026 14:36:19 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "I vibed a proof of Conway's conjecture",
+    "link": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
+    "summary": "https://github.com/gaearon/conway-refinement#why-i-think-its... Comments URL: https://news.ycombinator.com/item?id=49755024 Points: 178 # Comments: 167",
+    "pubDate": "Fri, 18 Sep 2026 14:36:10 +0000",
     "source": "Hacker News",
     "category": "tech"
   },
@@ -632,6 +968,14 @@
     "category": "tech"
   },
   {
+    "title": "Researchers achieve fastest and most complex DNA computer to date",
+    "link": "https://interestingengineering.com/science/first-of-its-kind-dna-computer-solves-complex-math-without-wires-or-continuous-power",
+    "summary": "Comments",
+    "pubDate": "Fri, 18 Sep 2026 13:44:21 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Researchers used Claude to hack OpenAI",
     "link": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
     "summary": "Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data.",
@@ -693,6 +1037,14 @@
     "summary": "Cristiano Ronaldo is named in the first squad selected by new Portugal coach Jorge Jesus for their upcoming Nations League games.",
     "pubDate": "Fri, 18 Sep 2026 12:45:25 GMT",
     "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "What expensive sulfur means for your dinner table",
+    "link": "https://www.npr.org/sections/planet-money/2026/09/18/nx-s1-5974103/what-expensive-sulfur-means-for-your-dinner-table",
+    "summary": "Oil supplies are falling, sulfur prices are threatening food costs, and we measure Lego against Hollywood",
+    "pubDate": "Fri, 18 Sep 2026 12:40:58 -0400",
+    "source": "NPR",
     "category": "general"
   },
   {
@@ -758,6 +1110,14 @@
     "pubDate": "Fri, 18 Sep 2026 11:30:00 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "awesome-tunneling: List of tunneling software and services",
+    "link": "https://github.com/anderspitman/awesome-tunneling",
+    "summary": "Comments",
+    "pubDate": "Fri, 18 Sep 2026 11:25:19 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "让 Agent 读懂你的身体：数据获取篇",
@@ -856,6 +1216,14 @@
     "category": "tech"
   },
   {
+    "title": "Benchmarking Wild vs Mold",
+    "link": "https://davidlattimore.github.io/posts/2026/09/18/benchmarking-wild-vs-mold.html",
+    "summary": "Comments",
+    "pubDate": "Fri, 18 Sep 2026 10:25:08 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Council staff refused anonymity for Sara Sharif inquest",
     "link": "https://www.bbc.co.uk/news/articles/c6z0zg53vp4lo?at_medium=RSS&at_campaign=rss",
     "summary": "A coroner rejects an application for three workers after the media, including the BBC, opposed it.",
@@ -950,6 +1318,14 @@
     "pubDate": "Fri, 18 Sep 2026 09:14:29 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Internet Phone Book",
+    "link": "https://internetphonebook.net/",
+    "summary": "Comments",
+    "pubDate": "Fri, 18 Sep 2026 09:04:44 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Best Open Earbuds (2026): Shokz, Bose, Soundcore, and More",
@@ -1078,6 +1454,14 @@
     "pubDate": "Fri, 18 Sep 2026 06:18:54 EDT",
     "source": "Science Daily",
     "category": "science"
+  },
+  {
+    "title": "Inside ZCode: Silently uploading your Git history to the cloud",
+    "link": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
+    "summary": "Article URL: https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/ Comments URL: https://news.ycombinator.com/item?id=49750694 Points: 218 # Comments: 84",
+    "pubDate": "Fri, 18 Sep 2026 06:11:17 +0000",
+    "source": "Hacker News",
+    "category": "tech"
   },
   {
     "title": "How the race they said women couldn't run took centre stage",
@@ -1264,6 +1648,14 @@
     "category": "tech"
   },
   {
+    "title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
+    "link": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157",
+    "summary": "Article URL: https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157 Comments URL: https://news.ycombinator.com/item?id=49749724 Points: 52 # Comments: 8",
+    "pubDate": "Fri, 18 Sep 2026 02:56:48 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "Hacking OpenAI",
     "link": "https://www.hacktron.ai/blog/hacking-openai",
     "summary": "Article URL: https://www.hacktron.ai/blog/hacking-openai Comments URL: https://news.ycombinator.com/item?id=49749656 Points: 119 # Comments: 33",
@@ -1368,6 +1760,46 @@
     "category": "tech"
   },
   {
+    "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+    "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, characterized its scraping of data to train its models as the \"largest theft of labo...",
+    "pubDate": "2026-09-18T17:07:24-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Virginia governor creates an AI task force and moves to restrain data centers",
+    "link": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
+    "summary": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the world. Executive Order 22 bans executive branc...",
+    "pubDate": "2026-09-18T14:29:17-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Disney’s first CTO is Character.AI’s former CEO",
+    "link": "https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai",
+    "summary": "You would think that a multimedia conglomerate as large as Disney would have a few chief technology officers by now, but the company has just appointed someone to the position for the very first time. Today, Disney announced that Karandeep Anand is joining the company as its new CTO. Anand will r...",
+    "pubDate": "2026-09-18T14:27:04-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "The real story of the iPhone 18 Pro&#8217;s camera",
+    "link": "https://www.theverge.com/podcast/997366/the-real-story-of-the-iphone-18-pros-camera",
+    "summary": "It's one of the most fascinating years in a while when it comes to iPhone camera upgrades. The big story of the iPhone 18 Pro is the variable aperture main lens, which lets you open the aperture up wider for better low light shots and make the aperture smaller for better depth of field in [&#8230;]",
+    "pubDate": "2026-09-18T13:06:37-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Gavin Newsom is pushing for an AI kill switch",
+    "link": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
+    "summary": "California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill switch\" for frontier models, with a new executive order issued Friday. Newsom's order directs the state to convene a group of experts that will deliver recommenda...",
+    "pubDate": "2026-09-18T13:04:51-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
     "title": "What Hollywood thinks about existential AI warnings",
     "link": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
     "summary": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening. The Verge reached out to Disney, Netflix, Amazon, Lionsgate, and other studios who have started using AI, as well film startups ...",
@@ -1414,6 +1846,30 @@
     "pubDate": "2026-09-18T07:00:00-04:00",
     "source": "The Verge",
     "category": "tech"
+  },
+  {
+    "title": "Briefing Chat: Evidence mounts for hidden chambers beyond Tutankhamun's tomb",
+    "link": "https://www.nature.com/articles/d41586-026-02984-6",
+    "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02984-6 Nature staff discuss data that could point to Nefertiti’s burial place — plus, the implant that translates brain activity into speech and gestures.",
+    "pubDate": "2026-09-18",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "How to make a brain: new experiments challenge existing picture",
+    "link": "https://www.nature.com/articles/d41586-026-02943-1",
+    "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02943-1 Research also uncovers an efficient way to grow hindbrain cells from stem cells — a difficult feat.",
+    "pubDate": "2026-09-18",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "AI cracked the Navier–Stokes challenge. What does that mean for physics?",
+    "link": "https://www.nature.com/articles/d41586-026-02922-6",
+    "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02922-6 Physicists and mathematicians are going beyond the classic equations of fluid dynamics to understand turbulence — often with the help of AI.",
+    "pubDate": "2026-09-18",
+    "source": "Nature",
+    "category": "science"
   },
   {
     "title": "Europe pushes for space independence amid geopolitical rifts",

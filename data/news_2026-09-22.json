@@ -1,5 +1,109 @@
 [
   {
+    "title": "可定制、更出彩，头戴式耳机新选择：Beats 360 首发体验",
+    "link": "https://sspai.com/post/114878",
+    "summary": "在BeatsStudioPro发布3年之后，Beats终于想起来要更新一下自家头戴式耳机的旗舰款了，推出了全新的Beats360。值得一提的是，Beats不久前刚刚度过了成立后的20周年生日，Beat ... 查看全文",
+    "pubDate": "Tue, 22 Sep 2026 22:00:00 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "Mum and three children die in Bootle house fire",
+    "link": "https://www.bbc.co.uk/news/articles/c6wyzkge3w9no?at_medium=RSS&at_campaign=rss",
+    "summary": "Another person was taken to hospital following the \"intense fire which spread very rapidly\".",
+    "pubDate": "Tue, 22 Sep 2026 17:02:59 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Cyclist who dressed as man to avoid Taliban wins silver medal",
+    "link": "https://www.bbc.co.uk/sport/cycling/articles/c63eqyvdndwdo?at_medium=RSS&at_campaign=rss",
+    "summary": "Afghan cyclist Fariba Hashimi wins silver in the women's road race at the Asian Games, having fled oppression in her home country to pursue a sporting dream.",
+    "pubDate": "Tue, 22 Sep 2026 16:57:55 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Plot targeting Manchester's Jewish community disrupted, say police",
+    "link": "https://www.bbc.co.uk/news/articles/cq07ly8xzvn4o?at_medium=RSS&at_campaign=rss",
+    "summary": "Two men were arrested in Manchester on Sunday, say counter-terror police.",
+    "pubDate": "Tue, 22 Sep 2026 16:52:09 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Davey promises tax cuts for millions if UK rejoins EU single market",
+    "link": "https://www.bbc.co.uk/news/articles/cj62e1wrpx73o?at_medium=RSS&at_campaign=rss",
+    "summary": "The Lib Dem leader vows to raise tax thresholds if he becomes PM, in a speech to his party conference.",
+    "pubDate": "Tue, 22 Sep 2026 16:50:29 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Aging may be a program, not a breakdown",
+    "link": "https://www.quantamagazine.org/why-aging-may-be-a-program-not-a-breakdown-20260814/",
+    "summary": "Article URL: https://www.quantamagazine.org/why-aging-may-be-a-program-not-a-breakdown-20260814/ Comments URL: https://news.ycombinator.com/item?id=49804266 Points: 16 # Comments: 3",
+    "pubDate": "Tue, 22 Sep 2026 16:48:33 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "'Looksmaxxing' influencer Clavicular charged with rape in Massachusetts",
+    "link": "https://www.bbc.co.uk/news/articles/c914dyx88233o?at_medium=RSS&at_campaign=rss",
+    "summary": "Authorities allege Braden Peters drugged a woman before assaulting her in May. He denies the charges.",
+    "pubDate": "Tue, 22 Sep 2026 16:45:14 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "A WordPress vulnerability scored 9.2/10 is present in all versions since 2016",
+    "link": "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
+    "summary": "Article URL: https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp Comments URL: https://news.ycombinator.com/item?id=49803959 Points: 17 # Comments: 2",
+    "pubDate": "Tue, 22 Sep 2026 16:33:45 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+    "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+    "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
+    "pubDate": "Tue, 22 Sep 2026 16:30:07 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Claude Opus 5.5",
+    "link": "https://www.anthropic.com/claude-opus-5-5",
+    "summary": "Article URL: https://www.anthropic.com/claude-opus-5-5 Comments URL: https://news.ycombinator.com/item?id=49803892 Points: 115 # Comments: 218",
+    "pubDate": "Tue, 22 Sep 2026 16:29:05 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
+    "link": "https://ai-rete-rag.com/",
+    "summary": "Hi HN, I built ai·rete·rag because I kept seeing teams put an LLM in charge of decisions that need to be auditable (lending, fraud, clinical triage), then bolt on \"guardrails\" after the fact. It runs the two in series instead: 1. A pure-Python Rete engine evaluates YAML rules against your facts. ...",
+    "pubDate": "Tue, 22 Sep 2026 16:15:06 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Earl Spencer apologises to Piers Morgan over factual error in Diana book",
+    "link": "https://www.bbc.co.uk/news/articles/cr93e2nz0281o?at_medium=RSS&at_campaign=rss",
+    "summary": "The BBC understands the book's publisher, Penguin, will be amending the inaccuracy in future editions of the book.",
+    "pubDate": "Tue, 22 Sep 2026 16:13:17 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "16-bit Intel 8088 chip",
+    "link": "https://allpoetry.com/16-bit-Intel-8088-chip",
+    "summary": "Article URL: https://allpoetry.com/16-bit-Intel-8088-chip Comments URL: https://news.ycombinator.com/item?id=49803635 Points: 38 # Comments: 3",
+    "pubDate": "Tue, 22 Sep 2026 16:11:34 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "怀旧手记｜25 年前的笔记本，如何兼顾轻薄、时尚与性能？",
     "link": "https://sspai.com/post/114551",
     "summary": "黄金时代「时尚与科技结合」的浪漫。 查看全文",
@@ -8,12 +112,356 @@
     "category": "tech-cn"
   },
   {
+    "title": "Xbox continues its “reset” with dramatic restructuring",
+    "link": "https://arstechnica.com/gaming/2026/09/shuffling-the-deck-chairs-xbox-continues-its-reset-with-dramatic-restructuring/",
+    "summary": "Article URL: https://arstechnica.com/gaming/2026/09/shuffling-the-deck-chairs-xbox-continues-its-reset-with-dramatic-restructuring/ Comments URL: https://news.ycombinator.com/item?id=49803626 Points: 28 # Comments: 13",
+    "pubDate": "Tue, 22 Sep 2026 16:10:58 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Ella Langley's Choosin' Texas becomes longest-running number one in US chart history",
+    "link": "https://www.bbc.co.uk/news/articles/cwyvz0yvqre8o?at_medium=RSS&at_campaign=rss",
+    "summary": "The country smash racks up it 23rd week in the US charts, breaking a record set by Mariah Carey.",
+    "pubDate": "Tue, 22 Sep 2026 16:02:18 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Rabbit Is Back, This Time With an AI Agent App",
+    "link": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/",
+    "summary": "Two years after trying to sidestep mobile apps with dedicated AI hardware, Rabbit is launching OS3, a cross-platform agent that lives on the screens you already use.",
+    "pubDate": "Tue, 22 Sep 2026 16:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "I was close to joining Liverpool in 2016 - Mbappe",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c68042y9l4kno?at_medium=RSS&at_campaign=rss",
+    "summary": "Kylian Mbappe says his mum was a \"big fan\" of Jurgen Klopp and wanted her son to move to Merseyside.",
+    "pubDate": "Tue, 22 Sep 2026 15:58:22 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Stolen passwords are exposing America’s water providers to hackers",
+    "link": "https://techcrunch.com/2026/09/22/stolen-passwords-are-exposing-americas-water-providers-to-hackers/",
+    "summary": "Researchers say another looming threat hangs over some of America's most important critical infrastructure.",
+    "pubDate": "Tue, 22 Sep 2026 15:50:58 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Writing Rust code that's fast by asking agents to make the code faster",
+    "link": "https://minimaxir.com/2026/09/agentic-iteration/",
+    "summary": "Article URL: https://minimaxir.com/2026/09/agentic-iteration/ Comments URL: https://news.ycombinator.com/item?id=49803085 Points: 35 # Comments: 14",
+    "pubDate": "Tue, 22 Sep 2026 15:38:24 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "I asked Meta’s Muse for its filesystem and it sent me 6.8GB",
+    "link": "https://mouse.dev/blog/muse-runtime-export/",
+    "summary": "Article URL: https://mouse.dev/blog/muse-runtime-export/ Comments URL: https://news.ycombinator.com/item?id=49802871 Points: 174 # Comments: 85",
+    "pubDate": "Tue, 22 Sep 2026 15:25:12 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Show HN: InstinctFlash – Run 5B world-action models in real time on Jetson Thor",
+    "link": "https://github.com/General-Instinct/InstinctFlash",
+    "summary": "Hey HN, Guanming here, cofounder of General Instinct. We just released InstinctFlash, a high-performance serving framework for robotics models. It’s licensed under AGPL-3.0. On Jetson Thor, we see speedups about 1.2x to 7.9x from runtime optimizations alone and up to 33.78x for LingBot-VA when we...",
+    "pubDate": "Tue, 22 Sep 2026 15:20:06 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Autopsy shows Hayden Panettiere died from a drug overdose",
+    "link": "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo?at_medium=RSS&at_campaign=rss",
+    "summary": "The death of the child star - who had fentanyl, Xanax, a muscle relaxant and antipsychotic medication in her system - was ruled an accident.",
+    "pubDate": "Tue, 22 Sep 2026 15:17:37 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Juvenile murder sentence rule doesn't breach human rights, says Supreme Court",
+    "link": "https://www.bbc.co.uk/news/articles/c8kg75dnxq5xo?at_medium=RSS&at_campaign=rss",
+    "summary": "The top court rejects an appeal for a minimum term review from a man who was sentenced after turning 18.",
+    "pubDate": "Tue, 22 Sep 2026 15:14:49 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Vacate a drone restriction that criminalized recording immigration agents",
+    "link": "https://www.eff.org/deeplinks/2026/09/dc-circuit-must-vacate-drone-flight-restriction-criminalized-recording-immigration",
+    "summary": "Article URL: https://www.eff.org/deeplinks/2026/09/dc-circuit-must-vacate-drone-flight-restriction-criminalized-recording-immigration Comments URL: https://news.ycombinator.com/item?id=49802581 Points: 44 # Comments: 8",
+    "pubDate": "Tue, 22 Sep 2026 15:07:03 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Noble Carbon will show how it’s making EV charger installs painless at TechCrunch Disrupt",
+    "link": "https://techcrunch.com/2026/09/22/noble-carbon-will-show-how-its-making-ev-charger-installs-painless-at-techcrunch-disrupt/",
+    "summary": "Noble Carbon has developed a smart circuit breaker that allows households to electrify without the pain of a main panel upgrade.",
+    "pubDate": "Tue, 22 Sep 2026 15:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+    "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+    "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to save up to $200.",
+    "pubDate": "Tue, 22 Sep 2026 15:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "AstroForge is putting AI in command of its next spacecraft",
+    "link": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+    "summary": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
+    "pubDate": "Tue, 22 Sep 2026 15:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "GB out of BJK Cup as Kartal & Boulter beaten by Czechs",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/cmkg75dyz154o?at_medium=RSS&at_campaign=rss",
+    "summary": "Sonay Kartal and Katie Boulter lose their singles matches as Great Britain are beaten by a strong Czech Republic side in the Billie Jean King Cup quarter-finals.",
+    "pubDate": "Tue, 22 Sep 2026 14:56:17 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Call of Duty's Activision to make next Halo game as Xbox cuts more jobs",
+    "link": "https://www.bbc.co.uk/news/articles/cvj64gz74ky4o?at_medium=RSS&at_campaign=rss",
+    "summary": "The news comes as part of a \"reset\" announced by Xbox in July, with 3,600 planned job losses overall.",
+    "pubDate": "Tue, 22 Sep 2026 14:51:39 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "OpenAI is well positioned to fast-follow Jev",
+    "link": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
+    "summary": "Article URL: https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/ Comments URL: https://news.ycombinator.com/item?id=49802161 Points: 132 # Comments: 99",
+    "pubDate": "Tue, 22 Sep 2026 14:42:59 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Protests for Germany’s car industry as job losses loom",
+    "link": "https://arstechnica.com/cars/2026/09/protests-for-germanys-car-industry-as-job-losses-loom/",
+    "summary": "A combination of Chinese competition and US tariffs is causing problems in Germany.",
+    "pubDate": "Tue, 22 Sep 2026 14:40:47 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
     "title": "App+1 | Coast：用十年经验，给记账这件事一个「终点」",
     "link": "https://sspai.com/post/114479",
     "summary": "从大学时代入不敷出开始记账，到 10 年后发现记账数据没有被充分利用，再到用 Vibe Coding 把自己的想法做成了一款 App——10 年的记账经验变成了产品设计的基础，而 Vibe Coding 让一个非技术出身的人有能力把这些想法实现出来。 查看全文",
     "pubDate": "Tue, 22 Sep 2026 14:39:39 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
+    "link": "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy",
+    "summary": "Article URL: https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy Comments URL: https://news.ycombinator.com/item?id=49801939 Points: 326 # Comments: 238",
+    "pubDate": "Tue, 22 Sep 2026 14:30:12 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
+    "link": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
+    "summary": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off.",
+    "pubDate": "Tue, 22 Sep 2026 14:30:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Tim Westwood charged with two more sexual offences",
+    "link": "https://www.bbc.co.uk/news/articles/ckx2zv0rx0nqo?at_medium=RSS&at_campaign=rss",
+    "summary": "The alleged sexual offences date back to 1991 and 2004.",
+    "pubDate": "Tue, 22 Sep 2026 14:29:31 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Trump’s sneaky plan to gut Endangered Species Act draws from 1995 Scalia dissent",
+    "link": "https://arstechnica.com/tech-policy/2026/09/trumps-sneaky-plan-to-gut-endangered-species-act-draws-from-1995-scalia-dissent/",
+    "summary": "Trump adopts Scalia’s ire for feds protecting populations of endangered animals.",
+    "pubDate": "Tue, 22 Sep 2026 14:29:15 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Who will start for England at Euro 2028? BBC Sport's predictions",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cm3v41epe3l9o?at_medium=RSS&at_campaign=rss",
+    "summary": "As England prepare to face world champions Spain on Saturday, BBC Sport's experts predict who will be starting for the Three Lions at Euro 2028.",
+    "pubDate": "Tue, 22 Sep 2026 14:25:43 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
+    "summary": "We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup in front of 10,000+ founders, investors, and tech leaders at SF's Moscone West from October 13-15.",
+    "pubDate": "Tue, 22 Sep 2026 14:15:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "TikTok’s US arm joins Lantern, a cross-platform child safety initiative",
+    "link": "https://techcrunch.com/2026/09/22/tiktoks-us-arm-joins-lantern-a-cross-platform-child-safety-initiative/",
+    "summary": "Eight months after establishing a U.S.-based joint venture, TikTok is getting on board fellow platforms to support industrywide child safety work.",
+    "pubDate": "Tue, 22 Sep 2026 14:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/",
+    "summary": "Save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second pass before prices increase on September 25 at 11:59 p.m. PT. Register today.",
+    "pubDate": "Tue, 22 Sep 2026 14:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Pollock left money on table to stay at Saints - Hearn",
+    "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ckn8eq99jnevo?at_medium=RSS&at_campaign=rss",
+    "summary": "Henry Pollock turned down rival offers worth much more than his Northampton extension, which will earn him over £400,000 a year, says adviser Eddie Hearn.",
+    "pubDate": "Tue, 22 Sep 2026 13:54:18 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Show HN: Drop – A rootless Linux sandbox with gVisor support",
+    "link": "https://droprun.sh/",
+    "summary": "I created Drop because I always felt uneasy installing and running third-party programs using my main user account. A single compromised dependency means a full compromise of the system. What is even worse, because I ship software from my computer, a single compromised dependency can lead to comp...",
+    "pubDate": "Tue, 22 Sep 2026 13:52:47 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+    "link": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+    "summary": "Article URL: https://www.cryptocellar.org/bgac/the-mvueh-break.html Comments URL: https://news.ycombinator.com/item?id=49801324 Points: 313 # Comments: 270",
+    "pubDate": "Tue, 22 Sep 2026 13:52:15 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The Economics of Open-Weight Inference",
+    "link": "https://data.ornn.com/publications/the-economics-of-open-weight-inference",
+    "summary": "Article URL: https://data.ornn.com/publications/the-economics-of-open-weight-inference Comments URL: https://news.ycombinator.com/item?id=49801218 Points: 16 # Comments: 6",
+    "pubDate": "Tue, 22 Sep 2026 13:45:32 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Dyson’s most overengineered gadget may have a waterproofing problem",
+    "link": "https://arstechnica.com/gadgets/2026/09/its-500-toothbrush-disappeared-from-stores-dyson-wont-fully-explain-why/",
+    "summary": "Dyson admits a component issue but won't say what's failing in its $500 toothbrush.",
+    "pubDate": "Tue, 22 Sep 2026 13:33:16 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Singapore’s Nexstrom wants to bring 2D semiconductors to chip fabs",
+    "link": "https://techcrunch.com/2026/09/22/singapores-nexstrom-wants-to-bring-2d-semiconductors-to-chip-fabs/",
+    "summary": "Singapore-based Nexstrom has raised new funding to develop equipment that could help chipmakers manufacture 2D semiconductor materials at scale.",
+    "pubDate": "Tue, 22 Sep 2026 13:20:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Bill Gates’ Breakthrough Energy bets these 21 startups will shape energy’s future",
+    "link": "https://techcrunch.com/2026/09/22/bill-gates-breakthrough-energy-bets-these-21-startups-will-shape-energys-future/",
+    "summary": "To the investors at Bill Gates' Breakthrough Energy, the coming wave of electrification will make data center energy demands look quaint by comparison. Here's how they're preparing.",
+    "pubDate": "Tue, 22 Sep 2026 13:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Everyone can find a reason to dislike data center construction",
+    "link": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
+    "summary": "Inside two years of fraught AI data center debates in Pennsylvania.",
+    "pubDate": "Tue, 22 Sep 2026 13:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Viture’s Vonder Glasses Are Meant to Map Your Mind",
+    "link": "https://www.wired.com/story/viture-vonder-glasses-are-meant-to-map-your-mind/",
+    "summary": "No cameras? No problem. Viture’s first display-free smart glasses have bone-conduction microphones to privately record your daily musings.",
+    "pubDate": "Tue, 22 Sep 2026 13:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Adobe Premiere, One of the iPhone’s Best Video-Editing Apps, Is Now on Android",
+    "link": "https://www.wired.com/story/adobe-premiere-now-on-android/",
+    "summary": "The Android version of Premiere has unique layouts on candy bar phones and foldable devices. It’s free to use and available today.",
+    "pubDate": "Tue, 22 Sep 2026 13:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "AI Models Built From Rat Brains Just Got Closer to Reality",
+    "link": "https://www.wired.com/story/ai-models-built-from-rat-brains-are-about-to-become-a-reality/",
+    "summary": "The Biological Computing Company is bringing its AI tools to Amazon Web Services in a major boost for a once-fringe field that aims to marry nature with code.",
+    "pubDate": "Tue, 22 Sep 2026 13:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Developing El Niño becomes strongest on record weeks before expected peak",
+    "link": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss",
+    "summary": "Scientists say the developing El Niño is now the strongest on record with weather impacts already being felt around the world.",
+    "pubDate": "Tue, 22 Sep 2026 12:54:14 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Inside a 'modern slavery situation' where cyber scammers are victims themselves",
+    "link": "https://www.npr.org/2026/09/22/nx-s1-5977731/inside-a-modern-slavery-situation-where-cyber-scammers-are-victims-themselves",
+    "summary": "Wired 's Andy Greenberg explains how a cybercrime operation in Southeast Asia trapped computer engineers into defrauding victims of billions of dollars. Plus, he discusses the scam involving Fresh Air.",
+    "pubDate": "Tue, 22 Sep 2026 12:29:37 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "What is the White House pool and why is it in a row with Trump?",
+    "link": "https://www.bbc.co.uk/news/articles/c8dx5dy5rzz2o?at_medium=RSS&at_campaign=rss",
+    "summary": "The White House press pool is at the centre of a major row between President Donald Trump and TV networks. What is it?",
+    "pubDate": "Tue, 22 Sep 2026 12:26:31 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
+    "link": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
+    "summary": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue.",
+    "pubDate": "Tue, 22 Sep 2026 12:23:05 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "This 'fire amoeba' pushes the limit of what's possible for complex life",
+    "link": "https://www.npr.org/2026/09/22/nx-s1-5977044/fire-amoeba-extremophile-eukaryote-life",
+    "summary": "Scientists have found a species they've named the fire amoeba, which is capable of reproducing at 145°F and continuing to move up to temperatures of 147°F — a record for complex eukaryotic life.",
+    "pubDate": "Tue, 22 Sep 2026 12:17:37 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Shifting the Trap",
+    "link": "https://jxself.org/shifting-the-trap.shtml",
+    "summary": "Comments",
+    "pubDate": "Tue, 22 Sep 2026 11:50:50 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Mikel Arteta agrees new deal with champions Arsenal",
@@ -93,6 +541,14 @@
     "summary": "Article URL: https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/ Comments URL: https://news.ycombinator.com/item?id=49799287 Points: 28 # Comments: 15",
     "pubDate": "Tue, 22 Sep 2026 11:00:58 +0000",
     "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "NASA chief: I'm only interested in \"good deals\" from international partners",
+    "link": "https://arstechnica.com/space/2026/09/nasa-chief-im-only-interested-in-good-deals-from-international-partners/",
+    "summary": "\"There was absolutely a time where we were trying to make everyone happy.\"",
+    "pubDate": "Tue, 22 Sep 2026 11:00:37 +0000",
+    "source": "Ars Technica",
     "category": "tech"
   },
   {
@@ -176,12 +632,36 @@
     "category": "tech"
   },
   {
+    "title": "Coffee doesn’t have to keep you awake to disrupt your sleep",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260922005719.htm",
+    "summary": "Caffeine may make sleep less restorative even when you fall asleep normally and stay in bed for eight hours, with EEG recordings revealing fewer of the slow brain waves associated with deep sleep. Individual sensitivity varies dramatically, meaning even caffeine consumed earlier in the day could ...",
+    "pubDate": "Tue, 22 Sep 2026 09:42:49 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "Verda (Finland) raises $189M in Series B",
     "link": "https://verda.com/blog/what-189m-in-funding-unlocks-for-verda-customers",
     "summary": "Article URL: https://verda.com/blog/what-189m-in-funding-unlocks-for-verda-customers Comments URL: https://news.ycombinator.com/item?id=49798597 Points: 20 # Comments: 7",
     "pubDate": "Tue, 22 Sep 2026 09:36:31 +0000",
     "source": "Hacker News",
     "category": "tech"
+  },
+  {
+    "title": "This emerging treatment could help people avoid knee replacement surgery",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260922052030.htm",
+    "summary": "A minimally invasive procedure called genicular artery embolization could offer a new middle ground between conservative treatments and knee replacement for osteoarthritis. By blocking tiny blood vessels associated with inflammation, GAE can significantly reduce pain, with some patients reporting...",
+    "pubDate": "Tue, 22 Sep 2026 09:31:54 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Sri Lanka court convicts 15 over deadly 2019 Easter bombings",
+    "link": "https://www.npr.org/2026/09/22/g-s1-144514/sri-lanka-court-convicts-15-over-deadly-2019-easter-bombings",
+    "summary": "The Islamic State group-inspired attacks were among the deadliest in Sri Lanka's history, killing 42 foreigners.",
+    "pubDate": "Tue, 22 Sep 2026 09:30:01 -0400",
+    "source": "NPR",
+    "category": "general"
   },
   {
     "title": "A New Chatbot Wants to Unlock the Secrets in Tattered Ancient Greek Records",
@@ -200,6 +680,30 @@
     "category": "general"
   },
   {
+    "title": "For the first time, scientists watch sound jump between quantum states",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260921081054.htm",
+    "summary": "Stanford researchers have recorded the first real-time quantum jumps of sound, watching single phonons abruptly vanish from one energy state to another. The breakthrough could open new paths for quantum computing, error correction, highly sensitive biological sensors, and next-generation sound-ba...",
+    "pubDate": "Tue, 22 Sep 2026 09:17:20 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "EvilVM: Forth shellcode",
+    "link": "https://web.archive.org/web/20250418124519/http://evilvm.ninja/",
+    "summary": "Comments",
+    "pubDate": "Tue, 22 Sep 2026 09:10:07 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Humpback whale mother may have mourned her dead calf for days",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260921081050.htm",
+    "summary": "Researchers observed a humpback whale mother staying beside her presumed stillborn calf for hours and possibly days off Australia’s Gold Coast. She maintained eye contact and remained close to the calf in behavior resembling caregiving and nurturing. Scientists say the rare observation may provid...",
+    "pubDate": "Tue, 22 Sep 2026 09:05:14 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "How to Use AI With Your Privacy Intact",
     "link": "https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact/",
     "summary": "Your conversations with AI chatbots are both highly personal and deeply vulnerable to surveillance. Here’s how you can protect yourself.",
@@ -214,6 +718,14 @@
     "pubDate": "Tue, 22 Sep 2026 08:58:21 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "MIT’s tiny flying robot gets 450% faster with AI",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260921081114.htm",
+    "summary": "A new AI control system lets MIT’s tiny flying robot move with insect-like agility, boosting its speed by about 450 percent and allowing it to pull off 10 somersaults in 11 seconds. The technology could eventually enable miniature robots to search earthquake rubble and navigate dangerous spaces t...",
+    "pubDate": "Tue, 22 Sep 2026 08:52:43 EDT",
+    "source": "Science Daily",
+    "category": "science"
   },
   {
     "title": "Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor",
@@ -264,6 +776,30 @@
     "category": "tech"
   },
   {
+    "title": "This new concrete is stronger and pulls CO2 from the air",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260921081105.htm",
+    "summary": "Researchers have created a concrete mixture that is both stronger and capable of absorbing carbon dioxide. The best formula, combining zeolite with bamboo biochar, boosted compressive strength by 7.48% and tensile strength by 15% compared with conventional concrete. It also captured about 1.2 gra...",
+    "pubDate": "Tue, 22 Sep 2026 07:46:55 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Reviving TEMPEST Attacks With An Injected Signal",
+    "link": "https://hackaday.com/2026/09/20/reviving-tempest-attacks-with-an-injected-signal/",
+    "summary": "Comments",
+    "pubDate": "Tue, 22 Sep 2026 07:25:27 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Fearless SIMD v1.0 is here",
+    "link": "https://linebender.org/blog/fearless-simd-1-0/",
+    "summary": "Comments",
+    "pubDate": "Tue, 22 Sep 2026 07:10:21 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "CNN, MS NOW and Politico sue Trump. And, Paramount settles in massive merger lawsuit",
     "link": "https://www.npr.org/2026/09/22/g-s1-144512/up-first-newsletter-press-lawsuit-cnn-msnow-politico-unga-trump-speech-paramount-deal",
     "summary": "CNN, MS NOW and Politico have sued Trump after the networks were suspended from the White House. And, Paramount makes concessions to resolve a lawsuit over its massive Warner Bros. Discovery merger.",
@@ -286,6 +822,14 @@
     "pubDate": "Tue, 22 Sep 2026 06:55:39 -0500",
     "source": "Lobsters",
     "category": "tech"
+  },
+  {
+    "title": "A strange circle on satellite maps turned out to be a 390-million-year-old impact crater",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260921081101.htm",
+    "summary": "An amateur astronomer searching satellite maps for a Quebec camping spot accidentally discovered a massive ancient impact crater. Scientists later found shatter cones that confirmed the 25-kilometer-wide structure was blasted into Earth roughly 390 million years ago.",
+    "pubDate": "Tue, 22 Sep 2026 06:43:31 EDT",
+    "source": "Science Daily",
+    "category": "science"
   },
   {
     "title": "Why is Monaco staging a sprint race? F1 Q&A",
@@ -400,6 +944,14 @@
     "category": "tech"
   },
   {
+    "title": "The end of humanity? What would happen if the Yellowstone supervolcano erupted now",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260922005655.htm",
+    "summary": "A Yellowstone super-eruption would begin not with a sudden surprise, but with weeks of increasingly alarming warning signs such as migrating earthquake swarms, rapid ground uplift, changing geysers, and rising volcanic gases. In a worst-case scenario, those signals could culminate in a VEI 8 erup...",
+    "pubDate": "Tue, 22 Sep 2026 04:32:08 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "Grand jury finds no evidence of criminal conduct in the death of Nolan Wells",
     "link": "https://www.npr.org/2026/09/22/nx-s1-5911804/nolan-wells-investigation-grand-jury",
     "summary": "A grand jury found Wells' cause of death \"consistent with drowning,\" and decided not to bring indictments. The teenager was found dead on Horn Island, after he boated there with friends to celebrate Independence Day.",
@@ -432,6 +984,14 @@
     "category": "general"
   },
   {
+    "title": "Raspberry Pi locks down Pi 5 RAM upgrades in firmware",
+    "link": "https://www.jeffgeerling.com/blog/2026/raspberry-pi-ram-lockdown/",
+    "summary": "Comments",
+    "pubDate": "Tue, 22 Sep 2026 03:20:19 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Watch: Six-year-old girl from China sets new Rubik's Cube world record",
     "link": "https://www.bbc.co.uk/news/videos/cmvgyzgnq9e3o?at_medium=RSS&at_campaign=rss",
     "summary": "Lian Yunzhi broke the women's world record twice in three days at World Cube Association competitions.",
@@ -454,6 +1014,14 @@
     "pubDate": "Tue, 22 Sep 2026 01:31:29 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "graphing my sleep schedule",
+    "link": "https://char.lt/blog/2026/09/non24swd/",
+    "summary": "Comments",
+    "pubDate": "Tue, 22 Sep 2026 01:30:42 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Claude Status – Elevated errors for multiple models",
@@ -712,6 +1280,86 @@
     "category": "science"
   },
   {
+    "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+    "summary": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbase, Google, Meta, NVIDIA, OpenAI, Palan...",
+    "pubDate": "2026-09-22T12:34:08-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+    "summary": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvements to certain risky behaviors, including attempts to escape the company's testing sandbox. It's...",
+    "pubDate": "2026-09-22T12:30:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Rivian’s R2 beat its own climate goals four years early",
+    "link": "https://www.theverge.com/transportation/998762/rivian-r2-climate-impact-carbon-lifecycle-half",
+    "summary": "Rivian always planned for its all-important R2 vehicle to be less expensive than its pricey R1 predecessors, but also less polluting. The production process for the R2 would rely on more renewable energy, and the vehicle itself would feature more recycled and biodegradable materials than the mode...",
+    "pubDate": "2026-09-22T12:03:45-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Trump says the US is officially renaming AI to ‘super intelligence’",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
+    "summary": "In a speech Tuesday morning at the UN General Assembly, Donald Trump railed against Iran, \"globalists,\" climate change, and transgender people while also claiming that the US is now \"officially\" renaming artificial intelligence to \"super intelligence.\" Oddly, this wasn't one of the entries in the...",
+    "pubDate": "2026-09-22T12:01:10-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Xbox is barely Xbox anymore",
+    "link": "https://www.theverge.com/games/998758/xbox-activision-blizzard",
+    "summary": "Xbox has become a shell of its former self - and things are only getting worse. As part of its planned cuts impacting around 3,200 workers, the company announced today more changes that will further dilute the brand. Studios are being consolidated, others are on the brink of being closed altogeth...",
+    "pubDate": "2026-09-22T10:50:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Xbox is merging its Forza developers into a single studio",
+    "link": "https://www.theverge.com/news/998592/xbox-is-merging-its-forza-developers-into-a-single-studio",
+    "summary": "Microsoft is uniting its two Forza developers into a single studio today, as part of a massive restructuring of Xbox. Playground Games, which develops Forza Horizon, and Turn 10 Studios, creators of Forza Motorsport, are merging together to focus on Forza Horizon and Fable. \"Playground and Turn 1...",
+    "pubDate": "2026-09-22T10:01:17-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Microsoft is laying off 268 Xbox staffers and Ninja Theory may close",
+    "link": "https://www.theverge.com/news/998589/microsoft-xbox-layoffs-ninja-theory-closure",
+    "summary": "Microsoft is laying off around 260 Xbox employees today, as part of an ongoing \"reset\" of its gaming business. 1,600 Xbox employees were impacted by layoffs in July, with Xbox CEO Asha Sharma describing the cuts as \"the most significant restructure in Xbox history.\" Today's layoffs are part of th...",
+    "pubDate": "2026-09-22T10:01:16-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Activision is taking over Halo as part of a massive Xbox shake-up",
+    "link": "https://www.theverge.com/news/998586/activision-halo-xbox-reorganization-layoffs",
+    "summary": "Microsoft is announcing a massive restructuring of its Xbox studios today, months after laying off 1,600 Xbox employees and selling off studios. The latest changes will see Activision take on the Halo and Sea of Thieves franchises, as well as Age of Empires. Microsoft is also laying off around 26...",
+    "pubDate": "2026-09-22T10:00:33-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "The Beats 360 are what I’d bring to the gym if I hated earbuds",
+    "link": "https://www.theverge.com/tech/998566/beats-360-headphones-review",
+    "summary": "Everyone has seen someone at the gym or running around their neighborhood wearing headphones that were never designed for workouts. Quite often those headphones are Beats. Good news for the earbud haters: The new Beats 360 over-ear headphones are durable and built to withstand sweat, with water r...",
+    "pubDate": "2026-09-22T10:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "&#8216;Trump TV&#8217; is just reruns of the president on YouTube",
+    "link": "https://www.theverge.com/policy/998726/trump-tv-youtube-livestream",
+    "summary": "The White House is now airing reruns of President Donald Trump's speeches, bill signings, and other moments on a YouTube livestream that it's calling \"Trump TV,\" as reported earlier by Time. The 24/7 station launched just days after Trump banned CNN, MS Now, and Politico from the White House. Fol...",
+    "pubDate": "2026-09-22T09:54:13-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
     "title": "Meta patches Muse exploit that let attackers control the AI agent",
     "link": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
     "summary": "Meta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow someone to take control of the AI agent. The bug found by security researcher Patrick Wardle utilized an undocumented Muse setting that enabled potential attackers running local cod...",
@@ -734,6 +1382,54 @@
     "pubDate": "2026-09-22T04:35:54-04:00",
     "source": "The Verge",
     "category": "tech"
+  },
+  {
+    "title": "What happens in Vegas: one lecturer’s hunt for a projector",
+    "link": "https://www.nature.com/articles/d41586-026-02724-w",
+    "summary": "Nature, Published online: 22 September 2026; doi:10.1038/d41586-026-02724-w Misadventures at a scientific meeting in Nevada, and ponderings on the idea that physical objects exist only as perceptual phenomena, in our weekly dip into Nature’s archive.",
+    "pubDate": "2026-09-22",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "About to give your first lecture? Read this first",
+    "link": "https://www.nature.com/articles/d41586-026-02369-9",
+    "summary": "Nature, Published online: 22 September 2026; doi:10.1038/d41586-026-02369-9 Ten researchers and faculty members share what surprised them when they began teaching — and what they wish they had known before walking into the room.",
+    "pubDate": "2026-09-22",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "This super-cold microscope could spur a quantum revolution",
+    "link": "https://www.nature.com/articles/d41586-026-02942-2",
+    "summary": "Nature, Published online: 22 September 2026; doi:10.1038/d41586-026-02942-2 The instrument, which operates near absolute zero for hours, will soon ship to a few labs. Researchers are thrilled.",
+    "pubDate": "2026-09-22",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Why AI companies can’t be trusted to self-regulate",
+    "link": "https://www.nature.com/articles/d41586-026-03014-1",
+    "summary": "Nature, Published online: 22 September 2026; doi:10.1038/d41586-026-03014-1 From aviation to banking, high-risk industries are subject to independent oversight and meaningful penalties. AI companies should be no exception.",
+    "pubDate": "2026-09-22",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Nepal floods pose biggest test yet for UN climate loss and damage fund",
+    "link": "https://www.nature.com/articles/d41586-026-03000-7",
+    "summary": "Nature, Published online: 22 September 2026; doi:10.1038/d41586-026-03000-7 Countries should not have to wait months to receive relatively small grants for responding to the immediate impact of extreme weather.",
+    "pubDate": "2026-09-22",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Will AI really kill us all? The science behind the hype",
+    "link": "https://www.nature.com/articles/d41586-026-02941-3",
+    "summary": "Nature, Published online: 22 September 2026; doi:10.1038/d41586-026-02941-3 Nature examines whether the technology might spell the end for humans, and why AI companies are calling for a slowdown.",
+    "pubDate": "2026-09-22",
+    "source": "Nature",
+    "category": "science"
   },
   {
     "title": "Biosecurity must protect human functional capacity",
@@ -806,5 +1502,13 @@
     "pubDate": "2026-09-21T19:15:32-04:00",
     "source": "The Verge",
     "category": "tech"
+  },
+  {
+    "title": "Daily briefing: The first new cat species described by science in a century",
+    "link": "https://www.nature.com/articles/d41586-026-03008-z",
+    "summary": "Nature, Published online: 21 September 2026; doi:10.1038/d41586-026-03008-z Leopardus tilcayo is smaller than a housecat and covered in leopard-like spots. Plus, the brain might spawn from two types of precursor cell and how to maintain the foundations of human flourishing in a climate crisis.",
+    "pubDate": "2026-09-21",
+    "source": "Nature",
+    "category": "science"
   }
 ]

@@ -120,6 +120,14 @@
     "category": "general"
   },
   {
+    "title": "Show HN: Make cursed fonts like Times New Bastard",
+    "link": "https://bastardica.mitpit.com",
+    "summary": "A joke tool that abuses OpenType's ligature feature to mix fonts. It works pretty fast on client-side by loading Python in WASM. Comments URL: https://news.ycombinator.com/item?id=49823738 Points: 288 # Comments: 44",
+    "pubDate": "Wed, 23 Sep 2026 22:53:28 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "What video footage tells us about RAF training jet crash",
     "link": "https://www.bbc.co.uk/news/articles/cw8d32vv4l7vo?at_medium=RSS&at_campaign=rss",
     "summary": "The RAF said training on their Hawk jets had been \"temporarily\" paused while an investigation is under way.",
@@ -140,6 +148,14 @@
     "link": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
     "summary": "Article URL: https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux Comments URL: https://news.ycombinator.com/item?id=49823582 Points: 254 # Comments: 124",
     "pubDate": "Wed, 23 Sep 2026 22:38:16 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Toyota is taking the Corolla electric",
+    "link": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
+    "summary": "Article URL: https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/ Comments URL: https://news.ycombinator.com/item?id=49823568 Points: 125 # Comments: 176",
+    "pubDate": "Wed, 23 Sep 2026 22:37:28 +0000",
     "source": "Hacker News",
     "category": "tech"
   },
@@ -296,6 +312,14 @@
     "category": "tech"
   },
   {
+    "title": "Geothermal heat map of US hot springs",
+    "link": "https://www.soakingsprings.com/hot-springs/geothermal-map",
+    "summary": "Article URL: https://www.soakingsprings.com/hot-springs/geothermal-map Comments URL: https://news.ycombinator.com/item?id=49821835 Points: 63 # Comments: 23",
+    "pubDate": "Wed, 23 Sep 2026 20:12:10 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "Why you should check your gem's lines of code",
     "link": "https://spinel.coop/blog/why-you-should-check-your-gems-lines-of-code/",
     "summary": "Comments",
@@ -408,6 +432,270 @@
     "category": "science"
   },
   {
+    "title": "Show HN: Koi.rest – watch some fish and regain your balance",
+    "link": "https://koi.rest",
+    "summary": "Hi there. My name is Paul. I’m a developer, an explorer and I’ve got ADHD. As of the beginning of August, I’m also unemployed. This last part, along with everything else this past year, has caused me a great deal of stress. While our balcony zen garden project is yet to be completed, I had an ide...",
+    "pubDate": "Thu, 24 Sep 2026 21:33:03 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Netanyahu defends Israeli military actions in Middle East in UN speech",
+    "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+    "summary": "Dozens of delegates walked out in protest as he took the podium, with the Israeli leader labelling them \"moral cowards\".",
+    "pubDate": "Thu, 24 Sep 2026 21:21:47 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Anti-migrant activist charged after dinghy slashed in Channel",
+    "link": "https://www.bbc.co.uk/news/articles/crkgwe3egpzgo?at_medium=RSS&at_campaign=rss",
+    "summary": "Activist Daniel Thomas is charged in connection with an incident in the English Channel on Tuesday.",
+    "pubDate": "Thu, 24 Sep 2026 21:14:07 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The Board Game of the Alpha Nerds (2014)",
+    "link": "https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/",
+    "summary": "Article URL: https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/ Comments URL: https://news.ycombinator.com/item?id=49836590 Points: 11 # Comments: 9",
+    "pubDate": "Thu, 24 Sep 2026 20:53:39 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Anonymous Men Have Turned Cyberharassment Into a Group Sport—Here’s One Woman’s Side of the Story",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-anonymous-men-turned-cyberharassment-into-group-sport-heres-one-womans-side/",
+    "summary": "This week on Uncanny Valley, we take you behind our feature on the women struggling after being targeted by the burnerverse.",
+    "pubDate": "Thu, 24 Sep 2026 20:50:33 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
+    "link": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
+    "summary": "The startup's robot can tighten or loosen four bolts at a time, and it fits in a Pelican case.",
+    "pubDate": "Thu, 24 Sep 2026 20:45:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Security headers on 4,688 small-business websites: 49.7% met none of 7 criteria",
+    "link": "https://rackcrunch.com/security-headers-2026",
+    "summary": "Article URL: https://rackcrunch.com/security-headers-2026 Comments URL: https://news.ycombinator.com/item?id=49836494 Points: 11 # Comments: 1",
+    "pubDate": "Thu, 24 Sep 2026 20:42:02 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Opus 5.5 is good at explainer videos",
+    "link": "https://launchvideo.io",
+    "summary": "Article URL: https://launchvideo.io Comments URL: https://news.ycombinator.com/item?id=49836374 Points: 31 # Comments: 19",
+    "pubDate": "Thu, 24 Sep 2026 20:28:47 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Buttler injury halts England as Sri Lanka level series",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/cw804nd022elo?at_medium=RSS&at_campaign=rss",
+    "summary": "Jos Buttler's bravery comes in vain as Sri Lanka fight back to beat England in the second one-day international at Headingley and set up a series decider at The Oval.",
+    "pubDate": "Thu, 24 Sep 2026 20:15:06 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Sourcehut account takeover via build logs (XSS in ansi2html)",
+    "link": "https://blog.arusekk.pl/posts/srht-account-takeover/",
+    "summary": "Article URL: https://blog.arusekk.pl/posts/srht-account-takeover/ Comments URL: https://news.ycombinator.com/item?id=49835996 Points: 33 # Comments: 3",
+    "pubDate": "Thu, 24 Sep 2026 19:54:21 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "August 27 TCRF DDoS Attack Postmortem",
+    "link": "https://blog.xkeeper.net/the-cutting-room-floor/tcrf-2026-ddos-postmortem/",
+    "summary": "Article URL: https://blog.xkeeper.net/the-cutting-room-floor/tcrf-2026-ddos-postmortem/ Comments URL: https://news.ycombinator.com/item?id=49835913 Points: 12 # Comments: 3",
+    "pubDate": "Thu, 24 Sep 2026 19:46:22 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "I Think I Found an AI Agent Worth the Risk",
+    "link": "https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk/",
+    "summary": "Instinct saved me $550, booked my restaurant reservations, and warned me about a phishing scam. It also wasted $64 and might be a security nightmare.",
+    "pubDate": "Thu, 24 Sep 2026 19:36:35 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
+    "link": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss",
+    "summary": "Prime Minister Giorgia Meloni described the measures as \"common-sense tools that do not divide but really help to integrate\".",
+    "pubDate": "Thu, 24 Sep 2026 19:32:59 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "F-Droid gets its biggest update in a decade with new UI and smoother app installs",
+    "link": "https://arstechnica.com/gadgets/2026/09/f-droid-gets-its-biggest-update-in-a-decade-with-new-ui-and-smoother-app-installs/",
+    "summary": "F-Droid's Android app store has been rebuilt from the ground up.",
+    "pubDate": "Thu, 24 Sep 2026 19:30:42 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Priest killed and four injured in knife attack at Polish abbey",
+    "link": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
+    "summary": "A male suspect from Ukraine was arrested after the stabbings in the town of Jarosław, police say.",
+    "pubDate": "Thu, 24 Sep 2026 19:18:12 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "'We are living a constant nightmare,' mother of poison seller victim tells hearing",
+    "link": "https://www.bbc.co.uk/news/articles/cm20ldvx9xlxo?at_medium=RSS&at_campaign=rss",
+    "summary": "Tanya Whitaker broke down before she spoke of how her son Samuel's death had devastated her family.",
+    "pubDate": "Thu, 24 Sep 2026 19:16:05 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+    "link": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+    "summary": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
+    "pubDate": "Thu, 24 Sep 2026 19:15:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+    "link": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+    "summary": "Article URL: https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical Comments URL: https://news.ycombinator.com/item?id=49835531 Points: 34 # Comments: 8",
+    "pubDate": "Thu, 24 Sep 2026 19:14:27 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "New York defies Trump admin, asks court to shut down Polymarket gambling",
+    "link": "https://arstechnica.com/tech-policy/2026/09/new-york-asks-court-to-shut-down-polymarkets-illegal-gambling-operation/",
+    "summary": "New York sues Polymarket as Trump admin tries to override state gambling laws.",
+    "pubDate": "Thu, 24 Sep 2026 19:07:19 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+    "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+    "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+    "pubDate": "Thu, 24 Sep 2026 19:00:42 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
+    "link": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
+    "summary": "Feather is betting on a customizable, $30,000 platform built for software developers.",
+    "pubDate": "Thu, 24 Sep 2026 18:52:38 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "We have a trailer for Musk documentary Elon called a \"hit piece\"",
+    "link": "https://arstechnica.com/culture/2026/09/we-have-a-trailer-for-musk-documentary-elon-called-a-hit-piece/",
+    "summary": "Oscar-winning documentarian Alex Gibney focuses on the world's wealthiest man.",
+    "pubDate": "Thu, 24 Sep 2026 18:52:23 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "The compromises and power struggles that shaped Fury-Joshua",
+    "link": "https://www.bbc.co.uk/sport/boxing/articles/c65y74pjl0w4o?at_medium=RSS&at_campaign=rss",
+    "summary": "BBC Sport takes a look at the compromises, power struggles and competing interests behind Tyson Fury v Anthony Joshua.",
+    "pubDate": "Thu, 24 Sep 2026 18:41:35 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Robots make combat airdrops, clear mines as Ukraine defeats Russian pincer",
+    "link": "https://arstechnica.com/gadgets/2026/09/robots-make-combat-airdrops-clear-mines-as-ukraine-defeats-russian-pincer/",
+    "summary": "Ukraine’s Operation Vivaldi has erased Russian gains with the help of robots.",
+    "pubDate": "Thu, 24 Sep 2026 18:39:47 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Stable (YC W20) Is Hiring Product Engineers",
+    "link": "https://www.usestable.com/careers/product-engineer",
+    "summary": "Article URL: https://www.usestable.com/careers/product-engineer Comments URL: https://news.ycombinator.com/item?id=49834893 Points: 0 # Comments: 0",
+    "pubDate": "Thu, 24 Sep 2026 18:29:18 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Creatine uptake enhances antitumor immunity",
+    "link": "https://www.cell.com/iscience/fulltext/S2589-0042(26)00811-4",
+    "summary": "Article URL: https://www.cell.com/iscience/fulltext/S2589-0042(26)00811-4 Comments URL: https://news.ycombinator.com/item?id=49834825 Points: 125 # Comments: 160",
+    "pubDate": "Thu, 24 Sep 2026 18:24:52 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
+    "link": "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/",
+    "summary": "Million-dollar fines won’t end billionaires’ data center pollution, neighbors fear.",
+    "pubDate": "Thu, 24 Sep 2026 18:20:58 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "BBC upholds complaints over Victoria Beckham slur on Have I Got News For You",
+    "link": "https://www.bbc.co.uk/news/articles/cqde0wrl9d5do?at_medium=RSS&at_campaign=rss",
+    "summary": "Two viewers complained to the BBC over the \"gratuitously offensive\" comment made during the show.",
+    "pubDate": "Thu, 24 Sep 2026 18:18:55 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
+    "link": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
+    "summary": "The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online.",
+    "pubDate": "Thu, 24 Sep 2026 18:11:44 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+    "link": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
+    "summary": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
+    "pubDate": "Thu, 24 Sep 2026 18:06:40 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Sex offender bailed to flat overlooking playground",
+    "link": "https://www.bbc.co.uk/news/articles/c62kw7pqjw0zo?at_medium=RSS&at_campaign=rss",
+    "summary": "Victims of Zapher Dogen were living close to the 32-year-old, who admitted multiple offences.",
+    "pubDate": "Thu, 24 Sep 2026 17:57:52 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
+    "link": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
+    "summary": "Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says.",
+    "pubDate": "Thu, 24 Sep 2026 17:55:44 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
+    "link": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+    "summary": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories.",
+    "pubDate": "Thu, 24 Sep 2026 17:39:24 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
     "title": "新玩意 252｜少数派的编辑们最近买了啥？",
     "link": "https://sspai.com/post/114954",
     "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ... 查看全文",
@@ -422,6 +710,14 @@
     "pubDate": "Thu, 24 Sep 2026 17:25:20 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+    "link": "https://github.com/devdotfast/whiteboard",
+    "summary": "Hello! We’re Sid, Alex, Ketan, and Milan. We’re building Whiteboard ( https://whiteboard.dev.fast/ ), an open-source desktop app where humans and agents can architect software together in a common workspace. Here’s our repo: https://github.com/devdotfast/whiteboard . We were missing the feeling o...",
+    "pubDate": "Thu, 24 Sep 2026 17:21:36 +0000",
+    "source": "Hacker News",
+    "category": "tech"
   },
   {
     "title": "Databricks buys Row Zero and is scouting for more startups to acquire",
@@ -472,12 +768,28 @@
     "category": "tech"
   },
   {
+    "title": "Why is the liver so weirdly regenerative?",
+    "link": "https://dynomight.substack.com/p/liver",
+    "summary": "Article URL: https://dynomight.substack.com/p/liver Comments URL: https://news.ycombinator.com/item?id=49832938 Points: 140 # Comments: 104",
+    "pubDate": "Thu, 24 Sep 2026 16:23:00 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "家庭饮品 DIY 指南（五）：特调咖啡及其他饮品",
     "link": "https://sspai.com/prime/story/home-made-beverages-5",
     "summary": "往期文章：（一）工欲善其事，必先利其器（二）常用液体物料推荐（三）常用固体物料推荐（四）奶昔、柠檬和茶系列配方这一篇的配方主要是特调咖啡和其他类饮品，特调咖啡中的咖啡液按照固定比例萃取Espresso ... 查看全文 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文。",
     "pubDate": "Thu, 24 Sep 2026 16:20:39 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "Google's first Suncatcher orbital data center test launches October 1",
+    "link": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
+    "summary": "Google's experimental orbital data center will have four TPUs and only run for 15 minutes at a time.",
+    "pubDate": "Thu, 24 Sep 2026 16:16:34 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
   },
   {
     "title": "Federal judge orders Texas to air condition all prisons by the end of 2029",
@@ -501,6 +813,14 @@
     "summary": "Article URL: https://therecord.media/linkedin-wins-court-order-blocking-mass-scraping Comments URL: https://news.ycombinator.com/item?id=49832646 Points: 37 # Comments: 24",
     "pubDate": "Thu, 24 Sep 2026 16:02:52 +0000",
     "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "OpenAI agent “didn’t accept no for an answer” in Australian government breach",
+    "link": "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/",
+    "summary": "\"There will obviously be legal consequences,\" prime minister promises.",
+    "pubDate": "Thu, 24 Sep 2026 16:01:16 +0000",
+    "source": "Ars Technica",
     "category": "tech"
   },
   {
@@ -544,6 +864,22 @@
     "category": "tech"
   },
   {
+    "title": "Formula 1 looks at 3.0 L V8 turbos and smaller hybrids for 2030",
+    "link": "https://arstechnica.com/cars/2026/09/formula-1-looks-at-3-0-l-v8-turbos-and-smaller-hybrids-for-2030/",
+    "summary": "F1 wants smaller, lighter cars that are not energy-starved like the 2026 hybrids.",
+    "pubDate": "Thu, 24 Sep 2026 15:48:29 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "In one of their last votes before November, Senate GOP blocks effort to end Iran war",
+    "link": "https://www.npr.org/2026/09/24/nx-s1-5980318/senate-iran-war-powers-vote",
+    "summary": "The vote on a war powers resolution introduced by Democrats came at a moment when some Republicans have begun to distance themselves from President Trump over the ongoing conflict.",
+    "pubDate": "Thu, 24 Sep 2026 15:46:53 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "Experiencing writing at our recent Chinese calligraphy workshop",
     "link": "https://viewsproject.wordpress.com/2026/09/06/chinese-calligraphy-workshop/",
     "summary": "Article URL: https://viewsproject.wordpress.com/2026/09/06/chinese-calligraphy-workshop/ Comments URL: https://news.ycombinator.com/item?id=49832231 Points: 5 # Comments: 1",
@@ -574,6 +910,14 @@
     "pubDate": "Thu, 24 Sep 2026 15:16:27 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Tutoring company tells parents to save their money and 'use AI instead'",
+    "link": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
+    "summary": "Article URL: https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r Comments URL: https://news.ycombinator.com/item?id=49831690 Points: 58 # Comments: 66",
+    "pubDate": "Thu, 24 Sep 2026 15:09:38 +0000",
+    "source": "Hacker News",
+    "category": "tech"
   },
   {
     "title": "微软在游戏行业的早期试水：一段与梦工厂的「梦幻联动」",
@@ -688,6 +1032,30 @@
     "category": "tech"
   },
   {
+    "title": "Google’s Project Suncatcher to put ML infrastructure in space",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+    "summary": "https://www.nytimes.com/2026/09/24/technology/google-suncatc... ( https://archive.ph/BGFnP ) Comments URL: https://news.ycombinator.com/item?id=49830606 Points: 68 # Comments: 117",
+    "pubDate": "Thu, 24 Sep 2026 13:53:29 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "RFK Jr.'s ethics filing reveals book deals worth millions of dollars",
+    "link": "https://www.npr.org/2026/09/24/nx-s1-5979867/rfk-ethics-book-deals",
+    "summary": "Health Secretary Robert F. Kennedy Jr.'s annual financial disclosure reveals he has received two lucrative book advances and free flights from a friend while in office.",
+    "pubDate": "Thu, 24 Sep 2026 13:51:40 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Massive Parallel Imports in Neo4j Without Deadlock and Lock Contention",
+    "link": "https://medium.com/neo4j/massive-parallel-imports-in-neo4j-without-deadlock-and-lock-contention-2c003a48d49a",
+    "summary": "Comments",
+    "pubDate": "Thu, 24 Sep 2026 13:43:29 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Is this really the Premier League's 'Bermuda Triangle'?",
     "link": "https://www.bbc.co.uk/sport/football/articles/c39w40g8n59yo?at_medium=RSS&at_campaign=rss",
     "summary": "Do the stats back the social media meme that Bournemouth, Brighton and Brentford form a Premier League 'Bermuda Triangle' where teams lose points?",
@@ -696,11 +1064,35 @@
     "category": "general"
   },
   {
+    "title": "katamari architecture",
+    "link": "https://nove.dev/blog/katamari-architecture/",
+    "summary": "Comments",
+    "pubDate": "Thu, 24 Sep 2026 13:20:23 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Casilda 1.6 Released",
+    "link": "https://blogs.gnome.org/xjuan/2026/09/24/casilda-1-6-released/",
+    "summary": "Comments",
+    "pubDate": "Thu, 24 Sep 2026 13:08:40 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Australia to investigate if OpenAI hack of government health website broke the law",
     "link": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
     "summary": "The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable.",
     "pubDate": "Thu, 24 Sep 2026 12:54:19 +0000",
     "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "AI Workers' Inquiry 2026",
+    "link": "https://techworkersinquiry.org/ai/",
+    "summary": "Comments",
+    "pubDate": "Thu, 24 Sep 2026 12:41:35 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -1086,6 +1478,14 @@
     "pubDate": "Thu, 24 Sep 2026 08:25:18 EDT",
     "source": "Science Daily",
     "category": "science"
+  },
+  {
+    "title": "From Thin Air to Bootable Images: The tine Build System",
+    "link": "https://amutable.com/blog/tine-build-system",
+    "summary": "Comments",
+    "pubDate": "Thu, 24 Sep 2026 08:24:33 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
@@ -1488,6 +1888,38 @@
     "category": "tech"
   },
   {
+    "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
+    "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+    "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currently only available to Gemini Enterprise customers...",
+    "pubDate": "2026-09-24T15:59:26-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Sadly, this $1,549 RTX 5070-equipped gaming PC is a very good deal",
+    "link": "https://www.theverge.com/gadgets/1000122/cyberpowerpc-gaming-prebuilt-rtx-5070-core-i7-asrock-oled-monitor-deal-sale",
+    "summary": "While PC component prices remain high, you can save a good bit of money on a system by purchasing a prebuilt desktop. Walmart has a well-equipped CyberPowerPC gaming PC on sale for $1,549, almost $600 off its original price of $2,139. It’s powered by an Intel Core i7-14700KF processor, and paired...",
+    "pubDate": "2026-09-24T14:19:23-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Jensen Huang talks about AI and climate change like a supervillain",
+    "link": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
+    "summary": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first. The Nvidia CEO discussed the future of energy and AI's impact on our planet in the latest episode of The Ezra Klein Show. But his comments boil down to the [&#8230;]",
+    "pubDate": "2026-09-24T14:04:44-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Meta is going to let you build games with AI right on your phone",
+    "link": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
+    "summary": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools that will let you create games with AI prompts: Horizon Create, a mobile app, and Horizon Studio, a browser app that offers more granular controls. The apps will ...",
+    "pubDate": "2026-09-24T13:52:29-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
     "title": "Muse will apparently let you download its entire filesystem",
     "link": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
     "summary": "A pair of developers say that with very little prompting, Meta's Muse will share its entire filesystem with you. Peter James and Jonny L. Saunders have said they both independently coaxed Muse into zipping up and sharing the entire contents of its root filesystem, Ubuntu system files, app templat...",
@@ -1590,6 +2022,14 @@
     "pubDate": "2026-09-24T05:04:18-04:00",
     "source": "The Verge",
     "category": "tech"
+  },
+  {
+    "title": "GLP-1 drugs fail to help some people lose weight — scientists are on a quest for answers",
+    "link": "https://www.nature.com/articles/d41586-026-03020-3",
+    "summary": "Nature, Published online: 24 September 2026; doi:10.1038/d41586-026-03020-3 Understanding why some people see no benefits from potent anti-obesity medications could lead to new therapies and personalized weight-loss regimens.",
+    "pubDate": "2026-09-24",
+    "source": "Nature",
+    "category": "science"
   },
   {
     "title": "Bumblebees don’t mind a little plastic in their honeypots",

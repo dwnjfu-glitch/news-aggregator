@@ -24,12 +24,148 @@
     "category": "general"
   },
   {
+    "title": "Heathrow Airport warns third runway could be delayed by four years",
+    "link": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss",
+    "summary": "The UK's busiest airport cautions it may miss the government target of 2035 as ministers say the deadline has \"always been ambitious\".",
+    "pubDate": "Sat, 26 Sep 2026 16:32:42 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Legal challenge to Drumcree Orange Order parade decision under way",
+    "link": "https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss",
+    "summary": "Residents have applied to the High Court in Belfast to overturn the decision to allow a planned Orange Order parade on the mainly-nationalist Garvaghy Road in Portadown.",
+    "pubDate": "Sat, 26 Sep 2026 16:30:38 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "England's Harrison scores last-gasp try to beat Black Ferns",
+    "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cje3r46ll3lwo?at_medium=RSS&at_campaign=rss",
+    "summary": "Zoe Harrison scores last-gasp try as England defeat New Zealand at Allianz Stadium to avoid a second successive draw in the WXV Global Series.",
+    "pubDate": "Sat, 26 Sep 2026 16:12:27 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Show HN: A Claude Code skill to analyze your chess games",
+    "link": "https://github.com/brumar/chess-postmortem-skills",
+    "summary": "Hello HN, It started as an experiment: can Claude play chess properly if it uses vision instead of PGN notation? Somehow it can. The next experiment was to see whether Claude + Stockfish could explain a game. Somehow it can too. A few sessions later, I had a system that takes my live audio notes ...",
+    "pubDate": "Sat, 26 Sep 2026 15:34:53 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Watch: Bangkok declared flood disaster zone",
+    "link": "https://www.bbc.co.uk/news/videos/cwp933mr9v1xo?at_medium=RSS&at_campaign=rss",
+    "summary": "Heavy rain over the last two days has overwhelmed Bangkok's water systems, with more rain forecast on Sunday.",
+    "pubDate": "Sat, 26 Sep 2026 15:34:18 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Plunging test scores are a slow-moving catastrophe",
+    "link": "https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe",
+    "summary": "Article URL: https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe Comments URL: https://news.ycombinator.com/item?id=49857442 Points: 63 # Comments: 72",
+    "pubDate": "Sat, 26 Sep 2026 15:24:08 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Security lapses at Utah campus where Charlie Kirk was killed, review says",
+    "link": "https://www.bbc.co.uk/news/articles/cq4g55r76d9lo?at_medium=RSS&at_campaign=rss",
+    "summary": "The indpendent report also says Kirk's aides insisted he speak outdoors, overriding concerns from campus officials.",
+    "pubDate": "Sat, 26 Sep 2026 15:12:25 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "New Satellite Engine Could Use Earth's Atmosphere to Stay in Orbit Indefinitely",
+    "link": "https://scitechdaily.com/new-satellite-engine-could-use-earths-atmosphere-as-fuel-to-stay-in-orbit-indefinitely/",
+    "summary": "Article URL: https://scitechdaily.com/new-satellite-engine-could-use-earths-atmosphere-as-fuel-to-stay-in-orbit-indefinitely/ Comments URL: https://news.ycombinator.com/item?id=49857323 Points: 18 # Comments: 2",
+    "pubDate": "Sat, 26 Sep 2026 15:10:29 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Republic of Ireland to wear black armbands for Israel game",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
+    "summary": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for Sunday's Nations League game against Israel in Hungary, after confirming they will go ahead with the fixture.",
+    "pubDate": "Sat, 26 Sep 2026 14:58:44 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "宜家 Matter 智能家居终于要来了？在中国市场它将如何破局",
     "link": "https://sspai.com/post/114958",
     "summary": "距离宜家首批Matter智能家居产品在海外上市已有大半年的时间，而中国市场则是许久未有消息。直到今年年中，多款宜家智能新品陆续出现在国家CCC认证数据库中，我们才得知：这批主打高性价比、支持新一代智能 ... 查看全文",
     "pubDate": "Sat, 26 Sep 2026 14:00:00 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "I created an interactive digital avatar of myself — and you can talk to it",
+    "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+    "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+    "pubDate": "Sat, 26 Sep 2026 14:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "No Premier League appetite to strip Man City of titles - but threat remains",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cxyvzzj17682o?at_medium=RSS&at_campaign=rss",
+    "summary": "After being found guilty of the majority of the 115 charges for breaching Premier League, could Manchester city really be stripped of eight trophies?",
+    "pubDate": "Sat, 26 Sep 2026 13:26:40 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Huge crowds greet Pope in Paris for open-air Mass",
+    "link": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+    "summary": "More than half a million people are expected to attend the event in the heart of the French capital.",
+    "pubDate": "Sat, 26 Sep 2026 13:23:59 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Met to re-examine CCTV from Jill Dando murder case",
+    "link": "https://www.bbc.co.uk/news/articles/c60m334grx9vo?at_medium=RSS&at_campaign=rss",
+    "summary": "Police are reviewing footage of a man at Putney Bridge station after the Crimewatch presenter was shot in 1999.",
+    "pubDate": "Sat, 26 Sep 2026 13:21:27 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Russell wins despite late Verstappen challenge",
+    "link": "https://www.bbc.co.uk/sport/formula1/articles/ck8d33760j63o?at_medium=RSS&at_campaign=rss",
+    "summary": "Mercedes' George Russell holds off a late challenge from Red Bull's Max Verstappen to win an Azerbaijan Grand Prix enlivened by two late safety car periods.",
+    "pubDate": "Sat, 26 Sep 2026 13:16:13 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "British national among six dead in building explosion close to Acropolis in Athens",
+    "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+    "summary": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
+    "pubDate": "Sat, 26 Sep 2026 12:47:25 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Watch: Prince Harry says 'kids are happy' in British school after six years in US",
+    "link": "https://www.bbc.co.uk/news/articles/cm5yww993n10o?at_medium=RSS&at_campaign=rss",
+    "summary": "He says his children are “happy in school” and the family returned to the UK for \"lots of reasons\".",
+    "pubDate": "Sat, 26 Sep 2026 12:26:53 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Old-School Credit Card Scams Are Far From Dead",
+    "link": "https://www.wired.com/story/kernel-panic-old-timey-credit-card-scams/",
+    "summary": "In an era of increasingly sophisticated AI-fueled scams, a retro threat may be lurking in your mailbox.",
+    "pubDate": "Sat, 26 Sep 2026 12:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
   },
   {
     "title": "12 Best White Elephant Gifts, Plus a Prank Box to Put Them In (2026)",
@@ -40,12 +176,44 @@
     "category": "tech"
   },
   {
+    "title": "A major risk of breast cancer screening may have been overestimated for decades",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260924020351.htm",
+    "summary": "A new analysis suggests mammograms may lead to far less breast cancer overdiagnosis than some earlier studies indicated. Researchers reexamined all eight major randomized screening trials and accounted for differences in follow-up time, screening frequency, and screening after trials ended. Their...",
+    "pubDate": "Sat, 26 Sep 2026 11:25:30 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "How long can Labour's feel-good factor last?",
+    "link": "https://www.bbc.co.uk/news/articles/cwn8mn0rzkzlo?at_medium=RSS&at_campaign=rss",
+    "summary": "The party’s spirits have been transformed since Burnham became PM, but what's coming down the tracks, asks Laura Kuenssberg.",
+    "pubDate": "Sat, 26 Sep 2026 11:22:03 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "Man City legal fight could spiral out of control, former Premier League club executive warns",
     "link": "https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&at_campaign=rss",
     "summary": "Christian Purslow's comments come after Manchester City was found guilty of dozens of financial rule charges brought by the Premier League.",
     "pubDate": "Sat, 26 Sep 2026 11:03:53 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "That fresh cleaning smell could be filling your home with nanoparticles",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260925093152.htm",
+    "summary": "Researchers found that scented cleaners can react with ozone indoors to create billions or trillions of invisible nanoparticles that can penetrate deep into the lungs. The pollution forms within minutes and, in some cases, may produce an inhaled particle dose comparable to or greater than standin...",
+    "pubDate": "Sat, 26 Sep 2026 10:49:45 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Can we have reachability properties in TLA⁺?",
+    "link": "https://ahelwer.ca/post/2026-09-26-reachability/",
+    "summary": "Comments",
+    "pubDate": "Sat, 26 Sep 2026 10:49:22 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Republic of Ireland news conference delayed before controversial Israel game",
@@ -62,6 +230,22 @@
     "pubDate": "Sat, 26 Sep 2026 10:39:33 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Scientists may have misread a 2-billion-year-old clue about Earth",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260925093201.htm",
+    "summary": "Scientists have found that a famous 2-billion-year-old chemical signature, once thought to record a massive global change in Earth’s carbon cycle, may instead have been produced by local magma, hydrocarbons, and methane-eating microbes. The discovery raises new questions about what was really hap...",
+    "pubDate": "Sat, 26 Sep 2026 10:38:02 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "The JavaScript Pun: tagged template literal",
+    "link": "https://shukla.io/blog/2026-09/pun.html",
+    "summary": "Comments",
+    "pubDate": "Sat, 26 Sep 2026 10:37:12 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?",
@@ -88,12 +272,36 @@
     "category": "tech"
   },
   {
+    "title": "Scientists burned their own scrolls to unlock a 2,000-year-old mystery",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260925005414.htm",
+    "summary": "Scientists discovered that tiny amounts of lead in ancient ink can make writing inside burned papyrus scrolls stand out dramatically in X-ray scans. The technique could help unlock lost Greek and Roman texts preserved by the eruption of Mount Vesuvius nearly 2,000 years ago.",
+    "pubDate": "Sat, 26 Sep 2026 10:04:56 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "This Browser Extension Lets You Snooze Open Tabs Until Later",
     "link": "https://www.wired.com/story/tuck-browser-extension-lets-you-snooze-open-tabs-until-later/",
     "summary": "The free add-on Tuck brings one of the best features of modern email—the ability to hide something for a bit—to that tangle of tabs in your browser.",
     "pubDate": "Sat, 26 Sep 2026 10:00:00 +0000",
     "source": "Wired",
     "category": "tech"
+  },
+  {
+    "title": "The Copilot+ PC brand is dead",
+    "link": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+    "summary": "Article URL: https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding Comments URL: https://news.ycombinator.com/item?id=49854945 Points: 79 # Comments: 42",
+    "pubDate": "Sat, 26 Sep 2026 09:55:38 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Quantum computer simulates matter “popping into existence”",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260925005416.htm",
+    "summary": "Scientists recreated a particle-forming process linked to the extreme physics of the early universe using a 13-ion quantum simulator. The breakthrough suggests quantum computers could eventually help researchers investigate how matter formed and evolved after the Big Bang.",
+    "pubDate": "Sat, 26 Sep 2026 09:47:38 EDT",
+    "source": "Science Daily",
+    "category": "science"
   },
   {
     "title": "Memorial unveiled at school where boys were experimented on with contaminated blood",
@@ -110,6 +318,14 @@
     "pubDate": "Sat, 26 Sep 2026 09:30:00 +0000",
     "source": "Wired",
     "category": "tech"
+  },
+  {
+    "title": "Two astronauts who flew farther than anyone before are taking new NASA roles",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260925005423.htm",
+    "summary": "Artemis II astronauts Victor Glover and Reid Wiseman are transitioning to emeritus status at NASA after their historic journey around the Moon earlier this year. The pair will continue advising and mentoring NASA teams as preparations accelerate for Artemis III and future lunar missions. Their ex...",
+    "pubDate": "Sat, 26 Sep 2026 09:21:58 EDT",
+    "source": "Science Daily",
+    "category": "science"
   },
   {
     "title": "Fifteen years later, the Apple Cards origin story",
@@ -136,6 +352,14 @@
     "category": "general"
   },
   {
+    "title": "Infecting the Steam Link with NixOS",
+    "link": "https://feyor.sh/blog/infecting-the-steam-link-with-nixos/",
+    "summary": "Comments",
+    "pubDate": "Sat, 26 Sep 2026 08:45:59 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Joshua fight at risk over promoter row, says Fury",
     "link": "https://www.bbc.co.uk/sport/boxing/articles/cq3d77ppnzdro?at_medium=RSS&at_campaign=rss",
     "summary": "Tyson Fury says his long-awaited all-British heavyweight fight against Anthony Joshua in December is in jeopardy.",
@@ -144,12 +368,28 @@
     "category": "general"
   },
   {
+    "title": "Zepbound and Mounjaro may turn on the body’s calorie-burning brown fat",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260925093210.htm",
+    "summary": "Tirzepatide, sold as Mounjaro and Zepbound, activated calorie-burning brown fat in obese mice, revealing a potential metabolic effect beyond appetite suppression. If confirmed in humans, the finding could help explain the drug’s powerful benefits and inspire more comprehensive treatments for obes...",
+    "pubDate": "Sat, 26 Sep 2026 08:31:07 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "Floci: Locally emulating any cloud service",
     "link": "https://floci.io",
     "summary": "Article URL: https://floci.io Comments URL: https://news.ycombinator.com/item?id=49854416 Points: 26 # Comments: 5",
     "pubDate": "Sat, 26 Sep 2026 08:31:02 +0000",
     "source": "Hacker News",
     "category": "tech"
+  },
+  {
+    "title": "OPINION: Trump's U.N. speech, a stark contrast with past presidents",
+    "link": "https://www.npr.org/2026/09/26/nx-s1-5974096/essay-09-26-26",
+    "summary": "President Donald Trump mused openly before the United Nations about whether he should annihilate Iran. It's a stark contrast to how his predecessors have spoken about wielding US military power.",
+    "pubDate": "Sat, 26 Sep 2026 08:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
   },
   {
     "title": "The far side of the Moon provides clues to a previous magnetic field",
@@ -176,6 +416,30 @@
     "category": "general"
   },
   {
+    "title": "REM sleep paradox: Dreaming may drain the brain’s energy even as fuel supply rises",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260925093206.htm",
+    "summary": "Scientists discovered a surprising energy paradox in the brain during REM sleep, the stage most closely associated with dreaming. Blood supply to the brain begins increasing even before REM starts, but neurons’ immediately available energy, measured as ATP, then drops. The finding suggests that d...",
+    "pubDate": "Sat, 26 Sep 2026 07:30:49 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Go concurrency distilled",
+    "link": "https://antonz.org/go-concurrency-distilled/",
+    "summary": "Comments",
+    "pubDate": "Sat, 26 Sep 2026 07:14:01 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Tuning a Server for Benchmarking",
+    "link": "https://david.alvarezrosa.com/posts/tuning-a-server-for-benchmarking/",
+    "summary": "Comments",
+    "pubDate": "Sat, 26 Sep 2026 06:48:40 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Bangkok declares disaster as heavy rains spark flooding",
     "link": "https://www.bbc.co.uk/news/videos/ck9800jdj1q0o?at_medium=RSS&at_campaign=rss",
     "summary": "Days of near continuous downpours have caused widespread flooding in the Thai capital.",
@@ -190,6 +454,14 @@
     "pubDate": "Sat, 26 Sep 2026 06:09:46 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "If we do not stop to help each other, what do we become?",
+    "link": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
+    "summary": "Comments",
+    "pubDate": "Sat, 26 Sep 2026 06:02:48 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "The computer hacker who tried to take down Man City",
@@ -536,6 +808,14 @@
     "category": "tech"
   },
   {
+    "title": "The secret to growing food on Mars could be fungi",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260924020400.htm",
+    "summary": "Scientists think beneficial fungi could help transform nutrient-poor lunar and Martian regolith into a material capable of supporting crops. By helping plants access nutrients and withstand harsh conditions, these microbes could someday make self-sustaining space farming more realistic.",
+    "pubDate": "Fri, 25 Sep 2026 22:26:05 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
     "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
     "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
@@ -584,6 +864,14 @@
     "category": "tech"
   },
   {
+    "title": "Don’t toss cannabis leaves: They may contain rare compounds with medical potential",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260924231711.htm",
+    "summary": "Scientists discovered rare flavoalkaloids in Cannabis leaves for the first time, along with dozens of other phenolic compounds that had never been reported in the plant. The findings suggest that Cannabis leaves, often discarded as waste, may contain a surprisingly rich source of potentially usef...",
+    "pubDate": "Fri, 25 Sep 2026 21:25:10 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "NetBSD Playing with disklabels",
     "link": "https://movq.de/blog/postings/2026-09-25/0/POSTING-en.html",
     "summary": "Comments",
@@ -612,6 +900,14 @@
     "link": "https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395",
     "summary": "Related: https://techcommunity.microsoft.com/blog/excelblog/excel-now... Comments URL: https://news.ycombinator.com/item?id=49849832 Points: 139 # Comments: 103",
     "pubDate": "Fri, 25 Sep 2026 20:55:00 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia",
+    "link": "https://blog.priyan.in/2026/09/analyzing-frontier-model-progress-with.html",
+    "summary": "Article URL: https://blog.priyan.in/2026/09/analyzing-frontier-model-progress-with.html Comments URL: https://news.ycombinator.com/item?id=49849820 Points: 18 # Comments: 17",
+    "pubDate": "Fri, 25 Sep 2026 20:53:54 +0000",
     "source": "Hacker News",
     "category": "tech"
   },
@@ -701,6 +997,54 @@
     "summary": "I built a tool to explore HN topics and how they change over time. Currently covers 2024 to today. Is it useful? What's missing? Comments URL: https://news.ycombinator.com/item?id=49844497 Points: 31 # Comments: 8",
     "pubDate": "Fri, 25 Sep 2026 13:37:54 +0000",
     "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+    "link": "https://github.com/InfinityLoop1308/PipePipe",
+    "summary": "Article URL: https://github.com/InfinityLoop1308/PipePipe Comments URL: https://news.ycombinator.com/item?id=49842764 Points: 48 # Comments: 26",
+    "pubDate": "Fri, 25 Sep 2026 10:55:40 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Scientists discovered two bizarre new sea spiders that are “nightmare fuel”",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260925005412.htm",
+    "summary": "Scientists discovered two strange new sea spider species in the Salish Sea, including a hairy-legged, red-eyed species that can groom itself with comb-like appendages. Another is frequently covered in tiny parasites, and researchers say many more undiscovered sea spiders may still be hiding in th...",
+    "pubDate": "Fri, 25 Sep 2026 09:56:06 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "OpenAI pauses training of its ‘most capable models’",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+    "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to gain internet...",
+    "pubDate": "2026-09-26T12:34:59-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+    "link": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+    "summary": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago, at what we thought then was a wild pivot point for the internet — and now it [&#8230;]",
+    "pubDate": "2026-09-26T10:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Control Resonant is a great game — it’s even better when you read everything",
+    "link": "https://www.theverge.com/games/1000818/control-resonant-reading-collectibles-documents-logs",
+    "summary": "In Control Resonant, the entire world is at stake. But that didn't stop the diligent employees of the Federal Bureau of Control from filing reams of paperwork, and it didn't stop me from reading everything I could find, either. Reading is often optional in Resonant, but it's where some of the gam...",
+    "pubDate": "2026-09-26T09:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Pokémon card resellers have turned collecting into an online blood sport",
+    "link": "https://www.theverge.com/games/1001002/pokemon-30th-celebration-scalping-resellers",
+    "summary": "Earlier this month, Pok&#233;mon card content creator Natalie Roush posted a video to her YouTube and Instagram pages that enraged the larger collection community. In the now-deleted video, Roush shows off two premium boxes of cards that had not yet been officially released, and implores viewers ...",
+    "pubDate": "2026-09-26T08:00:00-04:00",
+    "source": "The Verge",
     "category": "tech"
   },
   {

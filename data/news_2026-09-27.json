@@ -8,6 +8,70 @@
     "category": "general"
   },
   {
+    "title": "Inside Yemen's front-line city as Houthis battle for control",
+    "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
+    "summary": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
+    "pubDate": "Sun, 27 Sep 2026 21:16:31 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Anthropic’s CEO is about to have dinner with President Trump",
+    "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+    "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+    "pubDate": "Sun, 27 Sep 2026 20:34:28 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "McNulty first US world road race winner in 33 years",
+    "link": "https://www.bbc.co.uk/sport/cycling/articles/cqe8xr05dj1no?at_medium=RSS&at_campaign=rss",
+    "summary": "Brandon McNulty becomes the first American winner of the men's road race world title in 33 years with a stunning victory in Montreal.",
+    "pubDate": "Sun, 27 Sep 2026 20:33:42 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Five arrested as counter-terror police investigate major incident near RAF Fairford",
+    "link": "https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss",
+    "summary": "The men have been detained on suspicion of preparation of a terrorist act after three suspicious vehicles were reported to be travelling towards the base.",
+    "pubDate": "Sun, 27 Sep 2026 20:10:51 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Can Muse overcome Meta’s trust issues?",
+    "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+    "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+    "pubDate": "Sun, 27 Sep 2026 19:57:30 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Chelsea restore resilience - are they title contenders again?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ckwyz477nl57o?at_medium=RSS&at_campaign=rss",
+    "summary": "Doubt crept in at Chelsea last season when they lost their Women's Super League crown - but early signs in this campaign suggest they have regained their spark for another challenge.",
+    "pubDate": "Sun, 27 Sep 2026 19:46:44 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Bellamy 'hurting' as Denmark outclass Wales",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cqvgyjp3lgv9o?at_medium=RSS&at_campaign=rss",
+    "summary": "Craig Bellamy says he is \"hurting\" on the back of Wales' 2-0 Nations League A defeat away to Denmark, but feels his side will continue to improve.",
+    "pubDate": "Sun, 27 Sep 2026 19:16:16 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "No handshakes between Republic of Ireland and Israel",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&at_campaign=rss",
+    "summary": "The Republic of Ireland and Israel players do not shake hands with each other before or after Sunday's controversial Uefa Nations League game in Hungary.",
+    "pubDate": "Sun, 27 Sep 2026 18:58:35 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "本月玩什么｜鬼武者 剑之道、火焰纹章 万缕千丝、轨道双子星等",
     "link": "https://sspai.com/post/115056",
     "summary": "《鬼武者》系列的惊艳复活，《风花雪月》的世界观延续，赛璐珞动画风格的双人历险…… 查看全文",
@@ -136,6 +200,14 @@
     "category": "general"
   },
   {
+    "title": "Don't couple your Go code to GitHub",
+    "link": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
+    "summary": "Comments",
+    "pubDate": "Sun, 27 Sep 2026 15:17:42 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Police get more time to quiz suspects in alleged plot against Jewish community",
     "link": "https://www.bbc.co.uk/news/articles/cj3v4qr4x5edo?at_medium=RSS&at_campaign=rss",
     "summary": "Two men - both in the 30s - were arrested under the 2000 Terrorism Act in Manchester on 20 September.",
@@ -149,6 +221,14 @@
     "summary": "I spent the last few weeks with the Sennheiser Momentum 5 to determine if this pair actually stands out, testing everything from sound quality and noise cancellation to comfort and battery life.",
     "pubDate": "Sun, 27 Sep 2026 15:00:00 +0000",
     "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Reverse Engineering the iPod Classic's Undocumented Mikey Chip",
+    "link": "https://terminalbytes.com/reverse-engineering-ipod-classic-mikey-chip/",
+    "summary": "Comments",
+    "pubDate": "Sun, 27 Sep 2026 14:58:31 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -197,6 +277,14 @@
     "summary": "Article URL: https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/ Comments URL: https://news.ycombinator.com/item?id=49866515 Points: 68 # Comments: 25",
     "pubDate": "Sun, 27 Sep 2026 13:30:11 +0000",
     "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Writing Efficient C++ Code",
+    "link": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
+    "summary": "Comments",
+    "pubDate": "Sun, 27 Sep 2026 13:03:12 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -885,6 +973,22 @@
     "summary": "Article URL: https://blog.ericgoldman.org/archives/2026/09/snap-wants-to-be-a-state-actor-kansas-v-snap.htm Comments URL: https://news.ycombinator.com/item?id=49847247 Points: 37 # Comments: 7",
     "pubDate": "Fri, 25 Sep 2026 17:12:04 +0000",
     "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Engram is a sampler that turns broken AI hallucinations into music",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+    "summary": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds. This isn't Suno in a box, though. This isn't a \"push-button, get-song\" device...",
+    "pubDate": "2026-09-27T16:46:36-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+    "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the Hugging Face hack, or the recent attacks on US governmen...",
+    "pubDate": "2026-09-27T13:21:07-04:00",
+    "source": "The Verge",
     "category": "tech"
   },
   {

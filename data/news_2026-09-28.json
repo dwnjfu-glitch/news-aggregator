@@ -208,12 +208,396 @@
     "category": "tech"
   },
   {
+    "title": "Temperatures to hit 25C in burst of late September warmth",
+    "link": "https://www.bbc.co.uk/weather/articles/cqn7438pym51o?at_medium=RSS&at_campaign=rss",
+    "summary": "Temperatures are expected to rise well above the late September average on Tuesday with a very warm night to follow, as Simon King explains.",
+    "pubDate": "Mon, 28 Sep 2026 23:13:58 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Aurora CFO says 30,000 driverless trucks by 2030 isn’t as far-fetched as it sounds",
+    "link": "https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/",
+    "summary": "Self-driving truck company Aurora laid out an audacious plan for 2030. Its CFO says its targets aren't aspirational.",
+    "pubDate": "Mon, 28 Sep 2026 22:58:35 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Littler stunned by Waterhouse at World Grand Prix",
+    "link": "https://www.bbc.co.uk/sport/darts/articles/cmzxzjv5gwzqo?at_medium=RSS&at_campaign=rss",
+    "summary": "World champion Luke Littler's hopes of defending his World Grand Prix title are dashed as he falls to a shock shock first-round defeat by Luke Woodhouse in Leicester.",
+    "pubDate": "Mon, 28 Sep 2026 22:49:06 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Infantino makes bigger cash pledge to Fifa members",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c6n4k9exz4v3o?at_medium=RSS&at_campaign=rss",
+    "summary": "Fifa president Gianni Infantino indicates more money could be distributed to the governing body's members from its cash reserves.",
+    "pubDate": "Mon, 28 Sep 2026 22:32:29 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
+    "link": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
+    "summary": "China is reportedly mulling letting ByteDance, Alibaba buy banned Nvidia chips.",
+    "pubDate": "Mon, 28 Sep 2026 21:49:10 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+    "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+    "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
+    "pubDate": "Mon, 28 Sep 2026 21:29:18 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Shark’s NeverChange Air Purifier Is Nearly Half Off Right Now",
+    "link": "https://www.wired.com/story/shark-air-purifier-deal-october-2026/",
+    "summary": "Shark and other top air purifier brands are on discount ahead of Amazon Prime Big Deal Days.",
+    "pubDate": "Mon, 28 Sep 2026 21:28:20 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
+    "link": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
+    "summary": "Article URL: https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster Comments URL: https://news.ycombinator.com/item?id=49884625 Points: 3 # Comments: 0",
+    "pubDate": "Mon, 28 Sep 2026 21:26:41 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "SpaceX's Starship goes orbital, deploying first next-gen Starlinks",
+    "link": "https://arstechnica.com/space/2026/09/starships-first-orbital-launch-gives-lift-to-spacexs-next-gen-starlinks/",
+    "summary": "Starship had already flown 99 percent of the way to low-Earth orbit. Monday's flight added the last bit.",
+    "pubDate": "Mon, 28 Sep 2026 21:26:19 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Flock Wants the Most Detailed Map of Its Surveillance Cameras Taken Offline",
+    "link": "https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/",
+    "summary": "Article URL: https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/ Comments URL: https://news.ycombinator.com/item?id=49884363 Points: 99 # Comments: 44",
+    "pubDate": "Mon, 28 Sep 2026 21:08:10 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
+    "link": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
+    "summary": "State says LLMs threaten civilization as \"the greatest public nuisance ever created.\"",
+    "pubDate": "Mon, 28 Sep 2026 20:49:39 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Pacing the Frontier is not the actual goal for AI labs",
+    "link": "https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs",
+    "summary": "Article URL: https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs Comments URL: https://news.ycombinator.com/item?id=49884119 Points: 68 # Comments: 64",
+    "pubDate": "Mon, 28 Sep 2026 20:47:26 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+    "link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+    "summary": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
+    "pubDate": "Mon, 28 Sep 2026 20:39:33 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "UK tries to stop Trump's diesel export ban",
+    "link": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
+    "summary": "John Healey said the government is in talks with the US over Donald Trump's threat to stop exports.",
+    "pubDate": "Mon, 28 Sep 2026 20:39:31 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "New device captures carbon dioxide by pumping it across a battery",
+    "link": "https://arstechnica.com/science/2026/09/new-device-captures-carbon-dioxide-by-pumping-it-across-a-battery/",
+    "summary": "The design requires less energy to capture CO 2 than current systems.",
+    "pubDate": "Mon, 28 Sep 2026 20:31:06 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+    "link": "https://github.com/firelex/jeff",
+    "summary": "Article URL: https://github.com/firelex/jeff Comments URL: https://news.ycombinator.com/item?id=49883844 Points: 166 # Comments: 50",
+    "pubDate": "Mon, 28 Sep 2026 20:23:36 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Best of British Design",
+    "link": "https://best-of-british-design.vercel.app/",
+    "summary": "Article URL: https://best-of-british-design.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49883817 Points: 49 # Comments: 26",
+    "pubDate": "Mon, 28 Sep 2026 20:21:22 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "World Labs Is Joining AMD",
+    "link": "https://www.worldlabs.ai/blog/amd-announcement",
+    "summary": "Article URL: https://www.worldlabs.ai/blog/amd-announcement Comments URL: https://news.ycombinator.com/item?id=49883760 Points: 140 # Comments: 47",
+    "pubDate": "Mon, 28 Sep 2026 20:18:05 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Scientists solve 1840s space weather mystery",
+    "link": "https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/",
+    "summary": "Article URL: https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/ Comments URL: https://news.ycombinator.com/item?id=49883536 Points: 34 # Comments: 22",
+    "pubDate": "Mon, 28 Sep 2026 20:00:03 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "To keep drug prices high, pharma has been piling up the patents",
+    "link": "https://arstechnica.com/health/2026/09/to-keep-drug-prices-high-pharma-has-been-piling-up-the-patents/",
+    "summary": "Add-on patents have increased drug patent periods from two years to over six.",
+    "pubDate": "Mon, 28 Sep 2026 19:53:37 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "It's Time to Investigate the AI Labs",
+    "link": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+    "summary": "Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/ Comments URL: https://news.ycombinator.com/item?id=49883471 Points: 187 # Comments: 55",
+    "pubDate": "Mon, 28 Sep 2026 19:53:35 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Trump cuts fuel economy standards back to 2014 levels",
+    "link": "https://arstechnica.com/cars/2026/09/trump-cuts-fuel-economy-standards-back-to-2014-levels/",
+    "summary": "In 2020, Trump cut CAFE to 40 mpg. Now he’s cut it again to just 35 mpg.",
+    "pubDate": "Mon, 28 Sep 2026 19:35:51 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Shopify opens checkout to browser-based AI agents",
+    "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+    "summary": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
+    "pubDate": "Mon, 28 Sep 2026 19:33:57 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Boox Announces the Picco, Its Smallest E-Reader Ever (2026)",
+    "link": "https://www.wired.com/story/boox-picco-announcement-2026/",
+    "summary": "The Boox Picco is a palm-sized e-reader with a 4-inch screen, strong support for different ebook formats, and digital utility tools.",
+    "pubDate": "Mon, 28 Sep 2026 19:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Watch: RAF Fairford suspects are bailed, what happens now?",
+    "link": "https://www.bbc.co.uk/news/videos/cw33kxk3707jo?at_medium=RSS&at_campaign=rss",
+    "summary": "The men were all UK nationals in their 20s who live in London and were arrested under the Explosives Act and on suspicion of preparing a terrorist act.",
+    "pubDate": "Mon, 28 Sep 2026 19:28:54 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "First Steps of the PLC Organization – Independent Public Ledger of Credentials",
+    "link": "https://blog.plcred.org/3mwlphq42d227",
+    "summary": "Article URL: https://blog.plcred.org/3mwlphq42d227 Comments URL: https://news.ycombinator.com/item?id=49883159 Points: 33 # Comments: 18",
+    "pubDate": "Mon, 28 Sep 2026 19:27:45 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Tesla delays Roadster 2 event again due to bad weather",
+    "link": "https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/",
+    "summary": "Tesla says the event \"can only be held outdoors,\" as it's expected to show the car flying in some form using SpaceX thrusters.",
+    "pubDate": "Mon, 28 Sep 2026 19:27:27 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Hart trusts Man City chair Al Mubarak over ruling",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c617jky597k7o?at_medium=RSS&at_campaign=rss",
+    "summary": "Former Manchester City goalkeeper Joe Hart believes club chairman Khaldoon Al Mubarak's claims they are innocent of breaking the Premier League's financial rules.",
+    "pubDate": "Mon, 28 Sep 2026 19:24:40 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The AI boom took over Climate Week and not everyone is happy about it",
+    "link": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
+    "summary": "Just like the rest of the U.S, data centers and AI are dividing climate tech founders and investors.",
+    "pubDate": "Mon, 28 Sep 2026 19:21:59 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Five men arrested in RAF Fairford incident released on police bail",
+    "link": "https://www.bbc.co.uk/news/articles/c6e9elmpvglno?at_medium=RSS&at_campaign=rss",
+    "summary": "Police are exploring whether proxies or individuals working on behalf of a foreign state are involved.",
+    "pubDate": "Mon, 28 Sep 2026 19:16:26 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Kalshi loses again as judges rule prediction markets must obey gambling laws",
+    "link": "https://arstechnica.com/tech-policy/2026/09/another-court-rules-kalshi-sports-bets-arent-swaps-says-states-can-crack-down/",
+    "summary": "Kalshi's defiance of state gambling laws may be headed to Supreme Court.",
+    "pubDate": "Mon, 28 Sep 2026 19:04:09 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Russian foreign minister questions 'what will become of UK' and future of 'the Celts'",
+    "link": "https://www.bbc.co.uk/news/articles/c6j9xk474wxgo?at_medium=RSS&at_campaign=rss",
+    "summary": "In response, Plaid Cymru said Wales' future was \"not for the Kremlin to endorse, oppose or exploit\".",
+    "pubDate": "Mon, 28 Sep 2026 18:58:58 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+    "link": "https://stateofutopia.com/experiments/microllmlab/",
+    "summary": "Article URL: https://stateofutopia.com/experiments/microllmlab/ Comments URL: https://news.ycombinator.com/item?id=49882781 Points: 102 # Comments: 45",
+    "pubDate": "Mon, 28 Sep 2026 18:58:53 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Man City CEO defiant over Premier League charges",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ckz7zxzdwl7lo?at_medium=RSS&at_campaign=rss",
+    "summary": "Manchester City chief executive Ferran Soriano issues a defiant message to the executives of other teams about the club being found guilty of a majority of Premier League charges, BBC Sport has been told.",
+    "pubDate": "Mon, 28 Sep 2026 18:53:30 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Meta-Led Anti-Terrorism Group Faces Mass Resignation of Expert Advisers",
+    "link": "https://www.wired.com/story/independent-advisers-resign-en-masse-from-big-techs-anti-terrorism-group/",
+    "summary": "Meta and other tech giants are pushing through structural changes at the Global Internet Forum to Counter Terrorism that outside researchers allege will weaken oversight of an already embattled consortium.",
+    "pubDate": "Mon, 28 Sep 2026 18:47:54 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Nvidia launches new platform for reining in rogue AI agents",
+    "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+    "summary": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent securit...",
+    "pubDate": "Mon, 28 Sep 2026 18:31:23 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "GrapheneOS – When an app is slow",
+    "link": "https://blog.wirelessmoves.com/2026/09/grapheneos-when-an-app-is-slow.html",
+    "summary": "Article URL: https://blog.wirelessmoves.com/2026/09/grapheneos-when-an-app-is-slow.html Comments URL: https://news.ycombinator.com/item?id=49882208 Points: 74 # Comments: 41",
+    "pubDate": "Mon, 28 Sep 2026 18:21:31 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "What a US diesel export ban could mean for you",
+    "link": "https://www.bbc.co.uk/news/articles/cky9z3r00l9eo?at_medium=RSS&at_campaign=rss",
+    "summary": "The threatened proposal aims to protect US consumers from rising costs, but it could trigger major economic waves if it were to happen.",
+    "pubDate": "Mon, 28 Sep 2026 18:18:30 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Google seemingly confirms plans to kill ChromeOS in 2034",
+    "link": "https://arstechnica.com/gadgets/2026/09/google-seemingly-confirms-plans-to-kill-chromeos-in-2034/",
+    "summary": "Google support maps out how Googlebooks can take over where ChromeOS left off.",
+    "pubDate": "Mon, 28 Sep 2026 18:04:59 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Mahmood signals rethink on migrants' right to remain",
+    "link": "https://www.bbc.co.uk/news/articles/cmz7zxdy4gllo?at_medium=RSS&at_campaign=rss",
+    "summary": "The home secretary has been under pressure to water down the proposals from some Labour MPs, including Angela Rayner.",
+    "pubDate": "Mon, 28 Sep 2026 18:04:41 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+    "link": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+    "summary": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
+    "pubDate": "Mon, 28 Sep 2026 18:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Sonnet 5.5",
+    "link": "https://www.anthropic.com/claude-sonnet-5-5",
+    "summary": "Article URL: https://www.anthropic.com/claude-sonnet-5-5 Comments URL: https://news.ycombinator.com/item?id=49881850 Points: 514 # Comments: 346",
+    "pubDate": "Mon, 28 Sep 2026 17:58:11 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Who wrote Elizabeth I's most scathing letters?",
+    "link": "https://www.smithsonianmag.com/history/who-wrote-elizabeth-is-most-scathing-letters-new-research-suggests-the-tudor-queens-male-secretaries-revised-her-correspondence-to-emphasize-her-temper-180989565/",
+    "summary": "Article URL: https://www.smithsonianmag.com/history/who-wrote-elizabeth-is-most-scathing-letters-new-research-suggests-the-tudor-queens-male-secretaries-revised-her-correspondence-to-emphasize-her-temper-180989565/ Comments URL: https://news.ycombinator.com/item?id=49881692 Points: 32 # Comments: 18",
+    "pubDate": "Mon, 28 Sep 2026 17:47:08 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Aldi boss says some of rivals' loyalty discounts 'dupe' customers",
+    "link": "https://www.bbc.co.uk/news/articles/c6dj4vkwg8j0o?at_medium=RSS&at_campaign=rss",
+    "summary": "Aldi is the only major supermarket chain that doesn't operate a loyalty scheme, which are hugely popular and used by millions of shoppers.",
+    "pubDate": "Mon, 28 Sep 2026 17:45:52 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "派评 | 近期值得关注的 App",
     "link": "https://sspai.com/post/115094",
     "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀 查看全文",
     "pubDate": "Mon, 28 Sep 2026 17:45:02 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "F1 in Azerbaijan: That was almost a close-run thing",
+    "link": "https://arstechnica.com/cars/2026/09/f1-in-azerbaijan-that-was-almost-a-close-run-thing/",
+    "summary": "Kimi Antonelli could not repeat his Monza magic after a crash in qualifying.",
+    "pubDate": "Mon, 28 Sep 2026 17:41:35 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Joseph Szabo’s pictures of American adolescents",
+    "link": "https://www.newyorker.com/culture/photo-booth/the-teen-portraits-that-captivated-sofia-coppola",
+    "summary": "Article URL: https://www.newyorker.com/culture/photo-booth/the-teen-portraits-that-captivated-sofia-coppola Comments URL: https://news.ycombinator.com/item?id=49881606 Points: 67 # Comments: 34",
+    "pubDate": "Mon, 28 Sep 2026 17:41:28 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Leicestershire get partial points reprieve but stay in limbo",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/ckddv8j94395o?at_medium=RSS&at_campaign=rss",
+    "summary": "Leicestershire have eight points of their 27-point County Championship deduction reinstated but their Division One status remains in limbo.",
+    "pubDate": "Mon, 28 Sep 2026 17:34:59 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Launch HN: Vespper (YC F24) – SOTA Docx MCP",
+    "link": "https://www.vespper.com/blog/launching-vespper-docx-mcp",
+    "summary": "Hey HN! We're Dudu and Topaz from Vespper ( https://vespper.com ). Vespper is an MCP that lets AI agents efficiently edit Word documents, powered by our fine-tuned model. It's currently 3× faster, 2× cheaper and more accurate than the closest alternative. Check out an overview of how the product ...",
+    "pubDate": "Mon, 28 Sep 2026 17:34:36 +0000",
+    "source": "Hacker News",
+    "category": "tech"
   },
   {
     "title": "基于 Termux 的 Android 手机开发服务器实操",
@@ -224,12 +608,188 @@
     "category": "tech-cn"
   },
   {
+    "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+    "link": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+    "summary": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
+    "pubDate": "Mon, 28 Sep 2026 17:29:50 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
+    "link": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss",
+    "summary": "South African President Cyril Ramaphosa says the murders are a \"stain on our national conscience\".",
+    "pubDate": "Mon, 28 Sep 2026 17:26:21 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Iran court upholds lashes sentence for singer who performed without hijab",
+    "link": "https://www.bbc.co.uk/news/articles/crn45ed1kqqgo?at_medium=RSS&at_campaign=rss",
+    "summary": "Parastoo Ahmadi was convicted of \"offending public decency\" after singing while wearing a sleeveless dress during a livestreamed concert.",
+    "pubDate": "Mon, 28 Sep 2026 17:15:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+    "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+    "summary": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
+    "pubDate": "Mon, 28 Sep 2026 17:09:02 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Slipknot fans threaten boycott after Marilyn Manson announced as support act for UK show",
+    "link": "https://www.bbc.co.uk/news/articles/ckjw5egyexz8o?at_medium=RSS&at_campaign=rss",
+    "summary": "The heavy metal band will be joined by the US rock musician during their London show.",
+    "pubDate": "Mon, 28 Sep 2026 17:00:29 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+    "link": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+    "summary": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
+    "pubDate": "Mon, 28 Sep 2026 16:52:38 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "The iPhone Duo may already have its first killer app: a virtual Walkman",
+    "link": "https://techcrunch.com/2026/09/28/the-iphone-duo-may-already-have-its-first-killer-app-a-virtual-walkman/",
+    "summary": "The app imitates how Walkmans used to function: You can open up the Duo to pick your music and \"insert\" your cassette tape, then close the device shut to start listening.",
+    "pubDate": "Mon, 28 Sep 2026 16:47:49 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
+    "link": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/",
+    "summary": "US Government websites among \"dozens of third parties\" OpenAI has recently notified.",
+    "pubDate": "Mon, 28 Sep 2026 16:43:18 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Show HN: Destroy Any Website with Stickman",
+    "link": "https://destroy.spritefusion.com/",
+    "summary": "Article URL: https://destroy.spritefusion.com/ Comments URL: https://news.ycombinator.com/item?id=49880601 Points: 90 # Comments: 26",
+    "pubDate": "Mon, 28 Sep 2026 16:31:28 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Women protest in the streets of Delhi after string of sexual assaults",
+    "link": "https://www.bbc.co.uk/news/videos/cm70lpg5z45go?at_medium=RSS&at_campaign=rss",
+    "summary": "BBC correspondent Azadeh Moshiri reports from Delhi, where hundreds of women are protesting.",
+    "pubDate": "Mon, 28 Sep 2026 16:15:57 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "NASA 'troubleshooting' transporter for space station's robotic arm [Updated]",
+    "link": "https://arstechnica.com/space/2026/09/nasa-for-the-time-being-is-unable-to-move-the-space-stations-large-robotic-armthe-large-robotic-arm-on-the-international-space-station-has-stopped-working/",
+    "summary": "NASA isn't saying much. The problem may be temporary.",
+    "pubDate": "Mon, 28 Sep 2026 16:03:50 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Pirating the Pirates",
+    "link": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
+    "summary": "Article URL: https://mubi.com/en/notebook/posts/pirating-the-pirates Comments URL: https://news.ycombinator.com/item?id=49880036 Points: 368 # Comments: 196",
+    "pubDate": "Mon, 28 Sep 2026 15:54:15 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Nvidia wants to put a watchdog chip next to every AI agent",
+    "link": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
+    "summary": "Article URL: https://www.cnbc.com/2026/09/28/nvidia-releases.html Comments URL: https://news.ycombinator.com/item?id=49879883 Points: 82 # Comments: 128",
+    "pubDate": "Mon, 28 Sep 2026 15:46:36 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
+    "link": "https://www.thisamericanlife.org/897/transcript",
+    "summary": "Article URL: https://www.thisamericanlife.org/897/transcript Comments URL: https://news.ycombinator.com/item?id=49879697 Points: 231 # Comments: 149",
+    "pubDate": "Mon, 28 Sep 2026 15:35:09 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
+    "summary": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
+    "pubDate": "Mon, 28 Sep 2026 15:30:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Physical AI chip developer SiMa AI hits $1.45B valuation",
+    "link": "https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/",
+    "summary": "The edge computing startup raised a $150 million Series C led by Fidelity and Amplify.",
+    "pubDate": "Mon, 28 Sep 2026 15:29:21 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "MAVI bets on the AI boom creating demand for a new kind of accountant",
+    "link": "https://techcrunch.com/2026/09/28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant/",
+    "summary": "Accounting staffing company MAVI emerges from stealth with $4 million in funding.",
+    "pubDate": "Mon, 28 Sep 2026 15:26:46 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
     "title": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
     "link": "https://sspai.com/post/114972",
     "summary": "一起来看看 Apple 是如何围绕一块会改变形状的屏幕，重新思考人与界面的关系。 查看全文",
     "pubDate": "Mon, 28 Sep 2026 15:00:00 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
+    "link": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
+    "summary": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones and flag fake voices in real time, and it's now one of the companies competing in Startup Battlefi...",
+    "pubDate": "Mon, 28 Sep 2026 15:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Commonwealth Fusion Systems’ Brandon Sorbom and Helion’s David Kirtley on bringing fusion to the grid at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/28/commonwealth-fusion-systems-brandon-sorbom-and-helions-david-kirtley-on-bringing-fusion-to-the-grid-at-techcrunch-disrupt-2026/",
+    "summary": "CFS' Brandon Sorbom and Helion's David Kirtley join the Smart Systems Stage at TechCrunch Disrupt 2026 to discuss the breakthroughs moving fusion forward, the challenges that remain, and what it will take to deliver fusion power to the grid at scale. Get your pass at regular price and get a secon...",
+    "pubDate": "Mon, 28 Sep 2026 15:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "FBI reportedly declares ‘cyber security incident’ after hackers steal agents’ personal data",
+    "link": "https://techcrunch.com/2026/09/28/fbi-reportedly-declares-cyber-security-incident-after-hackers-steal-agents-personal-data/",
+    "summary": "The bureau has not yet publicly confirmed a breach, but has told its agents that their personal information and Social Security numbers were exposed.",
+    "pubDate": "Mon, 28 Sep 2026 14:50:30 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "These Extremists Are Running for Election in November",
+    "link": "https://www.wired.com/story/these-extremists-are-running-for-election-in-november/",
+    "summary": "With the threat of political violence at unprecedented levels, state and federal GOP candidates are openly sharing racist, pro-militia, anti-vaccine, sexist, antisemitic, and secessionist views.",
+    "pubDate": "Mon, 28 Sep 2026 14:41:08 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
+    "summary": "Thousands of applications. Multiple rounds of review. Hundreds of hours spent evaluating startups from around the world. Now comes the part everyone has been waiting for. Register for TechCrunch Disrupt 2026 today.",
+    "pubDate": "Mon, 28 Sep 2026 14:30:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
   },
   {
     "title": "Modulate raises $25M for its voice models and analysis suite",
@@ -262,6 +822,14 @@
     "pubDate": "Mon, 28 Sep 2026 14:00:00 +0000",
     "source": "TechCrunch",
     "category": "tech"
+  },
+  {
+    "title": "Watch: From launch to fiery splashdown, SpaceX's Starship completes orbit test",
+    "link": "https://www.bbc.co.uk/news/videos/c6ge4lp442npo?at_medium=RSS&at_campaign=rss",
+    "summary": "A thunderous lift off, rapid satellite deployments and a fiery ending. That's how SpaceX's 14th launch of its Starship rocket panned out today.",
+    "pubDate": "Mon, 28 Sep 2026 13:59:06 GMT",
+    "source": "BBC News",
+    "category": "general"
   },
   {
     "title": "Coding Is Not Solved – Alex Ewerlöf Notes",
@@ -312,6 +880,14 @@
     "category": "tech"
   },
   {
+    "title": "Prosecutors are reopening a Cornell fraternity rape case. Here's what we know",
+    "link": "https://www.npr.org/2026/09/28/nx-s1-5983480/cornell-fraternity-rape-chi-phi-case-updates",
+    "summary": "New York prosecutors are reopening an investigation into an alleged rape case at Cornell University in 2024. The alleged victim recently filed a lawsuit against seven members of Chi Phi fraternity.",
+    "pubDate": "Mon, 28 Sep 2026 13:14:25 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "Police block Protestant Orange Order from controversial parade route",
     "link": "https://www.bbc.co.uk/news/articles/cmqlwn60yyq9o?at_medium=RSS&at_campaign=rss",
     "summary": "They had been unable to make the permitted parade on Sunday morning because protesters had gathered on the mainly-nationalist Garvaghy Road.",
@@ -334,6 +910,14 @@
     "pubDate": "Mon, 28 Sep 2026 13:00:00 +0000",
     "source": "Wired",
     "category": "tech"
+  },
+  {
+    "title": "Trump's immigration push has largely spared farms. Idaho dairymen worry it won't last.",
+    "link": "https://www.npr.org/2026/09/28/nx-s1-5976810/trumps-immigration-idaho-dairy-industry",
+    "summary": "America's farms have largely escaped the president's aggressive immigration crackdown. But as ICE sweeps continue across the nation, farmers are uneasy because many still can't find enough workers.",
+    "pubDate": "Mon, 28 Sep 2026 12:27:30 -0400",
+    "source": "NPR",
+    "category": "general"
   },
   {
     "title": "FAI investigates alleged racist abuse of Idah",
@@ -368,12 +952,28 @@
     "category": "general"
   },
   {
+    "title": "The Trump administration weakens fuel efficiency standards for new cars",
+    "link": "https://www.npr.org/2026/09/28/nx-s1-5918509/car-fuel-efficiency-cafe-standards-rollback",
+    "summary": "The Trump administration says easing these standards will make cars more affordable. Critics say it's not so simple and could be costly for the environment.",
+    "pubDate": "Mon, 28 Sep 2026 12:07:15 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "Three dead, including child, in Channel crossing attempt",
     "link": "https://www.bbc.co.uk/news/articles/c6vgy71rle35o?at_medium=RSS&at_campaign=rss",
     "summary": "A 10-year-old child and two 30-year-old women were on board the boat - which was carrying 105 people.",
     "pubDate": "Mon, 28 Sep 2026 12:06:52 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "What Would A Serious AI Product Look Like?",
+    "link": "https://blog.glyph.im/2026/09/serious-ai-product.html",
+    "summary": "Comments",
+    "pubDate": "Mon, 28 Sep 2026 12:01:01 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Comebacks, fly-hacks and cornrows - Prem talking points",
@@ -414,6 +1014,14 @@
     "pubDate": "Mon, 28 Sep 2026 11:15:06 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "HardenedBSD August / September 2026 Status Report",
+    "link": "https://hardenedbsd.org/article/shawn-webb/2026-09-27/hardenedbsd-august-september-2026-status-report",
+    "summary": "Comments",
+    "pubDate": "Mon, 28 Sep 2026 11:14:23 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "摸鱼+3 | 还剩三天班，一天一个解谜游戏",
@@ -464,6 +1072,14 @@
     "category": "tech"
   },
   {
+    "title": "Output-to-seed mappings for CPython's PRNG",
+    "link": "https://github.com/frazerpearce/TimeLord",
+    "summary": "Comments",
+    "pubDate": "Mon, 28 Sep 2026 10:23:03 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page",
     "link": "https://github.com/seamusc/papermono-shopping-list",
     "summary": "Fridge magnet shopping list on an M5Stack PaperMono (ESP32-S3, e-ink touchscreen), synced with a phone web app over Wi-Fi. Works offline, ~2,400 lines of C++. This is a great wee device! BLE, Wi-Fi and LoRa on one board makes it flexible for way more than a shopping list, this is just what I buil...",
@@ -478,6 +1094,14 @@
     "pubDate": "Mon, 28 Sep 2026 10:11:33 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "How to Solve Hallucination (with RLCD)",
+    "link": "https://www.robw.fyi/2026/09/28/how-to-solve-hallucination/",
+    "summary": "Comments",
+    "pubDate": "Mon, 28 Sep 2026 10:04:58 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "UK diesel price hits all-time high, the RAC says",
@@ -920,6 +1544,86 @@
     "category": "tech"
   },
   {
+    "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+    "link": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+    "summary": "AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion. World Labs launched in 2024 and was valued at $1 billion in a matter of months. The startup launched its first comme...",
+    "pubDate": "2026-09-28T17:31:35-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Bose starts adding Auracast to its headphones",
+    "link": "https://www.theverge.com/tech/1001522/bose-headphones-get-auracast-support",
+    "summary": "A new firmware update for the $449 Bose QuietComfort Ultra Headphones Gen 2 adds support for Bluetooth LE Audio and Auracast as beta features. The flagship Ultra headphones are the first from Bose to support the audio sharing technology, which the company plans to bring to more devices soon. Only...",
+    "pubDate": "2026-09-28T15:31:24-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "OpenAI’s AI agents need to catch up",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+    "summary": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead in that race. Rumors abound that OpenAI...",
+    "pubDate": "2026-09-28T14:45:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Trump finalizes rule to make cars less fuel efficient",
+    "link": "https://www.theverge.com/news/1001610/trump-weakens-fuel-efficiency-standards",
+    "summary": "The US Department of Transportation finalized its plans today to weaken fuel efficiency standards, calling it \"among the largest deregulatory actions under the second Trump Administration.\" It's a nail in the coffin for Biden-era standards that would have required fleet average fuel economy to re...",
+    "pubDate": "2026-09-28T14:39:50-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
+    "summary": "In March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian's Door. Vivian's Door, headquartered in Alabama, typically provided training, resources, and community to underserved and minority-owned businesses. The work sometimes put it in close con...",
+    "pubDate": "2026-09-28T14:30:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Florida seeks a ban on ChatGPT acting like a person",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
+    "summary": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attributes,\" a few months after Florida sued the AI company over safety concerns. According to Uthmeier, users are lulled into a false sense of security by the AI bot, as \"ChatGPT's use...",
+    "pubDate": "2026-09-28T13:00:23-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "OpenAI keeps bulldozing mathematicians",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
+    "summary": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them. OpenAI is now trying to do better. Somehow, it has botched that too. OpenAI's latest attempt to repair fractur...",
+    "pubDate": "2026-09-28T13:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Walmart won’t hike prices based on your shopping history, CEO says",
+    "link": "https://www.theverge.com/tech/1001492/walmart-dynamic-pricing-digital-shelf-labels",
+    "summary": "Walmart says it won't change product prices based on your personal information or the time of day, as reported earlier by The Wall Street Journal. In a letter to customers, Walmart CEO John Furner writes that the company's switch to digital shelf labels is meant to save store associates time, rat...",
+    "pubDate": "2026-09-28T12:44:57-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Volkswagen replaces ID.4 with all-electric Tiguan",
+    "link": "https://www.theverge.com/transportation/1001418/volkswagen-replaces-id4-id-tiguan-ev",
+    "summary": "In a widely expected move, Volkswagen announced Monday that it will replace the recently retired ID.4 crossover with the upcoming ID.Tiguan. The decision is an acknowledgment by the German automaker that its more recognizable nameplates like Tiguan are likely an easier sell with consumers, especi...",
+    "pubDate": "2026-09-28T11:43:09-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Dreame’s step-climbing X50 Ultra mopping vacuum is hundreds off",
+    "link": "https://www.theverge.com/gadgets/1001313/dreame-x50-ultra-robot-vacuum-mop-asus-rog-ally-deal-sale",
+    "summary": "It’s been a while since we’ve seen a big price cut on a capable robot vacuum and mop hybrid that can scale over short steps and threshold to hunt messes. Dreame’s X50 Ultra is the model that my colleague Jen recommends for hard floors and carpets, and it’s down to $899.99 at Amazon for Prime [&#8...",
+    "pubDate": "2026-09-28T10:55:12-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
     "title": "Bose’s first wired earbuds in 11 years add noise canceling",
     "link": "https://www.theverge.com/tech/1001326/bose-wired-earbuds-noise-canceling-headphones-preorder",
     "summary": "Everything old is new again as today Bose announced its first pair of wired earbuds since discontinuing the option in 2015. The new tethered earbuds, which are simply called the Bose Noise Cancelling Wired Earbuds, do away with battery anxiety and the need to remember to charge them every few day...",
@@ -966,6 +1670,14 @@
     "pubDate": "2026-09-28T04:00:36-04:00",
     "source": "The Verge",
     "category": "tech"
+  },
+  {
+    "title": "Paid to peer review: firms are paying researchers to assess manuscripts for journals",
+    "link": "https://www.nature.com/articles/d41586-026-02277-y",
+    "summary": "Nature, Published online: 28 September 2026; doi:10.1038/d41586-026-02277-y Freelance peer-review jobs through third-party companies raise practical and ethical questions.",
+    "pubDate": "2026-09-28",
+    "source": "Nature",
+    "category": "science"
   },
   {
     "title": "China now leads the world in trials for next-gen CAR-T therapies",

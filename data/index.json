@@ -1,11 +1,787 @@
 [
   {
+    "title": "从玩家的世界掠过：Bungie 的「列车」如何驶向终焉",
+    "link": "https://sspai.com/post/115070",
+    "summary": "Bungie 究竟是在和时间赛跑，还是在和自己赛跑？ 查看全文",
+    "pubDate": "Wed, 30 Sep 2026 22:32:58 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "The top secret URSALA, RAQUEL, and FARRAH satellites",
+    "link": "https://www.thespacereview.com/article/4951/1",
+    "summary": "Article URL: https://www.thespacereview.com/article/4951/1 Comments URL: https://news.ycombinator.com/item?id=49915082 Points: 22 # Comments: 0",
+    "pubDate": "Wed, 30 Sep 2026 22:03:04 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Dinosaur-killing impact crater might have been teeming with life",
+    "link": "https://arstechnica.com/science/2026/09/dinosaur-killing-impact-crater-might-have-been-teeming-with-life/",
+    "summary": "Hot, nutrient water might have lasted for over 5 million years after the impact.",
+    "pubDate": "Wed, 30 Sep 2026 21:54:12 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Flydubai passenger describes putting attacker in chokehold after cockpit stabbing",
+    "link": "https://www.bbc.co.uk/news/articles/cmx2z92xx57no?at_medium=RSS&at_campaign=rss",
+    "summary": "Other passengers on the Israel-bound flight described the \"terrifying\" moment the plane dropped.",
+    "pubDate": "Wed, 30 Sep 2026 21:38:54 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Fifth unvaccinated person dies of measles; CDC still not counting all deaths",
+    "link": "https://arstechnica.com/health/2026/09/fifth-unvaccinated-person-dies-of-measles-cdc-still-not-counting-all-deaths/",
+    "summary": "State health officials race to vaccinate residents by giving over 8,500 doses.",
+    "pubDate": "Wed, 30 Sep 2026 21:37:54 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Veteran broadcaster Dame Esther Rantzen dies aged 86",
+    "link": "https://www.bbc.co.uk/news/articles/c4g4z255y30o?at_medium=RSS&at_campaign=rss",
+    "summary": "Rantzen, who fronted the BBC's That's Life for two decades, went on to found Childline, and in recent years had been a campaigner for assisted dying.",
+    "pubDate": "Wed, 30 Sep 2026 21:30:38 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "UK believes Iran involved in RAF Fairford incident, PM says",
+    "link": "https://www.bbc.co.uk/news/articles/cjwyz59k5y75o?at_medium=RSS&at_campaign=rss",
+    "summary": "Iran's foreign minister has responded, saying the PM was \"barking up the wrong tree\".",
+    "pubDate": "Wed, 30 Sep 2026 21:26:59 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Returning from vacation? The government can search your phone without a warrant.",
+    "link": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
+    "summary": "Reminder: The \"border exemption\" to your rights is real.",
+    "pubDate": "Wed, 30 Sep 2026 21:19:56 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+    "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+    "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+    "pubDate": "Wed, 30 Sep 2026 21:07:40 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "A local network of implants uses your body as the wiring",
+    "link": "https://arstechnica.com/science/2026/09/scientists-built-implants-that-talk-to-each-other-through-body-tissue/",
+    "summary": "It's possible to send electrical signals right through human tissues.",
+    "pubDate": "Wed, 30 Sep 2026 21:06:56 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "The White House Is Starting to Panic Over the Midterms",
+    "link": "https://www.wired.com/story/the-white-house-is-starting-to-panic-over-the-midterms/",
+    "summary": "President Donald Trump still thinks Republicans have a shot. His aides are less convinced.",
+    "pubDate": "Wed, 30 Sep 2026 21:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
+    "link": "https://artificialanalysis.ai/models/gemini-4-argon",
+    "summary": "Article URL: https://artificialanalysis.ai/models/gemini-4-argon Comments URL: https://news.ycombinator.com/item?id=49914236 Points: 46 # Comments: 21",
+    "pubDate": "Wed, 30 Sep 2026 20:50:28 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
+    "link": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
+    "summary": "A simple email gives the attackers the ability to remotely inject OS commands.",
+    "pubDate": "Wed, 30 Sep 2026 20:44:48 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Factory CEO just accused his VC board advisor of spying for Cognition",
+    "link": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
+    "summary": "VC Chris Degnan and former board advisor to Factory AI has taken a job as chief revenue officer for Cognition.",
+    "pubDate": "Wed, 30 Sep 2026 20:39:09 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Punish Man City this season, say other club chiefs",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c6vgyg3zv3kwo?at_medium=RSS&at_campaign=rss",
+    "summary": "Manchester City's punishment for breaching Premier League rules should be handed down before the end of this season, senior football figures tell BBC Sport.",
+    "pubDate": "Wed, 30 Sep 2026 20:38:22 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Gitea 28.0",
+    "link": "https://blog.gitea.com/release-of-28.0.0/",
+    "summary": "Article URL: https://blog.gitea.com/release-of-28.0.0/ Comments URL: https://news.ycombinator.com/item?id=49913975 Points: 49 # Comments: 17",
+    "pubDate": "Wed, 30 Sep 2026 20:32:23 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
+    "link": "https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/",
+    "summary": "Six major AI companies signed a voluntary agreement with the White House this week vowing to implement safeguards. It’s unclear how much that matters.",
+    "pubDate": "Wed, 30 Sep 2026 20:30:09 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America",
+    "link": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
+    "summary": "Spotify founder Daniel Ek’s Neko Health raised $700 million to build a business around scanning your body, but it’s not the only company centering its roadmap around a new kind of preventative healthcare. Midjourney is building its own body scanner, while Function Health has also raised significa...",
+    "pubDate": "Wed, 30 Sep 2026 20:20:02 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Bayeux Tapestry tour added for blind people after legal threat",
+    "link": "https://www.bbc.co.uk/news/articles/cwp93d9r034xo?at_medium=RSS&at_campaign=rss",
+    "summary": "The British Museum will offer an audio-described Bayeux Tapestry tour for people with impaired vision.",
+    "pubDate": "Wed, 30 Sep 2026 20:13:02 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
+    "link": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
+    "summary": "So much for Gemini 3.5 Pro.",
+    "pubDate": "Wed, 30 Sep 2026 20:11:08 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Functional Ultrasound Imaging (fUSI) from scratch",
+    "link": "https://www.neuroai.science/p/functional-ultrasound-imaging-from",
+    "summary": "Article URL: https://www.neuroai.science/p/functional-ultrasound-imaging-from Comments URL: https://news.ycombinator.com/item?id=49913604 Points: 13 # Comments: 1",
+    "pubDate": "Wed, 30 Sep 2026 20:06:39 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Gemini 4 Argon",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+    "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/ Comments URL: https://news.ycombinator.com/item?id=49913571 Points: 712 # Comments: 450",
+    "pubDate": "Wed, 30 Sep 2026 20:04:37 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "CS240 AI Cheating Retrospective",
+    "link": "https://turkeyland.net/thoughts/ai.php",
+    "summary": "Article URL: https://turkeyland.net/thoughts/ai.php Comments URL: https://news.ycombinator.com/item?id=49913458 Points: 33 # Comments: 16",
+    "pubDate": "Wed, 30 Sep 2026 19:54:29 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Reddit is putting more limits on Old.Reddit.com",
+    "link": "https://arstechnica.com/gadgets/2026/09/reddit-will-block-old-reddit-com-from-people-who-havent-used-it-in-6-months/",
+    "summary": "Reddit says it's fighting \"automated abuse.\"",
+    "pubDate": "Wed, 30 Sep 2026 19:53:33 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Infantino should have no place in future of football - Pinto",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cm0rekrpxnl1o?at_medium=RSS&at_campaign=rss",
+    "summary": "The computer hacker who released documents which led to the Premier League investigation into Manchester City says Gianni Infantino \"should have no place in the future of the game\".",
+    "pubDate": "Wed, 30 Sep 2026 19:47:40 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Dear Software Makers",
+    "link": "https://blog.jim-nielsen.com/2026/dear-software-makers/",
+    "summary": "Article URL: https://blog.jim-nielsen.com/2026/dear-software-makers/ Comments URL: https://news.ycombinator.com/item?id=49913364 Points: 33 # Comments: 11",
+    "pubDate": "Wed, 30 Sep 2026 19:45:38 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Halfspace experimental IDE for solid modeling with distance fields",
+    "link": "https://www.mattkeeter.com/projects/halfspace/",
+    "summary": "Article URL: https://www.mattkeeter.com/projects/halfspace/ Comments URL: https://news.ycombinator.com/item?id=49913350 Points: 42 # Comments: 6",
+    "pubDate": "Wed, 30 Sep 2026 19:44:37 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Respect and laughs as Fury and Joshua face off",
+    "link": "https://www.bbc.co.uk/sport/boxing/articles/cme8x7rey9dlo?at_medium=RSS&at_campaign=rss",
+    "summary": "After more than a decade of public feuding and false starts, Tyson Fury and Anthony Joshua exchange pleasantries, trade jokes and even discuss going for a pint at a news conference in London.",
+    "pubDate": "Wed, 30 Sep 2026 19:37:32 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Ronaldo leaves Portugal camp after coach denies rift",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cm9dw7ddwgzwo?at_medium=RSS&at_campaign=rss",
+    "summary": "Cristiano Ronaldo says he has left Portugal's international camp and will explain why \"in time\", hours after head coach Jorge Jesus denied any rift with the player.",
+    "pubDate": "Wed, 30 Sep 2026 19:33:07 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise",
+    "link": "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/",
+    "summary": "AI is far from a perfect resource. But it seems to hallucinate less than Kennedy.",
+    "pubDate": "Wed, 30 Sep 2026 19:31:25 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "The Battle to Be Your Personal AI Agent Is Here",
+    "link": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/",
+    "summary": "OpenAI's Dots and Meta's Muse are vying to be your AI agent of choice. I've tried both—and I suspect you will too.",
+    "pubDate": "Wed, 30 Sep 2026 19:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Hackers stole millions of US military personnel records during months-long data breach",
+    "link": "https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/",
+    "summary": "The Department of Defense notified millions of current and former U.S. military personnel that their personal information had been stolen in a months-long breach.",
+    "pubDate": "Wed, 30 Sep 2026 19:29:08 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "EDG C++ front-end goes public",
+    "link": "https://edgcpp.org/#transition",
+    "summary": "Article URL: https://edgcpp.org/#transition Comments URL: https://news.ycombinator.com/item?id=49913192 Points: 99 # Comments: 36",
+    "pubDate": "Wed, 30 Sep 2026 19:26:37 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The Disney protests were a wake-up call about the risks of streaming mergers",
+    "link": "https://arstechnica.com/gadgets/2026/09/what-the-disney-protests-over-kimmel-taught-us-about-streaming-mergers/",
+    "summary": "Boycotting Disney is hard.",
+    "pubDate": "Wed, 30 Sep 2026 19:22:19 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "DoorDash’s drone strategy started on the ground",
+    "link": "https://techcrunch.com/2026/09/30/doordashs-drone-strategy-started-on-the-ground/",
+    "summary": "DoorDash unveiled the six-propeller aircraft that will be used in its new drone delivery business at its annual Dash Forward 2026 event.",
+    "pubDate": "Wed, 30 Sep 2026 19:22:13 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "BMW built the same car for gas and electric. The EV is $4,400 cheaper.",
+    "link": "https://techcrunch.com/2026/09/30/bmw-built-the-same-car-for-gas-and-electric-the-ev-is-4400-cheaper/",
+    "summary": "The new BMW 3 Series shows just how quickly EVs have caught up to fossil fuel vehicles on pricing.",
+    "pubDate": "Wed, 30 Sep 2026 19:19:40 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "'Shaken and emotional'  travellers arrive at Israeli airport",
+    "link": "https://www.bbc.co.uk/news/videos/cmx2z29wx32vo?at_medium=RSS&at_campaign=rss",
+    "summary": "The BBC's Yogita Limaye is at Ben Gurion Airport as passengers from the Flydubai flight arrive in Israel.",
+    "pubDate": "Wed, 30 Sep 2026 19:11:20 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Furry Airline Pilots Are Just Minding Their Own Business",
+    "link": "https://www.wired.com/story/furry-airline-pilots-are-just-minding-their-own-business/",
+    "summary": "“We’re furries at home, and we’re airline pilots at work, and these are two separate things,” says one member of the community in response to senator Tommy Tuberville's recent rant.",
+    "pubDate": "Wed, 30 Sep 2026 19:09:57 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Surprisingly complex waves reveal the brain's inner workings",
+    "link": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+    "summary": "Article URL: https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/ Comments URL: https://news.ycombinator.com/item?id=49912955 Points: 86 # Comments: 22",
+    "pubDate": "Wed, 30 Sep 2026 19:04:50 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+    "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+    "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
+    "pubDate": "Wed, 30 Sep 2026 19:00:57 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Dame Esther Rantzen: A presenter who campaigned for change",
+    "link": "https://www.bbc.co.uk/news/videos/cmn8e8736wjyo?at_medium=RSS&at_campaign=rss",
+    "summary": "The veteran broadcaster's career spanned street interviews, national campaigns and emotional reunions.",
+    "pubDate": "Wed, 30 Sep 2026 19:00:50 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "There Are Plenty of Reasons to Be Concerned About Bioweapons Development—Even Without AI",
+    "link": "https://www.wired.com/story/you-dont-need-ai-to-be-concerned-about-bioweapons-development-but-it-helps/",
+    "summary": "In her new book on biological warfare, Annie Jacobsen didn’t even discuss AI because scientists can already warp Mother Nature to create extinction-level events.",
+    "pubDate": "Wed, 30 Sep 2026 19:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Arsenal let two-goal lead slip to draw with Paris FC",
+    "link": "https://www.bbc.co.uk/sport/football/videos/cwzdz9mzd3mvo?at_medium=RSS&at_campaign=rss",
+    "summary": "A miscommunication between Arsenal goalkeeper Misa Rodriguez and England captain Leah Williamson gifts Paris FC a late equaliser as the sides draw 2-2 in the Women's Champions League.",
+    "pubDate": "Wed, 30 Sep 2026 18:55:13 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Before pixels: Modular industrial dashboards",
+    "link": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/",
+    "summary": "Article URL: https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/ Comments URL: https://news.ycombinator.com/item?id=49912792 Points: 17 # Comments: 3",
+    "pubDate": "Wed, 30 Sep 2026 18:49:06 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
+    "link": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/",
+    "summary": "Trump gets dozens of AI firms to agree to voluntary safety tests.",
+    "pubDate": "Wed, 30 Sep 2026 18:47:01 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "'I pulled the controls': Passenger tells Israeli PM how he helped stop attacker",
+    "link": "https://www.bbc.co.uk/news/videos/c6rered722j5o?at_medium=RSS&at_campaign=rss",
+    "summary": "The man says he \"pulled the controls\" of the plane after it plummeted during the attack.",
+    "pubDate": "Wed, 30 Sep 2026 18:40:36 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Teens who died in car that entered River Wear named",
+    "link": "https://www.bbc.co.uk/news/articles/ck5yw1zg8lqgo?at_medium=RSS&at_campaign=rss",
+    "summary": "Jackson Duke, Luke Etheridge and Zara Shaw died when the car they were in ended up in the River Wear.",
+    "pubDate": "Wed, 30 Sep 2026 18:40:18 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack",
+    "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
+    "summary": "OpenAI makes others suffer \"the harms of its unsafe decision-making,\" nonprofit says.",
+    "pubDate": "Wed, 30 Sep 2026 18:25:04 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+    "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+    "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
+    "pubDate": "Wed, 30 Sep 2026 18:23:57 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
+    "link": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
+    "summary": "Article URL: https://www.netlify.com/blog/edge-functions-firecracker-microvms/ Comments URL: https://news.ycombinator.com/item?id=49912444 Points: 82 # Comments: 31",
+    "pubDate": "Wed, 30 Sep 2026 18:17:45 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "China funding UK research and sending it to Beijing's spies, MI5 warns",
+    "link": "https://www.bbc.co.uk/news/articles/cwy7zrljp527o?at_medium=RSS&at_campaign=rss",
+    "summary": "British universities are being urged to sever ties with China General Technology Research Institute which is linked to the Chinese Ministry of State Security (MSS).",
+    "pubDate": "Wed, 30 Sep 2026 18:15:15 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Leaning into culture war flashpoints, Hegseth says he has transformed U.S. military",
+    "link": "https://www.npr.org/2026/09/30/nx-s1-5986304/hegseth-troops-address",
+    "summary": "Secretary of Defense Pete Hegseth told hundreds of junior military officers and enlisted leaders on Wednesday that the Trump administration has achieved a cultural shift in the military.",
+    "pubDate": "Wed, 30 Sep 2026 17:51:20 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Saracens boss Venter skips more media duties",
+    "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmwyz9ypw3x2o?at_medium=RSS&at_campaign=rss",
+    "summary": "Saracens director of rugby Brendan Venter misses a second pre-match media conference, as head coach Joe Shaw attends.",
+    "pubDate": "Wed, 30 Sep 2026 17:46:17 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+    "link": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+    "summary": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
+    "pubDate": "Wed, 30 Sep 2026 17:45:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "CHOMPI portable sampler instrument is now open-source (hardware and software)",
+    "link": "https://www.chompiclub.com/opensource",
+    "summary": "Article URL: https://www.chompiclub.com/opensource Comments URL: https://news.ycombinator.com/item?id=49912048 Points: 17 # Comments: 2",
+    "pubDate": "Wed, 30 Sep 2026 17:42:13 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+    "link": "https://github.com/magnitudedev/magnitude",
+    "summary": "Hey HN, Anders and Tom here. We're building Magnitude, an inference engine for agents that optimizes itself to run as fast as possible on your hardware. It works on Mac, Linux, and Windows on any hardware and is up to 2x faster than llama.cpp. We're both software engineers and previously built an...",
+    "pubDate": "Wed, 30 Sep 2026 17:37:40 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The ugly economics of consumer AI",
+    "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+    "summary": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.",
+    "pubDate": "Wed, 30 Sep 2026 17:24:45 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Commit description as a thinking tool",
+    "link": "https://yedhu.me/posts/commit-description-as-a-thinking-tool/",
+    "summary": "Article URL: https://yedhu.me/posts/commit-description-as-a-thinking-tool/ Comments URL: https://news.ycombinator.com/item?id=49911757 Points: 103 # Comments: 58",
+    "pubDate": "Wed, 30 Sep 2026 17:18:13 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Six smugglers jailed for manslaughter over worst Channel small boats disaster",
+    "link": "https://www.bbc.co.uk/news/articles/c6n8m33pn9djo?at_medium=RSS&at_campaign=rss",
+    "summary": "Thirty-one migrants died when their boat went down in November 2021. The trial found that the guilty men were part of two smuggling networks.",
+    "pubDate": "Wed, 30 Sep 2026 17:14:03 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "UK-France 'one in, one out' migrant scheme scrapped",
+    "link": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss",
+    "summary": "Some 1,500 people have been removed to France since the scheme began just over a year ago.",
+    "pubDate": "Wed, 30 Sep 2026 17:11:08 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Great Dirhombicosidodecahedron (\"Miller's Monster\")",
+    "link": "https://www.software3d.com/MillersMonster.php",
+    "summary": "Article URL: https://www.software3d.com/MillersMonster.php Comments URL: https://news.ycombinator.com/item?id=49911534 Points: 17 # Comments: 1",
+    "pubDate": "Wed, 30 Sep 2026 17:00:44 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
+    "link": "https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer",
+    "summary": "Article URL: https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer Comments URL: https://news.ycombinator.com/item?id=49911531 Points: 0 # Comments: 0",
+    "pubDate": "Wed, 30 Sep 2026 17:00:20 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "So what's happening with Russia's new, long-delayed crewed spacecraft?",
+    "link": "https://arstechnica.com/space/2026/09/so-whats-happening-with-russias-new-long-delayed-crewed-spacecraft/",
+    "summary": "Russia says it has a \"promising, reusable manned transport spacecraft.\"",
+    "pubDate": "Wed, 30 Sep 2026 16:48:56 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Meta disputes claim that Muse read a user’s private messages without permission",
+    "link": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+    "summary": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.",
+    "pubDate": "Wed, 30 Sep 2026 16:24:23 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "We fear for our lives after being told our abusive exes will be freed from jail early",
+    "link": "https://www.bbc.co.uk/news/articles/crz6zq5pew89o?at_medium=RSS&at_campaign=rss",
+    "summary": "Three victims of domestic abuse tell the BBC why they feel let down by the early prisoner release scheme.",
+    "pubDate": "Wed, 30 Sep 2026 16:11:32 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Singer Lola Young says vaping has made breathing feel like a 'chore'",
+    "link": "https://www.bbc.co.uk/news/articles/c617j41x7jvpo?at_medium=RSS&at_campaign=rss",
+    "summary": "The Messy singer says her lungs feel \"battery powered\" due to the effects of vaping.",
+    "pubDate": "Wed, 30 Sep 2026 16:11:21 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Timeline of RAF Fairford incident and the investigation so far",
+    "link": "https://www.bbc.co.uk/news/articles/c6j9xmd0730mo?at_medium=RSS&at_campaign=rss",
+    "summary": "From a late-night call about suspicious vehicles, to five men being arrested and then bailed - here is how the incident has unfolded.",
+    "pubDate": "Wed, 30 Sep 2026 16:08:02 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Google's early attempt to pay websites for AI answers is struggling",
+    "link": "https://arstechnica.com/google/2026/09/google-is-paying-100-websites-for-contributions-to-ai-overviews-but-the-amounts-are-tiny/",
+    "summary": "Many sites see just one-tenth of one percent of their advertising revenue from AI payments.",
+    "pubDate": "Wed, 30 Sep 2026 16:03:48 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Burnham 'really concerned' if Man City owners sell up after rule breaches",
+    "link": "https://www.bbc.co.uk/news/articles/crkgwvv8xvw0o?at_medium=RSS&at_campaign=rss",
+    "summary": "The prime minister compares the allegations against Man City to the plight of his own club Everton.",
+    "pubDate": "Wed, 30 Sep 2026 16:01:16 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "DoorDash launches an AI agent you can text to order food",
+    "link": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+    "summary": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
+    "pubDate": "Wed, 30 Sep 2026 16:00:24 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
+    "link": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
+    "summary": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\"",
+    "pubDate": "Wed, 30 Sep 2026 16:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Instinct’s new product recommendations are giving some users the ick",
+    "link": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
+    "summary": "Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never asked for.",
+    "pubDate": "Wed, 30 Sep 2026 15:56:28 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Google figures out how to watermark AI-designed proteins",
+    "link": "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/",
+    "summary": "Intended to help with biosecurity, it works with a popular AI protein design tool.",
+    "pubDate": "Wed, 30 Sep 2026 15:54:52 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
+    "link": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
+    "summary": "Pike was convicted and sentenced to death in 1996 for the murder of Colleen Slemmer.",
+    "pubDate": "Wed, 30 Sep 2026 15:29:11 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "We used a database as a message queue. Now we use Kafka",
+    "link": "https://www.tigrisdata.com/blog/quick-fdb-kafka/",
+    "summary": "Comments",
+    "pubDate": "Wed, 30 Sep 2026 15:28:27 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "FedEx orders 2,000 electric trucks from Harbinger in $300M deal",
+    "link": "https://techcrunch.com/2026/09/30/fedex-orders-2000-electric-trucks-from-harbinger-in-300m-deal/",
+    "summary": "The order -- Harbinger's biggest ever -- comes as the startup is reportedly considering an IPO.",
+    "pubDate": "Wed, 30 Sep 2026 15:26:02 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "NHS trust admits 'failing families' over stillbirths",
+    "link": "https://www.bbc.co.uk/news/articles/cmwyz0ryz701o?at_medium=RSS&at_campaign=rss",
+    "summary": "An independent review ordered by the trust finds systemic issues lay at the heart of the failures.",
+    "pubDate": "Wed, 30 Sep 2026 15:22:51 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The PS5 hacking scene just took a big leap forward",
+    "link": "https://arstechnica.com/gaming/2026/09/ps5-jailbreaks-just-got-a-lot-more-useful/",
+    "summary": "New exploit works on all but the most recently updated consoles.",
+    "pubDate": "Wed, 30 Sep 2026 15:12:46 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Discord gives more advertisers more tools to target its users",
+    "link": "https://arstechnica.com/gadgets/2026/09/discord-gives-advertisers-more-tools-to-target-its-users/",
+    "summary": "Discord is \"opening the platform to advertisers, regardless of their budget.\"",
+    "pubDate": "Wed, 30 Sep 2026 15:01:40 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "What butterfly wings have in common with barbershop poles",
+    "link": "https://arstechnica.com/science/2026/09/what-butterfly-wings-have-in-common-with-barbershop-poles/",
+    "summary": "Wing patterns, flight dynamics create \"motion dazzle\" effect, make it harder to gauge speed, direction.",
+    "pubDate": "Wed, 30 Sep 2026 15:00:56 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
     "title": "经典任务管理软件的现代重构： 新版 2Do 详解",
     "link": "https://sspai.com/post/115166",
     "summary": "完全重构的 2Do 是我的心目中最佳的任务管理工具。 查看全文",
     "pubDate": "Wed, 30 Sep 2026 15:00:00 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "Coltrane's Tone Circle",
+    "link": "https://jtomschroeder.com/blog/tone-circle/",
+    "summary": "Article URL: https://jtomschroeder.com/blog/tone-circle/ Comments URL: https://news.ycombinator.com/item?id=49909908 Points: 6 # Comments: 0",
+    "pubDate": "Wed, 30 Sep 2026 14:59:42 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Finding Bugs",
+    "link": "https://matklad.github.io/2026/09/19/finding-bugs.html",
+    "summary": "Comments",
+    "pubDate": "Wed, 30 Sep 2026 14:57:54 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Pledge signed by President Trump and top AI leaders misspells the United States",
+    "link": "https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states/",
+    "summary": "On Tuesday, President Donald Trump and top AI leaders announced a signed pledge called a “Joint Commitment on Frontier Responsibilities” — a voluntary promise to implement more controls and safety measures as the rapid development of artificial intelligence continues. But there seems to be a catch.",
+    "pubDate": "Wed, 30 Sep 2026 14:50:55 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "BMW reveals US 3 series pricing: The EV carries a hefty premium",
+    "link": "https://arstechnica.com/cars/2026/09/bmw-opens-us-order-books-for-the-new-gas-and-electric-3-series/",
+    "summary": "The 2027 BMW 330 starts at $49,900, the i3 50 xDrive at $61,500.",
+    "pubDate": "Wed, 30 Sep 2026 14:42:58 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Show HN: Lathoa, a math app for kids where the AI is wrong on purpose",
+    "link": "https://lathoa.ai/en",
+    "summary": "I made this for kids around 10 to 14. A robot called Errol solves a math problem step by step and one of the steps is wrong. The kid has to find it and say what's wrong with it. Sometimes nothing is wrong, so just saying \"there's a mistake\" every time doesn't work. The user needs to enter an expl...",
+    "pubDate": "Wed, 30 Sep 2026 14:38:57 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "A brief history of the Bloomberg terminal",
+    "link": "https://spectrum.ieee.org/bloomberg-terminal",
+    "summary": "Article URL: https://spectrum.ieee.org/bloomberg-terminal Comments URL: https://news.ycombinator.com/item?id=49909583 Points: 195 # Comments: 79",
+    "pubDate": "Wed, 30 Sep 2026 14:34:07 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Google launches Fitbit Air in India, though its high price might deter the masses",
+    "link": "https://techcrunch.com/2026/09/30/google-launches-fitbit-air-in-india-though-its-high-price-might-deter-the-masses/",
+    "summary": "Fitbit Air costs around $146 in India, roughly $47 more than its U.S. pricing.",
+    "pubDate": "Wed, 30 Sep 2026 14:32:03 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Instagram rolls out an AI video assistant for creators",
+    "link": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-assistant-for-creators/",
+    "summary": "This conversational AI assistant is intended to provide personalized feedback to creators, rather than generic advice.",
+    "pubDate": "Wed, 30 Sep 2026 14:30:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
+    "summary": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardware reaches its limits.",
+    "pubDate": "Wed, 30 Sep 2026 14:30:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "A Biotech Founder Makes the Moral Case for Gene-Editing Human Embryos",
+    "link": "https://www.wired.com/story/biotech-founder-cathy-tie-moral-case-gene-editing-human-embryos/",
+    "summary": "The practice of editing the genes of embryos remains highly controversial and risky, but Origin Genomics founder Cathy Tie argues its a “moral imperative” to address hereditary diseases.",
+    "pubDate": "Wed, 30 Sep 2026 14:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
+    "link": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
+    "summary": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be exceptionally fast and lightweight.",
+    "pubDate": "Wed, 30 Sep 2026 14:27:11 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "OpenAI delays IPO over AI safety concerns",
+    "link": "https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/",
+    "summary": "OpenAI is seeking another $30 billion privately as its IPO plans slip.",
+    "pubDate": "Wed, 30 Sep 2026 14:06:15 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Meet 'Backpack', the chunky bear who won Fat Bear Week",
+    "link": "https://www.bbc.co.uk/news/videos/cqkg07lp9dvlo?at_medium=RSS&at_campaign=rss",
+    "summary": "The brown bear, described by one supporter as having both the \"chonk and the badonk\", will shortly enter hibernation, which can last up to six months.",
+    "pubDate": "Wed, 30 Sep 2026 13:51:52 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Greetings from Syria, where time seems to melt as a glassmaker braves scorching temps",
+    "link": "https://www.npr.org/2026/09/30/nx-s1-5983516/damascus-syria-glass",
+    "summary": "As a Syrian glassmaker created his wares in Damascus, watching his craft reminded this reporter to slow down and enjoy the moment.",
+    "pubDate": "Wed, 30 Sep 2026 13:51:42 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Police questioning can shape a sexual assault case. Their approach is often wrong",
+    "link": "https://www.npr.org/2026/09/30/nx-s1-5983868/cornell-rape-police-interview-investigation-victim-trauma-informed",
+    "summary": "The Cornell lawsuit filed by a woman alleging a brutal rape raises questions on how police handle such cases. The majority of police lack adequate training on trauma-informed approaches, experts say.",
+    "pubDate": "Wed, 30 Sep 2026 13:19:24 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Criminal investigation? Relegation or expulsion? The key Man City questions",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c9y7zr4l6de1o?at_medium=RSS&at_campaign=rss",
+    "summary": "BBC Sport takes a look at the key questions following the guilty verdicts handed down to Manchester City.",
+    "pubDate": "Wed, 30 Sep 2026 13:17:44 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Branch Target Reuse: Spectre-v2 Attacks in JIT Engines",
+    "link": "https://www.vusec.net/projects/btr/",
+    "summary": "Comments",
+    "pubDate": "Wed, 30 Sep 2026 13:06:19 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Police seek charges against 20 firms and 54 people over Grenfell Tower fire",
@@ -32,6 +808,22 @@
     "category": "general"
   },
   {
+    "title": "Oasis take legal action to stop sale of unheard tapes",
+    "link": "https://www.bbc.co.uk/news/articles/cw98070pq999o?at_medium=RSS&at_campaign=rss",
+    "summary": "The auction house said it was \"very disappointed\" the lot could no longer be sold.",
+    "pubDate": "Wed, 30 Sep 2026 12:33:22 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Trump officials changed forms for overseas voters amid a GOP push to restrict voting",
+    "link": "https://www.npr.org/2026/09/30/nx-s1-5978976/military-voter-registration-overseas-citizens-absentee-voting",
+    "summary": "The Pentagon made last-minute changes to forms that many overseas U.S. citizens use for absentee voting, removing a category of citizens that Republicans have been pushing to block from voting.",
+    "pubDate": "Wed, 30 Sep 2026 12:32:12 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "Watch: Detail about new call to police changes RAF Fairford timeline",
     "link": "https://www.bbc.co.uk/news/videos/c6eq84800zlzo?at_medium=RSS&at_campaign=rss",
     "summary": "One of five men arrested near RAF Fairford in the early hours of Sunday morning had dialled 999 himself, the BBC understands. BBC's UK correspondent Daniel Sandford explains the timeline of events.",
@@ -46,6 +838,14 @@
     "pubDate": "Wed, 30 Sep 2026 12:30:05 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Qt 6.12 LTS Released",
+    "link": "https://www.qt.io/blog/qt-6.12-released",
+    "summary": "Comments",
+    "pubDate": "Wed, 30 Sep 2026 12:10:52 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Residents fear new rules could mean dangerous cladding is left on blocks of flats",
@@ -104,6 +904,14 @@
     "category": "tech"
   },
   {
+    "title": "How Ukrainians are coping with new, more deadly Russian attacks",
+    "link": "https://www.npr.org/2026/09/30/nx-s1-5984948/how-ukrainians-are-coping-with-new-more-deadly-russian-attacks",
+    "summary": "Zanny Minton Beddoes, The Economist's editor in chief , just visited Ukraine. She says, despite all its drone weaponry, Kyiv is under extraordinary bombardment, as Russia tries to make it unlivable.",
+    "pubDate": "Wed, 30 Sep 2026 11:33:19 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "Peter Murrell's legal aid withdrawn after embezzlement conviction",
     "link": "https://www.bbc.co.uk/news/articles/c5j9xmgz8eero?at_medium=RSS&at_campaign=rss",
     "summary": "The former SNP chief executive had been receiving government-funded support since last year.",
@@ -149,814 +957,6 @@
     "summary": "Gaming online can seriously strain your internet connection, but the best gaming routers could give you the edge.",
     "pubDate": "Wed, 30 Sep 2026 11:00:00 +0000",
     "source": "Wired",
-    "category": "tech"
-  },
-  {
-    "title": "Jay Slater's mum says retracing his last steps in Tenerife gave her 'more closure'",
-    "link": "https://www.bbc.co.uk/news/articles/cq7702gvzyrxo?at_medium=RSS&at_campaign=rss",
-    "summary": "Debbie Duncan went to Tenerife to trace her son Jay's final steps before his death in 2024.",
-    "pubDate": "Wed, 30 Sep 2026 10:55:28 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "Most data centers refusing to say how much water, electricity they use",
-    "link": "https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use",
-    "summary": "Article URL: https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use Comments URL: https://news.ycombinator.com/item?id=49907057 Points: 56 # Comments: 26",
-    "pubDate": "Wed, 30 Sep 2026 10:49:32 +0000",
-    "source": "Hacker News",
-    "category": "tech"
-  },
-  {
-    "title": "Black Twitter Is Thriving—on Threads",
-    "link": "https://www.wired.com/story/threads-is-black-twitters-unlikely-spiritual-successor/",
-    "summary": "From outrage over Nolan Wells’ death to analysis of HBO Max’s Lanterns, Threads has transformed into a vital artery of the Black social media ecosystem.",
-    "pubDate": "Wed, 30 Sep 2026 10:30:00 +0000",
-    "source": "Wired",
-    "category": "tech"
-  },
-  {
-    "title": "Ocon to leave Haas putting F1 future in doubt",
-    "link": "https://www.bbc.co.uk/sport/formula1/articles/c9e8e5k21ge5o?at_medium=RSS&at_campaign=rss",
-    "summary": "Esteban Ocon is fighting to save his Formula 1 career after the Haas team announcement that they are splitting with the Frenchman at the end of the year.",
-    "pubDate": "Wed, 30 Sep 2026 10:24:02 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "Regulating AI 'not the right place to start' says Bank of England governor",
-    "link": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss",
-    "summary": "AI needs \"rigorous\" testing and safeguards to contain risk, Andrew Bailey says.",
-    "pubDate": "Wed, 30 Sep 2026 10:20:20 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "Richards 'devastated' by Man City guilty verdicts",
-    "link": "https://www.bbc.co.uk/sport/football/articles/ckrerg4n2v82o?at_medium=RSS&at_campaign=rss",
-    "summary": "Former Manchester City defender Micah Richards felt \"absolutely devastated\" after reading the Premier League's \"damning\" verdict on the club's financial charges.",
-    "pubDate": "Wed, 30 Sep 2026 10:07:23 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "How Israeli Checkpoints Choke Palestinian Life in the Occupied West Bank",
-    "link": "https://www.wired.com/story/how-israeli-checkpoints-choke-palestinian-life-occupied-west-bank/",
-    "summary": "Lost time. Lost jobs. Lost friends. Lost family. Lost lives. Our joint investigation reveals the system that has divided the West Bank and measures what it cost people to move through it.",
-    "pubDate": "Wed, 30 Sep 2026 10:00:00 +0000",
-    "source": "Wired",
-    "category": "tech"
-  },
-  {
-    "title": "Pi.dev: You Said No MCP",
-    "link": "https://earendil.com/posts/you-said-no-mcp/",
-    "summary": "Article URL: https://earendil.com/posts/you-said-no-mcp/ Comments URL: https://news.ycombinator.com/item?id=49906637 Points: 197 # Comments: 82",
-    "pubDate": "Wed, 30 Sep 2026 09:55:23 +0000",
-    "source": "Hacker News",
-    "category": "tech"
-  },
-  {
-    "title": "Singapore launches matchmaking service for government workers",
-    "link": "https://www.bbc.co.uk/news/articles/cqzjzr893yv4o?at_medium=RSS&at_campaign=rss",
-    "summary": "The launch of FirstDate comes as the ageing nation wrestles with a record-low fertility rate.",
-    "pubDate": "Wed, 30 Sep 2026 09:42:36 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "Best Mattresses for Kids (2026): Saatva, Birch, Helix, and More",
-    "link": "https://www.wired.com/gallery/the-best-kids-mattresses/",
-    "summary": "Learn what to look for when buying a kids’ mattress, plus how six top models stack up, according to my 2-year-old.",
-    "pubDate": "Wed, 30 Sep 2026 09:32:00 +0000",
-    "source": "Wired",
-    "category": "tech"
-  },
-  {
-    "title": "What we know about Cornell University frat house rape investigation",
-    "link": "https://www.bbc.co.uk/news/articles/cmpq0r1ljpqwo?at_medium=RSS&at_campaign=rss",
-    "summary": "The woman alleges she was drugged and raped at a fraternity house at the university two years ago.",
-    "pubDate": "Wed, 30 Sep 2026 09:12:44 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "FBI hunting the hackers who stole its employees' sensitive data",
-    "link": "https://www.npr.org/2026/09/30/nx-s1-5985202/fbi-hack-shinyhunters",
-    "summary": "The FBI says it's addressing a massive data breach, vowing to go after the hackers they believe are responsible.",
-    "pubDate": "Wed, 30 Sep 2026 08:29:05 -0400",
-    "source": "NPR",
-    "category": "general"
-  },
-  {
-    "title": "Differences between `foldl` and `foldr`",
-    "link": "https://blog.haskell.org/foldl-and-foldr/",
-    "summary": "Comments",
-    "pubDate": "Wed, 30 Sep 2026 07:47:02 -0500",
-    "source": "Lobsters",
-    "category": "tech"
-  },
-  {
-    "title": "派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等",
-    "link": "https://sspai.com/post/115197",
-    "summary": "Nothing 发布旗舰耳机 Headphone 1 Pro，AMD 斥资 82 亿美元收购 World Labs 等。 查看全文",
-    "pubDate": "Wed, 30 Sep 2026 07:39:21 +0800",
-    "source": "少数派",
-    "category": "tech-cn"
-  },
-  {
-    "title": "attezt: device attestation, PKCS11 and ACME",
-    "link": "https://media.ccc.de/v/all-systems-go-2026-414-attezt-device-attestation-pkcs11-and-acme#t=30",
-    "summary": "Comments",
-    "pubDate": "Wed, 30 Sep 2026 07:23:08 -0500",
-    "source": "Lobsters",
-    "category": "tech"
-  },
-  {
-    "title": "Dumb Servers, Smart Clients: Distributing Images with Quarry",
-    "link": "https://amutable.com/blog/distributing-images-quarry",
-    "summary": "Comments",
-    "pubDate": "Wed, 30 Sep 2026 07:18:22 -0500",
-    "source": "Lobsters",
-    "category": "tech"
-  },
-  {
-    "title": "U.S. forces exit Iraq amid Iran war. And, SCOTUS revives Trump deportation policy",
-    "link": "https://www.npr.org/2026/09/30/g-s1-145604/up-first-newsletter-iraq-us-troops-scotus-deportations-trump-ai",
-    "summary": "The U.S. has withdrawn its final troops from Iraq, leaving its defense future uncertain. And, the Supreme Court has sided for now with the Trump administration on third-country deportations.",
-    "pubDate": "Wed, 30 Sep 2026 07:13:17 -0400",
-    "source": "NPR",
-    "category": "general"
-  },
-  {
-    "title": "September 2026: The world today, as seen by one Polish guy",
-    "link": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/",
-    "summary": "Article URL: https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/ Comments URL: https://news.ycombinator.com/item?id=49905487 Points: 343 # Comments: 206",
-    "pubDate": "Wed, 30 Sep 2026 07:12:31 +0000",
-    "source": "Hacker News",
-    "category": "tech"
-  },
-  {
-    "title": "A no-cost audio upgrade for my workstation",
-    "link": "https://mit.teil.space/rane-sl3.html",
-    "summary": "Comments",
-    "pubDate": "Wed, 30 Sep 2026 07:00:03 -0500",
-    "source": "Lobsters",
-    "category": "tech"
-  },
-  {
-    "title": "Travel plans? Here's what to know as measles exposures reach trains and games",
-    "link": "https://www.npr.org/2026/09/30/nx-s1-5978940/traveling-measles-exposure-vaccines-transportation",
-    "summary": "Measles is traveling, with outbreaks in Pennsylvania, Ohio and New York, and exposures on transportation and in sports. What should you know before getting on a plane or train?",
-    "pubDate": "Wed, 30 Sep 2026 07:00:00 -0400",
-    "source": "NPR",
-    "category": "general"
-  },
-  {
-    "title": "snowdesktop: Immutable Debian desktop for developers",
-    "link": "https://github.com/frostyard/snowdesktop",
-    "summary": "Comments",
-    "pubDate": "Wed, 30 Sep 2026 06:51:27 -0500",
-    "source": "Lobsters",
-    "category": "tech"
-  },
-  {
-    "title": "The transfers that helped Man City dominate while breaking financial rules",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c9lyk46gekkeo?at_medium=RSS&at_campaign=rss",
-    "summary": "BBC Sport analyses Manchester City's dominance of English football during the period in which they were breaching financial rules.",
-    "pubDate": "Wed, 30 Sep 2026 06:26:34 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "The part-timers who won three Wembley finals in a row",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c6y4z21xelk4o?at_medium=RSS&at_campaign=rss",
-    "summary": "You probably knew Pep Guardiola's Manchester City won four League Cups on the bounce between 2018 and 2021 – but another side did the silverware hat-trick first.",
-    "pubDate": "Wed, 30 Sep 2026 06:07:28 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "Household energy bills forecast to see biggest rise in four years",
-    "link": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
-    "summary": "A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast.",
-    "pubDate": "Wed, 30 Sep 2026 05:27:23 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "From 999 fears to failed payments - life in UK's phone signal 'blackspots'",
-    "link": "https://www.bbc.co.uk/news/articles/c4grdn91j98o?at_medium=RSS&at_campaign=rss",
-    "summary": "Most of the UK has access to 4G and 5G signal, but in some places the lack of it causes serious disruption.",
-    "pubDate": "Wed, 30 Sep 2026 05:22:07 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "Endometriosis trial gives hope to millions of women in pain like me",
-    "link": "https://www.bbc.co.uk/news/articles/cme3r9ny2p4xo?at_medium=RSS&at_campaign=rss",
-    "summary": "A £2.3m study will look at whether a personalised pain management plan can improve the quality of life of women who have the debilitating condition.",
-    "pubDate": "Wed, 30 Sep 2026 05:21:34 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "Girl has multiple surgeries to control infections after strike in Gaza",
-    "link": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
-    "summary": "Witnesses say Raseel's tent was hit by an Israeli helicopter strike. Israel’s military says it has no record of the attack.",
-    "pubDate": "Wed, 30 Sep 2026 05:02:50 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "'Backpack' declared Alaska's Fat Bear Week winner",
-    "link": "https://www.bbc.co.uk/news/articles/ck8d3vl9mj13o?at_medium=RSS&at_campaign=rss",
-    "summary": "\"Backpack\" defeated a bear known only as \"910\" in the final round of the annual competition.",
-    "pubDate": "Wed, 30 Sep 2026 05:01:04 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "A startup wants to build a massive nuclear-powered data center on public land in Utah",
-    "link": "https://www.npr.org/2026/09/30/nx-s1-5983482/valar-atomic-nuclear-data-center-project-beehive-utah",
-    "summary": "Valar Atomics wants to place over 450 reactors on more than 9,500 acres in Utah to power a huge data center project.",
-    "pubDate": "Wed, 30 Sep 2026 05:01:00 -0400",
-    "source": "NPR",
-    "category": "general"
-  },
-  {
-    "title": "Move to rejoin EU among options for UK, says Burnham",
-    "link": "https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss",
-    "summary": "The prime minister tells the BBC the current Brexit settlement has caused \"more harm than good\".",
-    "pubDate": "Wed, 30 Sep 2026 05:00:05 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "The moment you've been waiting for: America's best student podcasts",
-    "link": "https://www.npr.org/2026/09/30/nx-s1-5930430/student-podcast-challenge-2026-finalists",
-    "summary": "We've listened to nearly 1,500 podcasts from all around the U.S. and narrowed them down to 10 middle school and 10 high school finalists.",
-    "pubDate": "Wed, 30 Sep 2026 05:00:00 -0400",
-    "source": "NPR",
-    "category": "general"
-  },
-  {
-    "title": "What's behind HHS claims that gender-affirming care 'may' radicalize",
-    "link": "https://www.npr.org/2026/09/30/nx-s1-5962843/hhs-study-gender-ideology-flaws-missing-context",
-    "summary": "The report is the agency's latest effort to chip away at trust in established health care models for transgender people. Critics say it frames transgender identity as illegitimate or even dangerous.",
-    "pubDate": "Wed, 30 Sep 2026 05:00:00 -0400",
-    "source": "NPR",
-    "category": "general"
-  },
-  {
-    "title": "Drugs are widely used to sedate dementia patients. Her sons wanted to keep her off them",
-    "link": "https://www.npr.org/2026/09/30/nx-s1-5980081/memory-drugs-brain-aging-dementia",
-    "summary": "Potent sedating medications are often used on agitated people with dementia in long-term care facilities despite federal efforts to discourage them. A clash over whether to drug a Michigan woman illuminates the wrenching decisions families and guardians face.",
-    "pubDate": "Wed, 30 Sep 2026 05:00:00 -0400",
-    "source": "NPR",
-    "category": "general"
-  },
-  {
-    "title": "The 2026 Student Podcast Challenge Honorable Mentions",
-    "link": "https://www.npr.org/2026/09/30/nx-s1-5984991/student-podcast-challenge-2026-honorable-mentions",
-    "summary": "Here are the honorable mentions from this year's Student Podcast Challenge, chosen from nearly 1,500 entries.",
-    "pubDate": "Wed, 30 Sep 2026 05:00:00 -0400",
-    "source": "NPR",
-    "category": "general"
-  },
-  {
-    "title": "Montana starts enforcing Medicaid work requirements on Oct 1. Patients are confused",
-    "link": "https://www.npr.org/2026/09/30/nx-s1-5946766/montana-early-medicaid-work-requirements-patients-confused",
-    "summary": "In most states, people with Medicaid coverage will have to prove they're working, volunteering or studying, starting Jan. 1. But Montana is starting that early, and it's sowing confusion and anxiety.",
-    "pubDate": "Wed, 30 Sep 2026 05:00:00 -0400",
-    "source": "NPR",
-    "category": "general"
-  },
-  {
-    "title": "One year after the end of the EV tax credit, is the future still electric?",
-    "link": "https://www.npr.org/2026/09/30/nx-s1-5979915/ev-hybrid-sales-2026-federal-tax-credit",
-    "summary": "Congress got rid of a $7,500 federal tax credit for new electric vehicle buyers. One year later, are people still buying EVs?",
-    "pubDate": "Wed, 30 Sep 2026 05:00:00 -0400",
-    "source": "NPR",
-    "category": "general"
-  },
-  {
-    "title": "Fanatics Promo Code: 10% Off",
-    "link": "https://www.wired.com/story/fanatics-promo-code/",
-    "summary": "Gear up for the season with verified Fanatics coupons, free shipping codes, and student or military discounts on jerseys, hats, and team gear.",
-    "pubDate": "Wed, 30 Sep 2026 05:00:00 +0000",
-    "source": "Wired",
-    "category": "tech"
-  },
-  {
-    "title": "Tesla takes on $30B in credit as it approaches unprofitability",
-    "link": "https://electrek.co/2026/09/29/tesla-takes-on-30-billion-in-credit-as-it-approaches-unprofitability/",
-    "summary": "Article URL: https://electrek.co/2026/09/29/tesla-takes-on-30-billion-in-credit-as-it-approaches-unprofitability/ Comments URL: https://news.ycombinator.com/item?id=49904408 Points: 39 # Comments: 12",
-    "pubDate": "Wed, 30 Sep 2026 04:37:37 +0000",
-    "source": "Hacker News",
-    "category": "tech"
-  },
-  {
-    "title": "LinkedIn Larpmaxxing",
-    "link": "https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/",
-    "summary": "Article URL: https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/ Comments URL: https://news.ycombinator.com/item?id=49904314 Points: 37 # Comments: 32",
-    "pubDate": "Wed, 30 Sep 2026 04:19:57 +0000",
-    "source": "Hacker News",
-    "category": "tech"
-  },
-  {
-    "title": "The Cuckoo's Egg",
-    "link": "https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book)",
-    "summary": "Comments",
-    "pubDate": "Wed, 30 Sep 2026 03:48:43 -0500",
-    "source": "Lobsters",
-    "category": "tech"
-  },
-  {
-    "title": "PSSA: A non-transformer language model written from scratch in Rust",
-    "link": "https://github.com/Sparticle62ops/pssa",
-    "summary": "Article URL: https://github.com/Sparticle62ops/pssa Comments URL: https://news.ycombinator.com/item?id=49903993 Points: 46 # Comments: 12",
-    "pubDate": "Wed, 30 Sep 2026 03:19:54 +0000",
-    "source": "Hacker News",
-    "category": "tech"
-  },
-  {
-    "title": "Student: Uni strikes 'not what we signed up for'",
-    "link": "https://www.bbc.co.uk/news/articles/c6804zm7xpg3o?at_medium=RSS&at_campaign=rss",
-    "summary": "The University of Nottingham said it was \"disappointed\" by the timing of industrial action.",
-    "pubDate": "Wed, 30 Sep 2026 03:00:26 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "RSS Feeds for Last.fm",
-    "link": "https://lfm.xiffy.nl/",
-    "summary": "Article URL: https://lfm.xiffy.nl/ Comments URL: https://news.ycombinator.com/item?id=49903862 Points: 16 # Comments: 4",
-    "pubDate": "Wed, 30 Sep 2026 03:00:05 +0000",
-    "source": "Hacker News",
-    "category": "tech"
-  },
-  {
-    "title": "Responsible Release of AI-Generated Mathematics",
-    "link": "https://agmai.org/general-sep29/",
-    "summary": "Article URL: https://agmai.org/general-sep29/ Comments URL: https://news.ycombinator.com/item?id=49903713 Points: 22 # Comments: 15",
-    "pubDate": "Wed, 30 Sep 2026 02:36:12 +0000",
-    "source": "Hacker News",
-    "category": "tech"
-  },
-  {
-    "title": "Ballmer Peak",
-    "link": "https://en.wikipedia.org/wiki/Ballmer_Peak",
-    "summary": "Article URL: https://en.wikipedia.org/wiki/Ballmer_Peak Comments URL: https://news.ycombinator.com/item?id=49903712 Points: 31 # Comments: 0",
-    "pubDate": "Wed, 30 Sep 2026 02:35:58 +0000",
-    "source": "Hacker News",
-    "category": "tech"
-  },
-  {
-    "title": "Strange Parodies of Atari 2600 Video Game Box Cover Art (2008)",
-    "link": "https://mightygodking.com/2008/04/21/fun-from-yesterday/",
-    "summary": "Article URL: https://mightygodking.com/2008/04/21/fun-from-yesterday/ Comments URL: https://news.ycombinator.com/item?id=49903383 Points: 29 # Comments: 21",
-    "pubDate": "Wed, 30 Sep 2026 01:47:14 +0000",
-    "source": "Hacker News",
-    "category": "tech"
-  },
-  {
-    "title": "The Papers: 'Burnham's triple shock' and 'City face expulsion'",
-    "link": "https://www.bbc.co.uk/news/articles/crd941kkejy4o?at_medium=RSS&at_campaign=rss",
-    "summary": "Every front page on Wednesday is dominated by Prime Minister Andy Burnham's speech at the Labour Party conference.",
-    "pubDate": "Wed, 30 Sep 2026 01:04:00 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "How AI is creating a UK super-museum and revealing our planet's history",
-    "link": "https://www.bbc.co.uk/news/articles/cv5yjgrj4ello?at_medium=RSS&at_campaign=rss",
-    "summary": "More than 70 million specimens from 100 UK collections will be put into an online digital museum",
-    "pubDate": "Wed, 30 Sep 2026 00:46:29 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "Hidden habits that make your social anxiety worse - and how to break them",
-    "link": "https://www.bbc.co.uk/news/articles/cm4gl1yllg6po?at_medium=RSS&at_campaign=rss",
-    "summary": "Social anxiety is more common than many think. Here's what you need to know about the condition.",
-    "pubDate": "Wed, 30 Sep 2026 00:44:50 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "Antisemitism on the rise at universities, charity warns",
-    "link": "https://www.bbc.co.uk/news/articles/c9gk54r61yldo?at_medium=RSS&at_campaign=rss",
-    "summary": "The Community Security Trust says reported incidents are \"substantially higher\" than before the war in Gaza began.",
-    "pubDate": "Wed, 30 Sep 2026 00:36:22 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "Dirty Optimization Secrets (C for Playdate)",
-    "link": "https://devforum.play.date/t/dirty-optimization-secrets-c-for-playdate/23011",
-    "summary": "Comments",
-    "pubDate": "Wed, 30 Sep 2026 00:05:56 -0500",
-    "source": "Lobsters",
-    "category": "tech"
-  },
-  {
-    "title": "BBC News app",
-    "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
-    "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
-    "pubDate": "Wed, 30 Apr 2025 14:04:28 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "The Papers: 'Future looking droughtful' and 'Dinghy flotilla'",
-    "link": "https://www.bbc.co.uk/news/articles/c1m1zg9j5plo?at_medium=RSS&at_campaign=rss",
-    "summary": "Drought leaves UK parched and a \"dinghy flotilla\" crossing the English Channel lead Thursday's papers.",
-    "pubDate": "Wed, 29 Jul 2026 23:40:54 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "He watched the 1966 World Cup final at Wembley aged 16 - no day since has matched it",
-    "link": "https://www.bbc.co.uk/news/articles/c9d377g4nxyo?at_medium=RSS&at_campaign=rss",
-    "summary": "Kenneth Farrington shares his memories of the 1966 World Cup Final, 60 years on.",
-    "pubDate": "Wed, 29 Jul 2026 23:35:49 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "How the UK's extreme heat is shifting the conversation about air-con",
-    "link": "https://www.bbc.co.uk/news/articles/cy5dw4plzvlo?at_medium=RSS&at_campaign=rss",
-    "summary": "Should we embrace air conditioning despite its costs and consequences, and how much should we spend on adapting homes versus cutting carbon?",
-    "pubDate": "Wed, 29 Jul 2026 23:33:01 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "Inquiry finds MoD Afghan data breach was foreseeable failure",
-    "link": "https://www.bbc.co.uk/news/articles/c77gvr4172vo?at_medium=RSS&at_campaign=rss",
-    "summary": "The Commons' Defence Committee says in a report that the MoD used secrecy as a \"shield\" against proper expertise.",
-    "pubDate": "Wed, 29 Jul 2026 23:13:43 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "Red Cross declares crisis over blood supply shortage in US for second time its history",
-    "link": "https://www.bbc.co.uk/news/articles/c74gze89783o?at_medium=RSS&at_campaign=rss",
-    "summary": "Fewer donations and higher demand has seen a supply shortage worsen, the American Red Cross tells the BBC.",
-    "pubDate": "Wed, 29 Jul 2026 23:04:35 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "I dropped out of university and built five beauty businesses. Here's how I did it",
-    "link": "https://www.bbc.co.uk/news/articles/c8jngmk93p9o?at_medium=RSS&at_campaign=rss",
-    "summary": "Marcia Kilgore, founder of Beauty Pie, shares her top tips on how to create a successful business.",
-    "pubDate": "Wed, 29 Jul 2026 23:02:18 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "Interest rates expected to be held again by Bank of England",
-    "link": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss",
-    "summary": "It would be the fifth hold in a row, with the Bank rate standing at 3.75% - the lowest since February 2023.",
-    "pubDate": "Wed, 29 Jul 2026 23:01:56 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
-    "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
-    "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
-    "pubDate": "Wed, 29 Jul 2026 23:00:11 +0000",
-    "source": "TechCrunch",
-    "category": "tech"
-  },
-  {
-    "title": "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)",
-    "link": "https://archive.org/details/mancomputerbyjoh0000john",
-    "summary": "Article URL: https://archive.org/details/mancomputerbyjoh0000john Comments URL: https://news.ycombinator.com/item?id=49104140 Points: 27 # Comments: 9",
-    "pubDate": "Wed, 29 Jul 2026 22:53:44 +0000",
-    "source": "Hacker News",
-    "category": "tech"
-  },
-  {
-    "title": "LLM Honeypot",
-    "link": "https://llm2human.pages.dev/",
-    "summary": "Article URL: https://llm2human.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=49104117 Points: 94 # Comments: 39",
-    "pubDate": "Wed, 29 Jul 2026 22:51:03 +0000",
-    "source": "Hacker News",
-    "category": "tech"
-  },
-  {
-    "title": "Boxer Abdul - grandson of dictator - disqualified for headbutt",
-    "link": "https://www.bbc.co.uk/sport/boxing/articles/czxewy7zl46o?at_medium=RSS&at_campaign=rss",
-    "summary": "Ugandan boxer Aziz Abdul - the grandson of dictator Idi Amin - was disqualified from his fight at the Commonwealth Games after appearing to headbutt his English opponent.",
-    "pubDate": "Wed, 29 Jul 2026 22:49:37 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "C++ float-to-int conversion can be undefined behavior",
-    "link": "https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/",
-    "summary": "Comments",
-    "pubDate": "Wed, 29 Jul 2026 22:47:26 -0500",
-    "source": "Lobsters",
-    "category": "tech"
-  },
-  {
-    "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
-    "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
-    "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
-    "pubDate": "Wed, 29 Jul 2026 22:46:03 +0000",
-    "source": "TechCrunch",
-    "category": "tech"
-  },
-  {
-    "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
-    "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
-    "summary": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
-    "pubDate": "Wed, 29 Jul 2026 22:23:12 +0000",
-    "source": "TechCrunch",
-    "category": "tech"
-  },
-  {
-    "title": "Ultrafast X-rays capture chemistry unfolding atom by atom",
-    "link": "https://www.sciencedaily.com/releases/2026/07/260729010726.htm",
-    "summary": "Ultrafast X-rays revealed how a molecule converts absorbed light into motion in just trillionths of a second. Individual atoms recorded different stages of the process, opening a powerful new window into light-driven chemistry.",
-    "pubDate": "Wed, 29 Jul 2026 22:18:28 EDT",
-    "source": "Science Daily",
-    "category": "science"
-  },
-  {
-    "title": "Salman Rushdie attacker convicted of terror offences",
-    "link": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&at_campaign=rss",
-    "summary": "Hadi Matar, 28, was convicted of attempting to help Hezbollah by attacking the British-Indian author.",
-    "pubDate": "Wed, 29 Jul 2026 22:15:33 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "Milestone moment for O'Connor with Glasgow gold",
-    "link": "https://www.bbc.co.uk/sport/athletics/articles/c98vje167g7o?at_medium=RSS&at_campaign=rss",
-    "summary": "Team Northern Ireland heptathlete Kate O'Connor tells BBC Sport NI of her joy at winning the event at the Commonwealth Games as she collects her first senior outdoor gold medal.",
-    "pubDate": "Wed, 29 Jul 2026 22:14:53 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "The Chinese robot army transforming the UK's retail industry",
-    "link": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
-    "summary": "Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.",
-    "pubDate": "Wed, 29 Jul 2026 22:08:29 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
-    "link": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
-    "summary": "HAWK withstood years of testing that had yet to uncover a fatal weakness found through Mythos.",
-    "pubDate": "Wed, 29 Jul 2026 22:07:06 +0000",
-    "source": "Ars Technica",
-    "category": "tech"
-  },
-  {
-    "title": "AI's top startups are barely publishing their research",
-    "link": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-    "summary": "Article URL: https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research Comments URL: https://news.ycombinator.com/item?id=49103285 Points: 272 # Comments: 152",
-    "pubDate": "Wed, 29 Jul 2026 21:25:40 +0000",
-    "source": "Hacker News",
-    "category": "tech"
-  },
-  {
-    "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
-    "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
-    "pubDate": "Wed, 29 Jul 2026 21:16:39 +0000",
-    "source": "TechCrunch",
-    "category": "tech"
-  },
-  {
-    "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
-    "link": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
-    "summary": "Weng previously served as the VP of AI Safety Research at OpenAI.",
-    "pubDate": "Wed, 29 Jul 2026 21:07:48 +0000",
-    "source": "TechCrunch",
-    "category": "tech"
-  },
-  {
-    "title": "The Cold Email",
-    "link": "https://zachholman.com/posts/cold-email",
-    "summary": "Article URL: https://zachholman.com/posts/cold-email Comments URL: https://news.ycombinator.com/item?id=49103089 Points: 116 # Comments: 44",
-    "pubDate": "Wed, 29 Jul 2026 21:06:42 +0000",
-    "source": "Hacker News",
-    "category": "tech"
-  },
-  {
-    "title": "Winamp aims for a comeback with a new music player powered by Deezer",
-    "link": "https://techcrunch.com/2026/07/29/winamp-aims-for-a-comeback-with-a-new-music-player-powered-by-deezer/",
-    "summary": "Winamp is preparing to relaunch with a Deezer-powered premium music service, betting its nostalgic brand and a new all-in-one music player can stand out in today’s crowded streaming market.",
-    "pubDate": "Wed, 29 Jul 2026 21:02:12 +0000",
-    "source": "TechCrunch",
-    "category": "tech"
-  },
-  {
-    "title": "AI reveals explosive bursts in bird evolution",
-    "link": "https://www.sciencedaily.com/releases/2026/07/260729010709.htm",
-    "summary": "Songbirds appear to have evolved through rare explosions of change separated by long periods of slower development. Many of those bursts lined up with major climate shifts, suggesting that environmental upheaval can reshape life in powerful ways.",
-    "pubDate": "Wed, 29 Jul 2026 21:01:26 EDT",
-    "source": "Science Daily",
-    "category": "science"
-  },
-  {
-    "title": "SalesPatriot (YC W25) Is Hiring FDEs",
-    "link": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
-    "summary": "Article URL: https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer Comments URL: https://news.ycombinator.com/item?id=49103026 Points: 0 # Comments: 0",
-    "pubDate": "Wed, 29 Jul 2026 21:01:01 +0000",
-    "source": "Hacker News",
-    "category": "tech"
-  },
-  {
-    "title": "It Looks Like Nothing Can Dent MAGA’s Support for ICE",
-    "link": "https://www.wired.com/story/it-looks-like-nothing-can-dent-magas-support-for-ice/",
-    "summary": "Despite weeks of renewed press coverage and controversy around ICE, Donald Trump’s supporters appear to be standing by the agency no matter what.",
-    "pubDate": "Wed, 29 Jul 2026 21:00:00 +0000",
-    "source": "Wired",
-    "category": "tech"
-  },
-  {
-    "title": "Musk went to “war,” sought jail time for X ad boycotts—but case ends with a whimper",
-    "link": "https://arstechnica.com/tech-policy/2026/07/musk-went-to-war-sought-jail-time-for-x-ad-boycotts-but-case-ends-with-a-whimper/",
-    "summary": "Advertisers agreed to “reset” relationship with X.",
-    "pubDate": "Wed, 29 Jul 2026 20:57:35 +0000",
-    "source": "Ars Technica",
-    "category": "tech"
-  },
-  {
-    "title": "Save Up to $100 on Apple’s Newest AirPods (2026)",
-    "link": "https://www.wired.com/story/apple-airpods-deal-july-2026/",
-    "summary": "Save up to $100 on Apple’s latest AirPods models before prices go back up.",
-    "pubDate": "Wed, 29 Jul 2026 20:44:10 +0000",
-    "source": "Wired",
-    "category": "tech"
-  },
-  {
-    "title": "What side projects have you enjoyed the most?",
-    "link": "https://lobste.rs/s/mbk56v/what_side_projects_have_you_enjoyed_most",
-    "summary": "In the spirit of https://blog.jsbarretto.com/post/software-is-joy , what side projects have you enjoyed working on the most?",
-    "pubDate": "Wed, 29 Jul 2026 20:40:31 -0500",
-    "source": "Lobsters",
-    "category": "tech"
-  },
-  {
-    "title": "The coolest use for the Vision Pro",
-    "link": "https://christianselig.com/2026/07/vision-pro-house/",
-    "summary": "Article URL: https://christianselig.com/2026/07/vision-pro-house/ Comments URL: https://news.ycombinator.com/item?id=49102774 Points: 453 # Comments: 199",
-    "pubDate": "Wed, 29 Jul 2026 20:39:40 +0000",
-    "source": "Hacker News",
-    "category": "tech"
-  },
-  {
-    "title": "Zendaya at Spider-Man premiere: Working with husband Tom Holland 'easy when you're best friends'",
-    "link": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss",
-    "summary": "The couple walked the white carpet at the London premiere of their latest film, Spiderman: Brand New Day.",
-    "pubDate": "Wed, 29 Jul 2026 20:21:46 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "A Trampoline",
-    "link": "https://dogdogfish.com/blog/2026/07/29/a-trampoline/",
-    "summary": "Article URL: https://dogdogfish.com/blog/2026/07/29/a-trampoline/ Comments URL: https://news.ycombinator.com/item?id=49102425 Points: 76 # Comments: 44",
-    "pubDate": "Wed, 29 Jul 2026 20:14:36 +0000",
-    "source": "Hacker News",
-    "category": "tech"
-  },
-  {
-    "title": "Who wins and who loses after US bans foreign robots?",
-    "link": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
-    "summary": "Government ban on foreign-made robots may hinder instead of help US robotics.",
-    "pubDate": "Wed, 29 Jul 2026 20:03:42 +0000",
-    "source": "Ars Technica",
-    "category": "tech"
-  },
-  {
-    "title": "Limiting sugar before age two linked to better brain health",
-    "link": "https://www.bbc.co.uk/news/articles/clyx85z1ld5o?at_medium=RSS&at_campaign=rss",
-    "summary": "Study suggests less sugar in early life is good for long-term brain health, but the evidence is not conclusive.",
-    "pubDate": "Wed, 29 Jul 2026 20:02:45 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
-    "link": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
-    "summary": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
-    "pubDate": "Wed, 29 Jul 2026 19:44:49 +0000",
-    "source": "TechCrunch",
-    "category": "tech"
-  },
-  {
-    "title": "Daily multivitamin may help older adults stay independent",
-    "link": "https://www.sciencedaily.com/releases/2026/07/260729010716.htm",
-    "summary": "Taking a daily multivitamin may help older adults preserve the strength and stamina needed for everyday activities. After three years, users reported better functional health than those taking a placebo, although the preliminary findings still require peer review.",
-    "pubDate": "Wed, 29 Jul 2026 19:44:16 EDT",
-    "source": "Science Daily",
-    "category": "science"
-  },
-  {
-    "title": "Comcast store punished low sales by smashing pies in workers' faces, lawsuit claims",
-    "link": "https://arstechnica.com/tech-policy/2026/07/comcast-store-punished-low-sales-by-smashing-pies-in-workers-faces-lawsuit-claims/",
-    "summary": "Comcast, accused of negligence, says lawsuit mischaracterized alleged events.",
-    "pubDate": "Wed, 29 Jul 2026 19:33:55 +0000",
-    "source": "Ars Technica",
-    "category": "tech"
-  },
-  {
-    "title": "Police to take no further action against Polanski over guillotine re-post",
-    "link": "https://www.bbc.co.uk/news/articles/cwylrnxxl77o?at_medium=RSS&at_campaign=rss",
-    "summary": "The Green Party leader has said he made an \"inadvertent mistake\" when he shared the image with his social media followers.",
-    "pubDate": "Wed, 29 Jul 2026 19:28:40 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "Kimi K3-256k",
-    "link": "https://www.kimi.com/code/docs/en/kimi-code/models",
-    "summary": "Article URL: https://www.kimi.com/code/docs/en/kimi-code/models Comments URL: https://news.ycombinator.com/item?id=49101852 Points: 53 # Comments: 6",
-    "pubDate": "Wed, 29 Jul 2026 19:25:33 +0000",
-    "source": "Hacker News",
-    "category": "tech"
-  },
-  {
-    "title": "Balcony Solar: $1.74/watt direct plug-in solar",
-    "link": "https://www.brightsaver.org/balcony-solar-kits",
-    "summary": "Article URL: https://www.brightsaver.org/balcony-solar-kits Comments URL: https://news.ycombinator.com/item?id=49101849 Points: 11 # Comments: 2",
-    "pubDate": "Wed, 29 Jul 2026 19:25:17 +0000",
-    "source": "Hacker News",
-    "category": "tech"
-  },
-  {
-    "title": "Customize Ars your way with an Ars Pro subscription",
-    "link": "https://arstechnica.com/staff/2026/07/customize-ars-your-way-with-an-ars-pro-subscription/",
-    "summary": "Ars Pro subscribers get customizable layouts along with no ads and no trackers.",
-    "pubDate": "Wed, 29 Jul 2026 19:23:27 +0000",
-    "source": "Ars Technica",
-    "category": "tech"
-  },
-  {
-    "title": "Which of Dyson’s 2026 Vacuum Models Is the Best?",
-    "link": "https://www.wired.com/story/dyson-vacuum-comparison-2026/",
-    "summary": "Curious if you should get Dyson’s new 2026 stick vacuums or stick to the older ones? I tested five models, old and new, to find out for you.",
-    "pubDate": "Wed, 29 Jul 2026 19:08:24 +0000",
-    "source": "Wired",
-    "category": "tech"
-  },
-  {
-    "title": "How much can you delegate to agents?",
-    "link": "https://newsletter.posthog.com/p/agent-autonomy",
-    "summary": "Article URL: https://newsletter.posthog.com/p/agent-autonomy Comments URL: https://news.ycombinator.com/item?id=49101655 Points: 12 # Comments: 0",
-    "pubDate": "Wed, 29 Jul 2026 19:07:13 +0000",
-    "source": "Hacker News",
-    "category": "tech"
-  },
-  {
-    "title": "Animal spillover? Lab leak? What the science says about the origins of COVID-19",
-    "link": "https://www.npr.org/2026/07/29/g-s1-136142/rand-paul-anthony-fauci-lab-leak-spillover-pandemic-origin",
-    "summary": "The release of Dr. Anthony Fauci's pandemic diaries has rekindled the debate over the origins of SARS-CoV-2. Here's how scientists have weighed in.",
-    "pubDate": "Wed, 29 Jul 2026 19:02:53 -0400",
-    "source": "NPR",
-    "category": "general"
-  },
-  {
-    "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
-    "link": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/",
-    "summary": "Article URL: https://www.emergingtrajectories.com/lh/commodification-and-circularity/ Comments URL: https://news.ycombinator.com/item?id=49101529 Points: 14 # Comments: 11",
-    "pubDate": "Wed, 29 Jul 2026 18:57:10 +0000",
-    "source": "Hacker News",
-    "category": "tech"
-  },
-  {
-    "title": "'Change is inevitable' - Liverpool CEO on FSG, Iraola and consortium talks",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c8xnvqrxv8ro?at_medium=RSS&at_campaign=rss",
-    "summary": "Liverpool Billy Hogan talks to BBC Sport in New York about investment, transition and why FSG aren't done yet.",
-    "pubDate": "Wed, 29 Jul 2026 18:54:07 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "Who the welfare state protects shapes a country’s financial openness",
-    "link": "https://theloop.ecpr.eu/who-the-welfare-state-protects-shapes-a-countrys-financial-openness/",
-    "summary": "Article URL: https://theloop.ecpr.eu/who-the-welfare-state-protects-shapes-a-countrys-financial-openness/ Comments URL: https://news.ycombinator.com/item?id=49101460 Points: 22 # Comments: 9",
-    "pubDate": "Wed, 29 Jul 2026 18:50:10 +0000",
-    "source": "Hacker News",
-    "category": "tech"
-  },
-  {
-    "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-    "link": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
-    "summary": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.",
-    "pubDate": "Wed, 29 Jul 2026 18:45:27 +0000",
-    "source": "TechCrunch",
     "category": "tech"
   }
 ]

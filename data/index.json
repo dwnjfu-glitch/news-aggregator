@@ -1,5 +1,173 @@
 [
   {
+    "title": "别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的",
+    "link": "https://sspai.com/post/114945",
+    "summary": "祝你旅途顺遂，假期自由。 查看全文",
+    "pubDate": "Wed, 30 Sep 2026 11:02:18 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等",
+    "link": "https://sspai.com/post/115197",
+    "summary": "Nothing 发布旗舰耳机 Headphone 1 Pro，AMD 斥资 82 亿美元收购 World Labs 等。 查看全文",
+    "pubDate": "Wed, 30 Sep 2026 07:39:21 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "Household energy bills forecast to see biggest rise in four years",
+    "link": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
+    "summary": "A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast.",
+    "pubDate": "Wed, 30 Sep 2026 05:27:23 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "From 999 fears to failed payments - life in UK's phone signal 'blackspots'",
+    "link": "https://www.bbc.co.uk/news/articles/c4grdn91j98o?at_medium=RSS&at_campaign=rss",
+    "summary": "Most of the UK has access to 4G and 5G signal, but in some places the lack of it causes serious disruption.",
+    "pubDate": "Wed, 30 Sep 2026 05:22:07 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Girl has multiple surgeries to control infections after strike in Gaza",
+    "link": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
+    "summary": "Witnesses say Raseel's tent was hit by an Israeli helicopter strike. Israel’s military says it has no record of the attack.",
+    "pubDate": "Wed, 30 Sep 2026 05:02:50 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "'Backpack' declared Alaska's Fat Bear Week winner",
+    "link": "https://www.bbc.co.uk/news/articles/ck8d3vl9mj13o?at_medium=RSS&at_campaign=rss",
+    "summary": "\"Backpack\" defeated a bear known only as \"910\" in the final round of the annual competition.",
+    "pubDate": "Wed, 30 Sep 2026 05:01:04 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Move to rejoin EU among options for UK, says Burnham",
+    "link": "https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss",
+    "summary": "The prime minister tells the BBC the current Brexit settlement has caused \"more harm than good\".",
+    "pubDate": "Wed, 30 Sep 2026 05:00:05 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Fanatics Promo Code: 10% Off",
+    "link": "https://www.wired.com/story/fanatics-promo-code/",
+    "summary": "Gear up for the season with verified Fanatics coupons, free shipping codes, and student or military discounts on jerseys, hats, and team gear.",
+    "pubDate": "Wed, 30 Sep 2026 05:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Tesla takes on $30B in credit as it approaches unprofitability",
+    "link": "https://electrek.co/2026/09/29/tesla-takes-on-30-billion-in-credit-as-it-approaches-unprofitability/",
+    "summary": "Article URL: https://electrek.co/2026/09/29/tesla-takes-on-30-billion-in-credit-as-it-approaches-unprofitability/ Comments URL: https://news.ycombinator.com/item?id=49904408 Points: 39 # Comments: 12",
+    "pubDate": "Wed, 30 Sep 2026 04:37:37 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "LinkedIn Larpmaxxing",
+    "link": "https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/",
+    "summary": "Article URL: https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/ Comments URL: https://news.ycombinator.com/item?id=49904314 Points: 37 # Comments: 32",
+    "pubDate": "Wed, 30 Sep 2026 04:19:57 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "PSSA: A non-transformer language model written from scratch in Rust",
+    "link": "https://github.com/Sparticle62ops/pssa",
+    "summary": "Article URL: https://github.com/Sparticle62ops/pssa Comments URL: https://news.ycombinator.com/item?id=49903993 Points: 46 # Comments: 12",
+    "pubDate": "Wed, 30 Sep 2026 03:19:54 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Student: Uni strikes 'not what we signed up for'",
+    "link": "https://www.bbc.co.uk/news/articles/c6804zm7xpg3o?at_medium=RSS&at_campaign=rss",
+    "summary": "The University of Nottingham said it was \"disappointed\" by the timing of industrial action.",
+    "pubDate": "Wed, 30 Sep 2026 03:00:26 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "RSS Feeds for Last.fm",
+    "link": "https://lfm.xiffy.nl/",
+    "summary": "Article URL: https://lfm.xiffy.nl/ Comments URL: https://news.ycombinator.com/item?id=49903862 Points: 16 # Comments: 4",
+    "pubDate": "Wed, 30 Sep 2026 03:00:05 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Responsible Release of AI-Generated Mathematics",
+    "link": "https://agmai.org/general-sep29/",
+    "summary": "Article URL: https://agmai.org/general-sep29/ Comments URL: https://news.ycombinator.com/item?id=49903713 Points: 22 # Comments: 15",
+    "pubDate": "Wed, 30 Sep 2026 02:36:12 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Ballmer Peak",
+    "link": "https://en.wikipedia.org/wiki/Ballmer_Peak",
+    "summary": "Article URL: https://en.wikipedia.org/wiki/Ballmer_Peak Comments URL: https://news.ycombinator.com/item?id=49903712 Points: 31 # Comments: 0",
+    "pubDate": "Wed, 30 Sep 2026 02:35:58 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Strange Parodies of Atari 2600 Video Game Box Cover Art (2008)",
+    "link": "https://mightygodking.com/2008/04/21/fun-from-yesterday/",
+    "summary": "Article URL: https://mightygodking.com/2008/04/21/fun-from-yesterday/ Comments URL: https://news.ycombinator.com/item?id=49903383 Points: 29 # Comments: 21",
+    "pubDate": "Wed, 30 Sep 2026 01:47:14 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The Papers: 'Burnham's triple shock' and 'City face expulsion'",
+    "link": "https://www.bbc.co.uk/news/articles/crd941kkejy4o?at_medium=RSS&at_campaign=rss",
+    "summary": "Every front page on Wednesday is dominated by Prime Minister Andy Burnham's speech at the Labour Party conference.",
+    "pubDate": "Wed, 30 Sep 2026 01:04:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "How AI is creating a UK super-museum and revealing our planet's history",
+    "link": "https://www.bbc.co.uk/news/articles/cv5yjgrj4ello?at_medium=RSS&at_campaign=rss",
+    "summary": "More than 70 million specimens from 100 UK collections will be put into an online digital museum",
+    "pubDate": "Wed, 30 Sep 2026 00:46:29 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Hidden habits that make your social anxiety worse - and how to break them",
+    "link": "https://www.bbc.co.uk/news/articles/cm4gl1yllg6po?at_medium=RSS&at_campaign=rss",
+    "summary": "Social anxiety is more common than many think. Here's what you need to know about the condition.",
+    "pubDate": "Wed, 30 Sep 2026 00:44:50 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Antisemitism on the rise at universities, charity warns",
+    "link": "https://www.bbc.co.uk/news/articles/c9gk54r61yldo?at_medium=RSS&at_campaign=rss",
+    "summary": "The Community Security Trust says reported incidents are \"substantially higher\" than before the war in Gaza began.",
+    "pubDate": "Wed, 30 Sep 2026 00:36:22 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Dirty Optimization Secrets (C for Playdate)",
+    "link": "https://devforum.play.date/t/dirty-optimization-secrets-c-for-playdate/23011",
+    "summary": "Comments",
+    "pubDate": "Wed, 30 Sep 2026 00:05:56 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "BBC News app",
     "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
     "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
@@ -789,174 +957,6 @@
     "summary": "Article URL: https://juliahub.com/blog/frontier-models-physical-ai-evaluation Comments URL: https://news.ycombinator.com/item?id=49098388 Points: 61 # Comments: 13",
     "pubDate": "Wed, 29 Jul 2026 14:56:28 +0000",
     "source": "Hacker News",
-    "category": "tech"
-  },
-  {
-    "title": "Show HN: Qwen Scribe – local transcription and dictation for Apple Silicon",
-    "link": "https://github.com/VladUZH/qwen-scribe",
-    "summary": "Article URL: https://github.com/VladUZH/qwen-scribe Comments URL: https://news.ycombinator.com/item?id=49098260 Points: 49 # Comments: 14",
-    "pubDate": "Wed, 29 Jul 2026 14:47:22 +0000",
-    "source": "Hacker News",
-    "category": "tech"
-  },
-  {
-    "title": "A.I. companies are recruiting electricians and carpenters by the thousands",
-    "link": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
-    "summary": "Article URL: https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html Comments URL: https://news.ycombinator.com/item?id=49098198 Points: 119 # Comments: 170",
-    "pubDate": "Wed, 29 Jul 2026 14:43:47 +0000",
-    "source": "Hacker News",
-    "category": "tech"
-  },
-  {
-    "title": "Serial killer given whole life order for murders of two men as police investigate four more deaths",
-    "link": "https://www.bbc.co.uk/news/articles/cddjz02d8jgo?at_medium=RSS&at_campaign=rss",
-    "summary": "Police are reviewing four unexplained deaths at a homeless shelter where James Desborough stayed.",
-    "pubDate": "Wed, 29 Jul 2026 14:43:01 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
-    "link": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
-    "summary": "The startup analyzes calls, messages and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
-    "pubDate": "Wed, 29 Jul 2026 14:41:06 +0000",
-    "source": "TechCrunch",
-    "category": "tech"
-  },
-  {
-    "title": "Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution",
-    "link": "https://aistack.imec-int.com/blog/gpu-self-hosting",
-    "summary": "Article URL: https://aistack.imec-int.com/blog/gpu-self-hosting Comments URL: https://news.ycombinator.com/item?id=49098130 Points: 78 # Comments: 29",
-    "pubDate": "Wed, 29 Jul 2026 14:38:35 +0000",
-    "source": "Hacker News",
-    "category": "tech"
-  },
-  {
-    "title": "More than half of England officially in drought, Environment Agency says",
-    "link": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss",
-    "summary": "The drought declarations follow an exceptionally hot and dry period, which has hit rivers, crops and nature.",
-    "pubDate": "Wed, 29 Jul 2026 14:37:30 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "'Apocalyptic' damage as Cairngorms wildfire burns for two weeks",
-    "link": "https://www.bbc.co.uk/news/articles/ckgd32v2y2lo?at_medium=RSS&at_campaign=rss",
-    "summary": "The blaze has destroyed about 25 sq km of moorland and forestry near Aviemore since Wednesday 15 July.",
-    "pubDate": "Wed, 29 Jul 2026 14:29:51 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "Anthony Fauci refuses to answer questions during US Senate hearing about Covid origins",
-    "link": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
-    "summary": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury.",
-    "pubDate": "Wed, 29 Jul 2026 14:29:34 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "Thousands in Spain return home but new heatwave raises wildfire fears",
-    "link": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
-    "summary": "Spain and France are both braced for the start of the fourth heatwave so far this summer and some fires have continued to burn.",
-    "pubDate": "Wed, 29 Jul 2026 14:27:13 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "Oscar-winning songwriter Glen Hansard killed in crash",
-    "link": "https://www.bbc.co.uk/news/articles/c3ekn9d37qvo?at_medium=RSS&at_campaign=rss",
-    "summary": "Hansard, who was 56, won the best song Oscar for the 2007 low-budget musical film Once.",
-    "pubDate": "Wed, 29 Jul 2026 14:26:56 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "Burnham doesn't rule out tax rises to fix social care",
-    "link": "https://www.bbc.co.uk/news/articles/ckg6d21zdyro?at_medium=RSS&at_campaign=rss",
-    "summary": "The prime minister holds cross-party talks as he speeds up review of social care in England.",
-    "pubDate": "Wed, 29 Jul 2026 14:13:12 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "Choose DuckDB rather than SQLite",
-    "link": "https://tracewayapp.com/blog/sqlite-vs-duckdb",
-    "summary": "Article URL: https://tracewayapp.com/blog/sqlite-vs-duckdb Comments URL: https://news.ycombinator.com/item?id=49097730 Points: 46 # Comments: 19",
-    "pubDate": "Wed, 29 Jul 2026 14:05:40 +0000",
-    "source": "Hacker News",
-    "category": "tech"
-  },
-  {
-    "title": "Show HN: A verification browser for AI agents – 13ms windows, one-call checks",
-    "link": "https://github.com/hongnoul/hwatu",
-    "summary": "Article URL: https://github.com/hongnoul/hwatu Comments URL: https://news.ycombinator.com/item?id=49097727 Points: 4 # Comments: 0",
-    "pubDate": "Wed, 29 Jul 2026 14:05:30 +0000",
-    "source": "Hacker News",
-    "category": "tech"
-  },
-  {
-    "title": "Woman, 86, orphaned as child opens prized garden to public to fulfill lifelong promise",
-    "link": "https://www.bbc.co.uk/news/articles/c2elzdyee3jo?at_medium=RSS&at_campaign=rss",
-    "summary": "Ann Lush made a promise to herself when she was nine to “help any child I could”.",
-    "pubDate": "Wed, 29 Jul 2026 14:02:38 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "‘No one’s making a phone like this’: Light’s co-founders on building for the anti-smartphone generation",
-    "link": "https://techcrunch.com/video/no-ones-making-a-phone-like-this-lights-co-founders-on-building-for-the-anti-smartphone-generation/",
-    "summary": "With the&#160;Light Phone,&#160;Kaiwei Tang&#160;and&#160;Joe Hollier&#160;have spent over a decade exploring the value of simplicity in our relationship to technology, partnering along the way with players like&#160;Andrew Yang, Kendrick Lamar, and Pete Davidson. Now, with a new flip phone and a...",
-    "pubDate": "Wed, 29 Jul 2026 14:00:00 +0000",
-    "source": "TechCrunch",
-    "category": "tech"
-  },
-  {
-    "title": "Valve Sponsors Work Bringing Open-Source RADV Driver to Windows",
-    "link": "https://www.phoronix.com/news/Valve-Sponsors-RADV-Windows",
-    "summary": "Article URL: https://www.phoronix.com/news/Valve-Sponsors-RADV-Windows Comments URL: https://news.ycombinator.com/item?id=49097591 Points: 17 # Comments: 2",
-    "pubDate": "Wed, 29 Jul 2026 13:55:00 +0000",
-    "source": "Hacker News",
-    "category": "tech"
-  },
-  {
-    "title": "Is World Cup sell-off plan a step too far by Infantino?",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cjejl274xx8o?at_medium=RSS&at_campaign=rss",
-    "summary": "BBC Sport explores why Fifa president Gianni Infantino feels powerful enough to sell off stakes in the World Cup - and what the consequences could be.",
-    "pubDate": "Wed, 29 Jul 2026 13:48:10 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "X Says Australia’s Under-16 Social Media Ban Risks Interfering With Foreign Law",
-    "link": "https://www.wired.com/story/x-says-australias-under-16s-social-media-bans-risk-interfering-with-foreign-law/",
-    "summary": "Elon Musk’s platform attacked the country’s “invasive” information-gathering powers as it demands the government drop efforts to strengthen its no-children policy.",
-    "pubDate": "Wed, 29 Jul 2026 13:47:46 +0000",
-    "source": "Wired",
-    "category": "tech"
-  },
-  {
-    "title": "Saltburn suspend Devine after 'finger-clicking' claim",
-    "link": "https://www.bbc.co.uk/sport/cricket/articles/cg7m5grrp7ko?at_medium=RSS&at_campaign=rss",
-    "summary": "The Saltburn player at the centre of an alleged cheating scandal is suspended by the club for the \"foreseeable future\".",
-    "pubDate": "Wed, 29 Jul 2026 13:36:52 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "What happens when you put AI to work deciphering lost languages?",
-    "link": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/",
-    "summary": "AI is fantastic at spotting patterns, but human insight is the key.",
-    "pubDate": "Wed, 29 Jul 2026 13:23:31 +0000",
-    "source": "Ars Technica",
-    "category": "tech"
-  },
-  {
-    "title": "First CHERIoT Silicon",
-    "link": "https://cheriot.org/silicon/2026/03/04/cheriot-first-silicon.html",
-    "summary": "Comments",
-    "pubDate": "Wed, 29 Jul 2026 13:11:44 -0500",
-    "source": "Lobsters",
     "category": "tech"
   }
 ]

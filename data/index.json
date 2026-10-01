@@ -1,11 +1,91 @@
 [
   {
+    "title": "Cornell case spotlights 'confusing' web of systems for reporting campus assaults",
+    "link": "https://www.bbc.co.uk/news/articles/crpd0wdnlgxno?at_medium=RSS&at_campaign=rss",
+    "summary": "Victims often have to navigate both university and local law enforcement processes to find justice.",
+    "pubDate": "Wed, 30 Sep 2026 23:53:54 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+    "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+    "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+    "pubDate": "Wed, 30 Sep 2026 23:43:07 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "China has cracked down on AI relationships. Is it ahead of the game?",
+    "link": "https://www.bbc.co.uk/news/articles/cm4gjy9lr551o?at_medium=RSS&at_campaign=rss",
+    "summary": "Beijing has cracked down on AI chatbots that can replicate human relationships. Experts are asking if this is the right thing to do.",
+    "pubDate": "Wed, 30 Sep 2026 23:25:23 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Tiny image sparks big backlash in Nikon photo contest",
+    "link": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&at_campaign=rss",
+    "summary": "Dr Ning Xu denies he broke the rules of Nikon's annual Small World In Motion contest.",
+    "pubDate": "Wed, 30 Sep 2026 23:10:19 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
+    "link": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
+    "summary": "A foreign policy speech by the Russian president will be keenly watched, but all signs point to the full-scale invasion continuing.",
+    "pubDate": "Wed, 30 Sep 2026 23:10:06 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next",
+    "link": "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/",
+    "summary": "Defense Secretary Pete Hegseth just launched a 120-day study on the future of warfare, led by Elon Musk, Palmer Luckey, and Newt Gingrich, and while it makes sense given their ties to the administration, critics could point out that Musk's and Luckey's companies already sell the kinds of technolo...",
+    "pubDate": "Wed, 30 Sep 2026 23:08:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Vape prices to rise as new tax takes effect",
+    "link": "https://www.bbc.co.uk/news/articles/c6j4jrjgv2j7o?at_medium=RSS&at_campaign=rss",
+    "summary": "Vaping is about to becoming more expensive due to a new tax on products.",
+    "pubDate": "Wed, 30 Sep 2026 23:02:11 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Energy bills are going up - here's what you can do about it",
+    "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+    "summary": "Household energy bills have risen again but there are ways to keep a lid on your expenditure.",
+    "pubDate": "Wed, 30 Sep 2026 23:01:32 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Conservatives pledge 'tough love' benefit rules for under-25s",
+    "link": "https://www.bbc.co.uk/news/articles/cklyjy9pv93yo?at_medium=RSS&at_campaign=rss",
+    "summary": "The party says it would bring in new work requirements for young people claiming Universal Credit.",
+    "pubDate": "Wed, 30 Sep 2026 22:38:33 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "从玩家的世界掠过：Bungie 的「列车」如何驶向终焉",
     "link": "https://sspai.com/post/115070",
     "summary": "Bungie 究竟是在和时间赛跑，还是在和自己赛跑？ 查看全文",
     "pubDate": "Wed, 30 Sep 2026 22:32:58 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "56k.rip – the 1996 dial-up internet experience",
+    "link": "https://56k.rip/",
+    "summary": "Article URL: https://56k.rip/ Comments URL: https://news.ycombinator.com/item?id=49915126 Points: 136 # Comments: 73",
+    "pubDate": "Wed, 30 Sep 2026 22:08:50 +0000",
+    "source": "Hacker News",
+    "category": "tech"
   },
   {
     "title": "The top secret URSALA, RAQUEL, and FARRAH satellites",
@@ -16,12 +96,28 @@
     "category": "tech"
   },
   {
+    "title": "Trekkers helicoptered off mountains as more deadly landslides hit Nepal",
+    "link": "https://www.bbc.co.uk/news/articles/c607l4l3vn0eo?at_medium=RSS&at_campaign=rss",
+    "summary": "A month after mass catastrophic flooding, around 30 people have died in landslides and heavy rain.",
+    "pubDate": "Wed, 30 Sep 2026 22:01:16 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "Dinosaur-killing impact crater might have been teeming with life",
     "link": "https://arstechnica.com/science/2026/09/dinosaur-killing-impact-crater-might-have-been-teeming-with-life/",
     "summary": "Hot, nutrient water might have lasted for over 5 million years after the impact.",
     "pubDate": "Wed, 30 Sep 2026 21:54:12 +0000",
     "source": "Ars Technica",
     "category": "tech"
+  },
+  {
+    "title": "Employers should teach primary-age children about work, says Milburn",
+    "link": "https://www.bbc.co.uk/news/articles/cr2kwlw0p3v9o?at_medium=RSS&at_campaign=rss",
+    "summary": "The author of a major report into youth activity in the UK says children as young as four should be learning about careers.",
+    "pubDate": "Wed, 30 Sep 2026 21:40:31 GMT",
+    "source": "BBC News",
+    "category": "general"
   },
   {
     "title": "Flydubai passenger describes putting attacker in chokehold after cockpit stabbing",
@@ -46,6 +142,14 @@
     "pubDate": "Wed, 30 Sep 2026 21:30:38 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "ESXi Exploitation in the Wild",
+    "link": "https://www.huntress.com/blog/esxi-vm-escape-exploit",
+    "summary": "Comments",
+    "pubDate": "Wed, 30 Sep 2026 21:30:14 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "UK believes Iran involved in RAF Fairford incident, PM says",
@@ -85,6 +189,14 @@
     "summary": "President Donald Trump still thinks Republicans have a shot. His aides are less convinced.",
     "pubDate": "Wed, 30 Sep 2026 21:00:00 +0000",
     "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "ASM Bots: Core War in real 8086 machine code",
+    "link": "https://asmbots.io",
+    "summary": "Comments",
+    "pubDate": "Wed, 30 Sep 2026 20:59:24 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -264,6 +376,14 @@
     "category": "tech"
   },
   {
+    "title": "Impossible for England to find another Kane - Tuchel",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cr1e5ep101wdo?at_medium=RSS&at_campaign=rss",
+    "summary": "England boss Thomas Tuchel says it will be impossible to find \"another Harry Kane\" as his free-scoring captain continues to break new ground.",
+    "pubDate": "Wed, 30 Sep 2026 19:25:34 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "The Disney protests were a wake-up call about the risks of streaming mergers",
     "link": "https://arstechnica.com/gadgets/2026/09/what-the-disney-protests-over-kimmel-taught-us-about-streaming-mergers/",
     "summary": "Boycotting Disney is hard.",
@@ -285,6 +405,14 @@
     "summary": "The new BMW 3 Series shows just how quickly EVs have caught up to fossil fuel vehicles on pricing.",
     "pubDate": "Wed, 30 Sep 2026 19:19:40 +0000",
     "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Rust to WGSL transpiler `wgsl-rs` released",
+    "link": "https://renderling.xyz/articles/wgsl-rs-beta-release.html",
+    "summary": "Comments",
+    "pubDate": "Wed, 30 Sep 2026 19:13:12 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -312,6 +440,14 @@
     "category": "tech"
   },
   {
+    "title": "Major rsync upgrade in Debian because of 33 CVEs",
+    "link": "https://lobste.rs/s/sqyhgt/major_rsync_upgrade_debian_because_33",
+    "summary": "apt-listchanges --which=both -f text --since=3.4.1+ds1-5+deb13u4 /var/cache/apt/archives/rsync_3.5.0+ds1-0+deb13u1_amd64.deb apt-listchanges: Reading changelogs... apt-listchanges: News rsync (3.5.0+ds1-0+deb13u1) trixie-security; urgency=medium In order to fix 33 CVEs, I have decided to bump the...",
+    "pubDate": "Wed, 30 Sep 2026 19:02:09 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
     "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
     "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
@@ -325,6 +461,14 @@
     "summary": "The veteran broadcaster's career spanned street interviews, national campaigns and emotional reunions.",
     "pubDate": "Wed, 30 Sep 2026 19:00:50 GMT",
     "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Swiss glaciers suffer another year of record ice loss",
+    "link": "https://www.npr.org/2026/09/30/nx-s1-5981403/swiss-glaciers-climate-change",
+    "summary": "Switzerland's glaciers are disappearing at a record pace. More than 5% of their ice has vanished this year alone — threatening water supplies, ecosystems and communities across Europe.",
+    "pubDate": "Wed, 30 Sep 2026 19:00:00 -0400",
+    "source": "NPR",
     "category": "general"
   },
   {
@@ -390,6 +534,14 @@
     "pubDate": "Wed, 30 Sep 2026 18:23:57 +0000",
     "source": "TechCrunch",
     "category": "tech"
+  },
+  {
+    "title": "How That's Life! gave Esther Rantzen a career-defining moment",
+    "link": "https://www.bbc.co.uk/news/articles/c3gr5ynd5p1o?at_medium=RSS&at_campaign=rss",
+    "summary": "Sir Nicholas Winton's story became national news when he appeared on That's Life! in February 1988.",
+    "pubDate": "Wed, 30 Sep 2026 18:19:30 GMT",
+    "source": "BBC News",
+    "category": "general"
   },
   {
     "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
@@ -478,6 +630,14 @@
     "pubDate": "Wed, 30 Sep 2026 17:11:08 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "EDG C/C++ Compiler Project",
+    "link": "https://github.com/edgcpp/compiler",
+    "summary": "During the 2025 November C++ ISO meeting Edison Design Group announced that they would be winding down and that they will open-source their front end . This is the repo containing said front end along with some other components like C and C++ back ends. There is also a website with more info abou...",
+    "pubDate": "Wed, 30 Sep 2026 17:06:21 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Great Dirhombicosidodecahedron (\"Miller's Monster\")",
@@ -784,179 +944,19 @@
     "category": "tech"
   },
   {
+    "title": "The last time my family was replaced by technology",
+    "link": "https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/",
+    "summary": "Article URL: https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/ Comments URL: https://news.ycombinator.com/item?id=49908394 Points: 216 # Comments: 461",
+    "pubDate": "Wed, 30 Sep 2026 13:06:11 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "Police seek charges against 20 firms and 54 people over Grenfell Tower fire",
     "link": "https://www.bbc.co.uk/news/articles/cmwyz5v5zdpdo?at_medium=RSS&at_campaign=rss",
     "summary": "The force is seeking charges against 54 individuals and 20 companies over the 2017 tower block fire that killed 72 people.",
     "pubDate": "Wed, 30 Sep 2026 12:53:10 GMT",
     "source": "BBC News",
     "category": "general"
-  },
-  {
-    "title": "Sussexes condemn 'reckless intrusion' after men spotted near Archie and Lilibet's school",
-    "link": "https://www.bbc.co.uk/news/articles/cw0kl62zn0p7o?at_medium=RSS&at_campaign=rss",
-    "summary": "One of the men seen outside the UK school attended by the children is understood to be an international press photographer.",
-    "pubDate": "Wed, 30 Sep 2026 12:50:51 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
-    "link": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
-    "summary": "In total 11 regions of the country were attacked overnight, with residential buildings and railways also targeted, the Ukrainian PM says.",
-    "pubDate": "Wed, 30 Sep 2026 12:42:34 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "Oasis take legal action to stop sale of unheard tapes",
-    "link": "https://www.bbc.co.uk/news/articles/cw98070pq999o?at_medium=RSS&at_campaign=rss",
-    "summary": "The auction house said it was \"very disappointed\" the lot could no longer be sold.",
-    "pubDate": "Wed, 30 Sep 2026 12:33:22 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "Trump officials changed forms for overseas voters amid a GOP push to restrict voting",
-    "link": "https://www.npr.org/2026/09/30/nx-s1-5978976/military-voter-registration-overseas-citizens-absentee-voting",
-    "summary": "The Pentagon made last-minute changes to forms that many overseas U.S. citizens use for absentee voting, removing a category of citizens that Republicans have been pushing to block from voting.",
-    "pubDate": "Wed, 30 Sep 2026 12:32:12 -0400",
-    "source": "NPR",
-    "category": "general"
-  },
-  {
-    "title": "Watch: Detail about new call to police changes RAF Fairford timeline",
-    "link": "https://www.bbc.co.uk/news/videos/c6eq84800zlzo?at_medium=RSS&at_campaign=rss",
-    "summary": "One of five men arrested near RAF Fairford in the early hours of Sunday morning had dialled 999 himself, the BBC understands. BBC's UK correspondent Daniel Sandford explains the timeline of events.",
-    "pubDate": "Wed, 30 Sep 2026 12:31:10 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "What we know about the Dubai-Israel plane incident after reported stabbing",
-    "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-    "summary": "The Saudi Arabian airport where the plane was diverted to said the captain and first officer were injured.",
-    "pubDate": "Wed, 30 Sep 2026 12:30:05 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "Qt 6.12 LTS Released",
-    "link": "https://www.qt.io/blog/qt-6.12-released",
-    "summary": "Comments",
-    "pubDate": "Wed, 30 Sep 2026 12:10:52 -0500",
-    "source": "Lobsters",
-    "category": "tech"
-  },
-  {
-    "title": "Residents fear new rules could mean dangerous cladding is left on blocks of flats",
-    "link": "https://www.bbc.co.uk/news/articles/cw07l4r8vjmpo?at_medium=RSS&at_campaign=rss",
-    "summary": "The government says it hopes the changes will speed up the process of removing cladding.",
-    "pubDate": "Wed, 30 Sep 2026 12:08:45 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "Two Google alumni raise $11.3M to back AI startups that enterprises will actually pay for",
-    "link": "https://techcrunch.com/2026/09/30/bag-ventures-sets-its-eyes-deeper-into-the-ai-stack/",
-    "summary": "BAG Ventures announces close of a $11.3M Fund I to invest in all things AI.",
-    "pubDate": "Wed, 30 Sep 2026 12:00:00 +0000",
-    "source": "TechCrunch",
-    "category": "tech"
-  },
-  {
-    "title": "Airbnb adds AI search, more social features",
-    "link": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
-    "summary": "Airbnb is also launching new services such as meal delivery and laundry in select locations.",
-    "pubDate": "Wed, 30 Sep 2026 12:00:00 +0000",
-    "source": "TechCrunch",
-    "category": "tech"
-  },
-  {
-    "title": "Republic of Ireland will play second Israel game - Hallgrimsson",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cqd081x1mlvdo?at_medium=RSS&at_campaign=rss",
-    "summary": "Republic of Ireland head coach Heimir Hallgrimsson says the team's second Uefa Nations League game against Israel will go ahead as planned.",
-    "pubDate": "Wed, 30 Sep 2026 11:52:39 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "Greggs to shut four factories and cut 740 jobs",
-    "link": "https://www.bbc.co.uk/news/articles/cm7802ylq973o?at_medium=RSS&at_campaign=rss",
-    "summary": "The company says it needs to \"keep evolving alongside changing customer expectations\".",
-    "pubDate": "Wed, 30 Sep 2026 11:47:22 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
-    "link": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
-    "summary": "The withdrawal of coalition forces, under a deal agreed two years ago, was a key demand of the Iraqi government.",
-    "pubDate": "Wed, 30 Sep 2026 11:36:23 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "The Best Gifts for Book Lovers (2026): E-Readers, Handy Accessories, Book Sets",
-    "link": "https://www.wired.com/story/gifts-for-book-lovers/",
-    "summary": "Any one of these gift ideas will make your favorite bookworm very happy, from e-readers and accessories to handy reading essentials.",
-    "pubDate": "Wed, 30 Sep 2026 11:36:00 +0000",
-    "source": "Wired",
-    "category": "tech"
-  },
-  {
-    "title": "How Ukrainians are coping with new, more deadly Russian attacks",
-    "link": "https://www.npr.org/2026/09/30/nx-s1-5984948/how-ukrainians-are-coping-with-new-more-deadly-russian-attacks",
-    "summary": "Zanny Minton Beddoes, The Economist's editor in chief , just visited Ukraine. She says, despite all its drone weaponry, Kyiv is under extraordinary bombardment, as Russia tries to make it unlivable.",
-    "pubDate": "Wed, 30 Sep 2026 11:33:19 -0400",
-    "source": "NPR",
-    "category": "general"
-  },
-  {
-    "title": "Peter Murrell's legal aid withdrawn after embezzlement conviction",
-    "link": "https://www.bbc.co.uk/news/articles/c5j9xmgz8eero?at_medium=RSS&at_campaign=rss",
-    "summary": "The former SNP chief executive had been receiving government-funded support since last year.",
-    "pubDate": "Wed, 30 Sep 2026 11:21:14 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "Cloudflare plans to issue quantum-safe TLS certificates",
-    "link": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/",
-    "summary": "The move will be part of a major overhaul of the ecosystem for website authentication.",
-    "pubDate": "Wed, 30 Sep 2026 11:15:14 +0000",
-    "source": "Ars Technica",
-    "category": "tech"
-  },
-  {
-    "title": "'Rock, paper, scissors' decides London Marathon dates",
-    "link": "https://www.bbc.co.uk/sport/athletics/articles/cm36lgdk9g33o?at_medium=RSS&at_campaign=rss",
-    "summary": "A game of rock, paper, scissors is used to determine when the elite female and male races will take place at next year's two-day London Marathon.",
-    "pubDate": "Wed, 30 Sep 2026 11:05:10 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的",
-    "link": "https://sspai.com/post/114945",
-    "summary": "祝你旅途顺遂，假期自由。 查看全文",
-    "pubDate": "Wed, 30 Sep 2026 11:02:18 +0800",
-    "source": "少数派",
-    "category": "tech-cn"
-  },
-  {
-    "title": "Watch: Couple describe relief at rescue after whale destroys their yacht",
-    "link": "https://www.bbc.co.uk/news/videos/c6n4ken4n7n7o?at_medium=RSS&at_campaign=rss",
-    "summary": "Jeremy and Gemma Cooper were 500 miles off the coast of New Zealand when their yacht, the Tai Tam, collided with a sperm whale.",
-    "pubDate": "Wed, 30 Sep 2026 11:01:58 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "The Best Gaming Routers (2026): Tested By a Family of Gamers",
-    "link": "https://www.wired.com/story/best-gaming-routers/",
-    "summary": "Gaming online can seriously strain your internet connection, but the best gaming routers could give you the edge.",
-    "pubDate": "Wed, 30 Sep 2026 11:00:00 +0000",
-    "source": "Wired",
-    "category": "tech"
   }
 ]

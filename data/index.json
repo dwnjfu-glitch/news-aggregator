@@ -1,5 +1,13 @@
 [
   {
+    "title": "'I'm very shocked' - College students react to Cornell University rape investigation",
+    "link": "https://www.bbc.co.uk/news/videos/cmdx0x928999o?at_medium=RSS&at_campaign=rss",
+    "summary": "The BBC asked students in Washington about the allegations from a woman who says she was raped at a fraternity house in 2024.",
+    "pubDate": "Wed, 30 Sep 2026 23:58:27 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "Cornell case spotlights 'confusing' web of systems for reporting campus assaults",
     "link": "https://www.bbc.co.uk/news/articles/crpd0wdnlgxno?at_medium=RSS&at_campaign=rss",
     "summary": "Victims often have to navigate both university and local law enforcement processes to find justice.",
@@ -181,6 +189,14 @@
     "summary": "It's possible to send electrical signals right through human tissues.",
     "pubDate": "Wed, 30 Sep 2026 21:06:56 +0000",
     "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "The AI Pascal’s Wager",
+    "link": "https://ploum.net/2026-10-01-pascal_wager.html",
+    "summary": "Comments",
+    "pubDate": "Wed, 30 Sep 2026 21:03:34 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -942,21 +958,5 @@
     "pubDate": "Wed, 30 Sep 2026 13:06:19 -0500",
     "source": "Lobsters",
     "category": "tech"
-  },
-  {
-    "title": "The last time my family was replaced by technology",
-    "link": "https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/",
-    "summary": "Article URL: https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/ Comments URL: https://news.ycombinator.com/item?id=49908394 Points: 216 # Comments: 461",
-    "pubDate": "Wed, 30 Sep 2026 13:06:11 +0000",
-    "source": "Hacker News",
-    "category": "tech"
-  },
-  {
-    "title": "Police seek charges against 20 firms and 54 people over Grenfell Tower fire",
-    "link": "https://www.bbc.co.uk/news/articles/cmwyz5v5zdpdo?at_medium=RSS&at_campaign=rss",
-    "summary": "The force is seeking charges against 54 individuals and 20 companies over the 2017 tower block fire that killed 72 people.",
-    "pubDate": "Wed, 30 Sep 2026 12:53:10 GMT",
-    "source": "BBC News",
-    "category": "general"
   }
 ]

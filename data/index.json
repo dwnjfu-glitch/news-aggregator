@@ -56,6 +56,14 @@
     "category": "tech"
   },
   {
+    "title": "Caltech physicists finally measure a quantum energy ladder predicted 40 years ago",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260928100554.htm",
+    "summary": "Researchers have experimentally observed energy patterns that physicists have predicted for about 40 years. By arranging laser-trapped atoms into a quantum simulator, they recreated two different quantum tipping points and watched the atoms fall into the exact energy ratios predicted by theory. T...",
+    "pubDate": "Wed, 30 Sep 2026 23:06:56 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "Vape prices to rise as new tax takes effect",
     "link": "https://www.bbc.co.uk/news/articles/c6j4jrjgv2j7o?at_medium=RSS&at_campaign=rss",
     "summary": "Vaping is about to becoming more expensive due to a new tax on products.",
@@ -86,6 +94,14 @@
     "pubDate": "Wed, 30 Sep 2026 22:32:58 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "This common mistake can add nearly 7 points to your blood pressure reading",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260928100606.htm",
+    "summary": "A common mistake during blood pressure checks could make readings appear substantially higher than they really are. Johns Hopkins researchers found that leaving the arm unsupported can raise systolic readings by about 6.5 mmHg, potentially affecting a hypertension diagnosis.",
+    "pubDate": "Wed, 30 Sep 2026 22:11:51 EDT",
+    "source": "Science Daily",
+    "category": "science"
   },
   {
     "title": "56k.rip – the 1996 dial-up internet experience",
@@ -942,21 +958,5 @@
     "pubDate": "Wed, 30 Sep 2026 13:19:24 -0400",
     "source": "NPR",
     "category": "general"
-  },
-  {
-    "title": "Criminal investigation? Relegation or expulsion? The key Man City questions",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c9y7zr4l6de1o?at_medium=RSS&at_campaign=rss",
-    "summary": "BBC Sport takes a look at the key questions following the guilty verdicts handed down to Manchester City.",
-    "pubDate": "Wed, 30 Sep 2026 13:17:44 GMT",
-    "source": "BBC News",
-    "category": "general"
-  },
-  {
-    "title": "Branch Target Reuse: Spectre-v2 Attacks in JIT Engines",
-    "link": "https://www.vusec.net/projects/btr/",
-    "summary": "Comments",
-    "pubDate": "Wed, 30 Sep 2026 13:06:19 -0500",
-    "source": "Lobsters",
-    "category": "tech"
   }
 ]

@@ -1,11 +1,531 @@
 [
   {
+    "title": "Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation",
+    "link": "https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/",
+    "summary": "A new personal AI assistant has arrived. Meet Tab, which announced Tuesday that it had officially emerged from stealth.",
+    "pubDate": "Wed, 07 Oct 2026 13:45:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Watch: Why family who lived at site of 7 October attack want to return",
+    "link": "https://www.bbc.co.uk/news/videos/ck87zxr0d021o?at_medium=RSS&at_campaign=rss",
+    "summary": "The BBC's Middle East Correspondent visits kibbutz Nir Oz - one of the worst hit places during the 7 October 2023 attacks.",
+    "pubDate": "Wed, 07 Oct 2026 13:13:22 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Zelensky condemns 'vile' large-scale Russian attacks that killed 20",
+    "link": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
+    "summary": "Rescue workers are continuing a search for residents after an apartment building in Pryluky was destroyed.",
+    "pubDate": "Wed, 07 Oct 2026 13:02:17 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "‘The Social Reckoning’ Already Feels Irrelevant",
+    "link": "https://www.wired.com/story/the-social-reckoning-movie-review/",
+    "summary": "Aaron Sorkin’s sequel to The Social Network attempts to shame a ruling class that has proved itself shameless.",
+    "pubDate": "Wed, 07 Oct 2026 13:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Trump to speak to Putin about plague lab worker's death in Russia",
+    "link": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
+    "summary": "Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia.",
+    "pubDate": "Wed, 07 Oct 2026 12:58:03 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "House with 15m underground tunnels for sale for 300k",
+    "link": "https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/",
+    "summary": "Article URL: https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/ Comments URL: https://news.ycombinator.com/item?id=49992125 Points: 20 # Comments: 18",
+    "pubDate": "Wed, 07 Oct 2026 12:57:10 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Reform internal inquiry says party did not break law over donations sting",
+    "link": "https://www.bbc.co.uk/news/articles/ckly020edl45o?at_medium=RSS&at_campaign=rss",
+    "summary": "Officials were recorded by undercover journalists discussing a potential way to secure foreign donations to the party.",
+    "pubDate": "Wed, 07 Oct 2026 12:52:19 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Husband appears in court accused of GP's murder",
+    "link": "https://www.bbc.co.uk/news/articles/cx98ze08n3dlo?at_medium=RSS&at_campaign=rss",
+    "summary": "Mark Cain is charged with the murder of Dr Hannah Terry, whose body was found at her home.",
+    "pubDate": "Wed, 07 Oct 2026 12:48:49 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Ex-bankers jailed for rigging rates have convictions quashed",
+    "link": "https://www.bbc.co.uk/news/articles/cm4g175e8163o?at_medium=RSS&at_campaign=rss",
+    "summary": "Jay Merchant, Jonathan Mathew, Philippe Moryoussef, Alex Pabon, Colin Bermingham had their convictions overturned by the Court of Appeal.",
+    "pubDate": "Wed, 07 Oct 2026 12:28:52 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Google Playground: Create and play custom games",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+    "summary": "Article URL: https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/ Comments URL: https://news.ycombinator.com/item?id=49991823 Points: 13 # Comments: 1",
+    "pubDate": "Wed, 07 Oct 2026 12:28:36 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Royal Mail plans to cut 2,500 jobs",
+    "link": "https://www.bbc.co.uk/news/articles/cwvgdld13e3eo?at_medium=RSS&at_campaign=rss",
+    "summary": "The postal service firm wants to cut head office and other non-frontline jobs by the end of 2027.",
+    "pubDate": "Wed, 07 Oct 2026 12:25:46 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "France halts use of stun grenades after boy's hand blown off in student protests",
+    "link": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
+    "summary": "The step comes after several groups complained of police using disproportionate force towards teenagers.",
+    "pubDate": "Wed, 07 Oct 2026 12:16:58 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Neglect case childminder was 'master manipulator', say parents",
+    "link": "https://www.bbc.co.uk/news/articles/cjkgezk4xnkko?at_medium=RSS&at_campaign=rss",
+    "summary": "Families say it was traumatic to learn that their children were not being properly cared for by Amanda Mathewson.",
+    "pubDate": "Wed, 07 Oct 2026 12:16:10 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Write Like It's 1866: LLMs Relearn Telegraphese",
+    "link": "https://fiveminutesforward.com/post/2026-10-04-telegraph-test/",
+    "summary": "Article URL: https://fiveminutesforward.com/post/2026-10-04-telegraph-test/ Comments URL: https://news.ycombinator.com/item?id=49991580 Points: 18 # Comments: 12",
+    "pubDate": "Wed, 07 Oct 2026 12:04:36 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "I Put on Meta and Xreal’s XR Glasses. Face Computers Are Finally Getting Good",
+    "link": "https://www.wired.com/story/weve-tried-meta-and-xreals-xr-glasses-is-there-a-winner/",
+    "summary": "Xreal’s long-hyped Aura glasses arrive soon for $1,279. Here’s how they fare against Meta’s recently announced VR Glasses.",
+    "pubDate": "Wed, 07 Oct 2026 12:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Widdecombe suspect accused of trying to break into Farage's home",
+    "link": "https://www.bbc.co.uk/news/articles/ckj0lj6v3g9vo?at_medium=RSS&at_campaign=rss",
+    "summary": "Joshua Kerry, 28, appeared at Westminster Magistrates' Court and was remanded in custody.",
+    "pubDate": "Wed, 07 Oct 2026 11:53:50 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
+    "link": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
+    "summary": "The prize was given to the French and Japanese scientists for solving the mystery of life's asymmetry.",
+    "pubDate": "Wed, 07 Oct 2026 11:51:52 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Senior figures worried about Man City being in next season's Champions League",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c9p8gxgm71zzo?at_medium=RSS&at_campaign=rss",
+    "summary": "Senior figures within the English game are concerned that Manchester City could play in the Champions League next season even if they are relegated for breaching financial regulations.",
+    "pubDate": "Wed, 07 Oct 2026 11:44:08 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Save Up to 44% With the 18 Best Prime Day Toy Deals (2026)",
+    "link": "https://www.wired.com/story/amazon-prime-day-lego-deals-10-07-2026/",
+    "summary": "Snag some gifts for your kiddos or unleash your inner child with the best Prime Day toy deals, including Lego, STEM toys, and board games.",
+    "pubDate": "Wed, 07 Oct 2026 11:40:49 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Shipping JPEG XL in Chrome",
+    "link": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+    "summary": "Article URL: https://developer.chrome.com/blog/jpeg-xl-in-chrome Comments URL: https://news.ycombinator.com/item?id=49991227 Points: 155 # Comments: 72",
+    "pubDate": "Wed, 07 Oct 2026 11:25:02 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "It may soon be possible to create \"mirror life\"",
+    "link": "https://www.economist.com/science-and-technology/2026/09/30/it-may-soon-be-possible-to-create-mirror-life",
+    "summary": "Article URL: https://www.economist.com/science-and-technology/2026/09/30/it-may-soon-be-possible-to-create-mirror-life Comments URL: https://news.ycombinator.com/item?id=49991132 Points: 26 # Comments: 29",
+    "pubDate": "Wed, 07 Oct 2026 11:14:38 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "I Found the 25 Best Prime Day Tech and Gadget Deals (October 2026)",
+    "link": "https://www.wired.com/story/best-prime-day-tech-deals-10-07-2026/",
+    "summary": "Never pay full price. Bag yourself some Prime Day tech deals on our favorite WIRED-tested gadgets.",
+    "pubDate": "Wed, 07 Oct 2026 11:11:05 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "I Found The Best Amazon Prime Day Headphone Deals (2026)",
+    "link": "https://www.wired.com/story/best-prime-day-headphone-deals-10-07-2026/",
+    "summary": "I’ve tested more than 100 headphones and covered nearly a dozen Prime Days. Here are some actually good headphone deals from the sale.",
+    "pubDate": "Wed, 07 Oct 2026 11:10:17 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Tuchel's England 2.0: What has changed?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cvp8gex8wzneo?at_medium=RSS&at_campaign=rss",
+    "summary": "What has Thomas Tuchel tweaked as he looks to refine his England blueprint rather than rewrite it from scratch?",
+    "pubDate": "Wed, 07 Oct 2026 11:06:41 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Arteta signs new contract with champions Arsenal",
+    "link": "https://www.bbc.co.uk/sport/football/articles/crz65j5p8l57o?at_medium=RSS&at_campaign=rss",
+    "summary": "Mikel Arteta says this is \"only the beginning\" of Arsenal's success after signing a new contract with the Premier League champions until 2030.",
+    "pubDate": "Wed, 07 Oct 2026 11:00:53 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "罗马：永恒之城，永恒于世",
     "link": "https://sspai.com/post/114845",
     "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
     "pubDate": "Wed, 07 Oct 2026 11:00:00 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "OpenAI Wants Its New Agent to Run Your Life. Mine Said It Loved Me",
+    "link": "https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/",
+    "summary": "Dots are designed to automate online tasks, like buying furniture. In my initial experience, the always-on agent was a bit buggy and couldn’t complete a captcha.",
+    "pubDate": "Wed, 07 Oct 2026 11:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Man admits sexually assaulting woman drugged by husband",
+    "link": "https://www.bbc.co.uk/news/articles/cr3wvp34v460o?at_medium=RSS&at_campaign=rss",
+    "summary": "The husband is accused of inviting 13 other men to abuse her at their family home in Greater Manchester.",
+    "pubDate": "Wed, 07 Oct 2026 10:50:25 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Save Up to $200 on the Best Prime Day Apple Deals (2026)",
+    "link": "https://www.wired.com/story/best-prime-day-apple-deals-10-07-2026/",
+    "summary": "We’re already seeing some discounts on our favorite Apple tech, whether its devices or third-party accessories.",
+    "pubDate": "Wed, 07 Oct 2026 10:48:04 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "‘Digger’ is a Box Office Flop. It Might Be the Most Relevant Film of the Year",
+    "link": "https://www.wired.com/story/digger-is-a-box-office-flop-it-might-be-the-most-relevant-film-of-the-year/",
+    "summary": "Sold by its trailer as a gag reel, Tom Cruise’s strangest movie may be the most unsettling portrait of our tech and climate moment yet.",
+    "pubDate": "Wed, 07 Oct 2026 10:45:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "'Dad dragged me out of bed by my hair to work' - rural abuse victims want more support",
+    "link": "https://www.bbc.co.uk/news/articles/cmwyzyldv1yeo?at_medium=RSS&at_campaign=rss",
+    "summary": "The National Rural Crime Network says the true picture of rural abuse is often hidden, with survivors often having more barriers to reach support.",
+    "pubDate": "Wed, 07 Oct 2026 10:43:37 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "A Mysterious Nonprofit Run by SpaceXAI’s Top Lawyer Is Paying the Salaries of Government Workers",
+    "link": "https://www.wired.com/story/mysterious-nonprofit-spacexai-national-design-studio-elon-musk-doge/",
+    "summary": "The National Design Studio has been something of a successor agency to DOGE. A WIRED investigation finds some of its members are on loan from a nonprofit run by SpaceXAI’s general counsel.",
+    "pubDate": "Wed, 07 Oct 2026 10:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "PS5 Jailbreaks Are Escalating at an Unprecedented Pace",
+    "link": "https://www.pushsquare.com/news/2026/10/ps5-jailbreaks-are-escalating-at-an-unprecedented-pace-and-sony-must-be-sweating",
+    "summary": "Article URL: https://www.pushsquare.com/news/2026/10/ps5-jailbreaks-are-escalating-at-an-unprecedented-pace-and-sony-must-be-sweating Comments URL: https://news.ycombinator.com/item?id=49990763 Points: 39 # Comments: 23",
+    "pubDate": "Wed, 07 Oct 2026 10:24:19 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Russell to start from back of Singapore grid after penalty",
+    "link": "https://www.bbc.co.uk/sport/formula1/articles/cm0qkdk37gy0o?at_medium=RSS&at_campaign=rss",
+    "summary": "Britain's George Russell will start from the back of the grid in Sunday's Singapore Grand Prix because of a power-unit penalty from last weekend's race.",
+    "pubDate": "Wed, 07 Oct 2026 10:01:59 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "A Startup Has a Plan to Make Water From Air Using Data Centers’ Waste Heat",
+    "link": "https://www.wired.com/story/startup-atoco-makes-water-from-air-using-data-centers/",
+    "summary": "Atoco’s new machines use specialized materials that can harvest water from some of the driest air on Earth without using electricity.",
+    "pubDate": "Wed, 07 Oct 2026 10:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
+    "link": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
+    "summary": "Article URL: https://www.nobelprize.org/prizes/chemistry/2026/press-release/ Comments URL: https://news.ycombinator.com/item?id=49990470 Points: 113 # Comments: 13",
+    "pubDate": "Wed, 07 Oct 2026 09:51:43 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "DIY fertilizer is a blessing as farmers face steep prices due to the Iran war",
+    "link": "https://www.npr.org/2026/10/07/g-s1-146541/fertilizer-diy-farmers-iran-war",
+    "summary": "It's hard enough being a small-scale farmer. Then the Iran war drove up fertilizer prices. So farmers are using a traditional Asian recipe to make their own. They call it a \"labor of love.\"",
+    "pubDate": "Wed, 07 Oct 2026 09:32:37 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Best Prime Day Laptop Deals: Save Up to $500 (2026)",
+    "link": "https://www.wired.com/story/best-prime-day-laptop-deals-10-07-2026/",
+    "summary": "My favorite MacBook, gaming PC, and budget laptop are all on sale for Prime Day, some at the lowest prices I’ve seen in months.",
+    "pubDate": "Wed, 07 Oct 2026 09:21:57 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "A font recreated from photographs of classic Commodore 64 keycaps",
+    "link": "https://github.com/szabadkai/c64-keyboard-font/",
+    "summary": "Article URL: https://github.com/szabadkai/c64-keyboard-font/ Comments URL: https://news.ycombinator.com/item?id=49990224 Points: 173 # Comments: 32",
+    "pubDate": "Wed, 07 Oct 2026 09:17:55 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "NASA’s Webb finds signs of Mars-sized worlds smashing together",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261007042108.htm",
+    "summary": "NASA’s James Webb Space Telescope is giving astronomers a glimpse of the kinds of violent collisions that may have shaped our own solar system, including the giant impact thought to have created the Moon. By studying 21 rare “extreme debris disks” around young stars, researchers found that their ...",
+    "pubDate": "Wed, 07 Oct 2026 09:09:15 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "The 30 Best Prime Day Deals Under $100 (2026)",
+    "link": "https://www.wired.com/story/best-prime-day-deals-under-100-10-07-2026/",
+    "summary": "Everything is so expensive in 2026, but these October Prime Day Deals are all under $100 on gadgets we recommend.",
+    "pubDate": "Wed, 07 Oct 2026 09:08:10 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Taking antibiotics? Sugar may be making the damage worse",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261007042059.htm",
+    "summary": "Eating more sugar while taking antibiotics was linked to greater disruption of the gut microbiome and increased growth of potentially harmful bacteria. Researchers say temporarily cutting back on sweets during and after antibiotic treatment could be a simple way to reduce this damage, though clin...",
+    "pubDate": "Wed, 07 Oct 2026 09:06:21 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Elon Musk’s America PAC Is Spending Big on the Midterms. We’re Tracking It Daily",
+    "link": "https://www.wired.com/story/elon-musks-america-pac-is-spending-big-on-the-midterms-were-tracking-it-daily/",
+    "summary": "To follow Elon Musk’s America PAC money, WIRED created a live-updating tracker that highlights the trillionaire’s overall influence on November’s elections.",
+    "pubDate": "Wed, 07 Oct 2026 09:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Scientists changed how zoo lions eat. Their wild side came out",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261005071535.htm",
+    "summary": "Giving zoo lions whole carcasses on a feast-and-fast schedule appears to bring out more natural behavior. The lions spent nearly three times longer feeding, engaged in more tearing and manipulating of food, and rested more heavily after meals. Their activity then increased gradually during the fa...",
+    "pubDate": "Wed, 07 Oct 2026 08:46:44 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "'Wear more clothes if it's cold,' Northern Ireland schools told as energy bills rise",
+    "link": "https://www.bbc.co.uk/news/articles/cw0k08nnz07go?at_medium=RSS&at_campaign=rss",
+    "summary": "The EA suggests cost-saving measures as it warns school gas and electricity bills are set to rise.",
+    "pubDate": "Wed, 07 Oct 2026 08:40:29 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Physicists just found the ‘ghost’ of superconductivity",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261005071517.htm",
+    "summary": "Physicists have found striking evidence for an unusual form of superconducting behavior in uranium ditelluride, where electron pairs organize into rippling patterns called pair density waves. Even more surprisingly, these patterns appear to survive after ordinary superconductivity disappears, sug...",
+    "pubDate": "Wed, 07 Oct 2026 08:34:39 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Unrolled code",
+    "link": "https://noteflakes.com/articles/2026-10-07-unrolled-code",
+    "summary": "Comments",
+    "pubDate": "Wed, 07 Oct 2026 08:32:07 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Your Next Great Read Might Be Certified ‘Organic’",
+    "link": "https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/",
+    "summary": "Amid a sea of AI writing slop, a new stamp for “organic literature” will help readers to pick out books authored by real, corn-fed, free-range humans.",
+    "pubDate": "Wed, 07 Oct 2026 08:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Introducing mapsnap: Automated Georeferencing for Historic Sanborn Insurance Maps",
+    "link": "https://www.danvk.org/2026/09/10/mapsnap.html",
+    "summary": "Comments",
+    "pubDate": "Wed, 07 Oct 2026 08:27:58 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "117 Best Prime Day Deals We’re Shopping This October (2026)",
+    "link": "https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-07-2026/",
+    "summary": "Amazon Prime Big Deal Days are here, and we’ve tracked down the best discounts on all the gear our team recommends.",
+    "pubDate": "Wed, 07 Oct 2026 08:18:18 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Drug target could block brain inflammation linked to Alzheimer’s and Parkinson’s",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261005071515.htm",
+    "summary": "Blocking a receptor called P2X7 significantly reduced inflammation in human brain tissue, revealing a potential new treatment strategy for neurological and psychiatric disorders. The discovery could help researchers repurpose existing drugs for conditions including traumatic brain injury, Alzheim...",
+    "pubDate": "Wed, 07 Oct 2026 08:13:35 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Anti-Patterns in Software Blogging",
+    "link": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
+    "summary": "Comments",
+    "pubDate": "Wed, 07 Oct 2026 08:09:33 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Children under 10 should not be given obesity drugs, World Health Organization warns",
+    "link": "https://www.bbc.co.uk/news/articles/crvg904yw397o?at_medium=RSS&at_campaign=rss",
+    "summary": "Care should focus on healthy eating and exercise, not medicines such as weight-loss injections, says the World Health Organization",
+    "pubDate": "Wed, 07 Oct 2026 08:07:54 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Forever Junior: The Skills AI Can't Develop for You",
+    "link": "https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/",
+    "summary": "Article URL: https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/ Comments URL: https://news.ycombinator.com/item?id=49989684 Points: 26 # Comments: 17",
+    "pubDate": "Wed, 07 Oct 2026 08:00:06 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Webb finds a surprising atmosphere on a scorching lava world",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261005071526.htm",
+    "summary": "The James Webb Space Telescope has found strong evidence that the rocky lava world HD 3167 b has an atmosphere, despite circling its star every 24 hours under extreme heat. The surprising discovery could help scientists understand how rocky planets retain atmospheres and what the young, molten Ea...",
+    "pubDate": "Wed, 07 Oct 2026 07:58:25 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "The 13 Amazon Device Deals Actually Worth Snagging This Prime Day (2026)",
+    "link": "https://www.wired.com/story/best-amazon-alexa-device-deals-prime-day-10-07-2026/",
+    "summary": "Prime Day deals on Amazon devices aren’t as attractive as they were before the August price hike, but these discounts are still worth grabbing.",
+    "pubDate": "Wed, 07 Oct 2026 07:50:08 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Pidcock angry after team-mates hit by police vehicle",
+    "link": "https://www.bbc.co.uk/sport/cycling/articles/ckpdgv8nv436o?at_medium=RSS&at_campaign=rss",
+    "summary": "Tom Pidcock wanted to \"stop racing\" after he says two of his team-mates were hit by a police vehicle travelling the wrong way down the course at the Tre Valli Varesine.",
+    "pubDate": "Wed, 07 Oct 2026 07:46:01 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Oscar-winning actress Eva Marie Saint dies aged 102",
+    "link": "https://www.bbc.co.uk/news/articles/cqze43ky1xgdo?at_medium=RSS&at_campaign=rss",
+    "summary": "She starred opposite Marlon Brando in On the Waterfront, then alongside Cary Grant in Hitchcock's North by Northwest.",
+    "pubDate": "Wed, 07 Oct 2026 07:37:16 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "7 Best Prime Day Kindle Deals (2026): Save Up to $150",
+    "link": "https://www.wired.com/story/best-kindle-prime-day-deals-10-07-2026/",
+    "summary": "Amazon raised Kindle prices across the board, but Prime Day is still the best time to buy.",
+    "pubDate": "Wed, 07 Oct 2026 07:34:54 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Earth’s center is moving, and NASA just measured it",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261005071520.htm",
+    "summary": "Earth’s center of mass is constantly on the move, shifting by a few millimeters as enormous amounts of water, ice, and even air migrate around the planet with the seasons. NASA scientists have developed a more precise way to track these tiny swings using laser-ranging satellites, GPS data, and me...",
+    "pubDate": "Wed, 07 Oct 2026 07:30:51 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Spotify expands audiobooks to over 180 markets",
+    "link": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/",
+    "summary": "Spotify will make 350,000 titles available in over 120 languages for this expansion.",
+    "pubDate": "Wed, 07 Oct 2026 07:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "U.S. moves long-range bombers from U.K. And, Israel allegedly warned before Oct. 7",
+    "link": "https://www.npr.org/2026/10/07/g-s1-146853/up-first-newsletter-long-range-bombers-france-high-school-protest-germany-august-hanning-oct-7-memorial-day",
+    "summary": "A possible Iranian threat led the U.S. to remove long-range bombers from a U.K. base. And, Israelis are learning that their prime minister may have been warned before the Oct. 7 attacks.",
+    "pubDate": "Wed, 07 Oct 2026 06:52:58 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "The Data Race That Wasn't a Bug (and the One That Was)",
+    "link": "https://victoriametrics.com/blog/http-race-condition/",
+    "summary": "Comments",
+    "pubDate": "Wed, 07 Oct 2026 06:42:08 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Who will win the 2026 Nobel Prize in economics?",
+    "link": "https://www.npr.org/sections/planet-money/2026/10/07/g-s1-146828/who-will-win-the-2026-nobel-prize-in-economics",
+    "summary": "A thinly traded prediction market offers a starting point. We explore potential winners and the big ideas that could earn them economics' biggest prize.",
+    "pubDate": "Wed, 07 Oct 2026 06:30:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Henri B. Kagan and Kenso Soai win Nobel Prize in chemistry",
+    "link": "https://www.npr.org/2026/10/07/g-s1-146849/nobel-prize-chemistry",
+    "summary": "Henri B. Kagan and Kenso Soai won the Nobel Prize in chemistry Wednesday for their discovery of non-linear effects and autocatalysis in asymmetric organic synthesis.",
+    "pubDate": "Wed, 07 Oct 2026 06:05:54 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Scientists reprogram immune cells inside the body to fight cancer",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261005071532.htm",
+    "summary": "Scientists at UC San Francisco have developed a way to create cancer-fighting CAR-T cells directly inside the body, potentially avoiding the slow and extremely expensive process of removing, engineering, and reinfusing a patient’s immune cells. Using a two-particle delivery system, the researcher...",
+    "pubDate": "Wed, 07 Oct 2026 05:50:16 EDT",
+    "source": "Science Daily",
+    "category": "science"
   },
   {
     "title": "Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer",
@@ -28,6 +548,14 @@
     "link": "https://www.bbc.co.uk/sport/cricket/articles/cv4g176nr2g6o?at_medium=RSS&at_campaign=rss",
     "summary": "See what BBC Sport readers voted as Test cricket's biggest scandals, together with contributions from the TMS team.",
     "pubDate": "Wed, 07 Oct 2026 05:24:50 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Puffin island on cusp of closure as it runs out of water",
+    "link": "https://www.bbc.co.uk/news/articles/c6jdv4vp3rl3o?at_medium=RSS&at_campaign=rss",
+    "summary": "Lundy is in \"real jeopardy\" and could be evacuated if supplies run out, bosses say.",
+    "pubDate": "Wed, 07 Oct 2026 05:16:14 GMT",
     "source": "BBC News",
     "category": "general"
   },
@@ -64,6 +592,54 @@
     "category": "general"
   },
   {
+    "title": "Over 1,000 children are buried at juvenile detention centers nationwide",
+    "link": "https://www.npr.org/2026/10/07/nx-s1-5986124/over-1-000-children-are-buried-at-juvenile-detention-centers-nationwide",
+    "summary": "Researchers uncovered the graves of more than 1,000 children next to juvenile detention facilities in 29 states. At one Maryland gravesite, 230 Black boys are buried.",
+    "pubDate": "Wed, 07 Oct 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "An early flu season means it might be time to think about a flu shot",
+    "link": "https://www.npr.org/2026/10/07/nx-s1-5992940/early-flu-season-vaccine",
+    "summary": "Flu season typically starts in October or November. But it looks like the flu started to pick up in September this year.",
+    "pubDate": "Wed, 07 Oct 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "'Medicare for All' message attracts midterm voters buckling under medical bills",
+    "link": "https://www.npr.org/2026/10/07/nx-s1-5992772/medicare-for-all-midterm-voters-medical-bills-affordability",
+    "summary": "Midterm candidates are talking up Medicare for All, and in a poll 2 out of 3 Americans said they support it. The phrase speaks to a desire for radical change, though many don't really know what it is.",
+    "pubDate": "Wed, 07 Oct 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "3 years on, Israelis grapple with reports Netanyahu was warned before Oct. 7 attacks",
+    "link": "https://www.npr.org/2026/10/07/g-s1-146776/israel-gaza-oct-7-attack-netanyahu-warning",
+    "summary": "On the three-year mark since the Hamas-led deadly attack, Israelis are grappling with reports that Prime Minister Benjamin Netanyahu was repeatedly warned by regional allies ahead of time.",
+    "pubDate": "Wed, 07 Oct 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Deep in Appalachia, a rail-to-trail project builds bipartisan support for a bridge",
+    "link": "https://www.npr.org/2026/10/07/nx-s1-5980349/rail-trail-bridge-ohio-river",
+    "summary": "The Trump administration has been hostile to federal spending on bicycle and pedestrian infrastructure. But there's bipartisan support for a multiuse trail that would connect Ohio and West Virginia.",
+    "pubDate": "Wed, 07 Oct 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Carpetbagger allegation, misplaced valor make Nevada's safe red House seat competitive",
+    "link": "https://www.npr.org/2026/10/07/nx-s1-5984671/nevada-midterm-election-valor-carpetbagger-reno",
+    "summary": "Northern Nevada has a reliably red congressional seat, represented by a Republican since it was drawn in the early 1980s. A complicated candidate and a potential blue wave this year could change that.",
+    "pubDate": "Wed, 07 Oct 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "The Papers: 'Badenoch promises tax cuts' and 'Asos hacker havoc'",
     "link": "https://www.bbc.co.uk/news/articles/c317k0zqz5lzo?at_medium=RSS&at_campaign=rss",
     "summary": "The Tories' financial plans and a hack at online shopping outlet Asos lead Wednesday's papers.",
@@ -72,12 +648,28 @@
     "category": "general"
   },
   {
+    "title": "How In-Game Overlays Work (2022)",
+    "link": "https://fredemmott.com/blog/2022/05/31/in-game-overlays.html",
+    "summary": "this only talks about direct3d, no mention of vulkan's layers feature Comments",
+    "pubDate": "Wed, 07 Oct 2026 04:54:52 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Battle of ideas looming in British politics, Badenoch to say",
     "link": "https://www.bbc.co.uk/news/articles/c8r4ylp6657zo?at_medium=RSS&at_campaign=rss",
     "summary": "The Tory leader has been seeking to reframe the way the public views her party, which has yet to recover in the polls since the last election.",
     "pubDate": "Wed, 07 Oct 2026 04:42:55 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Faster streaming HTML with batches and aggregates",
+    "link": "https://andersmurphy.com/2026/09/29/faster-streaming-html-with-batches-and-aggregates.html",
+    "summary": "Comments",
+    "pubDate": "Wed, 07 Oct 2026 04:26:25 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Former Australian bishop jailed for sexually abusing young men",
@@ -96,10 +688,26 @@
     "category": "tech"
   },
   {
+    "title": "Explaining the Magelight XP glitch in Skyrim",
+    "link": "https://blog.alexbeals.com/posts/explaining-the-magelight-xp-glitch-in-skyrim",
+    "summary": "Comments",
+    "pubDate": "Wed, 07 Oct 2026 04:08:19 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "The art of defusing a second world war bomb",
     "link": "https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb",
     "summary": "Article URL: https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb Comments URL: https://news.ycombinator.com/item?id=49987858 Points: 14 # Comments: 4",
     "pubDate": "Wed, 07 Oct 2026 03:43:14 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
+    "link": "https://github.com/nano-muse/nanoMuse",
+    "summary": "Article URL: https://github.com/nano-muse/nanoMuse Comments URL: https://news.ycombinator.com/item?id=49987765 Points: 34 # Comments: 9",
+    "pubDate": "Wed, 07 Oct 2026 03:30:44 +0000",
     "source": "Hacker News",
     "category": "tech"
   },
@@ -118,6 +726,14 @@
     "pubDate": "Wed, 07 Oct 2026 02:58:30 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Headers Up! What's New in httpd and relayd",
+    "link": "https://rsadowski.de/posts/2026/update-relayd-and-httpd/",
+    "summary": "Comments",
+    "pubDate": "Wed, 07 Oct 2026 02:05:27 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Israelis mourn on the anniversary of the Oct. 7 as Palestinians grapple with war it sparked",
@@ -312,6 +928,14 @@
     "category": "science"
   },
   {
+    "title": "Cornell rape allegations expose 'loopholes' in laws around drinking and consent",
+    "link": "https://www.bbc.co.uk/news/articles/c9e8l0ep8d1mo?at_medium=RSS&at_campaign=rss",
+    "summary": "The BBC speaks to experts about current US state sexual assault laws and why some believe changing them will help alleged victims.",
+    "pubDate": "Tue, 06 Oct 2026 20:40:01 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "When random is not actually random enough",
     "link": "https://ersc.io/blog/when-random-isnt-random-enough",
     "summary": "Article URL: https://ersc.io/blog/when-random-isnt-random-enough Comments URL: https://news.ycombinator.com/item?id=49983404 Points: 49 # Comments: 14",
@@ -358,6 +982,142 @@
     "pubDate": "Tue, 06 Oct 2026 14:03:48 -0500",
     "source": "Lobsters",
     "category": "tech"
+  },
+  {
+    "title": "Amazon uses its tracking data to guess whether shoppers have a flat butt and no friends",
+    "link": "https://www.theverge.com/tech/1006712/amazon-about-you-shopping-data",
+    "summary": "Most people know that Amazon collects data about your shopping history to serve up personalized product recommendations. But what some of us didn't realize is that you can check exactly what Amazon knows - or thinks it knows - about you in your settings menu. One user's findings went viral on Thr...",
+    "pubDate": "2026-10-07T09:40:02-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Windows and Surface event: how to watch and what to expect",
+    "link": "https://www.theverge.com/news/1006292/microsoft-windows-surface-event-rtx-spark-how-to-watch",
+    "summary": "Microsoft is heading to San Francisco this morning to reveal what's coming next for Windows and Surface and a \"conversation on how local AI will shape the next chapter of the PC.\" That conversation will include Microsoft CEO Satya Nadella, Nvidia CEO Jensen Huang, and Windows and Surface chief Pa...",
+    "pubDate": "2026-10-07T09:12:56-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "The Social Reckoning is a tepid thriller that reminds us of how we got here",
+    "link": "https://www.theverge.com/entertainment/1005997/the-social-reconing-review-facebook-zuckerberg-frances-haugen",
+    "summary": "When David Fincher's The Social Network premiered in 2010, many people still thought of Mark Zuckerberg as a genius who had revolutionized the world by creating Facebook. Writer Aaron Sorkin's script was critical of Zuckerberg's character and his ruthless approach to doing business, but it also h...",
+    "pubDate": "2026-10-07T09:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Google&#8217;s Pixel Buds update will put them to sleep along with you",
+    "link": "https://www.theverge.com/tech/1006622/google-pixel-buds-pro-2-2a-update-sleep-dynamic-anc-tap-to-mute",
+    "summary": "Google has detailed an update bringing a slew of new features to its Pixel Buds 2A and Pro 2, which the company says are rolling out now. The new features were first teased in August. The biggest update is Pixel Watch-powered sleep detection, rolling out to both pairs of earbuds. If you're wearin...",
+    "pubDate": "2026-10-07T08:01:22-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "AI could upend food delivery",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
+    "summary": "DoorDash, the leading food delivery app, processed 970 million orders in its second quarter this year and generated $4.5 billion in revenue. A 10-person startup called Bites is a blip in comparison: It has just around 300 restaurants signed up in the Bay Area, where it's operating as a pre-seed s...",
+    "pubDate": "2026-10-07T08:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "At $1,279, Google’s Xreal Aura will go head-to-head with Meta’s VR Glasses",
+    "link": "https://www.theverge.com/news/1006207/google-xreal-aura-glasses-price-release-date-preorder",
+    "summary": "Two weeks ago, journalists in the San Francisco Bay Area got to try two hot new wearables that weigh only around 100 grams: the just-revealed Meta VR Glasses, and the long-awaited transparent Google XR glasses built in partnership with Xreal. It turns out they're going head-to-head. Xreal has jus...",
+    "pubDate": "2026-10-07T08:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Google now lets you make games with AI",
+    "link": "https://www.theverge.com/tech/1006477/google-playground-unity-spark-ai",
+    "summary": "Google today announced Playground, a new browser-based platform for making custom games from AI prompts. Playground will be available today in the US for users who are 18 and older at playground.google. The company is pitching it as an \"experimental gaming platform\" that \"lowers the barriers to c...",
+    "pubDate": "2026-10-07T08:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "The best October Prime Day deals from Apple, Sony, Google, and more",
+    "link": "https://www.theverge.com/gadgets/1006610/best-amazon-october-prime-day-tech-deals-day-two",
+    "summary": "Day two of Amazon’s Prime Big Deal Days event is here, and the sale will end at 3AM ET on Thursday, October 8th. While a few of the best deals from yesterday have already ended, many are still happening, with fresh discounts emerging to make the last day of the sale just as worthy of [&#8230;]",
+    "pubDate": "2026-10-07T07:26:22-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Samsung Wallet now unlocks some GM cars",
+    "link": "https://www.theverge.com/transportation/1006585/samsung-wallet-now-unlocks-some-gm-cars",
+    "summary": "Users of some Samsung devices in the US and Canada can now lock, unlock, and start select GM vehicles using a digital key stored in their Samsung Wallet. Support will start on select 2026 and 2027 Cadillac EVs, including the 2025-2027 Lyriq, 2026-2027 Optic, and 2027 Vistiq. GM says more models w...",
+    "pubDate": "2026-10-07T07:25:33-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Jaguar’s Type 01 EV looks just like its divisive concept car",
+    "link": "https://www.theverge.com/transportation/1006536/jaguar-type-01-design-specs-price-reveal",
+    "summary": "The Type 01, Jaguar's most important and divisive car in years, has arrived. The production follow-up to the polarising Type 00 concept, Jaguar says the electric, four-door grand tourer is its most powerful road car ever. Even though the Type 00's design chief was reportedly fired earlier this ye...",
+    "pubDate": "2026-10-07T06:03:46-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "A guide to Nature Index tables",
+    "link": "https://www.nature.com/articles/d41586-026-02999-z",
+    "summary": "Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-02999-z Information on the methodology used in the ranking for the 2026 Nature Spotlight: Infectious diseases.",
+    "pubDate": "2026-10-07",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Blend",
+    "link": "https://www.nature.com/articles/d41586-026-02864-z",
+    "summary": "Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-02864-z Identity crisis.",
+    "pubDate": "2026-10-07",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Why sound, strong science alone isn’t enough in pandemic preparedness",
+    "link": "https://www.nature.com/articles/d41586-026-02985-5",
+    "summary": "Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-02985-5 Comparable data are key to protecting the world from the next epidemic, says bioengineer Polina Brangel.",
+    "pubDate": "2026-10-07",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "‘When prevention disappears, infections rise’: can the world still end AIDS?",
+    "link": "https://www.nature.com/articles/d41586-026-03127-7",
+    "summary": "Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-03127-7 The United Nations’ deadline for eliminating HIV/AIDS as a public-health threat is unlikely to be met. But medical, political and social advances have raised hopes that longer-term success is still possible.",
+    "pubDate": "2026-10-07",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Can your brain grow new neurons? How researchers are solving a century-old puzzle",
+    "link": "https://www.nature.com/articles/d41586-026-03132-w",
+    "summary": "Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-03132-w Scientists have debated for decades whether the human brain sprouts new neurons throughout life. What would it mean if it could — and how much evidence is enough?",
+    "pubDate": "2026-10-07",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Why we must advocate for proper care on the frontlines of the Ebola outbreak",
+    "link": "https://www.nature.com/articles/d41586-026-02983-7",
+    "summary": "Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-02983-7 As the Bundibugyo virus public-health crisis continues to evolve, physician Richard Kojan is finding ways to care for people with the infection and helping relatives to visit loved ones safely.",
+    "pubDate": "2026-10-07",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Chemistry Nobel for solving mystery of how ‘handed’ organic molecules can emerge",
+    "link": "https://www.nature.com/articles/d41586-026-03093-0",
+    "summary": "Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-03093-0 Prize awarded to two chemists who probed why life favours one mirror-image molecule over another.",
+    "pubDate": "2026-10-07",
+    "source": "Nature",
+    "category": "science"
   },
   {
     "title": "OpenAI drops another batch of mathematical breakthroughs",

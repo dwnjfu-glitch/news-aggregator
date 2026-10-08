@@ -152,12 +152,364 @@
     "category": "tech"
   },
   {
+    "title": "iPhone Duo：苹果，终究还是对强迫症下手了",
+    "link": "https://sspai.com/post/115282",
+    "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
+    "pubDate": "Thu, 08 Oct 2026 17:28:11 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "从开源清理工具到付费 Mac 应用，用户教会了我如何做产品：Mole",
+    "link": "https://sspai.com/post/113843",
+    "summary": "最近我写了不少关于独立开发的思考，想着要汇总一下，就把Mole从开源CLI做到Mac付费软件这一路聊一聊：我当时是怎么想的，哪些事情做下来真的有用，也许能给正在做自己作品的朋友一些输入。去年国庆我在三 ... 查看全文",
+    "pubDate": "Thu, 08 Oct 2026 16:10:51 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "扔掉的是杂念，掌控的是生活：我的断舍离实践经验",
+    "link": "https://sspai.com/post/115209",
+    "summary": "断舍离从来不是为了追求极致的空旷，而是为了在混乱的生活里，重新夺回对空间的掌控权。 查看全文",
+    "pubDate": "Thu, 08 Oct 2026 14:42:14 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "Police accept Andrew Mountbatten-Windsor search warrants were unlawful, court hears",
+    "link": "https://www.bbc.co.uk/news/articles/cr1exlvpzylvo?at_medium=RSS&at_campaign=rss",
+    "summary": "The former prince is taking legal action against Thames Valley Police after his homes were searched earlier this year.",
+    "pubDate": "Thu, 08 Oct 2026 13:47:50 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Ex-councillor guilty of running sham Covid-19 lab",
+    "link": "https://www.bbc.co.uk/news/articles/c39wzrdj7157o?at_medium=RSS&at_campaign=rss",
+    "summary": "Faisal Shoukat is convicted of fraudulent trading and money laundering after a trial.",
+    "pubDate": "Thu, 08 Oct 2026 13:45:12 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Death of 12-year-old girl prompts call for allergy management ratings",
+    "link": "https://www.bbc.co.uk/news/articles/c674p508lk78o?at_medium=RSS&at_campaign=rss",
+    "summary": "Mia St Hilaire had a tree nut allergy and suffered an anaphylactic shock after drinking a milkshake.",
+    "pubDate": "Thu, 08 Oct 2026 13:31:40 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Google releases a new local-first Granola competitor",
+    "link": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
+    "summary": "Google’s new AI Edge Foresight app takes on Granola with an offline meeting note-taker that can transcribe conversations, generate notes, and answer questions using on-device AI.",
+    "pubDate": "Thu, 08 Oct 2026 13:28:39 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "China’s Manus raises over $500M in first funding round since split with Meta",
+    "link": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+    "summary": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund and others also participated.",
+    "pubDate": "Thu, 08 Oct 2026 13:20:32 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Three sisters who drowned in sea off Brighton took own lives, inquest finds",
+    "link": "https://www.bbc.co.uk/news/articles/c689zxd8w87lo?at_medium=RSS&at_campaign=rss",
+    "summary": "Jane Adetoro, Christina Walters and Rebecca Walters, who lived in London, drowned in the sea in May.",
+    "pubDate": "Thu, 08 Oct 2026 13:11:01 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Last call to volunteer at TechCrunch Founder Summit 2026",
+    "link": "https://techcrunch.com/2026/10/08/last-call-to-volunteer-at-techcrunch-founder-summit-2026/",
+    "summary": "TechCrunch Founder Summit is gearing up to return to Boston on November 4! We&#8217;re doing a last call for exceptional volunteers to join us in bringing this event to life. If you&#8217;ve ever wondered about the inner workings of tech events, now&#8217;s your chance to get involved. Volunteer ...",
+    "pubDate": "Thu, 08 Oct 2026 13:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Amazon unveils new Alexa tablets with Alexa+ and Google Play Store access",
+    "link": "https://techcrunch.com/2026/10/08/amazon-unveils-new-alexa-tablets-with-alexa-and-google-play-store-access/",
+    "summary": "The lineup includes three models: Amazon Alexa Tablet 12 Pro, Amazon Alexa Tablet 11, and Amazon Alexa Tablet 8.",
+    "pubDate": "Thu, 08 Oct 2026 13:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Amazon Alexa Tablet 12 Pro, Alexa Tablet 11, Alexa Tablet 8: Specs, Features, Price",
+    "link": "https://www.wired.com/story/amazon-alexa-tablets-2026/",
+    "summary": "The three new aluminum Alexa Tablets now run Android with full access to the Google Play Store. There are versions for kids too.",
+    "pubDate": "Thu, 08 Oct 2026 13:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "The New Alexa Tablets Feel Like a Blueprint for an Amazon Phone",
+    "link": "https://www.wired.com/story/alexa-tablets-blueprint-for-upcoming-amazon-phone/",
+    "summary": "Amazon is rumored to be making a smartphone, and the Alexa-powered experiences on its new tablets give us a taste of what might come if that happens.",
+    "pubDate": "Thu, 08 Oct 2026 13:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Uber and China’s Pony.ai plan to launch robotaxis in London",
+    "link": "https://techcrunch.com/2026/10/08/uber-and-chinas-pony-ai-plan-to-launch-robotaxis-in-london/",
+    "summary": "The two companies said on Thursday that they would begin testing Pony.ai's Gen-7 robotaxis in London in the coming weeks.",
+    "pubDate": "Thu, 08 Oct 2026 12:53:39 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Royal Navy sailor in court accused of preparing to spy for Russia",
+    "link": "https://www.bbc.co.uk/news/articles/cw203n6emde8o?at_medium=RSS&at_campaign=rss",
+    "summary": "The 24-year-old man appeared at Westminster Magistrates’ Court on Thursday after being arrested at his home in Bedfordshire.",
+    "pubDate": "Thu, 08 Oct 2026 12:44:03 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+    "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+    "summary": "Ukraine accused Russia of targeting the crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
+    "pubDate": "Thu, 08 Oct 2026 12:43:56 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "'Ominous signs' of winter pressures as NHS waiting list grows",
+    "link": "https://www.bbc.co.uk/news/articles/cxnv03e9nmp4o?at_medium=RSS&at_campaign=rss",
+    "summary": "NHS winter pressures appear to be building already, with rises in waiting times for planned surgery.",
+    "pubDate": "Thu, 08 Oct 2026 12:42:56 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Telnet BBS Guide",
+    "link": "https://www.telnetbbsguide.com/",
+    "summary": "Article URL: https://www.telnetbbsguide.com/ Comments URL: https://news.ycombinator.com/item?id=50005017 Points: 25 # Comments: 9",
+    "pubDate": "Thu, 08 Oct 2026 12:28:35 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
+    "link": "https://quesma.com/blog/invisible-cities-one-shot/",
+    "summary": "Article URL: https://quesma.com/blog/invisible-cities-one-shot/ Comments URL: https://news.ycombinator.com/item?id=50004790 Points: 103 # Comments: 44",
+    "pubDate": "Thu, 08 Oct 2026 12:00:20 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Vesta raises $30M to bring swarms of agents to mortgage lenders",
+    "link": "https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/",
+    "summary": "Vesta, an AI-native software startup that helps lenders originate mortgages, announced a $30 million round led by Conversion Capital.",
+    "pubDate": "Thu, 08 Oct 2026 12:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Anne Carson wins Nobel Prize in literature 2026",
+    "link": "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026",
+    "summary": "Article URL: https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026 Comments URL: https://news.ycombinator.com/item?id=50004777 Points: 53 # Comments: 3",
+    "pubDate": "Thu, 08 Oct 2026 11:58:50 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
+    "link": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
+    "summary": "Carson, 76, is celebrated for works that often cross boundaries between poetry, fiction and scholarship.",
+    "pubDate": "Thu, 08 Oct 2026 11:52:19 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Gazans face near-daily Israeli strikes a year into ceasefire",
+    "link": "https://www.bbc.co.uk/news/videos/c3gr8w4kllz7o?at_medium=RSS&at_campaign=rss",
+    "summary": "The ceasefire saw thousands of Palestinians held by Israel released in return for the remaining hostages held in Gaza.",
+    "pubDate": "Thu, 08 Oct 2026 11:27:40 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+    "link": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+    "summary": "Full-stack safety solution for physical AI is being used by robotics companies.",
+    "pubDate": "Thu, 08 Oct 2026 11:15:33 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Gaten Matarazzo on life after Stranger Things as he makes West End debut",
+    "link": "https://www.bbc.co.uk/news/articles/cwp8g197m5z8o?at_medium=RSS&at_campaign=rss",
+    "summary": "The 25-year-old actor opens up about embracing his return to the stage as he stars in a revival of Rent.",
+    "pubDate": "Thu, 08 Oct 2026 11:09:34 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Asos hackers took more personal details than first revealed, BBC finds",
+    "link": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
+    "summary": "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact details\".",
+    "pubDate": "Thu, 08 Oct 2026 11:01:29 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "A senator tried to ban gambling on prediction markets—now she's a Kalshi lobbyist",
+    "link": "https://arstechnica.com/tech-policy/2026/10/a-senator-tried-to-ban-gambling-on-prediction-markets-now-shes-a-kalshi-lobbyist/",
+    "summary": "Sen. Blanche Lincoln wrote law that let US ban sports-event contracts. She lobbies for the other side now.",
+    "pubDate": "Thu, 08 Oct 2026 11:00:14 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Spend Elon Musk’s Money",
+    "link": "https://www.wired.com/story/spend-elon-musk-money/",
+    "summary": "What’s it like to be the richest man in the world? Find out for yourself.",
+    "pubDate": "Thu, 08 Oct 2026 11:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "How Massive Is Elon Musk’s Trillion-Dollar Fortune? Spend It Yourself",
+    "link": "https://www.wired.com/story/how-massive-is-elon-musks-trillion-dollar-fortune-spend-it-yourself/",
+    "summary": "WIRED has partnered with Neal Agarwal of Neal.fun to create a visualization of Elon Musk’s massive wealth. Here’s how it came together.",
+    "pubDate": "Thu, 08 Oct 2026 11:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Wakefield top as all 14 Super League clubs stay for 2027",
+    "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cxdd86mgpq68o?at_medium=RSS&at_campaign=rss",
+    "summary": "The 14 Super League clubs will remain in place for 2027 with Grand Final winners Wakefield Trinity topping the IMG ratings.",
+    "pubDate": "Thu, 08 Oct 2026 10:54:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "How Brighton attract and develop the best young players ahead of their rivals",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cm0e35gzgdqeo?at_medium=RSS&at_campaign=rss",
+    "summary": "Brighton sporting director Mike Cave discusses Brighton's transfer policy and how the club signs and nurtures the best young talent in the game.",
+    "pubDate": "Thu, 08 Oct 2026 10:37:14 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Snakes and jungle mind games as Bottas cycles to Singapore GP",
+    "link": "https://www.bbc.co.uk/sport/formula1/articles/cjr4yr3lv24lo?at_medium=RSS&at_campaign=rss",
+    "summary": "Cadillac driver Valtteri Bottas says he was chased by dogs, saw snakes and leapt over a lizard as he cycled from Malaysia to Singapore for this weekend's Grand Prix.",
+    "pubDate": "Thu, 08 Oct 2026 10:34:19 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Life Is Asymmetric. The Scientists Who Figured Out Why Won the 2026 Nobel Prize in Chemistry",
+    "link": "https://www.wired.com/story/life-is-asymmetric-the-scientists-who-figured-out-why-won-the-2026-nobel-prize-in-chemistry/",
+    "summary": "Henri Kagan and Kensō Soai designed chemical reactions producing only one of the two mirror-image forms of a molecule—an important finding for the synthesis of pharmaceuticals and other biological substances.",
+    "pubDate": "Thu, 08 Oct 2026 10:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Husband accused of GP murder appears at Crown Court",
+    "link": "https://www.bbc.co.uk/news/articles/cmx2360e4kr5o?at_medium=RSS&at_campaign=rss",
+    "summary": "Mark Cain is accused of murdering his wife Hannah Cain, who was found dead at home on Sunday.",
+    "pubDate": "Thu, 08 Oct 2026 10:29:07 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Best Reusable Water Bottles of 2026, Tested by WIRED",
+    "link": "https://www.wired.com/story/best-reusable-water-bottles/",
+    "summary": "We dropped them, tossed them in bags, and cleaned their fiddly lids. Here are the ones we recommend.",
+    "pubDate": "Thu, 08 Oct 2026 10:05:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "WIRED’s Midterms Races to Watch",
+    "link": "https://www.wired.com/story/wireds-midterms-races-to-watch/",
+    "summary": "From data centers to Elon Musk funding to the AI lobby, the 2026 midterms are the most WIRED elections yet. These are the candidates we're following closely.",
+    "pubDate": "Thu, 08 Oct 2026 10:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
     "title": "App Store 生态规模五年翻倍，助力中国开发者走向全球",
     "link": "https://sspai.com/post/115462",
     "summary": "10月8日，Apple发布《中国AppStore生态系统——2025年开发者与用户价值研究》。这份由Apple提供支持、上海财经大学商学院副教授居恒与安诺析思国际咨询公司经济学家MarkusvonWa ... 查看全文",
     "pubDate": "Thu, 08 Oct 2026 09:47:59 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "Actor Simon Pegg reveals ADHD diagnosis: 'It's just who I am'",
+    "link": "https://www.bbc.co.uk/news/articles/ckn9rg24drw1o?at_medium=RSS&at_campaign=rss",
+    "summary": "The Shaun of the Dead and Mission: Impossible films star had previously put symptoms down to \"character fault\".",
+    "pubDate": "Thu, 08 Oct 2026 09:35:30 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Tristan Harris’ Tech Nonprofit Is Laying Off Most Staff and Going ‘Founder-Led’",
+    "link": "https://www.wired.com/story/tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led/",
+    "summary": "The Center for Humane Technology helped spark a movement against excessive screen time, but internal tensions over its direction and strategy have simmered for years, sources tell WIRED.",
+    "pubDate": "Thu, 08 Oct 2026 09:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Clubs fear political interference in Man City appeal",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c6y93qq5175wo?at_medium=RSS&at_campaign=rss",
+    "summary": "Premier League clubs are \"concerned\" about political interference in Manchester City's appeal after Prime Minister Andy Burnham's comments.",
+    "pubDate": "Thu, 08 Oct 2026 09:16:56 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "A Scientist Working on the ‘IceCube’ Neutrino Detector Explains the Nobel Prize–Winning Technology",
+    "link": "https://www.wired.com/story/a-scientist-working-on-the-icecube-neutrino-detector-explains-the-nobel-prize-winning-technology/",
+    "summary": "“Detecting a neutrino is like looking for a needle in a haystack,” says Juan Carlos Díaz Vélez, who breaks down why researchers are looking for the cosmic particles under the Antarctic ice.",
+    "pubDate": "Thu, 08 Oct 2026 09:15:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "7 Best Cheap Phones (2026), Tested and Reviewed",
+    "link": "https://www.wired.com/story/best-cheap-phones/",
+    "summary": "There’s little reason to pay top dollar for a smartphone. These iPhones and Android devices—ranging from $100 to $800—stood up to WIRED’s testing.",
+    "pubDate": "Thu, 08 Oct 2026 09:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "The Man Behind a West Bank Telegram Channel Trying to Keep Palestinian Drivers Safe",
+    "link": "https://www.wired.com/story/the-man-behind-a-west-bank-telegram-channel-trying-to-keep-palestinian-drivers-safe/",
+    "summary": "With no accurate Big Tech mapping app to help him, Anas Hattab launched a Telegram group to get himself home at night. Now nearly 350,000 Palestinians rely on it to navigate the occupied West Bank.",
+    "pubDate": "Thu, 08 Oct 2026 09:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "BBC to cut raft of Radio 4 programmes including You and Yours",
+    "link": "https://www.bbc.co.uk/news/articles/cmlyknj8wj30o?at_medium=RSS&at_campaign=rss",
+    "summary": "The corporation said it would be investing in a new consumer programme, while announcing more cuts.",
+    "pubDate": "Thu, 08 Oct 2026 08:30:10 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
+    "link": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
+    "summary": "Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.",
+    "pubDate": "Thu, 08 Oct 2026 08:18:36 GMT",
+    "source": "BBC News",
+    "category": "general"
   },
   {
     "title": "派早报：微软发布 Windows 相关新品、Google AI 新闻两则等",
@@ -168,12 +520,116 @@
     "category": "tech-cn"
   },
   {
+    "title": "South Korea to recall its ambassador to Ukraine over North Korean POW dispute",
+    "link": "https://www.npr.org/2026/10/08/g-s1-147115/south-korea-to-recall-its-ambassador-to-ukraine-over-north-korean-pow-dispute",
+    "summary": "The South Korean announcement on Thursday came days after its President Lee Jae Myung threatened unspecified punitive steps if Ukraine refuses to apologize over the revelation.",
+    "pubDate": "Thu, 08 Oct 2026 08:13:54 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
+    "link": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
+    "summary": "A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections.",
+    "pubDate": "Thu, 08 Oct 2026 08:13:52 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "OpenAI Withdraws 3 Math Papers",
+    "link": "https://github.com/openai/math/blob/main/history.md",
+    "summary": "Article URL: https://github.com/openai/math/blob/main/history.md Comments URL: https://news.ycombinator.com/item?id=50003107 Points: 170 # Comments: 124",
+    "pubDate": "Thu, 08 Oct 2026 08:08:37 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "South Korea test-flies its first domestically developed hypersonic weapon",
+    "link": "https://www.npr.org/2026/10/08/g-s1-147113/south-korea-test-flies-its-first-domestically-developed-hypersonic-weapon",
+    "summary": "The test follows North Korea's recent hypersonic missile test. Tensions between the Koreas have increased after land mine explosions injured three South Korean soldiers near the border. North Korea denies responsibility.",
+    "pubDate": "Thu, 08 Oct 2026 08:01:34 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "50 Best Last-Minute Prime Day Deals You Can Still Shop Today (2026)",
+    "link": "https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-08-2026/",
+    "summary": "Prime Day might be over, but the discounts are still going. We’ve tracked down the best last minute Prime Day deals on all the gear our team recommends.",
+    "pubDate": "Thu, 08 Oct 2026 07:46:36 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Isaias intensifies to hurricane. And, judge orders Pike execution evidence preserved",
+    "link": "https://www.npr.org/2026/10/08/g-s1-147105/up-first-newsletter-hurricane-isaias-house-elections-christa-pike-nidal-hasan-cnn-ms-now-politico",
+    "summary": "People in the Gulf are preparing for bad weather this weekend after Isaias intensified into a hurricane. And, a judge has ordered Christa Pike's failed execution evidence be preserved.",
+    "pubDate": "Thu, 08 Oct 2026 07:35:22 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Strike on Ukrainian public bus leaves 30 dead as blackouts worsen in Kyiv",
+    "link": "https://www.npr.org/2026/10/08/g-s1-147106/russia-ukraine-war",
+    "summary": "Russian strikes in eastern Ukraine have killed 30 people and injured at least 18, according to authorities. The attacks included a strike on a public bus and have worsened power outages in Kyiv.",
+    "pubDate": "Thu, 08 Oct 2026 07:25:28 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Thinking will become a hobby",
+    "link": "https://www.spinellis.gr/blog/20261008/?li261008",
+    "summary": "Comments",
+    "pubDate": "Thu, 08 Oct 2026 07:23:28 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "`specialArgs` considered harmful",
+    "link": "https://ysun.co/special/",
+    "summary": "Comments",
+    "pubDate": "Thu, 08 Oct 2026 07:16:07 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Engine size limits and working with Iraola - the Liverpool academy approach",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cmx2z9z10wezo?at_medium=RSS&at_campaign=rss",
+    "summary": "Liverpool academy director Alex Inglethorpe talks to BBC Sport about the value and future of Liverpool's academy.",
+    "pubDate": "Thu, 08 Oct 2026 07:04:50 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Dat-ecosystem: high level applications built on top of P2P protocols",
+    "link": "https://dat-ecosystem.org/",
+    "summary": "Article URL: https://dat-ecosystem.org/ Comments URL: https://news.ycombinator.com/item?id=50002505 Points: 29 # Comments: 13",
+    "pubDate": "Thu, 08 Oct 2026 06:43:13 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Classic PC demoscene productions running natively in the browser",
+    "link": "https://treylorswift.github.io/demoscene-recomp/web/",
+    "summary": "Article URL: https://treylorswift.github.io/demoscene-recomp/web/ Comments URL: https://news.ycombinator.com/item?id=50002426 Points: 117 # Comments: 103",
+    "pubDate": "Thu, 08 Oct 2026 06:29:25 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "India rejects Elon Musk’s claim of discrimination over Starlink launch",
     "link": "https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
     "summary": "Starlink is still awaiting security clearance before it can seek spectrum and begin commercial services in India.",
     "pubDate": "Thu, 08 Oct 2026 06:14:11 +0000",
     "source": "TechCrunch",
     "category": "tech"
+  },
+  {
+    "title": "ICE has quietly used this warehouse as a detention facility all summer, neighbors say",
+    "link": "https://www.npr.org/2026/10/08/nx-s1-5983441/ice-warehouses-new-jersey-roxbury",
+    "summary": "Throughout the summer, rumors have been bubbling in North New Jersey that ICE has quietly been using a warehouse as a detention center. NPR investigated.",
+    "pubDate": "Thu, 08 Oct 2026 06:13:18 -0400",
+    "source": "NPR",
+    "category": "general"
   },
   {
     "title": "Holborn and St Pancras by-election gets under way",
@@ -204,6 +660,14 @@
     "link": "https://www.bbc.co.uk/news/articles/cxe8ry571z9eo?at_medium=RSS&at_campaign=rss",
     "summary": "Neil and Katie Russell are working with the hospital where their daughter died on the scheme.",
     "pubDate": "Thu, 08 Oct 2026 05:42:43 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Faster than F1: The extreme motorsport where women keep winning",
+    "link": "https://www.bbc.co.uk/sport/motorsport/articles/c68xkx9gqv89o?at_medium=RSS&at_campaign=rss",
+    "summary": "Top Fuel drag racing is the only elite motorsport class where women frequently beat men to major titles.",
+    "pubDate": "Thu, 08 Oct 2026 05:41:20 GMT",
     "source": "BBC News",
     "category": "general"
   },
@@ -248,11 +712,59 @@
     "category": "general"
   },
   {
+    "title": "Migrating Git repos to SHA-256",
+    "link": "https://exa.y2k.diy/garden/git-sha256/",
+    "summary": "Comments",
+    "pubDate": "Thu, 08 Oct 2026 05:00:39 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "UK bluefin tuna comeback shows nature can recover, says WWF",
     "link": "https://www.bbc.co.uk/news/articles/c5rmyzgdjzkwo?at_medium=RSS&at_campaign=rss",
     "summary": "The tuna is one of several wildlife recoveries highlighted in a major new report from WWF.",
     "pubDate": "Thu, 08 Oct 2026 05:00:04 GMT",
     "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Medical debt is crushing hospital patients in LA. Health officials may have a fix",
+    "link": "https://www.npr.org/2026/10/08/nx-s1-5991633/hospital-california-healthcare-medical-debt",
+    "summary": "In Los Angeles County, the nation's most populous, a new system could screen hospital patients for financial aid, preventing hundreds of thousands from getting bills they can't pay.",
+    "pubDate": "Thu, 08 Oct 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Syrian general accused of atrocities is protected by U.S. and Lebanon, NPR and BBC find",
+    "link": "https://www.npr.org/2026/10/08/nx-s1-5993637/syrian-general-lebanon-fbi-austin-tice",
+    "summary": "A former Syrian general wanted for crimes against humanity is living quietly in Lebanon, bankrolled and protected by American and Lebanese authorities, a BBC/NPR investigation has found.",
+    "pubDate": "Thu, 08 Oct 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Toss-ups, triage and targets: How to read the wide-open 2026 House map",
+    "link": "https://www.npr.org/2026/10/08/nx-s1-5993809/2026-house-map-democrats-flip-republicans-tossup-triage",
+    "summary": "Both parties are spending heavily in roughly 60 House districts — where Trump won by an average of nine points in 2024 — that could be key to deciding control of the chamber, an NPR analysis finds.",
+    "pubDate": "Thu, 08 Oct 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Flock is catching flak. Experts say other police surveillance tools are more worrisome",
+    "link": "https://www.npr.org/2026/10/08/nx-s1-5981343/beyond-flock-police-ai-surveillance-tools",
+    "summary": "Real-time crime-center software is a sometimes overlooked but powerful tool allowing police to aggregate immense amounts of data, significantly expanding their surveillance reach.",
+    "pubDate": "Thu, 08 Oct 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "As crypto and prediction markets expand, their regulator shrinks",
+    "link": "https://www.npr.org/2026/10/08/nx-s1-5903204/crypto-prediction-markets-cftc-weakens",
+    "summary": "Even as the agency is tasked with drawing up new rules for crypto and prediction markets, its staffing and enforcement actions have dropped precipitously during the second Trump administration.",
+    "pubDate": "Thu, 08 Oct 2026 05:00:00 -0400",
+    "source": "NPR",
     "category": "general"
   },
   {
@@ -264,11 +776,35 @@
     "category": "general"
   },
   {
+    "title": "Gentoo infrastructure sponsors wanted",
+    "link": "https://www.gentoo.org/news/2026/10/07/infrastructure-sponsors-wanted.html",
+    "summary": "Comments",
+    "pubDate": "Thu, 08 Oct 2026 04:23:49 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Show HN: Pacer – will your AI coding subscription last until the reset?",
     "link": "https://github.com/dkremsa/claude-pacer",
     "summary": "Article URL: https://github.com/dkremsa/claude-pacer Comments URL: https://news.ycombinator.com/item?id=50001750 Points: 5 # Comments: 2",
     "pubDate": "Thu, 08 Oct 2026 04:10:33 +0000",
     "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Beyond the &",
+    "link": "https://lwn.net/SubscriberLink/1096028/7524dbcae1be7205/",
+    "summary": "Comments",
+    "pubDate": "Thu, 08 Oct 2026 04:04:32 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "jujutsu (jj) 0.46.0",
+    "link": "https://github.com/jj-vcs/jj/releases/tag/v0.46.0",
+    "summary": "Comments",
+    "pubDate": "Thu, 08 Oct 2026 04:02:42 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -286,6 +822,14 @@
     "pubDate": "Thu, 08 Oct 2026 04:01:44 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Property Testing with Agent Swarms",
+    "link": "https://recursion.wtf/posts/agents-and-property-tests/",
+    "summary": "Comments",
+    "pubDate": "Thu, 08 Oct 2026 03:41:26 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "France's school protests: What lies behind the anger",
@@ -312,12 +856,28 @@
     "category": "tech"
   },
   {
+    "title": "The people holding up the internet",
+    "link": "https://sheets.works/data-viz/holding-up-the-internet",
+    "summary": "Comments",
+    "pubDate": "Thu, 08 Oct 2026 03:18:39 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Trump wants a new Camp David-like retreat at his Florida golf club",
     "link": "https://www.bbc.co.uk/news/articles/c9gkvxjvl7v3o?at_medium=RSS&at_campaign=rss",
     "summary": "Trump's estate would stand in stark contrast to the rustic Camp David and mark another tradition transformed by Trump.",
     "pubDate": "Thu, 08 Oct 2026 03:00:50 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "I've Been Deindexed by Google",
+    "link": "https://kennyqin.com/deindexed-by-google/",
+    "summary": "Comments",
+    "pubDate": "Thu, 08 Oct 2026 02:59:30 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "AI chip boom pushes Samsung profits to record $80bn",
@@ -352,6 +912,14 @@
     "category": "tech"
   },
   {
+    "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+    "link": "https://github.com/pingdotgg/ts-rust",
+    "summary": "Article URL: https://github.com/pingdotgg/ts-rust Comments URL: https://news.ycombinator.com/item?id=50000676 Points: 91 # Comments: 171",
+    "pubDate": "Thu, 08 Oct 2026 00:46:00 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "Scientists warn a popular vitamin D supplement may have a hidden downside",
     "link": "https://www.sciencedaily.com/releases/2026/10/261007232940.htm",
     "summary": "Not all vitamin D supplements are created equal, and new research suggests that one popular form may have an unexpected downside. Scientists found that taking vitamin D2 can actually lower the body's levels of vitamin D3, the form naturally produced by sunlight and more effective at boosting over...",
@@ -366,6 +934,54 @@
     "pubDate": "Thu, 08 Oct 2026 00:00:24 +0000",
     "source": "Ars Technica",
     "category": "tech"
+  },
+  {
+    "title": "Hands-on with Amazon&#8217;s Alexa Tablet 12 Pro and its wild new matte display",
+    "link": "https://www.theverge.com/tech/1007473/amazon-alexa-tablet-12-pro-nanomatte-hands-on",
+    "summary": "Amazon's Fire tablets are notable for being dirt cheap. While they're great for kids, they don't offer a premium Android tablet experience. The company's new $499 Alexa Tablet 12 Pro is an attempt to build a device someone might actually want to use. It's one of a few new Android tablets Amazon a...",
+    "pubDate": "2026-10-08T09:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Amazon’s Alexa Tablets are coming for the iPad",
+    "link": "https://www.theverge.com/tech/1007648/amazon-alexa-tablets-price-specs",
+    "summary": "Amazon is launching a new lineup of tablets that bear almost no resemblance to any tablet Amazon has ever launched before. They're not even called Fire, the name Amazon has used for its tablets for the last 15 years. They're called Alexa Tablets, and they're designed to do two things: bring Alexa...",
+    "pubDate": "2026-10-08T09:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Joe Rogan and Spotify renew massive podcast deal",
+    "link": "https://www.theverge.com/entertainment/1007725/joe-rogan-spotify-podcast-deal",
+    "summary": "Spotify has renewed its licensing agreement with Joe Rogan, whose podcast remains the number one show on the platform - and in the world. As reported by The Wall Street Journal, the multi-year agreement is valued at around $250 million, allowing new episodes of The Joe Rogan Experience to appear ...",
+    "pubDate": "2026-10-08T08:56:05-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Xbox is launching a new film and TV division",
+    "link": "https://www.theverge.com/games/1007602/xbox-xp-division-film-tv-products-events",
+    "summary": "Xbox is launching a new division, called \"XP,\" that's dedicated to Xbox experiences that aren't video games, including films and TV adaptations, consumer products, live events, and partnerships with creators and brands. Different teams at Xbox already do this work, but it will all now fall under ...",
+    "pubDate": "2026-10-08T08:01:12-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Cupertino might be made for your mom, but it&#8217;s a good take on tech",
+    "link": "https://www.theverge.com/entertainment/1007492/cupertino-cbs-tv-review",
+    "summary": "Cupertino brings the tech backlash to the CBS procedural - an initially awkward combination, but with rewarding results. The show starts off just slightly unsure, but quickly figures out what to do with these strange times, creating fictionalized dupes of the Zizians, Polymarket, Jeff Bezos' look...",
+    "pubDate": "2026-10-08T07:30:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "UAE completes Arab world's first solo space probe <b>– </b>and sets course for an asteroid",
+    "link": "https://www.nature.com/articles/d41586-026-03154-4",
+    "summary": "Nature, Published online: 08 October 2026; doi:10.1038/d41586-026-03154-4 The device will be launched on a joint UAE-US-built craft. Some researchers say it could be the last mission constructed with outside help.",
+    "pubDate": "2026-10-08",
+    "source": "Nature",
+    "category": "science"
   },
   {
     "title": "Woody ‘blankets’ deployed on Arctic permafrost to reduce carbon emissions",

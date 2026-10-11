@@ -1,11 +1,371 @@
 [
   {
+    "title": "An AI agent's $20 Kalshi account, with an exact reward model",
+    "link": "https://github.com/mirabilis-agent/lip-ledger",
+    "summary": "Article URL: https://github.com/mirabilis-agent/lip-ledger Comments URL: https://news.ycombinator.com/item?id=50048136 Points: 3 # Comments: 1",
+    "pubDate": "Sun, 11 Oct 2026 21:44:24 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+    "link": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+    "summary": "Zelensky says Kyiv would support such a truce. Moscow has yet to comment.",
+    "pubDate": "Sun, 11 Oct 2026 21:36:40 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Saudi capital airport hit by second Houthi strike in two days",
+    "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+    "summary": "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities.",
+    "pubDate": "Sun, 11 Oct 2026 21:30:11 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Reform would suspend asylum system for parliamentary term if in government",
+    "link": "https://www.bbc.co.uk/news/articles/cwnv0zmjld51o?at_medium=RSS&at_campaign=rss",
+    "summary": "All asylum applications would be rejected and existing ones voided, with all claimants marked for deportation.",
+    "pubDate": "Sun, 11 Oct 2026 21:18:15 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Will the HomeView be Apple’s first smart home success?",
+    "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+    "summary": "Apple will announce a new smart home hub on Tuesday called the HomeView, according to Bloomberg’s Mark Gurman. Over the past couple of years, we’ve seen There have been multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date. ...",
+    "pubDate": "Sun, 11 Oct 2026 21:14:40 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her",
+    "link": "https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963",
+    "summary": "Article URL: https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963 Comments URL: https://news.ycombinator.com/item?id=50047825 Points: 61 # Comments: 29",
+    "pubDate": "Sun, 11 Oct 2026 21:07:20 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start",
+    "link": "https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/",
+    "summary": "What does this mean for a fall full of movies starring villainous tech CEOs?",
+    "pubDate": "Sun, 11 Oct 2026 20:51:47 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "The gap in shared understanding of LLM capability is widening",
+    "link": "https://twitter.com/karpathy/status/2109361546505966046",
+    "summary": "Article URL: https://twitter.com/karpathy/status/2109361546505966046 Comments URL: https://news.ycombinator.com/item?id=50047422 Points: 78 # Comments: 58",
+    "pubDate": "Sun, 11 Oct 2026 20:20:52 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Man City's statement win has feeling of irrelevance with season in limbo",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cmy0rd4pex7no?at_medium=RSS&at_campaign=rss",
+    "summary": "Manchester City record what they will view as a statement win at Liverpool - but is it a statement that carries any weight during a Premier League season in limbo, asks Phil McNulty?",
+    "pubDate": "Sun, 11 Oct 2026 20:02:27 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Legoland Windsor evacuated over burst water main",
+    "link": "https://www.bbc.co.uk/news/articles/crx2d83pjn0qo?at_medium=RSS&at_campaign=rss",
+    "summary": "Some customers were forced to leave the theme park halfway through their visit on Sunday.",
+    "pubDate": "Sun, 11 Oct 2026 20:00:32 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Cartographers of North Korea",
+    "link": "https://cartographers-nk.wonyoung.so/",
+    "summary": "Article URL: https://cartographers-nk.wonyoung.so/ Comments URL: https://news.ycombinator.com/item?id=50047091 Points: 96 # Comments: 12",
+    "pubDate": "Sun, 11 Oct 2026 19:46:40 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "So, You’d Like To Sell Your Print Issues Of The Onion?",
+    "link": "https://theonion.com/archivehunt/",
+    "summary": "Article URL: https://theonion.com/archivehunt/ Comments URL: https://news.ycombinator.com/item?id=50047055 Points: 180 # Comments: 19",
+    "pubDate": "Sun, 11 Oct 2026 19:43:32 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Winless and an 'easy touch' - what's happened to the Anfield fear factor?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ck5yn20wej62o?at_medium=RSS&at_campaign=rss",
+    "summary": "Liverpool's struggles at Anfield continue as Iraola still awaits his first Premier League win at Anfield.",
+    "pubDate": "Sun, 11 Oct 2026 19:41:17 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The Unreasonable Effectiveness of Vex in NixOS",
+    "link": "https://blog.kammel.dev/post/nixos_vex/",
+    "summary": "Article URL: https://blog.kammel.dev/post/nixos_vex/ Comments URL: https://news.ycombinator.com/item?id=50046864 Points: 37 # Comments: 0",
+    "pubDate": "Sun, 11 Oct 2026 19:23:07 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Orangutans released back into Borneo forest after devastating fires",
+    "link": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss",
+    "summary": "Rescuers moved the apes after their habitats were threatened by intense wildfires over the summer.",
+    "pubDate": "Sun, 11 Oct 2026 19:08:04 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+    "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+    "summary": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
+    "pubDate": "Sun, 11 Oct 2026 19:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Doku delights as Manchester City cruise past 10-man Liverpool",
+    "link": "https://www.bbc.co.uk/sport/football/videos/c6vgy2ll1zypo?at_medium=RSS&at_campaign=rss",
+    "summary": "In their first match since being found guilty of breaching Premier League financial rules, Manchester City enjoyed a comfortable 3-0 win against Liverpool at Anfield to extend their perfect start to six matches, as they moved three points clear at the top of the Premier League.",
+    "pubDate": "Sun, 11 Oct 2026 18:59:19 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Hamilton apologises to Ferrari as Antonelli moves to brink of title",
+    "link": "https://www.bbc.co.uk/sport/formula1/articles/c65yn9kn47eko?at_medium=RSS&at_campaign=rss",
+    "summary": "Lewis Hamilton's incorrect strategy call during the Singapore Grand Prix means Kimi Antonelli can win the world title at the next race in Austin.",
+    "pubDate": "Sun, 11 Oct 2026 18:32:19 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Chapter 1 of Ways of Seeing by John Berger",
+    "link": "https://www.ways-of-seeing.com/ch1",
+    "summary": "Article URL: https://www.ways-of-seeing.com/ch1 Comments URL: https://news.ycombinator.com/item?id=50046241 Points: 56 # Comments: 9",
+    "pubDate": "Sun, 11 Oct 2026 18:26:24 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Total Annihilation, rebuilt for modern computers",
+    "link": "https://nanolathe.gg",
+    "summary": "Article URL: https://nanolathe.gg Comments URL: https://news.ycombinator.com/item?id=50045984 Points: 271 # Comments: 110",
+    "pubDate": "Sun, 11 Oct 2026 18:04:47 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "NYC's \"Click to Cancel\" rule is now in effect",
+    "link": "https://www.nyc.gov/main/click-to-cancel",
+    "summary": "Article URL: https://www.nyc.gov/main/click-to-cancel Comments URL: https://news.ycombinator.com/item?id=50045946 Points: 269 # Comments: 124",
+    "pubDate": "Sun, 11 Oct 2026 18:01:16 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Burnham to release details of Man City meetings",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c962y5nd273no?at_medium=RSS&at_campaign=rss",
+    "summary": "Andy Burnham has faced criticism for comments he made in the wake of Manchester City being found guilty of all charges related to breaches of the Premier League's financial rules.",
+    "pubDate": "Sun, 11 Oct 2026 18:01:13 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "PM says it is 'clear' Russia interfered with Brexit vote",
+    "link": "https://www.bbc.co.uk/news/articles/c6jdm3zggl0ko?at_medium=RSS&at_campaign=rss",
+    "summary": "He says voters were not \"sufficiently\" informed about how foreign actors sought to disrupt UK democracy.",
+    "pubDate": "Sun, 11 Oct 2026 18:00:30 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+    "link": "https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+    "summary": "Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need to be on the ground at Disrupt Oct. 13.",
+    "pubDate": "Sun, 11 Oct 2026 17:53:37 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Poland detains man suspected of planning assassination of PM Tusk",
+    "link": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+    "summary": "Police received credible information about possible attacks against Donald Tusk and his defence minister.",
+    "pubDate": "Sun, 11 Oct 2026 17:27:24 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Tello's GameSir T1d controller as a Linux Xbox controller",
+    "link": "https://blog.jacq.cc/guides/gamesir-t1d-linux-gamepad/",
+    "summary": "Comments",
+    "pubDate": "Sun, 11 Oct 2026 17:01:59 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Citroen revives the 2CV for an electric age",
+    "link": "https://www.bbc.co.uk/news/articles/c620r33plgppo?at_medium=RSS&at_campaign=rss",
+    "summary": "The French firm is reinventing the classic model as carmakers come under pressure from Chinese rivals.",
+    "pubDate": "Sun, 11 Oct 2026 17:00:05 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "apsw: Another Python SQLite Wrapper",
+    "link": "https://github.com/rogerbinns/apsw",
+    "summary": "Article URL: https://github.com/rogerbinns/apsw Comments URL: https://news.ycombinator.com/item?id=50045273 Points: 47 # Comments: 13",
+    "pubDate": "Sun, 11 Oct 2026 16:58:22 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+    "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+    "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+    "pubDate": "Sun, 11 Oct 2026 16:52:33 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Playgrnd – tiny tools for making weird, beautiful things",
+    "link": "https://www.playgrnd.tools/",
+    "summary": "Article URL: https://www.playgrnd.tools/ Comments URL: https://news.ycombinator.com/item?id=50044989 Points: 45 # Comments: 9",
+    "pubDate": "Sun, 11 Oct 2026 16:31:37 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Reviewing code in the agent era",
+    "link": "https://linear.app/now/reviewing-code-in-the-agent-era",
+    "summary": "Comments",
+    "pubDate": "Sun, 11 Oct 2026 16:25:41 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "How to Build Wealth as a Career Person",
+    "link": "https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person/",
+    "summary": "Article URL: https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person/ Comments URL: https://news.ycombinator.com/item?id=50044715 Points: 110 # Comments: 117",
+    "pubDate": "Sun, 11 Oct 2026 16:03:58 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "TechCrunch Mobility: A roadblock clears for self-driving trucks",
+    "link": "https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/",
+    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+    "pubDate": "Sun, 11 Oct 2026 16:02:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Dawn Myers is making it easier to style, detangle, and care for curly hair",
+    "link": "https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/",
+    "summary": "Richualist is one of TechCrunch's Battlefield 200 Companies!",
+    "pubDate": "Sun, 11 Oct 2026 16:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "D-Bus Hell",
+    "link": "https://dbushell.com/2026/10/11/d-bus-hell/",
+    "summary": "Comments",
+    "pubDate": "Sun, 11 Oct 2026 15:36:07 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "How I reverse engineered a commercial spatial audio effect",
+    "link": "http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/",
+    "summary": "Article URL: http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/ Comments URL: https://news.ycombinator.com/item?id=50044272 Points: 81 # Comments: 28",
+    "pubDate": "Sun, 11 Oct 2026 15:21:58 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Poland stabbings driven by online glorification of violence, Tusk says",
+    "link": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
+    "summary": "The PM was speaking after violent attacks at Polish schools this week left one dead and others injured.",
+    "pubDate": "Sun, 11 Oct 2026 15:18:52 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "写给「跑两步就喘」的你：不能忽略的跑后拉伸与恢复",
     "link": "https://sspai.com/post/115568",
     "summary": "前面两篇文章我们介绍了想要舒适跑步，在跑前和跑步中的一些小技巧，今天和大家聊聊跑后如何正确的拉伸，如何更好地帮助身体恢复。关联阅读：跑前精准热身，缓解跑时疼痛调整跑步姿势，舒适开跑正确拉伸多数人跑后会 ... 查看全文",
     "pubDate": "Sun, 11 Oct 2026 15:00:49 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "Efferon wants to eradicate the devastating toll of pediatric sepsis",
+    "link": "https://techcrunch.com/2026/10/11/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis/",
+    "summary": "This Battlefield 200 startup has developed blood-purification tech to save children",
+    "pubDate": "Sun, 11 Oct 2026 15:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Prime Video unveils Blade Runner 2099 full trailer at NYCC",
+    "link": "https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/",
+    "summary": "Also: new trailer for Godzilla Minus Zero , the sequel to Takashi Yamazaki’s kaiju epic , Godzilla Minus One",
+    "pubDate": "Sun, 11 Oct 2026 14:50:24 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "I'm sorry, but you still have to think",
+    "link": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
+    "summary": "Article URL: https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/ Comments URL: https://news.ycombinator.com/item?id=50043689 Points: 285 # Comments: 124",
+    "pubDate": "Sun, 11 Oct 2026 14:29:07 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The next-gen borrow checker, a drop-in replacement for Rust borrow checking",
+    "link": "https://gist.github.com/FlameyosSnowy/a49a35ba006238be55d8c3e410c31061",
+    "summary": "Comments",
+    "pubDate": "Sun, 11 Oct 2026 14:21:16 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "What to know about the landmark Warner Bros. Discovery sale",
+    "link": "https://techcrunch.com/2026/10/11/warner-bros-netflix-paramount-acquisition-timeline-wbd/",
+    "summary": "Learn more about Paramount's planned acquisition of Warner Bros. Discovery — a historic Hollywood megadeal valued at $111 billion — as it continues to develop.",
+    "pubDate": "Sun, 11 Oct 2026 14:15:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+    "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+    "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+    "pubDate": "Sun, 11 Oct 2026 14:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Making React Context Cheap with React Compiler",
+    "link": "https://jjenzz.com/making-react-context-cheap/",
+    "summary": "Comments",
+    "pubDate": "Sun, 11 Oct 2026 13:26:27 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Terence Tao: Math 2.0 [pdf]",
+    "link": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
+    "summary": "Article URL: https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf Comments URL: https://news.ycombinator.com/item?id=50043026 Points: 275 # Comments: 328",
+    "pubDate": "Sun, 11 Oct 2026 13:16:45 +0000",
+    "source": "Hacker News",
+    "category": "tech"
   },
   {
     "title": "Pope Leo to have surgery after lump found on lung",
@@ -22,6 +382,14 @@
     "pubDate": "Sun, 11 Oct 2026 12:50:46 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "The wild west of polyglot docs sites",
+    "link": "https://technicalwriting.dev/blog/2026/10/polyglot/index.html",
+    "summary": "Comments",
+    "pubDate": "Sun, 11 Oct 2026 12:43:46 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Wildlife park remains closed after fatal tiger attack",
@@ -64,11 +432,35 @@
     "category": "tech"
   },
   {
+    "title": "Show HN: BetterWispr – Free, open-source dictation for Mac",
+    "link": "https://betterwispr.com/",
+    "summary": "Article URL: https://betterwispr.com/ Comments URL: https://news.ycombinator.com/item?id=50042333 Points: 132 # Comments: 81",
+    "pubDate": "Sun, 11 Oct 2026 12:01:28 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
     "link": "https://jobs.ashbyhq.com/weave-os",
     "summary": "Article URL: https://jobs.ashbyhq.com/weave-os Comments URL: https://news.ycombinator.com/item?id=50042330 Points: 0 # Comments: 0",
     "pubDate": "Sun, 11 Oct 2026 12:01:08 +0000",
     "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Arena Allocators in C",
+    "link": "https://eliasebner.com/blog/guides/arena-allocators-in-c/",
+    "summary": "Comments",
+    "pubDate": "Sun, 11 Oct 2026 11:59:58 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "What we ended up doing about alias propagation",
+    "link": "https://futhark-lang.org/blog/2026-10-11-what-we-did-about-aliasing.html",
+    "summary": "Comments",
+    "pubDate": "Sun, 11 Oct 2026 11:54:26 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -116,6 +508,14 @@
     "link": "https://www.bbc.co.uk/news/articles/c65yn92nj423o?at_medium=RSS&at_campaign=rss",
     "summary": "The defence secretary says the US and its allies need to increase pressure on Vladimir Putin to end the war with Ukraine.",
     "pubDate": "Sun, 11 Oct 2026 11:00:49 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "DUP MP says her party could help remove O'Neill as first minister over Drumcree row",
+    "link": "https://www.bbc.co.uk/news/articles/cm79pd2zzl59o?at_medium=RSS&at_campaign=rss",
+    "summary": "Carla Lockhart says unionist voters are angry at Michelle O'Neill over her role in the Garvaghy Road protests.",
+    "pubDate": "Sun, 11 Oct 2026 10:43:17 GMT",
     "source": "BBC News",
     "category": "general"
   },
@@ -192,6 +592,14 @@
     "category": "general"
   },
   {
+    "title": "I'm still around.. I'm just not writing here",
+    "link": "https://rachelbythebay.com/w/2026/10/08/idle/",
+    "summary": "Comments",
+    "pubDate": "Sun, 11 Oct 2026 09:44:03 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "How the 2026 Super El Niño and Climate Change Are Related",
     "link": "https://www.wired.com/story/super-el-nino-climate-change-connections/",
     "summary": "Here’s what we know about the record-setting El Niño on a record-hot planet, and the most important questions scientists are trying to answer.",
@@ -228,6 +636,14 @@
     "link": "https://www.npr.org/2026/10/11/nx-s1-5998022/hurricane-simon-nears-mexico-155-mph-winds-flooding-fears",
     "summary": "The eye of Hurricane Simon was just off the Pacific coast of Mexico early Sunday and was expected to move inland later in the day as an extremely powerful storm.",
     "pubDate": "Sun, 11 Oct 2026 08:10:54 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Justice Department investigates TV networks, citing possible anti-trust violations",
+    "link": "https://www.npr.org/2026/10/11/nx-s1-5997574/the-doj-is-investigating-5-tv-networks-for-suspending-pool-coverage-of-trump",
+    "summary": "The move escalates Trump's fight with the press amid court battle over barring CNN, Politico and MS NOW from the White House.",
+    "pubDate": "Sun, 11 Oct 2026 08:04:00 -0400",
     "source": "NPR",
     "category": "general"
   },
@@ -590,6 +1006,46 @@
     "pubDate": "Fri, 09 Oct 2026 13:01:57 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "A college in Illinois tried to cancel its Flock contact and it refused",
+    "link": "https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras",
+    "summary": "In April of 2025, Elgin Community College had six Flock safety cameras installed to \"enhance the safety and security of students.\" But by September of that year, the school's administration grew concerned that Flock was sharing data with Customs and Border Patrol, that camera feeds were not prope...",
+    "pubDate": "2026-10-11T16:06:43-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+    "summary": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling in line and trying...",
+    "pubDate": "2026-10-11T14:33:56-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "The new Apple TV could have a built-in mic and a remote with a speaker",
+    "link": "https://www.theverge.com/tech/1009397/apple-tv-refresh-built-in-mic-remote-speaker",
+    "summary": "The latest rumors are that the new Apple TV will have a built-in microphone, while the upgraded remote will get a speaker. The mic would let users control the set-top box using Siri without having to speak into the remote or a connected HomePod device. That could also let the Apple TV serve as a ...",
+    "pubDate": "2026-10-11T13:31:07-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "NASA dumped over 800GB of Artemis II data online",
+    "link": "https://www.theverge.com/science/1009379/nasa-800gb-artemis-ii-data",
+    "summary": "If you thought you'd seen all there is to see from the Artemis II mission, you're wrong. This week NASA posted over 800GB worth of science data, images, and videos on the Artemis II: Sights &#38; Sounds of Science site. The archive includes over 11,000 photos and videos, over 8.5 hours of audio, ...",
+    "pubDate": "2026-10-11T11:34:40-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "George A. Romero’s Season of the Witch is a slow-burn feminist occult drama",
+    "link": "https://www.theverge.com/entertainment/1009346/george-a-romero-season-of-the-witch-feminist-horror-review",
+    "summary": "George A. Romero is obviously best known as the father of the modern zombie movie. But between inventing the genre with Night of the Living Dead and his outbreak horror, The Crazies, Romero made two much lesser-known films: There's Always Vanilla, which I'll admit I've never seen, and Season of t...",
+    "pubDate": "2026-10-11T11:15:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
   },
   {
     "title": "Vurt wants you to look at vertical videos as a genre of their own",

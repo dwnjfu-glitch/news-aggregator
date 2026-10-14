@@ -1,5 +1,317 @@
 [
   {
+    "title": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO",
+    "link": "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/",
+    "summary": "Jio plans to use most of its IPO proceeds to repay debt as it expands beyond telecom.",
+    "pubDate": "Wed, 14 Oct 2026 21:48:20 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+    "link": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+    "summary": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
+    "pubDate": "Wed, 14 Oct 2026 21:30:33 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "UK threatens to ban Eritreans over migrant return policy",
+    "link": "https://www.bbc.co.uk/news/articles/c30rl1q1j200o?at_medium=RSS&at_campaign=rss",
+    "summary": "The home secretary said she would not hesitate to impose measures on other countries \"refusing to co-operate\".",
+    "pubDate": "Wed, 14 Oct 2026 21:30:13 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Man City show fight but fall short of fightback against slick PSG",
+    "link": "https://www.bbc.co.uk/sport/football/videos/cqp8gn9x801po?at_medium=RSS&at_campaign=rss",
+    "summary": "Defending champions Paris Saint-Germain make it two wins from two in this season's Champions League, after beating Manchester City 4-2 at the Etihad Stadium",
+    "pubDate": "Wed, 14 Oct 2026 21:19:45 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
+    "link": "https://typesafe.ai/blog/jev-1-14",
+    "summary": "Article URL: https://typesafe.ai/blog/jev-1-14 Comments URL: https://news.ycombinator.com/item?id=50095353 Points: 40 # Comments: 17",
+    "pubDate": "Wed, 14 Oct 2026 21:11:03 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
+    "link": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
+    "summary": "Colossal announced a new AI platform to help accelerate its de-extinction efforts and Peter Diamandis has launched a new fund to back startups who use it.",
+    "pubDate": "Wed, 14 Oct 2026 21:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Trump Aides Admit the House Is a Lost Cause",
+    "link": "https://www.wired.com/story/trump-aides-admit-the-house-is-a-lost-cause/",
+    "summary": "With the midterm elections just a few weeks away, the White House knows it has to go all in on Senate races—while virtually forfeiting the House.",
+    "pubDate": "Wed, 14 Oct 2026 21:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+    "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+    "summary": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
+    "pubDate": "Wed, 14 Oct 2026 20:55:24 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "OpenCode 2.0",
+    "link": "https://anoma.ly/notes/opencode-2-0/",
+    "summary": "Article URL: https://anoma.ly/notes/opencode-2-0/ Comments URL: https://news.ycombinator.com/item?id=50094994 Points: 75 # Comments: 15",
+    "pubDate": "Wed, 14 Oct 2026 20:48:24 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Things are finally looking up for NASA's first missions to Venus in a generation",
+    "link": "https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat/",
+    "summary": "\"This is great news for us. We're staffing up. We're accelerating.\"",
+    "pubDate": "Wed, 14 Oct 2026 20:48:07 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "On night of mayhem for Liverpool, Barcola arrives in style",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c39wzg59x1yxo?at_medium=RSS&at_campaign=rss",
+    "summary": "Bradley Barcola's form was the subject of pre-match questions before Liverpool faced LASK - but the France forward's Champions League hat-trick was the perfect answer.",
+    "pubDate": "Wed, 14 Oct 2026 20:46:35 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Anthropic's Scion is heavily inspired by Mononoke",
+    "link": "https://sunshowers.io/posts/anthropic-mononoke/",
+    "summary": "Article URL: https://sunshowers.io/posts/anthropic-mononoke/ Comments URL: https://news.ycombinator.com/item?id=50094694 Points: 140 # Comments: 40",
+    "pubDate": "Wed, 14 Oct 2026 20:30:54 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Yandex outage: data shows that instead of going dark, malicious bots moved",
+    "link": "https://blog.cloudflare.com/yandex-outage/",
+    "summary": "Article URL: https://blog.cloudflare.com/yandex-outage/ Comments URL: https://news.ycombinator.com/item?id=50094673 Points: 115 # Comments: 38",
+    "pubDate": "Wed, 14 Oct 2026 20:29:13 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Flock CEO: We haven’t ‘fired’ any police departments as customers",
+    "link": "https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers/",
+    "summary": "Flock CEO Garrett Langley said that the surveillance company has not canceled contracts of any police department or law enforcement agency, despite reports of abuse.",
+    "pubDate": "Wed, 14 Oct 2026 20:26:25 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Schools across US protest FCC plan that could disconnect kids from Internet",
+    "link": "https://arstechnica.com/tech-policy/2026/10/schools-libraries-plead-with-fcc-to-scrap-idea-of-killing-2b-broadband-program/",
+    "summary": "FCC chair threatens E-Rate fund, blames schools for kids' excessive screen time.",
+    "pubDate": "Wed, 14 Oct 2026 20:15:56 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Electric vehicle sales in the US are showing signs of life",
+    "link": "https://techcrunch.com/2026/10/14/electric-vehicle-sales-in-the-u-s-are-showing-signs-of-life/",
+    "summary": "The electric vehicle market in the U.S. has been growing for the last three consecutive quarters.",
+    "pubDate": "Wed, 14 Oct 2026 20:12:07 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "TimeTeller puts our internal clocks at the center of personalized medicine",
+    "link": "https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/",
+    "summary": "German startup TimeTeller has developed a saliva test kit to help anyone understand their circadian rhythm; it aims to reduce side effects from cancer treatments.",
+    "pubDate": "Wed, 14 Oct 2026 20:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Georgia man sues Flock, sheriff's office over alleged ALPR-fueled retaliation",
+    "link": "https://arstechnica.com/tech-policy/2026/10/georgia-man-sues-flock-sheriffs-office-over-alleged-alpr-fueled-retaliation/",
+    "summary": "Plaintiff claims cameras enabled warrantless tracking and monitoring after he previously sued over excessive force.",
+    "pubDate": "Wed, 14 Oct 2026 19:53:01 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
+    "link": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
+    "summary": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
+    "pubDate": "Wed, 14 Oct 2026 19:52:04 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers",
+    "link": "https://techcrunch.com/2026/10/14/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers/",
+    "summary": "Startup Ambrosia Energy will build a massive factory to crank out batteries to augment solar panels, creating a round-the-clock clean power plant.",
+    "pubDate": "Wed, 14 Oct 2026 19:51:34 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Software development and rules stability: Prototype racing in 2030",
+    "link": "https://arstechnica.com/cars/2026/10/software-development-and-rules-stability-prototype-racing-in-2030/",
+    "summary": "With the end of IMSA’s 2026 season, we have thoughts about the future of the sport.",
+    "pubDate": "Wed, 14 Oct 2026 19:44:26 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Things to know when you get cancer – 2026 Edition",
+    "link": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+    "summary": "Article URL: https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/ Comments URL: https://news.ycombinator.com/item?id=50093568 Points: 413 # Comments: 95",
+    "pubDate": "Wed, 14 Oct 2026 19:26:30 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "We are behind you and that will not change, PM tells Zelensky",
+    "link": "https://www.bbc.co.uk/news/articles/cm0rl1gkz97do?at_medium=RSS&at_campaign=rss",
+    "summary": "The Ukrainian president visited London in an effort to bolster support among European allies following a row with Donald Trump.",
+    "pubDate": "Wed, 14 Oct 2026 19:22:28 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Greta Gerwig channels Bowie in psychedelic The Magician's Nephew trailer",
+    "link": "https://arstechnica.com/culture/2026/10/greta-gerwig-channels-bowie-in-psychedelic-the-magicians-nephew-trailer/",
+    "summary": "\"Have you ever seen a world born?\"",
+    "pubDate": "Wed, 14 Oct 2026 19:10:58 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Swimmer Archie Goodburn thanks prime minister as brain cancer review announced",
+    "link": "https://www.bbc.co.uk/news/articles/cm74pn052j2vo?at_medium=RSS&at_campaign=rss",
+    "summary": "The Scottish athlete, who has inoperable brain tumours, previously made a tearful plea for more investment in brain cancer research on BBC Breakfast.",
+    "pubDate": "Wed, 14 Oct 2026 19:04:46 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Suicide rates highest ever among middle-aged men",
+    "link": "https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/",
+    "summary": "Article URL: https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/ Comments URL: https://news.ycombinator.com/item?id=50093180 Points: 142 # Comments: 161",
+    "pubDate": "Wed, 14 Oct 2026 19:03:58 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Hiyd is a health tracker that attaches to the watch you already wear",
+    "link": "https://techcrunch.com/2026/10/14/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear/",
+    "summary": "Former Apple engineers figured out how to get a biometric sensor to attach to your watch without any magnets or adhesives.",
+    "pubDate": "Wed, 14 Oct 2026 19:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
+    "link": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
+    "summary": "Article URL: https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/ Comments URL: https://news.ycombinator.com/item?id=50092730 Points: 226 # Comments: 158",
+    "pubDate": "Wed, 14 Oct 2026 18:37:21 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+    "link": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+    "summary": "Article URL: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/ Comments URL: https://news.ycombinator.com/item?id=50092664 Points: 204 # Comments: 157",
+    "pubDate": "Wed, 14 Oct 2026 18:32:52 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+    "link": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+    "summary": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.",
+    "pubDate": "Wed, 14 Oct 2026 18:23:46 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+    "link": "https://petal.live/",
+    "summary": "Hi HN! I’m Jason Thomas, one of the founders of CoScreen. As some of you may know, Datadog sunset the CoScreen service on July 31st. Four of us from the original CoScreen team have spent the last couple months building a free and open source pair programming tool inspired by those that came befor...",
+    "pubDate": "Wed, 14 Oct 2026 18:23:14 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Virtual Oxide Labs: Emulating a Full Oxide Rack",
+    "link": "https://oxide.computer/blog/voxel-labs",
+    "summary": "Article URL: https://oxide.computer/blog/voxel-labs Comments URL: https://news.ycombinator.com/item?id=50092423 Points: 19 # Comments: 1",
+    "pubDate": "Wed, 14 Oct 2026 18:21:14 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "AI Came for Math. Now It’s Chasing the Rest of Science",
+    "link": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
+    "summary": "AI may soon be the default way to solve theoretical problems in economics, high-energy physics, and other fields, MIT researchers tell WIRED.",
+    "pubDate": "Wed, 14 Oct 2026 18:15:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "What if you could turn off your algorithm? Australia is about to try",
+    "link": "https://www.bbc.co.uk/news/videos/ck78pj2qy42po?at_medium=RSS&at_campaign=rss",
+    "summary": "New legislation is being tabled in Australia's parliament on Thursday to force big tech to allow users to switch off algorithms which send them recommended content.",
+    "pubDate": "Wed, 14 Oct 2026 18:00:54 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+    "link": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+    "summary": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
+    "pubDate": "Wed, 14 Oct 2026 18:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "America didn't lose its rare earth industry, it sold it",
+    "link": "https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it",
+    "summary": "Article URL: https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it Comments URL: https://news.ycombinator.com/item?id=50091875 Points: 109 # Comments: 49",
+    "pubDate": "Wed, 14 Oct 2026 17:50:26 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Drop-off charges at UK airports to be reviewed after sharp increase",
+    "link": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro?at_medium=RSS&at_campaign=rss",
+    "summary": "Confirming the review, the government said it was \"vital to ensure travel remains accessible and that passengers are treated fairly\".",
+    "pubDate": "Wed, 14 Oct 2026 17:46:30 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Neckbeard – A DevOps/platform/SRE plugin for your agent",
+    "link": "https://github.com/bealesh/neckbeard",
+    "summary": "Article URL: https://github.com/bealesh/neckbeard Comments URL: https://news.ycombinator.com/item?id=50091794 Points: 54 # Comments: 39",
+    "pubDate": "Wed, 14 Oct 2026 17:45:34 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+    "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+    "summary": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 774 # Comments: 370",
+    "pubDate": "Wed, 14 Oct 2026 17:45:23 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "认知心理学背后的播客剪辑技巧",
     "link": "https://sspai.com/post/114861",
     "summary": "为什么剪辑时会时常出现爆音？为什么有些地方剪辑后意思接得上，听起来却觉得别扭？为什么有些地方稍微动一下就会不自然？ 查看全文",
@@ -24,12 +336,28 @@
     "category": "general"
   },
   {
+    "title": "Researchers use AI to design proteins that cut up other proteins",
+    "link": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
+    "summary": "AI design tools make proteins that break bonds that are stable for hundreds of years.",
+    "pubDate": "Wed, 14 Oct 2026 17:10:15 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
     "title": "Red Bull F1 boss Mekies gets new deal to 2031",
     "link": "https://www.bbc.co.uk/sport/formula1/articles/c84g1rxr0dpno?at_medium=RSS&at_campaign=rss",
     "summary": "Red Bull team principal Laurent Mekies, who replaced Christian Horner at the F1 team, has his contract extended until the end of 2031.",
     "pubDate": "Wed, 14 Oct 2026 17:02:47 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Show HN: I wrote an email app that accepts only one sender per inbox",
+    "link": "https://clova.email/",
+    "summary": "Infinite inboxes, including prefixes where you don't have to create inboxes before you use them -- they self create when you add a suffix. Three types of inboxes: - One sender. Locks to the first domain to send email (except gmail, outlook, etc where it locks to an email account for obivous reaso...",
+    "pubDate": "Wed, 14 Oct 2026 17:00:59 +0000",
+    "source": "Hacker News",
+    "category": "tech"
   },
   {
     "title": "Mosqitter is turning its mosquito traps into an AI-powered surveillance network",
@@ -78,6 +406,14 @@
     "pubDate": "Wed, 14 Oct 2026 16:47:32 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
+    "link": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
+    "summary": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.",
+    "pubDate": "Wed, 14 Oct 2026 16:41:49 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
   },
   {
     "title": "Burnham rules out coalition with Greens after 'Zionism is racism' motion",
@@ -152,6 +488,22 @@
     "category": "tech"
   },
   {
+    "title": "Fixing C Strings With String Views",
+    "link": "https://eliasebner.com/blog/guides/fixing-strings-in-c/",
+    "summary": "Comments",
+    "pubDate": "Wed, 14 Oct 2026 16:04:44 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Legendary FPS level designer Richard \"Levelord\" Gray dies at 68",
+    "link": "https://arstechnica.com/gaming/2026/10/legendary-fps-level-designer-richard-levelord-gray-passes-away-at-68/",
+    "summary": "Tributes pour in for the man behind iconic Duke Nukem 3D levels and much more.",
+    "pubDate": "Wed, 14 Oct 2026 16:02:08 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
     "title": "Prismm helps banks keep inherited money in-house",
     "link": "https://techcrunch.com/2026/10/14/prismm-helps-banks-keep-inherited-money-in-house/",
     "summary": "With Prismm, account holders can give designated family members access to their accounts and documents ahead of time.",
@@ -173,6 +525,14 @@
     "summary": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
     "pubDate": "Wed, 14 Oct 2026 15:54:04 GMT",
     "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Aboard an icebreaker, a writer got a closer look at the Arctic's 'Sea Change'",
+    "link": "https://www.npr.org/2026/10/14/nx-s1-6001592/arctic-sea-change-rana-foroohar",
+    "summary": "As polar ice melts in the Arctic, shipping lanes are opening up, making the region a new zone of superpower competition. Writer Rana Foroohar explains the stakes in Sea Change.",
+    "pubDate": "Wed, 14 Oct 2026 15:42:03 -0400",
+    "source": "NPR",
     "category": "general"
   },
   {
@@ -325,6 +685,14 @@
     "summary": "Kyiv’s forces experience connectivity problems on Elon Musk’s satellite network.",
     "pubDate": "Wed, 14 Oct 2026 13:56:11 +0000",
     "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "The DelightQL Query Language",
+    "link": "https://delightql.org",
+    "summary": "Hey all, I would like to present a programming language I have been developing for many years called delightql. This is an alpha release so there will be rough edges, but I have used it at home and work and have liked it enough to now throw it out into the world and see if it sticks. It's always ...",
+    "pubDate": "Wed, 14 Oct 2026 13:41:38 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -1328,6 +1696,70 @@
     "category": "general"
   },
   {
+    "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+    "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Mon...",
+    "pubDate": "2026-10-14T17:11:28-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Microsoft and Japan took down a cybercrime network behind over a billion scam messages",
+    "link": "https://www.theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown",
+    "summary": "We've all gotten a scam text about a nonexistent parking ticket or a fake package delivery, but hopefully you'll start seeing fewer of them. Microsoft says it helped dismantle a marketplace for scammers sending phishing messages like those around the world. Through an investigation with Japan's N...",
+    "pubDate": "2026-10-14T16:03:43-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "The AI race is back on",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+    "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, had yet to establi...",
+    "pubDate": "2026-10-14T15:06:03-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
+    "link": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+    "summary": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding. James is among 40 bipartisan AGs who filed a notice of interest in Character.AI's bankruptc...",
+    "pubDate": "2026-10-14T14:47:54-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "As a TV enthusiast, I was hoping for more from the Apple TV 4K",
+    "link": "https://www.theverge.com/tech/1011324/apple-tv-4k-missed-features",
+    "summary": "It's been four long years since the last Apple TV 4K was released, and in that time there have been lots of hopes and dreams for features in whatever comes next. A new chip, 4K/120Hz support, audio passthrough, a remote locator, better home control integration - the 2022 Apple TV 4K is a great bo...",
+    "pubDate": "2026-10-14T14:38:59-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "YouTube sticks new labels on AI-generated songs",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
+    "summary": "YouTube is adding a \"Made with AI\" label to tracks that were \"altered or fully generated\" using AI, with a similar approach to its existing process for applying AI labels to videos. It doesn't sound like this will apply to any and all use of AI tools in making music, but according to YouTube, it ...",
+    "pubDate": "2026-10-14T14:22:56-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Save up to 20 percent on gift cards for REI, Barnes &#038; Noble, and more",
+    "link": "https://www.theverge.com/gadgets/1010749/google-play-gift-card-deal-sale",
+    "summary": "While we cover a lot of deals on specific products, it’s rare that we find worthwhile savings on gift cards that let you save on essentially anything the store sells. However, until October 19th, you can save up to twenty percent on gift cards when you buy them through the Google Play store. Ther...",
+    "pubDate": "2026-10-14T14:20:55-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Apple&#8217;s new HomeView smart display is $10 cheaper at Amazon",
+    "link": "https://www.theverge.com/gadgets/1011227/apple-homeview-smart-display-deal-sale",
+    "summary": "Apple only just announced on Tuesday that its first smart display, the HomeView, will arrive on November 13th, but you can already save a couple bucks on it. Right now, you can buy the display for $289.99 ($10 off) in gray and the creamy white “starlight” colorway at Amazon. Sure, it’s a small di...",
+    "pubDate": "2026-10-14T13:24:42-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
     "title": "Sprout Pi adds Bluetooth, streaming, and USB-C to your aging iPod",
     "link": "https://www.theverge.com/gadgets/1011266/sprout-pi-adds-bluetooth-streaming-and-usb-c-to-your-aging-ipod",
     "summary": "There's an entire cottage industry of iPod mods out there, but Sprout Pi and Sprout Pico are two of the few full motherboard replacements that combine many of the most popular mods into a single upgrade. Both versions add Bluetooth, Wi-Fi, USB-C, a microSD card slot, FLAC playback, and more. And ...",
@@ -1422,6 +1854,22 @@
     "pubDate": "2026-10-14T07:00:00-04:00",
     "source": "The Verge",
     "category": "tech"
+  },
+  {
+    "title": "Growing plane and ship traffic degrade the air of western North America",
+    "link": "https://www.nature.com/articles/d41586-026-03239-0",
+    "summary": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03239-0 Pollution from transport across the Pacific Ocean is raising ozone levels above a region whose own emissions have dropped.",
+    "pubDate": "2026-10-14",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "‘Incredible’: bleached corals thrive within days when touching healthy neighbour",
+    "link": "https://www.nature.com/articles/d41586-026-03266-x",
+    "summary": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03266-x A coral fragment can form a tissue bridge with a dying counterpart — and provide it with crucial microalgae.",
+    "pubDate": "2026-10-14",
+    "source": "Nature",
+    "category": "science"
   },
   {
     "title": "Catalytic transfer of carbon atoms enables spirofusion of C–C σ-bonds",

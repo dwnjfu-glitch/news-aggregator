@@ -1,5 +1,213 @@
 [
   {
+    "title": "Isle of Wight fossil identified as new dinosaur species",
+    "link": "https://www.bbc.co.uk/news/articles/cmvgx70v9vrjo?at_medium=RSS&at_campaign=rss",
+    "summary": "Invictibellatrix would have been up to four metres long with feathers and had 20cm claws.",
+    "pubDate": "Wed, 14 Oct 2026 05:09:46 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Obama receives honorary degree from Queen's University Belfast",
+    "link": "https://www.bbc.co.uk/news/articles/c6gqwvk399xlo?at_medium=RSS&at_campaign=rss",
+    "summary": "Receiving his doctorate, the 44th US president praised Northern Ireland's progress and challenged the next generation to continue building a peaceful and inclusive future.",
+    "pubDate": "Tue, 13 Oct 2026 21:17:33 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "被量化的心跳：HRV 是身体的晴雨表，还是制造焦虑的数字游戏？",
+    "link": "https://sspai.com/post/104231",
+    "summary": "这些设备最好的用途，不是让你更依赖它们，而是帮助你重新学会倾听自己。然后，在某个清晨，你不再需要看任何数字，就知道今天会是美好的一天。 查看全文",
+    "pubDate": "Sat, 17 Oct 2026 14:58:04 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "Boy, 16, and 80-year-old man die in light aircraft crash near Loch Lomond",
+    "link": "https://www.bbc.co.uk/news/articles/cky83g11q46lo?at_medium=RSS&at_campaign=rss",
+    "summary": "Emergency services were called at about 16:45 on Friday, and pronounced both dead at the scene.",
+    "pubDate": "Sat, 17 Oct 2026 11:00:11 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "DIY SOS to be 'rested' next year to save money, BBC says",
+    "link": "https://www.bbc.co.uk/news/articles/cr15jw22v50qo?at_medium=RSS&at_campaign=rss",
+    "summary": "The long-running programme will be replaced by a \"more cost-effective\" spin-off show revisiting past projects.",
+    "pubDate": "Sat, 17 Oct 2026 10:52:17 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Rare pink diamond goes on display in France 100 years after amateur heist",
+    "link": "https://www.bbc.co.uk/news/articles/c61m4zkx47vlo?at_medium=RSS&at_campaign=rss",
+    "summary": "The French royal jewel will be on public display for the first time since it was found hidden in an apple after a 1926 theft.",
+    "pubDate": "Sat, 17 Oct 2026 10:46:41 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "HTC Made Smart Glasses That Are Way More Private",
+    "link": "https://www.wired.com/story/htc-wants-its-vive-eagle-smart-glasses-to-be-the-anti-meta/",
+    "summary": "These smart glasses do just about everything Meta glasses can, but they're not tied to a social media platform.",
+    "pubDate": "Sat, 17 Oct 2026 10:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Don’t Let a Crypto Inheritance Get Stuck on the Blockchain",
+    "link": "https://www.wired.com/story/crypto-inheritance-how-to/",
+    "summary": "Claiming an inheritance of Bitcoin or other cryptocurrency can be like hunting for buried treasure. It doesn’t have to be.",
+    "pubDate": "Sat, 17 Oct 2026 10:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Is MCP becoming the common foundation of smart, decentralised search?",
+    "link": "https://contextetech.com/en/articles/mcp-protocol-smart-decentralised-search",
+    "summary": "Article URL: https://contextetech.com/en/articles/mcp-protocol-smart-decentralised-search Comments URL: https://news.ycombinator.com/item?id=50129235 Points: 14 # Comments: 9",
+    "pubDate": "Sat, 17 Oct 2026 09:01:30 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Microplastics React With Water, a New Study Says. That’s a Problem for Biology",
+    "link": "https://www.wired.com/story/microplastics-react-with-water-new-study-says-thats-a-problem-for-biology/",
+    "summary": "Though plastic is usually inert, tiny pieces of it have the potential to react with one of the most pervasive molecules in the environment and in our bodies.",
+    "pubDate": "Sat, 17 Oct 2026 09:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
+    "link": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
+    "summary": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
+    "pubDate": "Sat, 17 Oct 2026 09:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "England crush Women's World Cup debutants Wales",
+    "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c6djvxmx0z1po?at_medium=RSS&at_campaign=rss",
+    "summary": "England scored seven tries before the break, and 13 in total on their way to a comprehensive victory over Wales in their Group A opener.",
+    "pubDate": "Sat, 17 Oct 2026 08:39:22 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+    "link": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+    "summary": "Article URL: https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129121 Points: 157 # Comments: 27",
+    "pubDate": "Sat, 17 Oct 2026 08:37:46 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "DeepSeek-v4.1-Flash-1017",
+    "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+    "summary": "Article URL: https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129045 Points: 173 # Comments: 74",
+    "pubDate": "Sat, 17 Oct 2026 08:21:25 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Swinney insists 'stars are aligning' for Scottish independence",
+    "link": "https://www.bbc.co.uk/news/articles/cmx2844n7nepo?at_medium=RSS&at_campaign=rss",
+    "summary": "The first minister will tell delegates at the SNP conference in Aberdeen that 2026 has been a turning point in Scotland's \"journey to nationhood\".",
+    "pubDate": "Sat, 17 Oct 2026 08:17:18 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Man jailed for Starmer-linked arson attacks is deported",
+    "link": "https://www.bbc.co.uk/news/articles/c6x2vk44dv1xo?at_medium=RSS&at_campaign=rss",
+    "summary": "Romanian national Stanislav Carpiuc was sentenced in June over arson attacks targeting the former prime minister's car and property.",
+    "pubDate": "Sat, 17 Oct 2026 07:38:36 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "England's 41-match unbeaten run ended by Canada",
+    "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cknv0m61l9e4o?at_medium=RSS&at_campaign=rss",
+    "summary": "England's 41-match unbeaten streak ends in dramatic fashion as Shoshanah Seumanutafa's late try hands Canada a thrilling 24-21 victory in Toronto.",
+    "pubDate": "Sat, 17 Oct 2026 07:25:54 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Show HN: I got tired of btop not seeing my Mac's chip, so I built siltop",
+    "link": "https://github.com/CLoaKY233/siltop",
+    "summary": "btop is beautiful. But on my M-series Mac it can't tell me the one thing I actually want to know: what is the chip doing? No watts, no GPU, no per-core clocks. So I built siltop: btop's calm, with eyes on the silicon. Real power, clocks and temps straight from the SMC and IOReport, no sudo, about...",
+    "pubDate": "Sat, 17 Oct 2026 07:01:07 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Dubois v Wardley 2 - heavyweight title fight predictions",
+    "link": "https://www.bbc.co.uk/sport/boxing/articles/cwz0vdmyvrx8o?at_medium=RSS&at_campaign=rss",
+    "summary": "Figures from the boxing world give their predictions for Saturday's heavyweight world title rematch between Fabio Wardley and Daniel Dubois.",
+    "pubDate": "Sat, 17 Oct 2026 06:28:03 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Pope's health should not be taken 'for granted', says top Vatican diplomat",
+    "link": "https://www.bbc.co.uk/news/articles/c6kg53zrexdeo?at_medium=RSS&at_campaign=rss",
+    "summary": "Archbishop Paul Gallagher tells the BBC there was no sign of the Pope's ill health prior to his operation this week.",
+    "pubDate": "Sat, 17 Oct 2026 05:01:40 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "No Kings turns its focus to voting this weekend. Here's what we know",
+    "link": "https://www.npr.org/2026/10/17/nx-s1-6004887/no-kings-voting-trump",
+    "summary": "The coalition behind nationwide anti-Trump protests is shifting its strategies this weekend to focus on voter turnout. Organizers say Saturday's events are a nonpartisan effort to get people to the polls.",
+    "pubDate": "Sat, 17 Oct 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Sidewalk sleepers: They have nowhere else to stay while a loved one is in the hospital",
+    "link": "https://www.npr.org/2026/10/17/g-s1-147874/hospital-diagnosis-patients-india-sidewalk",
+    "summary": "Patients travel miles to be treated at public hospitals in Delhi. Those in need get financial aid for their care. But for overnight accommodations, families are often on their own — and on the street.",
+    "pubDate": "Sat, 17 Oct 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Weddings are expensive. How about a grocery store cake?",
+    "link": "https://www.npr.org/2026/10/17/nx-s1-5976921/grocery-store-wedding-cakes",
+    "summary": "About a third of couples are willing to save money on cake and dessert, according to the wedding-planning site Zola.",
+    "pubDate": "Sat, 17 Oct 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Trump promised a swing district blitz. He's going to a lot of very red states",
+    "link": "https://www.npr.org/2026/10/17/nx-s1-6004276/trump-travel-midterms",
+    "summary": "President Trump's midterm travel blitz ahead of Election Day includes several red states he won easily 2 years ago, showing the electoral landscape is more challenging for Republicans.",
+    "pubDate": "Sat, 17 Oct 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+    "link": "https://llmspeed.dev/",
+    "summary": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 86 # Comments: 36",
+    "pubDate": "Sat, 17 Oct 2026 04:36:53 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Coastal homes burn as hot winds fuel California fires",
+    "link": "https://www.npr.org/2026/10/17/g-s1-148569/coastal-homes-burn-in-california-fires",
+    "summary": "High winds are fueling a fast-moving fire that has burned homes in Southern California. Flames engulfed expensive coastal properties and prompted thousands to evacuate.",
+    "pubDate": "Sat, 17 Oct 2026 04:20:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "\"In every study that considered the question\"",
     "link": "https://unsung.aresluna.org/in-every-study-that-considered-the-question/",
     "summary": "Article URL: https://unsung.aresluna.org/in-every-study-that-considered-the-question/ Comments URL: https://news.ycombinator.com/item?id=50127839 Points: 5 # Comments: 0",
@@ -48,6 +256,14 @@
     "category": "general"
   },
   {
+    "title": "Developing for Debugging (2025)",
+    "link": "https://www.davepacheco.net/blog/2025/developing-for-debugging-dns-propagation/",
+    "summary": "Comments",
+    "pubDate": "Sat, 17 Oct 2026 02:21:14 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Butlerian Jihad",
     "link": "https://dune.fandom.com/wiki/Butlerian_Jihad",
     "summary": "Article URL: https://dune.fandom.com/wiki/Butlerian_Jihad Comments URL: https://news.ycombinator.com/item?id=50127274 Points: 125 # Comments: 64",
@@ -86,6 +302,22 @@
     "pubDate": "Sat, 17 Oct 2026 01:19:04 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Some quick thoughts on Unit Testing ActivityPub",
+    "link": "https://shkspr.mobi/blog/2026/10/some-thoughts-on-unit-testing-activitypub/",
+    "summary": "Comments",
+    "pubDate": "Sat, 17 Oct 2026 01:12:46 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "STAC-M3 Benchmark: L tick database 1.0 on Oxide OxVM w/ 128 vCPUs & 1.25 TiB of RAM",
+    "link": "https://docs.stacresearch.com/M3-20261005a",
+    "summary": "It's using https://lv1.sh/ Comments",
+    "pubDate": "Sat, 17 Oct 2026 00:08:50 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
@@ -214,6 +446,14 @@
     "pubDate": "Fri, 16 Oct 2026 16:29:40 -0400",
     "source": "NPR",
     "category": "general"
+  },
+  {
+    "title": "A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",
+    "link": "https://adepts.of0x.cc/eufy-homestation2-firmware/",
+    "summary": "Article URL: https://adepts.of0x.cc/eufy-homestation2-firmware/ Comments URL: https://news.ycombinator.com/item?id=50119751 Points: 50 # Comments: 3",
+    "pubDate": "Fri, 16 Oct 2026 15:38:28 +0000",
+    "source": "Hacker News",
+    "category": "tech"
   },
   {
     "title": "Underdogs? We like that tag, says England captain Williams",

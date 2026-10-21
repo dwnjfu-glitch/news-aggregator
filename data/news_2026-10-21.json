@@ -1,5 +1,157 @@
 [
   {
+    "title": "社区速递 162 | MUJI 靠垫、中兴路由器与派友们的长假吃灰装备",
+    "link": "https://sspai.com/post/116820",
+    "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ... 查看全文",
+    "pubDate": "Wed, 21 Oct 2026 17:00:00 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "Vitals：什么在拖慢你的 Mac？它比「活动监视器」更直观易用",
+    "link": "https://sspai.com/post/116445",
+    "summary": "如果你希望更直观地分析 App 资源消耗、追踪历史变化，或者经常在 Mac 上进行开发和本地 AI 推理，Vitals 提供的整合式监控与 AI 协作能力更值得尝试。 查看全文",
+    "pubDate": "Wed, 21 Oct 2026 15:00:00 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "Teenage boy guilty of trying to murder girl, 15, in school",
+    "link": "https://www.bbc.co.uk/news/articles/cm0j0q9znzdlo?at_medium=RSS&at_campaign=rss",
+    "summary": "The school went into lockdown and parents gathered at the gates as they waited for news about their children.",
+    "pubDate": "Wed, 21 Oct 2026 12:03:52 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Why has Lord's dug up its pitch and what comes next?",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/cxvgd73rg97qo?at_medium=RSS&at_campaign=rss",
+    "summary": "After years of comment, Lord's has dug up one of its pitches for the first time in more than 25 years. Why the drastic action and what next?",
+    "pubDate": "Wed, 21 Oct 2026 12:02:29 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Student who murdered university housemate jailed for life",
+    "link": "https://www.bbc.co.uk/news/articles/c6pvglvpln91o?at_medium=RSS&at_campaign=rss",
+    "summary": "Jamie Collins, 21, was ambushed and killed in the garden of the home he shared with his killer.",
+    "pubDate": "Wed, 21 Oct 2026 12:00:58 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
+    "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+    "summary": "The 74-year-old former teacher has been released without any \"swap\" required, Trump says.",
+    "pubDate": "Wed, 21 Oct 2026 12:00:33 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Apple iPhone Duo Review: Is It Worth It?",
+    "link": "https://www.wired.com/review/apple-iphone-duo/",
+    "summary": "Apple made an astonishingly good first foldable. Now iOS and third-party apps need time to catch up.",
+    "pubDate": "Wed, 21 Oct 2026 12:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "How much gas could Jackdaw provide? And will it cut your energy bills?",
+    "link": "https://www.bbc.co.uk/news/articles/cq4g13pplyzzo?at_medium=RSS&at_campaign=rss",
+    "summary": "BBC Verify looks at what the Jackdaw decision means for bills, energy security and the environment.",
+    "pubDate": "Wed, 21 Oct 2026 11:57:49 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Woman told Russell Brand he 'treated her like an animal', court hears",
+    "link": "https://www.bbc.co.uk/news/articles/cmje5k3q9ello?at_medium=RSS&at_campaign=rss",
+    "summary": "The comedian and actor is on trial for charges including rape and sexual assault, which he denies.",
+    "pubDate": "Wed, 21 Oct 2026 11:47:01 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "PSG's Kvaratskhelia to have surgery on ruptured ACL",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cxnv0ed5pz23o?at_medium=RSS&at_campaign=rss",
+    "summary": "Paris St-Germain winger Khvicha Kvaratskhelia will undergo surgery after suffering a knee injury during his side's 4-2 win over Barcelona on Tuesday.",
+    "pubDate": "Wed, 21 Oct 2026 11:45:03 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "F1 races to return to standard distance in 2028",
+    "link": "https://www.bbc.co.uk/sport/formula1/articles/c69wzvr14xlxo?at_medium=RSS&at_campaign=rss",
+    "summary": "Formula 1 grands prix will return to their standard distance in 2028 after the maximum length was shortened for next season.",
+    "pubDate": "Wed, 21 Oct 2026 11:41:56 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Gaming Can’t Afford More Games the Size of ‘Grand Theft Auto VI’",
+    "link": "https://www.wired.com/story/make-big-games-smaller/",
+    "summary": "Between crushing layoffs, ballooning budgets, and bland end products, video game makers need to stop chasing AAA glory.",
+    "pubDate": "Wed, 21 Oct 2026 11:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Hackers steal children's data after company used 'Password1' to protect old account",
+    "link": "https://www.bbc.co.uk/news/articles/c6r7y03e9m3ro?at_medium=RSS&at_campaign=rss",
+    "summary": "The data watchdog reprimanded Ogi Networks Limited and Data Cymru after the 2024 ransomware attack.",
+    "pubDate": "Wed, 21 Oct 2026 10:56:47 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Allen reveals mental health clinic stay before return",
+    "link": "https://www.bbc.co.uk/sport/snooker/articles/c3ewe41dd0g5o?at_medium=RSS&at_campaign=rss",
+    "summary": "Mark Allen says he is working to \"turn things around\" and reveals he spent time in a mental health clinic before returning to snooker.",
+    "pubDate": "Wed, 21 Oct 2026 10:56:37 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Amber warning issued as Storm Austen threatens UK with strong winds and heavy rain",
+    "link": "https://www.bbc.co.uk/weather/articles/c6m24ln2j43go?at_medium=RSS&at_campaign=rss",
+    "summary": "The deep area of low pressure is expected to move close to the south of the UK early on Friday with south-west England set to bear the brunt.",
+    "pubDate": "Wed, 21 Oct 2026 10:55:32 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Author Helen Fielding launches award to find the next Bridget Jones's Diary",
+    "link": "https://www.bbc.co.uk/news/articles/c6wyd53yg9n1o?at_medium=RSS&at_campaign=rss",
+    "summary": "The Bridget Jones Prize will go to the author of the funniest 1,000-word diary-style piece of writing.",
+    "pubDate": "Wed, 21 Oct 2026 10:45:06 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Bud Light Boycotters Are Still Waiting for Their ‘Woke-Free’ Beer",
+    "link": "https://www.wired.com/story/bud-light-boycotters-are-still-waiting-for-their-woke-free-beer/",
+    "summary": "Ultra Right Beer, a brand launched in 2023 by MAGA political consultant Seth Weathers, has vanished from the internet with many deliveries unfulfilled.",
+    "pubDate": "Wed, 21 Oct 2026 10:45:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "MNEK cancels tour over lack of ticket sales and high production costs",
+    "link": "https://www.bbc.co.uk/news/articles/cwe8lz018pe1o?at_medium=RSS&at_campaign=rss",
+    "summary": "The Grammy-nominated artist was due to start a run of shows for his latest album Bulldozer!! next month.",
+    "pubDate": "Wed, 21 Oct 2026 10:31:01 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
+    "link": "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/",
+    "summary": "It’s the latest in a growing wave of bets that AI companies are making on brain data.",
+    "pubDate": "Wed, 21 Oct 2026 10:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
     "title": "怀旧手记｜世界首台 UMPC：三星 Q1，和当下平板有什么关系？",
     "link": "https://sspai.com/post/115107",
     "summary": "电脑与平板之间的界限，早在 20 年前的三星 Q1 上就已经可以随意切换了。 查看全文",
@@ -8,12 +160,164 @@
     "category": "tech-cn"
   },
   {
+    "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
+    "link": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
+    "summary": "The economic figures released on Wednesday show the constraints for John Healey as he puts the finishing touches to his Budget.",
+    "pubDate": "Wed, 21 Oct 2026 10:20:15 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Whatever Happened to Fire Escapes",
+    "link": "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes",
+    "summary": "Article URL: https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes Comments URL: https://news.ycombinator.com/item?id=50178455 Points: 40 # Comments: 18",
+    "pubDate": "Wed, 21 Oct 2026 10:14:43 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The Best Hearing Aids I’ve Tested (2026): Jabra, Resound, Apple, and More",
+    "link": "https://www.wired.com/gallery/best-hearing-aids/",
+    "summary": "These WIRED-tested devices will help you hear sounds more clearly. Never miss out on a dinner conversation again.",
+    "pubDate": "Wed, 21 Oct 2026 10:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "She Was the DEA’s Premier Crypto Detective. The Clues Led Straight to Her Own Family",
+    "link": "https://www.wired.com/story/the-deas-premier-crypto-detective-clues-led-straight-to-her-own-family/",
+    "summary": "To escape the chaos of her Russian childhood, Lili Infante became an American law enforcement prodigy. She pioneered the DEA’s investigations of the dark web—never suspecting who she’d find hiding there.",
+    "pubDate": "Wed, 21 Oct 2026 10:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Actor Noel Clarke pleads not guilty to sexual offence charges",
+    "link": "https://www.bbc.co.uk/news/articles/cm9wzvj0v4q9o?at_medium=RSS&at_campaign=rss",
+    "summary": "The former Doctor Who and Kidulthood star appeared at Westminster Magistrates Court on Wednesday.",
+    "pubDate": "Wed, 21 Oct 2026 09:35:31 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+    "link": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+    "summary": "Article URL: https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/ Comments URL: https://news.ycombinator.com/item?id=50177916 Points: 255 # Comments: 110",
+    "pubDate": "Wed, 21 Oct 2026 09:08:08 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The 1.5°C goal of the Paris Agreement is no longer viable",
+    "link": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
+    "summary": "Article URL: https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/ Comments URL: https://news.ycombinator.com/item?id=50177911 Points: 379 # Comments: 411",
+    "pubDate": "Wed, 21 Oct 2026 09:07:49 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Europe Wants Data Centers. Its Climate Goals Are Getting in the Way",
+    "link": "https://www.wired.com/story/europe-data-centers-climate-change/",
+    "summary": "A plan to funnel the heat given off by data centers into nearby homes has run aground in Germany. Across Europe, policymakers are weighing AI ambitions against climate objectives.",
+    "pubDate": "Wed, 21 Oct 2026 08:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Huge crowds watch attempt to save shark stranded in South Korean canal",
+    "link": "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo?at_medium=RSS&at_campaign=rss",
+    "summary": "A third attempt has been made to guide the 9ft 10in (3m) shark back to the open sea.",
+    "pubDate": "Wed, 21 Oct 2026 08:19:32 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Boulter wins in under an hour to reach quarters",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/cx4g17l00qmjo?at_medium=RSS&at_campaign=rss",
+    "summary": "Katie Boulter moves into the quarter-finals of the Japan Open after she beat Viktorija Golubic in less than an hour.",
+    "pubDate": "Wed, 21 Oct 2026 08:18:35 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "派早报：美国政府指示各机构停用 DeepSeek、理想发布「连山」自研三电体系等",
     "link": "https://sspai.com/post/116887",
     "summary": "工信部就自动泊车等五项强制性国标征求意见，万事达卡 Apple Pay 新增 3 家合作银行等。 查看全文",
     "pubDate": "Wed, 21 Oct 2026 08:07:07 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "Australian MP loses both legs after alleged car attack, husband says",
+    "link": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss",
+    "summary": "Her alleged attacker, 43-year-old Brendan Nugent, faces multiple charges and appeared in court for the first time on Wednesday.",
+    "pubDate": "Wed, 21 Oct 2026 07:56:30 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "DOJ's noncitizen voter list is unreliable, officials say. And, U.S. pollution rises",
+    "link": "https://www.npr.org/2026/10/21/g-s1-149068/up-first-newsletter-california-voter-roll-united-nations-emissions-us-crimes-ukraine-russia",
+    "summary": "The Justice Department's \"likely\" noncitizen voter list in California is \"unreliable,\" according to officials. And, the United Nations reports a major increase in U.S. climate pollution.",
+    "pubDate": "Wed, 21 Oct 2026 07:46:59 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Crystal Palace urged to retire bald eagle mascot",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cmx2302r04r4o?at_medium=RSS&at_campaign=rss",
+    "summary": "Animal rights group Peta is urging Crystal Palace to retire their bald eagle mascot, saying a \"bright stadium filled with boisterous fans is no place for animals\".",
+    "pubDate": "Wed, 21 Oct 2026 07:24:35 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Deleting 19k Lines of Dead Compiler Code Without Trusting the LLM",
+    "link": "https://thecloudlet.github.io/technical/refactor-with-ai/part-1-deletion/",
+    "summary": "Comments",
+    "pubDate": "Wed, 21 Oct 2026 06:49:41 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Russia releases imprisoned U.S. citizen Stephen Hubbard following Trump's request",
+    "link": "https://www.npr.org/2026/10/21/nx-s1-6009380/russia-releases-imprisoned-us-citizen",
+    "summary": "Russian President Vladimir Putin says he has freed an American, Stephen Hubbard, from a Russian prison following a request from President Trump.",
+    "pubDate": "Wed, 21 Oct 2026 06:20:50 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Woman given cancer diagnosis by hospital employee who accessed her records",
+    "link": "https://www.bbc.co.uk/news/articles/cjn5vq6n7r54o?at_medium=RSS&at_campaign=rss",
+    "summary": "Pippa Boardman says she lost \"dignity and privacy\" after she was told by an acquaintance she had cancer.",
+    "pubDate": "Wed, 21 Oct 2026 05:28:43 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Sex, lies and police spies: The disputed story of the 'creepy' undercover officer",
+    "link": "https://www.bbc.co.uk/news/articles/c4gm2dlrxlgo?at_medium=RSS&at_campaign=rss",
+    "summary": "Andrew Coles denies claims he deceived a young woman into sex while infiltrating an activist group.",
+    "pubDate": "Wed, 21 Oct 2026 05:21:31 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Missing German WW2 U-boat found 82 years on",
+    "link": "https://www.bbc.co.uk/news/articles/cwvg0vjj5e2vo?at_medium=RSS&at_campaign=rss",
+    "summary": "The U-672 sub was identified 20 miles (32km) off Salcombe after divers discovered it in August.",
+    "pubDate": "Wed, 21 Oct 2026 05:19:47 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Improving accessibility with CSS media queries (2025)",
+    "link": "https://fleeb.ee/blog/improving-accessibility-with-css-media-queries/",
+    "summary": "Comments",
+    "pubDate": "Wed, 21 Oct 2026 05:14:43 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Watch: 'We don't pay' - lawyer advises how to avoid £45,000 illegal-worker fine",
@@ -29,6 +333,22 @@
     "summary": "Because of our investigation, the home secretary has ordered a review of how fines are issued and collected.",
     "pubDate": "Wed, 21 Oct 2026 05:00:35 GMT",
     "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "2025 policing trend: Fewer serious crimes, more minor arrests",
+    "link": "https://www.npr.org/2026/10/21/nx-s1-6003663/crime-data-down-low-level-offenses-increase",
+    "summary": "Arrests for more minor offenses, including vagrancy, rose in the U.S., even as violent crime rates dropped to historic lows, according to an analysis from criminal justice reform advocacy group FWD.us",
+    "pubDate": "Wed, 21 Oct 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Expecting a baby? 5 tips to help you prepare for pregnancy costs",
+    "link": "https://www.npr.org/2026/10/21/nx-s1-5996849/insurance-cost-baby-pregnancy",
+    "summary": "The cost of having a baby is difficult to predict. The amount families pay varies widely. Here are five tips to help you prepare for the often unexpected costs of pregnancy and giving birth.",
+    "pubDate": "Wed, 21 Oct 2026 05:00:00 -0400",
+    "source": "NPR",
     "category": "general"
   },
   {
@@ -48,6 +368,30 @@
     "category": "general"
   },
   {
+    "title": "Morning news brief",
+    "link": "https://www.npr.org/2026/10/21/nx-s1-6003502/morning-news-brief",
+    "summary": "Trump envoy Steve Witkoff to visit Russia in hopes of ending war, Trump campaigns in North Carolina, Saudi Arabia cancels 'Davos in the Desert' due to Houthi strikes.",
+    "pubDate": "Wed, 21 Oct 2026 04:42:59 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Millions are struck off India's voter rolls in largest disenfranchisement in history",
+    "link": "https://www.npr.org/2026/10/21/nx-s1-5997960/india-voter-rolls",
+    "summary": "India is plunged into political crisis after 130 million names were struck off voter rolls during a massive revision.",
+    "pubDate": "Wed, 21 Oct 2026 04:42:10 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Saudi Arabia cancels 'Davos in the Desert' due to Yemen's Houthi strikes",
+    "link": "https://www.npr.org/2026/10/21/nx-s1-6009545/saudi-arabia-cancels-davos-in-the-desert-due-to-air-strikes",
+    "summary": "Britain offers military support as Saudi cancels renowned 'Davos in desert\" investor meeting due to strikes from Houthi forces in Yemen.",
+    "pubDate": "Wed, 21 Oct 2026 04:40:51 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "The Papers: 'Burnham faces climate revolt' and 'Harry wants to fix feud'",
     "link": "https://www.bbc.co.uk/news/articles/c84g1qyvvkgvo?at_medium=RSS&at_campaign=rss",
     "summary": "Several papers lead on remarks from the Duke of Sussex yesterday, where he said he hoped to reconcile with his family.",
@@ -64,12 +408,76 @@
     "category": "general"
   },
   {
+    "title": "Using Claude to reduce the attack surface of code",
+    "link": "https://www.anthropic.com/research/attack-surface-reduction",
+    "summary": "Article URL: https://www.anthropic.com/research/attack-surface-reduction Comments URL: https://news.ycombinator.com/item?id=50175779 Points: 70 # Comments: 28",
+    "pubDate": "Wed, 21 Oct 2026 03:36:43 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "C# now beats Rust on WASM size",
+    "link": "https://github.com/zion-sati/NetWasm",
+    "summary": "Article URL: https://github.com/zion-sati/NetWasm Comments URL: https://news.ycombinator.com/item?id=50175510 Points: 99 # Comments: 37",
+    "pubDate": "Wed, 21 Oct 2026 02:53:47 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Unikernels in OCaml",
+    "link": "https://uniker.nl/",
+    "summary": "Comments",
+    "pubDate": "Wed, 21 Oct 2026 02:51:20 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "ConcurrentML: Improving on Go's concurrency model",
+    "link": "https://nikhilism.com/post/2026/golang-racket-concurrency/",
+    "summary": "Comments",
+    "pubDate": "Wed, 21 Oct 2026 02:38:00 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Announcing the GPU notification group and Linker Working Area",
+    "link": "https://blog.rust-lang.org/inside-rust/2026/10/20/gpu-target-notification-group/",
+    "summary": "Comments",
+    "pubDate": "Wed, 21 Oct 2026 02:27:17 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Firefox security patch tests are now private for at least a week",
+    "link": "https://groups.google.com/a/mozilla.org/g/firefox-dev/c/4I1HSPtVyrI/m/giGra4ZzAQAJ",
+    "summary": "Comments",
+    "pubDate": "Wed, 21 Oct 2026 02:13:16 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "PHP warns it plans to release 2 emergency patches imminently",
     "link": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
     "summary": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
     "pubDate": "Wed, 21 Oct 2026 02:12:18 +0000",
     "source": "Ars Technica",
     "category": "tech"
+  },
+  {
+    "title": "LeBron James talks smack with Knicks fans in victorious 76ers debut",
+    "link": "https://www.npr.org/2026/10/21/nx-s1-6010350/lebron-knicks-76ers",
+    "summary": "The Sixers got a first look at the potent lineup they put together this summer in hopes of winning their first title since 1983.",
+    "pubDate": "Wed, 21 Oct 2026 02:07:16 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "FAA clears the way for airlines to put Boeing's long-delayed 737 Max 10 into service",
+    "link": "https://www.npr.org/2026/10/21/g-s1-149032/faa-boeing-737-max-10",
+    "summary": "Nearly a decade after Boeing unveiled its largest 737 Max jet, the company has cleared a major hurdle in its effort to bring the plane to airlines.",
+    "pubDate": "Wed, 21 Oct 2026 02:05:18 -0400",
+    "source": "NPR",
+    "category": "general"
   },
   {
     "title": "In Hilbert space, all things are quantumly possible",
@@ -94,6 +502,14 @@
     "pubDate": "Wed, 21 Oct 2026 01:45:07 +0000",
     "source": "Hacker News",
     "category": "tech"
+  },
+  {
+    "title": "Zelenskyy says early warning system for Russian missile attacks resumes",
+    "link": "https://www.npr.org/2026/10/21/g-s1-149026/zelenskyy-russian-missiles-warning",
+    "summary": "Ukrainian President Volodymyr Zelenskyy said the change happened after talks with his American counterparts, including a phone call with U.S. Secretary of State Marco Rubio.",
+    "pubDate": "Wed, 21 Oct 2026 01:43:24 -0400",
+    "source": "NPR",
+    "category": "general"
   },
   {
     "title": "France is divided over who to blame for weekend riots and what to learn from them",
@@ -296,12 +712,92 @@
     "category": "tech"
   },
   {
+    "title": "Upcoming Critical PHP Security Release",
+    "link": "https://www.php.net/archive/2026.php#2026-10-20-1",
+    "summary": "Comments",
+    "pubDate": "Tue, 20 Oct 2026 17:23:54 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
     "link": "https://research.poh.org/bot-benchmarking-2026/",
     "summary": "Article URL: https://research.poh.org/bot-benchmarking-2026/ Comments URL: https://news.ycombinator.com/item?id=50169506 Points: 36 # Comments: 2",
     "pubDate": "Tue, 20 Oct 2026 17:10:31 +0000",
     "source": "Hacker News",
     "category": "tech"
+  },
+  {
+    "title": "Four Years with Decker",
+    "link": "https://beyondloom.com/blog/fouryearsdecker.html",
+    "summary": "Article URL: https://beyondloom.com/blog/fouryearsdecker.html Comments URL: https://news.ycombinator.com/item?id=50165215 Points: 45 # Comments: 9",
+    "pubDate": "Tue, 20 Oct 2026 12:18:02 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Spotify is busting free of CarPlay with the launch of its first native car app",
+    "link": "https://www.theverge.com/entertainment/1014261/spotify-native-car-app-audi-android-automotive-carplay",
+    "summary": "Spotify announced Wednesday the launch of its next-generation, fully native in-car app, built directly on Google's Android Automotive operating system. The standalone app, which is launching today in select Audi models, runs directly on the vehicle's infotainment hardware - eliminating the need f...",
+    "pubDate": "2026-10-21T08:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "I can’t get enough of the iPhone Duo’s matte inner display",
+    "link": "https://www.theverge.com/tech/1014709/iphone-duo-inner-screen-nano-texture-matte",
+    "summary": "The iPhone Duo has all the messiness of a first-gen product. And while I'm not sure I love all of the decisions Apple made around its design, it got one thing right: the matte finish on the inner screen. I've been using it for the past week to watch movies on a plane, peruse my [&#8230;]",
+    "pubDate": "2026-10-21T08:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "The iPhone Duo is a messy, expensive, good time",
+    "link": "https://www.theverge.com/tech/1015028/iphone-duo-review",
+    "summary": "The iPhone Duo is the riskiest Apple product in years. It's a huge rethink of what an iPhone is and could be, and it contains the seeds of many fascinating ideas that might be great in the future. But that future is yet to come. The iPhone Duo is also one of Apple's messiest first-generation [&#8...",
+    "pubDate": "2026-10-21T08:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "A critical PHP vulnerability may take websites down today",
+    "link": "https://www.theverge.com/tech/1015257/php-vulnerability-patch-website-security-wordpress",
+    "summary": "Security patches for the PHP programming language, widely used to build websites and web apps, are expected to roll out today, with the goal of fixing two critical vulnerabilities that could wreak havoc on the internet if left unchecked. In an advisory published on Tuesday, PHP developers said th...",
+    "pubDate": "2026-10-21T07:49:17-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Author Correction: Catalyst-free, microdroplet-mediated waste plastic conversion to diacids",
+    "link": "https://www.nature.com/articles/s41586-026-11252-6",
+    "summary": "Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11252-6 Author Correction: Catalyst-free, microdroplet-mediated waste plastic conversion to diacids",
+    "pubDate": "2026-10-21",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Global emissions slow — but world hurtles towards 2 °C of warming",
+    "link": "https://www.nature.com/articles/d41586-026-03355-x",
+    "summary": "Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03355-x The United Nations’ latest climate report is a stark reminder that limiting warming to the safest levels is now likely out of reach.",
+    "pubDate": "2026-10-21",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "How tech billionaires are disrupting biomedical science",
+    "link": "https://www.nature.com/articles/d41586-026-03311-9",
+    "summary": "Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03311-9 Money from the world’s increasingly prosperous technology entrepreneurs has been flooding into biomedical research. Is it changing how science is done?",
+    "pubDate": "2026-10-21",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "How a new wave of science philanthropists can have the greatest impact",
+    "link": "https://www.nature.com/articles/d41586-026-03326-2",
+    "summary": "Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03326-2 Tech entrepreneurs are bringing an engineer’s eye to research funding. They must be open about their findings to reap maximum benefit.",
+    "pubDate": "2026-10-21",
+    "source": "Nature",
+    "category": "science"
   },
   {
     "title": "YouTube might be testing hiding the dislike button",

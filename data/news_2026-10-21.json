@@ -1,5 +1,325 @@
 [
   {
+    "title": "Meta fined $25bn for 'lies' over user data privacy",
+    "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+    "summary": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
+    "pubDate": "Wed, 21 Oct 2026 21:49:07 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+    "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+    "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
+    "pubDate": "Wed, 21 Oct 2026 21:16:20 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Meta says Muse has over 10M users, with shopping a top activity",
+    "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+    "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+    "pubDate": "Wed, 21 Oct 2026 21:14:19 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "AWS rates PHP RCE as Important so Amazon Linux 2023 patch may take 20 days",
+    "link": "https://github.com/amazonlinux/amazon-linux-2023/issues/1148",
+    "summary": "Article URL: https://github.com/amazonlinux/amazon-linux-2023/issues/1148 Comments URL: https://news.ycombinator.com/item?id=50187708 Points: 26 # Comments: 5",
+    "pubDate": "Wed, 21 Oct 2026 21:12:59 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Rice strikes to earn Arsenal draw at Bayern",
+    "link": "https://www.bbc.co.uk/sport/football/videos/crx23nx0vp8jo?at_medium=RSS&at_campaign=rss",
+    "summary": "Declan Rice scores a late equaliser as Arsenal and Bayern Munich play out an entertaining draw in the league phase of the Champions League while Bukayo Saka limps off with an early injury.",
+    "pubDate": "Wed, 21 Oct 2026 21:09:36 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "‘It’s the President’s Fault’: The White House Blame Game Starts Early Ahead of the Midterms",
+    "link": "https://www.wired.com/story/its-the-presidents-fault-the-white-house-blame-game-starts-early-ahead-of-the-midterms/",
+    "summary": "As the White House contemplates losing Congress, there has been an unusually early effort to find a Republican scapegoat.",
+    "pubDate": "Wed, 21 Oct 2026 21:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Man Utd humbled by four-goal Como to pile pressure on Carrick",
+    "link": "https://www.bbc.co.uk/sport/football/videos/cmz7xr3z2vz7o?at_medium=RSS&at_campaign=rss",
+    "summary": "Manchester United suffer a heavy defeat to a Como side playing just their third ever game of Champions League football, as Nico Paz stars for the hosts to pile the pressure on Michael Carrick.",
+    "pubDate": "Wed, 21 Oct 2026 20:59:43 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
+    "link": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+    "summary": "Just 9 months after raising an $180 million seed round, Flapping Airplanes has landed $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
+    "pubDate": "Wed, 21 Oct 2026 20:57:40 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Trump Isn’t Even Good at TV Anymore",
+    "link": "https://www.wired.com/story/trump-isnt-even-good-at-tv-anymore/",
+    "summary": "From Trump TV to a Shark Tank knockoff, the president’s latest entertainment ventures are a steep decline from his days on The Apprentice.",
+    "pubDate": "Wed, 21 Oct 2026 20:38:01 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Tesla starts Optimus robot production in California as profit falls 43%",
+    "link": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/",
+    "summary": "Tesla's revenue was flat and its expenses skyrocketed as it pressed the accelerator on its Optimus robots, AI, and autonomous driving.",
+    "pubDate": "Wed, 21 Oct 2026 20:33:09 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+    "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+    "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+    "pubDate": "Wed, 21 Oct 2026 20:27:41 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Automattic begins layoffs following board upheaval and executive departures",
+    "link": "https://techcrunch.com/2026/10/21/automattic-begins-layoffs-following-board-upheaval-and-executive-departures/",
+    "summary": "Automattic has begun laying off employees across multiple teams, including WordPress.com and its enterprise business, following a board shakeup and a series of executive departures. Sources say more cuts could follow as the company looks to improve its finances.",
+    "pubDate": "Wed, 21 Oct 2026 20:15:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Bose Is Buying Skullcandy. It’s Not as Weird as It Sounds",
+    "link": "https://www.wired.com/story/bose-acquires-skullcandy-october-2026/",
+    "summary": "By keeping Skullcandy in Park City, Utah, Bose is betting that skate cred and budget pricing will reach listeners it’s been missing.",
+    "pubDate": "Wed, 21 Oct 2026 20:15:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Pope does not need further treatment after lung cancer surgery",
+    "link": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss",
+    "summary": "Test results have confirmed his diagnosis as a lung adenocarcinoma that was localised.",
+    "pubDate": "Wed, 21 Oct 2026 20:09:10 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Fernandes rounds on Carrick after Man Utd humiliation",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cq74pjn80x4wo?at_medium=RSS&at_campaign=rss",
+    "summary": "Manchester United captain Bruno Fernandes blames head coach Michael Carrick for the tactics that led to an embarrassing 4-1 defeat by Como in the Champions League.",
+    "pubDate": "Wed, 21 Oct 2026 19:59:30 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
+    "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
+    "summary": "Russia's President Putin does not feel under pressure right now to end the war.",
+    "pubDate": "Wed, 21 Oct 2026 19:58:06 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "GM is betting compute and AI will help it compete with Chinese automakers",
+    "link": "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers/",
+    "summary": "To compete with Tesla, Rivian, and a host of Chinese automakers, GM’s fourth-gen EV platform will roll out a new central computer and electrical architecture that will debut in 2028 in the Cadillac Escalade IQ.",
+    "pubDate": "Wed, 21 Oct 2026 19:52:20 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "The new human-crafted Apple Music brand matters in an AI world",
+    "link": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
+    "summary": "Opinion: In a world of AI slop, showing the human hands making things helps.",
+    "pubDate": "Wed, 21 Oct 2026 19:44:40 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+    "link": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+    "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+    "pubDate": "Wed, 21 Oct 2026 19:30:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Google staff resign in backlash over its AI contracts with military",
+    "link": "https://www.bbc.com/news/articles/cmreyvepnv0po",
+    "summary": "Article URL: https://www.bbc.com/news/articles/cmreyvepnv0po Comments URL: https://news.ycombinator.com/item?id=50186043 Points: 59 # Comments: 3",
+    "pubDate": "Wed, 21 Oct 2026 19:14:21 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Claude Duet",
+    "link": "https://claude.com/product/claude-duet",
+    "summary": "Article URL: https://claude.com/product/claude-duet Comments URL: https://news.ycombinator.com/item?id=50186037 Points: 211 # Comments: 180",
+    "pubDate": "Wed, 21 Oct 2026 19:14:01 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "RIP BioWare: EA shuts down storied RPG studio after over three decades",
+    "link": "https://arstechnica.com/gaming/2026/10/rip-bioware-ea-shuts-down-storied-rpg-studio-after-over-three-decades/",
+    "summary": "Next Mass Effect project canceled as parent company lays off 400.",
+    "pubDate": "Wed, 21 Oct 2026 19:12:16 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Google's Rust Style Guide",
+    "link": "https://google.github.io/styleguide/rustguide.html",
+    "summary": "Article URL: https://google.github.io/styleguide/rustguide.html Comments URL: https://news.ycombinator.com/item?id=50186010 Points: 108 # Comments: 79",
+    "pubDate": "Wed, 21 Oct 2026 19:11:57 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The internet is having a very bad cybersecurity day",
+    "link": "https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/",
+    "summary": "From AI-discovered PHP vulnerabilities to flaws in Node.js and popular AI tool LiteLLM, cybersecurity teams have plenty to worry about this week.",
+    "pubDate": "Wed, 21 Oct 2026 19:03:28 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "GitLab Critical Patch Release",
+    "link": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+    "summary": "Article URL: https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/ Comments URL: https://news.ycombinator.com/item?id=50185869 Points: 140 # Comments: 30",
+    "pubDate": "Wed, 21 Oct 2026 19:01:12 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Potential third critical PHP CVE",
+    "link": "https://elk.zone/m.webtoo.ls/@elise@katze.sh/117479383721672027",
+    "summary": "Article URL: https://elk.zone/m.webtoo.ls/@elise@katze.sh/117479383721672027 Comments URL: https://news.ycombinator.com/item?id=50185814 Points: 44 # Comments: 14",
+    "pubDate": "Wed, 21 Oct 2026 18:57:52 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
+    "link": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
+    "summary": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.",
+    "pubDate": "Wed, 21 Oct 2026 18:51:56 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+    "link": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+    "summary": "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks.",
+    "pubDate": "Wed, 21 Oct 2026 18:51:42 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Eufy Security Wall Light Cam S4 Deal: Save $80 on This Versatile Gadget",
+    "link": "https://www.wired.com/story/eufy-security-camera-deals-october-2026/",
+    "summary": "This feature-packed security camera is the perfect way to keep an eye on your home and fam from afar.",
+    "pubDate": "Wed, 21 Oct 2026 18:46:49 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "MP harassed for 'being English' by man who took axe to pub",
+    "link": "https://www.bbc.co.uk/news/articles/cvde8glk94neo?at_medium=RSS&at_campaign=rss",
+    "summary": "Michael Glover left a note on MP Henry Tufnell's office door and claimed he knew where he lived.",
+    "pubDate": "Wed, 21 Oct 2026 18:46:37 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Canary Tokens",
+    "link": "https://canarytokens.org/",
+    "summary": "https://docs.canarytokens.org/guide/ Comments URL: https://news.ycombinator.com/item?id=50185630 Points: 87 # Comments: 18",
+    "pubDate": "Wed, 21 Oct 2026 18:45:04 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Ruggable’s Washable Rugs Are Worth It and Now on Sale (2026)",
+    "link": "https://www.wired.com/story/ruggable-october-hosting-sale-2026/",
+    "summary": "If you’re going to nest, you might as well do it at a discount.",
+    "pubDate": "Wed, 21 Oct 2026 18:43:42 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Report: Musk ordered Starlink slowdown in Ukraine, then blamed it on Trump",
+    "link": "https://arstechnica.com/tech-policy/2026/10/report-says-musk-not-trump-ordered-starlink-throttling-that-blindsided-ukraine/",
+    "summary": "Musk and Trump both denied ordering Starlink slowdown. WSJ reports it was Musk.",
+    "pubDate": "Wed, 21 Oct 2026 18:35:38 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits",
+    "link": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/",
+    "summary": "Trump’s EPA can't unilaterally dismiss SpaceXAI pollution lawsuit, court rules.",
+    "pubDate": "Wed, 21 Oct 2026 18:20:40 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
+    "link": "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo?at_medium=RSS&at_campaign=rss",
+    "summary": "Locals describe the MP, who had to have both legs amputated, as a genuinely kind person who fought for the community.",
+    "pubDate": "Wed, 21 Oct 2026 18:10:42 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Does opting out of smart TV tracking work? Research finds “suspicious” traffic.",
+    "link": "https://arstechnica.com/gadgets/2026/10/does-opting-out-of-smart-tv-tracking-work-research-finds-suspicious-traffic/",
+    "summary": "OS operators throwing out that data is \"unlikely,\" research author tells Ars.",
+    "pubDate": "Wed, 21 Oct 2026 18:00:37 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "GM is giving OnStar an AI makeover",
+    "link": "https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/",
+    "summary": "It's one of the biggest overhauls ever to the 30-year-old connected car product.",
+    "pubDate": "Wed, 21 Oct 2026 18:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "GM Wants Your Car to Do Your Chores",
+    "link": "https://www.wired.com/story/gm-wants-your-car-to-do-your-chores/",
+    "summary": "The Detroit automaker wants your next vehicle to be a personal assistant, a best friend, and an autonomous errand-runner.",
+    "pubDate": "Wed, 21 Oct 2026 18:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "PHP armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+    "link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+    "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
+    "pubDate": "Wed, 21 Oct 2026 17:59:12 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+    "link": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+    "summary": "https://nmdoj.gov/press-release/the-new-mexico-department-of... Comments URL: https://news.ycombinator.com/item?id=50184820 Points: 221 # Comments: 126",
+    "pubDate": "Wed, 21 Oct 2026 17:45:13 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
     "link": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
     "summary": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
@@ -14,6 +334,30 @@
     "pubDate": "Wed, 21 Oct 2026 17:07:25 +0000",
     "source": "Hacker News",
     "category": "tech"
+  },
+  {
+    "title": "Burnham proposes plan to cut standing charges from gas bills",
+    "link": "https://www.bbc.co.uk/news/articles/cw0541p65dyzo?at_medium=RSS&at_campaign=rss",
+    "summary": "The prime minister provided little detail, and there are questions over shifting the fees onto unit costs.",
+    "pubDate": "Wed, 21 Oct 2026 17:06:16 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "'Mindset shift' needed within government on No10 North, says deputy",
+    "link": "https://www.bbc.co.uk/news/articles/cqx28yp532r0o?at_medium=RSS&at_campaign=rss",
+    "summary": "Number 10 North deputy director Duncan Parish has told a conference he is still facing \"institutional barriers\".",
+    "pubDate": "Wed, 21 Oct 2026 17:05:09 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Chip muffin? Bacon and egg soda? How Just Eat's AI struggled to depict Britain's regional dishes",
+    "link": "https://www.bbc.co.uk/news/articles/crz981p0klvgo?at_medium=RSS&at_campaign=rss",
+    "summary": "A spokesperson said it was removing inaccurate AI images and pausing the rollout of the tool.",
+    "pubDate": "Wed, 21 Oct 2026 17:04:13 GMT",
+    "source": "BBC News",
+    "category": "general"
   },
   {
     "title": "The Best Art TV Deals: Samsung Frame, Hisense Canvas, and More (2026)",
@@ -40,12 +384,28 @@
     "category": "tech"
   },
   {
+    "title": "Poll: Voters want Congress to be a check on Trump, trust Democrats more on issues",
+    "link": "https://www.npr.org/2026/10/21/nx-s1-6011179/poll-democrats-republicans-trump-approval",
+    "summary": "A new poll shows record support for Democratic congressional candidates ahead of the midterms, as voters feel the party is better attuned to handling their top issues.",
+    "pubDate": "Wed, 21 Oct 2026 16:56:07 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "'Playing for their careers' - Australia reeling after extraordinary day",
     "link": "https://www.bbc.co.uk/sport/cricket/articles/ckzd6r577qvdo?at_medium=RSS&at_campaign=rss",
     "summary": "Australia are facing defeat in the second Test against South Africa with careers on the line after their shambolic performance on day four.",
     "pubDate": "Wed, 21 Oct 2026 16:52:25 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "SpaceX to attempt Starship catch on next flight, with eye on rapid cadence increase",
+    "link": "https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-weekly-starship-launches-by-early-2027/",
+    "summary": "\"We have had significant constructive engagement with the FAA.\"",
+    "pubDate": "Wed, 21 Oct 2026 16:46:19 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
   },
   {
     "title": "How the project will work and the difference it will make",
@@ -72,6 +432,14 @@
     "category": "tech"
   },
   {
+    "title": "Embedding EYG in Erlang programs",
+    "link": "https://eyg.run/guides/embedding-eyg-in-erlang-programs",
+    "summary": "Comments",
+    "pubDate": "Wed, 21 Oct 2026 16:27:36 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
     "link": "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs",
     "summary": "Article URL: https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs Comments URL: https://news.ycombinator.com/item?id=50183512 Points: 8 # Comments: 2",
@@ -86,6 +454,14 @@
     "pubDate": "Wed, 21 Oct 2026 16:17:49 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "The bridge to agent-scale Git infrastructure",
+    "link": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+    "summary": "Article URL: https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/ Comments URL: https://news.ycombinator.com/item?id=50183344 Points: 42 # Comments: 11",
+    "pubDate": "Wed, 21 Oct 2026 16:09:28 +0000",
+    "source": "Hacker News",
+    "category": "tech"
   },
   {
     "title": "Websites taken down worldwide as critical cyber-security update issued",
@@ -110,6 +486,14 @@
     "pubDate": "Wed, 21 Oct 2026 16:05:05 +0000",
     "source": "Hacker News",
     "category": "tech"
+  },
+  {
+    "title": "Meet the people moving north to escape increasingly hot summers",
+    "link": "https://www.npr.org/2026/10/21/nx-s1-5977837/climate-uk-usa-housing",
+    "summary": "As climate change fuels hotter summers, some Britons are moving north in search of cooler weather. Could a similar shift be on the horizon in the United States?",
+    "pubDate": "Wed, 21 Oct 2026 16:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
   },
   {
     "title": "This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good",
@@ -142,6 +526,14 @@
     "pubDate": "Wed, 21 Oct 2026 15:48:56 +0000",
     "source": "Hacker News",
     "category": "tech"
+  },
+  {
+    "title": "Top 2 Democrats on Intel say they're preparing for Trump to claim foreign meddling",
+    "link": "https://www.npr.org/2026/10/21/nx-s1-6011170/democrats-election-interference-preparations-president-trump",
+    "summary": "The top Democrats on the House and Senate intelligence committees said they are working under the presumption that the president will seek to justify election interference by alleging fraud.",
+    "pubDate": "Wed, 21 Oct 2026 15:47:18 -0400",
+    "source": "NPR",
+    "category": "general"
   },
   {
     "title": "Google staff resign in backlash over its AI contracts with military",
@@ -189,6 +581,14 @@
     "summary": "Article URL: https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488 Comments URL: https://news.ycombinator.com/item?id=50182526 Points: 82 # Comments: 48",
     "pubDate": "Wed, 21 Oct 2026 15:20:04 +0000",
     "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The $15 billion ad-powered AI startup your doctor may already be using",
+    "link": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/",
+    "summary": "OpenEvidence is booming despite questions about accuracy and ads.",
+    "pubDate": "Wed, 21 Oct 2026 15:14:07 +0000",
+    "source": "Ars Technica",
     "category": "tech"
   },
   {
@@ -248,6 +648,14 @@
     "category": "tech"
   },
   {
+    "title": "Macron accuses foreign leaders of exploiting French riots",
+    "link": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
+    "summary": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks.",
+    "pubDate": "Wed, 21 Oct 2026 14:04:28 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
     "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
     "summary": "https://patchtheplanet.org/ Comments URL: https://news.ycombinator.com/item?id=50181175 Points: 152 # Comments: 80",
@@ -302,6 +710,14 @@
     "pubDate": "Wed, 21 Oct 2026 13:57:59 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Flow Typing, A New Lens on Linearity",
+    "link": "https://jaredforsyth.com/posts/papers-we-love-lens-on-linearity/",
+    "summary": "Comments",
+    "pubDate": "Wed, 21 Oct 2026 13:54:02 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Our Favorite Darn Tough Merino Wool Socks Are on Sale at REI",
@@ -368,6 +784,14 @@
     "category": "tech"
   },
   {
+    "title": "Passkeys Attestation Trap",
+    "link": "https://mjtsai.com/blog/2026/10/15/passkeys-attestation-trap/",
+    "summary": "Comments",
+    "pubDate": "Wed, 21 Oct 2026 13:16:22 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Mach9 raises $34M after pivoting to AI CAD software",
     "link": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
     "summary": "The startup initially set out to build better, faster, and cheaper surveying hardware in 2021.",
@@ -389,6 +813,14 @@
     "summary": "Article URL: https://github.com/vladocar/Sumi.css Comments URL: https://news.ycombinator.com/item?id=50180039 Points: 43 # Comments: 10",
     "pubDate": "Wed, 21 Oct 2026 12:50:33 +0000",
     "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "CVE-2026-107891: musl libc: multiple integer overflow in regcomp, possibly leading to incorrect allocation sizes and out-of-bounds heap writes",
+    "link": "https://www.openwall.com/lists/oss-security/2026/10/21/18",
+    "summary": "Comments",
+    "pubDate": "Wed, 21 Oct 2026 12:40:17 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -526,6 +958,22 @@
     "pubDate": "Wed, 21 Oct 2026 11:21:47 -0400",
     "source": "NPR",
     "category": "general"
+  },
+  {
+    "title": "Review: Carrie is a triumphant remix with one major flaw",
+    "link": "https://arstechnica.com/culture/2026/10/review-carrie-is-a-triumphant-remix-with-one-major-flaw/",
+    "summary": "Mike Flanagan's re-imagining of Stephen King's classic is well worth watching.",
+    "pubDate": "Wed, 21 Oct 2026 11:19:12 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "The past, present, and future share a show floor at Pinball Expo 2026",
+    "link": "https://arstechnica.com/gaming/2026/10/the-past-present-and-future-share-a-show-floor-at-pinball-expo-2026/",
+    "summary": "Flipping through the highlights in and around Pinball Expo 2026.",
+    "pubDate": "Wed, 21 Oct 2026 11:00:04 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
   },
   {
     "title": "Gaming Can’t Afford More Games the Size of ‘Grand Theft Auto VI’",
@@ -1312,6 +1760,86 @@
     "category": "tech"
   },
   {
+    "title": "Meta to create a new class of shares to fund AI push",
+    "link": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+    "summary": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in 2027. \"The scale of in...",
+    "pubDate": "2026-10-21T17:30:02-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "New York’s first microdrama film festival searches for its audience",
+    "link": "https://www.theverge.com/entertainment/1014494/alza-vertical-film-festival-bill-block-salvador-paskowitz-microdramas-verticals",
+    "summary": "It remains to be seen if people really want to watch vertical content on horizontal TV screens, but many filmmakers and creators were confident that their latest projects would play well at Alza - New York City's first microdrama film festival. Founded by former Tribeca Festival chief operating o...",
+    "pubDate": "2026-10-21T16:49:07-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Meta says it would’ve made over $22 billion if it didn’t have to pay a child safety settlement",
+    "link": "https://www.theverge.com/tech/1015877/meta-q3-2026-earnings-child-safety-settlement",
+    "summary": "Meta had to shell out $9.89 billion to pay for a chunk of the child safety settlement it reached with US attorneys general. That's according to the company's third-quarter earnings report released on Wednesday, which says Meta's income from operations would have been $22.89 billion without the se...",
+    "pubDate": "2026-10-21T16:46:56-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "PHP: The three letters that shut down sites all over the internet today",
+    "link": "https://www.theverge.com/tech/1015906/php2shell-vulnerability-october-2026",
+    "summary": "Two bugs found with AI are behind major issues today for 4chan, DeviantArt, Wikipedia, and the blog where the bar around the corner posts pictures of people's dogs. The \"critical vulnerabilities\" were discovered in the PHP programming language, which underpins much of the internet, including any ...",
+    "pubDate": "2026-10-21T16:36:56-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Flying Roadsters can’t lift Tesla’s flat Q3 revenues",
+    "link": "https://www.theverge.com/transportation/1015790/tesla-q3-2026-earnings-revenue-profit-roadster-spacex-merger",
+    "summary": "As the smoke clears from its outrageous Roadster demo, Tesla reported Q3 earnings on Wednesday - and the cold reality is that revenue has flatlined. Tesla said it earned $1.7 billion in net income on $28.0 billion in revenue in the quarter that ended in September 2026. Revenues were flat, while p...",
+    "pubDate": "2026-10-21T16:22:31-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Bose acquires Skullcandy to help it reach a wider audience",
+    "link": "https://www.theverge.com/tech/1015276/bose-acquisition-skullcandy-headphones-earbuds-speakers",
+    "summary": "Bose announced today it has acquired Skullcandy. Although the two companies are competitors in the consumer audio space, Skullcandy recently partnered with its new owner to bring several of Bose's audio technologies - including its head-tracking spatial audio and excellent active noise cancellati...",
+    "pubDate": "2026-10-21T16:15:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Airbnb bans making guests do dishes and take out the trash",
+    "link": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
+    "summary": "Checking out of your next Airbnb might be less of a hassle now that the company is banning hosts from including time-consuming chores in their house rules. Airbnb's updated house rules policy, which starts with reservations booked on or after November 20th, says hosts can't ask guests to \"complet...",
+    "pubDate": "2026-10-21T15:54:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+    "summary": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's available as a standalone app on iOS and Android and through C...",
+    "pubDate": "2026-10-21T15:53:20-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Walmart is inviting AI agents to shop for you",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+    "summary": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to use an AI agent on the site, with systems in place to let you approve and review purchases and set spending limits. The embrace of AI agents stands in stark contrast to Amazon, which [&#8230;]",
+    "pubDate": "2026-10-21T15:30:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Meta ordered to pay $25 billion in penalties over the Cambridge Analytica scandal",
+    "link": "https://www.theverge.com/policy/1015782/meta-new-mexico-cambridge-analytica-penalty",
+    "summary": "The Cambridge Analytica scandal has come back to haunt Meta after a New Mexico judge ordered it to pay $25 billion in penalties for more than 43 million violations of the state's unfair practices law. The ruling marks the biggest legal hit Meta has taken this year, even as it's faced several othe...",
+    "pubDate": "2026-10-21T15:02:49-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
     "title": "EA is shutting down BioWare",
     "link": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
     "summary": "BioWare, the legendary studio behind RPGs like Mass Effect, Dragon Age, and Star Wars: Knights of the Old Republic, is shutting down, the company confirmed in a statement. Alongside the closure, Electronic Arts has also chosen not to continue development on the next Mass Effect game that was in t...",
@@ -1422,6 +1950,22 @@
     "pubDate": "2026-10-21T07:49:17-04:00",
     "source": "The Verge",
     "category": "tech"
+  },
+  {
+    "title": "Surprise! White dwarf stars come in a rainbow of colours",
+    "link": "https://www.nature.com/articles/d41586-026-03319-1",
+    "summary": "Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03319-1 Analysis of some nearby stars shows that, despite their name, these bodies can be pink, yellow and more.",
+    "pubDate": "2026-10-21",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Teen depression and anxiety predicted by childhood brain development",
+    "link": "https://www.nature.com/articles/d41586-026-03357-9",
+    "summary": "Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03357-9 Analysis of nearly 30,000 brain scans yields detailed timeline of how the brain matures — and hints at the consequences of disrupting it.",
+    "pubDate": "2026-10-21",
+    "source": "Nature",
+    "category": "science"
   },
   {
     "title": "<i>De novo</i> design of enantioselective artificial metalloenzyme photocatalysts",

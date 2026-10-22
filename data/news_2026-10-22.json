@@ -288,10 +288,354 @@
     "category": "tech"
   },
   {
+    "title": "UK to draft in military aircraft to fight wildfires, Burnham says",
+    "link": "https://www.bbc.co.uk/news/articles/cwvgd7d4p2vmo?at_medium=RSS&at_campaign=rss",
+    "summary": "The prime minister is hosting the UK's first wildfire summit to prepare for future blazes after a record summer 2026.",
+    "pubDate": "Thu, 22 Oct 2026 21:35:21 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Dream night for Bournemouth - win over Milan a sign of Premier League power",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c6z981p24q1eo?at_medium=RSS&at_campaign=rss",
+    "summary": "Bournemouth's 3-0 win against AC Milan further illustrated the dominance of Premier League sides against their European counterparts.",
+    "pubDate": "Thu, 22 Oct 2026 21:30:31 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Prince William makes surprise appearance on Graham Norton Show",
+    "link": "https://www.bbc.co.uk/news/articles/c30rlpkglkwpo?at_medium=RSS&at_campaign=rss",
+    "summary": "The Prince of Wales was marking his Earthshot Prize, to which all of Norton's guests were linked.",
+    "pubDate": "Thu, 22 Oct 2026 21:21:22 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "US actor Tom Skerritt, who starred in Picket Fences, Mash and Alien, dies aged 93",
+    "link": "https://www.bbc.co.uk/news/articles/cqrkyly2p54xo?at_medium=RSS&at_campaign=rss",
+    "summary": "The actor died on Wednesday of natural causes, his family said.",
+    "pubDate": "Thu, 22 Oct 2026 21:10:36 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Rivian buys world model startup to accelerate self-driving ambitions",
+    "link": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
+    "summary": "Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator.",
+    "pubDate": "Thu, 22 Oct 2026 21:05:05 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Arc is being sunset on December 22, 2026",
+    "link": "https://resources.arc.net/hc/en-us/articles/20498285812375-Release-Notes",
+    "summary": "Article URL: https://resources.arc.net/hc/en-us/articles/20498285812375-Release-Notes Comments URL: https://news.ycombinator.com/item?id=50200947 Points: 13 # Comments: 9",
+    "pubDate": "Thu, 22 Oct 2026 20:59:38 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Items recovered in search for missing fishing boat and crew",
+    "link": "https://www.bbc.co.uk/news/articles/c6m2dwddl3xlo?at_medium=RSS&at_campaign=rss",
+    "summary": "Tam Murray, 40 and Murdo Morrison, 23 remain missing after their vessel disappeared off Lewis and the body of crewmate Douglas Craigie was found at sea.",
+    "pubDate": "Thu, 22 Oct 2026 20:54:02 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
+    "link": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
+    "summary": "Flubbed key signing \"ceremony\" allowed minting of web credentials for any site.",
+    "pubDate": "Thu, 22 Oct 2026 20:17:52 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "See the Pokémon cards that made a retired decorator a millionaire",
+    "link": "https://www.bbc.co.uk/news/videos/cmvg9v932z5vo?at_medium=RSS&at_campaign=rss",
+    "summary": "A man from Surrey is now a millionaire after selling a collection of Pokémon cards at auction.",
+    "pubDate": "Thu, 22 Oct 2026 20:13:24 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The Google Home Speaker Has Been Secretly Eating My Wi-Fi Data",
+    "link": "https://www.wired.com/story/google-home-speaker-bug-oct-2026/",
+    "summary": "My Google Home Speaker had been burning through more data than all the rest of my devices combined. As I looked into it further, I found other smart home devices that had the same problem.",
+    "pubDate": "Thu, 22 Oct 2026 20:05:51 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
+    "link": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/",
+    "summary": "Arc was fiercely beloved by a dedicated group of enthusiasts, but it never quite became the mass-market Chrome alternative its makers once envisioned.",
+    "pubDate": "Thu, 22 Oct 2026 20:01:51 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "The secret to fast startup growth isn’t early sales, top names in tech say",
+    "link": "https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/",
+    "summary": "At this year’s Disrupt, Lovable GTM lead Luke Arno, Polsia's Ben Broca, and Theory Ventures’ Tomasz Tunguz gave founders some tips on how to achieve true sales success in the first 90 days.",
+    "pubDate": "Thu, 22 Oct 2026 20:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Leaked Mass Effect: Universe trailer gives a taste of what we're all missing",
+    "link": "https://arstechnica.com/gaming/2026/10/leaked-mass-effect-universe-trailer-gives-a-taste-of-what-were-all-missing/",
+    "summary": "We can't have nice things, but at least we can get trailers for them.",
+    "pubDate": "Thu, 22 Oct 2026 19:59:37 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "The Social Society Helping Women Join the AI Boom",
+    "link": "https://www.wired.com/story/aged-intelligence-society-interview/",
+    "summary": "WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to “solve midlife problems using frontier tools.”",
+    "pubDate": "Thu, 22 Oct 2026 19:56:32 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Woman charged after police officer injured in shooting",
+    "link": "https://www.bbc.co.uk/news/articles/c8n5ve5gg35no?at_medium=RSS&at_campaign=rss",
+    "summary": "The officer was injured after approaching two people at a bus stop in Nottingham city centre.",
+    "pubDate": "Thu, 22 Oct 2026 19:52:40 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
+    "link": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
+    "summary": "Ole Bielfeldt of Germany captured a microscopic view of an inkjet printer depositing ink onto paper.",
+    "pubDate": "Thu, 22 Oct 2026 19:34:40 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "A complete bypass of eMudhra’s 1FA OTP login system",
+    "link": "https://mastodon.catgirl.cloud/@49016/117475976434068995",
+    "summary": "Article URL: https://mastodon.catgirl.cloud/@49016/117475976434068995 Comments URL: https://news.ycombinator.com/item?id=50199757 Points: 116 # Comments: 31",
+    "pubDate": "Thu, 22 Oct 2026 19:14:01 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+    "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+    "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+    "pubDate": "Thu, 22 Oct 2026 19:07:09 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Inside the Exclusive Nathan Fielder Interview",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-inside-the-secret-nathan-fielder-interview/",
+    "summary": "This week on “Uncanny Valley,” we go behind the scenes of our Nathan Fielder cover story, unpack tech billionaires’ generous promises, and discuss the suspicious letters sent to US election offices.",
+    "pubDate": "Thu, 22 Oct 2026 19:06:37 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "\"Disillusioned\" MAHA leader quits as Trump admin's food agenda spoils: Report",
+    "link": "https://arstechnica.com/health/2026/10/disillusioned-maha-leader-quits-as-trump-admins-food-agenda-spoils-report/",
+    "summary": "The departure comes amid turmoil in Kennedy's Make America Healthy Again movement.",
+    "pubDate": "Thu, 22 Oct 2026 19:04:06 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Electric or gas? BMW goes both ways with new 2027 X5 and iX5.",
+    "link": "https://arstechnica.com/cars/2026/10/electric-or-gas-bmw-goes-both-ways-with-new-2027-x5-and-ix5/",
+    "summary": "460 kW charging and 450 miles of range are among the reasons the EV is the one to get.",
+    "pubDate": "Thu, 22 Oct 2026 19:01:23 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Canva releases its first image generation model",
+    "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+    "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+    "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+    "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+    "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+    "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Samsung all but confirms iPhone Duo is goosing Galaxy Z8 sales",
+    "link": "https://arstechnica.com/gadgets/2026/10/samsung-all-but-confirms-iphone-duo-is-goosing-galaxy-z8-sales/",
+    "summary": "Searches for Samsung foldables just happened to skyrocket following iPhone Duo unveiling.",
+    "pubDate": "Thu, 22 Oct 2026 18:49:14 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
+    "link": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
+    "summary": "Article URL: https://github.com/maxilevi/project-hedra/tree/pre-ai Comments URL: https://news.ycombinator.com/item?id=50199389 Points: 63 # Comments: 15",
+    "pubDate": "Thu, 22 Oct 2026 18:44:36 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+    "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+    "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
+    "pubDate": "Thu, 22 Oct 2026 18:43:53 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Show HN: Build a world on your phone, explore it in XR on Vision Pro and Quest",
+    "link": "https://3d.camilleworld.com/play/",
+    "summary": "Article URL: https://3d.camilleworld.com/play/ Comments URL: https://news.ycombinator.com/item?id=50199349 Points: 11 # Comments: 2",
+    "pubDate": "Thu, 22 Oct 2026 18:39:39 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
+    "link": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
+    "summary": "Wearing cameras and sensor gloves, the startup’s human chemists will train robots to perform various lab tasks.",
+    "pubDate": "Thu, 22 Oct 2026 18:38:47 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Show HN: UI micro interactions prompts for AI",
+    "link": "https://www.typeui.sh/micro-interactions",
+    "summary": "Article URL: https://www.typeui.sh/micro-interactions Comments URL: https://news.ycombinator.com/item?id=50199290 Points: 54 # Comments: 24",
+    "pubDate": "Thu, 22 Oct 2026 18:32:57 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Lockerbie bombing accused loses bid to have case thrown out",
+    "link": "https://www.bbc.co.uk/news/articles/cw1l3q1z8358o?at_medium=RSS&at_campaign=rss",
+    "summary": "Abu Agila Mas'ud al-Marimi had claimed he was victim of an illegal rendition when he was transferred into US custody.",
+    "pubDate": "Thu, 22 Oct 2026 18:30:56 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "US official: Russia's stalker satellite sure looks like an orbital weapon",
+    "link": "https://arstechnica.com/space/2026/10/russia-claims-its-stalker-satellite-is-purely-peaceful-in-character/",
+    "summary": "The Russian official who called commercial satellites \"legitimate targets\" now says concerns are \"unfounded.\"",
+    "pubDate": "Thu, 22 Oct 2026 18:29:39 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "AI and the Enclosure of the Scientific Commons",
+    "link": "https://arxiv.org/abs/2610.27251",
+    "summary": "Article URL: https://arxiv.org/abs/2610.27251 Comments URL: https://news.ycombinator.com/item?id=50199230 Points: 60 # Comments: 27",
+    "pubDate": "Thu, 22 Oct 2026 18:28:16 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Bruno Fernandes has home burgled while in Italy with Man Utd",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cq9vz19p41x8o?at_medium=RSS&at_campaign=rss",
+    "summary": "Manchester United captain Bruno Fernandes had his home burgled on Wednesday while he was in Italy for his club's Champions League game against Como.",
+    "pubDate": "Thu, 22 Oct 2026 18:04:21 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Anker Soundcore Space 2 Are at Their Lowest Price Ever",
+    "link": "https://www.wired.com/story/anker-soundcore-space-2-deal-october-2026/",
+    "summary": "The Anker Soundcore Space 2 are a good deal even at full price. The fact they’re 18 percent off is just icing on the cake.",
+    "pubDate": "Thu, 22 Oct 2026 18:03:44 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
+    "link": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
+    "summary": "Article URL: https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients Comments URL: https://news.ycombinator.com/item?id=50198940 Points: 55 # Comments: 30",
+    "pubDate": "Thu, 22 Oct 2026 18:02:54 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Show HN: agent-usage-guard – a Claude Code mod to protect your usage window",
+    "link": "https://github.com/rbartoli/agent-usage-guard",
+    "summary": "Article URL: https://github.com/rbartoli/agent-usage-guard Comments URL: https://news.ycombinator.com/item?id=50198936 Points: 15 # Comments: 7",
+    "pubDate": "Thu, 22 Oct 2026 18:02:38 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "A New Ice Age Was Beginning. Then Humans Started Burning Fossil Fuels",
+    "link": "https://www.wired.com/story/ice-age-beginning-then-humans-started-burning-fossil-fuels/",
+    "summary": "Ancient plants reveal that the vestiges of the North American ice sheet started expanding a few thousand years ago, but that climate change caused it to reverse course.",
+    "pubDate": "Thu, 22 Oct 2026 18:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Brook underlines status as world's best all-format batter in remarkable defeat",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/cmd93kw9q5v3o?at_medium=RSS&at_campaign=rss",
+    "summary": "Once the disappointment of defeat dissipates, Harry Brook can reflect on another starring role with the bat which underlines his status as the world's best all-format batter, says Stephan Shemilt.",
+    "pubDate": "Thu, 22 Oct 2026 17:52:45 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Watch: Ukraine hit by strikes after Russia agrees to new peace talks",
+    "link": "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss",
+    "summary": "The three waves of Russian missiles were launched at hours after Russia said it was \"ready in principle\" to resume peace talks with the US and Ukraine.",
+    "pubDate": "Thu, 22 Oct 2026 17:49:13 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+    "link": "https://github.com/NVIDIA/OpenShell",
+    "summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 196 # Comments: 100",
+    "pubDate": "Thu, 22 Oct 2026 17:44:06 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Elon Musk made a $1B investment in Skydance, report says",
+    "link": "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/",
+    "summary": "The investment will provide a much-needed financial boost as the company seeks to cut costs and lift its stock price.",
+    "pubDate": "Thu, 22 Oct 2026 17:36:38 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
     "title": "Sri Lanka make 430 to beat England after Brook's 202",
     "link": "https://www.bbc.co.uk/sport/cricket/articles/cq99z35zpgzmo?at_medium=RSS&at_campaign=rss",
     "summary": "Harry Brook’s first double century by an England batter in a one-day international is not enough to prevent his team being stunned by Sri Lanka, who pull off a remarkable chase of 430 in Rawalpindi.",
     "pubDate": "Thu, 22 Oct 2026 17:30:08 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "What next for Australia after chastening defeat by South Africa?",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/cmg473p9vz6xo?at_medium=RSS&at_campaign=rss",
+    "summary": "Problems mounting up for Australia after their humbling against South Africa in second Test.",
+    "pubDate": "Thu, 22 Oct 2026 17:25:22 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "'Looksmaxxing' influencer Clavicular pleads not guilty to rape charge",
+    "link": "https://www.bbc.co.uk/news/articles/cqwy71ldj3w9o?at_medium=RSS&at_campaign=rss",
+    "summary": "The influencer, whose real name is Braden Peters, is accused of sexually assaulting a 17-year-old girl in 2025.",
+    "pubDate": "Thu, 22 Oct 2026 17:21:42 GMT",
     "source": "BBC News",
     "category": "general"
   },
@@ -360,6 +704,14 @@
     "category": "general"
   },
   {
+    "title": "a hacky fucked up way to portably access errno from outside of c",
+    "link": "https://sebsite.pw/w/20260925-errno.html",
+    "summary": "Comments",
+    "pubDate": "Thu, 22 Oct 2026 16:42:04 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Prepare for supply chain disruption from cyber or climate emergencies, Streeting warns public",
     "link": "https://www.bbc.co.uk/news/articles/cwd094x57p32o?at_medium=RSS&at_campaign=rss",
     "summary": "The defence secretary says the UK needs to be ready for scenarios including impact to essential supply chains.",
@@ -400,12 +752,28 @@
     "category": "general"
   },
   {
+    "title": "Mini brain organoids ‘reading’ Braille key step towards biohybrid computing",
+    "link": "https://www.frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence",
+    "summary": "Article URL: https://www.frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence Comments URL: https://news.ycombinator.com/item?id=50197450 Points: 27 # Comments: 18",
+    "pubDate": "Thu, 22 Oct 2026 16:16:45 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "Getting ready to operate GNU Taler in Germany",
     "link": "https://www.taler.net/en/news/2026-13.html",
     "summary": "Article URL: https://www.taler.net/en/news/2026-13.html Comments URL: https://news.ycombinator.com/item?id=50197404 Points: 26 # Comments: 5",
     "pubDate": "Thu, 22 Oct 2026 16:14:31 +0000",
     "source": "Hacker News",
     "category": "tech"
+  },
+  {
+    "title": "Actor Tom Skerritt, who played dads, cops and commanding officers, has died",
+    "link": "https://www.npr.org/2026/10/22/981035400/tom-skerritt-dead",
+    "summary": "Skerritt was Captain Dallas in Alien , Viper in Top Gun , and a small town sheriff in the TV series Picket Fences .",
+    "pubDate": "Thu, 22 Oct 2026 16:12:52 -0400",
+    "source": "NPR",
+    "category": "general"
   },
   {
     "title": "Man, 61, charged with murder after 'stabbed' woman dies following crash",
@@ -520,6 +888,14 @@
     "category": "tech"
   },
   {
+    "title": "Federal judge restricts DHS field operations looking for noncitizen voters",
+    "link": "https://www.npr.org/2026/10/22/nx-s1-6012682/judge-dhs-noncitizen-voting-operations",
+    "summary": "The judge found the department's field operations to identify noncitizens who voted likely violated the Voting Rights Act, which bars voter intimidation.",
+    "pubDate": "Thu, 22 Oct 2026 15:16:20 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "Investors break down how founders can raise a Series A today",
     "link": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
     "summary": "Raising a Series A these days isn't so simple — top investors break down what founders need to know now.",
@@ -533,6 +909,14 @@
     "summary": "The Fellow Aiden Precision Coffee Maker is a smart, high-end machine that offers pour-over quality. You can get it refurbished from the brand for 25 percent off.",
     "pubDate": "Thu, 22 Oct 2026 15:14:37 +0000",
     "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Docker is weird",
+    "link": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+    "summary": "Comments",
+    "pubDate": "Thu, 22 Oct 2026 15:09:22 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -672,6 +1056,14 @@
     "category": "tech"
   },
   {
+    "title": "Woman faces six years in prison over Cash App account she never opened",
+    "link": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
+    "summary": "Article URL: https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html Comments URL: https://news.ycombinator.com/item?id=50194833 Points: 291 # Comments: 284",
+    "pubDate": "Thu, 22 Oct 2026 13:11:00 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "Forget \"Malaise 2.0,\" GM says it's still all-in on EVs and autonomy",
     "link": "https://arstechnica.com/cars/2026/10/forget-malaise-2-0-gm-says-its-still-all-in-on-evs-and-autonomy/",
     "summary": "General Motors' plans will require quite a lot of customers' trust.",
@@ -688,11 +1080,27 @@
     "category": "tech"
   },
   {
+    "title": "What is your opinion on submission quality since the `vibecoding` tag was removed?",
+    "link": "https://lobste.rs/s/nmurnh/what_is_your_opinion_on_submission",
+    "summary": "Were concerns about its removal real, or has its absence moderated content to be higher quality? Were there any unexpected consequences? Is anyone willing to admit that their hope for its removal, or fear of its removal was misplaced? Is lobsters better or worse without it?",
+    "pubDate": "Thu, 22 Oct 2026 12:56:51 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "The Last Museum: Semantic search across 5.8M artworks from major museums",
     "link": "https://lastmuseum.com/",
     "summary": "Article URL: https://lastmuseum.com/ Comments URL: https://news.ycombinator.com/item?id=50194522 Points: 54 # Comments: 19",
     "pubDate": "Thu, 22 Oct 2026 12:40:04 +0000",
     "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Objects, attributes, maps, oh my",
+    "link": "https://bernsteinbear.com/blog/object-shapes/",
+    "summary": "Comments",
+    "pubDate": "Thu, 22 Oct 2026 12:35:52 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -1320,6 +1728,86 @@
     "category": "tech"
   },
   {
+    "title": "PC shipments dropped over 20 percent in Q3 due to RAM price hikes",
+    "link": "https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram",
+    "summary": "Demand for new PCs took a hit after months of price hikes, with Counterpoint Research reporting global PC shipments fell 21 percent year-over-year in Q3 2026. That's in line with earlier reports from IDC and Omdia. It's not just PCs, either - that same quarter, smartphone shipments also hit a 14-...",
+    "pubDate": "2026-10-22T17:30:39-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Fall 2026 earnings watch",
+    "link": "https://www.theverge.com/tech/1016506/fall-2026-earnings-watch",
+    "summary": "Every company is suddenly an AI company. Compute is an asset. Cars are flying. We’ve been promised robots — again. It’s time again to dig through earnings reports, listen to investor calls, and call out the latest wins and losses from around the tech sector and what it means for where the compani...",
+    "pubDate": "2026-10-22T17:15:16-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
+    "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+    "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your products or services' [l...",
+    "pubDate": "2026-10-22T16:32:05-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Meta turns Muse sharing back on",
+    "link": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+    "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application. Researchers a...",
+    "pubDate": "2026-10-22T16:24:04-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "The FCC is beginning to block gadgets with ‘foreign surveillance chips’",
+    "link": "https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole",
+    "summary": "On October 13th, Brendan Carr's FCC gave itself a new power - it can block gadgets for containing any computer chip made by any company on its list of potential threats to national security. Today, it's exercising that power for the first time, blocking two gadgets because they contain \"foreign s...",
+    "pubDate": "2026-10-22T16:23:48-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+    "summary": "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger! The degree to which you find this merger compelling likely has to do with the degr...",
+    "pubDate": "2026-10-22T15:45:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Teenage Engineering launched an instrument amp with a ton of built-in effects",
+    "link": "https://www.theverge.com/gadgets/1017022/teenage-engineering-ep-35-instrument-amp",
+    "summary": "Teenage Engineering is branching out into instrument amps with the previously leaked EP-35, a multi-input, multi-instrument, battery-powered amp with built-in effects. The back of the unit has a line-in port, as well as a 1/4-inch guitar input and an XLR input for mics, including mics that requir...",
+    "pubDate": "2026-10-22T15:44:51-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Republican politicians have embraced anti-Indian racism — and it’s costing them votes",
+    "link": "https://www.theverge.com/report/1017003/indian-americans-republican-racism-vivek-ramaswamy-texas",
+    "summary": "Two years ago, University of Houston student Vasant Bhatt was doing everything he could to help Republicans regain power. He knocked doors for Sen. Ted Cruz's reelection campaign and helped organize his community for Donald Trump, two victories he, like many other Republicans, celebrated in 2024....",
+    "pubDate": "2026-10-22T15:15:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Google tells Android users to update as parts of Canada adopt permanent daylight saving time",
+    "link": "https://www.theverge.com/tech/1016977/google-android-incorrect-time-daylight-saving-permanent-canada",
+    "summary": "As the US gets closer to permanently adopting daylight saving time following the House advancing the Sunshine Protection Act in July, there could be some unforeseen consequences to getting an extra hour of sun in the evening all year long. Following the Canadian provinces of British Columbia and ...",
+    "pubDate": "2026-10-22T15:13:42-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Discord now formats Markdown previews right",
+    "link": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
+    "summary": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved previews could be he...",
+    "pubDate": "2026-10-22T14:58:19-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
     "title": "Someone hacked the Switch 2 by using an old game and AI",
     "link": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
     "summary": "The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom version of Mario Kart World featuring new playable characters like Cinnamoroll, the red Angry Bird, Peter Griffin, and Steve from Minecraft. OpenAI's Codex helped make this \"ns2jb\" ja...",
@@ -1414,6 +1902,14 @@
     "pubDate": "2026-10-22T07:00:00-04:00",
     "source": "The Verge",
     "category": "tech"
+  },
+  {
+    "title": "A first for CRISPR: powerful prime editing alters DNA directly in the human body",
+    "link": "https://www.nature.com/articles/d41586-026-03371-x",
+    "summary": "Nature, Published online: 22 October 2026; doi:10.1038/d41586-026-03371-x Application of the high-precision technique is part of a clinical trial to treat a genetic disease that can cause liver and nerve damage.",
+    "pubDate": "2026-10-22",
+    "source": "Nature",
+    "category": "science"
   },
   {
     "title": "Can a 'lullaby' save coral reefs from extinction?",

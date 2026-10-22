@@ -24,6 +24,14 @@
     "category": "general"
   },
   {
+    "title": "Using a lookup-table to correct an approximation",
+    "link": "https://www.corsix.org/content/using-a-lookup-table-to-correct-an-approximation",
+    "summary": "Comments",
+    "pubDate": "Wed, 21 Oct 2026 23:18:37 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "There isn't an easy exploit for this PHP vulnerability",
     "link": "https://eliastaylor.com/noexploit/",
     "summary": "Article URL: https://eliastaylor.com/noexploit/ Comments URL: https://news.ycombinator.com/item?id=50188948 Points: 308 # Comments: 147",
@@ -240,6 +248,46 @@
     "category": "tech"
   },
   {
+    "title": "Using LLM for confidence scoring is a bad idea",
+    "link": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+    "summary": "Article URL: https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html Comments URL: https://news.ycombinator.com/item?id=50176082 Points: 116 # Comments: 61",
+    "pubDate": "Wed, 21 Oct 2026 04:27:51 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "把 Muse 装进 ESP-Mosaico：做一个没用的东西，证明 Vibe Coding 也在硬件领域快速成长",
+    "link": "https://sspai.com/post/115437",
+    "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
+    "pubDate": "Thu, 22 Oct 2026 17:10:03 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "前瞻｜Apple 新品看点：MacBook 或将推出 OLED 触屏版本",
+    "link": "https://sspai.com/post/116923",
+    "summary": "配备触摸屏的 OLED 版 MacBook 型号很可能是这次活动的主角。 查看全文",
+    "pubDate": "Thu, 22 Oct 2026 15:00:00 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "Katie Price's ex not guilty of raping girl, 13",
+    "link": "https://www.bbc.co.uk/news/articles/cw1m4pmvx1xdo?at_medium=RSS&at_campaign=rss",
+    "summary": "Kieran Hayler had denied rape, sexual assault and sexual activity with a child at his trial.",
+    "pubDate": "Thu, 22 Oct 2026 11:53:25 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure",
+    "link": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/",
+    "summary": "Article URL: https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/ Comments URL: https://news.ycombinator.com/item?id=50194070 Points: 6 # Comments: 0",
+    "pubDate": "Thu, 22 Oct 2026 11:50:36 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "终于吃到了那颗梦寐以求的小药丸：我的 ADHD 诊疗记",
     "link": "https://sspai.com/post/115090",
     "summary": "药物不能解决所有问题，这是是我学到的重要一课。 查看全文",
@@ -248,12 +296,284 @@
     "category": "tech-cn"
   },
   {
+    "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
+    "link": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
+    "summary": "For 3 days this month, 333 exit nodes were hacked in hopes of stealing sensitive data.",
+    "pubDate": "Thu, 22 Oct 2026 11:30:33 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "At least four dead after storm brings flooding to southern France",
+    "link": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss",
+    "summary": "The deaths include two women found drowned in a cellar in the Bouches-du-Rhône region.",
+    "pubDate": "Thu, 22 Oct 2026 11:23:16 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "UN says we're going to blow past 1.5º warming, offers a \"now what?\" answer",
+    "link": "https://arstechnica.com/science/2026/10/un-accepts-the-obvious-were-not-going-to-avoid-a-1-5o-c-warming/",
+    "summary": "Best case is now an overshoot to 1.8º C, accompanied by massive carbon removal.",
+    "pubDate": "Thu, 22 Oct 2026 11:15:36 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Tour de France UK stages in detail - where can you watch?",
+    "link": "https://www.bbc.co.uk/sport/cycling/articles/cq1kd0z33r8ro?at_medium=RSS&at_campaign=rss",
+    "summary": "The full route for the 2027 Tour de France is announced in Paris, with street-by-street details of the six stages in the UK revealed.",
+    "pubDate": "Thu, 22 Oct 2026 11:14:49 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
+    "link": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
+    "summary": "Article URL: https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities Comments URL: https://news.ycombinator.com/item?id=50193804 Points: 48 # Comments: 9",
+    "pubDate": "Thu, 22 Oct 2026 11:12:37 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Moment man rescued from sinking car by Australian TV reporter",
+    "link": "https://www.bbc.co.uk/news/videos/cwdr8zm3r5gko?at_medium=RSS&at_campaign=rss",
+    "summary": "Journalist Will Murray describes how he and a bystander saved an SUV driver from his vehicle.",
+    "pubDate": "Thu, 22 Oct 2026 11:08:33 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "First human case of Shamonda virus detected in France, officials say",
+    "link": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss",
+    "summary": "The disease, which usually affects cattle, has been identified in a patient who died in early October.",
+    "pubDate": "Thu, 22 Oct 2026 11:04:14 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "'Ten years of hate and abuse' - Schoeman on viral victory over Brownlees",
+    "link": "https://www.bbc.co.uk/sport/triathlon/articles/cmx23dvewq9po?at_medium=RSS&at_campaign=rss",
+    "summary": "Henri Schoeman, who took a viral 2016 Triathlon World Series Grand Final over Jonny Brownlee, reveals the decade of abuse in the race's aftermath.",
+    "pubDate": "Thu, 22 Oct 2026 11:01:04 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Russell Brand accuser said alleged rape 'really hurt', court hears",
+    "link": "https://www.bbc.co.uk/news/articles/c9e8lz4mrg88o?at_medium=RSS&at_campaign=rss",
+    "summary": "The friend of a woman claiming to have been raped by Russell Brand says she said he was \"quite aggressive\".",
+    "pubDate": "Thu, 22 Oct 2026 11:00:35 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "'Not what a captain should be' - the debate around Fernandes' outburst",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cq5ynp67grjro?at_medium=RSS&at_campaign=rss",
+    "summary": "Bruno Fernandes' comments after Manchester United's humbling by Como have got fans and pundits talking - but what now for the captain?",
+    "pubDate": "Thu, 22 Oct 2026 10:58:19 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Retired decorator's Pokémon cards sell for £1.5m after years in attic",
+    "link": "https://www.bbc.co.uk/news/articles/cvp8gy1zwxxwo?at_medium=RSS&at_campaign=rss",
+    "summary": "He says he found treasure in his attic where the collection had been stored for 15 years.",
+    "pubDate": "Thu, 22 Oct 2026 10:58:13 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Meta’s Ad Sales Are Suffering Now That Europeans Can Pick Less Personalization",
+    "link": "https://www.wired.com/story/metas-ad-sales-suffering-now-europeans-can-pick-less-personalization/",
+    "summary": "An earnings briefing on Wednesday revealed ad revenue has slowed since the European Union introduced the Less-Personalized Ads model at the beginning of this year.",
+    "pubDate": "Thu, 22 Oct 2026 10:43:13 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Two storms in two days as Austen and Boelo head for UK",
+    "link": "https://www.bbc.co.uk/weather/articles/ckx2qpy2d13ro?at_medium=RSS&at_campaign=rss",
+    "summary": "The Met Office has named a new storm, Boelo, which is set to bring another round of stormy weather to the UK over the weekend.",
+    "pubDate": "Thu, 22 Oct 2026 10:34:17 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "I Worked for a Whole Day Using Only the iPhone Duo. Here’s How It Went",
+    "link": "https://www.wired.com/story/i-worked-for-a-whole-day-using-only-the-iphone-duo-heres-how-it-went/",
+    "summary": "A portable keyboard and kickstand make it a viable emergency workstation—even if iOS still gets in the way.",
+    "pubDate": "Thu, 22 Oct 2026 10:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Legendary video game studio BioWare closes after 31 years",
+    "link": "https://www.bbc.co.uk/news/articles/cq8jzrxlkmwmo?at_medium=RSS&at_campaign=rss",
+    "summary": "The influential studio that made Mass Effect and Dragon Age announces it is closing its doors.",
+    "pubDate": "Thu, 22 Oct 2026 10:25:33 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Zoe Kleinman: PHP is the cyber equivalent of an unexploded bomb",
+    "link": "https://www.bbc.co.uk/news/articles/cw98z6qlyvg3o?at_medium=RSS&at_campaign=rss",
+    "summary": "It has been a dramatic, public and global response, but the cyber event hasn't happened yet.",
+    "pubDate": "Thu, 22 Oct 2026 10:17:26 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "They Believe 2020 Was Stolen. They Could Be in Charge of Elections in 2028",
+    "link": "https://www.wired.com/story/they-believe-2020-was-stolen-they-could-be-in-charge-of-elections-in-2028/",
+    "summary": "A host of election-denying candidates are running for attorney general in states across the country.",
+    "pubDate": "Thu, 22 Oct 2026 10:15:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Greenlight Family Hub (2026): Finally, a Digital Wall Calendar With a Voice Assistant",
+    "link": "https://www.wired.com/story/greenlight-hub-voice-assistant-feature/",
+    "summary": "After testing multiple models, I’m convinced voice control belongs on the family calendar. Greenlight’s Family Hub shows why.",
+    "pubDate": "Thu, 22 Oct 2026 10:01:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
+    "link": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
+    "summary": "The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
+    "pubDate": "Thu, 22 Oct 2026 10:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Police investigate Married at First Sight Australia after 'inappropriate' allegations",
+    "link": "https://www.bbc.co.uk/news/articles/cry83vyw3y4lo?at_medium=RSS&at_campaign=rss",
+    "summary": "New South Wales Police say inquiries took place \"following a report of inappropriate content being shared\".",
+    "pubDate": "Thu, 22 Oct 2026 09:47:54 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+    "link": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
+    "summary": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
+    "pubDate": "Thu, 22 Oct 2026 09:37:58 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "MI5 spied on NHS founder Nye Bevan for more than 20 years, newly released files show",
+    "link": "https://www.bbc.co.uk/news/articles/c3n049jr2ge5o?at_medium=RSS&at_campaign=rss",
+    "summary": "He came to its attention in the 1930s when he was considered a left-wing firebrand.",
+    "pubDate": "Thu, 22 Oct 2026 09:35:34 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+    "link": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
+    "summary": "Article URL: https://globus.software/blog/2026/10/16/cutting-map-polygons/ Comments URL: https://news.ycombinator.com/item?id=50193170 Points: 60 # Comments: 13",
+    "pubDate": "Thu, 22 Oct 2026 09:31:18 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "This Preamp Costs More Than a Fancy Sports Car",
+    "link": "https://www.wired.com/story/goldmund-preamp-costs-more-than-a-sports-car/",
+    "summary": "Goldmund’s $240,000 Mimesis Statement is an exercise in extreme Swiss sound engineering—and only one part of a $1.5 million audio setup.",
+    "pubDate": "Thu, 22 Oct 2026 09:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Some New Yorkers back ban on horse-drawn carriages, but drivers fear for incomes",
+    "link": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&at_campaign=rss",
+    "summary": "As councillors prepare to banish the vehicles, views in Central Park are divided over the 160-year-old tradition.",
+    "pubDate": "Thu, 22 Oct 2026 09:06:48 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+    "link": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
+    "summary": "Article URL: https://nvd.nist.gov/vuln/detail/cve-2026-111943 Comments URL: https://news.ycombinator.com/item?id=50192900 Points: 177 # Comments: 44",
+    "pubDate": "Thu, 22 Oct 2026 08:51:31 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "派早报：荣耀发布 WIN2 系列新品、Google 开源 TorchTPU 等",
     "link": "https://sspai.com/post/116953",
     "summary": "OpenBSD 8.0 正式发布、腾讯宣布元宝搜索对外开放等。 查看全文",
     "pubDate": "Thu, 22 Oct 2026 08:29:05 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "Jailbreaking the Switch 2",
+    "link": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+    "summary": "Article URL: https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/ Comments URL: https://news.ycombinator.com/item?id=50192536 Points: 96 # Comments: 25",
+    "pubDate": "Thu, 22 Oct 2026 08:01:52 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "U.S., Israel may attack Iran post-elections. And, SpaceX and Tesla consider merging",
+    "link": "https://www.npr.org/2026/10/22/g-s1-149315/up-first-newsletter-midterm-campaign-israel-iran-elon-musk-spacex-tesla",
+    "summary": "The U.S. and Israel are planning for a possible post-elections attack on Iran, an anonymous source tells NPR. And, Elon Musk considers merging his companies SpaceX and Tesla.",
+    "pubDate": "Thu, 22 Oct 2026 07:28:24 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Create a Canarytoken. Deploy it somewhere",
+    "link": "https://canarytokens.org/nest/",
+    "summary": "Comments",
+    "pubDate": "Thu, 22 Oct 2026 06:17:02 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Is the UK set to green-light a huge untapped oil field in the North Atlantic?",
+    "link": "https://www.bbc.co.uk/news/videos/cxnv0emj06v1o?at_medium=RSS&at_campaign=rss",
+    "summary": "Scotland editor James Cook visits Rosebank - the UK's largest known untapped oilfield - in the North Atlantic.",
+    "pubDate": "Thu, 22 Oct 2026 06:09:44 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "How Arab parties could hold critical balance of power in Israeli election",
+    "link": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
+    "summary": "Disaffection has often driven down turnout among Arab Israelis, but there is a strong push to get rid of the right-wing governing coalition.",
+    "pubDate": "Thu, 22 Oct 2026 05:30:22 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Three configurable prettyprinters (2023)",
+    "link": "https://reasonableapproximation.net/2023/08/10/three-configurable-prettyprinters.html",
+    "summary": "Comments",
+    "pubDate": "Thu, 22 Oct 2026 05:28:49 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "OpenAI CLI",
+    "link": "https://github.com/openai/openai-cli",
+    "summary": "Article URL: https://github.com/openai/openai-cli Comments URL: https://news.ycombinator.com/item?id=50191507 Points: 148 # Comments: 79",
+    "pubDate": "Thu, 22 Oct 2026 05:23:11 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Vickery's journey from World Cup winner to bodybuilder at 50",
+    "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ckdd8re793zdo?at_medium=RSS&at_campaign=rss",
+    "summary": "Why England Rugby World Cup winner Phil Vickery has started entering bodybuilding competitions at the age of 50.",
+    "pubDate": "Thu, 22 Oct 2026 05:14:22 GMT",
+    "source": "BBC News",
+    "category": "general"
   },
   {
     "title": "UK working to identify exposure after global cyber-security warning",
@@ -269,6 +589,78 @@
     "summary": "Dame Judi Dench tells BBC Radio 4's Today programme about how her eye condition has affected her life.",
     "pubDate": "Thu, 22 Oct 2026 05:01:01 GMT",
     "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "5 simple ways to relieve the aches and pains of sitting at a desk all day",
+    "link": "https://www.npr.org/2026/10/22/nx-s1-6010506/5-simple-ways-to-relieve-the-aches-and-pains-of-sitting-at-a-desk-all-day",
+    "summary": "Sitting at a desk all day hurts. And it isn't good for us. Strategies to make it a little more comfortable, from eye muscle exercises to alleviate eye strain to a back pain-fighting body movement.",
+    "pubDate": "Thu, 22 Oct 2026 05:01:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Farm country has beef with Trump as midterms approach",
+    "link": "https://www.npr.org/2026/10/22/nx-s1-6011214/farm-country-has-beef-with-trump-as-midterms-approach",
+    "summary": "President Trump's attempts to bring beef prices down has potentially backfired politically in several key states.",
+    "pubDate": "Thu, 22 Oct 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Trump merchandise stores are closing: 'He has peaked'",
+    "link": "https://www.npr.org/2026/10/22/nx-s1-6002970/trump-merchandise-stores-closing-maga-midterms",
+    "summary": "At least four Trump merchandise stores have closed this year. Store owners say with Trump in his final term, there isn't as much to fire up his consumer fan base and sales have softened.",
+    "pubDate": "Thu, 22 Oct 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "A GOP congressman voted to cut Medicaid. It covers 62% of his district. Can he win?",
+    "link": "https://www.npr.org/2026/10/22/nx-s1-6002928/republican-congress-midterms-medicaid-cuts-david-valadao-california",
+    "summary": "Republican U.S. Rep. David Valadao is fighting for reelection in central California. 6 in 10 residents of his district are covered by Medicaid, which he voted to cut last year.",
+    "pubDate": "Thu, 22 Oct 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Trump's redistricting gave Republicans a head start, now it goes to the voters",
+    "link": "https://www.npr.org/2026/10/22/nx-s1-6004891/trump-redistricting-advantage-midterms",
+    "summary": "President Trump, seeking to reshape the voting map, prompted a rare wave of mid-decade redistricting that gave Republicans a boost for holding the House. But the voters will determine if it works.",
+    "pubDate": "Thu, 22 Oct 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "How long does it take to save up for a starter home? Twice as long as it did in 2019",
+    "link": "https://www.npr.org/2026/10/22/nx-s1-6009378/down-payment-real-estate-affordability",
+    "summary": "A new analysis finds that the average renter household now needs 16 years to save for a down payment and closing costs. Rising rents and other costs have consumed a growing share of household budgets.",
+    "pubDate": "Thu, 22 Oct 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "See how Big Tech is transforming Spain's landscape",
+    "link": "https://www.npr.org/2026/10/22/nx-s1-5991641/ai-data-centers-spain-environmental-impact",
+    "summary": "A drought-stricken region of northeast Spain has become a focus for American companies searching for locations to place their data centers.",
+    "pubDate": "Thu, 22 Oct 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Can a dream help you solve a problem? Here's how to try tonight",
+    "link": "https://www.npr.org/2026/10/22/nx-s1-6008129/dream-incubation-research-self-discovery",
+    "summary": "What can you learn from dreams and how can you remember them and steer them to the topics you wish to dream about. Allison Aubrey and A Martinez discuss the resurgance in dream research and how dreams are a tool for self-discovery.",
+    "pubDate": "Thu, 22 Oct 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "High health costs squeeze workers, even if you have good insurance through a job",
+    "link": "https://www.npr.org/2026/10/22/nx-s1-6008153/health-insurance-costs-kff-commonwealth",
+    "summary": "About 157 million Americans get their health insurance through work. A survey of employers shows a moderate price uptick this year, but workers still say health costs are a top concern.",
+    "pubDate": "Thu, 22 Oct 2026 05:00:00 -0400",
+    "source": "NPR",
     "category": "general"
   },
   {
@@ -304,6 +696,14 @@
     "category": "tech"
   },
   {
+    "title": "Garmin Revamps and Opens Up Connect Developer API Program",
+    "link": "https://www.dcrainmaker.com/2026/10/garmin-connect-api-revamps-connect-developer.html",
+    "summary": "Not exactly related to programming, but as a Garmin user I've always wanted an API for personal access so I can make my own stuff on top of it. I also really like the fact that they have a tier specifically targeting personal use. My prediction and fear is that, with AI allowing people to code th...",
+    "pubDate": "Thu, 22 Oct 2026 03:09:55 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
     "link": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
     "summary": "Article URL: https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf Comments URL: https://news.ycombinator.com/item?id=50190455 Points: 68 # Comments: 31",
@@ -317,6 +717,14 @@
     "summary": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They’re now being “broadly exploited” across the internet.",
     "pubDate": "Thu, 22 Oct 2026 02:24:17 +0000",
     "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+    "link": "https://simedw.com/2026/10/21/world-model-terminal/",
+    "summary": "Article URL: https://simedw.com/2026/10/21/world-model-terminal/ Comments URL: https://news.ycombinator.com/item?id=50190363 Points: 283 # Comments: 91",
+    "pubDate": "Thu, 22 Oct 2026 02:18:41 +0000",
+    "source": "Hacker News",
     "category": "tech"
   },
   {
@@ -336,12 +744,28 @@
     "category": "general"
   },
   {
+    "title": "examining the macOS gcc binary",
+    "link": "https://zoey-on-github.github.io/blog/macgcc.html",
+    "summary": "Comments",
+    "pubDate": "Thu, 22 Oct 2026 01:45:58 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Criminals who skip sentencing will face solitary confinement or lose social visits",
     "link": "https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo?at_medium=RSS&at_campaign=rss",
     "summary": "Judges will be given new powers to impose tougher prison punishments on offenders who refuse to face their victims' families during sentencing.",
     "pubDate": "Thu, 22 Oct 2026 01:17:25 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Announcing DuckDB 2.0.0 LTS “Cinnamon Teal”",
+    "link": "https://duckdb.org/2026/10/21/announcing-duckdb-200.html",
+    "summary": "Comments",
+    "pubDate": "Thu, 22 Oct 2026 01:15:07 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
@@ -357,6 +781,22 @@
     "summary": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, autonomous two-seater lacks a steering wheel and other traditional controls. During the company&#8...",
     "pubDate": "Thu, 22 Oct 2026 00:17:54 +0000",
     "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "The world’s first triple 200-megapixel camera phone is great",
+    "link": "https://www.theverge.com/gadgets/1014332/oppo-find-x10-pro-max-camera-200-megapixels",
+    "summary": "Oppo's Find X10 Pro Max is the first phone with a triple 200-megapixel camera, which you're likely to see as either a masterful feat of engineering or a load of hyped-up marketing nonsense. The truth is somewhere in the middle. We've seen 200-megapixel cameras in phones before, starting with 2022...",
+    "pubDate": "2026-10-22T08:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Eiliko maker says it&#8217;s hiring an ‘independent security firm’ after Verge report on its insecure robots",
+    "link": "https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach",
+    "summary": "Eiliko, a cute robot charm you can hang on your bag with built-in AI conversations, turned out to be a security nightmare. It told owners that \"your secrets are safe with me,\" but hackers could easily read complete transcripts of everything we told the toy, and that was just the beginning. The Ve...",
+    "pubDate": "2026-10-22T07:00:00-04:00",
+    "source": "The Verge",
     "category": "tech"
   },
   {
@@ -382,5 +822,21 @@
     "pubDate": "2026-10-21T18:33:44-04:00",
     "source": "The Verge",
     "category": "tech"
+  },
+  {
+    "title": "Daily Briefing: Tiny doses of LSD seem to boost cognition",
+    "link": "https://www.nature.com/articles/d41586-026-03374-8",
+    "summary": "Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03374-8 The drug improved the ability to focus — but only in women. Plus, US climate scientists are facing a deluge of public-records requests and why a sleep-disorder drug might be the next big blockbuster.",
+    "pubDate": "2026-10-20",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Daily briefing: How to rebuild science from ruin",
+    "link": "https://www.nature.com/articles/d41586-026-03363-x",
+    "summary": "Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03363-x Researchers in New Orleans share lessons from the aftermath of Hurricane Katrina. Plus, budding cryptographers are using AI to crack historical codes and an enzyme that keeps cognition sharp with age.",
+    "pubDate": "2026-10-19",
+    "source": "Nature",
+    "category": "science"
   }
 ]

@@ -144,6 +144,14 @@
     "category": "general"
   },
   {
+    "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+    "link": "https://edjefferson.com/localwiki/",
+    "summary": "Article URL: https://edjefferson.com/localwiki/ Comments URL: https://news.ycombinator.com/item?id=50202285 Points: 530 # Comments: 120",
+    "pubDate": "Thu, 22 Oct 2026 23:01:18 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "LLMs are making formal software verification feasible at a much larger scale",
     "link": "https://www.anthropic.com/research/formal-verification",
     "summary": "Article URL: https://www.anthropic.com/research/formal-verification Comments URL: https://news.ycombinator.com/item?id=50202217 Points: 216 # Comments: 119",
@@ -240,6 +248,14 @@
     "category": "general"
   },
   {
+    "title": "How does Fable 5.1 hide messages in images?",
+    "link": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
+    "summary": "Article URL: https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images Comments URL: https://news.ycombinator.com/item?id=50201445 Points: 115 # Comments: 36",
+    "pubDate": "Thu, 22 Oct 2026 21:41:13 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "Railpass",
     "link": "https://train.samismith.com/",
     "summary": "Article URL: https://train.samismith.com/ Comments URL: https://news.ycombinator.com/item?id=50201414 Points: 71 # Comments: 23",
@@ -280,12 +296,28 @@
     "category": "tech"
   },
   {
+    "title": "The HTML-in-Canvas API origin trial",
+    "link": "https://developer.chrome.com/blog/html-in-canvas-origin-trial",
+    "summary": "Article URL: https://developer.chrome.com/blog/html-in-canvas-origin-trial Comments URL: https://news.ycombinator.com/item?id=50200164 Points: 65 # Comments: 29",
+    "pubDate": "Thu, 22 Oct 2026 19:54:04 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "Please don't mess with links",
     "link": "https://maurycyz.com/misc/real_links/",
     "summary": "Comments",
     "pubDate": "Thu, 22 Oct 2026 19:37:10 -0500",
     "source": "Lobsters",
     "category": "tech"
+  },
+  {
+    "title": "Weekly quiz: How long did Katie Zacharia last as White House press secretary?",
+    "link": "https://www.bbc.co.uk/news/articles/cmx2qpj72znwo?at_medium=RSS&at_campaign=rss",
+    "summary": "How much attention did you pay to what happened in the world over the past seven days?",
+    "pubDate": "Thu, 22 Oct 2026 18:28:17 GMT",
+    "source": "BBC News",
+    "category": "general"
   },
   {
     "title": "We have Traits at Home",
@@ -312,6 +344,62 @@
     "category": "science"
   },
   {
+    "title": "本周看什么 | 最近值得一看的 12 部作品",
+    "link": "https://sspai.com/post/117169",
+    "summary": "📅本周新预告《指环王：力量之戒第三季》正式预告10月22日，剧集《指环王：力量之戒第三季》发布了正式预告，将于11月11日上线PrimeVideo。故事发生在第二季事件的数年之后，正值精灵与索伦之战的 ... 查看全文",
+    "pubDate": "Fri, 23 Oct 2026 18:09:01 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "TDS REVIEW｜OPPO Enco X4 降噪真无线耳机体验",
+    "link": "https://sspai.com/post/116398",
+    "summary": "放在欧加体系里，Enco X4 显然是值得买的：它在千元档有着第一档的降噪综合能力且没有明显短板，有着手机厂产品里不错的素质和相对饱满、流行化但不过分两头翘的调音，同时操作和细节体验没有明显问题…… 查看全文",
+    "pubDate": "Fri, 23 Oct 2026 15:00:00 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "Earnings limit of up to £140K for first-time buyers loan scheme",
+    "link": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
+    "summary": "The Your First Home scheme will offer government-backed loans for those buying new-builds in England.",
+    "pubDate": "Fri, 23 Oct 2026 11:48:04 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "At least one dead and four injured in Paris suburb shooting",
+    "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+    "summary": "Anti-terrorism police have taken up the investigation into the incident in Trappes, to the west of Paris.",
+    "pubDate": "Fri, 23 Oct 2026 11:44:12 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
+    "link": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss",
+    "summary": "The Duchess of Sussex issues a statement following reports her father Thomas Markle is being investigated over child sex abuse images in the Philippines.",
+    "pubDate": "Fri, 23 Oct 2026 11:43:59 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Burnham suggests stocking up on tinned food and bottled water",
+    "link": "https://www.bbc.co.uk/news/articles/ckr5yz2pqqppo?at_medium=RSS&at_campaign=rss",
+    "summary": "The prime ministers says unexpected events seem to be becoming more common and it was wise to prepare.",
+    "pubDate": "Fri, 23 Oct 2026 11:43:45 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Samsung Galaxy Z Flip8 Review: The Littlest Smartphone That Could",
+    "link": "https://www.wired.com/review/samsung-galazy-z-flip8/",
+    "summary": "Samsung’s cute compact is for those who want the smallest possible phone. Performance and camera are solid, but it’s pricier than its predecessor.",
+    "pubDate": "Fri, 23 Oct 2026 11:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
     "title": "破与立：设计视角下的 iPhone Duo",
     "link": "https://sspai.com/post/116979",
     "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
@@ -320,12 +408,308 @@
     "category": "tech-cn"
   },
   {
+    "title": "Is this the new cyber normal?",
+    "link": "https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/",
+    "summary": "Article URL: https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/ Comments URL: https://news.ycombinator.com/item?id=50207115 Points: 25 # Comments: 4",
+    "pubDate": "Fri, 23 Oct 2026 11:04:53 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Split Tunneling Is Your VPN’s Best Feature. Here’s How to Make the Most of It",
+    "link": "https://www.wired.com/story/split-tunneling-is-your-vpns-best-feature-heres-how-to-make-the-most-of-it/",
+    "summary": "This feature common to VPN services gives you protection and privacy specifically when and where you need it.",
+    "pubDate": "Fri, 23 Oct 2026 11:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Turtle Beach Vulcan II XP Review: Clicky Compromise",
+    "link": "https://www.wired.com/review/turtle-beach-vulcan-xp-ii/",
+    "summary": "Great for typing and fine for gaming, but too many compromises keep this mechanical keyboard from leveling up your play.",
+    "pubDate": "Fri, 23 Oct 2026 10:45:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Dutch government had hacked into Jared Kushner's phone",
+    "link": "https://twitter.com/jaredkushner/status/2113376217415958767",
+    "summary": "Article URL: https://twitter.com/jaredkushner/status/2113376217415958767 Comments URL: https://news.ycombinator.com/item?id=50206914 Points: 74 # Comments: 20",
+    "pubDate": "Fri, 23 Oct 2026 10:41:32 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Job Loss and Cortisone Mania",
+    "link": "https://tilschuenemann.de/job-loss-cortisone-mania",
+    "summary": "Article URL: https://tilschuenemann.de/job-loss-cortisone-mania Comments URL: https://news.ycombinator.com/item?id=50206840 Points: 11 # Comments: 0",
+    "pubDate": "Fri, 23 Oct 2026 10:31:24 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "TDM Neo Hybrid Headphones Review: Two-in-One Woes",
+    "link": "https://www.wired.com/review/tdm-neo-hybrid-headphones/",
+    "summary": "CES 2026 loved these innovative headphones that transform into a Bluetooth speaker. After living with them, I’m impressed by the engineering, but less impressed by the sound.",
+    "pubDate": "Fri, 23 Oct 2026 10:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
+    "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+    "summary": "The attack comes at a time of heightened tensions in the occupied West Bank and four days before Israel's general election.",
+    "pubDate": "Fri, 23 Oct 2026 10:26:06 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Boulter into Japan semi-finals and back as British No 1",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/c6ly35rzdgxyo?at_medium=RSS&at_campaign=rss",
+    "summary": "Katie Boulter reclaims the British number one ranking after fighting back to beat Antonia Ruzic in three sets in the quarter-finals of the Japan Open.",
+    "pubDate": "Fri, 23 Oct 2026 10:22:32 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "A Dating App Is Offering ‘Chivalry Mode’ and ‘Marriage Timeline’ to Get Gen Z Married",
+    "link": "https://www.wired.com/story/a-dating-app-is-offering-chivalry-mode-and-marriage-timeline-to-get-gen-z-married/",
+    "summary": "Upward, a newly relaunched Christian app, is pitching trad values to a generation that barely even dates.",
+    "pubDate": "Fri, 23 Oct 2026 10:15:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Cyprus police open investigation into financial affairs of Roman Abramovich",
+    "link": "https://www.bbc.co.uk/news/articles/c875p1yy90ryo?at_medium=RSS&at_campaign=rss",
+    "summary": "Questions about the integrity of some of Abramovich's professional advisers, were raised earlier this month.",
+    "pubDate": "Fri, 23 Oct 2026 10:14:37 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "What Type of Mattress Is Right for You? (2026)",
+    "link": "https://www.wired.com/story/mattress-types-explained-2026/",
+    "summary": "Here’s how to pick the best mattress for your sleep needs, straight from a professional mattress tester.",
+    "pubDate": "Fri, 23 Oct 2026 10:08:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Final James Bond screen tests to take place this weekend, reports say",
+    "link": "https://www.bbc.co.uk/news/articles/c50mep10dek7o?at_medium=RSS&at_campaign=rss",
+    "summary": "Callum Turner and Jack Lowden \"appear to be in the mix\" of actors doing screen tests for the role.",
+    "pubDate": "Fri, 23 Oct 2026 09:41:44 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Hispanic voters helped bring Trump to power - in Texas, the tide may be turning",
+    "link": "https://www.bbc.co.uk/news/articles/cmwyqn6ejyd4o?at_medium=RSS&at_campaign=rss",
+    "summary": "Recent polls suggest the president is facing challenging headwinds in the state ahead of the midterms.",
+    "pubDate": "Fri, 23 Oct 2026 09:23:53 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "How world champion Smith can become a mainstream star",
+    "link": "https://www.bbc.co.uk/sport/boxing/articles/c8y56qlzqq96o?at_medium=RSS&at_campaign=rss",
+    "summary": "In his BBC Sport column, Tony Bellew explains why Dalton Smith could be British boxing's next superstar - and why he should fight Adam Azim at Hillsborough.",
+    "pubDate": "Fri, 23 Oct 2026 09:20:03 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "8 Things to Know About the iPhone Duo",
+    "link": "https://www.wired.com/story/8-things-to-know-about-the-apple-iphone-duo/",
+    "summary": "Did you manage to score Apple’s first folding phone on launch day? Are you still mulling it over? Here are a few things to keep in mind.",
+    "pubDate": "Fri, 23 Oct 2026 09:15:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Best Dyson Week Deals (2026): Dyson V15 Detect, Dyson Airwrap",
+    "link": "https://www.wired.com/story/dyson-week-deals-oct-2026/",
+    "summary": "Dyson’s sale event is happening now, and you can save up to $300 on vacuums, hair tools, and more.",
+    "pubDate": "Fri, 23 Oct 2026 09:07:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "The ‘Exotic Physics’ Behind a Mysterious 1,000-Mile Cloud on Mars",
+    "link": "https://www.wired.com/story/the-exotic-physics-behind-a-mysterious-1000-mile-cloud-on-mars/",
+    "summary": "The cloud has baffled astronomers since its discovery in 2018. Now, a new study offers a possible cause for its appearance.",
+    "pubDate": "Fri, 23 Oct 2026 09:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "'No more Mr Nice Guy' - should Carrick drop Fernandes?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cked3x8452pdo?at_medium=RSS&at_campaign=rss",
+    "summary": "Manchester United head coach Michael Carrick must decide whether to leave skipper Bruno Fernandes out of Sunday's crucial Premier League clash with Bournemouth",
+    "pubDate": "Fri, 23 Oct 2026 08:28:21 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Watch: BBC presenter battles strong winds as storm hits Newquay",
+    "link": "https://www.bbc.co.uk/news/videos/cmzxlgkyl3vpo?at_medium=RSS&at_campaign=rss",
+    "summary": "BBC lead weather presenter Simon King is in Newquay as the \"full force\" of the storm arrives.",
+    "pubDate": "Fri, 23 Oct 2026 08:26:47 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "派早报：Insta360 发布 Insta360 Mic，Anthropic 推出 Claude Duet 等",
     "link": "https://sspai.com/post/117104",
     "summary": "少数派的近期动态和少数派一起，在海口明日公园来一场创造之约吧。活动详情iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章终于吃到了那颗梦寐以求的小药丸：我的A ... 查看全文",
     "pubDate": "Fri, 23 Oct 2026 08:20:32 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "Remove pgrust: the entry is cheating",
+    "link": "https://github.com/ClickHouse/ClickBench/pull/2165",
+    "summary": "Article URL: https://github.com/ClickHouse/ClickBench/pull/2165 Comments URL: https://news.ycombinator.com/item?id=50205816 Points: 25 # Comments: 5",
+    "pubDate": "Fri, 23 Oct 2026 08:05:33 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "One of Earth’s most powerful supervolcanoes is refilling with fresh magma",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261023003214.htm",
+    "summary": "Deep beneath Japan’s Kikai caldera, a massive magma reservoir is refilling 7,300 years after one of the most powerful volcanic eruptions in Earth's recent geological history. Scientists used underwater seismic surveys to reveal a vast store of magma that appears to have accumulated since the anci...",
+    "pubDate": "Fri, 23 Oct 2026 07:23:19 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Military reinforcements move to Mideast. And, millions of Americans vote early",
+    "link": "https://www.npr.org/2026/10/23/g-s1-149514/up-first-newsletter-iran-war-midterm-voting-trump-bbc",
+    "summary": "Military reinforcements are heading to the Middle East and some personnel have left the region, pointing to a potential attack on Iran. And, millions of Americans have already voted in the midterms.",
+    "pubDate": "Fri, 23 Oct 2026 07:22:25 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Dental implants can hijack your immune system, scientists discover",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261022081314.htm",
+    "summary": "Researchers have uncovered a surprising reason dental implant infections often resist antibiotics: the implants themselves can contribute to the problem. Bacteria corrode titanium implants, releasing microscopic particles that hijack immune cells, trigger destructive inflammation, and accelerate ...",
+    "pubDate": "Fri, 23 Oct 2026 07:12:28 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Breakthrough PTSD treatment achieves 68% remission rate in clinical trial",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261022081309.htm",
+    "summary": "A newly FDA-cleared PTSD treatment uses personalized brain mapping and magnetic stimulation to target abnormal brain activity, with a clinical trial reporting a 52% reduction in symptoms and 68% remission. Researchers believe the technology could transform PTSD care and pave the way for more prec...",
+    "pubDate": "Fri, 23 Oct 2026 07:02:25 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Why Meta is charging to post more hyperlinks",
+    "link": "https://www.npr.org/sections/planet-money/2026/10/23/nx-s1-6012726/why-meta-is-charging-to-post-more-hyperlinks",
+    "summary": "Social media sites aren't the biggest fans of people leaving via hyperlinks. In fact, Meta has made it subscription-worthy for a Facebook Page to post more than two hyperlinks per month. What's the rationale for companies want to keep you on their site?",
+    "pubDate": "Fri, 23 Oct 2026 07:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Infantino re-election hopes boosted by Asia support after u-turn",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c3x2wpyg18j7o?at_medium=RSS&at_campaign=rss",
+    "summary": "Gianni Infantino's hopes of being re-elected Fifa president are enhanced by an endorsement from the Asian Football Confederation.",
+    "pubDate": "Fri, 23 Oct 2026 06:48:46 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "How close can pure FP get to C?",
+    "link": "https://rtfeldman.com/fp-vs-c",
+    "summary": "Comments",
+    "pubDate": "Fri, 23 Oct 2026 06:37:22 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "MIT scientists build a tiny robot that swims using living muscle cells",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261022081308.htm",
+    "summary": "MIT engineers have built a paper-thin swimming robot powered by living muscle cells that respond to flashes of light, allowing it to swim and steer through water. The breakthrough could pave the way for tiny, self-healing biological robots capable of exploring fragile environments that ordinary m...",
+    "pubDate": "Fri, 23 Oct 2026 06:33:56 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "A tiny defect in a crystal reveals a big quantum surprise",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261022081302.htm",
+    "summary": "Researchers have solved a long-standing challenge in understanding how tiny defects in materials like diamond and silicon carbide behave when exposed to light. Their new computational method revealed a surprisingly important energy-loss mechanism in silicon carbide that scientists had previously ...",
+    "pubDate": "Fri, 23 Oct 2026 06:22:55 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Scientists discover a surprising double benefit of exercise for Parkinson’s",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261022081306.htm",
+    "summary": "A seven-year study found that people with Parkinson’s disease who were more physically active experienced slower declines in memory, thinking, and movement abilities. Those exercising more than eight hours per week showed almost no average cognitive decline, suggesting that staying active may off...",
+    "pubDate": "Fri, 23 Oct 2026 06:10:11 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Pride, prestige, profile - the great Ballon d'Or campaign",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c65yng4x302jo?at_medium=RSS&at_campaign=rss",
+    "summary": "The Ballon d'Or is football's greatest individual accolade - and the thirst to win it has grown in recent years.",
+    "pubDate": "Fri, 23 Oct 2026 06:06:38 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The World Treadmill Championship - pitching elite runners against amateurs",
+    "link": "https://www.bbc.co.uk/sport/athletics/articles/cmgel5vd5gqno?at_medium=RSS&at_campaign=rss",
+    "summary": "Everyday runners are being given the chance to compete alongside elite athletes in the first World Treadmill Championship, a new global 5km competition.",
+    "pubDate": "Fri, 23 Oct 2026 05:58:25 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Have Manchester United become the unmanageable club?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c6y0ek284pdgo?at_medium=RSS&at_campaign=rss",
+    "summary": "The cycle of doom that has engulfed every Manchester United manager since Sir Alex Ferguson now has Michael Carrick in its unforgiving grip, writes Phil McNulty.",
+    "pubDate": "Fri, 23 Oct 2026 05:56:04 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Nearly 20% of Switzerland’s glacier ice has vanished in just five years",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261022081316.htm",
+    "summary": "Switzerland’s glaciers are disappearing at an alarming rate, losing more than 5% of their ice volume in 2026 alone. Some of the country’s most famous glaciers experienced their worst melting on record, while several smaller glaciers vanished completely. Nearly 20% of Switzerland’s glacier ice has...",
+    "pubDate": "Fri, 23 Oct 2026 05:42:58 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack",
+    "link": "https://www.npr.org/2026/10/23/nx-s1-6013333/netanyahu-closure-west-bank",
+    "summary": "Israeli soldiers shot and killed two men who the military said had launched an attack near the city of Hebron in the occupied West Bank on Friday morning. At least five people were injured, including some critically.",
+    "pubDate": "Fri, 23 Oct 2026 05:40:32 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Hacking attempts rise after flaws found in program affecting 70 percent of websites",
+    "link": "https://www.npr.org/2026/10/23/g-s1-149503/hacking-php-flaws",
+    "summary": "Governments around the world are rushing to implement safety measures after AI technology found 'severe' vulnerabilities in a key programming language called PHP.",
+    "pubDate": "Fri, 23 Oct 2026 05:37:38 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Color Names",
+    "link": "https://names.color.pizza/",
+    "summary": "Comments",
+    "pubDate": "Fri, 23 Oct 2026 05:19:44 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Blue Planet III: Moment octopus escapes death after hunt gone wrong",
@@ -368,12 +752,68 @@
     "category": "general"
   },
   {
+    "title": "What if you gave yourself a day to cancel all the plans you dread?",
+    "link": "https://www.npr.org/2026/10/23/nx-s1-6011089/how-to-plan-a-say-no-retreat",
+    "summary": "It's a day to think about all the upcoming appointments and commitments you're dreading — and then decline some of them. Writer Caroline Sylge shares a suggested schedule for the day.",
+    "pubDate": "Fri, 23 Oct 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Gen Z candidates in both parties aim to tackle high housing costs",
+    "link": "https://www.npr.org/2026/10/23/nx-s1-5983813/gen-z-candidates-midterms-housing-affordability",
+    "summary": "Young candidates who rent or live with parents say their generation is \"in the thick\" of the country's housing affordability crisis. They argue this gives them new energy to solve it for everyone.",
+    "pubDate": "Fri, 23 Oct 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Amid Trump's assaults on DEI, how one university is elevating Black students",
+    "link": "https://www.npr.org/2026/10/23/nx-s1-5797959/one-university-elevating-black-students",
+    "summary": "As many colleges roll back or eliminate such programs, Sacramento State has expanded its offerings for students of color.",
+    "pubDate": "Fri, 23 Oct 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice",
+    "link": "https://www.npr.org/2026/10/23/nx-s1-6012784/aung-san-suu-kyi-son-phone-call-myanmar",
+    "summary": "Kim Aris tells NPR his mother sounds strong but is in pain. He says she is held at a residence in the capital.",
+    "pubDate": "Fri, 23 Oct 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
+    "link": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro",
+    "summary": "Brazil's tight presidential runoff pits a political giant against a Bolsonaro heir in a battle over the country's political future.",
+    "pubDate": "Fri, 23 Oct 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "With jet fuel prices near a record, holiday airfares soar higher",
+    "link": "https://www.npr.org/2026/10/23/nx-s1-6009506/jet-fuel-price-holiday-airfare",
+    "summary": "If you're planning to fly this holiday season, be prepared to pay more than you did last year. The price of jet fuel — one of airlines' biggest expenses — is close to an all-time high in the U.S.",
+    "pubDate": "Fri, 23 Oct 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "The Papers: 'Prepare for the worst' and 'Covid report fallout'",
     "link": "https://www.bbc.co.uk/news/articles/cwly393mj7y3o?at_medium=RSS&at_campaign=rss",
     "summary": "Defence Secretary Wes Streeting's national campaign on preparedness for cyber or climate emergencies dominates today's papers.",
     "pubDate": "Fri, 23 Oct 2026 04:28:29 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Scientists discover a hidden messaging system deep inside the brain",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261022081304.htm",
+    "summary": "A tiny region deep within the brain has surprised scientists by revealing a remarkably sophisticated communication system. Previously thought to broadcast the same chemical signal throughout the brain, this region actually sends targeted messages that help control learning, attention, and behavio...",
+    "pubDate": "Fri, 23 Oct 2026 04:28:22 EDT",
+    "source": "Science Daily",
+    "category": "science"
   },
   {
     "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
@@ -389,6 +829,22 @@
     "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
     "pubDate": "Fri, 23 Oct 2026 04:00:00 +0000",
     "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "What are you doing this weekend?",
+    "link": "https://lobste.rs/s/crqz1g/what_are_you_doing_this_weekend",
+    "summary": "Feel free to tell what you plan on doing this weekend and even ask for help or feedback. Please keep in mind it’s more than OK to do nothing at all too!",
+    "pubDate": "Fri, 23 Oct 2026 03:43:10 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Debunking \"Faster than Rust\": Malicious Benchmarks in Tov",
+    "link": "https://blog.fyralabs.com/debunking-faster-than-rust-malicious-benchmarks-in-tov/",
+    "summary": "Comments",
+    "pubDate": "Fri, 23 Oct 2026 02:44:09 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -424,12 +880,52 @@
     "category": "general"
   },
   {
+    "title": "Show HN: Making a smart TV dumb and then smart",
+    "link": "https://github.com/anubhavmalhotra/r2d2-tv",
+    "summary": "A recent (unwanted) webOS update that got installed on TV prompted me to start going down the rabbit hole of writing new TV software. After a couple of weekends and massive help from 4 different models, finally managed to get v1 working. My daughter enjoys navigating TV through speech while I get...",
+    "pubDate": "Fri, 23 Oct 2026 00:10:45 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "Amber warning in place as Storm Austen hits parts of UK",
     "link": "https://www.bbc.co.uk/weather/articles/cq8ezy256e42o?at_medium=RSS&at_campaign=rss",
     "summary": "Disruption to travel is likely as the season's first named storm brings a swathe of powerful winds to south-west England on Friday.",
     "pubDate": "Fri, 23 Oct 2026 00:08:43 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Startup equips genetically enhanced dogs with Palmer Luckey&#8217;s military tech",
+    "link": "https://www.theverge.com/tech/1017343/warhound-palmer-luckey-anduril-colossal-war-dogs",
+    "summary": "A new Texas-based defense startup has a plan to improve military and police dogs in the US: it's going to genetically modify them and equip them with Anduril's military technology. Warhound is the brainchild of Anduril's Palmer Luckey and Ben Lamm, co-founder of Colossal Biosciences (the company ...",
+    "pubDate": "2026-10-23T06:58:03-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "No, the iPhone Duo isn’t a small phone",
+    "link": "https://www.theverge.com/tech/1017090/iphone-duo-screen-size-mini",
+    "summary": "When we published our review of the iPhone Duo, I got a lot of hopeful questions from my fellow Mini fans who took note of the cover screen's Mini-ish 5.4-inch size. \"Is this… a small phone that turns into a tablet?\" they asked. And I'm sorry to be the bearer of bad news, but no. [&#8230;]",
+    "pubDate": "2026-10-23T06:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Elusive snow leopards and evasive particles: Books in brief",
+    "link": "https://www.nature.com/articles/d41586-026-03395-3",
+    "summary": "Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03395-3 Andrew Robinson reviews five of the best science picks.",
+    "pubDate": "2026-10-23",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Rebody",
+    "link": "https://www.nature.com/articles/d41586-026-03108-w",
+    "summary": "Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03108-w Fighting fit.",
+    "pubDate": "2026-10-23",
+    "source": "Nature",
+    "category": "science"
   },
   {
     "title": "Etsy is cracking down on AI slop listings",
@@ -462,5 +958,29 @@
     "pubDate": "2026-10-22T17:51:25-04:00",
     "source": "The Verge",
     "category": "tech"
+  },
+  {
+    "title": "Daily briefing: The tell-tale features of a Denisovan",
+    "link": "https://www.nature.com/articles/d41586-026-03438-9",
+    "summary": "Nature, Published online: 22 October 2026; doi:10.1038/d41586-026-03438-9 See what gave Denisovans their distinct look. Plus, a vaccine trial for Ebola could kick off this week in the Democratic Republic of the Congo and what makes a great climate graphic.",
+    "pubDate": "2026-10-22",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "AI doctors’ orders come with a sky-high bill",
+    "link": "https://www.nature.com/articles/d41586-026-03320-8",
+    "summary": "Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03320-8 Large language models suggest more tests, referrals and medications than human physicians do, driving up the cost of care.",
+    "pubDate": "2026-10-21",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Daily briefing: How tech billionaires are changing science funding",
+    "link": "https://www.nature.com/articles/d41586-026-03400-9",
+    "summary": "Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03400-9 Ultra-rich philanthropists are disrupting biomedical science. Plus, why physicists have kept an antimatter particle caged for months and whether it’s really possible to be swallowed by a whale and survive.",
+    "pubDate": "2026-10-21",
+    "source": "Nature",
+    "category": "science"
   }
 ]

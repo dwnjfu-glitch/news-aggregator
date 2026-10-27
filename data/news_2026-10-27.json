@@ -1,11 +1,227 @@
 [
   {
+    "title": "社区速递 163 | 金豪 59 调整版钢笔与九月派友剁手清单",
+    "link": "https://sspai.com/post/117633",
+    "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ... 查看全文",
+    "pubDate": "Tue, 27 Oct 2026 17:02:00 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "Apple Sports：不看新闻、不聊球，只看我关心的比赛",
+    "link": "https://sspai.com/post/117557",
+    "summary": "作为一个从小看CCTV-5体育频道下饭的「体育迷」，在互联网时代我一般都看新浪门户网站的体育板块来获取最新的体育资讯，在智能手机逐渐普及后，百度贴吧、虎扑、懂球帝等平台又是我获取体育资讯以及和网友们吹 ... 查看全文",
+    "pubDate": "Tue, 27 Oct 2026 15:27:57 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "Carrick to stay in charge of Man Utd for Chelsea game",
+    "link": "https://www.bbc.co.uk/sport/football/articles/crlykgeqzypyo?at_medium=RSS&at_campaign=rss",
+    "summary": "Michael Carrick will remain in charge of Manchester United for their trip to Chelsea this weekend.",
+    "pubDate": "Tue, 27 Oct 2026 12:10:21 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
+    "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+    "summary": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
+    "pubDate": "Tue, 27 Oct 2026 12:02:20 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Lawrie, 15, eyes £501,000 live TV win over Littler",
+    "link": "https://www.bbc.co.uk/sport/darts/articles/cq33xj8yyd5do?at_medium=RSS&at_campaign=rss",
+    "summary": "Mitchell Lawrie, 15, one of 24 amateur players taking part in live TV special Beat Luke Littler, has his sights on a £501,000 bullseye should he beat the world darts champion.",
+    "pubDate": "Tue, 27 Oct 2026 11:51:25 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Ex-FBI chief James Comey faces federal charges for third time",
+    "link": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
+    "summary": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.",
+    "pubDate": "Tue, 27 Oct 2026 11:44:54 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Software may be getting worse, but it used to be horrible",
+    "link": "https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/",
+    "summary": "Article URL: https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/ Comments URL: https://news.ycombinator.com/item?id=50257548 Points: 54 # Comments: 27",
+    "pubDate": "Tue, 27 Oct 2026 11:30:35 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "UK and EU officials to discuss freedom of movement",
+    "link": "https://www.bbc.co.uk/news/articles/cmqlngkz0elxo?at_medium=RSS&at_campaign=rss",
+    "summary": "Officials are expected to begin discussions on a range of options for the future UK-EU relationship before a summit next month.",
+    "pubDate": "Tue, 27 Oct 2026 11:29:23 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Abhishek hits 35-ball ton as India hammer New Zealand",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/cvlyd05g6wypo?at_medium=RSS&at_campaign=rss",
+    "summary": "Abhishek Sharma's 113 from 38 balls helps India chase a target of 199 in just 13.2 overs against New Zealand.",
+    "pubDate": "Tue, 27 Oct 2026 11:26:17 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Netherlands pulls out of Eurovision over Israel participation",
+    "link": "https://www.bbc.co.uk/news/articles/cmr4y5dvlzneo?at_medium=RSS&at_campaign=rss",
+    "summary": "A Dutch broadcaster reverses a decision to take part, citing \"sensitivities\" over Israel's participation.",
+    "pubDate": "Tue, 27 Oct 2026 11:23:19 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Python's experimental JIT to be removed",
+    "link": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+    "summary": "Article URL: https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/ Comments URL: https://news.ycombinator.com/item?id=50257419 Points: 34 # Comments: 1",
+    "pubDate": "Tue, 27 Oct 2026 11:17:57 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Turnout so far highest in decades as Israelis vote in pivotal election",
+    "link": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
+    "summary": "The elections - the first since the Hamas-led attacks on Israel and the wars which followed - are widely seen as a referendum on Benjamin Netanyahu.",
+    "pubDate": "Tue, 27 Oct 2026 11:11:33 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Wikipedia's Cleanup of AI-Generated Content",
+    "link": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+    "summary": "Article URL: https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup Comments URL: https://news.ycombinator.com/item?id=50257326 Points: 41 # Comments: 17",
+    "pubDate": "Tue, 27 Oct 2026 11:08:15 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "一日一技｜NAS 作为 UPS 总控，实现局域网多设备断电自动关机",
     "link": "https://sspai.com/post/115855",
     "summary": "借助 NUT 网络 UPS 协议，我们只需要一台 UPS，就可以驱动局域网中多台设备协同断电保护。 查看全文",
     "pubDate": "Tue, 27 Oct 2026 11:02:18 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+    "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+    "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+    "pubDate": "Tue, 27 Oct 2026 11:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "AI Agents Are Media’s New Favorite Audience",
+    "link": "https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/",
+    "summary": "As agents go mainstream, some publishers are hoping that people will pay for content tailor-made for AI—not humans.",
+    "pubDate": "Tue, 27 Oct 2026 11:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Two charged over alleged plot to assist Iran in RAF Fairford incident",
+    "link": "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss",
+    "summary": "Mohmed Ahmad Abdulkarim and Nouman Essghir, both 24, will appear at Westminster Magistrates' Court on Tuesday.",
+    "pubDate": "Tue, 27 Oct 2026 10:54:54 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "NASA’s Oldest Martian Spacecraft Have Been Running for Decades. Here’s How",
+    "link": "https://www.wired.com/story/how-nasa-oldest-martian-spacecraft-run-for-decades/",
+    "summary": "Two orbiters have long outlasted their expected lifespans and completely reshaped our understanding of the Red Planet, all while operating 140 million miles from Earth.",
+    "pubDate": "Tue, 27 Oct 2026 10:45:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Instagram Is a Streaming Service Now",
+    "link": "https://www.wired.com/story/instagram-is-a-streaming-service-now/",
+    "summary": "Instagram’s long-form video update is more than a swipe at YouTube. It’s an attempt to capture the clip economy.",
+    "pubDate": "Tue, 27 Oct 2026 10:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Roblox downloaded 145GB models from us (including adult content) without asking",
+    "link": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
+    "summary": "Article URL: https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/ Comments URL: https://news.ycombinator.com/item?id=50256985 Points: 149 # Comments: 107",
+    "pubDate": "Tue, 27 Oct 2026 10:27:50 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Gforth 1.0",
+    "link": "https://gforth.org/manual/1.0/NEWS.html",
+    "summary": "Article URL: https://gforth.org/manual/1.0/NEWS.html Comments URL: https://news.ycombinator.com/item?id=50256952 Points: 29 # Comments: 1",
+    "pubDate": "Tue, 27 Oct 2026 10:23:21 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "What does Israel's election mean for Gaza and the wider world?",
+    "link": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
+    "summary": "The BBC's diplomatic correspondent James Landale reports from Jerusalem as ballots are cast.",
+    "pubDate": "Tue, 27 Oct 2026 10:17:36 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Massive Groups of Volunteers Are Ready to Face Down ICE at the Polls",
+    "link": "https://www.wired.com/story/massive-groups-of-volunteers-are-ready-to-face-down-ice-at-the-polls/",
+    "summary": "From heat maps to Signal chats to war rooms, volunteers across the US are ready to act if federal immigration agents show up on Election Day.",
+    "pubDate": "Tue, 27 Oct 2026 10:15:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "MPs and MSP detained by Israel and barred from entering West Bank",
+    "link": "https://www.bbc.co.uk/news/articles/cqg7xenmde78o?at_medium=RSS&at_campaign=rss",
+    "summary": "SNP MP Lara Bird and the Scottish Greens MSP Kate Nevens were part of an international delegation turned away by Israeli security forces.",
+    "pubDate": "Tue, 27 Oct 2026 10:11:46 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "How to Hide Your Baby From the Government",
+    "link": "https://www.wired.com/story/the-rise-of-sovereign-babies/",
+    "summary": "“Sovereign citizens” think they can live beyond the reach of the state. Now the movement has influencers—and they’re selling all sorts of anarchist courses to expectant families.",
+    "pubDate": "Tue, 27 Oct 2026 10:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "I will no longer upload to NEW",
+    "link": "https://lists.debian.org/debian-devel/2026/10/msg00263.html",
+    "summary": "Article URL: https://lists.debian.org/debian-devel/2026/10/msg00263.html Comments URL: https://news.ycombinator.com/item?id=50256738 Points: 126 # Comments: 52",
+    "pubDate": "Tue, 27 Oct 2026 09:59:05 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Is an Under-Sink Reverse Osmosis System Worth It? Benefits, Costs, and Drawbacks",
+    "link": "https://www.wired.com/story/is-an-under-sink-reverse-osmosis-system-worth-it/",
+    "summary": "The Waterdrop X12 improved the taste of my tap water, but reverse osmosis comes with costs beyond the purchase price.",
+    "pubDate": "Tue, 27 Oct 2026 09:35:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "I Tested Every Major AI Agent for a Day. Here’s the Best One",
+    "link": "https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/",
+    "summary": "I ranked six AI agents—from Meta’s Muse to Anthropic’s Claude Duet—on how well they completed basic tasks.",
+    "pubDate": "Tue, 27 Oct 2026 09:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
   },
   {
     "title": "派早报：Apple 发布 iPad mini (A20 Pro) 等",
@@ -16,6 +232,134 @@
     "category": "tech-cn"
   },
   {
+    "title": "The secret to slower aging may be hiding in your gut",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261026225620.htm",
+    "summary": "The secret to aging more slowly may be hiding in your gut. Scientists discovered that certain gut bacteria are strongly linked to how quickly the body ages, with microbial differences accounting for about 15% of the variation in biological aging rates. Some bacterial species were associated with ...",
+    "pubDate": "Tue, 27 Oct 2026 07:53:24 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Democrats have a midterm edge, poll shows. And, Israelis vote in high-stakes election",
+    "link": "https://www.npr.org/2026/10/27/g-s1-150052/up-first-newsletter-midterms-polling-data-voter-fraud-israel-prime-minister-elections",
+    "summary": "Democrats are still holding a slight edge with Election Day a week away, according to a new NPR/PBS News/Marist poll. And, Israelis are casting their votes in an election that could change leadership.",
+    "pubDate": "Tue, 27 Oct 2026 07:39:52 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Low testosterone may make sugar far more harmful to your liver",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261026225622.htm",
+    "summary": "Scientists have discovered that low testosterone and a high-fructose diet can work together to worsen fatty liver disease in mice. Unexpectedly, changes in gut bacteria appear to drive this harmful interaction, revealing a potential new target for preventing liver damage.",
+    "pubDate": "Tue, 27 Oct 2026 07:18:37 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "How much of Antonelli's success is down to his ability? - F1 Q&A",
+    "link": "https://www.bbc.co.uk/sport/formula1/articles/cmde8xjl3xpwo?at_medium=RSS&at_campaign=rss",
+    "summary": "BBC F1 correspondent Andrew Benson answers your latest questions after the United States Grand Prix.",
+    "pubDate": "Tue, 27 Oct 2026 07:00:23 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "'Living next door to anti-social behaviour has been hell'",
+    "link": "https://www.bbc.co.uk/news/articles/cewr4j0qqwpo?at_medium=RSS&at_campaign=rss",
+    "summary": "Man calls for better support after seven years of anti-social behaviour from neighbours.",
+    "pubDate": "Tue, 27 Oct 2026 06:58:40 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Common drugs may help dangerous viruses spread through the body",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261026225606.htm",
+    "summary": "A surprising discovery reveals that widely used anti-inflammatory drugs may unintentionally help dangerous viruses spread through the body. Scientists found that JAK inhibitors, prescribed for rheumatoid arthritis and other inflammatory diseases, can weaken a crucial immune defense against influe...",
+    "pubDate": "Tue, 27 Oct 2026 06:46:21 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "X is nudging users to promote their posts with a pointing hand, and people are confused",
+    "link": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
+    "summary": "Whose hand is behind this travesty?",
+    "pubDate": "Tue, 27 Oct 2026 06:34:44 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "A select should tell you something",
+    "link": "https://alfy.blog/2026/10/27/a-select-should-tell-you-something.html",
+    "summary": "Comments",
+    "pubDate": "Tue, 27 Oct 2026 06:33:23 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "How Aldi is pushing down grocery prices",
+    "link": "https://www.npr.org/sections/planet-money/2026/10/27/g-s1-149358/how-aldi-is-pushing-down-grocery-prices",
+    "summary": "The German-owned chain's low prices are winning over shoppers — and pushing competitors to respond.",
+    "pubDate": "Tue, 27 Oct 2026 06:30:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "The Mythical Man-Month in the Age of AI",
+    "link": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+    "summary": "Article URL: https://j11g.com/the-mythical-man-month-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=50255298 Points: 226 # Comments: 156",
+    "pubDate": "Tue, 27 Oct 2026 06:25:37 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Ranking England's Ballon d'Or winners - how does Kane compare?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ckx2qdxgzzz7o?at_medium=RSS&at_campaign=rss",
+    "summary": "From Stanley Matthews to Harry Kane, how do England's Ballon d'Or winners rank?",
+    "pubDate": "Tue, 27 Oct 2026 06:20:58 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "James Webb discovers a scorching lava planet with a “giant sunscreen”",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261026225603.htm",
+    "summary": "A scorching lava planet 280 light-years away has surprised astronomers by apparently maintaining a thick atmosphere despite conditions that should have stripped it away billions of years ago. James Webb Space Telescope observations suggest that TOI-561 b reflects about 75% of incoming starlight, ...",
+    "pubDate": "Tue, 27 Oct 2026 06:20:52 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "'I would do it again' - Kaepernick reflects on price of protest, 10 years on",
+    "link": "https://www.bbc.co.uk/sport/american-football/articles/cm3el5dnpxp2o?at_medium=RSS&at_campaign=rss",
+    "summary": "In his first interview with BBC Sport since taking the knee for the first time, Colin Kaepernick reflects on his journey.",
+    "pubDate": "Tue, 27 Oct 2026 06:15:24 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Donald Trump's biggest economic problem looks strangely familiar",
+    "link": "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o?at_medium=RSS&at_campaign=rss",
+    "summary": "Donald Trump heads into the US midterm elections with an issue similar to his political foe Joe Biden.",
+    "pubDate": "Tue, 27 Oct 2026 06:01:11 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Smithsonian scientists just recreated the first 2 billion years of the Universe",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261026225600.htm",
+    "summary": "Scientists have created one of the largest and most detailed simulations of the early universe ever made, offering an extraordinary new glimpse into the cosmos shortly after the Big Bang. Called Lumina, the groundbreaking simulation recreates the universe’s first 2 billion years, showing how dark...",
+    "pubDate": "Tue, 27 Oct 2026 05:48:35 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Boy who stabbed girl at school was radicalised online, says father",
+    "link": "https://www.bbc.co.uk/news/articles/cmj6j950ywp1o?at_medium=RSS&at_campaign=rss",
+    "summary": "A father calls for tighter controls on extreme material after his son's attempted murder conviction.",
+    "pubDate": "Tue, 27 Oct 2026 05:33:25 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "The Papers: 'England's golden boy' Kane and 'Time to pay fair'",
     "link": "https://www.bbc.co.uk/news/articles/cm1dw6rn024vo?at_medium=RSS&at_campaign=rss",
     "summary": "Many of the papers consider what will be in the Budget and praise Harry Kane for his Ballon d'Or win.",
@@ -24,11 +368,75 @@
     "category": "general"
   },
   {
+    "title": "A tiny laser beam could make computer memory 1,000 times faster",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261025073046.htm",
+    "summary": "Scientists at UC San Diego have developed a surprising new way to store digital information using light instead of magnets, potentially paving the way for smaller, faster, and more energy-efficient memory devices. By precisely shaping and shrinking an ultrafast laser beam, researchers demonstrate...",
+    "pubDate": "Tue, 27 Oct 2026 05:22:06 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Full Haskell-like Type Class resolution in Java",
+    "link": "https://garciat.com/posts/java-type-classes/",
+    "summary": "Comments",
+    "pubDate": "Tue, 27 Oct 2026 05:11:53 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "TypeScript and Haskell: Unions & Singletons (2024)",
+    "link": "https://garciat.com/posts/haskell-union-types/",
+    "summary": "Comments",
+    "pubDate": "Tue, 27 Oct 2026 05:06:47 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Jay-Z to perform at Super Bowl half-time show",
     "link": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss",
     "summary": "The rapper has been involved with the show for years but has never before performed at the NFL championship game.",
     "pubDate": "Tue, 27 Oct 2026 05:05:15 GMT",
     "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Polymarket has investigated 'dozens' of election-related cases",
+    "link": "https://www.npr.org/2026/10/27/nx-s1-6012304/polymarket-election-betting-surveillance",
+    "summary": "The prediction market has hired a former FBI official to make sure political insiders don't use the platform for profit from confidential election information.",
+    "pubDate": "Tue, 27 Oct 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Can Black voting power and Trump fatigue break Mississippi's red wall?",
+    "link": "https://www.npr.org/2026/10/27/nx-s1-6018592/mississippi-senate-trump-colom-black-voter-turnout",
+    "summary": "Mississippi has the largest proportional Black population in the country. It's one reason the U.S. Senate race has seen millions in last-minute spending and high-profile campaign visits.",
+    "pubDate": "Tue, 27 Oct 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Democrats still poised to make gains, but poll shows warning signs for just how many",
+    "link": "https://www.npr.org/2026/10/27/nx-s1-6017479/2026-midterms-npr-poll-democrats-trump-approval",
+    "summary": "Democrats hold significant advantages going into Election Day, according to a new NPR/PBS News/Marist poll. But lagging enthusiasm among key groups is just one indicator that gains may not come easy.",
+    "pubDate": "Tue, 27 Oct 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Morning news brief",
+    "link": "https://www.npr.org/2026/10/27/nx-s1-6012225/morning-news-brief",
+    "summary": "A new NPR poll reveals Democrats' advantage going into Election Day, congressional Democrats are forming a task force to protect the election, Netanyahu vies for reelection as polls open in Israel.",
+    "pubDate": "Tue, 27 Oct 2026 04:48:45 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Data centers are a hot-button issue for Ohioans as midterms near",
+    "link": "https://www.npr.org/2026/10/27/nx-s1-5989174/candidates-work-to-ease-concerns-as-data-centers-become-hot-button-issue-for-ohioans",
+    "summary": "In Ohio, many people are displeased with the state's rapid buildout of data centers. It's a hot-button issue in the midterms, as political candidates from both parties try to ease voter concerns.",
+    "pubDate": "Tue, 27 Oct 2026 04:45:52 -0400",
+    "source": "NPR",
     "category": "general"
   },
   {
@@ -48,6 +456,14 @@
     "category": "general"
   },
   {
+    "title": "Keyless Entry: Hacking SwitchBot Smart Locks",
+    "link": "https://neodyme.io/en/blog/switchbot",
+    "summary": "Comments",
+    "pubDate": "Tue, 27 Oct 2026 03:10:01 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Truce begins in wartorn Ukraine city after it was announced by Melania Trump",
     "link": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
     "summary": "The ceasefire is meant to allow aid deliveries and the evacuation of civilians.",
@@ -61,6 +477,14 @@
     "summary": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said.",
     "pubDate": "Tue, 27 Oct 2026 02:40:17 GMT",
     "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Harry Kane becomes first Englishman in 25 years to win Ballon d'Or",
+    "link": "https://www.npr.org/2026/10/27/nx-s1-6019097/harry-kane-alexia-putellas-ballon-dor",
+    "summary": "Kane was followed in the voting by Kylian Mbappé. Spain star Alexia Putellas won her third women's Ballon d'Or. Outside, fans packed the streets and climbed light poles near the London Palladium.",
+    "pubDate": "Tue, 27 Oct 2026 02:30:54 -0400",
+    "source": "NPR",
     "category": "general"
   },
   {
@@ -104,6 +528,22 @@
     "category": "general"
   },
   {
+    "title": "Jay-Z picks himself to headline the Super Bowl halftime show in Southern California",
+    "link": "https://www.npr.org/2026/10/27/g-s1-150043/super-bowl-halftime-jay-z",
+    "summary": "The NFL, Apple Music and Roc Nation announced Monday night that Jay-Z will be the featured performer for the halftime festivities on Feb. 14 at SoFi Stadium in Inglewood, California.",
+    "pubDate": "Tue, 27 Oct 2026 01:46:18 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Brewers rout the Rays 10-1 to move within a win of their first World Series title",
+    "link": "https://www.npr.org/2026/10/27/nx-s1-6019094/mlb-world-series-tuesday",
+    "summary": "The Milwaukee Brewers are one victory from their first World Series title after routing the Tampa Bay Rays 10-1 on Monday night thanks to a trio of young players who have shined in October.",
+    "pubDate": "Tue, 27 Oct 2026 01:45:44 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "My husband's death was hard enough - then came the admin",
     "link": "https://www.bbc.co.uk/news/articles/cw4g19vvmp59o?at_medium=RSS&at_campaign=rss",
     "summary": "Louisa says her experience of dealing with household bills after her husband John died left her feeling \"frustrated and angry\".",
@@ -136,12 +576,28 @@
     "category": "general"
   },
   {
+    "title": "Do spiders dream? Scientists just found a surprising clue",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261026225555.htm",
+    "summary": "Scientists have discovered that spiders may sleep in ways surprisingly similar to humans, complete with distinct sleep stages and a dream-like REM state. Researchers at the University of Bonn studied the Australian jumping spider Portia fimbriata, a remarkably clever hunter known for its sophisti...",
+    "pubDate": "Tue, 27 Oct 2026 00:53:11 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump",
     "link": "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o?at_medium=RSS&at_campaign=rss",
     "summary": "Machado returns with Trump's blessing, even if Washington is happy with Venezuela's existing leader - at least for the time being.",
     "pubDate": "Tue, 27 Oct 2026 00:31:11 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Scientists discover a surprising clue to why some brains resist Alzheimer’s",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261025222538.htm",
+    "summary": "Why do some people stay mentally sharp even when their brains show signs of Alzheimer’s disease? Scientists in the Netherlands may have uncovered an important clue hidden in a rare group of immature brain cells. Researchers discovered that these cells remain present even in people over 80, but th...",
+    "pubDate": "Tue, 27 Oct 2026 00:02:26 EDT",
+    "source": "Science Daily",
+    "category": "science"
   },
   {
     "title": "'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?",
@@ -192,6 +648,14 @@
     "category": "tech"
   },
   {
+    "title": "Mayo Clinic discovers new ways to fight the “zombie” cells that drive aging",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261025073049.htm",
+    "summary": "Mayo Clinic scientists have uncovered surprising new insights into “zombie cells,” aging cells that linger in the body and contribute to inflammation and disease. Seven studies reveal why these cells are harmful and identify new strategies for targeting them, including a natural compound found in...",
+    "pubDate": "Mon, 26 Oct 2026 22:32:38 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",
     "link": "https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it",
     "summary": "Article URL: https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it Comments URL: https://news.ycombinator.com/item?id=50252008 Points: 35 # Comments: 28",
@@ -208,12 +672,36 @@
     "category": "tech"
   },
   {
+    "title": "1.9-million-year-old discovery rewrites the story of human evolution",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261025073042.htm",
+    "summary": "New evidence suggests that early humans reached the Jordan Valley at least 1.9 million years ago, hundreds of thousands of years earlier than scientists previously thought. Advanced dating methods revealed that the ‘Ubeidiya site is roughly as old as the famous Dmanisi site in Georgia, placing bo...",
+    "pubDate": "Mon, 26 Oct 2026 21:35:08 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "The surprisingly simple exercise that could lower your blood pressure",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261025073045.htm",
+    "summary": "A surprisingly simple exercise routine could help lower blood pressure without requiring daily workouts or expensive equipment. In a study of 100 adults, researchers found that wall squats performed just once or twice a week helped maintain significant reductions in systolic blood pressure over t...",
+    "pubDate": "Mon, 26 Oct 2026 20:57:45 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "Trump administration attempting to prosecute former FBI Director James Comey again",
     "link": "https://www.npr.org/2026/10/26/nx-s1-6018628/trump-administration-attempting-to-prosecute-former-fbi-director-james-comey-again",
     "summary": "The Trump administration is attempting to prosecute James Comey for what it calls a decade-old leak of classified information. Comey's lawyers immediately dismissed the effort as invalid and outside the time limit.",
     "pubDate": "Mon, 26 Oct 2026 20:31:45 -0400",
     "source": "NPR",
     "category": "general"
+  },
+  {
+    "title": "Scientists solve a 30-year mystery behind inflammatory bowel disease",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261025073053.htm",
+    "summary": "Scientists have identified a hidden cause of inflammatory bowel disease: antibodies that disable the immune system’s natural ability to control inflammation, potentially explaining severe illness in thousands of patients. The breakthrough also solves a 30-year genetic mystery and could pave the w...",
+    "pubDate": "Mon, 26 Oct 2026 19:57:03 EDT",
+    "source": "Science Daily",
+    "category": "science"
   },
   {
     "title": "Our Response To The eMudhra Key Disclosure Incident",
@@ -262,6 +750,86 @@
     "pubDate": "Mon, 26 Oct 2026 13:13:36 +0000",
     "source": "Hacker News",
     "category": "tech"
+  },
+  {
+    "title": "Sterling Anderson doesn’t think humanoid robots should be building cars",
+    "link": "https://www.theverge.com/transportation/1018625/gm-sterling-anderson-interview-robots-ai-autonomous-data-privacy",
+    "summary": "At a splashy event in New York City last week, General Motors unveiled its new tech roadmap centered on AI-driven vehicle development, advanced battery tech, high-powered car computers, and autonomous driving. Some of this was old news: We already knew the automaker was developing hands-free, eye...",
+    "pubDate": "2026-10-27T07:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Data center backlash is uniting America",
+    "link": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
+    "summary": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure construction and expenses that come with them - has sparked local opposition in communities across the country and bec...",
+    "pubDate": "2026-10-27T06:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Acer is bringing a Predator gaming handheld to the US for the first time",
+    "link": "https://www.theverge.com/games/1019245/acer-predator-atlas-8-launch-price",
+    "summary": "It's been several months since Acer unveiled its Predator Atlas 8 gaming handheld, but now we finally know that it's coming to the US, and how much it'll cost. The Intel Arc G3 Extreme variant - the more powerful of the two models announced in May - will be available exclusively at Best Buy on [&...",
+    "pubDate": "2026-10-27T05:54:22-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "The Nobel prize in economic science has a serious gender problem",
+    "link": "https://www.nature.com/articles/d41586-026-03404-5",
+    "summary": "Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03404-5 The Nobel prize in economic science has a serious gender problem",
+    "pubDate": "2026-10-27",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "AI-hallucinated citations should be treated as research misconduct",
+    "link": "https://www.nature.com/articles/d41586-026-03407-2",
+    "summary": "Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03407-2 AI-hallucinated citations should be treated as research misconduct",
+    "pubDate": "2026-10-27",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Short-term academic visits to China could sustain ties",
+    "link": "https://www.nature.com/articles/d41586-026-03405-4",
+    "summary": "Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03405-4 Short-term academic visits to China could sustain ties",
+    "pubDate": "2026-10-27",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "AI watermarking efforts must encourage independent public scrutiny",
+    "link": "https://www.nature.com/articles/d41586-026-03406-3",
+    "summary": "Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03406-3 AI watermarking efforts must encourage independent public scrutiny",
+    "pubDate": "2026-10-27",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "How to keep tabs on the tools in your lab",
+    "link": "https://www.nature.com/articles/d41586-026-02814-9",
+    "summary": "Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-02814-9 Misplaced or borrowed laboratory equipment can bring experiments to a halt. Scientists explain how they stop essential kit from going missing.",
+    "pubDate": "2026-10-27",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Why pharma firms are betting billions on psychedelic drugs despite setbacks",
+    "link": "https://www.nature.com/articles/d41586-026-03390-8",
+    "summary": "Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03390-8 Regulatory pushback stalled the field. But researchers are optimistic about mind-altering drugs as potential treatments for depression and mood disorders.",
+    "pubDate": "2026-10-27",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Could measuring immune health reshape medical care?",
+    "link": "https://www.nature.com/articles/d41586-026-03396-2",
+    "summary": "Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03396-2 Finding practical ways to analyse the state of a person’s immune system could guide treatment decisions and create opportunities for disease prevention.",
+    "pubDate": "2026-10-27",
+    "source": "Nature",
+    "category": "science"
   },
   {
     "title": "OpenAI announces three big science discoveries and a new way to work with academics",

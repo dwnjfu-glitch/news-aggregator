@@ -1,5 +1,333 @@
 [
   {
+    "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+    "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+    "summary": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
+    "pubDate": "Wed, 28 Oct 2026 22:13:35 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Girl seriously injured in wolf attack at German wildlife park",
+    "link": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss",
+    "summary": "The eight-year-old was in an enclosure with other children and a staff member when she was attacked.",
+    "pubDate": "Wed, 28 Oct 2026 22:08:52 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+    "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+    "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+    "pubDate": "Wed, 28 Oct 2026 21:58:32 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "King Charles shows off dance moves on second day of Caribbean tour",
+    "link": "https://www.bbc.co.uk/news/articles/ckzd670vpj09o?at_medium=RSS&at_campaign=rss",
+    "summary": "Earlier in the day, the King paid his respects to the island's fallen servicemen and women.",
+    "pubDate": "Wed, 28 Oct 2026 21:58:27 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Google expands AI Search ads globally as core ad growth slows",
+    "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+    "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+    "pubDate": "Wed, 28 Oct 2026 21:48:37 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "High-speed train crash kills at least 68 people in Spain",
+    "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
+    "summary": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
+    "pubDate": "Wed, 28 Oct 2026 21:38:54 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+    "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+    "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+    "pubDate": "Wed, 28 Oct 2026 21:34:30 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+    "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+    "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
+    "pubDate": "Wed, 28 Oct 2026 21:25:30 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
+    "link": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss",
+    "summary": "Survivors of the train crash in Spain have spoken of their shock, panic and anger at the accident in Toledo province on Wednesday.",
+    "pubDate": "Wed, 28 Oct 2026 21:24:41 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Formlabs Studio 1 $699 Resin Printer",
+    "link": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
+    "summary": "Article URL: https://formlabs.com/products/form-studio-1-basic-founders-edition/ Comments URL: https://news.ycombinator.com/item?id=50281044 Points: 59 # Comments: 59",
+    "pubDate": "Wed, 28 Oct 2026 21:19:30 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+    "link": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
+    "summary": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
+    "pubDate": "Wed, 28 Oct 2026 21:16:30 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
+    "link": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+    "summary": "Article URL: https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/ Comments URL: https://news.ycombinator.com/item?id=50280864 Points: 152 # Comments: 48",
+    "pubDate": "Wed, 28 Oct 2026 21:03:24 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "This Is What the GOP’s Final Midterms Push Looks Like",
+    "link": "https://www.wired.com/story/this-is-what-the-gops-final-midterms-push-looks-like/",
+    "summary": "Republicans are spending their time and money on Senate races in historically red states—a sign they’re more nervous than ever as Election Day looms.",
+    "pubDate": "Wed, 28 Oct 2026 21:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Israel's election deadlock is a sign of the country's deep divisions",
+    "link": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss",
+    "summary": "The election was a celebration of democracy in some ways - but it has left Israel with no clear path to a new government, writes James Landale.",
+    "pubDate": "Wed, 28 Oct 2026 20:53:02 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The case of the 9 bit AES key",
+    "link": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
+    "summary": "Article URL: https://v12.sh/blog/the-case-of-the-9bit-aes-key Comments URL: https://news.ycombinator.com/item?id=50280722 Points: 38 # Comments: 9",
+    "pubDate": "Wed, 28 Oct 2026 20:51:44 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Leak website releases data on DHS employees",
+    "link": "https://www.reuters.com/legal/government/leak-website-releases-data-tens-thousands-dhs-employees-2026-10-28/",
+    "summary": "Article URL: https://www.reuters.com/legal/government/leak-website-releases-data-tens-thousands-dhs-employees-2026-10-28/ Comments URL: https://news.ycombinator.com/item?id=50280662 Points: 14 # Comments: 0",
+    "pubDate": "Wed, 28 Oct 2026 20:46:52 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Most Servers on the Planet Are Vulnerable to This Firmware Code-Execution Flaw",
+    "link": "https://www.wired.com/story/most-servers-on-the-planet-are-vulnerable-to-a-code-execution-flaw-in-uefi-firmware/",
+    "summary": "The critical flaw in UEFI firmware—used by most server vendors and data centers—allows attackers to execute code early in the boot process.",
+    "pubDate": "Wed, 28 Oct 2026 20:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+    "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+    "summary": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+    "pubDate": "Wed, 28 Oct 2026 20:24:39 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "What we now know about the UK economy in four charts",
+    "link": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
+    "summary": "The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth.",
+    "pubDate": "Wed, 28 Oct 2026 20:08:45 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "What the Budget offers for under 25s - and what it leaves out",
+    "link": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
+    "summary": "The chancellor announced a series of measures which will impact under-25 year-olds from housing to minimum wage.",
+    "pubDate": "Wed, 28 Oct 2026 20:02:38 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
+    "link": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
+    "summary": "A hacker obtained personally identifiable information about more than 40,000 Homeland Security staffers, which has since been published online.",
+    "pubDate": "Wed, 28 Oct 2026 20:01:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Trump admin sues Utah to save Kalshi from the state's total ban on gambling",
+    "link": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+    "summary": "US agency has sued 10 states for trying to stop gambling on prediction markets.",
+    "pubDate": "Wed, 28 Oct 2026 19:30:33 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "The last, best hope for space tourism just rolled onto a runway in Arizona",
+    "link": "https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona/",
+    "summary": "It has been nearly a year since any space tourism flights occurred.",
+    "pubDate": "Wed, 28 Oct 2026 19:20:36 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+    "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+    "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+    "pubDate": "Wed, 28 Oct 2026 19:19:58 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+    "link": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
+    "summary": "The Russian President praised Musk and said they are in \"close\" contact.",
+    "pubDate": "Wed, 28 Oct 2026 19:15:58 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Touchscreen MacBook Pro hands-on: OLED looks great on a Mac",
+    "link": "https://arstechnica.com/apple/2026/10/touchscreen-macbook-pro-hands-on-oled-looks-great-on-a-mac/",
+    "summary": "It's not as different from the previous model as you might have expected.",
+    "pubDate": "Wed, 28 Oct 2026 19:10:29 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+    "link": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+    "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. Acc...",
+    "pubDate": "Wed, 28 Oct 2026 19:05:46 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "The New M6 MacBook Pro Has a Serious Price Problem",
+    "link": "https://www.wired.com/story/m6-macbook-pro-price-problem/",
+    "summary": "For $1,999, you could own an M6 Mac Mini and an M5 MacBook Air instead, both of which are on sale right now.",
+    "pubDate": "Wed, 28 Oct 2026 18:57:22 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Watch: How did Flávio Bolsonaro end up in Miami?",
+    "link": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&at_campaign=rss",
+    "summary": "BBC Verify has pieced together defeated presidential candidate Flávio Bolsonaro's journey through Brazil, Argentina and Ecuador to reach Miami.",
+    "pubDate": "Wed, 28 Oct 2026 18:51:05 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+    "link": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+    "summary": "Gemini 4 Carbon is essentially a slightly better version of Argon.",
+    "pubDate": "Wed, 28 Oct 2026 18:47:27 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
+    "link": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
+    "summary": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
+    "pubDate": "Wed, 28 Oct 2026 18:45:09 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Babydoll singer says life will 'never be the same again' after UK number one",
+    "link": "https://www.bbc.co.uk/news/articles/c6qjn849ydlno?at_medium=RSS&at_campaign=rss",
+    "summary": "The singer is finding genuine joy in life again after a difficult period led to him quitting music.",
+    "pubDate": "Wed, 28 Oct 2026 18:30:13 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
+    "link": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
+    "summary": "To experiment with AI’s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the error of its ways.",
+    "pubDate": "Wed, 28 Oct 2026 18:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Trump administration will allow pharmacies to make popular peptides",
+    "link": "https://www.npr.org/2026/10/28/nx-s1-6021030/peptides-compounding-enforcement",
+    "summary": "The Department of Health and Human Services will let small compounding pharmacies make six peptides that haven't been approved by the Food and Drug Administration. It may not be enough to meet demand.",
+    "pubDate": "Wed, 28 Oct 2026 18:26:48 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Tax thresholds remain unchanged - here's what it means for your pay",
+    "link": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
+    "summary": "The point at which you start to pay tax, and the point where you tip into paying a higher rate of tax have been frozen for three more years.",
+    "pubDate": "Wed, 28 Oct 2026 18:12:24 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Amazon turns its most capable smart speaker into a smart camera, too",
+    "link": "https://arstechnica.com/gadgets/2026/10/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra/",
+    "summary": "The Echo Studio with Home Camera can \"see and understand what's in front of the camera.\"",
+    "pubDate": "Wed, 28 Oct 2026 18:05:22 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Cadillac Escalade IQ review: Huge battery, huge range, huge SUV",
+    "link": "https://arstechnica.com/cars/2026/10/cadillac-escalade-iq-review-4-tons-of-electric-american-luxury-on-wheels/",
+    "summary": "With more than 200 kWh, this luxury three-row can go 460 miles on a charge.",
+    "pubDate": "Wed, 28 Oct 2026 17:55:45 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Will I get the £100 energy payment and when will I receive it?",
+    "link": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
+    "summary": "Here is what you need to know about the payment that millions will receive from January.",
+    "pubDate": "Wed, 28 Oct 2026 17:47:37 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Google AI gets cagey when asked who won the 2020 elections",
+    "link": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+    "summary": "But the AI responses get more forthright when asked outside the US.",
+    "pubDate": "Wed, 28 Oct 2026 17:46:32 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Spiders Spin 'Silk Dope' into Nature's Toughest Material",
+    "link": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
+    "summary": "Article URL: https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/ Comments URL: https://news.ycombinator.com/item?id=50277755 Points: 33 # Comments: 1",
+    "pubDate": "Wed, 28 Oct 2026 17:45:24 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Florida county won’t investigate sketchy Flock cameras removed by mystery owners",
+    "link": "https://arstechnica.com/tech-policy/2026/10/florida-county-wont-investigate-sketchy-flock-cameras-removed-by-mystery-owners/",
+    "summary": "Florida county claims it lacks resources to find owners of unpermitted Flock cameras.",
+    "pubDate": "Wed, 28 Oct 2026 17:37:49 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
     "title": "备受期待的国产 3A 游戏新作：《影之刃零》游玩体验",
     "link": "https://sspai.com/post/117725",
     "summary": "编注：《影之刃零》（PhantomBladeZero）是由中国游戏开发商「灵游坊」（S-GAME）自主研发的暗黑武侠动作冒险游戏，采用虚幻引擎5打造。游戏以独特的「功夫朋克」美学为特色，将中国传统武侠 ... 查看全文",
@@ -8,12 +336,340 @@
     "category": "tech-cn"
   },
   {
+    "title": "Labuschagne's form hits record low but Australia hint at future",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/cxyvr1my94m4o?at_medium=RSS&at_campaign=rss",
+    "summary": "Marnus Labuschagne's poor form hit a record low but Australia's new guard stood up to put the tourists in a strong position in the decisive Test against South Africa.",
+    "pubDate": "Wed, 28 Oct 2026 17:33:41 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Apple launches its new touchscreen MacBook Pro",
+    "link": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
+    "summary": "Apple's new touchscreen MacBook Pro starts at $2,899.",
+    "pubDate": "Wed, 28 Oct 2026 17:26:10 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Apple announces touchscreen MacBook Pro with OLED display",
+    "link": "https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display/",
+    "summary": "The OLED display is the main draw, but the price is a lot to reckon with.",
+    "pubDate": "Wed, 28 Oct 2026 17:25:04 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "The Inside Story of Why Apple Finally Brought a Touch Display to the Mac",
+    "link": "https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/",
+    "summary": "An exclusive early look at Apple’s new touchscreen MacBook Pro—the computer Apple said would never happen.",
+    "pubDate": "Wed, 28 Oct 2026 17:15:16 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Trump administration wants to remove regulations on a super planet-heating gas",
+    "link": "https://www.npr.org/2026/10/28/nx-s1-5995910/trump-wants-remove-regulations-planet-heating-methane",
+    "summary": "The Trump administration wants to undo a Biden-era rule that would reduce methane emissions from the oil and gas industry.",
+    "pubDate": "Wed, 28 Oct 2026 17:15:09 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Why is this fingerprinting script creating bioweapons?",
+    "link": "https://nullpt.rs/fingerprinting-bioweapons",
+    "summary": "Article URL: https://nullpt.rs/fingerprinting-bioweapons Comments URL: https://news.ycombinator.com/item?id=50276998 Points: 574 # Comments: 129",
+    "pubDate": "Wed, 28 Oct 2026 17:13:29 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "MacBook Pro with PROLED XDR Display and Touch",
+    "link": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+    "summary": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundb... Comments URL: https://news.ycombinator.com/item?id=50276940 Points: 445 # Comments: 756",
+    "pubDate": "Wed, 28 Oct 2026 17:10:37 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Show HN: SlideBySide – Present slides without sharing your screen",
+    "link": "https://slidebyside.com/",
+    "summary": "Why is it useful? - Present slides without sharing the screen and have every one be on the same page. - Present together with other cohosts and all control the current page. - Other features such as presentation collab features. Why should I not just vibe code my own solution? - Its a hassle to m...",
+    "pubDate": "Wed, 28 Oct 2026 17:07:09 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Gemini 4 Carbon",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+    "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/ Comments URL: https://news.ycombinator.com/item?id=50276792 Points: 707 # Comments: 575",
+    "pubDate": "Wed, 28 Oct 2026 17:01:23 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Xreal Aura is a new wired headset powered by Android XR",
+    "link": "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/",
+    "summary": "Xreal Aura will start at $1,279 and will have multiple XR specific apps at launch.",
+    "pubDate": "Wed, 28 Oct 2026 17:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+    "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+    "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+    "pubDate": "Wed, 28 Oct 2026 17:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+    "link": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+    "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
+    "pubDate": "Wed, 28 Oct 2026 17:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Chris Mason: Budget felt cautious despite its range of small measures",
+    "link": "https://www.bbc.co.uk/news/articles/cm78pljvqvxeo?at_medium=RSS&at_campaign=rss",
+    "summary": "The chancellor has had to grapple with a mix of public finances and household finances being a mess.",
+    "pubDate": "Wed, 28 Oct 2026 16:52:16 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Watch: At the scene of Spain's deadly train crash",
+    "link": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo?at_medium=RSS&at_campaign=rss",
+    "summary": "People have been killed after a Spanish high-speed train collided with another train south of the capital Madrid, making this the country's worst disaster since 2013.",
+    "pubDate": "Wed, 28 Oct 2026 16:45:16 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "How the Budget affects you",
+    "link": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
+    "summary": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.",
+    "pubDate": "Wed, 28 Oct 2026 16:43:35 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Blindfolded wife 'felt stranger's hand' during sex with husband, court told",
+    "link": "https://www.bbc.co.uk/news/articles/cmzxlr570xgro?at_medium=RSS&at_campaign=rss",
+    "summary": "Four men are currently on trial accused of sexual offences against Joanne Young, which they deny.",
+    "pubDate": "Wed, 28 Oct 2026 16:07:13 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Meta censored the No Kings Instagram account during a nationwide campaign",
+    "link": "https://paulfwalsh.substack.com/p/meta-censored-the-no-kings-instagram",
+    "summary": "Article URL: https://paulfwalsh.substack.com/p/meta-censored-the-no-kings-instagram Comments URL: https://news.ycombinator.com/item?id=50275887 Points: 151 # Comments: 39",
+    "pubDate": "Wed, 28 Oct 2026 16:01:53 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Reddit is the latest platform to embrace the ‘For You’ feed",
+    "link": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/",
+    "summary": "The For You feed combines posts from communities users have joined with recommendations tailored to their interests.",
+    "pubDate": "Wed, 28 Oct 2026 16:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "AI execs may be too out of touch to build for the general public",
+    "link": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+    "summary": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
+    "pubDate": "Wed, 28 Oct 2026 15:53:52 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Trump DOE loans $5B to nuclear plants that will power data centers",
+    "link": "https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/",
+    "summary": "Constellation Energy will get $5 billion in government loans to modernize nuclear reactors. Most of the new capacity is already committed to Google, Amazon, and Meta.",
+    "pubDate": "Wed, 28 Oct 2026 15:53:21 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Tommy Robinson guilty of harassing two Daily Mail journalists",
+    "link": "https://www.bbc.co.uk/news/articles/cq2d6z36pp53o?at_medium=RSS&at_campaign=rss",
+    "summary": "The 43-year-old is convicted after a week-long trial at Southwark Crown Court.",
+    "pubDate": "Wed, 28 Oct 2026 15:53:16 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Train attacker asked man 'do you want to die?', trial hears",
+    "link": "https://www.bbc.co.uk/news/articles/c98rz185z4nno?at_medium=RSS&at_campaign=rss",
+    "summary": "Anthony Williams denies 14 counts of attempted murder, including 10 on a train in Cambridgeshire.",
+    "pubDate": "Wed, 28 Oct 2026 15:52:14 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Buckle up for more body-swapping hijinks in Jumanji: Open World trailer",
+    "link": "https://arstechnica.com/culture/2026/10/buckle-up-for-more-body-swapping-hijinks-in-jumanji-open-world-trailer/",
+    "summary": "\"We have to be ready for whatever's coming next. If we lose in here, there won't be a home to go back to.\"",
+    "pubDate": "Wed, 28 Oct 2026 15:48:12 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+    "link": "https://surgehq.ai/blog/dayjob-tax",
+    "summary": "Article URL: https://surgehq.ai/blog/dayjob-tax Comments URL: https://news.ycombinator.com/item?id=50275626 Points: 169 # Comments: 99",
+    "pubDate": "Wed, 28 Oct 2026 15:46:30 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+    "link": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+    "summary": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
+    "pubDate": "Wed, 28 Oct 2026 15:41:18 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Archive.today links going forward",
+    "link": "https://www.reddit.com/r/Seattle/comments/1xhf6qp/archivetoday_links_going_forward/",
+    "summary": "Article URL: https://www.reddit.com/r/Seattle/comments/1xhf6qp/archivetoday_links_going_forward/ Comments URL: https://news.ycombinator.com/item?id=50275373 Points: 154 # Comments: 100",
+    "pubDate": "Wed, 28 Oct 2026 15:31:58 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+    "summary": "Article URL: https://huggingface.co/blog/nvidia/nemotron-transcribe-granary Comments URL: https://news.ycombinator.com/item?id=50275128 Points: 95 # Comments: 17",
+    "pubDate": "Wed, 28 Oct 2026 15:17:53 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "断舍离只是起点：打造能长期经营的实用主义衣柜",
     "link": "https://sspai.com/post/116990",
     "summary": "只扔不买是没有用的，穿衣服时不多费心神才是目的。 查看全文",
     "pubDate": "Wed, 28 Oct 2026 15:00:00 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+    "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+    "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.",
+    "pubDate": "Wed, 28 Oct 2026 15:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Sony Wants You to Forget About Discs With Its Gorgeous Transparent Controllers",
+    "link": "https://www.wired.com/story/sony-wants-you-to-forget-about-discs-with-its-gorgeous-transparent-controller/",
+    "summary": "Sony has new, spiffy see-through controllers and covers for its PlayStation 5 that let you see the hardware guts inside.",
+    "pubDate": "Wed, 28 Oct 2026 15:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Senators Demand to Know if Dr. Oz Collaborated With Election Denial Groups",
+    "link": "https://www.wired.com/story/senators-demand-to-know-if-dr-oz-collaborated-with-election-denial-groups/",
+    "summary": "A far-right campaign claiming leftists are stealing votes from nursing home residents has centered on changing guidance from Mehmet Oz’s Centers for Medicare and Medicaid Services.",
+    "pubDate": "Wed, 28 Oct 2026 14:46:35 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "CNC Stone Carving",
+    "link": "https://carmelitegothic.com/cnc-stone-carving/",
+    "summary": "Article URL: https://carmelitegothic.com/cnc-stone-carving/ Comments URL: https://news.ycombinator.com/item?id=50274409 Points: 356 # Comments: 109",
+    "pubDate": "Wed, 28 Oct 2026 14:38:22 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices",
+    "link": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/",
+    "summary": "Amazon's other new devices include an upgraded Echo Dot, an Echo Studio with visual intelligence features, and the Echo Show 16.",
+    "pubDate": "Wed, 28 Oct 2026 14:34:25 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "TikTok expands into restaurant guides with ‘Must Eat’ feature",
+    "link": "https://techcrunch.com/2026/10/28/tiktok-expands-into-restaurant-guides-with-must-eat-feature/",
+    "summary": "The move puts TikTok in more direct competition with platforms like Yelp and Google.",
+    "pubDate": "Wed, 28 Oct 2026 14:26:36 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "New book revisits the 2023 killing of an unhoused man in crisis on the NYC subway",
+    "link": "https://www.npr.org/2026/10/28/nx-s1-6019370/jordan-neely-daniel-penny-anand-giridharadas-man-in-the-mirror",
+    "summary": "Jordan Neely was frightening fellow passengers. A former Marine named Daniel Penny put Neely into a chokehold, killing him. Journalist Anand Giridharadas investigates the incident in Man in the Mirror.",
+    "pubDate": "Wed, 28 Oct 2026 14:07:33 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Fed holds interest rates steady even as inflation remains stubborn",
+    "link": "https://www.npr.org/2026/10/28/nx-s1-6020425/federal-reserve-interest-rates-inflation",
+    "summary": "The Federal Reserve opted to leave its benchmark interest rate unchanged — but investors widely expect the central bank to raise rates at its next meeting in December to combat stubborn inflation.",
+    "pubDate": "Wed, 28 Oct 2026 14:04:42 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "The Agent SDK",
+    "link": "https://cursor.com/blog/agent-sdk",
+    "summary": "Article URL: https://cursor.com/blog/agent-sdk Comments URL: https://news.ycombinator.com/item?id=50273731 Points: 84 # Comments: 101",
+    "pubDate": "Wed, 28 Oct 2026 14:02:20 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Meta has a new AI pet app called Waddle World",
+    "link": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
+    "summary": "Meta launched a new app called Waddle World, which essentially looks like a Tamagotchi clone, but with AI.",
+    "pubDate": "Wed, 28 Oct 2026 13:53:31 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+    "link": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+    "summary": "Article URL: https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/ Comments URL: https://news.ycombinator.com/item?id=50273396 Points: 394 # Comments: 438",
+    "pubDate": "Wed, 28 Oct 2026 13:41:30 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Free Fire returns to India as Garena launches localized version four years after ban",
+    "link": "https://techcrunch.com/2026/10/28/free-fire-returns-to-india-as-garena-launches-localized-version-four-years-after-ban/",
+    "summary": "Free Fire India was originally set to launch in September 2023, but Garena postponed its release.",
+    "pubDate": "Wed, 28 Oct 2026 13:39:18 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "A hidden ocean change near Antarctica could have global consequences",
+    "link": "https://arstechnica.com/science/2026/10/antarctic-sea-ice-loss-could-reshape-weather-far-beyond-the-pole/",
+    "summary": "Antarctic waters are getting saltier as sea-ice loss reshapes ocean circulation.",
+    "pubDate": "Wed, 28 Oct 2026 13:38:53 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Emacs Turns 50",
+    "link": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
+    "summary": "Article URL: https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/ Comments URL: https://news.ycombinator.com/item?id=50273171 Points: 374 # Comments: 161",
+    "pubDate": "Wed, 28 Oct 2026 13:25:11 +0000",
+    "source": "Hacker News",
+    "category": "tech"
   },
   {
     "title": "'Dissident republicans may be responsible' for hotel explosive device - PSNI",
@@ -96,6 +752,14 @@
     "category": "general"
   },
   {
+    "title": "Dolores Huerta, influential labor leader, feminist and civil rights icon, dies at 96",
+    "link": "https://www.npr.org/2026/10/28/nx-s1-6020543/dolores-huerta-dies",
+    "summary": "Huerta co-founded the United Farm Workers union to improve working conditions in the nation's fruit and vegetable fields and coined the phrase \"Sí, se puede!\" that became a widespread rallying cry.",
+    "pubDate": "Wed, 28 Oct 2026 12:10:43 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "Amazon Adds an Alexa Photo Frame and a Bedside Clock to Its Echo Family",
     "link": "https://www.wired.com/story/amazon-adds-an-alexa-photo-frame-and-a-bedside-clock-to-its-echo-family/",
     "summary": "The new Echo Studio also gets a camera, and the Echo Show 16 debuts an AI-generated Alexa interface.",
@@ -112,12 +776,28 @@
     "category": "general"
   },
   {
+    "title": "US agency approves Amazon Leo’s $11.5B acquisition of Globalstar",
+    "link": "https://www.reuters.com/business/media-telecom/us-agency-approves-amazon-leos-115-billion-acquisition-globalstar-2026-10-27/",
+    "summary": "Previously: Amazon to acquire Globalstar and expand Amazon Leo satellite network - https://news.ycombinator.com/item?id=47775183 - April 2026 (119 comments) Comments URL: https://news.ycombinator.com/item?id=50272145 Points: 219 # Comments: 100",
+    "pubDate": "Wed, 28 Oct 2026 11:54:23 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "Carrick and Fernandes hold clear-the-air talks",
     "link": "https://www.bbc.co.uk/sport/football/articles/cje36dn5nx36o?at_medium=RSS&at_campaign=rss",
     "summary": "Manchester United head coach Michael Carrick and captain Bruno Fernandes hold clear-the-air talks at the club's training ground.",
     "pubDate": "Wed, 28 Oct 2026 11:48:28 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Hoot 0.10.0 released",
+    "link": "https://spritely.institute/news/hoot-0-10-0-released.html",
+    "summary": "Comments",
+    "pubDate": "Wed, 28 Oct 2026 11:47:10 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Overturned carriages and makeshift medical tents at crash site",
@@ -134,6 +814,14 @@
     "pubDate": "Wed, 28 Oct 2026 11:11:53 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "GOTO Considered Totally Sick (for error handling in C)",
+    "link": "https://thestateofinahaze.net/blog/c-goto-considered-totally-sick/",
+    "summary": "Comments",
+    "pubDate": "Wed, 28 Oct 2026 11:07:18 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "China’s snooping around Pacific undersea cables raises risks for Big Tech",
@@ -157,6 +845,14 @@
     "summary": "The annual Portland Fermentation Festival took place last week in Oregon, at a time when sauerkraut, kimchi, and other funky foods are in the social and political spotlight.",
     "pubDate": "Wed, 28 Oct 2026 11:00:00 +0000",
     "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Pair-coding Lobste.rs feat",
+    "link": "https://lobste.rs/s/mgy3tr/pair_coding_lobste_rs_feat",
+    "summary": "There is a long standing issue I'm working at that turned out to have some interesting refactoring suggested by the admins . Does anybody want to pair-code this feat with me? (I also mentioned it in irc). I believe discussing the codebase would be incredibly helpful for me and others wiling to co...",
+    "pubDate": "Wed, 28 Oct 2026 10:53:34 -0500",
+    "source": "Lobsters",
     "category": "tech"
   },
   {
@@ -240,6 +936,14 @@
     "category": "tech"
   },
   {
+    "title": "Making SIMD Code Scale to Any Vector Width",
+    "link": "https://streamhpc.com/blog/2026-10-28/making-simd-code-scale-to-any-vector-width/",
+    "summary": "Comments",
+    "pubDate": "Wed, 28 Oct 2026 09:23:20 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "What's gone up even faster than gas or rent? The cost of caregiving",
     "link": "https://www.npr.org/2026/10/28/nx-s1-6019319/caregiving-costs-aarp-affordability",
     "summary": "A new study from AARP shows caregivers' out-of-pocket costs rose about 60% in the last five years.",
@@ -280,6 +984,14 @@
     "category": "general"
   },
   {
+    "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
+    "link": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
+    "summary": "Comments",
+    "pubDate": "Wed, 28 Oct 2026 08:34:06 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
     "link": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
     "summary": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously.",
@@ -294,6 +1006,14 @@
     "pubDate": "Wed, 28 Oct 2026 08:25:43 EDT",
     "source": "Science Daily",
     "category": "science"
+  },
+  {
+    "title": "Foundational Cryptography in SPARK",
+    "link": "https://www.adacore.com/blog/foundational-cryptography-in-spark",
+    "summary": "Comments",
+    "pubDate": "Wed, 28 Oct 2026 08:22:52 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Scientists discover a secret glow in toxic fire salamanders",
@@ -816,6 +1536,86 @@
     "category": "general"
   },
   {
+    "title": "A hacker stole more than 40,000 DHS employee records",
+    "link": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak",
+    "summary": "A hacker stole a trove of personal information from the Department of Homeland Security (DHS). The breach exposes the names, job titles, phone numbers, email addresses, and office locations of more than 41,000 employees, including those in US Immigration and Customs Enforcement (ICE) and Customs ...",
+    "pubDate": "2026-10-28T17:57:45-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+    "link": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+    "summary": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which will have open-s...",
+    "pubDate": "2026-10-28T17:34:04-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Readwise is taking on Kindle and Kobo for ebook supremacy",
+    "link": "https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store",
+    "summary": "For the last several years, Readwise has been building tools for power readers. There's the eponymous product, Readwise, which stores and categorizes your Kindle highlights to help you remember what you've read. There's Readwise Reader, an app for reading newsletters, PDFs, and web articles you'v...",
+    "pubDate": "2026-10-28T17:16:18-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Google says its investments in AI are driving more searches",
+    "link": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+    "summary": "Google parent company Alphabet says that its AI investments are leading to a big growth in searches year-over-year, as noted in its Q3 2026 earnings today. \"Our AI investments are driving overall Search query growth, including commercial queries,\" CEO Sundar Pichai says in a statement. \"In fact, ...",
+    "pubDate": "2026-10-28T16:22:26-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Microsoft reveals strong cloud growth amid financial reporting overhaul",
+    "link": "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027",
+    "summary": "Microsoft just posted the first quarter of its 2027 fiscal financial results. The software maker made $92.3 billion in revenue and a net income of $33.6 billion during Q1. Revenue is up 19 percent, and net income has increased by 32 percent. It's a new financial year for Microsoft, so the company...",
+    "pubDate": "2026-10-28T16:20:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Apple charges $14,549 for a fully specced touchscreen MacBook Pro",
+    "link": "https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced",
+    "summary": "With an OLED display and touchscreen capabilities, it's no surprise that the new MacBook Pro Apple announced today is more expensive than the MBP announced earlier this year. But upgrading the base models that start at $2,899 for the 14-inch, and $3,399 for the 16-inch, with every premium hardwar...",
+    "pubDate": "2026-10-28T16:12:44-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+    "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+    "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and G...",
+    "pubDate": "2026-10-28T16:03:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech",
+    "link": "https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream",
+    "summary": "What do drones, routers, and Roombas have in common? The US government wants to keep Chinese ones from entering the country. They’re the first consumer gadgets that are facing de facto import bans because of the US government’s xenophobic stance — and they might not be the last. Originally, the U...",
+    "pubDate": "2026-10-28T15:37:31-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Hands-on with the new OLED iPad Mini",
+    "link": "https://www.theverge.com/tech/1017932/hands-on-ipad-mini-8th-generation-pro-and-tell",
+    "summary": "Apple announced a new iPad Mini with a larger OLED display this week, and we've just gotten to try it out at Apple's \"Pro and tell\" event. It's an iPad for sure, but the new OLED on the Mini looks exceptional, and the optional nano-texture matte finish is awesome. The \"Pro and tell\" event venue [...",
+    "pubDate": "2026-10-28T15:18:58-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Brendan Carr plans to let prisons jam cellphone signals",
+    "link": "https://www.theverge.com/policy/1021165/fcc-brendan-carr-prison-phone-jamming",
+    "summary": "FCC Chairman Brendan Carr announced the agency will vote on November 19th on rules that would allow prisons to use signal jamming. Radiofrequency jammers are generally banned under Section 333 and the Communications Act of 1934, with few exceptions, and Carr has noted they've been permitted for u...",
+    "pubDate": "2026-10-28T14:57:02-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
     "title": "TikTok is going after Yelp and Google Maps with an in-app restaurant guide",
     "link": "https://www.theverge.com/news/1020267/tiktok-viral-restaurant-recommendations-must-eat-yelp",
     "summary": "TikTok is launching an in-app restaurant guide in a challenge to other platforms like Yelp and even Google Maps. The company on Wednesday announced the launch of Must Eat, a new section of the TikTok app built on 40 million posts, reviews, and comments about dining on the platform. The new featur...",
@@ -894,6 +1694,334 @@
     "pubDate": "2026-10-28T08:00:00-04:00",
     "source": "The Verge",
     "category": "tech"
+  },
+  {
+    "title": "Switchable Chlorine Atom Transfer Radical Reactions",
+    "link": "https://www.nature.com/articles/s41586-026-11348-z",
+    "summary": "Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-11348-z Switchable Chlorine Atom Transfer Radical Reactions",
+    "pubDate": "2026-10-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Back-to-monomer depolymerization of silicones by deoxygenative chlorination",
+    "link": "https://www.nature.com/articles/s41586-026-11335-4",
+    "summary": "Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-11335-4 Back-to-monomer depolymerization of silicones by deoxygenative chlorination",
+    "pubDate": "2026-10-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Why did ancient humans avoid this lush paradise",
+    "link": "https://www.nature.com/articles/d41586-026-03486-1",
+    "summary": "Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03486-1 A new expedition into the Rub’ al Khali desert finds no evidence of ancient human settlement.",
+    "pubDate": "2026-10-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "This Arabian desert was once a lush paradise. Why did ancient humans avoid it?",
+    "link": "https://www.nature.com/articles/d41586-026-03484-3",
+    "summary": "Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03484-3 Expedition revealed that water wasn’t enough for human settlement — plus, proposals to block sunlight get serious.",
+    "pubDate": "2026-10-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Accounting of Africa’s water reveals a management gap",
+    "link": "https://www.nature.com/articles/d41586-026-03260-3",
+    "summary": "Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03260-3 A map of Africa’s water demand reveals that the scarcity of water is only part of the problem facing the continent — management is a separate challenge.",
+    "pubDate": "2026-10-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "The brain liquidates billions of mutant neurons around the time we’re born",
+    "link": "https://www.nature.com/articles/d41586-026-03444-x",
+    "summary": "Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03444-x Faulty neurons can contribute to various neurological conditions, but researchers have uncovered a system that might clean them up.",
+    "pubDate": "2026-10-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Tethered to stone: how rock and water availability shaped early desert occupation",
+    "link": "https://www.nature.com/articles/d41586-026-03263-0",
+    "summary": "Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03263-0 Fresh water in deserts often points to sites with signs of early humans and stone tools. But, in Arabia’s Rub’ al Khali region, water alone does not predict occupation.",
+    "pubDate": "2026-10-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Lactate takes a shortcut into mitochondria to power the heart",
+    "link": "https://www.nature.com/articles/d41586-026-03261-2",
+    "summary": "Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03261-2 A cellular fuel called lactate is channelled directly into energy-generating organelles in heart muscle, defying the prevailing view about lactate transport.",
+    "pubDate": "2026-10-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Clues about complex life come from freshly cultivated archaea",
+    "link": "https://www.nature.com/articles/d41586-026-03294-7",
+    "summary": "Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03294-7 Two archaeal strains that belong to a lineage closely related to the ancestor of eukaryotic cells (complex cells with membrane-bound organelles) have been brought into culture. Their simple internal organization, elaborate ...",
+    "pubDate": "2026-10-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Dengue comes back even in vaccinated people — new clues",
+    "link": "https://www.nature.com/articles/d41586-026-03488-z",
+    "summary": "Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03488-z Researchers help to answer a question dogging the development of improved vaccines against the mosquito-borne disease.",
+    "pubDate": "2026-10-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Could a giant sunshade in space ‘solve global warming’? Scientists are taking the idea seriously",
+    "link": "https://www.nature.com/articles/d41586-026-03415-2",
+    "summary": "Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03415-2 Some say the concept is complete fantasy, but a detailed analysis suggests that the falling cost of rocket launches might make it feasible in a few decades.",
+    "pubDate": "2026-10-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "An unexpected function of a cell-cycle enzyme might explain the toxic effects of its inhibitors",
+    "link": "https://www.nature.com/articles/d41586-026-03288-5",
+    "summary": "Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03288-5 A previously unknown mechanism required for cells to start proliferating has been identified. A combination of mathematical modelling and cell-based experiments shows that the enzyme WEE1 switches off a protein-degradation ...",
+    "pubDate": "2026-10-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Meta-study sparks questions about what it means to be good at regulating emotions",
+    "link": "https://www.nature.com/articles/d41586-026-03262-1",
+    "summary": "Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03262-1 A first-of-its kind consortium reveals a lack of correlation between behavioural and neural measures of a person’s emotional regulation.",
+    "pubDate": "2026-10-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Genetic variants that alter gene regulation in specific cell types are closely tied to disease",
+    "link": "https://www.nature.com/articles/d41586-026-03067-2",
+    "summary": "Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03067-2 Single-cell profiling of nearly 2,000 people brings scientists closer to understanding the link between genetic variation, gene expression and health.",
+    "pubDate": "2026-10-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Ribbon made of carbon pentagons and heptagons has metallic properties",
+    "link": "https://www.nature.com/articles/d41586-026-03298-3",
+    "summary": "Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03298-3 Ribbons that are composed exclusively of five- and seven-carbon rings have metal-like electron transport and conductance. The ribbons can be synthesized by linking previously inaccessible chains of paired five-membered ring...",
+    "pubDate": "2026-10-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Where have all the saucers flown?",
+    "link": "https://www.nature.com/articles/d41586-026-03107-x",
+    "summary": "Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03107-x Missed encounters.",
+    "pubDate": "2026-10-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "The shifting sands of research independence: why mid-career scientists crave security",
+    "link": "https://www.nature.com/articles/d41586-026-02670-7",
+    "summary": "Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-02670-7 A project to improve understanding of an often-neglected group in academia aims to help its members to navigate career uncertainty.",
+    "pubDate": "2026-10-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Stone and water governed early human settlement of the desert",
+    "link": "https://www.nature.com/articles/s41586-026-11180-5",
+    "summary": "Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-11180-5 A geoarchaeological survey of the Rub’ al Khali (the Empty Quarter of Arabia) and spatial modelling of the Arabian Peninsula suggest that human settlement tracked the co-occurrence of water and stone suitable for making too...",
+    "pubDate": "2026-10-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "<i>Clostridium perfringens</i> Delta toxin targets CD9 to drive NEC and brain injury",
+    "link": "https://www.nature.com/articles/s41586-026-11211-1",
+    "summary": "Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-11211-1 A subset of necrotizing enterocolitis in infants is mediated specifically by the Clostridium perfringens Delta toxin.",
+    "pubDate": "2026-10-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Tandem repeat variation shapes immune cell type-specific gene expression",
+    "link": "https://www.nature.com/articles/s41586-026-10438-2",
+    "summary": "Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-10438-2 Whole-genome sequencing and cell-level gene expression measurements show that length variation in tandem repeats in the human genome contributes to cell type-specific differences in gene regulation and expression, as well a...",
+    "pubDate": "2026-10-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Delayed electron–hole recombination in a pseudo-direct semiconductor",
+    "link": "https://www.nature.com/articles/s41586-026-11223-x",
+    "summary": "Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-11223-x Pseudo-direct bandgap character in bismuth sulfide retards bimolecular electron–hole recombination while preserving strong light absorption.",
+    "pubDate": "2026-10-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Perinatal elimination of genetically aberrant human cortical neurons",
+    "link": "https://www.nature.com/articles/s41586-026-11190-3",
+    "summary": "Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-11190-3 Single-neuron sequencing shows that widespread genomic abnormalities are common prenatally but largely eliminated around birth, indicating developmental genome quality control in human neurons.",
+    "pubDate": "2026-10-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Connectome simulations identify a central pattern generator for fly walking",
+    "link": "https://www.nature.com/articles/s41586-026-11195-y",
+    "summary": "Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-11195-y Computational simulations of a neural network based on fly connectomes identify a three-neuron circuit that is organized to produce leg motor rhythms for walking.",
+    "pubDate": "2026-10-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Narrow carbon pentaheptite nanoribbon as a covalent metal",
+    "link": "https://www.nature.com/articles/s41586-026-11202-2",
+    "summary": "Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-11202-2 Planar carbon pentaheptite nanoribbons are synthesized by laterally fusing polypentalene chains transformed from pre-synthesized polycyclooctadiene chains, suggesting a possible route towards carbon quantum wires.",
+    "pubDate": "2026-10-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Molecular underpinnings of rheumatic diseases and emerging therapeutic concepts",
+    "link": "https://www.nature.com/articles/s41586-026-10966-x",
+    "summary": "Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-10966-x Improved molecular insights into inflammatory rheumatic diseases are enabling better disease control and advancing the field towards achieving durable remission and eventual cure.",
+    "pubDate": "2026-10-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Subcycle videography of Landau–Zener–Majorana transitions in graphene",
+    "link": "https://www.nature.com/articles/s41586-026-11214-y",
+    "summary": "Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-11214-y An experimental concept enabling attosecond-precision, subcycle band-structure videography covering the entire first Brillouin zone is demonstrated and used to visualize the lightwave-driven electron motion of Landau–Zener–...",
+    "pubDate": "2026-10-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "T and B cells recognize splicing-derived neutrophil neoantigens in lupus",
+    "link": "https://www.nature.com/articles/s41586-026-11219-7",
+    "summary": "Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-11219-7 In systemic lupus erythematosus, aberrant splicing in neutrophils generates novel peptides that are presented on MHC I, driving CD4+ and CD8+ T cell activation, clonal expansion and IgG autoantibody responses, establishing ...",
+    "pubDate": "2026-10-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Rare and common genetic variants shape single-cell immune gene expression",
+    "link": "https://www.nature.com/articles/s41586-026-10721-2",
+    "summary": "Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-10721-2 Phase 1 of TenK10K takes single-cell RNA sequencing and matched whole-genome sequencing data from 1,925 individuals, enabling detection of associations for common and rare genetic variants, the latter of which have been unc...",
+    "pubDate": "2026-10-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Emotion regulation capacity lacks a shared neural signature",
+    "link": "https://www.nature.com/articles/s41586-026-11203-1",
+    "summary": "Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-11203-1 Sensorimotor and amygdala activation, but not canonical prefrontal control circuits, indicate emotion regulation capacity.",
+    "pubDate": "2026-10-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Tumour assembloids recapitulate tumour–CAF–T cell crosstalk in renal cancer",
+    "link": "https://www.nature.com/articles/s41586-026-11208-w",
+    "summary": "Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-11208-w Tumour assembloids, which model components of human renal cell carcinoma, including cancer cells, cancer-associated fibroblasts and tumour-infiltrating immune cells, are used to identify an essential pathway that mediates h...",
+    "pubDate": "2026-10-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "MCT1-dependent mitochondrial lactate import sustains cardiac metabolism",
+    "link": "https://www.nature.com/articles/s41586-026-11182-3",
+    "summary": "Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-11182-3 In mouse myocardium, glucose oxidation persists in the absence of the mitochondrial pyruvate carrier, with mitochondrial MCT1 importing lactate into mitochondria and LDHB oxidizing it to pyruvate and NADH, sustaining cardia...",
+    "pubDate": "2026-10-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Eukaryotes’ closest relatives are internally simple syntrophic peptidotrophic archaea",
+    "link": "https://www.nature.com/articles/s41586-026-11170-7",
+    "summary": "Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-11170-7 Cultures reveal conservation of cell structure, physical symbioses and anaerobiosis across Heimdallarchaeia (the archaeal lineage that branches closest to eukaryotes) and other Promethearchaeota.",
+    "pubDate": "2026-10-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Monolithically and in situ integrated PbS infrared imagers",
+    "link": "https://www.nature.com/articles/s41586-026-11222-y",
+    "summary": "Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-11222-y A method for growing infrared image sensors directly from solution using raw materials by monolithic in situ integration of high-performance semiconductor PbS photodetectors on readout integrated circuits is described, yiel...",
+    "pubDate": "2026-10-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Time-reversal-symmetry-breaking spin injection from a compensated magnet",
+    "link": "https://www.nature.com/articles/s41586-026-11227-7",
+    "summary": "Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-11227-7 Experiments show that altermagnetic Mn5Si3 generates spin currents despite zero net magnetization, demonstrating a central prediction of altermagnetic spintronics.",
+    "pubDate": "2026-10-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "A single-molecule spin–photon interface",
+    "link": "https://www.nature.com/articles/s41586-026-11147-6",
+    "summary": "Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-11147-6 A triplet carbene molecule in a tailored crystal provides a stable single-molecule spin–photon interface with millisecond coherence, advancing chemically engineered molecular qubits for quantum networking.",
+    "pubDate": "2026-10-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Presynaptic homeostasis mediated by exocytosis of a SNARE protein",
+    "link": "https://www.nature.com/articles/s41586-026-11201-3",
+    "summary": "Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-11201-3 Experiments show that when subjected to high-frequency stimulation, excitatory neurons exhibit a presynaptic form of homeostatic plasticity mediated by the exocytosis of v-SNARE protein VAMP7 and the resulting inhibition of...",
+    "pubDate": "2026-10-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Spatial and sectoral water demand assessment for the African continent",
+    "link": "https://www.nature.com/articles/s41586-026-11199-8",
+    "summary": "Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-11199-8 Africa-wide water demand analysis across six sectors in 2020 shows that in specific regions of northern and southern Africa, the current water demand exceeds water availability.",
+    "pubDate": "2026-10-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Alzheimer’s disease genetics converges on microglial and neuronal dysregulation",
+    "link": "https://www.nature.com/articles/s41586-026-11206-y",
+    "summary": "Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-11206-y A multi-ancestry study of Alzheimer’s disease identifies new risk loci and potential drug targets, implicates microglia and neurons, and reveals a larger common-variant contribution than previously estimated.",
+    "pubDate": "2026-10-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Genetic variants shape single-cell chromatin accessibility and disease risk",
+    "link": "https://www.nature.com/articles/s41586-026-11173-4",
+    "summary": "Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-11173-4 Single-cell chromatin accessibility profiling identifies cell-type-specific and cell-state-specific genetic effects that link non-coding variants to immune disease risk.",
+    "pubDate": "2026-10-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Pharmacological inhibition of METTL1 as a therapy against solid and blood cancers",
+    "link": "https://www.nature.com/articles/s41586-026-11178-z",
+    "summary": "Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-11178-z Pharmacological inhibition of the m7G methyltransferase METTL1 in vivo impairs tumour growth and substantially prolongs survival in multiple mouse cancer models of different tissue origin.",
+    "pubDate": "2026-10-28",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "SWI/SNF complexes shape 3D chromatin architecture through CTCF and cohesin",
+    "link": "https://www.nature.com/articles/s41586-026-11197-w",
+    "summary": "Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-11197-w Loss of function of canonical BAF induces gain of CTCF and cohesin binding that alters 3D genome architecture and reprograms transcription.",
+    "pubDate": "2026-10-28",
+    "source": "Nature",
+    "category": "science"
   },
   {
     "title": "What students think about my teaching doesn’t matter. Am I wrong?",

@@ -1,0 +1,442 @@
+[
+  {
+    "title": "Your blood pressure could be dangerous even when your numbers look normal",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261027063814.htm",
+    "summary": "Researchers have discovered a small group of brain cells that prevents dangerous blood pressure swings, even when average readings appear normal. The finding reveals a hidden source of cardiovascular risk and could open the door to new treatments that protect the heart and brain.",
+    "pubDate": "Wed, 28 Oct 2026 23:54:37 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+    "link": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+    "summary": "Article URL: https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html Comments URL: https://news.ycombinator.com/item?id=50282544 Points: 136 # Comments: 57",
+    "pubDate": "Wed, 28 Oct 2026 23:45:46 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Scientists just broke a textbook rule of physics",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261027063713.htm",
+    "summary": "Scientists have defied a long-standing rule of laser physics by generating X-rays with much higher energies than conventional theory predicts. The surprising discovery reveals how two electrons working together can overcome a previously accepted limit, opening new possibilities for quantum research.",
+    "pubDate": "Wed, 28 Oct 2026 23:39:27 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "StackOverflow now gets fewer than 1000 questions a month",
+    "link": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+    "summary": "Article URL: https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1 Comments URL: https://news.ycombinator.com/item?id=50282454 Points: 256 # Comments: 234",
+    "pubDate": "Wed, 28 Oct 2026 23:35:02 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Hackers expose the identities of more than 40,000 DHS employees",
+    "link": "https://www.npr.org/2026/10/28/nx-s1-6021497/dhs-hack-ice",
+    "summary": "A group of hacktivists calling themselves Distributed Denial of Secrets, said the unmasking of ICE agents, DHS operatives and contractors was fair play, given the government's lack of transparency.",
+    "pubDate": "Wed, 28 Oct 2026 23:28:50 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "The Future Trait Has A Missing State",
+    "link": "https://blog.yoshuawuyts.com/the-future-trait-has-a-missing-state",
+    "summary": "Comments",
+    "pubDate": "Wed, 28 Oct 2026 23:24:28 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
+    "link": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+    "summary": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
+    "pubDate": "Wed, 28 Oct 2026 23:15:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "ACLs don’t (2009)",
+    "link": "https://shiftleft.com/mirrors/www.hpl.hp.com/techreports/2009/HPL-2009-20.pdf",
+    "summary": "The ACL model is unable to make correct access decisions for interactions involving more than two principals, since required information is not retained across message sends. Though this deficiency has long been documented in the published literature, it is not widely understood. This logic error...",
+    "pubDate": "Wed, 28 Oct 2026 23:13:20 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Meteors don't just burn up. What really happens is far more violent",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261027063710.htm",
+    "summary": "Scientists have uncovered seven surprising stages that space rocks go through as they hurtle toward Earth, revealing that melting and violent fragmentation, rather than simple evaporation, determine their fate. The discovery could help explain why meteorites scatter across the ground and how dang...",
+    "pubDate": "Wed, 28 Oct 2026 23:06:41 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "The 2,000-Nit OLED in Apple’s New MacBook Is a Big Deal",
+    "link": "https://www.wired.com/story/the-2000-nit-oled-in-apples-new-macbook-pro-is-a-big-deal/",
+    "summary": "The touchscreen in the new MacBook Pro is crazily bright with very deep blacks. Here’s why it’s unlike anything else you can currently buy.",
+    "pubDate": "Wed, 28 Oct 2026 22:54:16 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
+    "link": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
+    "summary": "This Vulcan launch will be the first to utilize a full complement of six solid rocket boosters.",
+    "pubDate": "Wed, 28 Oct 2026 22:51:15 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
+    "link": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
+    "summary": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade.",
+    "pubDate": "Wed, 28 Oct 2026 22:47:50 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Fleetwood to face Everton or Newcastle in last eight",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cmp3glnle0wdo?at_medium=RSS&at_campaign=rss",
+    "summary": "League Two Fleetwood Town will face Everton or Newcastle United at Highbury in the quarter-finals of the EFL Cup.",
+    "pubDate": "Wed, 28 Oct 2026 22:45:35 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "As US ties fray, Europe plans first undersea cable link to Greenland",
+    "link": "https://arstechnica.com/gadgets/2026/10/as-us-ties-fray-europe-plans-first-undersea-cable-link-to-greenland/",
+    "summary": "Europe's Pan-Arctic Cable will bypass US to link Canada, Japan, and South Korea.",
+    "pubDate": "Wed, 28 Oct 2026 22:35:50 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Forecasters are predicting a warmer and wetter winter. Here's how El Niño will affect your region.",
+    "link": "https://www.npr.org/2026/10/28/nx-s1-6009547/el-nino-forecast-us-winter",
+    "summary": "El Niño years typically lead to more precipitation and higher-than-average temperatures. The latest data shows the different potential impacts by region.",
+    "pubDate": "Wed, 28 Oct 2026 22:20:45 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Peptide peddlers cheer as RFK Jr. unilaterally grants access, overruling FDA",
+    "link": "https://arstechnica.com/health/2026/10/peptide-peddlers-cheer-as-rfk-jr-unilaterally-grants-access-overruling-fda/",
+    "summary": "Six unproven peptides popular with MAHA now under \"enforcement discretion policy.\"",
+    "pubDate": "Wed, 28 Oct 2026 22:17:15 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "A Health Update",
+    "link": "https://furbo.org/2026/10/28/a-health-update/",
+    "summary": "Article URL: https://furbo.org/2026/10/28/a-health-update/ Comments URL: https://news.ycombinator.com/item?id=50280974 Points: 175 # Comments: 27",
+    "pubDate": "Wed, 28 Oct 2026 21:13:21 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Scientists discover a hidden oxygen reservoir deep inside Earth",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261027063702.htm",
+    "summary": "Scientists have discovered that magma deep inside Earth can store surprising amounts of extra oxygen, potentially revealing a hidden contributor to our planet's oxygen-rich atmosphere. The findings suggest that ancient volcanic eruptions may have helped transform Earth's atmosphere billions of ye...",
+    "pubDate": "Wed, 28 Oct 2026 21:13:05 EDT",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Redox Ring Buffers Project Summary",
+    "link": "https://www.redox-os.org/news/nlnet-rb-summary/",
+    "summary": "Comments",
+    "pubDate": "Wed, 28 Oct 2026 21:04:00 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Judge denies the Justice Department's bid to stop processing California ballots",
+    "link": "https://www.npr.org/2026/10/28/nx-s1-6021478/doj-california-ballots-denied",
+    "summary": "While the judge rejected the Department of Justice's unprecedented demand in California, the case isn't over yet. The federal government immediately filed notice that it will appeal.",
+    "pubDate": "Wed, 28 Oct 2026 20:52:50 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Winner claims massive Canada lotto prize hours before expiration",
+    "link": "https://www.bbc.co.uk/news/articles/cwvg039x08g2o?at_medium=RSS&at_campaign=rss",
+    "summary": "It's rare for such a large lottery jackpot to go unclaimed - this one is worth C$40m (£21.4m).",
+    "pubDate": "Wed, 28 Oct 2026 20:35:01 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Introducing the Accessible Components Library",
+    "link": "https://tetralogical.com/blog/2026/10/14/accessible-components-library/",
+    "summary": "Comments",
+    "pubDate": "Wed, 28 Oct 2026 19:30:45 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Red Roses make six changes but Kildunne on bench again",
+    "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cq1m4kn84gk2o?at_medium=RSS&at_campaign=rss",
+    "summary": "Red Roses' star Ellie Kildunne is named on England's bench again as head coach John Mitchell makes six changes to his side to face the United States.",
+    "pubDate": "Wed, 28 Oct 2026 19:00:51 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Scaling Hierarchical Networks",
+    "link": "https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1",
+    "summary": "Article URL: https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1 Comments URL: https://news.ycombinator.com/item?id=50278253 Points: 53 # Comments: 2",
+    "pubDate": "Wed, 28 Oct 2026 18:07:41 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Brazilian political drama unfolds as defeated Flavio Bolsonaro arrives in Miami",
+    "link": "https://www.npr.org/2026/10/28/nx-s1-6020518/brazilian-political-drama-unfolds-as-defeated-flavio-bolsonaro-arrives-in-miami",
+    "summary": "Defeated presidential candidate Flavio Bolsonaro and his family have arrived in the U.S. after Brazilian authorities ordered him to surrender his passport. He is facing multiple investigations in Brazil.",
+    "pubDate": "Wed, 28 Oct 2026 17:46:27 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "让 Agent 读懂你的身体：数据处理篇",
+    "link": "https://sspai.com/prime/story/how-to-analyze-health-data-with-agent",
+    "summary": "在上一篇文章《让Agent读懂你的身体：数据获取篇》中，我花了很大的篇幅讲清楚了第一个问题：Agent怎样拿到数据。如果照着实践完，你大概率已经收获了一份存储了运动健康数据的SQLite、Markdo ... 查看全文 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文。",
+    "pubDate": "Thu, 29 Oct 2026 11:29:46 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "一日一技｜iPhone 恶意被锁，线上移除流程拆招",
+    "link": "https://sspai.com/post/116686",
+    "summary": "如果你从网上购买过 Apple ID，又在自己的设备上登录，那就会存在一种风险：这类共享 ID 的密码掌握在卖家手里，卖家可以随时更改。本文就介绍了移除激活锁的全过程。 查看全文",
+    "pubDate": "Thu, 29 Oct 2026 11:00:00 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "派早报：Apple 推出触控款 MacBook Pro、华为发布多款新品等",
+    "link": "https://sspai.com/post/117750",
+    "summary": "Google 推出世界模型 Genie 4、索尼推出手机主摄图像传感器 LYTIA 720 等。 查看全文",
+    "pubDate": "Thu, 29 Oct 2026 08:26:49 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "'Super offensive' - We love how we look but AI tried to 'fix' our visible differences",
+    "link": "https://www.bbc.co.uk/news/articles/cmx28e44xxx7o?at_medium=RSS&at_campaign=rss",
+    "summary": "An AI tool edited a photo of Rhiannon Morgan in a work newsletter and she was shocked by the results.",
+    "pubDate": "Thu, 29 Oct 2026 06:13:33 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Mum of critically ill baby denied hospital food as she wasn't breastfeeding",
+    "link": "https://www.bbc.co.uk/news/articles/cqzrdkn4v36po?at_medium=RSS&at_campaign=rss",
+    "summary": "Sophie Price had given birth in the same hospital five days earlier but was denied a hot meal.",
+    "pubDate": "Thu, 29 Oct 2026 06:12:07 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Ofcom outlines ways social media can verify ages of users",
+    "link": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss",
+    "summary": "Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over.",
+    "pubDate": "Thu, 29 Oct 2026 05:57:15 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Healey promises reduction in welfare bill before next election",
+    "link": "https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o?at_medium=RSS&at_campaign=rss",
+    "summary": "The Conservatives criticised the chancellor for not providing more details on welfare reform in his Budget.",
+    "pubDate": "Thu, 29 Oct 2026 05:57:01 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The Papers: 'Healey offers cold comfort' and 'A £100 trick or treat?'",
+    "link": "https://www.bbc.co.uk/news/articles/c6j470yx0nweo?at_medium=RSS&at_campaign=rss",
+    "summary": "Thursday's papers focus entirely on John Healey's first Budget that included £100 for energy bills and a bank tax.",
+    "pubDate": "Thu, 29 Oct 2026 05:29:08 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Spain begins three days of mourning after train crash kills dozens",
+    "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
+    "summary": "Emergency teams worked through the night to find victims after one of the worst rail disasters in Europe's modern history.",
+    "pubDate": "Thu, 29 Oct 2026 03:51:05 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Zillow to pay $212.5M to settle class action for real estate venture",
+    "link": "https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/",
+    "summary": "Article URL: https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/ Comments URL: https://news.ycombinator.com/item?id=50284342 Points: 25 # Comments: 4",
+    "pubDate": "Thu, 29 Oct 2026 03:48:05 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The Milwaukee Brewers win the first World Series title in franchise history",
+    "link": "https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series",
+    "summary": "Article URL: https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series Comments URL: https://news.ycombinator.com/item?id=50284329 Points: 68 # Comments: 26",
+    "pubDate": "Thu, 29 Oct 2026 03:44:12 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Bluesky Is Blocking Links to a Major Leak of DHS Employee Records",
+    "link": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
+    "summary": "Bluesky tells WIRED it blocked links to a leaked archive of information on 41,000 ICE, CBP, and other DHS workers because it contains people’s contact information, shared without their authorization.",
+    "pubDate": "Thu, 29 Oct 2026 03:34:46 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Claude Code burns ~15–20% of your tokens on a 3-word status line",
+    "link": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+    "summary": "Article URL: https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce Comments URL: https://news.ycombinator.com/item?id=50284255 Points: 197 # Comments: 45",
+    "pubDate": "Thu, 29 Oct 2026 03:33:42 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
+    "link": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo?at_medium=RSS&at_campaign=rss",
+    "summary": "Sanrio has apologised after its merchandise line with Japanese TV series Vivant drew criticism.",
+    "pubDate": "Thu, 29 Oct 2026 03:16:19 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "'Like cutting up a Picasso': AI microdrama edit of Neighbours worries actors and crew",
+    "link": "https://www.bbc.co.uk/news/articles/cj1dw9znd1q1o?at_medium=RSS&at_campaign=rss",
+    "summary": "A micro-drama will use AI-assisted technology to edit old episodes of the Australian TV soap to focus on Margot Robbie's character.",
+    "pubDate": "Thu, 29 Oct 2026 03:15:35 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "US Health Secretary RFK Jr to expand access to unapproved peptides",
+    "link": "https://www.bbc.co.uk/news/articles/cmq8nwd748v3o?at_medium=RSS&at_campaign=rss",
+    "summary": "Health experts have cautioned against use of the drugs, citing a lack of clinical trials for humans and the unknown long-term effects.",
+    "pubDate": "Thu, 29 Oct 2026 03:09:10 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Details of thousands of US immigration agents leaked in major hack",
+    "link": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
+    "summary": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
+    "pubDate": "Thu, 29 Oct 2026 01:30:43 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Microsoft profits soar days after announcing thousands of layoffs",
+    "link": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
+    "summary": "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.",
+    "pubDate": "Thu, 29 Oct 2026 01:27:40 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "US conservative activists charged with unlawful voting in election stunt",
+    "link": "https://www.bbc.co.uk/news/articles/c52e9vnege7eo?at_medium=RSS&at_campaign=rss",
+    "summary": "Prosecutors alleged the pair misrepresented their identities by giving election judges the names of other people.",
+    "pubDate": "Thu, 29 Oct 2026 01:17:32 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Uji - Gentoo of Coding Agents",
+    "link": "https://github.com/uji-labs/uji",
+    "summary": "Comments",
+    "pubDate": "Thu, 29 Oct 2026 01:02:18 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Brewers beat the Rays to win the first World Series title in franchise history",
+    "link": "https://www.npr.org/2026/10/29/nx-s1-6021953/brewers-win-first-world-series-title",
+    "summary": "The small-ball Milwaukee Brewers playing in the smallest market in the majors are World Series champions for the first time. The championship comes in the 58th season for a franchise that began as the Seattle Pilots in 1969.",
+    "pubDate": "Thu, 29 Oct 2026 00:49:24 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Europe's youth take to the streets - they feel locked out of a promising future",
+    "link": "https://www.bbc.co.uk/news/articles/cm2ke80nd929o?at_medium=RSS&at_campaign=rss",
+    "summary": "The last month has seen youth-driven demonstrations across Europe. What connects them?",
+    "pubDate": "Thu, 29 Oct 2026 00:33:11 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Take our Celebrity Traitors quiz to find out which star you would be in this year's show",
+    "link": "https://www.bbc.co.uk/news/articles/c6d93vxj3g5xo?at_medium=RSS&at_campaign=rss",
+    "summary": "Are you an observant sleuth or a smooth operator? Find out which star you are by answering these questions.",
+    "pubDate": "Thu, 29 Oct 2026 00:29:39 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+    "link": "https://divagr.com/blog/qwenputer",
+    "summary": "Article URL: https://divagr.com/blog/qwenputer Comments URL: https://news.ycombinator.com/item?id=50282838 Points: 273 # Comments: 62",
+    "pubDate": "Thu, 29 Oct 2026 00:25:45 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Weight-loss jab boom brings needles warning for recyclers",
+    "link": "https://www.bbc.co.uk/news/articles/c98rz45yjyvgo?at_medium=RSS&at_campaign=rss",
+    "summary": "Recycling bosses say used needles are increasingly being found among household waste.",
+    "pubDate": "Thu, 29 Oct 2026 00:06:12 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "'He could be happier' - why is Estevao becoming Chelsea's forgotten man?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cv5ynwkndw61o?at_medium=RSS&at_campaign=rss",
+    "summary": "Estevao plays no part as Chelsea lose on penalties to Liverpool in the Carabao Cup - so where does this leave the exciting Brazilian with Xabi Alonso?",
+    "pubDate": "Thu, 29 Oct 2026 00:05:21 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Family row over George Michael items up for auction - including Faith guitar",
+    "link": "https://www.bbc.co.uk/news/articles/cmr4y51gd5yro?at_medium=RSS&at_campaign=rss",
+    "summary": "The brother of the singer's late personal assistant says she would not have wanted the items to be sold.",
+    "pubDate": "Thu, 29 Oct 2026 00:01:16 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "'I live with a ghost': Japan's haunted homes attract bargain hunters",
+    "link": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
+    "summary": "Properties where someone has died in tragic circumstances can have big reductions in price.",
+    "pubDate": "Thu, 29 Oct 2026 00:00:15 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
+    "link": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
+    "summary": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-term goal\" of pushing the computer industry to create \"a fully domestic supply chain.\" Even a sin...",
+    "pubDate": "2026-10-28T22:22:46-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+    "summary": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the ...",
+    "pubDate": "2026-10-28T19:05:39-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  }
+]

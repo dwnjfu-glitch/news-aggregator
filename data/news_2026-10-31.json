@@ -1,11 +1,35 @@
 [
   {
+    "title": "Tiny zebra-striped bee sighting a 'huge surprise'",
+    "link": "https://www.bbc.co.uk/news/articles/c3dxwjx7xpj0o?at_medium=RSS&at_campaign=rss",
+    "summary": "A zebra-striped bee is seen in Somerset for the first time, offering hope in restored saltmarshes.",
+    "pubDate": "Tue, 27 Oct 2026 16:50:13 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "Building an AI-native engineering org",
     "link": "https://twitter.com/sgondala2/status/2115832070274723875",
     "summary": "Article URL: https://twitter.com/sgondala2/status/2115832070274723875 Comments URL: https://news.ycombinator.com/item?id=50296730 Points: 131 # Comments: 168",
     "pubDate": "Thu, 29 Oct 2026 21:58:34 +0000",
     "source": "Hacker News",
     "category": "tech"
+  },
+  {
+    "title": "Author's camping trip inspired Hollywood film Wicker",
+    "link": "https://www.bbc.co.uk/news/articles/c60rlpqlyd8xo?at_medium=RSS&at_campaign=rss",
+    "summary": "Author Ursula Wills says the story was inspired by a camping trip in Cornwall 20 years ago.",
+    "pubDate": "Sun, 25 Oct 2026 07:15:56 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "本月玩什么｜影之刃零、战争机器：事变日等",
+    "link": "https://sspai.com/post/117960",
+    "summary": "欢迎你在评论区分享 10 月新作的游玩体验。 查看全文",
+    "pubDate": "Sat, 31 Oct 2026 13:29:19 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
   },
   {
     "title": "一图流 | 一张图看懂中国版 Apple 智能",
@@ -16,12 +40,212 @@
     "category": "tech-cn"
   },
   {
+    "title": "Evacuees from Russia-occupied city where residents ate weeds on way to Ukraine",
+    "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+    "summary": "Residents left the devastated city on Friday following a ceasefire brokered by US First Lady Melania Trump.",
+    "pubDate": "Sat, 31 Oct 2026 12:05:04 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+    "link": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+    "summary": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
+    "pubDate": "Sat, 31 Oct 2026 12:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Seabirds racing home over the ocean can get jet-lagged",
+    "link": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
+    "summary": "A long flight home from feeding grounds messes with birds' internal clocks.",
+    "pubDate": "Sat, 31 Oct 2026 11:15:26 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "The FDA wants to pull its approval of a drug. It’s not so easy.",
+    "link": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
+    "summary": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?",
+    "pubDate": "Sat, 31 Oct 2026 11:02:34 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Shiny Object Syndrome",
+    "link": "https://en.wikipedia.org/wiki/Shiny_object_syndrome",
+    "summary": "Article URL: https://en.wikipedia.org/wiki/Shiny_object_syndrome Comments URL: https://news.ycombinator.com/item?id=50314872 Points: 23 # Comments: 11",
+    "pubDate": "Sat, 31 Oct 2026 11:02:14 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Govee Christmas Lights 2 Deal: Save $25 on These Smart String Lights",
+    "link": "https://www.wired.com/story/govee-christmas-lights-deal-october-2026/",
+    "summary": "Glow up your home indoors or out with these versatile, discounted, full color smart string lights. They’re WIRED-tested and 25 percent off right now.",
+    "pubDate": "Sat, 31 Oct 2026 11:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "There’s a Completely New Type of Whisky. It’s French and Made in Concrete Eggs",
+    "link": "https://www.wired.com/story/theres-a-completely-new-type-of-whisky-its-french-and-made-in-concrete-eggs/",
+    "summary": "The founders of Maison Lineti are, in a world first, making single malt whisky as if it were wine—and the spirit world is mighty impressed.",
+    "pubDate": "Sat, 31 Oct 2026 11:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Backup by Biolite Review: A Cool Idea",
+    "link": "https://www.wired.com/review/backup-by-biolite/",
+    "summary": "Backup by BioLite is designed to power your fridge when the grid goes down. It works, but protecting your ice cream doesn’t come cheap.",
+    "pubDate": "Sat, 31 Oct 2026 10:33:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "We Took over ChatGPT Accounts",
+    "link": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+    "summary": "Article URL: https://www.parameter.ai/labs/we-found-a-gap-at-openai Comments URL: https://news.ycombinator.com/item?id=50314699 Points: 40 # Comments: 24",
+    "pubDate": "Sat, 31 Oct 2026 10:30:11 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
+    "link": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
+    "summary": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat.",
+    "pubDate": "Sat, 31 Oct 2026 10:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Molly(Signal fork) has not been updated since 3 months and is vulnerable",
+    "link": "https://piefed.world/post/1503394",
+    "summary": "Article URL: https://piefed.world/post/1503394 Comments URL: https://news.ycombinator.com/item?id=50314666 Points: 58 # Comments: 19",
+    "pubDate": "Sat, 31 Oct 2026 10:23:41 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Serbia just elected the world's brainiest parliament",
+    "link": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+    "summary": "Article URL: https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament Comments URL: https://news.ycombinator.com/item?id=50314654 Points: 284 # Comments: 176",
+    "pubDate": "Sat, 31 Oct 2026 10:21:30 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+    "link": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+    "summary": "A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research labs.",
+    "pubDate": "Sat, 31 Oct 2026 10:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Bose QC Headphones (2nd Gen) Sale: Lowest Price Ahead of Black Friday",
+    "link": "https://www.wired.com/story/bose-deals-october-2026/",
+    "summary": "They’re a steal at over 40 percent off in multiple colors. Plus, other great Bose deals you should know about ahead of Black Friday.",
+    "pubDate": "Sat, 31 Oct 2026 10:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Keurig Alta Brewer Review: Brand-New Tech, Classically Good Coffee",
+    "link": "https://www.wired.com/review/keurig-alta-brewer/",
+    "summary": "This multifaceted home coffee brewer and its new AltaRounds will make you rethink everything you know about Keurig machines.",
+    "pubDate": "Sat, 31 Oct 2026 09:35:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Are Memories Transferable? Meet the Scientists Replicating an Infamous Study to Find Out",
+    "link": "https://www.wired.com/story/are-memories-transferable-meet-the-scientists-replicating-an-infamous-study-to-find-out/",
+    "summary": "In the 1960’s, an odd experiment showed planarian worms could transfer memories by consuming each other. It was a sensational finding—that is until the worms stopped learning.",
+    "pubDate": "Sat, 31 Oct 2026 09:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Best Sunrise Alarm Clock (2026): Hatch, Lumie",
+    "link": "https://www.wired.com/story/should-you-get-a-sunrise-alarm-clock/",
+    "summary": "I’ve never been a morning person. This bedside gadget is the only thing that’s ever changed that.",
+    "pubDate": "Sat, 31 Oct 2026 09:01:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "White Dwarfs Aren’t Just White. Scientists Discover Dying Stars Turning Pink and Green",
+    "link": "https://www.wired.com/story/white-dwarfs-arent-just-white-scientists-discover-dying-stars-turning-pink-and-green/",
+    "summary": "Astronomers find that a white dwarf’s density and the kind of material it absorbed from its surroundings can produce a rainbow of shades in the star’s atmosphere.",
+    "pubDate": "Sat, 31 Oct 2026 09:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "How long do you need to hold down the power button to turn off a PC?",
+    "link": "https://www.osnews.com/story/146273/how-long-do-you-need-to-hold-down-the-power-button-to-turn-off-a-pc/",
+    "summary": "Article URL: https://www.osnews.com/story/146273/how-long-do-you-need-to-hold-down-the-power-button-to-turn-off-a-pc/ Comments URL: https://news.ycombinator.com/item?id=50314243 Points: 41 # Comments: 7",
+    "pubDate": "Sat, 31 Oct 2026 08:43:32 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Perspective: Forget the ballroom, we're headed to Cheesecake Factory!",
+    "link": "https://www.npr.org/2026/10/31/nx-s1-6015466/perspective-forget-the-ballroom-were-headed-to-cheesecake-factory",
+    "summary": "Former President Obama caused a kerfuffle with his comments about President Trump's interior decorating at the White House. But maybe state dinners should happen at The Cheesecake Factory.",
+    "pubDate": "Sat, 31 Oct 2026 08:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Drone photo award winners: Far-out landscapes. Ship recycling. Rugs, rugs rugs!",
+    "link": "https://www.npr.org/2026/10/31/g-s1-150698/drone-photo-award-winners",
+    "summary": "The Siena Drone Photo Awards for 2026 offer breathtaking bird's-eye views of our planet, revealing landscapes, livelihoods and human stories often invisible from the ground.",
+    "pubDate": "Sat, 31 Oct 2026 07:56:10 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "UK has 'no authority' over case of woman killed by father in US",
+    "link": "https://www.bbc.co.uk/news/articles/cm9dz48g24yzo?at_medium=RSS&at_campaign=rss",
+    "summary": "Jane Coates wrote to Cheshire police urging them to gather evidence into Lucy Harrison's killing.",
+    "pubDate": "Sat, 31 Oct 2026 07:19:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Shearer on trials of MOTD & the manager's job that never was",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cwkg5l822k3no?at_medium=RSS&at_campaign=rss",
+    "summary": "Alan Shearer discusses his love of Newcastle, almost continuing his managerial career and swapping the pitch for the commentary box in The Football Interview.",
+    "pubDate": "Sat, 31 Oct 2026 06:23:58 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Digital Minimalism",
+    "link": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
+    "summary": "Article URL: https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html Comments URL: https://news.ycombinator.com/item?id=50313661 Points: 95 # Comments: 62",
+    "pubDate": "Sat, 31 Oct 2026 06:16:36 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
     "title": "Spain train disaster clouds Sánchez chances of re-election",
     "link": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
     "summary": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
     "pubDate": "Sat, 31 Oct 2026 05:44:21 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Marelleo, a story box I built for my kids",
+    "link": "https://zebra.rodeo/en/blog/marelleo/",
+    "summary": "Comments",
+    "pubDate": "Sat, 31 Oct 2026 05:36:46 -0500",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "The Papers: 'Rush to recover stolen $6bn' and 'War on wind farms'",
@@ -32,11 +256,83 @@
     "category": "general"
   },
   {
+    "title": "The Secret of Fast Programming: Stop Thinking »",
+    "link": "https://www.codesimplicity.com/post/the-secret-of-fast-programming-stop-thinking/",
+    "summary": "Comments",
+    "pubDate": "Sat, 31 Oct 2026 05:20:48 -0500",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Mahmood expected to announce changes to rules around indefinite leave to remain",
     "link": "https://www.bbc.co.uk/news/articles/cm62yxxd992eo?at_medium=RSS&at_campaign=rss",
     "summary": "The home secretary has faced opposition from within the government over plans to impose new rules on migrant workers already in the UK.",
     "pubDate": "Sat, 31 Oct 2026 05:16:01 GMT",
     "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Do you have seasonal affective disorder? How to tell — and what to do about it",
+    "link": "https://www.npr.org/2026/10/31/nx-s1-6023200/do-you-have-seasonal-affective-disorder-how-to-tell-and-what-to-do-about-it",
+    "summary": "The syndrome can make people feel like a \"hibernating bear,\" says Dr. Norman Rosenthal, who published the first research on SAD. He explains how to identify the symptoms and what to do to feel better.",
+    "pubDate": "Sat, 31 Oct 2026 05:01:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "After last year's storm, this remote Alaska town is still picking up the pieces",
+    "link": "https://www.npr.org/2026/10/31/nx-s1-6021471/ex-typhoon-halong-damages-western-alaska-native-villages-kipnuk",
+    "summary": "In October, 2025, the remnants of a typhoon seriously damaged Alaska Native villages in the far western part of the state. A year later, one of the hardest hit communities is still recovering.",
+    "pubDate": "Sat, 31 Oct 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Can I trust the polls? And other questions from listeners about the 2026 midterms",
+    "link": "https://www.npr.org/2026/10/31/g-s1-149981/listener-questions-npr-midterms-2026-election",
+    "summary": "Ahead of Election Day, listeners send in questions about whether debates are dead, if polls are reliable for election coverage and how Trump might work with Democrats if they win control of Congress.",
+    "pubDate": "Sat, 31 Oct 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Plans for a data center threaten scenic wilderness and dark skies in West Virginia",
+    "link": "https://www.npr.org/2026/10/31/nx-s1-5992790/data-centers-west-virginia-skiing-dark-skies",
+    "summary": "Residents are fighting back against plans for a project that would span thousands of acres near the Monongahela National Forest and popular outdoor recreation, ski areas and dark sky sites.",
+    "pubDate": "Sat, 31 Oct 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Your writing was flagged as AI. What does that actually mean?",
+    "link": "https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram",
+    "summary": "As editors turn to imperfect AI detection tools to weed out machine-generated submissions, writers who say they were falsely accused of using AI are left wondering what triggered a positive result.",
+    "pubDate": "Sat, 31 Oct 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "100 years later, Harry Houdini's death still haunts Detroit",
+    "link": "https://www.npr.org/2026/10/31/nx-s1-6008110/100-years-harry-houdinis-death-haunts-detroit",
+    "summary": "The legacy of magician Harry Houdini still looms large in Detroit 100 years after his death there. Some mark the anniversary of Houdini's death by trying to make contact with his spirit.",
+    "pubDate": "Sat, 31 Oct 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Oyster stocks have plunged in the Chesapeake. This resident wants to bring them back",
+    "link": "https://www.npr.org/2026/10/31/nx-s1-6011228/oyster-farming-conservation-chesapeake-bay",
+    "summary": "Oyster reefs once abounded in the Chesapeake, but overharvesting slashed their populations, leading to poorer water quality and less habitat for other species. Now, researchers and local residents are finding creative ways to bring their numbers back up.",
+    "pubDate": "Sat, 31 Oct 2026 05:00:00 -0400",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Oil company earnings skyrocket — again",
+    "link": "https://www.npr.org/2026/10/31/nx-s1-6008072/oil-company-profits-gasoline-diesel-prices",
+    "summary": "Oil companies are reporting another quarter of sky-high profits as the war in Iran pushes up the price of oil — and prices at the pump.",
+    "pubDate": "Sat, 31 Oct 2026 05:00:00 -0400",
+    "source": "NPR",
     "category": "general"
   },
   {
@@ -84,6 +380,14 @@
     "link": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
     "summary": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work.",
     "pubDate": "Sat, 31 Oct 2026 02:39:25 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Watch: Traitor or faithful? Celebrities reveal their allegiances",
+    "link": "https://www.bbc.co.uk/news/videos/cmeq3ppg7wrno?at_medium=RSS&at_campaign=rss",
+    "summary": "The second series of BBC One's The Celebrity Traitors reached its climax on Friday, with the 21 original contestants having been reduced to seven before the final.",
+    "pubDate": "Sat, 31 Oct 2026 02:20:46 GMT",
     "source": "BBC News",
     "category": "general"
   },
@@ -164,6 +468,14 @@
     "link": "https://www.bbc.co.uk/news/articles/cm5yn7d0qx1do?at_medium=RSS&at_campaign=rss",
     "summary": "The prime minister has categorically ruled out an early general election, but it has not stopped speculation at Westminster.",
     "pubDate": "Sat, 31 Oct 2026 00:00:15 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The Californian whose pumpkin patch dream took root in Scotland",
+    "link": "https://www.bbc.co.uk/news/articles/cmqlneqgenqxo?at_medium=RSS&at_campaign=rss",
+    "summary": "American Cameron Laird introduced pumpkin-picking to her husband John's farm 28 years ago.",
+    "pubDate": "Sat, 24 Oct 2026 22:26:49 GMT",
     "source": "BBC News",
     "category": "general"
   },
@@ -301,6 +613,30 @@
     "summary": "https://cursor.com/blog/claude-code-extension-security-notic... Comments URL: https://news.ycombinator.com/item?id=50300683 Points: 856 # Comments: 512",
     "pubDate": "Fri, 30 Oct 2026 07:09:12 +0000",
     "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "'They don't bother me at all': The man who chooses to sleep with bedbugs for science",
+    "link": "https://www.bbc.co.uk/news/articles/cqkgje8jepy3o?at_medium=RSS&at_campaign=rss",
+    "summary": "Dr Richard Naylor has about 50,000 bedbugs at his laboratory in the Forest of Dean.",
+    "pubDate": "Fri, 30 Oct 2026 06:15:26 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Touchscreens everywhere!",
+    "link": "https://www.theverge.com/tech/1023569/ipad-mini-alexa-photo-frame-readwise-installer",
+    "summary": "Hi, friends! Welcome to Installer No. 150, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy Halloween, and also you can read all the old editions at the Installer homepage.) This week, I was in the Smoky Mountains in Tennessee on a family vacation. It ...",
+    "pubDate": "2026-10-31T08:00:00-04:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Here’s why you can&#8217;t shake those unhinged political texts",
+    "link": "https://www.theverge.com/policy/1023899/political-texts-midterm-elections",
+    "summary": "\"Its James Talarico. Can you please please please please pretty pretty please rush in even just $1?\" \"Who's working to elect James Talarico? Marxists.\" \"Wow! Wow! Wow! Mark Kelly just made a HUGE announcement!\" \"We asked Ben Verlander, MLB analyst and former Tigers prospect, to record a quick vid...",
+    "pubDate": "2026-10-31T08:00:00-04:00",
+    "source": "The Verge",
     "category": "tech"
   },
   {

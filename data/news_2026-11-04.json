@@ -1,5 +1,621 @@
 [
   {
+    "title": "你不知道的客户端开发：AI 时代下的选型、原生与借力",
+    "link": "https://sspai.com/post/117713",
+    "summary": "选型选得好只是锦上添花，最终还是要先把用户最真实的需求解决好。 查看全文",
+    "pubDate": "Wed, 04 Nov 2026 20:25:55 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "Knives Are Out in the White House",
+    "link": "https://www.wired.com/story/knives-are-out-in-the-white-house/",
+    "summary": "From top officials like Pete Hegseth to White House aides to right-wing pundits, the race is on to find someone besides Donald Trump to blame for the Republicans’ catastrophic losses.",
+    "pubDate": "Wed, 04 Nov 2026 19:32:01 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Open source AI is booming. Hugging Face explains who profits.",
+    "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+    "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gain...",
+    "pubDate": "Wed, 04 Nov 2026 19:30:04 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+    "link": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+    "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
+    "pubDate": "Wed, 04 Nov 2026 19:29:52 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’",
+    "link": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
+    "summary": "“Most of the risk is actually created by a couple of players building behind closed doors,” Clément Delangue said of the need for open source AI.",
+    "pubDate": "Wed, 04 Nov 2026 19:16:25 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Fewer mothers to appear in court days after giving birth under new guidance",
+    "link": "https://www.bbc.co.uk/news/articles/cqy7lz5d4k35o?at_medium=RSS&at_campaign=rss",
+    "summary": "The changes follow concerns over the number of mothers summoned to safeguarding hearings shortly after labour.",
+    "pubDate": "Wed, 04 Nov 2026 19:02:38 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+    "link": "https://www.ricursive.com/ripple",
+    "summary": "Article URL: https://www.ricursive.com/ripple Comments URL: https://news.ycombinator.com/item?id=50369925 Points: 28 # Comments: 14",
+    "pubDate": "Wed, 04 Nov 2026 18:53:29 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "An island in mourning: Tenerife processes death of De Miguel",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ckx2qz97gz3no?at_medium=RSS&at_campaign=rss",
+    "summary": "Tenerife football club and the wider football community mourn the loss of footballer Jesus de Miguel following an on-field collision.",
+    "pubDate": "Wed, 04 Nov 2026 18:51:21 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Have I Befriended a Murderer?",
+    "link": "https://longreads.com/2026/11/03/murder-friendship-doubt/",
+    "summary": "Article URL: https://longreads.com/2026/11/03/murder-friendship-doubt/ Comments URL: https://news.ycombinator.com/item?id=50369754 Points: 25 # Comments: 1",
+    "pubDate": "Wed, 04 Nov 2026 18:40:54 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Bowen: Trump's loss limits powers at home, but it will likely be different abroad",
+    "link": "https://www.bbc.co.uk/news/articles/crkg7wj8g201o?at_medium=RSS&at_campaign=rss",
+    "summary": "After bruising midterm results, President Trump will want to show he can still shake the world, the BBC's international editor writes.",
+    "pubDate": "Wed, 04 Nov 2026 18:35:07 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "British man infected with Ebola in DR Congo to be flown back to UK",
+    "link": "https://www.bbc.co.uk/news/articles/crq8nj7xqdv9o?at_medium=RSS&at_campaign=rss",
+    "summary": "The wider risk to the UK public from the deadly virus remains low, a government spokesperson says.",
+    "pubDate": "Wed, 04 Nov 2026 18:34:19 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Education Shouldn't Be Held for Ransom",
+    "link": "https://blog.kagi.com/education-should-not-be-held-for-ransom",
+    "summary": "Article URL: https://blog.kagi.com/education-should-not-be-held-for-ransom Comments URL: https://news.ycombinator.com/item?id=50369657 Points: 61 # Comments: 20",
+    "pubDate": "Wed, 04 Nov 2026 18:33:46 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Google Pixel 11, 11 Pro, and 11 Pro XL Sale: Save Up to $350",
+    "link": "https://www.wired.com/story/google-pixel-11-deal-november-2026/",
+    "summary": "Upgrade to the smartest Android smartphones. Google’s latest Pixel 11 phones are all on sale at their lowest prices to date, well ahead of Black Friday.",
+    "pubDate": "Wed, 04 Nov 2026 18:27:19 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "The Lawyer Holding Big Tech Accountable by ‘Beating the Tar Out of Them’ in Court",
+    "link": "https://www.wired.com/story/wired-world-fair-2026-mark-lanier/",
+    "summary": "Mark Lanier led the first social media addiction case to go to trial, winning a verdict against Meta and Google in March. It’s just the beginning.",
+    "pubDate": "Wed, 04 Nov 2026 18:21:26 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Benchfmt.rs: Bringing Go's benchmarking and benchstat workflow to Rust",
+    "link": "https://www.bwplotka.dev/2026/rust-microbenchmarks-benchstat/",
+    "summary": "Article URL: https://www.bwplotka.dev/2026/rust-microbenchmarks-benchstat/ Comments URL: https://news.ycombinator.com/item?id=50369462 Points: 14 # Comments: 2",
+    "pubDate": "Wed, 04 Nov 2026 18:20:06 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Waymo confirms it will start splitting with Uber in January 2028",
+    "link": "https://techcrunch.com/2026/11/04/waymo-confirms-it-will-start-splitting-with-uber-in-january-2028/",
+    "summary": "The split will set up direct competition in those markets, as Uber has many other autonomous vehicle partners on its network.",
+    "pubDate": "Wed, 04 Nov 2026 18:12:30 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "‘You Can See Everything’ is getting an outer space release and it hasn’t even come out in Europe yet",
+    "link": "https://techcrunch.com/2026/11/04/you-can-see-everything-is-getting-an-outer-space-release-and-it-hasnt-even-come-out-in-europe-yet/",
+    "summary": "It is easier to watch the Elizabeth Holmes documentary \"You Can See Everything\" in low Earth orbit than in London.",
+    "pubDate": "Wed, 04 Nov 2026 18:10:11 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Democrats won Congress in a blue wave. Now comes the hard part.",
+    "link": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
+    "summary": "Democrats can vote legislation through. But Trump still has veto power.",
+    "pubDate": "Wed, 04 Nov 2026 18:01:27 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "People say they want small smartphones—the Enough Phone will put that to the test",
+    "link": "https://arstechnica.com/gadgets/2026/11/people-say-they-want-small-smartphones-the-enough-phone-will-put-that-to-the-test/",
+    "summary": "It won't win the specs race, but it will actually fit in your hand.",
+    "pubDate": "Wed, 04 Nov 2026 18:00:40 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Small Phones Have Vanished. Enough Phone Wants to Bring Them Back",
+    "link": "https://www.wired.com/story/big-tech-abandoned-the-small-phone-the-enough-phone-wants-to-save-it/",
+    "summary": "As flagship smartphones balloon in size, the Enough Phone offers a 5.3-inch handset. Choose between stock Android or an anti-distraction operating system.",
+    "pubDate": "Wed, 04 Nov 2026 18:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "This Month in Ladybird – October 2026",
+    "link": "https://ladybird.org/newsletter/2026-10-31/",
+    "summary": "Article URL: https://ladybird.org/newsletter/2026-10-31/ Comments URL: https://news.ycombinator.com/item?id=50369194 Points: 58 # Comments: 11",
+    "pubDate": "Wed, 04 Nov 2026 17:59:35 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Cocaine overtakes heroin as leading cause of drug deaths in England and Wales",
+    "link": "https://www.bbc.co.uk/news/articles/cmdxw051np9jo?at_medium=RSS&at_campaign=rss",
+    "summary": "The number of deaths linked to cocaine use in England and Wales has nearly quadrupled in a decade.",
+    "pubDate": "Wed, 04 Nov 2026 17:58:59 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Palestine Action ban undermined confidence in anti-terror laws, Supreme Court told",
+    "link": "https://www.bbc.co.uk/news/articles/cmr4yvel29keo?at_medium=RSS&at_campaign=rss",
+    "summary": "Co-founder of Palestine Action, Huda Ammori, is challenging the government's decision to proscribe the group.",
+    "pubDate": "Wed, 04 Nov 2026 17:55:53 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "BYD doubles its Brazil market share to 9.7% a year after opening its local plant",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-03/china-s-byd-doubles-market-share-in-brazil-with-new-plant-eyed",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-11-03/china-s-byd-doubles-market-share-in-brazil-with-new-plant-eyed Comments URL: https://news.ycombinator.com/item?id=50369146 Points: 105 # Comments: 89",
+    "pubDate": "Wed, 04 Nov 2026 17:55:29 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "A New Go API for JSON",
+    "link": "https://go.dev/blog/jsonv2",
+    "summary": "Article URL: https://go.dev/blog/jsonv2 Comments URL: https://news.ycombinator.com/item?id=50369106 Points: 86 # Comments: 22",
+    "pubDate": "Wed, 04 Nov 2026 17:52:11 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Mugabe's son arrested over 'assault' during luxury car smuggling probe",
+    "link": "https://www.bbc.co.uk/news/articles/cqd098d471ppo?at_medium=RSS&at_campaign=rss",
+    "summary": "The son of late former president Robert Mugabe will appear in court on 5 November with four other men.",
+    "pubDate": "Wed, 04 Nov 2026 17:50:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "How landmark Everton compensation prevented Burnley record loss",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c893zeq4eln1o?at_medium=RSS&at_campaign=rss",
+    "summary": "Burnley have published promising financial results, but under the hood is a payment from Everton which makes the picture look far less positive.",
+    "pubDate": "Wed, 04 Nov 2026 17:48:19 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+    "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+    "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
+    "pubDate": "Wed, 04 Nov 2026 17:45:58 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The last time a Kansas Democrat was in the Senate, the Wizard of Oz was in cinemas",
+    "link": "https://www.bbc.co.uk/news/articles/cqx29rxkld84o?at_medium=RSS&at_campaign=rss",
+    "summary": "Adam Hamilton, a pastor, has made history as the first Kansas Democrat to win the Senate in almost 100 years.",
+    "pubDate": "Wed, 04 Nov 2026 17:21:32 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Huntingdon train attack passengers thought stabbing was a 'joke'",
+    "link": "https://www.bbc.co.uk/news/articles/cq8ez378661xo?at_medium=RSS&at_campaign=rss",
+    "summary": "The first person who was attacked also says he asked hospital staff \"am I going to die today?\".",
+    "pubDate": "Wed, 04 Nov 2026 17:20:59 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Progress on provable inference for large language models",
+    "link": "https://www.anthropic.com/research/provable-inference",
+    "summary": "Article URL: https://www.anthropic.com/research/provable-inference Comments URL: https://news.ycombinator.com/item?id=50368626 Points: 113 # Comments: 49",
+    "pubDate": "Wed, 04 Nov 2026 17:17:46 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Sequoia hits rewind, undoing 20 years of expansion",
+    "link": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/",
+    "summary": "Sequoia is consolidating into a smaller, Bay Area–centered firm, shutting down the programs and offices it built during a 20-year expansion while announcing roughly $10 billion in new funds.",
+    "pubDate": "Wed, 04 Nov 2026 17:11:15 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Zverev annoyed by reaction to becoming world number one",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/ckpdg01pq55eo?at_medium=RSS&at_campaign=rss",
+    "summary": "After a defeat at the Paris Masters, Alexander Zverev complains that he is the only player who has had \"to explain why it's OK\" for him to be top of the rankings.",
+    "pubDate": "Wed, 04 Nov 2026 17:08:45 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The Results Are In: Voters Hate Data Centers",
+    "link": "https://www.wired.com/story/the-results-are-in-voters-hate-data-centers/",
+    "summary": "From high-profile Senate races to local rezoning initiatives, data centers and their supporters did miserably on the ballot in the 2026 midterms.",
+    "pubDate": "Wed, 04 Nov 2026 16:56:17 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
+    "link": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
+    "summary": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
+    "pubDate": "Wed, 04 Nov 2026 16:51:35 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "‘You Don’t Put Your Head in the Sand for 4 Years’: Colossal CEO Ben Lamm on Working With Trump",
+    "link": "https://www.wired.com/story/wired-world-fair-2026-ben-lamm-colossal-biosciences/",
+    "summary": "The company’s cofounder recently convinced the Trump administration to support an initiative to gather DNA samples from endangered species.",
+    "pubDate": "Wed, 04 Nov 2026 16:43:35 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "'Most difficult days of my life,' says goalkeeper Owono after Tenerife player's death",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
+    "summary": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
+    "pubDate": "Wed, 04 Nov 2026 16:40:38 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Brigitte Bardot inheritance row deepens after private letter to partner leaked",
+    "link": "https://www.bbc.co.uk/news/articles/ck1ex56e5q8wo?at_medium=RSS&at_campaign=rss",
+    "summary": "In the letter, the late French actress says her partner Bernard de Chiara was \"incapable\" of giving \"support, a tenderness, a presence\".",
+    "pubDate": "Wed, 04 Nov 2026 16:31:14 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
+    "link": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
+    "summary": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.",
+    "pubDate": "Wed, 04 Nov 2026 16:26:15 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Israel's president begins consultations with parties after election deadlock",
+    "link": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
+    "summary": "Herzog warns politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election.",
+    "pubDate": "Wed, 04 Nov 2026 16:18:21 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+    "link": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+    "summary": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.",
+    "pubDate": "Wed, 04 Nov 2026 16:17:22 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Why Man Utd's Roma comeback has echoes of Mourinho and Solskjaer",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cqx28zjxdxxzo?at_medium=RSS&at_campaign=rss",
+    "summary": "After their memorable comeback victory against Roma, can Manchester United avoid a repeat of the past and follow that up with a successive victory?",
+    "pubDate": "Wed, 04 Nov 2026 16:12:46 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Voters Set $400 Million of Elon Musk’s Money on Fire",
+    "link": "https://www.wired.com/story/voters-set-dollar400-million-of-elon-musks-money-on-fire/",
+    "summary": "Elon Musk almost single-handedly funded the Republican midterms push. But of every traceable dollar Musk put into races that have been decided, more than 99 cents went to a race he lost.",
+    "pubDate": "Wed, 04 Nov 2026 16:06:12 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Binance says hackers who stole billions in crypto spent months planning heist",
+    "link": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/",
+    "summary": "Techniques included laptop infections, compromised internal tooling, and fake job interviews.",
+    "pubDate": "Wed, 04 Nov 2026 16:06:03 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "What I learned driving the Slate electric truck prototype",
+    "link": "https://arstechnica.com/cars/2026/11/what-i-learned-driving-the-slate-electric-truck-prototype/",
+    "summary": "After 45 minutes behind the wheel, I am more optimistic about the $25,000 EV.",
+    "pubDate": "Wed, 04 Nov 2026 15:42:18 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "AMD expects to outsell Intel in Q4 for the first time in history",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+    "summary": "Article URL: https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections Comments URL: https://news.ycombinator.com/item?id=50367125 Points: 309 # Comments: 98",
+    "pubDate": "Wed, 04 Nov 2026 15:38:34 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "World must 'unite' to ease cost of living pressure, PM Burnham says after US midterms",
+    "link": "https://www.bbc.co.uk/news/articles/c6kgl0xk8en9o?at_medium=RSS&at_campaign=rss",
+    "summary": "Andy Burnham says prices won't come down until the US's conflict with Iran is resolved.",
+    "pubDate": "Wed, 04 Nov 2026 15:35:09 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Letting users trust their own MCP clients, without opening a phishing hole",
+    "link": "https://streamvessel.com/blog/mcp-trusted-redirect-uris",
+    "summary": "Article URL: https://streamvessel.com/blog/mcp-trusted-redirect-uris Comments URL: https://news.ycombinator.com/item?id=50367004 Points: 26 # Comments: 2",
+    "pubDate": "Wed, 04 Nov 2026 15:30:57 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Kimi K3.1 Pro model weights are out",
+    "link": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+    "summary": "Article URL: https://huggingface.co/moonshotai/Kimi-K3.1-Pro Comments URL: https://news.ycombinator.com/item?id=50366999 Points: 221 # Comments: 58",
+    "pubDate": "Wed, 04 Nov 2026 15:30:30 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Election Deniers Aren’t Contesting Their Massive Losses",
+    "link": "https://www.wired.com/story/election-deniers-not-contesting-their-massive-losses/",
+    "summary": "For months, election deniers claimed without evidence that the vote would be rigged. Now they appear to be accepting crushing defeats.",
+    "pubDate": "Wed, 04 Nov 2026 15:30:18 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Show HN: I built a tool that prices a prebuilt PC part by part",
+    "link": "https://pcdealcheck.com/",
+    "summary": "I've missed out on an awesome computer that I could use for a project because figuring out value took too long. Users paste a listing and receive a value grade, dated component estimates and a shareable report. AI reads the listing but my custom built price engine determines the grade (updated ev...",
+    "pubDate": "Wed, 04 Nov 2026 15:25:33 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Evergreen: A Provably Safe Systems Language",
+    "link": "https://evergreenlang.net",
+    "summary": "Article URL: https://evergreenlang.net Comments URL: https://news.ycombinator.com/item?id=50366919 Points: 73 # Comments: 65",
+    "pubDate": "Wed, 04 Nov 2026 15:25:04 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Adding Window Functions to a Spreadsheet",
+    "link": "https://www.getgrist.com/blog/running-totals-you-dont-have-to-chase/",
+    "summary": "Article URL: https://www.getgrist.com/blog/running-totals-you-dont-have-to-chase/ Comments URL: https://news.ycombinator.com/item?id=50366860 Points: 34 # Comments: 22",
+    "pubDate": "Wed, 04 Nov 2026 15:21:12 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Show HN: Codemap – one-page interactive map of any Go repository",
+    "link": "https://github.com/peterretief/codemap",
+    "summary": "Article URL: https://github.com/peterretief/codemap Comments URL: https://news.ycombinator.com/item?id=50366811 Points: 34 # Comments: 16",
+    "pubDate": "Wed, 04 Nov 2026 15:18:24 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The DEA banned a drug some opioid users called a miracle",
+    "link": "https://arstechnica.com/health/2026/11/the-dea-banned-a-drug-some-opioid-users-called-a-miracle/",
+    "summary": "Researchers say the Schedule I ban could kill studies of a promising opioid treatment.",
+    "pubDate": "Wed, 04 Nov 2026 15:08:48 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Debian apt security update (man-in-the-middle)",
+    "link": "https://lists.debian.org/debian-security-announce/2026/msg00526.html?pow_referer=",
+    "summary": "Article URL: https://lists.debian.org/debian-security-announce/2026/msg00526.html?pow_referer= Comments URL: https://news.ycombinator.com/item?id=50366575 Points: 114 # Comments: 23",
+    "pubDate": "Wed, 04 Nov 2026 15:04:14 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
+    "link": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+    "summary": "Article URL: https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/ Comments URL: https://news.ycombinator.com/item?id=50366522 Points: 188 # Comments: 125",
+    "pubDate": "Wed, 04 Nov 2026 15:01:44 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire",
+    "link": "https://www.bbc.co.uk/news/articles/cm87zvpzwq0no?at_medium=RSS&at_campaign=rss",
+    "summary": "Russian and Ukrainian delegations will meet the US first lady at the White House on Thursday.",
+    "pubDate": "Wed, 04 Nov 2026 15:01:10 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Titan OS raises $46 million to expand its smart TV OS internationally",
+    "link": "https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/",
+    "summary": "Titan OS has raised $110 million in funding to date.",
+    "pubDate": "Wed, 04 Nov 2026 15:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "微诗：从诗入画、且唱且行，这款免费 app 把诗装进手机",
+    "link": "https://sspai.com/post/115819",
+    "summary": "没有融资、没有收费，也没有什么商业计划。花这些钱，只是为了把一个自己喜欢了很多年的东西做成自己心里的样子。 查看全文",
+    "pubDate": "Wed, 04 Nov 2026 14:50:48 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "‘Musk’ Director Alex Gibney Wants to Know if Democrats Can Now Hold Elon Musk Accountable",
+    "link": "https://www.wired.com/story/wired-world-fair-2026-alex-gibey-musk/",
+    "summary": "Spending hundreds of millions of dollars means nothing to Elon Musk, director Alex Gibney says.",
+    "pubDate": "Wed, 04 Nov 2026 14:15:21 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Tencent Hy4",
+    "link": "https://hy.tencent.ai/research/hy4",
+    "summary": "Article URL: https://hy.tencent.ai/research/hy4 Comments URL: https://news.ycombinator.com/item?id=50365780 Points: 97 # Comments: 29",
+    "pubDate": "Wed, 04 Nov 2026 14:11:26 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Revolut’s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank",
+    "link": "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/",
+    "summary": "Glade Brook, Coatue, and T. Rowe Price were among the investors that led the share sale.",
+    "pubDate": "Wed, 04 Nov 2026 14:10:10 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "North Korean fake job interview led to $6.3B Binance heist",
+    "link": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+    "summary": "Article URL: https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398 Comments URL: https://news.ycombinator.com/item?id=50365755 Points: 448 # Comments: 265",
+    "pubDate": "Wed, 04 Nov 2026 14:09:55 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google",
+    "link": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
+    "summary": "The AI minister now concedes the estimated figure is less than a third of that. Researchers blame the country’s slow rate of adoption.",
+    "pubDate": "Wed, 04 Nov 2026 13:49:51 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "‘I’m 100 Percent at War With Trump’: MAGA Revolts After Midterms Wipeout",
+    "link": "https://www.wired.com/story/im-100-percent-at-war-with-trump-maga-revolts-after-midterms-wipeout/",
+    "summary": "While some of Donald Trump’s closest allies have remained silent, much of MAGA is blaming him for historic losses.",
+    "pubDate": "Wed, 04 Nov 2026 13:48:28 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Chuck Schumer heralds Democrats' 'generational remake' of Senate",
+    "link": "https://www.npr.org/2026/11/04/g-s1-151833/2026-midterms-chuck-schumer-senate-democrats",
+    "summary": "In remarks the day after his party flipped control of Congress, the Senate Minority Leader said voters had spoken clearly about their priorities, and said it's up to the Democratic party to deliver.",
+    "pubDate": "Wed, 04 Nov 2026 13:37:34 -0500",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Mike Johnson will step aside as top House Republican next Congress",
+    "link": "https://www.npr.org/2026/11/04/g-s1-151854/2026-midterms-mike-johnson-speaker",
+    "summary": "After Tuesday's bruising defeat for Republicans, House Speaker Mike Johnson will not stay on as minority leader come January.",
+    "pubDate": "Wed, 04 Nov 2026 13:14:13 -0500",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+    "link": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
+    "summary": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
+    "pubDate": "Wed, 04 Nov 2026 13:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Back in the majority, Democrats have plans for a long list of Trump investigations",
+    "link": "https://www.npr.org/2026/11/04/g-s1-150276/2026-midterms-democrats-investigations",
+    "summary": "Democrats will have the ability to subpoena records and compel individuals to testify. The Epstein files, Elon Musk, the Iran war and Trump's business interests may all come under the microscope.",
+    "pubDate": "Wed, 04 Nov 2026 12:38:36 -0500",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Burnt TOAST",
+    "link": "https://www.pgedge.com/blog/burnt-toast",
+    "summary": "Comments",
+    "pubDate": "Wed, 04 Nov 2026 12:00:32 -0600",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Canva lays off over 1,200 people amid slowing growth",
+    "link": "https://techcrunch.com/2026/11/04/canva-lays-off-over-1200-people-amid-slowing-growth/",
+    "summary": "Canva is cutting 22% of its staff as it faces its 'hardest year' yet.",
+    "pubDate": "Wed, 04 Nov 2026 11:59:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Could Hyrox's Olympic ambition spell the end for triathlon?",
+    "link": "https://www.bbc.co.uk/sport/triathlon/articles/cwp9ge311n91o?at_medium=RSS&at_campaign=rss",
+    "summary": "BBC Sport speaks to several triathletes about what World Triathlon's Hyrox partnership means for the future of the sport.",
+    "pubDate": "Wed, 04 Nov 2026 11:52:19 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "I Tried Amazon’s New Kindles. Buy This Accessory Instead (2026)",
+    "link": "https://www.wired.com/story/finally-a-kindle-page-turner/",
+    "summary": "If you already have a compatible e-reader, the $35 Kindle Click could be all the upgrade you need.",
+    "pubDate": "Wed, 04 Nov 2026 11:36:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Kansas just elected a Democrat. His message to Washington? Be decent",
+    "link": "https://www.npr.org/2026/11/04/nx-s1-6028587/adam-hamilton-kansas-senate-political-divides",
+    "summary": "The Methodist pastor who flipped a Republican Senate seat says voters want more than political change. He tells NPR what he heard from Kansans about decency, faith and finding common ground.",
+    "pubDate": "Wed, 04 Nov 2026 11:08:41 -0500",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "What’s the Difference Between an Ebike and an E-Moto?",
+    "link": "https://www.wired.com/story/whats-the-difference-between-an-ebike-and-an-e-moto/",
+    "summary": "Riders and lawmakers often don’t know the difference, and retailers sometimes muddy the waters on purpose. Here’s how to buy the micromobility vehicle you actually want.",
+    "pubDate": "Wed, 04 Nov 2026 10:45:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "New Jersey’s New Ebike Law Is Causing Chaos",
+    "link": "https://www.wired.com/story/new-jerseys-new-ebike-law-is-causing-chaos/",
+    "summary": "Since early 2026, the law has required electric bike owners to get licenses—and in some cases, insurance—to ride. It has left many stranded and confused.",
+    "pubDate": "Wed, 04 Nov 2026 10:45:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
     "title": "国行 Apple 智能上手：这些功能已经准备好",
     "link": "https://sspai.com/post/118404",
     "summary": "iOS 27.3 Beta 带来了姗姗来迟的国行版 Apple 智能，这些细节你值得了解。 查看全文",
@@ -8,12 +624,156 @@
     "category": "tech-cn"
   },
   {
+    "title": "Scottish government needs to act faster on grooming gang inquiry, says survivor",
+    "link": "https://www.bbc.co.uk/news/articles/ckly0vvx41y3o?at_medium=RSS&at_campaign=rss",
+    "summary": "Holly Alex, who was groomed as a teenager, has urged the government to make good on their pledge to deliver an inquiry \"at pace\".",
+    "pubDate": "Wed, 04 Nov 2026 10:31:57 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Chernobyl’s Dogs May Be Evolving, but Scientists Don’t Know Why",
+    "link": "https://www.wired.com/story/chernobyls-dogs-may-be-evolving-but-scientists-dont-know-why/",
+    "summary": "A new study found evidence of natural selection in the dogs of Chernobyl, but it’s still unclear what drove these genetic differences and what evolutionary advantages they may provide.",
+    "pubDate": "Wed, 04 Nov 2026 10:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Shlemiel the Painter Is Back: How Zig’s libc Rewrite Made SQLite Slower",
+    "link": "https://dennisforbes.ca/blog/microblog/2026/10/the_accidental_12000x_sqlite_slowdown/",
+    "summary": "Comments",
+    "pubDate": "Wed, 04 Nov 2026 09:23:09 -0600",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Your Cryptography Conspiracy Theory Is Wrong",
+    "link": "https://soatok.blog/2026/10/29/your-cryptography-conspiracy-theory-is-wrong/",
+    "summary": "Comments",
+    "pubDate": "Wed, 04 Nov 2026 08:58:11 -0600",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Lorem Ipsum Dot Gov Dot UK",
+    "link": "https://shkspr.mobi/blog/2026/11/lorem-ipsum-dot-gov-dot-uk/",
+    "summary": "Comments",
+    "pubDate": "Wed, 04 Nov 2026 08:50:34 -0600",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Abdul El-Sayed welcomes Trump's plan to cut Israel aid, calls for end to arms sales",
+    "link": "https://www.npr.org/2026/11/04/nx-s1-6028702/abdul-el-sayed-michigan-senate-israel-aid",
+    "summary": "Michigan's first Muslim senator-elect, Abdul El-Sayed, discusses his historic victory, an unlikely agreement with Trump on Israel military aid and the political divisions that remain.",
+    "pubDate": "Wed, 04 Nov 2026 08:38:09 -0500",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "A surprising discovery could help aging muscles repair themselves",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261104005226.htm",
+    "summary": "Scientists have discovered a compound that transforms a natural muscle-repair protein into a more powerful version dubbed \"Super HGF,\" more than doubling its ability to bind to a key receptor while protecting it from age-related chemical damage. The breakthrough, supported by early mouse experime...",
+    "pubDate": "Wed, 04 Nov 2026 08:26:06 EST",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Scientists may have finally explained why our brains and bodies are cross-wired",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261103003146.htm",
+    "summary": "Scientists propose that the brain’s mysterious cross-wiring, which connects each hemisphere to the opposite side of the body, may have originated more than 500 million years ago in the visual systems of ancient fish. Rather than evolving for a specific advantage, this unusual arrangement may simp...",
+    "pubDate": "Wed, 04 Nov 2026 08:24:52 EST",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "How to speed up the Rust compiler in November 2026",
+    "link": "https://nnethercote.github.io/2026/11/04/how-to-speed-up-the-rust-compiler-in-november-2026.html",
+    "summary": "Comments",
+    "pubDate": "Wed, 04 Nov 2026 08:05:16 -0600",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "派早报：Apple 智能国行版开放测试、拓竹发布 H3C 3D 打印机等",
     "link": "https://sspai.com/post/118402",
     "summary": "Surface 鼠标第 2 代国行预售，Windows 11 优化 8 GB 内存表现等。 查看全文",
     "pubDate": "Wed, 04 Nov 2026 08:00:00 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "Permanent daylight saving time has a dark side, scientists warn",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261103003157.htm",
+    "summary": "A new study warns that permanent daylight saving time could force American children to make at least 2 billion additional school commutes in darkness, potentially increasing safety risks and disrupting their biological clocks. Researchers found that fatal crashes involving school-aged pedestrians...",
+    "pubDate": "Wed, 04 Nov 2026 07:50:48 EST",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "A tiny squeeze dramatically changes the magnetism of exotic materials",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261101010541.htm",
+    "summary": "Scientists have discovered that a simple mechanical squeeze can dramatically alter the magnetic properties and electrical behavior of exotic materials called altermagnets. The surprising breakthrough could open the door to faster, more energy-efficient electronics and new technologies for quantum...",
+    "pubDate": "Wed, 04 Nov 2026 07:37:52 EST",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "The world is reacting to the Democrats' sweeping midterm elections victory",
+    "link": "https://www.npr.org/2026/11/04/nx-s1-6028664/world-reacts-midterm-elections",
+    "summary": "From Kyiv to Moscow, and Tehran to Tel Aviv, all eyes were on the Democrats big win as foreign powers weigh how a flipped Congress will affect international relations.",
+    "pubDate": "Wed, 04 Nov 2026 07:34:35 -0500",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "MIT scientists break a 20-year rule and unlock never-before-seen crystal structures",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261104012248.htm",
+    "summary": "MIT scientists have challenged two decades of conventional thinking by discovering that flexible molecular connections, rather than rigid ones, can unlock entirely new ways to arrange nanoparticles. The breakthrough could lead to a new generation of designer materials with unusual properties and ...",
+    "pubDate": "Wed, 04 Nov 2026 07:23:36 EST",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Democrats seize full control of Congress. And, which candidates made history last night",
+    "link": "https://www.npr.org/2026/11/04/g-s1-151745/up-first-newsletter-midterms-democrats-congress-control",
+    "summary": "Democrats have won the House and the Senate, taking full control of Congress for the first time since 2023. And history was made in several states. Here's what happened last night.",
+    "pubDate": "Wed, 04 Nov 2026 07:18:39 -0500",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "6 takeaways from Democrats' big wave on election night",
+    "link": "https://www.npr.org/2026/11/04/nx-s1-6022216/midterms-democrats-trump-republicans-analysis",
+    "summary": "The magnitude of the Democrats' outcome was always a possibility, but the depth and breadth of their victories were jaw-dropping.",
+    "pubDate": "Wed, 04 Nov 2026 07:02:38 -0500",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Votes are still being counted to see who will represent Mississippi in the Senate",
+    "link": "https://www.npr.org/2026/11/04/nx-s1-6028618/votes-are-still-being-counted-in-mississippi-u-s-senate-race",
+    "summary": "Votes are still being counted to determine who will represent Mississippi in the U.S. Senate. Democrat Scott Colom was only a handful of votes ahead of Republican Cindy Hyde-Smith early Wednesday.",
+    "pubDate": "Wed, 04 Nov 2026 06:57:23 -0500",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Stacey Abrams says Democrat wins in Georgia offer opportunity for 'correcting and restoring rights'",
+    "link": "https://www.npr.org/2026/11/04/nx-s1-6023305/stacey-abrams-georgia-midterm-results-turnout",
+    "summary": "After a historic election night for Georgia and many southern states, former Georgia gubernatorial candidate Stacey Abrams speaks to Morning Edition about what these wins mean for Democrats.",
+    "pubDate": "Wed, 04 Nov 2026 06:42:38 -0500",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "NASA is racing against time to save the Hubble Space Telescope",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261104012254.htm",
+    "summary": "NASA is exploring a daring plan to save the legendary Hubble Space Telescope from its eventual fiery plunge into Earth's atmosphere. After more than 35 years of groundbreaking discoveries, Hubble is slowly losing altitude, and without intervention, it could fall back to Earth as early as 2033 or ...",
+    "pubDate": "Wed, 04 Nov 2026 06:22:33 EST",
+    "source": "Science Daily",
+    "category": "science"
   },
   {
     "title": "Anthony Zurcher: Democrats tear up Trump's political map on historic night",
@@ -48,6 +808,14 @@
     "category": "general"
   },
   {
+    "title": "So my ISP was hijacking my DNS",
+    "link": "https://karthihegde.dev/posts/dns_tampering",
+    "summary": "Comments",
+    "pubDate": "Wed, 04 Nov 2026 06:06:23 -0600",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "The Papers: King calls slavery 'monstrous' and 'Celeb loses gag bid'",
     "link": "https://www.bbc.co.uk/news/articles/cm2l4q52p9w4o?at_medium=RSS&at_campaign=rss",
     "summary": "The King's comments on the transatlantic slave trade and the high-profile celebrity who lost a \"gag bid\" in sex claim case lead Wednesday's papers.",
@@ -56,12 +824,28 @@
     "category": "general"
   },
   {
+    "title": "SLAC scientists find conclusive proof of a mysterious third type of magnetism",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm",
+    "summary": "For nearly 90 years, scientists believed magnetism fell into just two categories, but researchers have now confirmed a remarkable third type called altermagnetism. Using specialized X-rays, they uncovered a unique magnetic signature that proves these materials behave differently from conventional...",
+    "pubDate": "Wed, 04 Nov 2026 05:43:44 EST",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
     "link": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss",
     "summary": "\"This wasn't just a tsunami, not just a referendum, but this was a bloodbath,\" one expert told the BBC on Democrats' historic wins in Texas.",
     "pubDate": "Wed, 04 Nov 2026 05:39:36 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Zig 0.17.1 Released",
+    "link": "https://ziglang.org/news/0.17.1-released/",
+    "summary": "Comments",
+    "pubDate": "Wed, 04 Nov 2026 04:57:35 -0600",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "How America voted in maps and charts",
@@ -112,6 +896,14 @@
     "category": "tech"
   },
   {
+    "title": "Fraction comparison trick revisited",
+    "link": "https://www.johndcook.com/blog/2026/11/03/fraction-comparison-trick-revisited/",
+    "summary": "Comments",
+    "pubDate": "Wed, 04 Nov 2026 03:02:48 -0600",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Miliband says slavery apology will not bring cost for UK taxpayers",
     "link": "https://www.bbc.co.uk/news/articles/cm8ezneewr9lo?at_medium=RSS&at_campaign=rss",
     "summary": "Speaking to BBC's Newscast, the foreign secretary says Britain cannot sweep its past \"under the carpet\".",
@@ -128,6 +920,14 @@
     "category": "general"
   },
   {
+    "title": "AI helps Stanford scientists discover a “natural Ozempic” with a surprising advantage",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261104004909.htm",
+    "summary": "Stanford researchers have discovered an AI-identified natural molecule that dramatically suppresses appetite and promotes fat loss in animals, potentially offering an Ozempic-like weight-loss treatment without common digestive side effects or significant muscle loss. Called BRP, the molecule redu...",
+    "pubDate": "Wed, 04 Nov 2026 01:57:06 EST",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "Giant canyon on Mars is still tectonically active",
     "link": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
     "summary": "Article URL: https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today Comments URL: https://news.ycombinator.com/item?id=50360573 Points: 65 # Comments: 5",
@@ -142,6 +942,14 @@
     "pubDate": "Wed, 04 Nov 2026 01:36:06 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "The cryptography behind electronic voting (and why paper ballots are still essential)",
+    "link": "https://blog.trailofbits.com/2026/11/03/the-cryptography-behind-electronic-voting-and-why-paper-ballots-are-still-essential/",
+    "summary": "Comments",
+    "pubDate": "Wed, 04 Nov 2026 01:33:05 -0600",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Troy Jackson wins Maine Senate race over Susan Collins, in major coup for Democrats",
@@ -221,6 +1029,14 @@
     "summary": "NPR's Scott Detrow speaks with former Arkansas Gov. Asa Hutchinson about Democratic victories in states typically considered Republican strongholds.",
     "pubDate": "Wed, 04 Nov 2026 00:14:01 -0500",
     "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Graduates are managing AI - but are they learning much else?",
+    "link": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
+    "summary": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
+    "pubDate": "Wed, 04 Nov 2026 00:04:35 GMT",
+    "source": "BBC News",
     "category": "general"
   },
   {
@@ -590,6 +1406,550 @@
     "pubDate": "Tue, 03 Nov 2026 12:25:42 +0000",
     "source": "Hacker News",
     "category": "tech"
+  },
+  {
+    "title": "Google’s Pixel 11 phones are up to 27 percent off",
+    "link": "https://www.theverge.com/gadgets/1025370/google-pixel-11-pro-phone-deal-sale",
+    "summary": "You can save a heck of lot of money on Google’s Pixel 11 phones through November 8th, whether you want the best-for-the-least Pixel 11, or the slightly pricier Pixel 11 Pro that takes better photos. Even the big Pixel 11 Pro XL with a longer-lasting battery is hundreds off its original price. The...",
+    "pubDate": "2026-11-04T14:00:00-05:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Xbox previews two new ways to control cloud games",
+    "link": "https://www.theverge.com/news/1026455/xbox-nano-direct-cloud-wifi-connection-xbox-cloud-gaming-phone-controller",
+    "summary": "I revealed yesterday that the new Xbox Nano controller supports a Wi-Fi connection directly to Xbox Cloud Gaming, and now Microsoft is making it official today. Two new Xbox previews will let players try out using a phone as a controller on smart TVs, as well as cloud connect on the Xbox Nano to ...",
+    "pubDate": "2026-11-04T14:00:00-05:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Nothing teases a screen-free AI device ahead of launch next month",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+    "summary": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system. He didn't give away much about what exactly the new device is, only that one featur...",
+    "pubDate": "2026-11-04T13:26:07-05:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Apple will check shared iCloud links for ‘harmful content’",
+    "link": "https://www.theverge.com/tech/1026604/apple-icloud-links-harmful-content-27-3",
+    "summary": "Apple will start checking iCloud items that are accessible to anyone who has the link for \"harmful content\" starting with iOS 27.3 and other 27.3 updates, the company says. \"When you share an item that can be accessed by Anyone with the Link in version 27.3 or later of iOS, iPadOS, macOS, and vis...",
+    "pubDate": "2026-11-04T13:23:37-05:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
+    "link": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
+    "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. \"How does that make you feel?\" I get asked this a lot in therapy. Plenty of life ...",
+    "pubDate": "2026-11-04T13:00:00-05:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "ChatGPT will now make you animated GIFs",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+    "summary": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation speed, edit individual frames, and share it with others. Before this change, ChatGPT couldn't native...",
+    "pubDate": "2026-11-04T13:00:00-05:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "God of War Laufey delayed until May",
+    "link": "https://www.theverge.com/games/1026448/sony-playstation-god-of-war-laufey-delay",
+    "summary": "God of War Laufey's release date is being delayed to May 20th, 2027, developer Santa Monica Studio announced today. It was set to launch on PlayStation 5 on February 16th. Here is Santa Monica Studio's full message about the delay: Since the reveal of God of War Laufey in June, we've been deeply ...",
+    "pubDate": "2026-11-04T12:10:31-05:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Nintendo is losing a Switch cartridge supplier",
+    "link": "https://www.theverge.com/games/1026426/nintendo-switch-cartridges-rom-supplier-data-center",
+    "summary": "Nintendo is about to lose a major memory supplier for its Switch cartridges. The supplier, Macronix, announced during a recent quarterly earnings call that it would be gradually phasing out ROM production and is instead focusing on NOR flash memory for data centers, Taipei Times reports. Macronix...",
+    "pubDate": "2026-11-04T12:03:32-05:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Anker’s new window-mounted camera monitors the outside of your home from within it",
+    "link": "https://www.theverge.com/tech/1026360/anker-eufy-window-camera-e10-indoors-security-ai-color-night-vision",
+    "summary": "Anker announced a new indoor security camera that's designed to watch your yard, driveway, or front porch through a window, instead of monitoring what's inside your home. The new Anker Eufy Window Camera E10 takes a similar approach to the Wyze Window Cam that launched nearly a year ago. It insta...",
+    "pubDate": "2026-11-04T11:36:21-05:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Rian Johnson explains why he had to build his own iPhone camera app",
+    "link": "https://www.theverge.com/tech/1025659/rian-johnson-chromagraph-camera-interview",
+    "summary": "Rian Johnson is an analog photography devotee. The director of Knives Out and The Last Jedi can often be spotted on set with a Leica M6 at his side, documenting production on film. But sometimes, it's still easier to reach for a phone. So Johnson started wondering if the photos from his iPhone co...",
+    "pubDate": "2026-11-04T11:10:05-05:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Spider snooze stages",
+    "link": "https://www.nature.com/articles/d41586-026-03487-0",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03487-0 How similar are vertebrate and invertebrate sleeping behaviours? An analysis of spiders offers insights about how sleep evolved.",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Why not to wait even a few minutes before fleeing a tsunami",
+    "link": "https://www.nature.com/articles/d41586-026-03539-5",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03539-5 Simulation shows that hesitating can be the difference between making it to safety and not.",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "A guide to Nature Index tables",
+    "link": "https://www.nature.com/articles/d41586-026-03344-0",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03344-0 Information on the methodology used in the ranking for the 2026 Nature Spotlight: Neuroscience.",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "<b>Ancient DNA charts spread of Celtic and Germanic languages</b>",
+    "link": "https://www.nature.com/articles/d41586-026-03582-2",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03582-2 Genomes from thousands of ancient individuals show how migrations helped shape Celtic and Germanic languages — plus, how the brain may regulate emotions differently than we thought.",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Carbon radical generation by irreversible metal-to-ligand charge transfer",
+    "link": "https://www.nature.com/articles/s41586-026-11368-9",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11368-9 Carbon radical generation by irreversible metal-to-ligand charge transfer",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Parkinson’s: beyond the brain",
+    "link": "https://www.nature.com/articles/d41586-026-03173-1",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03173-1 Parkinson’s disease might develop in the gut before reaching the brain, and the environment could have a crucial role in triggering the disease.",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "AI agents run this automated biology lab that sequences DNA and more",
+    "link": "https://www.nature.com/articles/d41586-026-03552-8",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03552-8 Self-driving lab in China requires only a simple prompt to encode messages in DNA and read them out.",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "The oracle of the second quadrant",
+    "link": "https://www.nature.com/articles/d41586-026-03369-5",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03369-5 It all adds up.",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "X-ray stopwatch can measure durations of just attoseconds",
+    "link": "https://www.nature.com/articles/d41586-026-03423-2",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03423-2 The duration of short ångström-wavelength X-ray pulses, which lasted merely 170 attoseconds, has finally been measured accurately. The optical system designed for precision pulse duration metrology can be used as a ‘stopwa...",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Is social media changing children’s brains? Here’s what the science says",
+    "link": "https://www.nature.com/articles/d41586-026-03343-1",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03343-1 Some countries are introducing sweeping social-media bans for young people, but the impact of screen time is still under investigation.",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "How a once-controversial idea is advancing understanding of Parkinson’s disease",
+    "link": "https://www.nature.com/articles/d41586-026-03169-x",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03169-x The disease is thought to be divided into two subtypes, depending on where it originates in the body — the gut or the brain.",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Rise of Germanic and Celtic languages is written in ancient DNA",
+    "link": "https://www.nature.com/articles/d41586-026-03581-3",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03581-3 Thousands of genome sequences identify human migrations that might have spread early forms of these tongues around Europe.",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "AI agents enter the ‘wet lab’",
+    "link": "https://www.nature.com/articles/d41586-026-03270-1",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03270-1 An AI system coordinates laboratory instruments to conduct multi-step molecular-biology experiments with limited human intervention.",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "How the brain protects itself from Parkinson’s disease",
+    "link": "https://www.nature.com/articles/d41586-026-03171-3",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03171-3 Brains are resilient. Harnessing their self-protective mechanisms might help to prevent or slow the progression of this neurodegenerative condition.",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Clearing the way for a transformative stem-cell treatment for Parkinson’s disease",
+    "link": "https://www.nature.com/articles/d41586-026-03167-z",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03167-z Most Parkinson’s therapies aim to reduce the motor-control symptoms that the disease triggers. But stem-cell transplants in the brain could alter the disease at a more fundamental level.",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Progress accelerates in Parkinson’s treatments",
+    "link": "https://www.nature.com/articles/d41586-026-03165-1",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03165-1 Researchers are reporting encouraging results for a disease that affects millions of people worldwide.",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Ecosystems depend on people: don’t abandon them",
+    "link": "https://www.nature.com/articles/d41586-026-03544-8",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03544-8 It might seem counterproductive to put more people in nature, but sometimes human activity nurtures biodiversity.",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "See a tardigrade shed its skin — October’s best science images",
+    "link": "https://www.nature.com/articles/d41586-026-03563-5",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03563-5 The month’s sharpest science shots, selected by Nature’s photo team.",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Fruit, flies and getting frisky: how food odours trigger sexual arousal",
+    "link": "https://www.nature.com/articles/d41586-026-03271-0",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03271-0 Males of a Drosophila species that thrives on a particular fruit need the smell of food to begin courtship. This environmental cue acts on defined mating circuits in the brain.",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Six highlights from Parkinson’s disease research",
+    "link": "https://www.nature.com/articles/d41586-026-03172-2",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03172-2 Targeting a new network, addressing gait issues and other advances from recent studies.",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Cutting-edge technique uncovers how the spine’s shock absorbers bear load",
+    "link": "https://www.nature.com/articles/d41586-026-03264-z",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03264-z An exciting imaging approach reveals how discs of soft tissue in the spine respond to compressive force at the micrometre and nanometre scales.",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "A death sentence for ‘sloppy’ cancers",
+    "link": "https://www.nature.com/articles/d41586-026-03269-8",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03269-8 The process of making protein from RNA can go awry in cancer cells. This malfunction might be harnessed to create an effective gene-therapy tool that targets tumours.",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Faint exoplanets detected using computational approach to remove glare from stars",
+    "link": "https://www.nature.com/articles/d41586-026-03295-6",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03295-6 An image-processing framework for detecting exoplanets directly has been developed. The technique overcomes the telescope-stability barrier that has limited previous methods, reveals fainter exoplanets than other approache...",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "People’s social networks can be unintentionally reshaped during randomized interventions",
+    "link": "https://www.nature.com/articles/d41586-026-03267-w",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03267-w A re-examination of a randomized controlled trial for a health-advice intervention reveals ripple effects and altered relationships in communities in rural Honduras.",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Fine-tuning brain stimulation to fight Parkinson’s disease",
+    "link": "https://www.nature.com/articles/d41586-026-03168-y",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03168-y Neuroscientists are developing a new type of brain implant that will decode every movement and symptom of people with this neurodegenerative condition, seeking better ways to ease symptoms.",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Mysterious anthrax outbreak kills hippos in Africa — raising concerns for human spread",
+    "link": "https://www.nature.com/articles/d41586-026-03580-4",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03580-4 The latest cases, in the Democratic Republic of the Congo, come as the country grapples with ongoing Ebola and cholera outbreaks.",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "When humans disappear, biodiversity takes a surprising turn",
+    "link": "https://www.nature.com/articles/d41586-026-03505-1",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03505-1 For decades, conservation has worried about the risks of too many people. In some places, depopulation is the real threat.",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Could chemicals contribute to Parkinson’s?",
+    "link": "https://www.nature.com/articles/d41586-026-03170-4",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03170-4 Researchers and advocates point to pollutants as a trigger for the neurodegenerative condition.",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Replacing the neurons that Parkinson’s destroys",
+    "link": "https://www.nature.com/articles/d41586-026-03166-0",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03166-0 After decades of work, researchers have begun trialling transplants of dopamine neurons into people with the neurodegenerative disease — with early signs of success.",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Why are we conscious? <i>Nature</i> investigates the theories",
+    "link": "https://www.nature.com/articles/d41586-026-03413-4",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03413-4 Scientists have yet to reveal how the human brain produces the subjective experience we perceive as consciousness, but research has pushed the field in exciting directions.",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Infrared image detectors grown directly on read-out chips",
+    "link": "https://www.nature.com/articles/d41586-026-03420-5",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03420-5 A film of lead sulfide — an infrared-sensitive semiconductor — has been grown directly on a circuit that can read out the material’s electrical signal through an approach called monolithic in situ integration. This brings ...",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "A two-dimensional reticular triaxial molecularly woven fabric",
+    "link": "https://www.nature.com/articles/s41586-026-11218-8",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11218-8 A two-dimensional reticular triaxial woven network material is constructed by incorporating C3-symmetric macrocycles into a triangular weave pattern, enabling an extra topological dimension to be used for the construction ...",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Accelerating commercialization and deployment of indoor photovoltaics",
+    "link": "https://www.nature.com/articles/s41586-026-11133-y",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11133-y Recent progress in photovoltaics has been investigated to translate state-of-the-art cells in the laboratory into deployable products suited to real indoor conditions, focusing on wide-bandgap absorbers, reduced non-radiat...",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "In vivo CAR-T double knockout screen maps synergistic antitumour gene pairs",
+    "link": "https://www.nature.com/articles/s41586-026-10956-z",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-10956-z Using high-throughput in vivo CAR-T double knockout screening, synergistic gene combinations to improve CAR-T cell therapy are revealed.",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Observation of prethermal dynamical phase transitions and resonant melting",
+    "link": "https://www.nature.com/articles/s41586-026-11225-9",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11225-9 A programmable neutral-atom quantum simulator is used to explore quench dynamics in spin models with up to 180 qubits, revealing prethermal dynamical phase transitions and resonant melting.",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Ecological and social cues orchestrate concerted courtship in <i>Drosophila</i>",
+    "link": "https://www.nature.com/articles/s41586-026-11209-9",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11209-9 In Drosophila erecta, food odours initiate male sexual arousal, which is subsequently reinforced by the visual motion of other courting flies, creating a multisensory mechanism that synchronizes courtship in groups when co...",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "An AI-native experimental laboratory for autonomous biomolecular operations",
+    "link": "https://www.nature.com/articles/s41586-026-11228-6",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11228-6 AutoDNA is an artificial intelligence (AI)-native autonomous biomolecular engineering laboratory targeting multi-objective experiments across diverse instruments, realizing the co-evolution of AI and the automation system ...",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Multimodal X-ray imaging reveals hierarchical fibre mechanics",
+    "link": "https://www.nature.com/articles/s41586-026-11148-5",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11148-5 The X-ray visualization platform TomoSAXS, demonstrated here on intervertebral spinal discs, can visualize nanoscale to macroscale mechanics in intact biological organs and fibrous materials.",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Towards observing interstitial hydrogen in solution in metal lattices",
+    "link": "https://www.nature.com/articles/s41586-026-11238-4",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11238-4 Using deuterium as a proxy for hydrogen, atom probe tomography provides experimental evidence for interstitial hydrogen in solid solution across different FCC phases, consistent with theoretical predictions of hydrogen aff...",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Decoding the regulatory programs governing glioblastoma plasticity",
+    "link": "https://www.nature.com/articles/s41586-026-11177-0",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11177-0 Multi-omic analyses of cells from patients with glioblastoma (GB) provide insight into the role of non-genetic cellular plasticity in disease progression, showing that state stability in GB cells is controlled by a network...",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Comprehensive mapping of essential-gene interactions in <i>M. tuberculosis</i>",
+    "link": "https://www.nature.com/articles/s41586-026-11212-0",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11212-0 A high-throughput CRISPR-interference platform allows the mapping of interactions between essential genes in Mycobacterium tuberculosis, revealing many previously unknown genetic interactions and providing insight into gen...",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Conjugation-regulated self-assembled molecules for tandem solar cells",
+    "link": "https://www.nature.com/articles/s41586-026-11226-8",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11226-8 Rationally engineered molecular spatial conjugation is used for the formation of highly ordered, conformal self-assembled molecules, enabling the fabrication of high-performance perovskite/silicon tandem solar cells.",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Hard X-ray attosecond metrology",
+    "link": "https://www.nature.com/articles/s41586-026-11245-5",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11245-5 Metrology techniques are developed to characterize and control attosecond hard X-ray pulses, directly measuring a 170-attosecond duration and enabling ultrafast studies of electronic dynamics in quantum systems.",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Cancer-selective gene circuits via intrinsic ribosomal frameshifting",
+    "link": "https://www.nature.com/articles/s41586-026-11200-4",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11200-4 Codon-pair-dependent ribosomal frameshifting is a feature of translational dysregulation in cancer cells.",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Tracing the spread of Celtic languages using ancient genomics",
+    "link": "https://www.nature.com/articles/s41586-026-11198-9",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11198-9 Genome-wide data from 4,587 ancient individuals are analysed, focusing on Bronze and Iron Age Europe, to test the extent to which alternative archaeological and linguistic models for the origin and spread of Celtic fit rec...",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Venousization enables angiogenesis in the absence of VEGFR signalling",
+    "link": "https://www.nature.com/articles/s41586-026-11224-w",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11224-w Longitudinal tracking of endothelial cells shows they can adapt to loss of VEGFR2 and form new functional vessels, challenging conventional views of the essential role of VEGF receptors in angiogenesis and providing insigh...",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "The neural basis of flavour–nutrient learning",
+    "link": "https://www.nature.com/articles/s41586-026-11229-5",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11229-5 A dopamine pathway to the basolateral amygdala is necessary for associating nutrients with flavours.",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Nectin-4 mediates rubella virus entry in airway and placental cells",
+    "link": "https://www.nature.com/articles/s41586-026-11248-2",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11248-2 Nectin-4 is identified as a pivotal host entry receptor for respiratory transmission and early placental infection of rubella virus.",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Aggression experience and observation drive shared behavioural and neural changes",
+    "link": "https://www.nature.com/articles/s41586-026-11217-9",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11217-9 Aggression experience and observation recruit a brain-wide network of excitatory, inhibitory and valence signals, and changes to this activation pattern predict a shared adaptive behaviour-control policy in a new aggressio...",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Transcriptomic convergence and the female protective effect in autism",
+    "link": "https://www.nature.com/articles/s41586-026-11236-6",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11236-6 Gene network analysis shows how mutations in diverse genes associated with autism spectrum disorder can converge to exert shared effects, with X-linked transcription factor ZFX emerging as a key protective factor in the fe...",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "The deep Earth origin of the Great Unconformity",
+    "link": "https://www.nature.com/articles/s41586-026-11156-5",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11156-5 Continental-scale uplift and subsidence associated with long-wavelength dynamic topography due to mantle convection drove the formation and preservation of the Great Unconformity.",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Twist-angle-dependent quantum phase diagrams in moiré bilayer MoTe<sub>2</sub>",
+    "link": "https://www.nature.com/articles/s41586-026-11274-0",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11274-0 Twist-angle-dependent studies of moiré bilayer MoTe2 reveal a transition from fractional topological states to correlated insulators and superconductivity, linking topology, symmetry breaking and magnetism in moiré quantum...",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "An open structure-guided RNA foundation model for generalizable prediction",
+    "link": "https://www.nature.com/articles/s41586-026-11210-2",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11210-2 structRFM, a structure-guided RNA foundation model pre-trained on 21 million sequence–structure pairs, learns multimodal representations that improve secondary and tertiary structure prediction, functional inference and ze...",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Synergy in viral–bacterial co-infection expedites algal bloom demise",
+    "link": "https://www.nature.com/articles/s41586-026-11243-7",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11243-7 Viral–bacterial synergy accelerates algal bloom collapse by enhancing virus-induced mortality, driven by Alteromonas chemoattraction and co-infection, revealing a previously unrecognized mortality agent that influences oce...",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "A conserved flowering-time module underlies double-season cropping",
+    "link": "https://www.nature.com/articles/s41586-026-11187-y",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11187-y The genomic footprints of 80 years of modern breeding in China are traced using representative cultivars, demonstrating how precision genome editing can be used to reconstruct adaptive modules for climate-resilient crop de...",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Microbiome-wide PheWAS links gut microbial SNVs to health and exposures",
+    "link": "https://www.nature.com/articles/s41586-026-11220-0",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11220-0 Gut microbial single-nucleotide variants across 10,781 individuals reveal 940 associations that link strain-level genetic variation to 69 host traits, with structural analyses pinpointing host phenotype-associated variants...",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "A spatiotemporal cancer cell trajectory underlies glioblastoma heterogeneity",
+    "link": "https://www.nature.com/articles/s41586-026-11234-8",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11234-8 A deep single-cell and spatial multi-omic atlas of human glioblastoma is generated, pairing transcriptomic, epigenomic and genomic profiling, and tracing glioblastoma tumour heterogeneity to a stereotyped and spatially pat...",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Imaging exoplanets below the telescope stability limit",
+    "link": "https://www.nature.com/articles/s41586-026-11213-z",
+    "summary": "Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11213-z A new physics-based method combining the use of automatic differentiation to optimize millions of model parameters with a flexible physical model is described for starlight subtraction from real, on-sky coronagraphic image...",
+    "pubDate": "2026-11-04",
+    "source": "Nature",
+    "category": "science"
   },
   {
     "title": "AMD rides data center riches to &#8216;largest and most profitable&#8217; quarter in history",

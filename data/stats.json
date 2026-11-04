@@ -1,78 +1,78 @@
 {
-  "updated": "2026-11-04T06:54:05.525811+00:00",
-  "total_indexed": 36458,
+  "updated": "2026-11-04T19:58:24.079319+00:00",
+  "total_indexed": 36628,
   "sources": {
     "Hacker News": {
       "total": 20,
-      "new": 12,
-      "elapsed": 0.28,
-      "last_fetch": "2026-11-04T06:53:59.680398+00:00"
+      "new": 19,
+      "elapsed": 0.49,
+      "last_fetch": "2026-11-04T19:58:14.844888+00:00"
     },
     "Lobsters": {
       "total": 25,
-      "new": 7,
-      "elapsed": 0.57,
-      "last_fetch": "2026-11-04T06:54:00.245981+00:00"
+      "new": 9,
+      "elapsed": 0.4,
+      "last_fetch": "2026-11-04T19:58:15.240329+00:00"
     },
     "Ars Technica": {
       "total": 20,
-      "new": 2,
-      "elapsed": 0.19,
-      "last_fetch": "2026-11-04T06:54:00.439513+00:00"
+      "new": 4,
+      "elapsed": 0.12,
+      "last_fetch": "2026-11-04T19:58:15.364076+00:00"
     },
     "The Verge": {
       "total": 10,
       "new": 10,
-      "elapsed": 0.14,
-      "last_fetch": "2026-11-04T06:54:00.576878+00:00"
+      "elapsed": 0.13,
+      "last_fetch": "2026-11-04T19:58:15.497174+00:00"
     },
     "BBC News": {
-      "total": 32,
-      "new": 26,
-      "elapsed": 0.19,
-      "last_fetch": "2026-11-04T06:54:00.769723+00:00"
+      "total": 31,
+      "new": 23,
+      "elapsed": 0.43,
+      "last_fetch": "2026-11-04T19:58:15.931455+00:00"
     },
     "NPR": {
       "total": 10,
       "new": 10,
-      "elapsed": 0.31,
-      "last_fetch": "2026-11-04T06:54:01.080249+00:00"
+      "elapsed": 0.29,
+      "last_fetch": "2026-11-04T19:58:16.218925+00:00"
     },
     "TechCrunch": {
       "total": 20,
-      "new": 7,
-      "elapsed": 0.08,
-      "last_fetch": "2026-11-04T06:54:01.158352+00:00"
+      "new": 11,
+      "elapsed": 0.13,
+      "last_fetch": "2026-11-04T19:58:16.345369+00:00"
     },
     "Wired": {
       "total": 50,
-      "new": 4,
+      "new": 16,
       "elapsed": 0.16,
-      "last_fetch": "2026-11-04T06:54:01.322687+00:00"
+      "last_fetch": "2026-11-04T19:58:16.501808+00:00"
     },
     "36Kr": {
       "total": 0,
       "new": 0,
-      "elapsed": 1.74,
-      "last_fetch": "2026-11-04T06:54:03.059304+00:00"
+      "elapsed": 1.03,
+      "last_fetch": "2026-11-04T19:58:17.529669+00:00"
     },
     "少数派": {
       "total": 10,
       "new": 2,
-      "elapsed": 1.24,
-      "last_fetch": "2026-11-04T06:54:04.297266+00:00"
+      "elapsed": 1.28,
+      "last_fetch": "2026-11-04T19:58:18.808553+00:00"
     },
     "Science Daily": {
       "total": 60,
-      "new": 4,
-      "elapsed": 0.28,
-      "last_fetch": "2026-11-04T06:54:04.577865+00:00"
+      "new": 8,
+      "elapsed": 0.29,
+      "last_fetch": "2026-11-04T19:58:19.096431+00:00"
     },
     "Nature": {
       "total": 75,
-      "new": 0,
-      "elapsed": 0.18,
-      "last_fetch": "2026-11-04T06:54:04.761578+00:00"
+      "new": 58,
+      "elapsed": 0.34,
+      "last_fetch": "2026-11-04T19:58:19.435292+00:00"
     }
   }
 }

@@ -1,11 +1,803 @@
 [
   {
+    "title": "Senior US soldier arrested by UK counter-terror police",
+    "link": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+    "summary": "The 41-year-old was arrested on suspicion of offences under the National Security Act which relate to Russia, police say.",
+    "pubDate": "Tue, 10 Nov 2026 19:34:48 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+    "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+    "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+    "pubDate": "Tue, 10 Nov 2026 19:23:34 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+    "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+    "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+    "pubDate": "Tue, 10 Nov 2026 19:03:52 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Train attack driver's '10 seconds' to change line",
+    "link": "https://www.bbc.co.uk/news/articles/cm5ynyzje424o?at_medium=RSS&at_campaign=rss",
+    "summary": "Andrew Johnson tells jurors he heard over the intercom \"'there's a knifeman stabbing people'\".",
+    "pubDate": "Tue, 10 Nov 2026 18:54:35 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+    "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+    "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+    "pubDate": "Tue, 10 Nov 2026 18:49:52 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
+    "link": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
+    "summary": "Google's Pixel Tag lets you track lost items with your Android device, similar to Apple's AirTag.",
+    "pubDate": "Tue, 10 Nov 2026 18:49:19 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Seven in hospital after car 'mounts pavement' in Glasgow",
+    "link": "https://www.bbc.co.uk/news/articles/c63elellg05lo?at_medium=RSS&at_campaign=rss",
+    "summary": "Police said the driver was assessed by paramedics and treated at the scene of the incident, which happened at about 15:45 on Hyndland Road.",
+    "pubDate": "Tue, 10 Nov 2026 18:42:09 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
+    "link": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
+    "summary": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
+    "pubDate": "Tue, 10 Nov 2026 18:33:51 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Starlink Mini 2",
+    "link": "https://starlink.com/mini-2",
+    "summary": "Article URL: https://starlink.com/mini-2 Comments URL: https://news.ycombinator.com/item?id=50444129 Points: 96 # Comments: 71",
+    "pubDate": "Tue, 10 Nov 2026 18:22:32 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The Monaco summit that will decide the future of Carrick and Man Utd",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c8wy9yzyzxnko?at_medium=RSS&at_campaign=rss",
+    "summary": "Manchester United's power brokers meet in Monaco on Wednesday to decide whether Michael Carrick will remain as head coach",
+    "pubDate": "Tue, 10 Nov 2026 18:12:02 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Protesters arrested after former US President Biden makes surprise Dublin visit",
+    "link": "https://www.bbc.co.uk/news/articles/ck78p827y642o?at_medium=RSS&at_campaign=rss",
+    "summary": "Joe Biden was in Dublin to see his son Hunter awarded the Gold Medal for Outstanding Contribution for Public Discourse",
+    "pubDate": "Tue, 10 Nov 2026 18:07:56 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
+    "link": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
+    "summary": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones.",
+    "pubDate": "Tue, 10 Nov 2026 18:04:18 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Work at the Frontier: AI's effect on freelance work",
+    "link": "https://openai.com/index/ai-effect-on-freelance-work",
+    "summary": "Article URL: https://openai.com/index/ai-effect-on-freelance-work Comments URL: https://news.ycombinator.com/item?id=50443838 Points: 20 # Comments: 10",
+    "pubDate": "Tue, 10 Nov 2026 18:02:54 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Synaptics patent claims stop work on DisplayLink drivers",
+    "link": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+    "summary": "Article URL: https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/ Comments URL: https://news.ycombinator.com/item?id=50443824 Points: 96 # Comments: 44",
+    "pubDate": "Tue, 10 Nov 2026 18:02:02 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+    "link": "https://github.com/GoogleChrome/modern-web-guidance",
+    "summary": "Browsers natively handle a lot of what used to take 50 lines of JS (or a dependency): `CSS.highlights` for text range highlighting without s everywhere, ` ` and showModal() give you backdrops and ideal focus management, `field-sizing` to auto-grow textareas as the user types.. (Something yesterda...",
+    "pubDate": "Tue, 10 Nov 2026 18:01:15 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "US federal authorities could have prevented Epstein crimes, report finds",
+    "link": "https://www.bbc.co.uk/news/articles/cq5ynyn8zyr8o?at_medium=RSS&at_campaign=rss",
+    "summary": "The report by a Republican-led congressional committee follows a 15-month investigation into the handling of the late disgraced financier's case.",
+    "pubDate": "Tue, 10 Nov 2026 17:59:02 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+    "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+    "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected.",
+    "pubDate": "Tue, 10 Nov 2026 17:56:12 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+    "link": "https://claude.com/resources/articles/sheets-whiteboards-data",
+    "summary": "Article URL: https://claude.com/resources/articles/sheets-whiteboards-data Comments URL: https://news.ycombinator.com/item?id=50443716 Points: 25 # Comments: 11",
+    "pubDate": "Tue, 10 Nov 2026 17:55:07 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "An Open Field Guide to Inference Engineering",
+    "link": "https://docs.modelplane.ai/guides/inference-guide",
+    "summary": "Article URL: https://docs.modelplane.ai/guides/inference-guide Comments URL: https://news.ycombinator.com/item?id=50443714 Points: 14 # Comments: 1",
+    "pubDate": "Tue, 10 Nov 2026 17:55:07 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Val Town is winding down",
+    "link": "https://blog.val.town/winding-down",
+    "summary": "Article URL: https://blog.val.town/winding-down Comments URL: https://news.ycombinator.com/item?id=50443427 Points: 137 # Comments: 35",
+    "pubDate": "Tue, 10 Nov 2026 17:31:14 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+    "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+    "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
+    "pubDate": "Tue, 10 Nov 2026 17:30:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Steam Deck performance gets a reality check with Valve's new FPS data",
+    "link": "https://arstechnica.com/gaming/2026/11/steam-deck-performance-gets-a-reality-check-with-valves-new-fps-data/",
+    "summary": "Benchmark tools for generic gaming rigs could be coming soon.",
+    "pubDate": "Tue, 10 Nov 2026 17:26:44 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Analysis: Hegseth fights for his political life with appeal to Trump",
+    "link": "https://www.bbc.co.uk/news/articles/cwm232mnv11do?at_medium=RSS&at_campaign=rss",
+    "summary": "The defence secretary may be facing impeachment, writes Gary O'Donoghue, but it is Trump who could determine his fate.",
+    "pubDate": "Tue, 10 Nov 2026 17:24:01 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "More than 12 US military aircraft leave second UK base",
+    "link": "https://www.bbc.co.uk/news/articles/c32l4lw12z7po?at_medium=RSS&at_campaign=rss",
+    "summary": "The departures come weeks after the US withdrew bombers from RAF Fairford airbase over a suspected Iran-linked security incident.",
+    "pubDate": "Tue, 10 Nov 2026 17:22:14 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+    "link": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "pubDate": "Tue, 10 Nov 2026 17:04:19 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "AMD's Zen 6 Family: Feeding the Beast",
+    "link": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
+    "summary": "Article URL: https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast Comments URL: https://news.ycombinator.com/item?id=50443090 Points: 90 # Comments: 32",
+    "pubDate": "Tue, 10 Nov 2026 17:02:32 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Inside devastated front-line city that Russia wants Ukraine to give up",
+    "link": "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss",
+    "summary": "The BBC gains rare access to a specialist drone unit defending the eastern city of Slovyansk from heavy Russian fire.",
+    "pubDate": "Tue, 10 Nov 2026 17:00:11 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Sundrop turns your endless baby photos into recaps, time lapses, and more — without AI",
+    "link": "https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/",
+    "summary": "Sundrop is a new iPhone app that uses Apple's on-device AI to help parents rediscover their favorite photos and create keepsakes without uploading images to the cloud.",
+    "pubDate": "Tue, 10 Nov 2026 16:50:38 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "McTominay reveals heart treatment at World Cup",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cw5ynynx204zo?at_medium=RSS&at_campaign=rss",
+    "summary": "Scott McTominay reveals he received treatment on his heart two days before Scotland's World Cup win over Haiti in June.",
+    "pubDate": "Tue, 10 Nov 2026 16:46:31 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "社区速递 165 | 透明工牌与派友十月购物清单",
+    "link": "https://sspai.com/post/118861",
+    "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ... 查看全文",
+    "pubDate": "Tue, 10 Nov 2026 16:44:26 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "‘We Have to Take Over’: Far-Right Extremists Want to Seize Control of the GOP",
+    "link": "https://www.wired.com/story/we-have-to-take-over-far-right-extremists-want-to-seize-control-of-the-gop/",
+    "summary": "MAGA failed because it didn’t go far enough, right-wing extremists say—and following devastating midterm losses, they see an opportunity to take over.",
+    "pubDate": "Tue, 10 Nov 2026 16:40:19 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": ".name Grandfathered",
+    "link": "https://neil.fraser.name/news/2026/11/10/",
+    "summary": "Article URL: https://neil.fraser.name/news/2026/11/10/ Comments URL: https://news.ycombinator.com/item?id=50442736 Points: 399 # Comments: 69",
+    "pubDate": "Tue, 10 Nov 2026 16:37:44 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Tailscale's DNS IPv6 spells out \"Tailscale\"",
+    "link": "https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/",
+    "summary": "Article URL: https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/ Comments URL: https://news.ycombinator.com/item?id=50442691 Points: 106 # Comments: 48",
+    "pubDate": "Tue, 10 Nov 2026 16:34:45 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "High oil prices have led to a dip in global carbon emissions",
+    "link": "https://arstechnica.com/science/2026/11/carbon-emissions-are-down-this-year-but-that-probably-wont-last/",
+    "summary": "Bucking recent trends, fossil fuel emissions look to be down 0.4 percent.",
+    "pubDate": "Tue, 10 Nov 2026 16:29:27 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
+    "link": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss",
+    "summary": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police.",
+    "pubDate": "Tue, 10 Nov 2026 16:19:48 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "One space station company sues another for copying its work",
+    "link": "https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work/",
+    "summary": "\"NASA advised that Vast’s submission in some locations substituted 'the PAM Provider' for Axiom\"",
+    "pubDate": "Tue, 10 Nov 2026 16:17:51 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Pochettino, Howe, Emery... or Carrick? Man Utd's managerial options",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c5rmymrvm004o?at_medium=RSS&at_campaign=rss",
+    "summary": "As doubts grow over Manchester United boss Michael Carrick's future, what are the club's managerial options?",
+    "pubDate": "Tue, 10 Nov 2026 16:17:10 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Blender 5.3 released with Gaussian Splat support",
+    "link": "https://www.blender.org/download/releases/5-3/",
+    "summary": "Article URL: https://www.blender.org/download/releases/5-3/ Comments URL: https://news.ycombinator.com/item?id=50442426 Points: 303 # Comments: 43",
+    "pubDate": "Tue, 10 Nov 2026 16:15:43 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "报名人数创下新高，第十一届「移动应用创新赛」圆满落幕",
+    "link": "https://sspai.com/post/118824",
+    "summary": "北京时间11月8日，第十一届「移动应用创新赛」在浙江大学紫金港校区完成决赛评选并举行颁奖典礼。从2016年的161所高校开始，这项由全国高等学校计算机教育研究会主办、浙江大学与Apple联合承办的比赛 ... 查看全文",
+    "pubDate": "Tue, 10 Nov 2026 16:02:37 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "Apple TV makes sign language interpretation a built-in accessibility feature",
+    "link": "https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/",
+    "summary": "Apple TV's new accessibility feature lets viewers turn on sign language interpretation within supported titles.",
+    "pubDate": "Tue, 10 Nov 2026 16:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+    "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+    "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
+    "pubDate": "Tue, 10 Nov 2026 15:54:08 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs",
+    "link": "https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/",
+    "summary": "The remote access giant also urged its self-hosted customers to take down their own servers amid a \"critical security incident,\" fearing the possibility of cyberattacks.",
+    "pubDate": "Tue, 10 Nov 2026 15:45:27 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+    "link": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+    "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+    "pubDate": "Tue, 10 Nov 2026 15:29:30 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Smart home devices should work without the internet",
+    "link": "https://docodethatmatters.com/home-automation-overnight-success/",
+    "summary": "Article URL: https://docodethatmatters.com/home-automation-overnight-success/ Comments URL: https://news.ycombinator.com/item?id=50441707 Points: 325 # Comments: 134",
+    "pubDate": "Tue, 10 Nov 2026 15:25:20 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
+    "link": "https://tinyvalencia.com/",
+    "summary": "Article URL: https://tinyvalencia.com/ Comments URL: https://news.ycombinator.com/item?id=50441518 Points: 102 # Comments: 28",
+    "pubDate": "Tue, 10 Nov 2026 15:12:16 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
+    "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
+    "summary": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
+    "pubDate": "Tue, 10 Nov 2026 15:10:20 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Formula 1 to finish season in Middle East",
+    "link": "https://www.bbc.co.uk/sport/formula1/articles/c53989e97lxwo?at_medium=RSS&at_campaign=rss",
+    "summary": "The 2026 Formula 1 season will conclude with the Qatar and Abu Dhabi grands prix as planned, with Italy's Imola circuit stood down as back-up for the races.",
+    "pubDate": "Tue, 10 Nov 2026 15:04:46 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The Hardest Tarball?",
+    "link": "https://stoppels.ch/2026/11/07/the-hardest-tarball.html",
+    "summary": "Article URL: https://stoppels.ch/2026/11/07/the-hardest-tarball.html Comments URL: https://news.ycombinator.com/item?id=50441338 Points: 127 # Comments: 21",
+    "pubDate": "Tue, 10 Nov 2026 15:00:39 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+    "link": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+    "summary": "The new model is up to twice as successful at some tasks.",
+    "pubDate": "Tue, 10 Nov 2026 15:00:39 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Reddit is turning user conversations into AI-powered product reviews",
+    "link": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/",
+    "summary": "Reddit's new AI-powered reviews summarize what users like and dislike about 10,000 products, helping shoppers research purchases ahead of the holidays.",
+    "pubDate": "Tue, 10 Nov 2026 15:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "New WhatsApp head wants to make the app easier to use, give its AI more chops",
+    "link": "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops/",
+    "summary": "Kunal Shah said the company wants to make voice notes, groups, stickers, and video \"simpler and more expressive.\"",
+    "pubDate": "Tue, 10 Nov 2026 15:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Kitchen Gear From Our Place Is Steeply Discounted",
+    "link": "https://www.wired.com/story/our-place-sale-november-2026/",
+    "summary": "Get up to 30 percent off and save an extra $60 on orders over $100.",
+    "pubDate": "Tue, 10 Nov 2026 15:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "David Walliams' career and controversies including Britain's Got Talent and Little Britain",
+    "link": "https://www.bbc.co.uk/news/articles/c6d7q98z1yz3o?at_medium=RSS&at_campaign=rss",
+    "summary": "The entertainer shot to fame on Little Britain and also has best-selling series of children's books.",
+    "pubDate": "Tue, 10 Nov 2026 14:53:28 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Nvidia has a Jensen Huang problem—and no obvious successor",
+    "link": "https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor/",
+    "summary": "Huang faces a board probe as investors fret over Nvidia’s lack of a clear successor.",
+    "pubDate": "Tue, 10 Nov 2026 14:53:05 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "FDA warns GLP-1 drugs may pose risk of rare condition that causes vision loss",
+    "link": "https://arstechnica.com/health/2026/11/glp-1-drugs-may-increase-risk-of-vision-loss-from-rare-condition-fda-warns/",
+    "summary": "The risk appears small and data is mixed, but FDA wants patients to be aware.",
+    "pubDate": "Tue, 10 Nov 2026 14:43:49 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "The death knell of digital search",
+    "link": "https://www.newyorker.com/culture/infinite-scroll/the-death-knell-of-digital-search",
+    "summary": "Article URL: https://www.newyorker.com/culture/infinite-scroll/the-death-knell-of-digital-search Comments URL: https://news.ycombinator.com/item?id=50441074 Points: 57 # Comments: 62",
+    "pubDate": "Tue, 10 Nov 2026 14:41:36 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Polestar has a new look with its Formula 2030 concept",
+    "link": "https://arstechnica.com/cars/2026/11/polestar-has-a-new-look-with-its-formula-2030-concept/",
+    "summary": "The shape looks like a Saab Aero-X, but the nose previews the next Polestar 2.",
+    "pubDate": "Tue, 10 Nov 2026 14:22:02 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Met Police investigating more 'potential criminal allegations' about Brand",
+    "link": "https://www.bbc.co.uk/news/articles/cvwy7ydg4264o?at_medium=RSS&at_campaign=rss",
+    "summary": "Det Supt Andy Furphy says the force had received \"several reports during the trial and since the trial\".",
+    "pubDate": "Tue, 10 Nov 2026 14:09:11 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+    "link": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+    "summary": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
+    "pubDate": "Tue, 10 Nov 2026 14:05:10 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Australia doomed to live with stench of sandpapergate",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/c6x2v277z89eo?at_medium=RSS&at_campaign=rss",
+    "summary": "Usman Khawaja's autobiography has exposed the limbo Australian cricket finds itself stuck in over the sandpaper scandal, writes Stephan Shemilt.",
+    "pubDate": "Tue, 10 Nov 2026 14:03:19 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+    "link": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+    "summary": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
+    "pubDate": "Tue, 10 Nov 2026 14:01:39 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Testing the new generation of AI-enabled fire-extinguishing drones",
+    "link": "https://www.npr.org/2026/11/10/nx-s1-6030962/testing-the-new-generation-of-ai-enabled-fire-extinguishing-drones",
+    "summary": "Drone makers are testing new, big drones that can deliver water or fire retardant with AI assistance. Aspen, Colorado is the first place trying them out. Cool and expensive? Yes. Effective? TBD.",
+    "pubDate": "Tue, 10 Nov 2026 14:00:00 -0500",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Aura’s newest e-ink photo frame is even better and more affordable than its last",
+    "link": "https://techcrunch.com/2026/11/10/auras-newest-e-ink-photo-frame-is-even-better-and-more-affordable-than-its-last/",
+    "summary": "Aura is unveiling a new product: a 10-inch digital e-ink frame that can blend in seamlessly with printed photos.",
+    "pubDate": "Tue, 10 Nov 2026 14:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+    "link": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+    "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
+    "pubDate": "Tue, 10 Nov 2026 14:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+    "link": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+    "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
+    "pubDate": "Tue, 10 Nov 2026 14:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Rocco’s Mini Mini Fridge Is Here (2026)",
+    "link": "https://www.wired.com/story/rocco-made-a-mini-version-of-its-mini-fridge/",
+    "summary": "The new Mini Mini holds 12 cans and fits on a countertop. And if you buy a full-sized Rocco fridge, you can take $50 off the little one.",
+    "pubDate": "Tue, 10 Nov 2026 14:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "4DX Movies Are Entering Their Thirsty Romance Era",
+    "link": "https://www.wired.com/story/4dx-movies-horny-romances-wicker-heated-rivalry/",
+    "summary": "From Heated Rivalry to Wicker, the movie format that embraces thrusting chairs and splashing the crowd is catering to those who want a horny communal theatergoing experience.",
+    "pubDate": "Tue, 10 Nov 2026 14:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
+    "link": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
+    "summary": "Built by Cyanogen’s cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models.",
+    "pubDate": "Tue, 10 Nov 2026 14:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "U.S. boycotts U.N. human rights review for second year running",
+    "link": "https://www.npr.org/2026/11/10/nx-s1-6034998/un-human-rights-us-geneva",
+    "summary": "The U.S. has skipped a key U.N. human rights review for the second year running. Rights groups warn the absence risks undermining global accountability.",
+    "pubDate": "Tue, 10 Nov 2026 13:53:34 -0500",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+    "link": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
+    "summary": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
+    "pubDate": "Tue, 10 Nov 2026 13:30:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Ring’s Indoor Drone Camera Is Back—and Now Powered by AI",
+    "link": "https://www.wired.com/story/ring-robotics-drone-cam-rover-cam/",
+    "summary": "This $250 Drone Cam flies around your home to monitor threats. There’s also the Rover Cam for businesses, featuring the guts of Amazon’s former Astro robot.",
+    "pubDate": "Tue, 10 Nov 2026 13:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "French wartime resistance heroine Solange Alexandre dies aged 104",
+    "link": "https://www.bbc.co.uk/news/articles/cjdx3x7wg941o?at_medium=RSS&at_campaign=rss",
+    "summary": "With 30 men under her orders, she organised sabotage operations, sheltered Allied airmen and joined the fight against the occupying German forces.",
+    "pubDate": "Tue, 10 Nov 2026 13:23:54 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Large-Scale Measurement and Real-World Mitigation of Web Browser Fingerprinting in the Wild",
+    "link": "https://fingerprinting.study/",
+    "summary": "Comments",
+    "pubDate": "Tue, 10 Nov 2026 13:14:08 -0600",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
+    "link": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+    "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open source communities valuable to developers worldwide.",
+    "pubDate": "Tue, 10 Nov 2026 13:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Ableton Live 13",
+    "link": "https://www.ableton.com/en/live/",
+    "summary": "Article URL: https://www.ableton.com/en/live/ Comments URL: https://news.ycombinator.com/item?id=50439695 Points: 197 # Comments: 234",
+    "pubDate": "Tue, 10 Nov 2026 12:58:04 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Americans across the economic spectrum feel a 'panic' about finances, author says",
+    "link": "https://www.npr.org/2026/11/10/nx-s1-6032767/mona-chalabi-ten-lives",
+    "summary": "Mona Chalabi spent five years following Americans living paycheck to paycheck, as well as those earning top wages. Her new book, Ten Lives, explores why financial security can feel so elusive.",
+    "pubDate": "Tue, 10 Nov 2026 12:46:25 -0500",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Thoughts on AI Coding",
+    "link": "https://danielbmarkham.com/blog/thoughts-on-ai-coding",
+    "summary": "This is a commentary on the future of programming as a job. It is written by someone who grew up alongside the rise of personal computers. Comments",
+    "pubDate": "Tue, 10 Nov 2026 12:27:33 -0600",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "What's new in the .NET 11 runtime",
+    "link": "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime",
+    "summary": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/ Comments URL: https://news.ycombinator.com/item?id=50439284 Points: 168 # Comments: 121",
+    "pubDate": "Tue, 10 Nov 2026 12:20:07 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
+    "link": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
+    "summary": "Ukraine competes with Russia and data centers for China’s optical fiber supply.",
+    "pubDate": "Tue, 10 Nov 2026 12:15:32 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "AlphaProof Code",
+    "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
+    "summary": "Article URL: https://deepmind.google/blog/introducing-alphaproof-code/ Comments URL: https://news.ycombinator.com/item?id=50439193 Points: 497 # Comments: 162",
+    "pubDate": "Tue, 10 Nov 2026 12:11:12 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Review: Apple's M6 MacBook Pro is good, but it's missing all the exciting stuff",
+    "link": "https://arstechnica.com/gadgets/2026/11/review-apples-1999-m6-macbook-pro-feels-stuck-in-the-middle/",
+    "summary": "Per usual, the basic MacBook Pro lags behind the flagships where it counts.",
+    "pubDate": "Tue, 10 Nov 2026 12:00:21 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "The Grindr 1 Percent Is Getting Its Own Gated Community",
+    "link": "https://www.wired.com/story/the-grindr-1-percent-is-getting-its-own-gated-community/",
+    "summary": "The gay hookup app’s premium tier Edge rolls out this month. Grindr will limit membership numbers to “preserve exclusivity.”",
+    "pubDate": "Tue, 10 Nov 2026 12:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Watch: Meghan's first public appearance since father arrested",
+    "link": "https://www.bbc.co.uk/news/videos/cqj9k9dj7vzlo?at_medium=RSS&at_campaign=rss",
+    "summary": "Meghan arrived at the European Parliament in Brussels with her husband, Prince Harry, who delivered a speech about online child safety.",
+    "pubDate": "Tue, 10 Nov 2026 11:57:14 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Louis Rossmann Wants More People to Care About the Right to Repair",
+    "link": "https://www.wired.com/story/the-big-interview-podcast-louis-rossmann-right-to-repair/",
+    "summary": "The outspoken consumer rights advocate knows the incoming Democrat-heavy Congress has a lot to get done. But he hopes one of those things is letting you fix your own iPhone.",
+    "pubDate": "Tue, 10 Nov 2026 11:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers",
+    "link": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/",
+    "summary": "The “abliterators” are flooding the internet with AI models that never say no, making it easier for people to improve their cyberdefenses—or build a bomb.",
+    "pubDate": "Tue, 10 Nov 2026 11:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are",
+    "link": "https://www.wired.com/story/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are/",
+    "summary": "The risk of nuclear catastrophe is real, as is the fallout of the China–US domination game (hi there, spies). But no need to panic about Skynet.",
+    "pubDate": "Tue, 10 Nov 2026 11:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Weird licenses and the new open source",
+    "link": "https://dustri.org/b/weird-licenses-and-the-new-open-source.html",
+    "summary": "Comments",
+    "pubDate": "Tue, 10 Nov 2026 10:49:51 -0600",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "What constant surveillance is doing to children and parents",
+    "link": "https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/",
+    "summary": "https://archive.is/opw0i , https://wallhop.io/https://www.theatlantic.com/magazine/2026... Comments URL: https://news.ycombinator.com/item?id=50438480 Points: 141 # Comments: 137",
+    "pubDate": "Tue, 10 Nov 2026 10:47:18 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "AI usage generates a fragile codebase",
+    "link": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+    "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 219 # Comments: 272",
+    "pubDate": "Tue, 10 Nov 2026 10:25:58 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Huupe Mini 2 Review: More Game Than It Can Handle",
+    "link": "https://www.wired.com/review/huupe-mini-2/",
+    "summary": "The Huupe Mini 2 can count baskets, stream shows, and challenge strangers, but I’d settle for a working power button.",
+    "pubDate": "Tue, 10 Nov 2026 10:08:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Announcing .NET 11",
+    "link": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
+    "summary": "Comments",
+    "pubDate": "Tue, 10 Nov 2026 10:03:21 -0600",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Here’s What We Know About the X-70 Fractal, NASA’s Experimental New Plane",
+    "link": "https://www.wired.com/story/heres-what-we-know-about-the-x-70-fractal-nasas-experimental-new-plane/",
+    "summary": "NASA announced the development of an experimental aircraft designed to explore new flight capabilities, although details about its design and operation remain under wraps.",
+    "pubDate": "Tue, 10 Nov 2026 10:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Gas prices dip below $4 but inflation remains stubbornly high",
+    "link": "https://www.npr.org/2026/11/10/nx-s1-6034518/inflation-consumer-prices-economy-gas-prices",
+    "summary": "Gasoline prices fell below $4 a gallon Tuesday for the first time in three months — but the overall cost of living remains stubbornly high.",
+    "pubDate": "Tue, 10 Nov 2026 09:35:50 -0500",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "'Like gods reigning over humans': Many defectors see daughter of North Korea's Kim as heir apparent",
+    "link": "https://www.npr.org/2026/11/10/g-s1-152795/like-gods-reigning-over-humans-many-defectors-see-daughter-of-north-koreas-kim-as-heir-apparent",
+    "summary": "Little is known about her except that she's reportedly about 13 and named Kim Ju Ae, but Korea's spy agency says she's likely her father's heir.",
+    "pubDate": "Tue, 10 Nov 2026 09:16:53 -0500",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Indonesia's VP offers resignation as questions mount over his eligibility",
+    "link": "https://www.npr.org/2026/11/10/g-s1-152788/indonesias-vp-offers-resignation-as-questions-mount-over-his-eligibility",
+    "summary": "His resignation offer comes amid a widening political rift between Prabowo and Widodo and a separate investigation into allegations that senior police officials wiretapped the president.",
+    "pubDate": "Tue, 10 Nov 2026 09:01:14 -0500",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Beyond the compiler: Making IBM i run modified native code - Program Validation Value",
+    "link": "https://blog.silentsignal.eu/2026/11/10/Beyond-the-compiler-Making-IBM-i-run-modified-native-code-PVV/",
+    "summary": "Comments",
+    "pubDate": "Tue, 10 Nov 2026 08:48:26 -0600",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "A faster Easter date function",
+    "link": "https://www.benjoffe.com/fast-easter",
+    "summary": "Comments",
+    "pubDate": "Tue, 10 Nov 2026 08:36:45 -0600",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "The average cost for a new vehicle in the U.S. hits a record high: over $51,000",
+    "link": "https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high",
+    "summary": "Vehicle transaction prices are up to a new record high, according to the Kelley Blue Book — and some buyers are extending their car loans to finance them.",
+    "pubDate": "Tue, 10 Nov 2026 08:30:00 -0500",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "派早报：火山引擎发布 Seedream 5.5，苹果研究团队用仿真训练人形机器人等",
     "link": "https://sspai.com/post/118854",
     "summary": "少数派的近期动态我们已开设专页，汇总展示「优秀作者评选」奖项及结果。「优秀作者评选」是编辑部自2023年起实行的机制，于每季度结束后，评选该季度贡献突出的现有作者，以及涌现出的有潜力新作者。获奖者会获 ... 查看全文",
     "pubDate": "Tue, 10 Nov 2026 08:24:40 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "Seven days of chaos in the ER: How this country's healthcare system is unraveling",
+    "link": "https://www.npr.org/2026/11/10/g-s1-152693/healthcare-ethiopia-conflict-emergency-room",
+    "summary": "Renewed fighting has pushed Ethiopia's healthcare system close to collapse: \"The whole emergency (room) was flooded with war trauma patients,\" one surgeon says of a brutal week in September.",
+    "pubDate": "Tue, 10 Nov 2026 07:48:48 -0500",
+    "source": "NPR",
+    "category": "general"
   },
   {
     "title": "'No reason' to reopen sandpaper investigation",
@@ -16,11 +808,27 @@
     "category": "general"
   },
   {
+    "title": "Get in, loser: Broadway's newest 'Mean Girls' are ready to insult (and enlighten) you",
+    "link": "https://www.npr.org/2026/11/10/g-s1-152641/get-in-loser-broadways-newest-mean-girls-are-ready-to-insult-and-enlighten-you",
+    "summary": "\"School Girls; Or, The African Mean Girls Play,\" is ending a Broadway run this week and celebrating with livestream broadcasts. We interviewed the Tony-nominated playwright, Jocelyn Bioh.",
+    "pubDate": "Tue, 10 Nov 2026 07:28:36 -0500",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "Severe travel disruption possible as dense fog returns",
     "link": "https://www.bbc.co.uk/weather/articles/cmzxlxkw4p4lo?at_medium=RSS&at_campaign=rss",
     "summary": "Dense fog is once again threatening travel disruption into Tuesday, as Elizabeth Rizzini explains.",
     "pubDate": "Tue, 10 Nov 2026 07:12:46 GMT",
     "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "House set to vote to impeach Hegseth. And, SCOTUS allows border wall work to proceed",
+    "link": "https://www.npr.org/2026/11/10/g-s1-152777/up-first-newsletter-pete-hegseth-impeachment-trump-iran-nvidia-border-wall-texas",
+    "summary": "The House could vote to impeach Hegseth, but removing him from office will be tough. And, SCOTUS ruled that a federal judge did not have the authority to halt border wall construction.",
+    "pubDate": "Tue, 10 Nov 2026 07:01:04 -0500",
+    "source": "NPR",
     "category": "general"
   },
   {
@@ -56,10 +864,26 @@
     "category": "general"
   },
   {
+    "title": "Next-Level Benchmarking Overfitting",
+    "link": "http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html",
+    "summary": "Comments",
+    "pubDate": "Tue, 10 Nov 2026 06:20:55 -0600",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Meet Stephanie Case - the first woman to run 100 miles in Antarctica",
     "link": "https://www.bbc.co.uk/sport/articles/cm98z8w9kx02o?at_medium=RSS&at_campaign=rss",
     "summary": "Stephanie Case makes history by becoming the first woman to complete extreme 100-mile race in Antarctica.",
     "pubDate": "Tue, 10 Nov 2026 06:20:04 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Divorced after five days: 'My sham husband made me believe he loved me'",
+    "link": "https://www.bbc.co.uk/news/articles/cwj34mdlrp86o?at_medium=RSS&at_campaign=rss",
+    "summary": "Jane, who met her husband on a dating app, says he dropped the bombshell news in a text message.",
+    "pubDate": "Tue, 10 Nov 2026 06:13:46 GMT",
     "source": "BBC News",
     "category": "general"
   },
@@ -86,6 +910,14 @@
     "pubDate": "Tue, 10 Nov 2026 06:00:00 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Open Graph images with Astro and Typst",
+    "link": "https://eaj.no/posts/open-graph-images-with-typst/",
+    "summary": "Comments",
+    "pubDate": "Tue, 10 Nov 2026 05:42:48 -0600",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Polish unity on show in silent march to honour Krakow shooting victims",
@@ -184,6 +1016,14 @@
     "category": "general"
   },
   {
+    "title": "Building a networking switch ASIC chip",
+    "link": "https://essenceia.github.io/projects/expresso/",
+    "summary": "This is part 2, for part 1 see https://essenceia.github.io/projects/ethernet_switch_asic/ Comments",
+    "pubDate": "Tue, 10 Nov 2026 01:39:39 -0600",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Anthropic reportedly plans to move forward with IPO plans",
     "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
     "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
@@ -260,6 +1100,14 @@
     "link": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
     "summary": "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?",
     "pubDate": "Tue, 10 Nov 2026 00:08:28 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The David Walliams Allegations",
+    "link": "https://www.bbc.co.uk/sounds/play/p0pm3s3l?at_mid=KFzWjcvGOQ&at_campaign=Newscast_David_Walliams_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p05299nl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Newscast_David_Walliams_news_rail&at_bbc_team=BBC&at_creation=Newscast_David_Walliams_news_rail",
+    "summary": "The BBC’s daily news podcast with episodes available Monday to Sunday at 5pm.",
+    "pubDate": "Sun, 25 Oct 2026 00:00:00 GMT",
     "source": "BBC News",
     "category": "general"
   },
@@ -392,6 +1240,182 @@
     "category": "tech"
   },
   {
+    "title": "The PlayStation Plus PC app is shutting down next month",
+    "link": "https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down",
+    "summary": "Sony is retiring the PlayStation Plus app for PC on December 10th. Sony says it will notify users directly about the shutdown. The app allowed PlayStation Plus Premium subscribers to stream certain games on PC, but according to Sony, there aren't many people using that perk: \"With a very small nu...",
+    "pubDate": "2026-11-10T14:40:52-05:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Starlink Mini 2 adds a swappable battery",
+    "link": "https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery",
+    "summary": "SpaceX announced a new version of its all-in-one satellite internet terminal that integrates a dish, Wi-Fi router, and now a battery into a single device about the size of a laptop. According to some users on X who shared screenshots of invitations to order Starlink Mini 2, the dish is priced at ...",
+    "pubDate": "2026-11-10T14:19:12-05:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "The US is winning the AI race. Jensen Huang could have blown it",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+    "summary": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He also wears a cool...",
+    "pubDate": "2026-11-10T14:04:05-05:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Google’s Pixel Tag tracker is now available",
+    "link": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
+    "summary": "After years of third-party Android trackers from companies like Samsung, Motorola, and Pebblebee, Google's Pixel Tag is now available for purchase. First announced in August, the Pixel Tag is designed to work with Google's tracking network and app that was renamed the Find Hub last year. The Pixe...",
+    "pubDate": "2026-11-10T14:00:00-05:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Google is making Pixel HiLight slightly more useful",
+    "link": "https://www.theverge.com/tech/1031089/google-pixel-drop-november-2026-hilight",
+    "summary": "Google is adding a new feature to its underwhelming HiLight light on the back of Pixel 11 Pro phones: as part of the November 2026 Pixel Drop, the light can light up when you get Google Messages texts from your favorite contacts. Sure, it's a small addition to the disappointing ways you could use...",
+    "pubDate": "2026-11-10T14:00:00-05:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "One of our favorite multi-filament 3D printers is $100 off",
+    "link": "https://www.theverge.com/gadgets/1030970/bambu-p2s-combo-3d-printer-deal-sale",
+    "summary": "If you’re tired of filament jams and clogged nozzles, perhaps it’s time for a new 3D printer. Through December 1st, the Bambu Lab P2S Combo, currently one of the best models that’s easy to use, is discounted. It’s $649 at Best Buy, as well as directly from Bambu Lab. That’s $100 off the list pric...",
+    "pubDate": "2026-11-10T13:42:03-05:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "ChatGPT is getting verified AI ‘Business Agents’",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+    "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in ...",
+    "pubDate": "2026-11-10T13:00:00-05:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Ableton Live 13 announced with a step sequencer, new drum synth, and more",
+    "link": "https://www.theverge.com/tech/1030846/ableton-live-13-announced-step-sequencer-looplet-daw",
+    "summary": "Today, Ableton announced Live 13, which is expected to arrive in early 2027 with a slew of new features. Most of the changes are seemingly minor on paper, but when combined, they make for the biggest update to the digital audio workstation (DAW) in years. The feature most likely to draw attention...",
+    "pubDate": "2026-11-10T12:43:49-05:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "The indie game community is in disarray over AI and Big Walk",
+    "link": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+    "summary": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big Walk has published a statement saying it \"sparingly\" used AI in the \"final stretch\" of the game's ...",
+    "pubDate": "2026-11-10T12:32:47-05:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Google Fi is bringing back multiple cell network support for better coverage",
+    "link": "https://www.theverge.com/tech/1030979/google-fi-automatic-network-switching-pixel",
+    "summary": "Google Fi is launching a new \"super network\" that can automatically switch users between two different 5G networks depending on which one has better connectivity. The feature is rolling out starting today on Pixel 9 and newer phones that have Google Fi active on eSIM and have any non-Fi SIMs disa...",
+    "pubDate": "2026-11-10T12:32:39-05:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "PhD funding mechanisms should protect the right to disagree with supervisors",
+    "link": "https://www.nature.com/articles/d41586-026-03645-4",
+    "summary": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03645-4 PhD funding mechanisms should protect the right to disagree with supervisors",
+    "pubDate": "2026-11-10",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "A practically perfect plesiosaur",
+    "link": "https://www.nature.com/articles/d41586-026-03278-7",
+    "summary": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03278-7 A very well preserved ancient marine reptile and a Latin poem that describes an optical phenomenon, in this week’s pick from the Nature archive.",
+    "pubDate": "2026-11-10",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Chile’s postdoc rules risk driving talent away",
+    "link": "https://www.nature.com/articles/d41586-026-03643-6",
+    "summary": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03643-6 Chile’s postdoc rules risk driving talent away",
+    "pubDate": "2026-11-10",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Students need AI-free spaces to learn core skills",
+    "link": "https://www.nature.com/articles/d41586-026-03644-5",
+    "summary": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03644-5 Students need AI-free spaces to learn core skills",
+    "pubDate": "2026-11-10",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Why your physics project needs an anthropologist",
+    "link": "https://www.nature.com/articles/d41586-026-03623-w",
+    "summary": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03623-w Picking a site for an observatory should be about more than science. Humanities scholars have a crucial role in responsible siting.",
+    "pubDate": "2026-11-10",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "California votes to give record $8.4 billion to medical research",
+    "link": "https://www.nature.com/articles/d41586-026-03635-6",
+    "summary": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03635-6 The cash infusion, earmarked for immunology studies, is the largest ever for science authorized by a US public vote — but it has drawn criticism.",
+    "pubDate": "2026-11-10",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "How microbes can secure the critical minerals the world needs",
+    "link": "https://www.nature.com/articles/d41586-026-03629-4",
+    "summary": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03629-4 To sustain supplies of key metals, policymakers should support the infrastructure needed to deploy mining biotechnologies on a large scale.",
+    "pubDate": "2026-11-10",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Mongolia’s iconic grasslands are in crisis — invisible fungi could help save them",
+    "link": "https://www.nature.com/articles/d41586-026-03589-9",
+    "summary": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03589-9 Clues suggest that underground fungal networks might be key to reviving degraded land and preserving plant biodiversity.",
+    "pubDate": "2026-11-10",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "PhDs worldwide are having a shake up — why now?",
+    "link": "https://www.nature.com/articles/d41586-026-03017-y",
+    "summary": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03017-y Government-supported initiatives around the globe aim to change the PhD, with the goal of providing fresh talent to the private sector.",
+    "pubDate": "2026-11-10",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "The public trusts scientists with AI — more than it does anyone else",
+    "link": "https://www.nature.com/articles/d41586-026-03578-y",
+    "summary": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03578-y Public confidence in scientists’ use of generative artificial intelligence remains high, but that trust comes with conditions.",
+    "pubDate": "2026-11-10",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Metascience should be a source of evidence, not a means of control",
+    "link": "https://www.nature.com/articles/d41586-026-03620-z",
+    "summary": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03620-z The field has captured the interest of politicians. There are positives — but governments must not misuse the data.",
+    "pubDate": "2026-11-10",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Some people are resistant to dementia — here’s what their genes can teach us",
+    "link": "https://www.nature.com/articles/d41586-026-03625-8",
+    "summary": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03625-8 For years, researchers have studied people with a genetic predisposition to Alzheimer’s and other dementias. They might have even more to learn from those who don’t get the disease.",
+    "pubDate": "2026-11-10",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
     "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
     "link": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
     "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out and look at production, AI really has...",
@@ -422,5 +1446,13 @@
     "pubDate": "2026-11-09T18:07:59-05:00",
     "source": "The Verge",
     "category": "tech"
+  },
+  {
+    "title": "Daily briefing: The ‘overshoot COP’ kicks off",
+    "link": "https://www.nature.com/articles/d41586-026-03658-z",
+    "summary": "Nature, Published online: 09 November 2026; doi:10.1038/d41586-026-03658-z The COP31 climate conference begins, with ‘climate overshoot’ a key talking point. Plus, the surprising benefits of ‘pink noise’ and the role of AI chatbots to support men’s mental health.",
+    "pubDate": "2026-11-09",
+    "source": "Nature",
+    "category": "science"
   }
 ]

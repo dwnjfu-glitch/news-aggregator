@@ -1,11 +1,379 @@
 [
   {
+    "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+    "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+    "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+    "pubDate": "Sun, 22 Nov 2026 19:52:50 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Alcaraz outplays Zverev for first ATP Finals triumph",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/c60evlendg0jo?at_medium=RSS&at_campaign=rss",
+    "summary": "Carlos Alcaraz ends his wait for a first ATP Finals title as he outplays world number one Alexander Zverev in Turin.",
+    "pubDate": "Sun, 22 Nov 2026 19:36:14 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Canada recommits to federal funding for news",
+    "link": "https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/",
+    "summary": "Article URL: https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/ Comments URL: https://news.ycombinator.com/item?id=50602847 Points: 76 # Comments: 54",
+    "pubDate": "Sun, 22 Nov 2026 19:10:38 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+    "link": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+    "summary": "Article URL: https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife Comments URL: https://news.ycombinator.com/item?id=50602843 Points: 5 # Comments: 0",
+    "pubDate": "Sun, 22 Nov 2026 19:10:34 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "From conceding seven to Hull heroics - how Tzolakis recovered to defy Brighton",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cm4gn7npqe8yo?at_medium=RSS&at_campaign=rss",
+    "summary": "Nine days after playing for Greece in a nightmare 7-0 loss, keeper Konstantinos Tzolakis plays a pivotal role in Hull's Premier League win against Brighton.",
+    "pubDate": "Sun, 22 Nov 2026 19:03:32 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "What's next after no deal at COP31 climate talks?",
+    "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+    "summary": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal.",
+    "pubDate": "Sun, 22 Nov 2026 18:57:24 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Dirac's Theorem at a Dinner Party",
+    "link": "https://prideout.net/blog/dirac-dinner-party/",
+    "summary": "Article URL: https://prideout.net/blog/dirac-dinner-party/ Comments URL: https://news.ycombinator.com/item?id=50602660 Points: 5 # Comments: 0",
+    "pubDate": "Sun, 22 Nov 2026 18:50:27 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Yoro sees red as Ngumoha shines - Liverpool v Man Utd player ratings",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c933gzxk66yyo?at_medium=RSS&at_campaign=rss",
+    "summary": "How Liverpool and Manchester United's players rated following their Premier League match.",
+    "pubDate": "Sun, 22 Nov 2026 18:28:51 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+    "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+    "summary": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
+    "pubDate": "Sun, 22 Nov 2026 18:17:59 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Why data centers are at the center of the Big Tech backlash",
+    "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+    "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+    "pubDate": "Sun, 22 Nov 2026 18:08:43 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+    "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+    "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+    "pubDate": "Sun, 22 Nov 2026 17:57:43 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The red card that changed Liverpool-Man Utd: correct call?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cq7827p8emmxo?at_medium=RSS&at_campaign=rss",
+    "summary": "Leny Yoro's red card after eight minutes changed Liverpool v Manchester United - did officials make the correct call?",
+    "pubDate": "Sun, 22 Nov 2026 17:55:54 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Perplexity and Intelligence",
+    "link": "https://openai.com/index/perplexity-and-intelligence/",
+    "summary": "Article URL: https://openai.com/index/perplexity-and-intelligence/ Comments URL: https://news.ycombinator.com/item?id=50601525 Points: 258 # Comments: 175",
+    "pubDate": "Sun, 22 Nov 2026 17:06:27 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+    "link": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
+    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
+    "pubDate": "Sun, 22 Nov 2026 17:06:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Russell Brand's wife says she'll honour prison rules after message row",
+    "link": "https://www.bbc.co.uk/news/articles/cq8e0pzp43w4o?at_medium=RSS&at_campaign=rss",
+    "summary": "The wife of the disgraced comedian says she will stick to the \"parameters\", after reading out a message from her inmate husband.",
+    "pubDate": "Sun, 22 Nov 2026 16:51:57 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
+    "link": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
+    "summary": "Article URL: https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html Comments URL: https://news.ycombinator.com/item?id=50600677 Points: 120 # Comments: 100",
+    "pubDate": "Sun, 22 Nov 2026 15:42:40 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
+    "link": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
+    "summary": "Article URL: https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/ Comments URL: https://news.ycombinator.com/item?id=50600622 Points: 71 # Comments: 21",
+    "pubDate": "Sun, 22 Nov 2026 15:35:24 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Fascism and Monopoly",
+    "link": "https://repository.law.umich.edu/mlr/vol118/iss7/2/",
+    "summary": "Article URL: https://repository.law.umich.edu/mlr/vol118/iss7/2/ Comments URL: https://news.ycombinator.com/item?id=50600521 Points: 38 # Comments: 15",
+    "pubDate": "Sun, 22 Nov 2026 15:25:29 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Open Social Web Alliance",
+    "link": "https://osw-alliance.net/en/",
+    "summary": "Article URL: https://osw-alliance.net/en/ Comments URL: https://news.ycombinator.com/item?id=50600511 Points: 158 # Comments: 159",
+    "pubDate": "Sun, 22 Nov 2026 15:24:32 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Backblaze customers worried of personal data sale/sharing after policy update",
+    "link": "https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/",
+    "summary": "Article URL: https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/ Comments URL: https://news.ycombinator.com/item?id=50600435 Points: 88 # Comments: 45",
+    "pubDate": "Sun, 22 Nov 2026 15:16:02 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Can a TV be too large? An investigation",
+    "link": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
+    "summary": "Can a TV be too large? This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges.",
+    "pubDate": "Sun, 22 Nov 2026 15:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "RAF's next fighter jet could be last crewed combat plane, air chief says",
+    "link": "https://www.bbc.co.uk/news/articles/c68x08nzpk9no?at_medium=RSS&at_campaign=rss",
+    "summary": "The head of the RAF said AI-enabled and uncrewed aircrafts are expected to start flying in UK airspace next year.",
+    "pubDate": "Sun, 22 Nov 2026 14:19:06 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Show HN: I built a game where you are an LLM's subagent",
+    "link": "https://github.com/gulivan/worker755",
+    "summary": "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 187 # Comments: 46",
+    "pubDate": "Sun, 22 Nov 2026 13:56:58 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills",
+    "link": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
+    "summary": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
+    "pubDate": "Sun, 22 Nov 2026 13:50:21 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "BBC apologises after noise disruption during Strictly",
+    "link": "https://www.bbc.co.uk/news/videos/ck782j066elvo?at_medium=RSS&at_campaign=rss",
+    "summary": "Strictly Come Dancing judge Motsi Mabuse was giving feedback to Delta Goodrem when she paused after the sound started playing.",
+    "pubDate": "Sun, 22 Nov 2026 13:46:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "scriptura: a cozy corner for your scripts",
+    "link": "https://alanpearce.eu/post/scriptura/",
+    "summary": "Comments",
+    "pubDate": "Sun, 22 Nov 2026 13:13:26 -0600",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Testing Terraform with AWS Emulator",
+    "link": "https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/",
+    "summary": "Article URL: https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/ Comments URL: https://news.ycombinator.com/item?id=50599309 Points: 36 # Comments: 4",
+    "pubDate": "Sun, 22 Nov 2026 13:00:36 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
+    "link": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes",
+    "summary": "In a pilot project in a village in southern Lebanon, Israeli forces have left and the Lebanese army moved it. But villagers who return find their houses wrecked.",
+    "pubDate": "Sun, 22 Nov 2026 12:44:52 -0500",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Meet the young authors! A literacy program inspires kids in South Africa",
+    "link": "https://www.npr.org/2026/11/22/g-s1-154387/books-children-authors-south-africa-literacy",
+    "summary": "South Africa is working to overcome a children's literacy crisis. In one Johannesburg township, a reading club is instilling a love of books in kids — and inspiring them to become authors.",
+    "pubDate": "Sun, 22 Nov 2026 12:34:20 -0500",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Calculate radio link placement and node amount for your city's mesh network",
+    "link": "https://meshcoveragecalculator.lalala.ing/",
+    "summary": "FSPL + Delta-Bullington based local-first WASM radio mesh network calculator with the end goal of making calls over mesh networks possible without pissing off anybody in the process (yes, I'm talking about you, Meshtastic maintainers). Feel free to tell me how this idea does or doesn't make sense...",
+    "pubDate": "Sun, 22 Nov 2026 12:17:44 -0600",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
+    "link": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+    "summary": "GLP-1 drugs could cut food demand enough to free farmland larger than Italy.",
+    "pubDate": "Sun, 22 Nov 2026 12:07:41 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Climate change talks fall apart in final hours over fossil fuels",
+    "link": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
+    "summary": "Some 200 countries gathered in Antalya, Turkey, for COP31, the annual climate negotiations. Countries failed to reach an agreement over fossil fuels - the primary driver of global warming.",
+    "pubDate": "Sun, 22 Nov 2026 11:33:22 -0500",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Best Black Friday Nintendo Switch 2 Deals (2026): Switch 2 Bundles and Games",
+    "link": "https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-22-26/",
+    "summary": "Get your game on for less with these Black Friday deals on official Nintendo Switch 2 bundles and games.",
+    "pubDate": "Sun, 22 Nov 2026 11:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Verstappen a constant amid chaos as he says Russell is 'so far below my level'",
+    "link": "https://www.bbc.co.uk/sport/formula1/articles/c3n0l5p5x5x5o?at_medium=RSS&at_campaign=rss",
+    "summary": "Max Verstappen was the star figure in a Las Vegas Grand Prix that was unlike any F1 race anyone younger than about 70 had ever seen.",
+    "pubDate": "Sun, 22 Nov 2026 11:07:32 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Banks Have Had It Up to Here With Your AI Agent",
+    "link": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+    "summary": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
+    "pubDate": "Sun, 22 Nov 2026 11:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Falsehoods Programmers Believe About ATProto",
+    "link": "https://reiver.link/atproto/falsehoods-programmers-believe/",
+    "summary": "Comments",
+    "pubDate": "Sun, 22 Nov 2026 10:37:12 -0600",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Scientists Tried to Kill This Dirt, but It Wouldn’t Die",
+    "link": "https://www.wired.com/story/scientists-tried-to-kill-this-dirt-but-it-wouldnt-die/",
+    "summary": "Biologically important chemical reactions persisted in the sterilized soil for six years—offering clues to how life on Earth may have gotten its start.",
+    "pubDate": "Sun, 22 Nov 2026 10:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "How This Year’s Super El Niño Will Worsen Global Hunger",
+    "link": "https://www.wired.com/story/how-this-years-super-el-nino-will-worsen-global-hunger/",
+    "summary": "While some regions get wetter, others face massive drought. On top of wars and cuts to foreign aid, the weather phenomenon could leave millions of people in vulnerable countries without enough to eat.",
+    "pubDate": "Sun, 22 Nov 2026 10:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+    "link": "https://simonwillison.net/2026/Nov/21/muru/",
+    "summary": "Article URL: https://simonwillison.net/2026/Nov/21/muru/ Comments URL: https://news.ycombinator.com/item?id=50597959 Points: 57 # Comments: 10",
+    "pubDate": "Sun, 22 Nov 2026 09:57:01 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "South Korea education minister resigns over exam cheating scandal",
+    "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+    "summary": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
+    "pubDate": "Sun, 22 Nov 2026 09:20:45 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
     "title": "从深圳到上海，少数派的共创故事还在继续",
     "link": "https://sspai.com/post/119318",
     "summary": "11月20日，2026虹桥国际科技周在上海举行。作为聚焦科技创新、产业协作与未来趋势的交流平台，本届科技周汇聚了来自不同领域的创新者、创业者与行业观察者。少数派也在现场带来了主题论坛分享，与参与者一起 ... 查看全文",
     "pubDate": "Sun, 22 Nov 2026 09:05:44 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "Joanna Page says she nearly messed up Gavin and Stacey audition",
+    "link": "https://www.bbc.co.uk/news/articles/c6gm38e407zxo?at_medium=RSS&at_campaign=rss",
+    "summary": "The Swansea actress says she was told her Cardiff accent sounded \"awful\".",
+    "pubDate": "Sun, 22 Nov 2026 08:59:41 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+    "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+    "summary": "Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/ Comments URL: https://news.ycombinator.com/item?id=50597612 Points: 668 # Comments: 729",
+    "pubDate": "Sun, 22 Nov 2026 08:57:34 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "What If Netscape Did SSL the HTTP Way?",
+    "link": "https://owl.billpg.com/what-if-netscape-did-ssl-the-http-way/",
+    "summary": "Comments",
+    "pubDate": "Sun, 22 Nov 2026 08:48:20 -0600",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+    "link": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
+    "summary": "The couple have been together for four years and were engaged in 2025.",
+    "pubDate": "Sun, 22 Nov 2026 08:46:28 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Medicare looks a bit different in 2027, so don't miss open enrollment",
+    "link": "https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027",
+    "summary": "Open enrollment for Medicare runs through Dec. 7, and there are a few different pitfalls people should watch out for this year. Your drug plan or Medicare Advantage plan could be changing a lot.",
+    "pubDate": "Sun, 22 Nov 2026 08:11:04 -0500",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Widow fears losing home built by husband after support payments end",
+    "link": "https://www.bbc.co.uk/news/articles/cqevrx7xxz93o?at_medium=RSS&at_campaign=rss",
+    "summary": "A petition calling for changes to bereavement support is due to be debated by MPs on Monday.",
+    "pubDate": "Sun, 22 Nov 2026 07:14:14 GMT",
+    "source": "BBC News",
+    "category": "general"
   },
   {
     "title": "‘Showing off for Selena Gomez’ - Wembanyama hits 50 points in Spurs win",
@@ -24,6 +392,22 @@
     "category": "general"
   },
   {
+    "title": "Notes on the discrete Fourier transform (DFT)",
+    "link": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
+    "summary": "Article URL: https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/ Comments URL: https://news.ycombinator.com/item?id=50596960 Points: 85 # Comments: 11",
+    "pubDate": "Sun, 22 Nov 2026 06:52:25 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Fixing Google’s Feedburner problem, and caching that half works",
+    "link": "https://joshua.hu/fixing-google-feedburner-cache-problem-atom-rss",
+    "summary": "Comments",
+    "pubDate": "Sun, 22 Nov 2026 06:30:56 -0600",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "Verstappen wins extraordinary race as Ferraris collide",
     "link": "https://www.bbc.co.uk/sport/formula1/articles/cqx2ex25pvn9o?at_medium=RSS&at_campaign=rss",
     "summary": "Red Bull's Max Verstappen wins an extraordinary Las Vegas Grand Prix that featured 34 lead changes and another collision between the Ferraris.",
@@ -36,6 +420,14 @@
     "link": "https://www.bbc.co.uk/sport/football/articles/ckqx5w58dgv7o?at_medium=RSS&at_campaign=rss",
     "summary": "BBC Sport columnist Tony Pulis explains how new Manchester United boss Mauricio Pochettino will prepare for Sunday's game against Liverpool after only a few days with his squad.",
     "pubDate": "Sun, 22 Nov 2026 06:21:55 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "'Move on!' Former PMs pile in with advice for Andy Burnham, but will he listen?",
+    "link": "https://www.bbc.co.uk/news/articles/cjn5023e6ez4o?at_medium=RSS&at_campaign=rss",
+    "summary": "Theresa May, David Cameron and Tony Blair have weighed in on Burnham's plans on moving closer to the EU, but the prime minister's message itself is not very precise.",
+    "pubDate": "Sun, 22 Nov 2026 06:01:49 GMT",
     "source": "BBC News",
     "category": "general"
   },
@@ -72,6 +464,22 @@
     "category": "general"
   },
   {
+    "title": "NPR's Senior Podcast Challenge: Early entries we love",
+    "link": "https://www.npr.org/2026/11/22/nx-s1-6044221/npr-senior-podcast-challenge-early-entries",
+    "summary": "People 65 and older have been submitting stories for a chance to win our grand prize — a visit to NPR watch your podcast air live on Weekend Edition . There's still time to enter!",
+    "pubDate": "Sun, 22 Nov 2026 05:00:00 -0500",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "He expected a small-business loan. He got a 7-year nightmare",
+    "link": "https://www.npr.org/2026/11/22/nx-s1-5752261/small-business-loan-merchant-cash-advance",
+    "summary": "America's fastest-growing source of funding for small businesses is also one of the least regulated. One man has waged a long, lonely fight to recoup its punishing cost.",
+    "pubDate": "Sun, 22 Nov 2026 05:00:00 -0500",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "Wales coach Tandy frustrated by Australia defeat",
     "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c6gregq87258o?at_medium=RSS&at_campaign=rss",
     "summary": "Wales head coach Steve Tandy said he was frustrated after his side failed to back up their epic win over New Zealand with victory against Australia.",
@@ -86,6 +494,14 @@
     "pubDate": "Sun, 22 Nov 2026 04:39:13 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
+    "link": "https://github.com/EL4CTEO/fast-anything",
+    "summary": "Article URL: https://github.com/EL4CTEO/fast-anything Comments URL: https://news.ycombinator.com/item?id=50596155 Points: 162 # Comments: 122",
+    "pubDate": "Sun, 22 Nov 2026 04:10:09 +0000",
+    "source": "Hacker News",
+    "category": "tech"
   },
   {
     "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
@@ -206,6 +622,14 @@
     "pubDate": "Sat, 21 Nov 2026 22:25:36 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "A Better Vocabulary for Testing",
+    "link": "https://alperenkeles.com/posts/vocab-for-testing/",
+    "summary": "Article URL: https://alperenkeles.com/posts/vocab-for-testing/ Comments URL: https://news.ycombinator.com/item?id=50594182 Points: 68 # Comments: 19",
+    "pubDate": "Sat, 21 Nov 2026 22:15:39 +0000",
+    "source": "Hacker News",
+    "category": "tech"
   },
   {
     "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
@@ -406,6 +830,86 @@
     "pubDate": "Sat, 21 Nov 2026 15:37:35 -0500",
     "source": "NPR",
     "category": "general"
+  },
+  {
+    "title": "Delta flights in and out of Atlanta delayed due to system outage",
+    "link": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage",
+    "summary": "All Delta flights in and out of Atlanta are facing significant delays on Sunday due to a problem with the system that calculates a plane's weight and balance. Hartsfield-Jackson Atlanta International Airport is Delta's largest hub and one of the busiest airports in the world. While only Delta is ...",
+    "pubDate": "2026-11-22T12:46:44-05:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+    "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+    "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files...",
+    "pubDate": "2026-11-22T12:25:20-05:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Some of our favorite Switch 2 games are cheaper through Black Friday",
+    "link": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale",
+    "summary": "Black Friday is a great time to expand your game library because it’s a chance to catch deals that aren’t normally happening throughout the year. That’s true for Nintendo Switch 2 games, as well. In addition to a $50 off sale on one of its console bundles, Nintendo is also knocking $20 off some o...",
+    "pubDate": "2026-11-22T12:00:00-05:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk",
+    "link": "https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review",
+    "summary": "Sheherazaad started making ripples in the music world a few years ago with her EP Qasr, which was produced by Grammy Award winner Arooj Aftab. Now she's back with Khudgarzi, her reverb-drenched folk-noir debut LP that's primarily sung in Urdu. The instrumentation on Khudgarzi draws on traditional...",
+    "pubDate": "2026-11-22T11:33:29-05:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Protesters storm Meta offices in India",
+    "link": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
+    "summary": "Members of the opposition Congress party protested outside Meta's offices in Delhi on Friday and appear to have entered the building in a video shared by CNN. Members of the party's youth wing are demanding the company restore accounts of party leaders and warned of more protests to come. The Con...",
+    "pubDate": "2026-11-22T10:15:07-05:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Nintendo’s Switch 2 console is $50 off for Black Friday",
+    "link": "https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale",
+    "summary": "Those hoping to save some cash on a Nintendo Switch 2 can do so starting today, November 22nd, through Saturday, December 5th, giving you plenty of time to think about it after Cyber Monday has passed. For a limited time, Nintendo has knocked $50 off one of its two current console bundles, tempor...",
+    "pubDate": "2026-11-22T09:00:00-05:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "‘The show is starting soon. Please turn on your headphones.’",
+    "link": "https://www.theverge.com/tech/1038879/off-broadway-love-me-auracast",
+    "summary": "Up a few concrete steps and through the front door of a 200-year-old row house in New York City, I follow a crowd of people into the 178-seat SoHo Playhouse. As we filter to our seats, ushers hand each person a black drawstring bag with a pair of wired headphones connected to a small Auracast [&#...",
+    "pubDate": "2026-11-22T09:00:00-05:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "How Tamagotchis got us hooked on digital pets",
+    "link": "https://www.theverge.com/podcast/1039716/tamagotchi-history-digital-pets-anniversary",
+    "summary": "If you were are a kid in the late 1990s, there's a near-100 percent chance you either had a Tamagotchi or knew someone who did. The tiny digital pets came out of nowhere and became an overnight sensation, as millions of kids signed up to parent a crying, hungry, constantly dirty creature. Until t...",
+    "pubDate": "2026-11-22T08:15:27-05:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Your questions about Apple HomeView’s audio, answered",
+    "link": "https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay",
+    "summary": "After I published my review of the HomeView, Apple's first smart display, y'all still had a ton of questions about how it works as a smart speaker. So, I spent a bunch more time testing its audio capabilities and support for third-party music apps - and found a few more frustrations along the way...",
+    "pubDate": "2026-11-22T08:00:00-05:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "The vibe-coding revolution is coming to all the gadgets",
+    "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Like so many things ...",
+    "pubDate": "2026-11-22T08:00:00-05:00",
+    "source": "The Verge",
+    "category": "tech"
   },
   {
     "title": "Amazon is complaining about NYC Council on shipping labels, too",

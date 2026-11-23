@@ -1,0 +1,562 @@
+[
+  {
+    "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+    "link": "https://0rwx.com/",
+    "summary": "Article URL: https://0rwx.com/ Comments URL: https://news.ycombinator.com/item?id=50605445 Points: 43 # Comments: 10",
+    "pubDate": "Sun, 22 Nov 2026 23:53:00 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "A 'wow' player - why Ngumoha is already a Liverpool game-changer",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cmn80y5w84qqo?at_medium=RSS&at_campaign=rss",
+    "summary": "Match of the Day pundit Danny Murphy explains how Rio Ngumoha showed everyone what he is capable of in Liverpool's 4-0 win over Manchester United.",
+    "pubDate": "Sun, 22 Nov 2026 23:20:16 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Marches & Gnats programming challenges",
+    "link": "https://mng.quest/",
+    "summary": "Comments",
+    "pubDate": "Sun, 22 Nov 2026 23:12:52 -0600",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+    "link": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+    "summary": "Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3 Comments URL: https://news.ycombinator.com/item?id=50605045 Points: 218 # Comments: 159",
+    "pubDate": "Sun, 22 Nov 2026 23:12:10 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "GL.iNet Security Notice 2026-11-20",
+    "link": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
+    "summary": "Article URL: https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20 Comments URL: https://news.ycombinator.com/item?id=50604988 Points: 174 # Comments: 85",
+    "pubDate": "Sun, 22 Nov 2026 23:06:37 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Localcode, open source agentic coding on your Mac with one command",
+    "link": "https://github.com/mjwsolo/localcode",
+    "summary": "Article URL: https://github.com/mjwsolo/localcode Comments URL: https://news.ycombinator.com/item?id=50604540 Points: 54 # Comments: 13",
+    "pubDate": "Sun, 22 Nov 2026 22:18:48 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The Usefulness of Useless Knowledge [pdf] (1939)",
+    "link": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
+    "summary": "Article URL: https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf Comments URL: https://news.ycombinator.com/item?id=50604472 Points: 110 # Comments: 21",
+    "pubDate": "Sun, 22 Nov 2026 22:10:58 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "‘You Can See Everything’ has made more than $100M worldwide",
+    "link": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
+    "summary": "The new Elizabeth Holmes documentary is just beginning to roll out internationally.",
+    "pubDate": "Sun, 22 Nov 2026 21:42:48 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cm782j80yypwo?at_medium=RSS&at_campaign=rss",
+    "summary": "Mauricio Pochettino believes even the best team in the world could have conceded four goals at Liverpool in Manchester United's circumstances - but should the Red Devils have done more in defeat?",
+    "pubDate": "Sun, 22 Nov 2026 21:36:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "The struggle for freedom: How BSD escaped AT&T licensing",
+    "link": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
+    "summary": "Article URL: https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/ Comments URL: https://news.ycombinator.com/item?id=50604123 Points: 103 # Comments: 36",
+    "pubDate": "Sun, 22 Nov 2026 21:33:12 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Chaotic week, nightmare start and huge reality check for Pochettino",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cwd012903kvgo?at_medium=RSS&at_campaign=rss",
+    "summary": "Mauricio Pochettino's reign as Manchester United boss could barely have got off to a more chastening start, writes Simon Stone.",
+    "pubDate": "Sun, 22 Nov 2026 21:22:10 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Good morning and welcome to my idea of a new web",
+    "link": "https://dave.writersweb.org/index.md",
+    "summary": "Comments",
+    "pubDate": "Sun, 22 Nov 2026 21:15:06 -0600",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+    "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+    "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+    "pubDate": "Sun, 22 Nov 2026 21:14:07 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "De-fanging dangerous triggers in GitHub Actions across an organization",
+    "link": "https://pyfound.blogspot.com/2026/11/de-fanging-dangerous-triggers-in-github.html",
+    "summary": "Comments",
+    "pubDate": "Sun, 22 Nov 2026 21:02:13 -0600",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+    "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+    "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 447 # Comments: 178",
+    "pubDate": "Sun, 22 Nov 2026 21:01:16 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The best apps to make new friends right now",
+    "link": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
+    "summary": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
+    "pubDate": "Sun, 22 Nov 2026 21:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Do not feed the animals. Vets explain why hats, coins and shoes can be deadly.",
+    "link": "https://www.npr.org/2026/11/22/nx-s1-6049723/do-not-feed-the-animals-vets-explain-why-hats-coins-and-shoes-can-be-deadly",
+    "summary": "It's not easy to retrieve foreign objects from animals once ingested. Some things can be grabbed using an endoscope. But if an item gets far into the intestinal tract, surgery isn't always possible.",
+    "pubDate": "Sun, 22 Nov 2026 20:53:48 -0500",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "A miniature San Francisco with live buses, planes and boats",
+    "link": "https://smallsf.com/",
+    "summary": "Article URL: https://smallsf.com/ Comments URL: https://news.ycombinator.com/item?id=50603589 Points: 249 # Comments: 88",
+    "pubDate": "Sun, 22 Nov 2026 20:33:23 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Nyx, the Oldest Internet Service Provider",
+    "link": "https://nyx.net/",
+    "summary": "Article URL: https://nyx.net/ Comments URL: https://news.ycombinator.com/item?id=50603465 Points: 129 # Comments: 19",
+    "pubDate": "Sun, 22 Nov 2026 20:15:59 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Ngumoha stars as Liverpool thrash 10-man Man Utd",
+    "link": "https://www.bbc.co.uk/sport/football/videos/c933g77knz00o?at_medium=RSS&at_campaign=rss",
+    "summary": "Mauricio Pochettino's reign as Manchester United head coach begins in desperate fashion as his team are thrashed by rivals Liverpool to remain in the Premier League relegation zone.",
+    "pubDate": "Sun, 22 Nov 2026 19:59:35 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Assume People Are Not Interested in Your Blog Post",
+    "link": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/",
+    "summary": "Article URL: https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/ Comments URL: https://news.ycombinator.com/item?id=50603143 Points: 163 # Comments: 82",
+    "pubDate": "Sun, 22 Nov 2026 19:41:30 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "What Happened to Silicon Valley?",
+    "link": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
+    "summary": "Article URL: https://www.oreilly.com/radar/what-happened-to-silicon-valley/ Comments URL: https://news.ycombinator.com/item?id=50602947 Points: 606 # Comments: 327",
+    "pubDate": "Sun, 22 Nov 2026 19:20:15 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "What it's like at a climate conference as talks collapse",
+    "link": "https://www.npr.org/2026/11/22/nx-s1-6050248/what-its-like-at-a-climate-conference-as-talks-collapse",
+    "summary": "After two weeks of negotiations, international climate talks fail to reach an agreement. NPR's Rachel Waldholz was in Turkey for the conference.",
+    "pubDate": "Sun, 22 Nov 2026 17:40:23 -0500",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Philly festival-goers say pickles are a real big dill",
+    "link": "https://www.npr.org/2026/11/22/nx-s1-6038939/philly-festival-goers-say-pickles-are-a-real-big-dill",
+    "summary": "Influencer and pickle enthusiast Dan Pancoast gives a first hand account of the festivities at the \"The Big Dill\" festival in Philadelphia.",
+    "pubDate": "Sun, 22 Nov 2026 17:40:19 -0500",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Common medications may secretly rewire your gut, with effects lasting for years",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261120071501.htm",
+    "summary": "Medications taken years or even long ago may leave lasting changes in your gut microbiome, according to a study of more than 2,500 people. Researchers discovered that common drugs, including antidepressants, blood pressure medications, and anxiety treatments, can leave microbial “fingerprints” lo...",
+    "pubDate": "Sun, 22 Nov 2026 16:35:19 EST",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Type 2 diabetes linked to 53% higher Alzheimer’s risk, major review finds",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261121221124.htm",
+    "summary": "People with type 2 diabetes face a 53% higher risk of developing Alzheimer’s disease, according to a major new review of 40 studies. Researchers estimate that nearly five out of every 1,000 people with type 2 diabetes develop Alzheimer’s each year. By focusing specifically on these two conditions...",
+    "pubDate": "Sun, 22 Nov 2026 15:57:35 EST",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "GitHub Actions accepts invalid YAML",
+    "link": "https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/",
+    "summary": "Comments",
+    "pubDate": "Sun, 22 Nov 2026 15:49:18 -0600",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Gliver completes the Guix desktop",
+    "link": "https://dustycloud.org/blog/gliver-completes-the-guix-desktop/",
+    "summary": "Comments",
+    "pubDate": "Sun, 22 Nov 2026 14:10:15 -0600",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Interstellar solar sails hit a bizarre problem at 75% of light speed",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261120071305.htm",
+    "summary": "Scientists have discovered a surprising obstacle to interstellar travel: at extreme speeds, the light propelling futuristic solar sails could actually begin slowing them down. Once a spacecraft reaches 75% of the speed of light, some scattered light starts producing drag, potentially complicating...",
+    "pubDate": "Sun, 22 Nov 2026 06:59:29 EST",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "A mysterious gap hints at black holes born from stars that never exploded",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261121221126.htm",
+    "summary": "Massive stars may be quietly collapsing into black holes without ever producing the spectacular supernova explosions scientists typically expect. A surprising pattern in 257 black hole mergers suggests these mysterious stellar disappearances could explain the origins of a large population of blac...",
+    "pubDate": "Sun, 22 Nov 2026 06:46:42 EST",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "DNA’s secret sunscreen may have helped life survive on early Earth",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261121221128.htm",
+    "summary": "Scientists have uncovered a surprising reason why early life may have survived Earth's intense ultraviolet radiation: a key component of DNA appears to turn potentially destructive damage into something easier to repair. The discovery could help solve a decades-old evolutionary mystery and reveal...",
+    "pubDate": "Sun, 22 Nov 2026 06:31:14 EST",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "A 194-year-old tortoise has a remarkable anti-aging secret hidden in its DNA",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261121221130.htm",
+    "summary": "At an astonishing 194 years old, Jonathan the giant tortoise is the world's oldest living land animal, and scientists may have finally uncovered the secrets behind his extraordinary lifespan. Researchers identified 287 unique genetic variants linked to processes that help repair damaged DNA, cont...",
+    "pubDate": "Sun, 22 Nov 2026 06:04:06 EST",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Scientists discover a hidden eye disease that slowly steals night vision",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261119194547.htm",
+    "summary": "Scientists have discovered a new genetic eye disease that can silently damage peripheral and night vision while leaving central sight largely unaffected for years. The condition may be detectable through an unusual difficulty adjusting to darkness, offering a potential early warning sign before i...",
+    "pubDate": "Sun, 22 Nov 2026 05:48:36 EST",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "AI uncovers hidden bladder cancer warning signs years before diagnosis",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261120075604.htm",
+    "summary": "Scientists have developed an AI tool that can uncover hidden warning signs of bladder cancer up to five years before diagnosis, identifying 85% of cases in a major study involving nearly 70,000 patients. By revealing subtle patterns that conventional screening misses, the technology could help do...",
+    "pubDate": "Sat, 21 Nov 2026 22:43:18 EST",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Alzheimer’s breakthrough exposes a hidden flaw in the brain’s cleanup system",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261120075600.htm",
+    "summary": "Scientists have identified a gene that helps the brain’s immune cells contain harmful plaques linked to Alzheimer’s, potentially revealing a new way to fight the disease. When the gene malfunctioned in mice, toxic buildup accelerated and cognitive abilities declined, raising hopes that restoring ...",
+    "pubDate": "Sat, 21 Nov 2026 22:00:27 EST",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "A common blood pressure drug has a surprising effect on calorie-burning brown fat",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261119194558.htm",
+    "summary": "Scientists have discovered that a common blood pressure drug can activate calorie-burning brown fat in mice, potentially opening a new path toward improving metabolic health. An analysis of more than 100,000 patients also revealed surprising links between brown fat and lower rates of heart diseas...",
+    "pubDate": "Sat, 21 Nov 2026 20:54:11 EST",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "新手问号 | 用智能插座为旧款 Apple 设备设置「充电上限」",
+    "link": "https://sspai.com/post/118705",
+    "summary": "曲线救国，旧的 Apple 设备也能拥有了「充电上限」功能。 查看全文",
+    "pubDate": "Mon, 23 Nov 2026 14:00:53 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "Poundland is facing collapse - what's gone wrong?",
+    "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+    "summary": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
+    "pubDate": "Mon, 23 Nov 2026 08:00:20 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+    "link": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
+    "summary": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
+    "pubDate": "Mon, 23 Nov 2026 07:55:59 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "'Our Super Bowl moment' - what can WSL learn from booming US league?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c893rk66e1l7o?at_medium=RSS&at_campaign=rss",
+    "summary": "The National Women's Soccer League in the USA is booming, so what is it getting right - and what can the Women's Super League learn?",
+    "pubDate": "Mon, 23 Nov 2026 07:52:55 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "49ers win in Mexico and Bills stay top - NFL week 11",
+    "link": "https://www.bbc.co.uk/sport/american-football/articles/c3zxv0nyxl8ro?at_medium=RSS&at_campaign=rss",
+    "summary": "The San Francisco 49ers and Buffalo Bills remain the pacesetters in each conference of the NFL.",
+    "pubDate": "Mon, 23 Nov 2026 07:48:33 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "派早报：Anthropic 研究员宣称用 Claude 证明黎曼猜想",
+    "link": "https://sspai.com/post/119418",
+    "summary": "Anthropic 研究员宣称用 Claude 证明黎曼猜想 OpenAI 公布反蒸馏举措 黄仁勋据称将攻击下属作为管理方式 GTA 6 首日销售额近 40 亿美元 特斯拉升级 FSD，推出实景渲染功能 AMD 股票被做空 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
+    "pubDate": "Mon, 23 Nov 2026 07:34:27 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "CollectWise (YC F24) Is Hiring",
+    "link": "https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager",
+    "summary": "Article URL: https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager Comments URL: https://news.ycombinator.com/item?id=50608390 Points: 0 # Comments: 0",
+    "pubDate": "Mon, 23 Nov 2026 07:01:08 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Inside the heated debate over Scotland's data centres",
+    "link": "https://www.bbc.co.uk/news/articles/c6d912e1420eo?at_medium=RSS&at_campaign=rss",
+    "summary": "The BBC's Lorna Gordon finds out how data centres operate and hears arguments for and against them.",
+    "pubDate": "Mon, 23 Nov 2026 06:12:43 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "84 days, four titles, one historic feat - Alcaraz's remarkable return",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/crp3e43gvgpwo?at_medium=RSS&at_campaign=rss",
+    "summary": "Over the past 84 days, Carlos Alcaraz has won four titles, and he beat world number one Alexander Zverev to make history at the ATP Finals on Sunday.",
+    "pubDate": "Mon, 23 Nov 2026 06:08:20 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "'I want to destroy capitalism, not France': On the streets with the French ultra left",
+    "link": "https://www.bbc.co.uk/news/articles/cw074km48myeo?at_medium=RSS&at_campaign=rss",
+    "summary": "The BBC meets the far-left protesters French President Emmanuel Macron says are trying to bring down the Republic.",
+    "pubDate": "Mon, 23 Nov 2026 06:01:31 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "What six grazing horses tell us about England's housing crisis",
+    "link": "https://www.bbc.co.uk/news/articles/cmd71x05q77zo?at_medium=RSS&at_campaign=rss",
+    "summary": "⁠In Middlesbrough, York and Kent, the BBC sees why successive governments have failed to build enough homes.",
+    "pubDate": "Mon, 23 Nov 2026 06:00:43 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+    "link": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+    "summary": "Eleven people are dead in the attack on Dymer, with rescue efforts ongoing to find those still missing from the residential building.",
+    "pubDate": "Mon, 23 Nov 2026 05:33:17 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Yes, 17M lines of Lean is a lot",
+    "link": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/",
+    "summary": "Article URL: https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/ Comments URL: https://news.ycombinator.com/item?id=50607668 Points: 27 # Comments: 29",
+    "pubDate": "Mon, 23 Nov 2026 05:00:49 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "A Partial Evaluator for C",
+    "link": "https://phoenix.labri.fr/software/tempo/",
+    "summary": "Article URL: https://phoenix.labri.fr/software/tempo/ Comments URL: https://news.ycombinator.com/item?id=50607627 Points: 35 # Comments: 1",
+    "pubDate": "Mon, 23 Nov 2026 04:51:48 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Manchester's Co-op Live evacuated after 'unknown substance' let off in crowd",
+    "link": "https://www.bbc.co.uk/news/articles/c9e851dn8516o?at_medium=RSS&at_campaign=rss",
+    "summary": "One person was taken to hospital after a major incident was declared during a performance by US rapper Don Toliver.",
+    "pubDate": "Mon, 23 Nov 2026 04:21:50 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Pip assessments need 'fundamental overhaul', report to say",
+    "link": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
+    "summary": "Disability minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
+    "pubDate": "Mon, 23 Nov 2026 04:01:13 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+    "link": "https://github.com/AFK-surf/xnulinux",
+    "summary": "Article URL: https://github.com/AFK-surf/xnulinux Comments URL: https://news.ycombinator.com/item?id=50607261 Points: 196 # Comments: 86",
+    "pubDate": "Mon, 23 Nov 2026 03:49:24 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The Papers: 'Complete COP-out' and Tyson Fury's 'torment'",
+    "link": "https://www.bbc.co.uk/news/articles/cmedq21jgq8xo?at_medium=RSS&at_campaign=rss",
+    "summary": "The collapse of the COP31 climate talks in Turkey is a major focus of Monday's front pages.",
+    "pubDate": "Mon, 23 Nov 2026 02:24:41 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Treemap of the Riemann Hypothesis Lean Proof",
+    "link": "https://pengowray.github.io/riemann-zeta-proof-visualizer/",
+    "summary": "Article URL: https://pengowray.github.io/riemann-zeta-proof-visualizer/ Comments URL: https://news.ycombinator.com/item?id=50606499 Points: 56 # Comments: 13",
+    "pubDate": "Mon, 23 Nov 2026 01:50:23 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Steadfast Update II - Rewriting ASTs",
+    "link": "https://noteflakes.com/articles/2026-11-22-steadfast-update-2",
+    "summary": "Comments",
+    "pubDate": "Mon, 23 Nov 2026 01:49:26 -0600",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "On self-healing code and the obvious issue",
+    "link": "https://gynvael.coldwind.pl/?id=766",
+    "summary": "Comments",
+    "pubDate": "Mon, 23 Nov 2026 01:46:17 -0600",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Signal is Serious About Protecting Your Privacy",
+    "link": "https://signal.org/blog/protecting-your-privacy/",
+    "summary": "Comments",
+    "pubDate": "Mon, 23 Nov 2026 01:44:09 -0600",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+    "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+    "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+    "pubDate": "Mon, 23 Nov 2026 01:25:53 +0000",
+    "source": "TechCrunch",
+    "category": "tech"
+  },
+  {
+    "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+    "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+    "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
+    "pubDate": "Mon, 23 Nov 2026 01:23:43 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+    "link": "https://spelunkr.tv",
+    "summary": "Article URL: https://spelunkr.tv Comments URL: https://news.ycombinator.com/item?id=50606192 Points: 432 # Comments: 62",
+    "pubDate": "Mon, 23 Nov 2026 01:13:51 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Would you go on holiday with your ex's kids and their mum? How to make blended families work",
+    "link": "https://www.bbc.co.uk/news/articles/c617kj1j1x4jo?at_medium=RSS&at_campaign=rss",
+    "summary": "Expert tips on how to get along with the mums and dads of your child's half-siblings.",
+    "pubDate": "Mon, 23 Nov 2026 01:09:04 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Australian music legend Molly Meldrum dies aged 83",
+    "link": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&at_campaign=rss",
+    "summary": "The promoter and broadcaster helped define the music tastes of Australians for decades.",
+    "pubDate": "Mon, 23 Nov 2026 01:03:35 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "What we learned operating auth for 1k APIs",
+    "link": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/",
+    "summary": "Article URL: https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/ Comments URL: https://news.ycombinator.com/item?id=50606072 Points: 38 # Comments: 5",
+    "pubDate": "Mon, 23 Nov 2026 01:01:11 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "NHS launches world's largest AI breast cancer screening trial",
+    "link": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss",
+    "summary": "Researchers will test the technology in breast cancer screening which could ease pressure on the NHS.",
+    "pubDate": "Mon, 23 Nov 2026 00:49:22 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Will it snow this week? Mild Atlantic air collides with cold air across the UK",
+    "link": "https://www.bbc.co.uk/weather/articles/c5dj1l21w9pmo?at_medium=RSS&at_campaign=rss",
+    "summary": "A battle ground is becoming established across the UK, milder air across the southwest and cold arctic air elsewhere",
+    "pubDate": "Mon, 23 Nov 2026 00:40:36 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+    "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+    "summary": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+    "pubDate": "Mon, 23 Nov 2026 00:08:00 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Einstein’s relativity just upended a fundamental rule of chemistry",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261120075602.htm",
+    "summary": "A surprising discovery at Brown University is challenging one of chemistry's most fundamental textbook explanations. Researchers found direct evidence that Einstein's theory of relativity changes how heavy atoms form triple bonds, causing normally distinct types of chemical bonds to blend togethe...",
+    "pubDate": "Fri, 20 Nov 2026 07:56:02 EST",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
+    "link": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink",
+    "summary": "After expanding its Charmera collection with a Millennium Edition featuring Y2K-inspired designs earlier this year, Reto's follow-up to its tiny Kodak camera is an equally small digital photo frame you can use to display your shots. But while the Charmera's usefulness stopped at snapping grainy p...",
+    "pubDate": "2026-11-22T22:00:00-05:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "We haven’t seen the last of the major tech outages",
+    "link": "https://www.theverge.com/tech/1039851/major-tech-outages",
+    "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton told CNN: \"The Ame...",
+    "pubDate": "2026-11-22T17:48:02-05:00",
+    "source": "The Verge",
+    "category": "tech"
+  }
+]

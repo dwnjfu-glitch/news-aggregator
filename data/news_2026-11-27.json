@@ -1,5 +1,13 @@
 [
   {
+    "title": "A tiny injectable sensor could change how millions of people monitor blood sugar",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261125045256.htm",
+    "summary": "Texas A&amp;M researchers have discovered a way to dramatically reduce the cost of a key component in an experimental injectable glucose sensor without sacrificing performance. The technology uses fluorescent light to measure glucose levels from beneath the skin.",
+    "pubDate": "Wed, 25 Nov 2026 04:52:56 EST",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "A fat-burning molecule has an unexpected benefit for your muscles",
     "link": "https://www.sciencedaily.com/releases/2026/11/261126063315.htm",
     "summary": "Researchers have discovered that a naturally occurring molecule released during exercise helps muscles become stronger, resist fatigue, and withstand damage. The molecule, already available as a dietary supplement, could open new avenues for treating muscle deterioration associated with type 2 di...",
@@ -144,12 +152,676 @@
     "category": "tech"
   },
   {
+    "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+    "link": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+    "summary": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
+    "pubDate": "Fri, 27 Nov 2026 20:57:04 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Best Amazon Device Black Friday Deals I’ve Found (2026): Kindles, Echo Speakers",
+    "link": "https://www.wired.com/story/best-amazon-device-black-friday-deals-11-27-2026/",
+    "summary": "From Kindle e-readers to Alexa-powered smart speakers, these are the Amazon device Black Friday sales you won't want to miss.",
+    "pubDate": "Fri, 27 Nov 2026 20:51:30 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Millions lose access to benefits and pensions services after 'cyber incident'",
+    "link": "https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss",
+    "summary": "The Department for Work and Pensions says some of its services were taken offline as a precaution.",
+    "pubDate": "Fri, 27 Nov 2026 20:42:44 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "I am scared: Careless People – Sarah Wynn-Williams on living under a gag order",
+    "link": "https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours",
+    "summary": "Article URL: https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours Comments URL: https://news.ycombinator.com/item?id=50671301 Points: 34 # Comments: 5",
+    "pubDate": "Fri, 27 Nov 2026 20:25:15 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "NHS Grampian publishes leaked report at centre of hospital scandal",
+    "link": "https://www.bbc.co.uk/news/articles/cq36gjdkdn2xo?at_medium=RSS&at_campaign=rss",
+    "summary": "The report was leaked last week by a surgeon who called for NHS Grampian to face a corporate homicide investigation.",
+    "pubDate": "Fri, 27 Nov 2026 20:07:45 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+    "link": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
+    "summary": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
+    "pubDate": "Fri, 27 Nov 2026 20:06:31 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Best Black Friday AirPods Deals I’ve Found (2026)",
+    "link": "https://www.wired.com/story/best-black-friday-airpods-deals-11-27-2026/",
+    "summary": "This is the lowest price I’ve ever seen the AirPods Pro 3 drop to, and there’s no telling when these discounts will change.",
+    "pubDate": "Fri, 27 Nov 2026 19:51:43 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Mercedes set pace in eventful Qatar second practice",
+    "link": "https://www.bbc.co.uk/sport/formula1/articles/cqpv903y40jko?at_medium=RSS&at_campaign=rss",
+    "summary": "World champion Kimi Antonelli sets the pace ahead of Mercedes team-mate George Russell in a disrupted second practice at the Qatar Grand Prix.",
+    "pubDate": "Fri, 27 Nov 2026 19:50:06 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+    "link": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+    "summary": "Article URL: https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform Comments URL: https://news.ycom...",
+    "pubDate": "Fri, 27 Nov 2026 19:42:25 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "The AT&T Unix PC (3B1) VM",
+    "link": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/",
+    "summary": "Article URL: https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/ Comments URL: https://news.ycombinator.com/item?id=50670841 Points: 19 # Comments: 3",
+    "pubDate": "Fri, 27 Nov 2026 19:40:33 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Michael Nielsen took down his book on neural nets",
+    "link": "https://twitter.com/michael_nielsen/status/2126359767362748777",
+    "summary": "Article URL: https://twitter.com/michael_nielsen/status/2126359767362748777 Comments URL: https://news.ycombinator.com/item?id=50670757 Points: 165 # Comments: 102",
+    "pubDate": "Fri, 27 Nov 2026 19:31:01 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Black Friday Deals on Household Essentials and Affordable Toys to Donate",
+    "link": "https://www.wired.com/story/black-friday-deals-essentials-11-27-2026/",
+    "summary": "We found deals on diapers, paper towels, and toys for yourself or your community this holiday season.",
+    "pubDate": "Fri, 27 Nov 2026 19:26:33 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Michael Giles, co-founder and drummer of King Crimson, dies aged 84",
+    "link": "https://www.theguardian.com/music/2026/nov/26/michael-giles-co-founder-and-drummer-of-king-crimson-dies-aged-84",
+    "summary": "Article URL: https://www.theguardian.com/music/2026/nov/26/michael-giles-co-founder-and-drummer-of-king-crimson-dies-aged-84 Comments URL: https://news.ycombinator.com/item?id=50670694 Points: 26 # Comments: 1",
+    "pubDate": "Fri, 27 Nov 2026 19:25:16 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Black Friday Mattress Deals: Get Up to 55% Off (2026)",
+    "link": "https://www.wired.com/story/black-friday-mattress-deals-11-27-2026/",
+    "summary": "I’ve found great deals on our favorite WIRED-tested mattresses and sleep accessories.",
+    "pubDate": "Fri, 27 Nov 2026 19:07:28 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "New satellite data shows how fast some African cities are sinking",
+    "link": "https://www.bbc.co.uk/news/articles/cq074p95z4llo?at_medium=RSS&at_campaign=rss",
+    "summary": "Cities including Lagos and Alexandria are sinking faster than previously thought, a new study shows.",
+    "pubDate": "Fri, 27 Nov 2026 19:03:18 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "2026’s Best Black Friday Deals: We’ve Been Tracking Since 4 AM",
+    "link": "https://www.wired.com/story/best-black-friday-deals-11-27-2026/",
+    "summary": "It's time to shop the very best Black Friday deals on the very best tech gadgets we recommend.",
+    "pubDate": "Fri, 27 Nov 2026 18:51:57 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Scrapheap America",
+    "link": "https://dansinker.com/posts/2026-11-20-scrapheap/",
+    "summary": "Article URL: https://dansinker.com/posts/2026-11-20-scrapheap/ Comments URL: https://news.ycombinator.com/item?id=50670340 Points: 8 # Comments: 0",
+    "pubDate": "Fri, 27 Nov 2026 18:50:26 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+    "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+    "summary": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
+    "pubDate": "Fri, 27 Nov 2026 18:42:50 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Decline of deities - the long game the All Blacks cannot afford to lose",
+    "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmkgkl7de60go?at_medium=RSS&at_campaign=rss",
+    "summary": "Statistically, this generation of All Blacks is the weakest in decades. How has a sporting shorthand for success slipped so far?",
+    "pubDate": "Fri, 27 Nov 2026 18:42:05 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Euclidean geometry in the asymptotic spectrum of tensors [pdf]",
+    "link": "https://github.com/openai/math/blob/main/preprints/Euclidean-geometry-in-the-asymptotic-spectrum-of-tensors-November-24-2026/paper.pdf",
+    "summary": "Article URL: https://github.com/openai/math/blob/main/preprints/Euclidean-geometry-in-the-asymptotic-spectrum-of-tensors-November-24-2026/paper.pdf Comments URL: https://news.ycombinator.com/item?id=50670088 Points: 14 # Comments: 1",
+    "pubDate": "Fri, 27 Nov 2026 18:28:29 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Best Black Friday Espresso Machine Deals: Up to 38% Off (2026)",
+    "link": "https://www.wired.com/story/black-friday-coffee-espresso-deals-11-27-2026/",
+    "summary": "A Nespresso under $100, $250 off a slim De’Longhi, and more deals on machines we’d make room for on our own counters.",
+    "pubDate": "Fri, 27 Nov 2026 18:08:37 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Convex skills send the user's app idea to a remote server without telling them",
+    "link": "https://github.com/convex/convex-backend-skill/issues/64",
+    "summary": "Article URL: https://github.com/convex/convex-backend-skill/issues/64 Comments URL: https://news.ycombinator.com/item?id=50669765 Points: 138 # Comments: 46",
+    "pubDate": "Fri, 27 Nov 2026 18:02:45 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Chicken Shop Date: The perfect end or a disappointing send-off?",
+    "link": "https://www.bbc.co.uk/news/articles/ckz74123x2jvo?at_medium=RSS&at_campaign=rss",
+    "summary": "Amelia Dimoldenberg has called time on her hit YouTube series Chicken Shop Date after more than a decade.",
+    "pubDate": "Fri, 27 Nov 2026 18:02:25 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Show HN: DragDropMath – Learn math by feel",
+    "link": "https://dragdropmath.com/",
+    "summary": "Hi HN! I am a professional physicist and I shuffle symbols in equations and mathematical expressions all day long. During my PhD (almost 20 years ago) I noticed that it is as if the symbols have their own 'physics', which makes the wrong moves impossible and the right ones obvious. So I created D...",
+    "pubDate": "Fri, 27 Nov 2026 17:56:28 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "'Calculating predator' who blackmailed girls into self-harm jailed for 14 and a half years",
+    "link": "https://www.bbc.co.uk/news/articles/c3pw4ypkldpzo?at_medium=RSS&at_campaign=rss",
+    "summary": "Beau-Jack Mensforth is jailed for preying on nine girls, the youngest aged 12, across the world.",
+    "pubDate": "Fri, 27 Nov 2026 17:47:14 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "GTA 6 crashes into top end of music chart after its record launch",
+    "link": "https://www.bbc.co.uk/news/articles/ckp80d8vz1ego?at_medium=RSS&at_campaign=rss",
+    "summary": "Several songs on the game's soundtrack have climbed the UK's singles chart.",
+    "pubDate": "Fri, 27 Nov 2026 17:39:11 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Watch: What has happened to DWP online services?",
+    "link": "https://www.bbc.co.uk/news/videos/cqm251rv0vyyo?at_medium=RSS&at_campaign=rss",
+    "summary": "The work and pensions secretary has said an investigation is looking into a \"serious cyber incident\" affecting his government department.",
+    "pubDate": "Fri, 27 Nov 2026 17:17:11 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Best CurrentBody Black Friday Deals (2026): 20% Off LED Masks and More",
+    "link": "https://www.wired.com/story/currentbody-black-friday-deals-11-27-2026/",
+    "summary": "Glazed donut skin days are ahead. Save on select LED masks and devices through December 8.",
+    "pubDate": "Fri, 27 Nov 2026 17:14:52 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "The best Black Friday deals Ars could find",
+    "link": "https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/",
+    "summary": "Perhaps some commerce, to help all the Turkey Day leftovers go down easier?",
+    "pubDate": "Fri, 27 Nov 2026 17:05:37 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Body found in woodland confirmed as missing Kelsey Hunter",
+    "link": "https://www.bbc.co.uk/news/articles/cqx2e315rz00o?at_medium=RSS&at_campaign=rss",
+    "summary": "Kelsey Hunter's body was found in a wooded area near the village of Springholm where she lived.",
+    "pubDate": "Fri, 27 Nov 2026 17:03:03 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Why snooker could be the most mentally challenging sport",
+    "link": "https://www.bbc.co.uk/sport/snooker/articles/cm174wqxk8lpo?at_medium=RSS&at_campaign=rss",
+    "summary": "With Mark Allen the latest snooker player to talk about his mental health struggles, BBC Sport looks at why the sport is so mentally challenging - and what is being done to help.",
+    "pubDate": "Fri, 27 Nov 2026 17:00:10 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Tory candidates must sign pledge to scrap net-zero targets, says Badenoch",
+    "link": "https://www.bbc.co.uk/news/articles/cmwy95295835o?at_medium=RSS&at_campaign=rss",
+    "summary": "The Tory leader says her \"candidates covenant\" would build trust in the party, but some ex-MPs have criticised the move.",
+    "pubDate": "Fri, 27 Nov 2026 16:42:22 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Police look for more than 100 gig-goers to help Co-op Live probe",
+    "link": "https://www.bbc.co.uk/news/articles/c8wy5vnpggnpo?at_medium=RSS&at_campaign=rss",
+    "summary": "Rap fans say people were \"choking\" and \"coughing up blood\" towards the end of Don Toliver's gig.",
+    "pubDate": "Fri, 27 Nov 2026 16:40:22 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "本周看什么 | 最近值得一看的 8 部作品",
+    "link": "https://sspai.com/post/119658",
+    "summary": "☕️TL;DR近期佳作推荐：[电影]泥面人、[电影]峡湾、[电影]童话继姊妹、[英剧]警之光第四季、[加拿大]槲寄生谋杀案第三季、[国产]今天是太阳雨、[纪录片]一切如你所见、[真人秀]魔鬼的计谋：死 ... 查看全文",
+    "pubDate": "Fri, 27 Nov 2026 16:32:46 +0800",
+    "source": "少数派",
+    "category": "tech-cn"
+  },
+  {
+    "title": "Apple Black Friday Deals (2026): AirPods, iPads, MacBooks, and More",
+    "link": "https://www.wired.com/story/black-friday-apple-deals-11-27-2026/",
+    "summary": "Save on AirPods, iPads, MacBooks, and tons of accessories for Black Friday.",
+    "pubDate": "Fri, 27 Nov 2026 16:24:22 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Walking Pad Deals to Shop This Black Friday (2026)",
+    "link": "https://www.wired.com/story/best-black-friday-walking-pad-treadmill-deals-11-27-26/",
+    "summary": "Don’t let cold weather stop you from getting your steps in. These under-desk treadmills are on sale.",
+    "pubDate": "Fri, 27 Nov 2026 15:43:33 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+    "link": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+    "summary": "Article URL: https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer Comments URL: https://news.ycombinator.com/item?id=50668145 Points: 306 # Comments: 161",
+    "pubDate": "Fri, 27 Nov 2026 15:40:31 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "False computer-checked proofs",
+    "link": "https://cr.yp.to/proofs/falseccp.html",
+    "summary": "Article URL: https://cr.yp.to/proofs/falseccp.html Comments URL: https://news.ycombinator.com/item?id=50667989 Points: 137 # Comments: 60",
+    "pubDate": "Fri, 27 Nov 2026 15:26:09 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+    "link": "https://bouncemarket.minhanhday.com/",
+    "summary": "a ball will fall. trade on where it lands. I made this game! Some technical details: The entire drop of the ball is simulated server-side, then streamed to each client as server-sent events with a small buffer. Every drop is deterministic from its starting position, so rounds can be replayed exac...",
+    "pubDate": "Fri, 27 Nov 2026 15:01:50 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Proof automation in a language",
+    "link": "https://www.imperialviolet.org/2026/11/15/proofauto2.html",
+    "summary": "Comments",
+    "pubDate": "Fri, 27 Nov 2026 14:42:02 -0600",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "The 24 Very Best Amazon Black Friday Deals (2026): Up to 60% Off",
+    "link": "https://www.wired.com/story/amazon-black-friday-deals-11-27-2026/",
+    "summary": "For die-hard Amazon shoppers, the retailer’s “Black Friday Week” sale is still ongoing. Score discounts on our favorite (and tested) products through November 30.",
+    "pubDate": "Fri, 27 Nov 2026 14:37:40 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Show HN: I restored Palm's last device, and brought its OS to other platforms",
+    "link": "https://www.webosarchive.org/pivot/2026/11/27/the-story-so-far/",
+    "summary": "webOS Community Edition 3.2.0 is the first OTA Update for Palm/HP's TouchPad, modernizing a 15-year old device. Lunacy is its sibling: the webOS experience, and apps, on Android. Luna DE is a developer tool that brings the webOS app contract to Mac, Windows and Linux as a SDK-compatible Electron ...",
+    "pubDate": "Fri, 27 Nov 2026 14:37:02 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "'We have no interest in hearing from Huw Edwards', Downing Street says",
+    "link": "https://www.bbc.co.uk/news/articles/c60mdl2y2w3do?at_medium=RSS&at_campaign=rss",
+    "summary": "There has been a backlash against new interviews with the disgraced former BBC News presenter.",
+    "pubDate": "Fri, 27 Nov 2026 14:33:10 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Rayshader 1.0: Exit the Matrix",
+    "link": "https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html",
+    "summary": "Article URL: https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html Comments URL: https://news.ycombinator.com/item?id=50667371 Points: 35 # Comments: 7",
+    "pubDate": "Fri, 27 Nov 2026 14:30:20 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "x86 is an octal machine",
+    "link": "https://gist.github.com/seanjensengrey/f971c20d05d4d0efc0781f2f3c0353da",
+    "summary": "Comments",
+    "pubDate": "Fri, 27 Nov 2026 14:24:04 -0600",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Best Black Friday Robot Vacuum Deals from Roborock (2026): Up to $700 Off",
+    "link": "https://www.wired.com/story/black-friday-robot-vacuum-deals-11-27-2026/",
+    "summary": "A few of the best robot vacuums I’ve tested from the brand are at their lowest prices ever.",
+    "pubDate": "Fri, 27 Nov 2026 14:07:09 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Dec Donnelly says I'm a Celebrity tension 'became much bigger deal than it should have'",
+    "link": "https://www.bbc.co.uk/news/articles/c65y1k8qx7q4o?at_medium=RSS&at_campaign=rss",
+    "summary": "The co-hosts discussed tensions that flared between Mariella Frostrup and AJ Odudu on the show.",
+    "pubDate": "Fri, 27 Nov 2026 14:06:20 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Making a 3D fantasy map like a 16th-Century atlas",
+    "link": "https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas",
+    "summary": "Article URL: https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas Comments URL: https://news.ycombinator.com/item?id=50667062 Points: 75 # Comments: 9",
+    "pubDate": "Fri, 27 Nov 2026 14:02:52 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Why optimistic updates are corrosive",
+    "link": "https://datastar-instant-intent.ndyg.cross.stream/corrosive/",
+    "summary": "Comments",
+    "pubDate": "Fri, 27 Nov 2026 14:01:50 -0600",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "The Best Black Friday Sonos Deals (2026): Up to 34% Off",
+    "link": "https://www.wired.com/story/best-black-friday-sonos-deals-11-27-26/",
+    "summary": "Always wanted a Sonos speaker but scared off by the price? Black Friday is one of the best times to shop the brand.",
+    "pubDate": "Fri, 27 Nov 2026 13:42:44 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Our Favorite Merino Wool is 30% Off During the Unbound Merino Black Friday Sale (2026)",
+    "link": "https://www.wired.com/story/unbound-merino-black-friday-sale-2026/",
+    "summary": "WIRED’s pick for the best travel T-shirt is on sale for Black Friday. Expand your merino wardrobe with these deals. Hurry though, the sale ends tonight.",
+    "pubDate": "Fri, 27 Nov 2026 13:10:54 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "US Air Force's cloud computing platform hacked",
+    "link": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+    "summary": "Article URL: https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163 Comments URL: https://news.ycombinator.com/item?id=50666375 Points: 285 # Comments: 181",
+    "pubDate": "Fri, 27 Nov 2026 12:54:11 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Five Gladiators will not return for new BBC series",
+    "link": "https://www.bbc.co.uk/news/articles/cm0jx92d07n5o?at_medium=RSS&at_campaign=rss",
+    "summary": "The programme is set to feature a host of new faces when it returns to screens next year.",
+    "pubDate": "Fri, 27 Nov 2026 12:36:06 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Objections to .php application being published on ICANN site",
+    "link": "https://pub.roddie.digital/3n3aavxi6hc2g",
+    "summary": "Comments",
+    "pubDate": "Fri, 27 Nov 2026 12:16:09 -0600",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Best Black Friday Nintendo Switch 2 Deals (2026): Up to $50 Off Bundles, Games, Accessories",
+    "link": "https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-27-2026/",
+    "summary": "Get your game on for less with these Black Friday deals on official Nintendo Switch 2 bundles and games.",
+    "pubDate": "Fri, 27 Nov 2026 12:15:27 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Fury cleared to fight Joshua after wife retracts schizophrenia claim",
+    "link": "https://www.bbc.co.uk/sport/boxing/articles/c539gd2x2ye1o?at_medium=RSS&at_campaign=rss",
+    "summary": "Tyson Fury is medically cleared to fight Anthony Joshua in December after the bout was put in jeopardy by claims of a schizophrenia diagnosis.",
+    "pubDate": "Fri, 27 Nov 2026 12:13:15 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "Watch: Catherine joins cancer support group in new documentary",
+    "link": "https://www.bbc.co.uk/news/videos/c6879eqe01e0o?at_medium=RSS&at_campaign=rss",
+    "summary": "The documentary features her personal thoughts on her illness and recovery, following her cancer diagnosis.",
+    "pubDate": "Fri, 27 Nov 2026 12:11:22 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
+    "link": "https://eprint.iacr.org/2026/3020.pdf",
+    "summary": "Article URL: https://eprint.iacr.org/2026/3020.pdf Comments URL: https://news.ycombinator.com/item?id=50665968 Points: 194 # Comments: 87",
+    "pubDate": "Fri, 27 Nov 2026 12:08:51 +0000",
+    "source": "Hacker News",
+    "category": "tech"
+  },
+  {
+    "title": "Best Dyson Vacuum Black Friday Deals for 2026: Up to $400 Off",
+    "link": "https://www.wired.com/story/best-black-friday-dyson-vacuum-deals-11-27-2026/",
+    "summary": "If a Dyson vacuum is on yours (or a loved one’s) Christmas list, Black Friday is the best time to shop.",
+    "pubDate": "Fri, 27 Nov 2026 12:05:59 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Intel faced a choice: Give Trump 10% or face the consequences",
+    "link": "https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/",
+    "summary": "Intel faced pressure to surrender a 10% stake to unlock billions in promised grants.",
+    "pubDate": "Fri, 27 Nov 2026 12:05:01 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
     "title": "「黑五」值得买：不容错过的 App 和服务优惠",
     "link": "https://sspai.com/post/119601",
     "summary": "先预祝大家买得愉快、用得舒心。 查看全文",
     "pubDate": "Fri, 27 Nov 2026 11:48:17 +0800",
     "source": "少数派",
     "category": "tech-cn"
+  },
+  {
+    "title": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
+    "link": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss",
+    "summary": "The former Murdoch media executive was overheard at an event referring to the way Grace Tame was dressed.",
+    "pubDate": "Fri, 27 Nov 2026 11:44:40 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "16 Best Black Friday Headphone Deals (2026): Up to 57% Off",
+    "link": "https://www.wired.com/story/black-friday-headphone-deals-11-27-26/",
+    "summary": "Get up to 57 percent off some of my favorite headphones and earbuds from Apple, Sony, Nothing, and more.",
+    "pubDate": "Fri, 27 Nov 2026 11:38:34 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "15 Best Buy Black Friday Deals on Hot Tech (2026): Up to 65% Off",
+    "link": "https://www.wired.com/story/black-friday-best-buy-deals-11-27-2026/",
+    "summary": "Score deals on WIRED-tested headphones, laptops, and soundbars.",
+    "pubDate": "Fri, 27 Nov 2026 11:32:17 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Books, bikes, and The Burbs: These are Ars staff’s holiday gift picks for 2026",
+    "link": "https://arstechnica.com/shopping/2026/11/books-bikes-and-the-burbs-these-are-ars-staffs-holiday-gift-picks-for-2026/",
+    "summary": "We polled the Ars staff about their favorite pickups this year; here's the list.",
+    "pubDate": "Fri, 27 Nov 2026 11:30:04 +0000",
+    "source": "Ars Technica",
+    "category": "tech"
+  },
+  {
+    "title": "Welcome to the Repair Café, Where Neighbors Fight Throwaway Culture",
+    "link": "https://www.wired.com/story/welcome-to-the-repair-cafe-where-neighbors-fight-throw-away-culture/",
+    "summary": "In church basements and warehouses, Americans are building cozy yet radical spaces to encourage each other to fix broken items instead of throwing them away.",
+    "pubDate": "Fri, 27 Nov 2026 11:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "The 6 Best Black Friday Deals on Expert-Tested Laptops (2026): Up to $470 Off",
+    "link": "https://www.wired.com/story/black-friday-laptop-deals-11-27-2026/",
+    "summary": "These deals on WIRED’s recommended laptops of the year have dropped to new low prices for Black Friday.",
+    "pubDate": "Fri, 27 Nov 2026 11:28:15 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Best Black Friday Google Pixel Deals (2026): Up to $400 Off",
+    "link": "https://www.wired.com/story/best-google-pixel-black-friday-deals-11-27-2026/",
+    "summary": "Upgrade to the smartest Android smartphones. Google’s latest Pixel 11 phones are all on sale at their lowest prices to date for Black Friday.",
+    "pubDate": "Fri, 27 Nov 2026 11:24:04 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Best Kindle and E-Reader Black Friday Deals (2026): Up to $180 Off",
+    "link": "https://www.wired.com/story/best-kindle-ereader-black-friday-deals-11-2026/",
+    "summary": "Whether you’re shopping for a new Kindle or looking to break free from Amazon’s ecosystem, Black Friday is one of the best times to shop for a new e-reader.",
+    "pubDate": "Fri, 27 Nov 2026 11:05:59 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "The Best Black Friday iPad Deals On the Latest 2026 Models: Get $100 Off",
+    "link": "https://www.wired.com/story/best-black-friday-ipad-deals-11-27-2026/",
+    "summary": "Many of Apple's best iPads are discounted for Black Friday, including $100 off on the latest iPad Mini.",
+    "pubDate": "Fri, 27 Nov 2026 11:03:21 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Best Kitchen Gifts for Home Cooks (2026)",
+    "link": "https://www.wired.com/story/the-best-gifts-for-cooks-who-love-cooking/",
+    "summary": "Give them a sourdough starter they can keep alive, fresh basil in December, or a cutting board handsome enough to leave out.",
+    "pubDate": "Fri, 27 Nov 2026 11:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Best Black Friday Toy Deals (2026): Up to 50% Off Lego, Board Games, and Toys",
+    "link": "https://www.wired.com/story/best-black-friday-toy-deals-11-27-26/",
+    "summary": "Bag some gifts for your kids or unleash your inner child with the best Black Friday toy deals on Lego, STEM toys, and board games.",
+    "pubDate": "Fri, 27 Nov 2026 10:44:38 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Pop!_OS 26.04 LTS Has Landed",
+    "link": "https://system76.com/blog/post/pop_os-26-04-lts-has-landed",
+    "summary": "Comments",
+    "pubDate": "Fri, 27 Nov 2026 10:42:50 -0600",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Scientists Use ‘Grand Theft Auto’ to Model the Effects of Climate Change",
+    "link": "https://www.wired.com/story/scientists-use-grand-theft-auto-to-model-the-effects-of-climate-change/",
+    "summary": "The game’s high-resolution 3D maps based on real locations can be used to simulate the effects of rising sea levels and coastal flooding.",
+    "pubDate": "Fri, 27 Nov 2026 10:30:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Build your own Paint",
+    "link": "https://www.buildyourownpaint.com/en",
+    "summary": "Comments",
+    "pubDate": "Fri, 27 Nov 2026 10:22:36 -0600",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "The State of Allocators in 2026 - Finally Stabilised",
+    "link": "https://cetra3.github.io/blog/state-of-allocators-2026-finally-stabilised/",
+    "summary": "Comments",
+    "pubDate": "Fri, 27 Nov 2026 10:09:11 -0600",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "I Found the Best Black Friday Streaming Deals (2026): Apple TV, Disney, and Paramount Over Half Off",
+    "link": "https://www.wired.com/story/black-friday-streaming-deals-11-27-2026/",
+    "summary": "Streaming apps are offering their biggest subscription deals of the year. Here’s how to take advantage.",
+    "pubDate": "Fri, 27 Nov 2026 10:04:47 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "The British Government is Turning Everyone Into a Prepper",
+    "link": "https://www.wired.com/story/the-british-government-is-turning-everyone-into-a-prepper/",
+    "summary": "Forget guns and underground bunkers. Britain’s burgeoning survivalist movement is more worried about backup power, baby formula, and making friends with the neighbors.",
+    "pubDate": "Fri, 27 Nov 2026 10:00:00 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "The 10 Best Black Friday TV Deals (2026): Save Up to 53% Off",
+    "link": "https://www.wired.com/story/early-black-friday-tv-deals-11-27-2026/",
+    "summary": "The best Black Friday TV deals are here. Snag up to 53 percent off some of the best WIRED-tested TVs from TCL, Samsung, Hisense, and more ahead of the holidays.",
+    "pubDate": "Fri, 27 Nov 2026 09:55:09 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "I Found the 20 Best Black Friday Tech Deals, Up to 50% Off (2026)",
+    "link": "https://www.wired.com/story/best-black-friday-tech-deals-11-27-26/",
+    "summary": "Why pay more? The best Black Friday tech deals offer deep discounts on great WIRED-tested gear.",
+    "pubDate": "Fri, 27 Nov 2026 09:53:31 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Is it a cold, flu or Covid? How to tell the difference",
+    "link": "https://www.bbc.co.uk/news/articles/cly1rryv2ryo?at_medium=RSS&at_campaign=rss",
+    "summary": "How to tell if you have cold, flu or Covid and how to look after yourself.",
+    "pubDate": "Fri, 27 Nov 2026 09:43:38 GMT",
+    "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "I Found the Best Black Friday Deals on Phones (2026): iPhone, Pixel, and Moto Up to 50% Off",
+    "link": "https://www.wired.com/story/best-black-friday-phone-deals-11-27-26/",
+    "summary": "If you're due for an upgrade, you need to check out these tempting Black Friday phone deals.",
+    "pubDate": "Fri, 27 Nov 2026 09:42:19 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "22 Best Black Friday Deals Under $100 (2026)",
+    "link": "https://www.wired.com/story/best-black-friday-deals-under-100-11-27-2026/",
+    "summary": "Here are the best Black Friday discounts we’ve found so far on WIRED-tested gear.",
+    "pubDate": "Fri, 27 Nov 2026 09:40:33 +0000",
+    "source": "Wired",
+    "category": "tech"
+  },
+  {
+    "title": "Claude sabotaging ML research tasks?",
+    "link": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+    "summary": "Article URL: https://twitter.com/RealAstropulse/status/2126119408997466389 Comments URL: https://news.ycombinator.com/item?id=50664325 Points: 475 # Comments: 242",
+    "pubDate": "Fri, 27 Nov 2026 08:28:08 +0000",
+    "source": "Hacker News",
+    "category": "tech"
   },
   {
     "title": "派早报：1Password 确认内部系统遭入侵等",
@@ -200,6 +872,22 @@
     "category": "general"
   },
   {
+    "title": "What are you doing this weekend?",
+    "link": "https://lobste.rs/s/locqp9/what_are_you_doing_this_weekend",
+    "summary": "Feel free to tell what you plan on doing this weekend and even ask for help or feedback. Please keep in mind it’s more than OK to do nothing at all too!",
+    "pubDate": "Fri, 27 Nov 2026 07:23:08 -0600",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
+    "title": "Exception Best Practices",
+    "link": "https://www.well-typed.com/blog/2026/11/exception-best-practices/",
+    "summary": "Comments",
+    "pubDate": "Fri, 27 Nov 2026 07:05:30 -0600",
+    "source": "Lobsters",
+    "category": "tech"
+  },
+  {
     "title": "A New Breed of Chip Runs AI Models Using Waves of Light",
     "link": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
     "summary": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations.",
@@ -208,11 +896,27 @@
     "category": "tech"
   },
   {
+    "title": "Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels",
+    "link": "https://www.npr.org/2026/11/27/g-s1-156004/up-first-newsletter-thanksgiving-storm-black-friday-shopping-asylum-supreme-court",
+    "summary": "A powerful storm knocked out power for nearly 1 million customers and flooded streets. And, experts predict inflation will not dampen American spending for the holidays",
+    "pubDate": "Fri, 27 Nov 2026 06:59:02 -0500",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "How Fury and Joshua changed British boxing forever",
     "link": "https://www.bbc.co.uk/sport/boxing/articles/cr62pg3n3p8vo?at_medium=RSS&at_campaign=rss",
     "summary": "Before their long-awaited heavyweight bout, BBC Sport explores the impact Tyson Fury and Anthony Joshua have had on British boxing.",
     "pubDate": "Fri, 27 Nov 2026 06:51:53 GMT",
     "source": "BBC News",
+    "category": "general"
+  },
+  {
+    "title": "French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault",
+    "link": "https://www.npr.org/2026/11/27/nx-s1-6055559/gerard-depardieu-trial-rape-france",
+    "summary": "The case has become one of the most prominent in France's reckoning with sexual violence, as the #MeToo movement has faced resistance in the country, particularly in the arts.",
+    "pubDate": "Fri, 27 Nov 2026 06:49:50 -0500",
+    "source": "NPR",
     "category": "general"
   },
   {
@@ -230,6 +934,14 @@
     "pubDate": "Fri, 27 Nov 2026 06:38:14 GMT",
     "source": "BBC News",
     "category": "general"
+  },
+  {
+    "title": "An Overview of Go's Tooling: Version 2",
+    "link": "https://www.alexedwards.net/blog/an-overview-of-go-tooling-v2",
+    "summary": "Comments",
+    "pubDate": "Fri, 27 Nov 2026 06:22:52 -0600",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Chris Mason: Immigration stats are down but will that be the end of the issue?",
@@ -272,6 +984,14 @@
     "category": "general"
   },
   {
+    "title": "From Thanksgiving blackouts to Black Friday, a holiday hit by wild weather and economic woes",
+    "link": "https://www.npr.org/2026/11/27/nx-s1-6054884/thanksgiving-weather-black-friday",
+    "summary": "A storm battered much of the country on Thursday, knocking out power to thousands of homes and disrupting travel. Today, Black Friday shopping deals kick off, and on Saturday New York City will hold the postponed Macy's Thanksgiving Day Parade.",
+    "pubDate": "Fri, 27 Nov 2026 05:59:36 -0500",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
     "title": "Mushroom murderer Erin Patterson launches last-ditch High Court appeal",
     "link": "https://www.bbc.co.uk/news/articles/ck053e1d3ly1o?at_medium=RSS&at_campaign=rss",
     "summary": "Erin Patterson is serving life in prison for poisoning her relatives with a toxic mushroom lunch in 2023.",
@@ -296,6 +1016,54 @@
     "category": "general"
   },
   {
+    "title": "The narwhal’s legendary “unicorn horn” holds a remarkable engineering secret",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261126063316.htm",
+    "summary": "The narwhal’s iconic spiral tusk, once prized in Europe as the horn of a mythical unicorn, conceals an extraordinary feat of natural engineering. Using advanced X-ray technology, an international team of scientists discovered that the tusk contains two intertwined microscopic spirals that twist i...",
+    "pubDate": "Fri, 27 Nov 2026 05:01:39 EST",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "Can luxury save Macy's?",
+    "link": "https://www.npr.org/2026/11/27/nx-s1-6026486/macys-tries-to-reinvent-with-luxury",
+    "summary": "This week's celebration of Macy's 100th Thanksgiving parade finds the department store at a turning point. After years of losing sales, the retailer is reimagining itself — as a higher-end destination.",
+    "pubDate": "Fri, 27 Nov 2026 05:01:00 -0500",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Trump effectively ended asylum. Advocates look to the Supreme Court to restore it",
+    "link": "https://www.npr.org/2026/11/27/nx-s1-6037854/trump-effectively-ended-asylum-supreme-court",
+    "summary": "Trump's sweeping immigration changes — an asylum ban, mass firings and new legal maneuvers — have all but ended asylum. The high court will soon consider whether some shifts deny people due process.",
+    "pubDate": "Fri, 27 Nov 2026 05:00:00 -0500",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Screen-free tweens try their hand at Dungeons & Dragons",
+    "link": "https://www.npr.org/2026/11/27/nx-s1-6042445/screen-free-tweens-try-their-hand-at-dungeons-dragons",
+    "summary": "Some parents, fed up with screens, have found an analog oasis in the role-playing game invented in the 1970s.",
+    "pubDate": "Fri, 27 Nov 2026 05:00:00 -0500",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "12 strategies to cut your risk of dementia. Take this quiz to start",
+    "link": "https://www.npr.org/2026/11/27/nx-s1-6050867/prevent-dementia-alzheimers-your-turn",
+    "summary": "Here's something you can do as you gather with family and friends this holiday season: Take a free, five-minute quiz to assess your brain health. You'll learn simple changes to keep your mind sharp.",
+    "pubDate": "Fri, 27 Nov 2026 05:00:00 -0500",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Scientists turn one of the world’s hardest-to-recycle plastics into high-performance lubricating oil",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261126033501.htm",
+    "summary": "Virginia Tech scientists have discovered how to transform one of the world's hardest-to-recycle plastics into a valuable ingredient for high-performance engine oil. Their innovative process converts discarded PVC into a useful lubricant material in just three hours. The breakthrough could turn a ...",
+    "pubDate": "Fri, 27 Nov 2026 04:52:24 EST",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "MoD has no email addresses for about half of its reservists",
     "link": "https://www.bbc.co.uk/news/articles/c9vg23m2zzkko?at_medium=RSS&at_campaign=rss",
     "summary": "There are an estimated 95,000 reservists but the MoD has only been able to send letters to about 50,000 of them.",
@@ -304,12 +1072,52 @@
     "category": "general"
   },
   {
+    "title": "Morning news brief",
+    "link": "https://www.npr.org/2026/11/27/nx-s1-6047116/morning-news-brief",
+    "summary": "Thanksgiving storm pummels the East Coast, Americans expected to spend record amount on Black Friday, Israeli rival factions consider deals in race to form a new government.",
+    "pubDate": "Fri, 27 Nov 2026 04:47:08 -0500",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "New balloons will fly in the postponed 100th Macy's Thanksgiving Day Parade",
+    "link": "https://www.npr.org/2026/11/27/nx-s1-6043796/new-balloons-will-fly-in-the-postponed-100th-macys-thanksgiving-day-parade",
+    "summary": "Some new balloons are set to fly in the weather-delayed Macy's Thanksgiving Day Parade.",
+    "pubDate": "Fri, 27 Nov 2026 04:45:12 -0500",
+    "source": "NPR",
+    "category": "general"
+  },
+  {
+    "title": "Breathing less oxygen tripled lifespan in mice with a deadly brain disorder",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261125045304.htm",
+    "summary": "Oxygen is essential for life, but too much of it can become dangerously toxic, particularly in people with certain neurological and mitochondrial disorders. Scientists at Gladstone Institutes have discovered that defective proteins can disrupt the ability of mitochondria to consume oxygen, allowi...",
+    "pubDate": "Fri, 27 Nov 2026 04:38:19 EST",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
+    "title": "One type of physical activity is linked to a 20% higher dementia risk",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261125045246.htm",
+    "summary": "A massive study has revealed that exercising for pleasure and performing physical labor at work may have surprisingly different implications for brain health. While recreational exercise was linked to a 24% lower dementia risk, physically demanding work was associated with a 20% higher risk, sugg...",
+    "pubDate": "Fri, 27 Nov 2026 03:45:06 EST",
+    "source": "Science Daily",
+    "category": "science"
+  },
+  {
     "title": "Eagles rally to stun Cowboys coming back from 21 points behind",
     "link": "https://www.npr.org/2026/11/27/nx-s1-6055519/eagles-stun-cowboys",
     "summary": "Eagles QB Joe Milton threw two long touchdowns against the quarterback's former team, the Dallas Cowboys, for the the start of quite a comeback, after being down 31-10 early in the third quarter.",
     "pubDate": "Fri, 27 Nov 2026 03:23:12 -0500",
     "source": "NPR",
     "category": "general"
+  },
+  {
+    "title": "Tiny Hat: a new Linux distro dedicated to retro gamedev",
+    "link": "https://roboticoverlords.org/tinyhat",
+    "summary": "Tiny Hat uses only around 100MB of RAM after booting, and can be booted from a &gt;= 1GB memory stick. It comes with a few small games, an easy way to install and run more games and several example programs for getting into retro game development. It also uses a modern stack of libraries, with dw...",
+    "pubDate": "Fri, 27 Nov 2026 03:11:13 -0600",
+    "source": "Lobsters",
+    "category": "tech"
   },
   {
     "title": "Pimalaya goes stable",
@@ -384,10 +1192,170 @@
     "category": "general"
   },
   {
+    "title": "The absolute best Black Friday deals we’ve found (so far)",
+    "link": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+    "summary": "This year’s Black Friday deals have launched in waves over the past several weeks, but now the floodgates have officially opened. You can now take advantage of the lowest prices we’ve seen in-store and online for video games, wireless earbuds, TVs, e-readers, robot vacuums, and so much more. We c...",
+    "pubDate": "2026-11-27T16:09:43-05:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "My favorite MPC beat maker is ready for your vibe-coded firmware and effects",
+    "link": "https://www.theverge.com/gadgets/1044485/mpc-sample-firmware-sdk",
+    "summary": "Akai is continuing to open up its various music-making platforms with the MPC Sample 1.4 firmware. My favorite (and the most affordable) of the MPC samplers has become a popular home for vibe-coded custom firmwares and mods. The company has decided, rather than fight it, to embrace the modding co...",
+    "pubDate": "2026-11-27T15:48:04-05:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Nothing’s ANC-equipped earbuds are on sale for less than $20 for Black Friday",
+    "link": "https://www.theverge.com/gadgets/1041717/nothing-cmf-buds-2a-earbuds-black-friday-2026-deal-sale",
+    "summary": "If our sub-$30 Black Friday roundup has you hungry for more great gadgets at low prices, you can currently grab the Nothing CMF Buds 2A in black starting at $17.89 on Amazon for Black Friday, which is about $11 less than the MSRP and the lowest price we’ve seen. The wireless earbuds are discounte...",
+    "pubDate": "2026-11-27T15:30:00-05:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Apple’s latest AirTags have dropped to just $18 a pop for Black Friday",
+    "link": "https://www.theverge.com/gadgets/1042841/apple-airtag-2-black-friday-deal-2026-sale",
+    "summary": "If you’re tired of constantly scrounging around for your lost belongings, Apple’s second-gen AirTags are on sale for an all-time low of $18 at Amazon, Walmart, and Best Buy. The handy location trackers have a list price of $29 each, but have been consistently available for around $24 since Amazon...",
+    "pubDate": "2026-11-27T15:30:00-05:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "You might lose your Oura health data if you’re still using an old Android phone",
+    "link": "https://www.theverge.com/gadgets/1044314/oura-ring-health-data-android-11",
+    "summary": "Oura will be dropping support for Android 11 on December 8th, 2026, and users may not have access to all of their data if they don't upgrade to Android 12 or higher before the deadline. The support page now reads: Oura will drop support for Android 11 on December 8, 2026. If you are using [&#8230;]",
+    "pubDate": "2026-11-27T14:44:19-05:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "The best Black Friday deals on smart home gear",
+    "link": "https://www.theverge.com/gadgets/1043912/best-smart-home-deals-black-friday",
+    "summary": "I’ve spent my post-turkey haze powering through reams of deals on smart home gadgets to find the best discounts on some of my favorite products. Smart home is often one of the best categories to shop around Black Friday, as it’s traditionally when robot vacuums, video doorbells, smart locks, and ...",
+    "pubDate": "2026-11-27T14:30:00-05:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Anker’s 100W universal travel charger is down to $60, its lowest price yet",
+    "link": "https://www.theverge.com/gadgets/1041006/anker-100w-universal-travel-charger-black-friday-deal-sale",
+    "summary": "During Black Friday, the Anker 100W Universal Charger is on sale for $59.99 at Amazon, Best Buy, and Walmart, a $20 discount from its list price. That’s a few dollars lower than the previous best, with both the dark gray and silver versions available from all three retailers. With four USB ports ...",
+    "pubDate": "2026-11-27T13:30:00-05:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "Here are the best Black Friday deals you can grab for $30 or less",
+    "link": "https://www.theverge.com/gadgets/1039645/black-friday-best-cheap-tech-deals-under-30-2026",
+    "summary": "What can you get for $30 these days? When it comes to tech, you might be surprised. Even as gadgets get more expensive, $30 can still go a long way, especially on Black Friday. For just $8, for instance, TP-Link’s Tapo smart plug will let you control the Christmas tree lights from your phone. You...",
+    "pubDate": "2026-11-27T12:30:00-05:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "The best Black Friday deals on AirPods, MacBooks, and other Apple gear",
+    "link": "https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026",
+    "summary": "Black Friday is one of the best times of the year to save some cash on a new pair of AirPods or the latest Apple Watch. After all, the holiday savings can help offset the unfortunate price hikes from earlier this year, when Apple raised the cost of some of its most popular gear. Some [&#8230;]",
+    "pubDate": "2026-11-27T11:30:37-05:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "You can grab a 12-pack of Zepath’s rechargeable AA batteries for just $24",
+    "link": "https://www.theverge.com/gadgets/1043272/zepath-rechargeable-aa-batteries-black-friday-2026-deal-sale",
+    "summary": "If you’re picking up any gifts that require AA batteries, it’s not a bad idea to buy a set you can keep using long after the holidays. Thankfully, you can currently get a 12-pack of Zepath’s rechargeable 3,000mWh AAs on Amazon with a charger for $23.99 ($8 off) for Black Friday, which is a new [&...",
+    "pubDate": "2026-11-27T10:30:00-05:00",
+    "source": "The Verge",
+    "category": "tech"
+  },
+  {
+    "title": "The haunting loveliness of boglands: Books in brief",
+    "link": "https://www.nature.com/articles/d41586-026-03885-4",
+    "summary": "Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03885-4 Andrew Robinson reviews five of the best science picks.",
+    "pubDate": "2026-11-27",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Brain area’s mysterious role in speech decoded at last",
+    "link": "https://www.nature.com/articles/d41586-026-03800-x",
+    "summary": "Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03800-x Wernicke’s area is known for processing spoken words, but brain recordings reveal that it also makes a crucial contribution to a related cognitive task.",
+    "pubDate": "2026-11-27",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Life-saving cancer drug pumped out by a plant",
+    "link": "https://www.nature.com/articles/d41586-026-03801-w",
+    "summary": "Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03801-w In a proof-of-concept study, scientists have coaxed a tobacco-related plant to synthesize the chemotherapy drug paclitaxel.",
+    "pubDate": "2026-11-27",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Audio long read: The world’s most precious brain samples — and what they teach us about being human",
+    "link": "https://www.nature.com/articles/d41586-026-03900-8",
+    "summary": "Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03900-8 Rare neurons taken from living humans are helping researchers test how brain cells behave in their natural environment.",
+    "pubDate": "2026-11-27",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Author Correction: Artificial intelligence-enabled clinical phenotyping of human brown fat",
+    "link": "https://www.nature.com/articles/s41586-026-11411-9",
+    "summary": "Nature, Published online: 27 November 2026; doi:10.1038/s41586-026-11411-9 Author Correction: Artificial intelligence-enabled clinical phenotyping of human brown fat",
+    "pubDate": "2026-11-27",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Want your research cited in patents? Publishing open access increases your chances",
+    "link": "https://www.nature.com/articles/d41586-026-03754-0",
+    "summary": "Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03754-0 Studies are more likely to be cited in patents if they are freely available — legitimately or otherwise — researchers have found.",
+    "pubDate": "2026-11-27",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Postcards from your graves",
+    "link": "https://www.nature.com/articles/d41586-026-03523-z",
+    "summary": "Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03523-z A disastrous outcome.",
+    "pubDate": "2026-11-27",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Why the incoming US Congress should ban the development of self-improving AI",
+    "link": "https://www.nature.com/articles/d41586-026-03849-8",
+    "summary": "Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03849-8 Voters are demanding greater control over this new technology. Political leaders must respond by keeping humans in charge of AI development.",
+    "pubDate": "2026-11-27",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Daily briefing: A guide to the Riemann hypothesis",
+    "link": "https://www.nature.com/articles/d41586-026-03894-3",
+    "summary": "Nature, Published online: 26 November 2026; doi:10.1038/d41586-026-03894-3 Get to grips with the famed conjecture, and hear mathematicians’ reactions to its proofs. Plus, the benefits of eating with other people.",
+    "pubDate": "2026-11-26",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
     "title": "Chromosome ‘glue’ could boost fertility by stabilizing ageing eggs",
     "link": "https://www.nature.com/articles/d41586-026-03874-7",
     "summary": "Nature, Published online: 26 November 2026; doi:10.1038/d41586-026-03874-7 A system tested in mice mimics a protein that declines with age and could help to improve fertility treatments in future.",
     "pubDate": "2026-11-26",
+    "source": "Nature",
+    "category": "science"
+  },
+  {
+    "title": "Daily briefing: A powerful HIV vaccine is finally within reach",
+    "link": "https://www.nature.com/articles/d41586-026-03879-2",
+    "summary": "Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03879-2 The world has a golden chance to improve HIV prevention — if we don’t squander it. Plus, how pregnancy changes the brain and general-purpose chatbots are getting better at science.",
+    "pubDate": "2026-11-25",
     "source": "Nature",
     "category": "science"
   }
